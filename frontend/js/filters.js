@@ -10,7 +10,14 @@ const Filters = (() => {
     const dateFrom = document.getElementById('filter-date-from');
     const dateTo = document.getElementById('filter-date-to');
 
-    if (stateSelect) stateSelect.addEventListener('change', apply);
+    if (stateSelect) stateSelect.addEventListener('change', () => {
+      const val = stateSelect.value;
+      if (typeof MapView !== 'undefined') {
+        if (val) MapView.setSelection(val);
+        else MapView.clearSelection();
+      }
+      apply();
+    });
     if (sortSelect) sortSelect.addEventListener('change', apply);
     if (resetBtn) resetBtn.addEventListener('click', reset);
     if (dateFrom) dateFrom.addEventListener('change', apply);
@@ -132,6 +139,11 @@ const Filters = (() => {
     const sortSelect = document.getElementById('sort-select');
     if (sortSelect) sortSelect.value = 'date-desc';
 
+    // Clear map selection
+    if (typeof MapView !== 'undefined') {
+      MapView.clearSelection();
+    }
+
     apply();
   }
 
@@ -139,6 +151,10 @@ const Filters = (() => {
     const stateSelect = document.getElementById('filter-state');
     if (stateSelect) {
       stateSelect.value = state;
+      if (typeof MapView !== 'undefined') {
+        if (state) MapView.setSelection(state);
+        else MapView.clearSelection();
+      }
       apply();
     }
   }
