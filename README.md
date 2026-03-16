@@ -58,9 +58,42 @@ The scraper outputs JSON files to `frontend/data/`.
 
 ### GitHub Actions (Automated Daily Scraping)
 
-1. Add your LegiScan API key as a repository secret named `LEGISCAN_API_KEY`
-2. The workflow runs daily at 6:00 AM UTC and on manual trigger
-3. Updated data is automatically committed to the repository
+1. Create `.github/workflows/scrape.yml` in your repo with this content:
+
+```yaml
+name: Daily Legislation Scrape
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r scraper/requirements.txt
+      - run: python scraper/scraper.py
+        working-directory: scraper
+        env:
+          LEGISCAN_API_KEY: ${{ secrets.LEGISCAN_API_KEY }}
+      - name: Commit updated data
+        run: |
+          git diff --quiet frontend/data/ || {
+            git config user.name "GitHub Actions Bot"
+            git config user.email "actions@github.com"
+            git add frontend/data/
+            git commit -m "Update legislation data $(date -u +%Y-%m-%d)"
+            git push
+          }
+```
+
+2. Add your LegiScan API key as a repository secret named `LEGISCAN_API_KEY`
+3. The workflow runs daily at 6:00 AM UTC and on manual trigger
 
 ## Data Format
 
