@@ -30,6 +30,14 @@ jobs:
         working-directory: scraper
         run: python scraper.py
 
+      - name: Upload data as artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: legislation-data-${{ github.run_id }}
+          path: frontend/data/
+          retention-days: 30
+
       - name: Check for changes
         id: changes
         run: |
