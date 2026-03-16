@@ -79,10 +79,11 @@ class LegiScanClient:
         search_result = data.get("searchresult", {})
 
         summary = search_result.get("summary", {})
-        results = {}
-        for key, val in search_result.items():
-            if key not in ("summary", "status"):
-                results[key] = val
+        results = search_result.get("results", [])
+
+        # Handle both list format (current API) and dict format (legacy)
+        if isinstance(results, dict):
+            results = list(results.values())
 
         return {"summary": summary, "results": results}
 

@@ -18,17 +18,17 @@ METADATA_JSON = os.path.join(DATA_DIR, "metadata.json")
 # Search keywords for finding anti-trans bills
 SEARCH_KEYWORDS = [
     "transgender",
-    "gender identity",
-    "gender transition",
-    "biological sex",
-    "gender affirming care",
-    "sex change",
-    "gender dysphoria",
-    "sex assigned at birth",
-    "cross-sex hormones",
-    "puberty blockers",
-    "gender reassignment",
-    "change of sex",
+    '"gender identity"',
+    '"gender transition"',
+    '"biological sex"',
+    '"gender affirming care"',
+    '"sex change"',
+    '"gender dysphoria"',
+    '"sex assigned at birth"',
+    '"cross-sex hormones"',
+    '"puberty blockers"',
+    '"gender reassignment"',
+    '"change of sex"',
 ]
 
 # Bill categories with their keyword patterns (matched against title + summary)
@@ -186,3 +186,6 @@ API_DELAY = 0.5
 
 # Maximum number of search result pages to fetch per keyword
 MAX_SEARCH_PAGES = 10
+
+# Minimum relevance score (0-100) for search results to be included
+MIN_RELEVANCE = 50

@@ -6,12 +6,13 @@ Searches LegiScan for anti-trans bills, categorizes them, and outputs
 JSON data files for the static frontend.
 """
 
+import argparse
 import json
 import os
 import sys
 import time
 from collections import defaultdict
-from datetime import datetime
+from datetime import datetime, timezone
 
 from config import (
     SEARCH_KEYWORDS,
@@ -24,6 +25,7 @@ from config import (
     STATUS_SIMPLIFIED,
     STATE_NAMES,
     MAX_SEARCH_PAGES,
+    MIN_RELEVANCE,
     LEGISCAN_API_KEY,
 )
 from legiscan_client import LegiScanClient, LegiScanError
@@ -55,7 +57,12 @@ def search_all_keywords(client):
                 if not results:
                     break
 
-                for key, bill_info in results.items():
+                for bill_info in results:
+                    if not isinstance(bill_info, dict):
+                        continue
+                    relevance = bill_info.get("relevance", 0)
+                    if relevance < MIN_RELEVANCE:
+                        continue
                     bill_id = bill_info.get("bill_id")
                     if bill_id and bill_id not in found_bills:
                         found_bills[bill_id] = bill_info
@@ -233,7 +240,7 @@ def generate_metadata(bills, state_data):
         level_counts[bill["level"]] += 1
 
     return {
-        "last_updated": datetime.utcnow().isoformat() + "Z",
+        "last_updated": datetime.now(timezone.utc).isoformat(),
         "total_bills": len(bills),
         "total_states": len(state_data),
         "by_category": dict(category_counts),
@@ -270,13 +277,18 @@ def save_data(all_summaries, all_details, state_data, metadata):
 
 
 def main():
+    parser = argparse.ArgumentParser(description="Anti-Trans Legislation Tracker Scraper")
+    parser.add_argument("--limit", type=int, default=0,
+                        help="Limit the number of bills to fetch details for (0 = no limit)")
+    args = parser.parse_args()
+
     if not LEGISCAN_API_KEY:
         print("Error: LEGISCAN_API_KEY not set. Copy .env.example to .env and add your key.")
         sys.exit(1)
 
     print("=" * 60)
     print("Anti-Trans Legislation Tracker — Scraper")
-    print(f"Started at {datetime.utcnow().isoformat()}Z")
+    print(f"Started at {datetime.now(timezone.utc).isoformat()}")
     print("=" * 60)
 
     client = LegiScanClient()
@@ -287,6 +299,10 @@ def main():
     print("\n--- Searching for bills ---")
     found = search_all_keywords(client)
     print(f"\nFound {len(found)} unique bills across all keywords")
+
+    if args.limit > 0:
+        found = dict(list(found.items())[:args.limit])
+        print(f"Limiting to {args.limit} bills for testing")
 
     # Fetch details for each bill
     print("\n--- Fetching bill details ---")
@@ -315,7 +331,7 @@ def main():
     save_data(all_summaries, all_details, state_data, metadata)
 
     print(f"\nDone! Processed {len(all_summaries)} bills across {len(state_data)} states.")
-    print(f"Finished at {datetime.utcnow().isoformat()}Z")
+    print(f"Finished at {datetime.now(timezone.utc).isoformat()}")
 
 
 if __name__ == "__main__":
