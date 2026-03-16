@@ -1,0 +1,59 @@
+{
+  "id": 2002200,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H1252",
+  "title": "Relative to gender identity in insurance",
+  "summary": "Relative to gender identity in insurance. Financial Services.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H1252/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H1252/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H1252",
+  "sponsors": [
+    "Jay Livingstone (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Financial Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Hearing scheduled for 05/13/2025 from 10:00 AM-01:00 PM in A-2",
+      "chamber": "J"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H1252.pdf",
+      "doc_id": 3168235
+    }
+  ],
+  "committee": {
+    "committee_id": 762,
+    "chamber": "J",
+    "chamber_id": 103,
+    "name": "Financial Services"
+  },
+  "subjects": []
+}

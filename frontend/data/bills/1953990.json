@@ -1,0 +1,65 @@
+{
+  "id": 1953990,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB1516",
+  "title": "ID CARD-VICTIM WAIVER",
+  "summary": "Amends the Illinois Identification Card Act. Provides that the Secretary of State shall not collect a fee for a standard Illinois Identification Card issued to a transgender person, or the immediate family of that person, moving to Illinois due to an act of persecution. Effective immediately.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "identity_documents"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB1516/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB1516/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1516&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "Mike Simmons (D) [Sen]",
+    "Willie Preston (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-04",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-04",
+      "action": "Filed with Secretary by Sen. Mike Simmons",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-04",
+      "action": "Added as Co-Sponsor Sen. Willie Preston",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-04",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=199939&DocName=10400SB1516&DocNum=1516&DocTypeID=SB&LegID=160152&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3098354
+    }
+  ],
+  "committee": {
+    "committee_id": 254,
+    "chamber": "S",
+    "chamber_id": 36,
+    "name": "Assignments"
+  },
+  "subjects": []
+}

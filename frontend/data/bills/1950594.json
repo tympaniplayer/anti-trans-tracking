@@ -1,0 +1,106 @@
+{
+  "id": 1950594,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S04067",
+  "title": "Codifies the disparate impact standard in the human rights law; provides that in cases of alleged housing discrimination, an unlawful discriminatory practice may be established by a practice's discriminatory effect.",
+  "summary": "Codifies the disparate impact standard in the human rights law; provides that in cases of alleged housing discrimination, an unlawful discriminatory practice may be established by a practice's discriminatory effect.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S04067/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S04067/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S4067",
+  "sponsors": [
+    "Brian Kavanagh (D) [Sen]",
+    "Zellnor Myrie (D) [Sen]",
+    "Cordell Cleare (D) [Sen]",
+    "Jamaal Bailey (D) [Sen]",
+    "April Baskin (D) [Sen]",
+    "Jabari Brisport (D) [Sen]",
+    "Samra Brouk (D) [Sen]",
+    "Leroy Comrie (D) [Sen]",
+    "Jeremy Cooney (D) [Sen]",
+    "Patricia Fahy (D) [Sen]",
+    "Nathalia Fernandez (D) [Sen]",
+    "Michael Gianaris (D) [Sen]",
+    "Kristen Gonzalez (D) [Sen]",
+    "Andrew Gounardes (D) [Sen]",
+    "Peter Harckham (D) [Sen]",
+    "Michelle Hinchey (D) [Sen]",
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Liz Krueger (D) [Sen]",
+    "John Liu (D) [Sen]",
+    "Rachel May (D) [Sen]",
+    "Shelley Mayer (D) [Sen]",
+    "Jessica Ramos (D) [Sen]",
+    "Gustavo Rivera (D) [Sen]",
+    "Julia Salazar (D) [Sen]",
+    "James Sanders (D) [Sen]",
+    "Luis Sepulveda (D) [Sen]",
+    "Lea Webb (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-31",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-31",
+      "action": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "AMEND AND RECOMMIT TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "PRINT NUMBER 4067A",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "1ST REPORT CAL.1439",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "ADVANCED TO THIRD READING",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-11",
+      "action": "SUBSTITUTED BY A4040A",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-31",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S04067&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S04067",
+      "doc_id": 3093894
+    },
+    {
+      "date": "2025-01-31",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S04067&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S04067A",
+      "doc_id": 3138917
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

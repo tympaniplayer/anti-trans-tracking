@@ -1,0 +1,98 @@
+{
+  "id": 2093079,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB2871",
+  "title": "Relating To Discrimination.",
+  "summary": "Prohibits discrimination based on the perception that a person possesses certain characteristics, the perception that a person is associated with a person who possesses, or is perceived to possess, certain characteristics, or the intersection or combination of two or more specified characteristics in relation to a person. (SD1)",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB2871/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB2871/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2871&year=2026",
+  "sponsors": [
+    "Chris Lee (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "Referred to JDC, WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "The committee(s) on JDC has scheduled a public hearing on 02-10-26 9:15AM; Conference Room 016 &amp; Videoconference.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "The committee(s) on JDC recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in JDC were as follows: 5 Aye(s): Senator(s) Rhoads, Gabbard, Chang, San Buenaventura, Awa; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Reported from JDC (Stand. Com. Rep. No. 2287) with recommendation of passage on Second Reading, as amended (SD 1) and referral to WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to WAM.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-10",
+      "description": "Senate Judiciary: Passed, With Amendments",
+      "yea": 5,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-23",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB2871_.HTM",
+      "doc_id": 3331710
+    },
+    {
+      "date": "2026-02-13",
+      "type": "Amended",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB2871_SD1_.HTM",
+      "doc_id": 3363020
+    }
+  ],
+  "committee": {
+    "committee_id": 2065,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Ways and Means"
+  },
+  "subjects": [
+    "Anti-discrimination",
+    "Prohibitions",
+    "Certain Characteristics",
+    "Intersectionality"
+  ]
+}

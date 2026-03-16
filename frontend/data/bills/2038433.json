@@ -1,0 +1,64 @@
+{
+  "id": 2038433,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB2180",
+  "title": "Global Respect Act of 2025",
+  "summary": "A bill to impose sanctions with respect to foreign persons responsible for violations of the human rights of lesbian, gay, bisexual, transgender, queer, and intersex (LGBTQI) individuals, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB2180/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB2180/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2180/all-info",
+  "sponsors": [
+    "Jeanne Shaheen (D) [Sen]",
+    "Lisa Murkowski (R) [Sen]",
+    "Christopher Murphy (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Brian Schatz (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Jacky Rosen (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Ben Lujan (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-26",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-26",
+      "action": "Read twice and referred to the Committee on Foreign Relations.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-15",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s2180/BILLS-119s2180is.pdf",
+      "doc_id": 3261763
+    }
+  ],
+  "committee": {
+    "committee_id": 2327,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Foreign Relations"
+  },
+  "subjects": [
+    "International affairs"
+  ]
+}

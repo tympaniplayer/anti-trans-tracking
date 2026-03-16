@@ -1,0 +1,65 @@
+{
+  "id": 2002836,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H2193",
+  "title": "To ensure efficient and effective implementation of the Roadmap for Behavioral Health Reform",
+  "summary": "Relative to the implementation of behavioral health reform. Mental Health, Substance Use and Recovery.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H2193/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H2193/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H2193",
+  "sponsors": [
+    "Christine Barber (D) [Rep]",
+    "David Rogers (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Mental Health, Substance Use and Recovery",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-31",
+      "action": "Hearing scheduled for 11/10/2025 from 01:00 PM-05:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Reported favorably by committee and referred to the Joint Committee on Health Care Financing",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H2193.pdf",
+      "doc_id": 3168901
+    }
+  ],
+  "committee": {
+    "committee_id": 763,
+    "chamber": "J",
+    "chamber_id": 103,
+    "name": "Health Care Financing"
+  },
+  "subjects": []
+}

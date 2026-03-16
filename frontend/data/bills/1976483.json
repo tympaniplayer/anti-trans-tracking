@@ -1,0 +1,236 @@
+{
+  "id": 1976483,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB896",
+  "title": "Foster care: placement transition planning.",
+  "summary": "An act to amend Sections 16001.9, 16010.7, and 16519.5 of, and to add Section 16010.11 to, the Welfare and Institutions Code, relating to child welfare services.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB896/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB896/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB896",
+  "sponsors": [
+    "Sade Elhawary (D) [Rep]",
+    "Robert Rivas (D) [Rep]"
+  ],
+  "introduced_date": "2025-10-10",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-19",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "From printer. May be heard in committee March 22.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Referred to Com. on HUM. S.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on HUM. S. Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Re-referred to Com. on HUM. S.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 7. Noes 0.) (April 29). Re-referred to Com. on APPR.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "From committee: Do pass. To Consent Calendar. (Ayes 15. Noes 0.) (May 7).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Read second time. Ordered to Consent Calendar.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Read third time. Passed. Ordered to the Senate. (Ayes 69. Noes 0. Page 1569.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Referred to Com. on HUMAN S.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-17",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 5. Noes 0.) (June 16). Re-referred to Com. on APPR.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "In committee: Referred to APPR. suspense file.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-29",
+      "action": "From committee: Amend, and do pass as amended. (Ayes 7. Noes 0.) (August 29).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-29",
+      "action": "Read second time and amended. Ordered returned to second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-02",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-09",
+      "action": "Ordered to special consent calendar.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-11",
+      "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 40. Noes 0. Page 2931.).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-12",
+      "action": "In Assembly. Concurrence in Senate amendments pending.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-12",
+      "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 79. Noes 0. Page 3381.).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-24",
+      "action": "Enrolled and presented to the Governor at 3 p.m.",
+      "chamber": ""
+    },
+    {
+      "date": "2025-10-10",
+      "action": "Approved by the Governor.",
+      "chamber": ""
+    },
+    {
+      "date": "2025-10-10",
+      "action": "Chaptered by Secretary of State - Chapter 564, Statutes of 2025.",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-29",
+      "description": "Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-07",
+      "description": "Do pass. To Consent Calendar",
+      "yea": 15,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-15",
+      "description": "AB 896 Elhawary Consent Calendar Second Day Regular Session",
+      "yea": 69,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-16",
+      "description": "Do pass, but first be re-referred to the Committee on [Appropriations] with the recommendation: To Consent Calendar",
+      "yea": 5,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-30",
+      "description": "Placed on suspense file",
+      "yea": 6,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-08-29",
+      "description": "Do pass as amended",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-11",
+      "description": "Special Consent AB896 Elhawary et al. By Ashby",
+      "yea": 40,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-12",
+      "description": "AB 896 Elhawary Concurrence in Senate Amendments",
+      "yea": 79,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-19",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB896#99INT",
+      "doc_id": 3131913
+    },
+    {
+      "date": "2025-03-17",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB896#98AMD",
+      "doc_id": 3178741
+    },
+    {
+      "date": "2025-08-29",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB896#97AMD",
+      "doc_id": 3266832
+    },
+    {
+      "date": "2025-09-16",
+      "type": "Enrolled",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB896#96ENR",
+      "doc_id": 3269753
+    },
+    {
+      "date": "2025-10-10",
+      "type": "Chaptered",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB896#95CHP",
+      "doc_id": 3272875
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,155 @@
+{
+  "id": 2032717,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A08492",
+  "title": "Requires the commissioner of the division of criminal justice services, the superintendent of the division of state police, and the commissioner of the department of corrections and community supervision and the person in charge of every state law enforcement agency to adopt and implement a tattoo policy for all members of such law enforcement agency who are designated as police officers, peace officers and applicants for employment in such positions.",
+  "summary": "Requires the commissioner of the division of criminal justice services, the superintendent of the division of state police, and the commissioner of the department of corrections and community supervision and the person in charge of every state law enforcement agency to adopt and implement a tattoo policy for all members of such law enforcement agency who are designated as police officers, peace officers and applicants for employment in such positions.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A08492/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A08492/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A8492",
+  "sponsors": [
+    "David Weprin (D) [Rep]",
+    "Phillip Steck (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-09",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-20",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "amend and recommit to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "print number 8492a",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-06",
+      "action": "amend (t) and recommit to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-06",
+      "action": "print number 8492b",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "reported referred to rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "amend and recommit to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "print number 8492c",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "reported",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "advanced to third reading cal.248",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "passed assembly",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "delivered to senate",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-09",
+      "description": "Assembly Codes Committee: Favorable refer to committee Rules",
+      "yea": 18,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-04",
+      "description": "Assembly Codes Committee: Favorable",
+      "yea": 22,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-09",
+      "description": "Assembly Floor Vote - Final Passage",
+      "yea": 138,
+      "nay": 2,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-05-20",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08492&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08492",
+      "doc_id": 3240979
+    },
+    {
+      "date": "2025-05-20",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08492&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08492A",
+      "doc_id": 3243998
+    },
+    {
+      "date": "2025-05-20",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08492&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08492B",
+      "doc_id": 3252883
+    },
+    {
+      "date": "2025-05-20",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08492&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08492C",
+      "doc_id": 3343067
+    }
+  ],
+  "committee": {
+    "committee_id": 417,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Codes"
+  },
+  "subjects": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": 2031993,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3417",
+  "title": "Websites and Software Applications Accessibility Act of 2025",
+  "summary": "To establish uniform accessibility standards for websites and applications of employers, employment agencies, labor organizations, joint labor-management committees, public entities, public accommodations, testing entities, and commercial providers, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3417/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3417/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3417/all-info",
+  "sponsors": [
+    "Pete Sessions (R) [Rep]",
+    "Steny Hoyer (D) [Rep]",
+    "Darren Soto (D) [Rep]",
+    "Randy Weber (R) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Greg Landsman (D) [Rep]",
+    "Burgess Owens (R) [Rep]",
+    "Joseph Morelle (D) [Rep]",
+    "Eugene Vindman (D) [Rep]",
+    "Randy Fine (R) [Rep]"
+  ],
+  "introduced_date": "2025-05-14",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-05-14",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Referred to the Committee on Education and Workforce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-28",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3417/BILLS-119hr3417ih.pdf",
+      "doc_id": 3246765
+    }
+  ],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1971202,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF1447",
+  "title": "Clean water and parks and trails fund appropriations",
+  "summary": "Clean water and parks and trails fund appropriations",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF1447/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF1447/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1447/",
+  "sponsors": [
+    "John Hoffman (D) [Sen]",
+    "Foung Hawj (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-17",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-02-17",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-17",
+      "action": "Referred to State and Local Government",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Withdrawn and re-referred to Environment, Climate, and Legacy",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-13",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1447/versions/0/pdf/",
+      "doc_id": 3121510
+    }
+  ],
+  "committee": {
+    "committee_id": 4660,
+    "chamber": "S",
+    "chamber_id": 56,
+    "name": "Environment, Climate, and Legacy"
+  },
+  "subjects": []
+}

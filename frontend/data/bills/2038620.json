@@ -1,0 +1,504 @@
+{
+  "id": 2038620,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4240",
+  "title": "Making appropriations for the fiscal year 2026 for the maintenance of the departments, boards, commissions, institutions and certain activities of the Commonwealth, for interest, sinking fund and serial bond requirements, and for certain permanent improvements",
+  "summary": "Making appropriations for the fiscal year 2026 for the maintenance of the departments, boards, commissions, institutions and certain activities of the Commonwealth, for interest, sinking fund and serial bond requirements, and for certain permanent improvements",
+  "status": "vetoed",
+  "status_label": "Vetoed",
+  "status_code": 5,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4240/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4240/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4240",
+  "sponsors": [],
+  "introduced_date": "2025-07-04",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-06-30",
+      "action": "Reported from the committee of conference",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Reported on a part of H4001",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Referred to the committee on House Steering, Policy and Scheduling",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Committee reported that the matter be placed in the Orders of the Day for the next sitting, the question being on acceptance",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Committee of conference report accepted - 139 YEAS to 6 NAYS (See YEA and NAY No. 61 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Committee of conference report accepted, in concurrence -see  Roll Call #58 (Yeas 38 to Nays 2)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Emergency preamble adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Emergency preamble adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Enacted - 139 YEAS to 6 NAYS (See YEA and NAY No. 62 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Enacted and laid before the Governor",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-04",
+      "action": "Signed (in part) by the Governor, Chapter 9 of the Acts of 2025",
+      "chamber": ""
+    },
+    {
+      "date": "2025-07-04",
+      "action": "Governor returned to the House with vetoes and amendments to certain sections",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-10",
+      "action": "For message, see H4250",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-10",
+      "action": "For actions on the section returned with recommendations of amendments, see H4248 for sections 20, 23 and 110",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-10",
+      "action": "For actions on the section returned with recommendations of amendments, see H4249 for section 29",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "The following items and sections severally reported from committee on House Ways and Means recommending, in each instance, that the action of the General Court stand; and the items and sections severally were referred to the committee on House Steering, Policy and Scheduling",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Committee reported, in each instance, that the matter be scheduled for consideration; and Rule 7A suspended, in each instance",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Item 0330-0300 passed over veto - 132 YEAS to 23 NAYS (See YEA and NAY No. 74 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "Item 0330-0300 passed over veto -see  Roll Call #75 (Yeas 35 to Nays 3)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Item 1231-1000 passed over veto - 143 YEAS to 11 NAYS (See YEA and NAY No. 75 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "Item 1231-1000 passed over veto -see  Roll Call #76 (Yeas 38 to Nays 0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Item 2810-0100 passed over veto - 151 YEAS to 3 NAYS (See YEA and NAY No. 76 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "Item 2810-0100 passed over veto -see  Roll Call #77 (Yeas 37 to Nays 1)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Item 4000-0051 passed over veto - 133 YEAS to 22 NAYS (See YEA and NAY No. 77 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "Item 4000-0051 passed over veto -see  Roll Call #78 (Yeas 35 to Nays 3)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Item 4000-0641 passed over veto - 155 YEAS to 0 NAYS (See YEA and NAY No. 78 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "Item 4000-0641 passed over veto -see  Roll Call #79 (Yeas 38 to Nays 0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Item 7004-0109 passed over veto - 131 YEAS to 24 NAYS (See YEA and NAY No. 84 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "Item 7004-0109 passed over veto -see  Roll Call #85 (Yeas 33 to Nays 5)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Item 4110-1000 passed over veto - 155 YEAS to 0 NAYS (See YEA and NAY No. 79 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "Item 4110-1000 passed over veto -see  Roll Call #80 (Yeas 38 to Nays 0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Item 7002-1091 passed over veto - 142 YEAS to 13 NAYS (See YEA and NAY No. 82 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "Item 7002-1091 passed over veto -see  Roll Call #83 (Yeas 37 to Nays 1)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Item 4512-0200 passed over veto - 147 YEAS to 8 NAYS (See YEA and NAY No. 80 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "Item 4512-0200 passed over veto -see  Roll Call #81 (Yeas 38 to Nays 0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Item 7007-0150 passed over veto - 153 YEAS to 2 NAYS (See YEA and NAY No. 86 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "Item 7007-0150 passed over veto -see  Roll Call #87 (Yeas 38 to Nays 0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Item 4513-1020 passed over veto - 139 YEAS to 16 NAYS (See YEA and NAY No. 81 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "Item 4513-1020 passed over veto -see  Roll Call #82 (Yeas 38 to Nays 0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Item 7003-0606 passed over veto - 141 YEAS to 14 NAYS (See YEA and NAY No. 83 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "Item 7003-0606 passed over veto -see  Roll Call #84 (Yeas 36 to Nays 2)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Item 7004-3036 passed over veto - 131 YEAS to 24 NAYS (See YEA and NAY No. 85 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "Item 7004-3036 passed over veto -see  Roll Call #86 (Yeas 34 to Nays 4)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Item 7061-9010 passed over veto - 155 YEAS to 0 NAYS (See YEA and NAY No. 87 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "Item 7061-9010 passed over veto -see  Roll Call #88 (Yeas 38 to Nays 0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Item 7077-0023 passed over veto - 148 YEAS to 7 NAYS (See YEA and NAY No. 88 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "Item 7077-0023 passed over veto -see  Roll Call #89 (Yeas 38 to Nays 0)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-30",
+      "description": "Senate  Committee of conference report accepted, in concurrence  Roll Call #58",
+      "yea": 38,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-30",
+      "description": "House Committee of conference report accepted - 139 YEAS to 6 NAYS",
+      "yea": 139,
+      "nay": 6,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-30",
+      "description": "House Enacted - 139 YEAS to 6 NAYS",
+      "yea": 139,
+      "nay": 6,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-08",
+      "description": "House  Item 1231-1000 passed over veto - 143 YEAS to 11 NAYS",
+      "yea": 143,
+      "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-08",
+      "description": "House  Item 2810-0100 passed over veto - 151 YEAS to 3 NAYS",
+      "yea": 151,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-08",
+      "description": "House  Item 4000-0051 passed over veto - 133 YEAS to 22 NAYS",
+      "yea": 133,
+      "nay": 22,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-08",
+      "description": "House  Item 4000-0641 passed over veto - 155 YEAS to 0 NAYS",
+      "yea": 155,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-08",
+      "description": "House  Item 4110-1000 passed over veto - 155 YEAS to 0 NAYS",
+      "yea": 155,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-08",
+      "description": "House  Item 4512-0200 passed over veto - 147 YEAS to 8 NAYS",
+      "yea": 147,
+      "nay": 8,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-08",
+      "description": "House  Item 4513-1020 passed over veto - 139 YEAS to 16 NAYS",
+      "yea": 139,
+      "nay": 16,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-08",
+      "description": "House  Item 7002-1091 passed over veto - 142 YEAS to 13 NAYS",
+      "yea": 142,
+      "nay": 13,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-08",
+      "description": "House  Item 7003-0606 passed over veto - 132 YEAS to 14 NAYS",
+      "yea": 141,
+      "nay": 14,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-08",
+      "description": "House  Item 7004-0109 passed over veto - 131 YEAS to 24 NAYS",
+      "yea": 131,
+      "nay": 24,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-08",
+      "description": "House  Item 7004-3036 passed over veto - 131 YEAS to 24 NAYS",
+      "yea": 131,
+      "nay": 24,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-08",
+      "description": "House  Item 7007-0150 passed over veto - 153 YEAS to 2 NAYS",
+      "yea": 153,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-08",
+      "description": "House  Item 7061-9010 passed over veto - 155 YEAS to 0 NAYS",
+      "yea": 155,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-08",
+      "description": "House  Item 7077-0023 passed over veto - 148 YEAS to 7 NAYS",
+      "yea": 148,
+      "nay": 7,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-08",
+      "description": "House  Item 0330-0300 passed over veto - 132 YEAS to 23 NAYS",
+      "yea": 132,
+      "nay": 23,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-23",
+      "description": "Senate  Item 0330-0300 passed over veto  Roll Call #75",
+      "yea": 35,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-23",
+      "description": "Senate  Item 1231-1000 passed over veto  Roll Call #76",
+      "yea": 38,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-23",
+      "description": "Senate  Item 2810-0100 passed over veto  Roll Call #77",
+      "yea": 37,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-23",
+      "description": "Senate  Item 4000-0051 passed over veto  Roll Call #78",
+      "yea": 35,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-23",
+      "description": "Senate  Item 4000-0641 passed over veto  Roll Call #79",
+      "yea": 38,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-23",
+      "description": "Senate  Item 4110-1000 passed over veto  Roll Call #80",
+      "yea": 38,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-23",
+      "description": "Senate  Item 4512-0200 passed over veto  Roll Call #81",
+      "yea": 38,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-23",
+      "description": "Senate  Item 4513-1020 passed over veto  Roll Call #82",
+      "yea": 38,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-23",
+      "description": "Senate  Item 7002-1091 passed over veto  Roll Call #83",
+      "yea": 37,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-23",
+      "description": "Senate  Item 7003-0606 passed over veto  Roll Call #84",
+      "yea": 36,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-23",
+      "description": "Senate  Item 7004-0109 passed over veto  Roll Call #85",
+      "yea": 33,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-23",
+      "description": "Senate  Item 7004-3036 passed over veto  Roll Call #86",
+      "yea": 34,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-23",
+      "description": "Senate  Item 7007-0150 passed over veto  Roll Call #87",
+      "yea": 38,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-23",
+      "description": "Senate  Item 7061-9010 passed over veto  Roll Call #88",
+      "yea": 38,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-23",
+      "description": "Senate  Item 7077-0023 passed over veto  Roll Call #89",
+      "yea": 38,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4240.pdf",
+      "doc_id": 3259678
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

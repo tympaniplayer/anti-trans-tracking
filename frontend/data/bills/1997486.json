@@ -1,0 +1,64 @@
+{
+  "id": 1997486,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S2261",
+  "title": "Achieving a green future with infrastructure and workforce investments",
+  "summary": "Relative to achieving a green future with infrastructure and workforce investments. Telecommunications, Utilities and Energy.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S2261/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S2261/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S2261",
+  "sponsors": [
+    "William Driscoll (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Telecommunications, Utilities and Energy",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-03",
+      "action": "Hearing scheduled for 10/16/2025 from 01:00 PM-05:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-16",
+      "action": "Hearing rescheduled to 10/16/2025 from 01:00 PM-01:55 PM in A-1 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-12-04",
+      "action": "Accompanied a study order, see S2774",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S2261.pdf",
+      "doc_id": 3162711
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

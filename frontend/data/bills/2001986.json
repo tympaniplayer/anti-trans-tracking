@@ -1,0 +1,60 @@
+{
+  "id": 2001986,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H2550",
+  "title": "Relative to culturally competent and effective health care",
+  "summary": "Relative to the collection and publishing of physician workforce data concerning race, ethnicity, gender identity and sexual identity. Public Health.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "sports"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H2550/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H2550/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H2550",
+  "sponsors": [
+    "Chynah Tyler (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Public Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Hearing scheduled for 07/10/2025 from 09:00 AM-01:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-20",
+      "action": "Accompanied a new draft, see H4613",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H2550.pdf",
+      "doc_id": 3168016
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

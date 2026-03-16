@@ -1,0 +1,62 @@
+{
+  "id": 2098616,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A3446",
+  "title": "Requires racial and gender diversity in membership to be considered for appointments to certain boards and commissions established by statute.",
+  "summary": "Requires racial and gender diversity in membership to be considered for appointments to certain boards and commissions established by statute.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A3446/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A3446/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A3446",
+  "sponsors": [
+    "Yvonne Lopez (D) [Rep]",
+    "Eliana Marin (D) [Rep]",
+    "Verlina Reynolds-Jackson (D) [Rep]",
+    "Shama Haider (D) [Rep]",
+    "Sterley Stanley (D) [Rep]",
+    "Ellen Park (D) [Rep]",
+    "William Spearman (D) [Rep]",
+    "Linda Carter (D) [Rep]",
+    "Annette Quijano (D) [Rep]",
+    "William Sampson (D) [Rep]",
+    "Shanique Speight (D) [Rep]",
+    "Gabriel Rodriguez (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Community Development and Women's Affairs Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-08",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A3500/3446_I1.HTM",
+      "doc_id": 3337692
+    }
+  ],
+  "committee": {
+    "committee_id": 4932,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Community Development and Womens Affairs Committee"
+  },
+  "subjects": [
+    "Community Development and Women's Affairs"
+  ]
+}

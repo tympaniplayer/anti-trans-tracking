@@ -1,0 +1,98 @@
+{
+  "id": 2102468,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB649",
+  "title": "Advancing Equal Educational Opportunities for All Students in Maryland",
+  "summary": "Authorizing the Commission on Civil Rights to enforce a prohibition against discrimination and retaliation in educational institutions based on race, color, national origin, ethnicity, ancestry, religion, sex, pregnancy, sexual orientation, gender identity, disability, age, or marital status; establishing the powers, duties, and limitations of the authority of the Commission on Civil Rights to enforce the prohibition against educational discrimination; establishing a private right of action; etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB649/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB649/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0649?ys=2026RS",
+  "sponsors": [
+    "Government, Labor, and Elections [Rep]"
+  ],
+  "introduced_date": "2026-01-30",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-30",
+      "action": "First Reading Government, Labor, and Elections",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Hearing 2/24 at 1:00 p.m.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-30",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0649f.pdf",
+      "doc_id": 3342839
+    }
+  ],
+  "committee": {
+    "committee_id": 5240,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Government, Labor, and Elections"
+  },
+  "subjects": [
+    "Human Relations",
+    "Education - Miscellaneous",
+    "Administrative Hearings, Office of",
+    "Age",
+    "Appeals",
+    "Circuit Courts",
+    "Civil Actions",
+    "Civil Rights, Commission on",
+    "Civil Rights and Social Equity",
+    "complaints",
+    "Comptroller",
+    "Contracts",
+    "Court Orders",
+    "Damages",
+    "Disabilities",
+    "Discipline",
+    "Discrimination",
+    "Education, Boards of",
+    "Education",
+    "Education, State Board of",
+    "Education, State Department of",
+    "Ethnic Affairs",
+    "Gender",
+    "Hearings",
+    "Higher Education",
+    "Higher Education Commission",
+    "Individualized Education and 504 Plans",
+    "Investigations and Inquiries",
+    "Jurisdiction",
+    "Marriage",
+    "Mediation",
+    "Notices",
+    "Parents and Guardians",
+    "Pregnancy",
+    "Private Schools",
+    "Public Schools",
+    "Racial Matters",
+    "Religion",
+    "Revenue and Taxes",
+    "Rules and Regulations",
+    "Sexual Orientation",
+    "State Universities and Colleges",
+    "Students"
+  ]
+}

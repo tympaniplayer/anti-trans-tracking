@@ -1,0 +1,78 @@
+{
+  "id": 2029713,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "H4536",
+  "title": "Abortion",
+  "summary": "Amend The South Carolina Code Of Laws By Enacting The \"liability For Injuries Caused By Abortion-inducing Drugs Act\" By Adding Article 7 To Chapter 41, Title 44 So As To Impose Liability On Any Person Who Manufactures, Mails, Distributes, Transports, Delivers, Or Provides Abortion-inducing Drugs, Or Who Aids Or Abets The Manufacture, Mailing, Distribution, Transportation, Delivery, Or Provision Of Abortion-inducing Drugs For Certain Damages, With Exceptions; To Define Terms; And For Other Purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/H4536/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/H4536/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4536&session=126&summary=B",
+  "sponsors": [
+    "Melissa Oremus (R) [Rep]",
+    "April Cromer (R) [Rep]",
+    "Lee Gilreath (R) [Rep]",
+    "Jordan Pace (R) [Rep]",
+    "Stephen Frank (R) [Rep]",
+    "Sarita Edgerton (R) [Rep]",
+    "Thomas Beach (R) [Rep]",
+    "James Burns (R) [Rep]",
+    "Joe White (R) [Rep]",
+    "Jay Kilmartin (R) [Rep]",
+    "John Mccravy (R) [Rep]",
+    "Fawn Pedalino (R) [Rep]",
+    "Brian Lawson (R) [Rep]",
+    "Alan Morgan (R) [Rep]",
+    "Steven Long (R) [Rep]",
+    "William Chumley (R) [Rep]",
+    "Patrick Haddon (R) [Rep]",
+    "Doug Gilliam (R) [Rep]",
+    "Luke Rankin (R) [Rep]",
+    "David Vaughan (R) [Rep]",
+    "Donald McCabe (R) [Rep]",
+    "Heather Crawford (R) [Rep]",
+    "Adam Duncan (R) [Rep]",
+    "Mark Willis (R) [Rep]"
+  ],
+  "introduced_date": "2025-05-08",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-08",
+      "action": "Introduced and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-08",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4536_20250508.htm",
+      "doc_id": 3232762
+    }
+  ],
+  "committee": {
+    "committee_id": 708,
+    "chamber": "H",
+    "chamber_id": 85,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

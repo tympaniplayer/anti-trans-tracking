@@ -1,0 +1,104 @@
+{
+  "id": 2014149,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB4289",
+  "title": "Labor: fair employment practices; certain employment discrimination information; require employers to post. Amends sec. 602 of 1976 PA 453 (MCL 37.2602) & adds sec. 202b.",
+  "summary": "Labor: fair employment practices; certain employment discrimination information; require employers to post. Amends sec. 602 of 1976 PA 453 (MCL 37.2602) & adds sec. 202b.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB4289/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB4289/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4289",
+  "sponsors": [
+    "Betsy Coffia (D) [Rep]",
+    "Julie Rogers (D) [Rep]",
+    "Erin Byrnes (D) [Rep]",
+    "Natalie Price (D) [Rep]",
+    "Veronica Paiz (D) [Rep]",
+    "Stephen Wooden (D) [Rep]",
+    "Morgan Foreman (D) [Rep]",
+    "Tonya Myers Phillips (D) [Rep]",
+    "Carrie Rheingans (D) [Rep]",
+    "Emily Dievendorf (D) [Rep]",
+    "Sharon MacDonell (D) [Rep]",
+    "Matt Longjohn (D) [Rep]",
+    "Jason Morgan (D) [Rep]",
+    "Noah Arbit (D) [Rep]",
+    "Julie Brixie (D) [Rep]",
+    "Denise Mentzer (D) [Rep]",
+    "Penelope Tsernoglou (D) [Rep]",
+    "Jason Hoskins (D) [Rep]",
+    "Stephanie Young (D) [Rep]",
+    "Jennifer Conlin (D) [Rep]",
+    "Kara Hope (D) [Rep]",
+    "Tyrone Carter (D) [Rep]",
+    "Donavan McKinney (D) [Rep]",
+    "Kelly Breen (D) [Rep]",
+    "Helena Scott (D) [Rep]",
+    "Kristian Grant (D) [Rep]",
+    "Matt Koleszar (D) [Rep]",
+    "Jasper Martus (D) [Rep]",
+    "John Fitzgerald (D) [Rep]",
+    "Amos O'Neal (D) [Rep]",
+    "Carol Glanville (D) [Rep]",
+    "Brenda Carter (D) [Rep]",
+    "Regina Weiss (D) [Rep]",
+    "Mike McFall (D) [Rep]",
+    "Dylan Wegela (D) [Rep]",
+    "Alabas Farhat (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-25",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-03-25",
+      "action": "Introduced By Representative Rep. Betsy Coffia",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Referred To Committee On Economic Competitiveness",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Bill Electronically Reproduced 03/25/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-25",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4289.htm",
+      "doc_id": 3187806
+    }
+  ],
+  "committee": {
+    "committee_id": 5089,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Economic Competitiveness"
+  },
+  "subjects": [
+    "Labor: fair employment practices",
+    "Labor: hours and wages",
+    "Civil rights: employment discrimination",
+    "State agencies (existing): civil rights"
+  ]
+}

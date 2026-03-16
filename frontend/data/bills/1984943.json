@@ -1,0 +1,67 @@
+{
+  "id": 1984943,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB3411",
+  "title": "Relating to prohibiting a public school teacher from supporting a student's gender transition.",
+  "summary": "Relating to prohibiting a public school teacher from supporting a student's gender transition.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB3411/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB3411/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3411",
+  "sponsors": [
+    "Nate Schatzline (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-26",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-26",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Referred to Public Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-26",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB03411I.htm",
+      "doc_id": 3143064
+    }
+  ],
+  "committee": {
+    "committee_id": 1891,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Public Education"
+  },
+  "subjects": [
+    "Education",
+    "Education--Primary & Secondary",
+    "Education--Primary & Secondary--Other School Personnel",
+    "Education--Primary & Secondary--Teachers",
+    "Minors",
+    "Minors--Health & Safety",
+    "GENDER IDENTITY & EXPRESSION"
+  ]
+}

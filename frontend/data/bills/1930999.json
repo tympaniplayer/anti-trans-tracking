@@ -1,0 +1,76 @@
+{
+  "id": 1930999,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A02613",
+  "title": "Provides additional protections for sensitive health information and requires all health information networks, electronic health record systems, and health care providers to provide patients with a right to restrict the disclosures of such patient's health information; defines terms; provides for exceptions.",
+  "summary": "Provides additional protections for sensitive health information and requires all health information networks, electronic health record systems, and health care providers to provide patients with a right to restrict the disclosures of such patient's health information; defines terms; provides for exceptions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "definitions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A02613/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A02613/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A2613",
+  "sponsors": [
+    "Jennifer Lunsford (D) [Rep]",
+    "Yudelka Tapia (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Emily Gallagher (D) [Rep]",
+    "Micah Lasher (D) [Rep]",
+    "Robert Carroll (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Deborah Glick (D) [Rep]",
+    "Tony Simone (D) [Rep]",
+    "Phillip Steck (D) [Rep]",
+    "Rebecca Kassay (D) [Rep]",
+    "Emerita Torres (D) [Rep]",
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Noah Burroughs (D) [Rep]",
+    "Linda Rosenthal (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Charles Lavine (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "John McDonald (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Harry Bronson (D) [Rep]",
+    "Anna Kelles (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-21",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-21",
+      "action": "referred to health",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to health",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-21",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A02613&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A02613",
+      "doc_id": 3068536
+    }
+  ],
+  "committee": {
+    "committee_id": 369,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Health"
+  },
+  "subjects": []
+}

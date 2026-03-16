@@ -1,0 +1,61 @@
+{
+  "id": 2126849,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "H8105",
+  "title": "Amends the Rhode Island Fair Housing Practices Act to clarify housing-status enforcement, ban discriminatory housing notices, align state law with federal standards and remove a ban on public discussion of fair housing cases.",
+  "summary": "PROPERTY -- RHODE ISLAND FAIR HOUSING PRACTICE ACT - Amends the Rhode Island Fair Housing Practices Act to clarify housing-status enforcement, ban discriminatory housing notices, align state law with federal standards and remove a ban on public discussion of fair housing cases.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/H8105/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/H8105/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Edith Ajello (D) [Rep]",
+    "Scott Slater (D) [Rep]",
+    "Arthur Handy (D) [Rep]",
+    "Brandon Potter (D) [Rep]",
+    "Rebecca Kislak (D) [Rep]",
+    "Cherie Cruz (D) [Rep]",
+    "Grace Diaz (D) [Rep]",
+    "June Speakman (D) [Rep]",
+    "Susan Donovan (D) [Rep]",
+    "Maryann Shallcross-Smith (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-27",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "action": "Introduced, referred to House Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Withdrawn at sponsor's request",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-27",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H8105.pdf",
+      "doc_id": 3379697
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Property",
+    "PROPERTY -- RHODE ISLAND FAIR HOUSING PRACTICE ACT"
+  ]
+}

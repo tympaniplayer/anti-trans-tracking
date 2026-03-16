@@ -1,0 +1,51 @@
+{
+  "id": 2096465,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A3021",
+  "title": "\"Children Innocence Protection Act.\"",
+  "summary": "\"Children Innocence Protection Act.\"",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A3021/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A3021/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A3021",
+  "sponsors": [
+    "Erik Peterson (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Education Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-07",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A3500/3021_I1.HTM",
+      "doc_id": 3335518
+    }
+  ],
+  "committee": {
+    "committee_id": 854,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Education"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

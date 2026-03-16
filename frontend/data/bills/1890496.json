@@ -1,0 +1,145 @@
+{
+  "id": 1890496,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB370",
+  "title": "Relating to eligibility of certain events under the Events Trust Fund",
+  "summary": "Relating to eligibility of certain events under the Events Trust Fund",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB370/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB370/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB370",
+  "sponsors": [
+    "Valoree Swanson (R) [Rep]",
+    "Carrie Isaac (R) [Rep]",
+    "Cody Harris (R) [Rep]",
+    "Carl Tepper (R) [Rep]",
+    "Cecil Bell (R) [Rep]",
+    "Brad Buckley (R) [Rep]",
+    "Briscoe Cain (R) [Rep]",
+    "Pat Curry (R) [Rep]",
+    "Mark Dorazio (R) [Rep]",
+    "Stan Gerdes (R) [Rep]",
+    "Caroline Harris Davila (R) [Rep]",
+    "Richard Hayes (R) [Rep]",
+    "Andy Hopper (R) [Rep]",
+    "Helen Kerwin (R) [Rep]",
+    "Stan Kitzman (R) [Rep]",
+    "Terri Leo-Wilson (R) [Rep]",
+    "Mitch Little (R) [Rep]",
+    "William Metcalf (R) [Rep]",
+    "Brent Money (R) [Rep]",
+    "Mike Olcott (R) [Rep]",
+    "Katrina Pierson (R) [Rep]",
+    "Joanne Shofner (R) [Rep]",
+    "Shelby Slawson (R) [Rep]",
+    "Steve Toth (R) [Rep]",
+    "Cody Vasut (R) [Rep]"
+  ],
+  "introduced_date": "2024-11-12",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-12",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "Referred to Culture, Recreation & Tourism",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Considered in public hearing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Testimony taken/registration(s) recorded in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Left pending in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Considered in formal meeting",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Reported favorably w/o amendment(s)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Comte report filed with Committee Coordinator",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Committee report distributed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Committee report sent to Calendars",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Considered in Calendars",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Placed on General State Calendar",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-11-12",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00370I.htm",
+      "doc_id": 3026318
+    },
+    {
+      "date": "2025-05-10",
+      "type": "Comm Sub",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00370H.htm",
+      "doc_id": 3234193
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Amusements, Games, Sports",
+    "State Finances",
+    "State Finances--Management & Control",
+    "BIRTH & DEATH CERTIFICATES",
+    "GENDER IDENTITY & EXPRESSION"
+  ]
+}

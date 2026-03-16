@@ -1,0 +1,51 @@
+{
+  "id": 2040628,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB4779",
+  "title": "National Security, Department of State, and Related Programs Appropriations Act, 2026",
+  "summary": "Making appropriations for National Security, Department of State, and Related Programs for the fiscal year ending September 30, 2026, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB4779/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB4779/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4779/all-info",
+  "sponsors": [
+    "Mario Diaz-Balart (R) [Rep]"
+  ],
+  "introduced_date": "2025-07-25",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-07-25",
+      "action": "The House Committee on Appropriations reported an original measure, H. Rept. 119-217, by Mr. Diaz-Balart.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-25",
+      "action": "Placed on the Union Calendar, Calendar No. 177.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-25",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr4779/BILLS-119hr4779rh.pdf",
+      "doc_id": 3263118
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "International affairs"
+  ]
+}

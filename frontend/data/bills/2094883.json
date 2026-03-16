@@ -1,0 +1,128 @@
+{
+  "id": 2094883,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "SB2",
+  "title": "AN ACT relating to salaries of school administrators.",
+  "summary": "Amend KRS 157.350 to provide that in order to be eligible to receive support education excellence in Kentucky funds a school district shall not provide the superintendent or any administrator a percentage pay increase greater than the average percentage pay increase provided to classroom teachers within the district; amend KRS 156.070 to conform.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/SB2/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/SB2/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/sb2.html",
+  "sponsors": [
+    "Julie Raque Adams (R) [Sen]",
+    "Donald Douglas (R) [Sen]",
+    "Lindsey Tichenor (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-10",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-27",
+      "action": "introduced in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "to Committee on Committees (S)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "to Education (S)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "reported favorably, 1st reading, to Calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "2nd reading, to Rules",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "posted for passage in the Regular Orders of the Day for Monday, February 09 2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "3rd reading, passed 38-0",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "received in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "to Committee on Committees (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "to Primary and Secondary Education (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "reported favorably, 1st reading, to Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "floor amendments (1) and (2) filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "2nd reading, to Rules",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-09",
+      "description": "Senate: Third Reading RSN# 3806",
+      "yea": 38,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb2/orig_bill.pdf",
+      "doc_id": 3333761
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb2/bill.pdf",
+      "doc_id": 3353290
+    }
+  ],
+  "committee": {
+    "committee_id": 318,
+    "chamber": "H",
+    "chamber_id": 43,
+    "name": "Rules"
+  },
+  "subjects": [
+    "Education, Elementary and Secondary",
+    "Education, Finance"
+  ]
+}

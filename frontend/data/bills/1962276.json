@@ -1,0 +1,298 @@
+{
+  "id": 1962276,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB3487",
+  "title": "BHWC DATA COLLECTION",
+  "summary": "Amends the Department of Professional Regulation Law. Provides that, in conjunction with applications for licensure and renewals (rather than only for licensure), the Division of Professional Regulation of the Department of Financial and Professional Regulation shall request, and applicants may voluntarily provide, demographic information that includes sex, ethnicity, race, disability, primary language spoken, anticipated date of retirement, type of employment, and zip code (rather than only sex, ethnicity, race, and disability).",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB3487/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB3487/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3487&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Nabeela Syed (D) [Rep]",
+    "Lindsey LaPointe (D) [Rep]",
+    "Camille Lilly (D) [Rep]",
+    "Mary Canty (D) [Rep]",
+    "Will Guzzardi (D) [Rep]",
+    "Yolanda Morris (D) [Rep]",
+    "Jawaharial Williams (D) [Rep]",
+    "Suzanne Ness (D) [Rep]",
+    "Michael Crawford (D) [Rep]",
+    "Jehan Gordon-Booth (D) [Rep]",
+    "Kimberly Du Buclet (D) [Rep]",
+    "Rachel Ventura (D) [Sen]",
+    "Ram Villivalam (D) [Sen]"
+  ],
+  "introduced_date": "2025-08-15",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-07",
+      "action": "Filed with the Clerk by Rep. Lindsey LaPointe",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Chief Sponsor Changed to Rep. Nabeela Syed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Added Chief Co-Sponsor Rep. Lindsey LaPointe",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Assigned to Mental Health & Addiction Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Do Pass / Short Debate Mental Health & Addiction Committee; 015-007-000",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Placed on Calendar 2nd Reading - Short Debate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Second Reading - Short Debate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Held on Calendar Order of Second Reading - Short Debate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "House Floor Amendment No. 1 Filed with Clerk by Rep. Nabeela Syed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "House Floor Amendment No. 1 Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "House Floor Amendment No. 1 Rules Refers to Mental Health & Addiction Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "House Floor Amendment No. 1 Recommends Be Adopted Mental Health & Addiction Committee; 014-005-000",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Added Co-Sponsor Rep. Camille Y. Lilly",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Added Co-Sponsor Rep. Mary Beth Canty",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Added Co-Sponsor Rep. Will Guzzardi",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "House Floor Amendment No. 1 Adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Placed on Calendar Order of 3rd Reading - Short Debate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Third Reading - Short Debate - Passed 075-037-000",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Added Co-Sponsor Rep. Yolonda Morris",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Added Co-Sponsor Rep. Jawaharial Williams",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Added Co-Sponsor Rep. Suzanne M. Ness",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Added Co-Sponsor Rep. Michael Crawford",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Added Co-Sponsor Rep. Jehan Gordon-Booth",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Added Co-Sponsor Rep. Kimberly Du Buclet",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Arrive in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Placed on Calendar Order of First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Chief Senate Sponsor Sen. Ram Villivalam",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Assigned to Licensed Activities",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-02",
+      "action": "Alternate Chief Sponsor Changed to Sen. Rachel Ventura",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-02",
+      "action": "Added as Alternate Chief Co-Sponsor Sen. Ram Villivalam",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Do Pass Licensed Activities; 007-001-000",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Placed on Calendar Order of 2nd Reading May 13, 2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Placed on Calendar Order of 3rd Reading May 14, 2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Third Reading - Passed; 037-019-000",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Passed Both Houses",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Sent to the Governor",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-15",
+      "action": "Governor Approved",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-15",
+      "action": "Effective Date January 1, 2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-15",
+      "action": "Public Act . . . . . . . . . 104-0311",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-10",
+      "description": "Third Reading in House",
+      "yea": 75,
+      "nay": 37,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-22",
+      "description": "Third Reading in Senate",
+      "yea": 37,
+      "nay": 19,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-07",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=201937&DocName=10400HB3487&DocNum=3487&DocTypeID=HB&LegID=162149&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3108518
+    },
+    {
+      "date": "2025-04-11",
+      "type": "Engrossed",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=201937&DocName=10400HB3487eng&DocNum=3487&DocTypeID=HB&LegID=162149&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3210147
+    },
+    {
+      "date": "2025-05-27",
+      "type": "Enrolled",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=201937&DocName=10400HB3487enr&DocNum=3487&DocTypeID=HB&LegID=162149&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3245882
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

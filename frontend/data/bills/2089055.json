@@ -1,0 +1,180 @@
+{
+  "id": 2089055,
+  "state": "AL",
+  "state_name": "Alabama",
+  "bill_number": "SB200",
+  "title": "Alabama Office of Minority Affairs; renamed to the Alabama Office of Civic Engagement",
+  "summary": "Alabama Office of Minority Affairs; renamed to the Alabama Office of Civic Engagement",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AL/bill/SB200/2026",
+  "legiscan_url": "https://legiscan.com/AL/bill/SB200/2026",
+  "state_url": "https://alison.legislature.state.al.us/bill-search",
+  "sponsors": [
+    "Rodger Smitherman (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-05",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-21",
+      "action": "Read for the first time and referred to the Senate Committee on State Governmental Affairs",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Pending Senate State Governmental Affairs",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Reported Out of Committee House of Origin",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Read for the Second Time and placed on the Calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Third Reading in House of Origin",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Motion to Read a Third Time and Pass - Adopted Roll Call 222",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Read for the first time and referred to the House Committee on State Government",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Pending House State Government",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Reported Out of Committee Second House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Read for the Second Time and placed on the Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Third Reading in Second House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Motion to Read a Third Time and Pass - Adopted Roll Call 623",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Ready to Enroll",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Enrolled",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Signature Requested",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Delivered to Governor",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Enacted",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Enacted",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-03",
+      "description": "SBIR: Passed by House of Origin",
+      "yea": 33,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-03",
+      "description": "Third Reading in House of Origin",
+      "yea": 33,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-03",
+      "description": "Motion to Read a Third Time and Pass - Roll Call 222",
+      "yea": 33,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-26",
+      "description": "HBIR: Passed by Second House",
+      "yea": 98,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-26",
+      "description": "Third Reading in Second House",
+      "yea": 98,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-26",
+      "description": "Motion to Read a Third Time and Pass - Roll Call 623",
+      "yea": 98,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB200-int.pdf",
+      "doc_id": 3326904
+    },
+    {
+      "date": "2026-02-26",
+      "type": "Enrolled",
+      "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB200-enr.pdf",
+      "doc_id": 3378034
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "State Government"
+  ]
+}

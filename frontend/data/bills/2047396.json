@@ -1,0 +1,85 @@
+{
+  "id": 2047396,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "SB565",
+  "title": "Pupil discrimination and private schools participating in a parental choice program or the Special Needs Scholarship Program, discrimination based on gender identity or gender expression, and providing a penalty.",
+  "summary": "An Act to amend 118.019 (2d), 118.13 (1), 118.13 (2) (a), 118.13 (3) (a) 3., 118.13 (3) (b) 1. and 2., 118.13 (4), 118.20 (1) and 118.40 (4) (b) 2.; to create 118.13 (1m) of the statutes; Relating to: pupil discrimination and private schools participating in a parental choice program or the Special Needs Scholarship Program, discrimination based on gender identity or gender expression, and providing a penalty.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/SB565/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/SB565/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb565",
+  "sponsors": [
+    "Timothy Carpenter (D) [Sen]",
+    "Christopher Larson (D) [Sen]",
+    "Mark Spreitzer (D) [Sen]",
+    "Dianne Hesselbein (D) [Sen]",
+    "Kristin Dassler-Alfheim (D) [Sen]",
+    "Jodi Habush Sinykin (D) [Sen]",
+    "LaTonya Johnson (D) [Sen]",
+    "Sarah Keyeski (D) [Sen]",
+    "Melissa Ratcliff (D) [Sen]",
+    "Jeff Smith (D) [Sen]",
+    "Ryan Clancy (D) [Rep]",
+    "Francesca Hong (D) [Rep]",
+    "Greta Neubauer (D) [Rep]",
+    "Deb Andraca (D) [Rep]",
+    "Mike Bare (D) [Rep]",
+    "Karen DeSanto (D) [Rep]",
+    "Ben DeSmidt (D) [Rep]",
+    "Joan Fitzgerald (D) [Rep]",
+    "Andrew Hysell (D) [Rep]",
+    "Alex Joers (D) [Rep]",
+    "Tara Johnson (D) [Rep]",
+    "Darrin Madison (D) [Rep]",
+    "Renuka Mayadev (D) [Rep]",
+    "Vinnie Miresse (D) [Rep]",
+    "Supreme Omokunde (D) [Rep]",
+    "Lori Palmeri (D) [Rep]",
+    "Joe Sheehan (D) [Rep]",
+    "Christine Sinicki (D) [Rep]",
+    "Lee Snodgrass (D) [Rep]",
+    "Ryan Spaude (D) [Rep]",
+    "Angelito Tenorio (D) [Rep]",
+    "Randy Udell (D) [Rep]"
+  ],
+  "introduced_date": "2025-10-24",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-10-24",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-24",
+      "action": "Read first time and referred to Committee on Education",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-24",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/SB565.pdf",
+      "doc_id": 3274667
+    }
+  ],
+  "committee": {
+    "committee_id": 1066,
+    "chamber": "S",
+    "chamber_id": 100,
+    "name": "Education"
+  },
+  "subjects": []
+}

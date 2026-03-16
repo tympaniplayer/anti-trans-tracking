@@ -1,0 +1,187 @@
+{
+  "id": 1943190,
+  "state": "GA",
+  "state_name": "Georgia",
+  "bill_number": "HB127",
+  "title": "Education; number of accumulated sick leave days for teachers and other school personnel; increase from three to five",
+  "summary": "A BILL to be entitled an Act to amend Part 4 of Article 17 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, relating to sick, personal, and maternity leave for teachers and other school personnel, so as to increase from three to five the number of accumulated sick leave days teachers and other school personnel may take each school year for personal or professional reasons; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/GA/bill/HB127/2025",
+  "legiscan_url": "https://legiscan.com/GA/bill/HB127/2025",
+  "state_url": "https://www.legis.ga.gov/legislation/69501",
+  "sponsors": [
+    "Brent Cox (R) [Rep]",
+    "Rob Leverett (R) [Rep]",
+    "Carmen Rice (R) [Rep]",
+    "Carter Barrett (R) [Rep]",
+    "Chris Erwin (R) [Rep]",
+    "Mitchell Horner (R) [Rep]",
+    "Max Burns (R) [Sen]"
+  ],
+  "introduced_date": "2025-03-06",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-27",
+      "action": "House Hopper",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "House First Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-29",
+      "action": "House Second Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "House Committee Favorably Reported",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "House Third Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "House Passed/Adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Senate Read and Referred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "Senate Committee Favorably Reported By Substitute",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "Senate Read Second Time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Senate Tabled",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Senate Taken from Table",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Senate Third Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Senate Passed/Adopted By Substitute",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-06",
+      "description": "Passage: House Vote #246",
+      "yea": 172,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-02",
+      "description": "Motion To Remove From The Table: Senate Vote #434",
+      "yea": 33,
+      "nay": 21,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-02",
+      "description": "Motion To Table: Senate Vote #435",
+      "yea": 21,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2025-04-02",
+      "description": "Shall The Ruling Of The Chair Be Sustained: Senate Vote #437",
+      "yea": 33,
+      "nay": 22,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-02",
+      "description": "Motion To Resolve Debate: Senate Vote #438",
+      "yea": 33,
+      "nay": 22,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-02",
+      "description": "Shall The Ruling Of The Chair Be Sustained: Senate Vote #439",
+      "yea": 33,
+      "nay": 22,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-02",
+      "description": "Motion To Reconsider The Motion To Resolve Debate: Senate Vote #440",
+      "yea": 22,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2025-04-02",
+      "description": "Motion To Table: Senate Vote #441",
+      "yea": 22,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2025-04-02",
+      "description": "Passage By Substitute: Senate Vote #442",
+      "yea": 33,
+      "nay": 21,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-03",
+      "description": "Motion For Reconsideration: Senate Vote #443",
+      "yea": 22,
+      "nay": 33,
+      "passed": 0
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-28",
+      "type": "Introduced",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230268",
+      "doc_id": 3084476
+    },
+    {
+      "date": "2025-03-28",
+      "type": "Comm Sub",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237903",
+      "doc_id": 3193998
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

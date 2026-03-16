@@ -1,0 +1,62 @@
+{
+  "id": 2105793,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "SB2368",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 5, Chapter 9, Part 1; Title 6, Chapter 56, Part 1; Title 7, Chapter 3, Part 1; Title 8, Chapter 27; Title 9, Chapter 4, Part 51; Title 37; Title 39; Title 63; Title 68 and Title 71, relative to uses of public funds.",
+  "summary": "As introduced, requires the state treasurer to use existing resources to conduct a study of the use of public funds by neighboring states to facilitate gender transition procedures to determine what restrictions neighboring states place upon public funding of such procedures; requires the treasurer to compile the findings of the study into a report and transmit the report to the general assembly no later than December 31, 2026. - Amends TCA Title 5, Chapter 9, Part 1; Title 6, Chapter 56, Part 1; Title 7, Chapter 3, Part 1; Title 8, Chapter 27; Title 9, Chapter 4, Part 51; Title 37; Title 39; Title 63; Title 68 and Title 71.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/SB2368/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/SB2368/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB2368&ga=114",
+  "sponsors": [
+    "Paul Rose (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "Filed for introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Introduced, Passed on First Consideration",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Passed on Second Consideration, refer to Senate Judiciary Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-02",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB2368.pdf",
+      "doc_id": 3346110
+    }
+  ],
+  "committee": {
+    "committee_id": 2499,
+    "chamber": "S",
+    "chamber_id": 90,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Public Funds and Financing"
+  ]
+}

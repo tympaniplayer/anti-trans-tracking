@@ -1,0 +1,159 @@
+{
+  "id": 1930899,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S02497",
+  "title": "Permits the admissibility of testimony that a person reported acts of discrimination to another person in a civil trial under the human rights law, including the contents of such report.",
+  "summary": "Permits the admissibility of testimony that a person reported acts of discrimination to another person in a civil trial under the human rights law, including the contents of such report.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S02497/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S02497/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S2497",
+  "sponsors": [
+    "Andrew Gounardes (D) [Sen]",
+    "Liz Krueger (D) [Sen]",
+    "John Liu (D) [Sen]",
+    "Rachel May (D) [Sen]",
+    "Zellnor Myrie (D) [Sen]",
+    "Jessica Ramos (D) [Sen]",
+    "Lea Webb (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-04",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-21",
+      "action": "REFERRED TO JUDICIARY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "1ST REPORT CAL.368",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "ADVANCED TO THIRD READING",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "referred to judiciary",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "died in assembly",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "returned to senate",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO JUDICIARY",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "1ST REPORT CAL.240",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "ADVANCED TO THIRD READING",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "referred to judiciary",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-25",
+      "description": "Senate Judiciary Committee Vote",
+      "yea": 16,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-04",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 54,
+      "nay": 7,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-04",
+      "description": "Senate Judiciary Committee Vote",
+      "yea": 14,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-11",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 51,
+      "nay": 8,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-21",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S02497&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S02497",
+      "doc_id": 3068440
+    }
+  ],
+  "committee": {
+    "committee_id": 373,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

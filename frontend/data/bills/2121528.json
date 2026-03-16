@@ -1,0 +1,59 @@
+{
+  "id": 2121528,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB2451",
+  "title": "Dependency: victims of human trafficking.",
+  "summary": "An act to amend Sections 300, 306, 16501.1, 16501.35, 16501.45, 16524.6, 16524.7, 16524.8, 16524.9, and 16524.10 of, and to repeal Section 16524.11 of, the Welfare and Institutions Code, relating to human trafficking.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB2451/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB2451/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2451",
+  "sponsors": [
+    "Sade Elhawary (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-20",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-20",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-21",
+      "action": "From printer. May be heard in committee March 23.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Referred to Coms. on HUM. S. and JUD.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-20",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2451#99INT",
+      "doc_id": 3371071
+    }
+  ],
+  "committee": {
+    "committee_id": 460,
+    "chamber": "A",
+    "chamber_id": 19,
+    "name": "Human Services"
+  },
+  "subjects": []
+}

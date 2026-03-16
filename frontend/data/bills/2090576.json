@@ -1,0 +1,104 @@
+{
+  "id": 2090576,
+  "state": "ID",
+  "state_name": "Idaho",
+  "bill_number": "H0516",
+  "title": "Amends existing law to revise provisions regarding prohibiting instruction on sexual orientation and gender identity for students in kindergarten through grade 12.",
+  "summary": "EDUCATION -- Amends existing law to revise provisions regarding prohibiting instruction on sexual orientation and gender identity for students in kindergarten through grade 12.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ID/bill/H0516/2026",
+  "legiscan_url": "https://legiscan.com/ID/bill/H0516/2026",
+  "state_url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0516/",
+  "sponsors": [
+    "Education Committee [Rep]"
+  ],
+  "introduced_date": "2026-02-17",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-22",
+      "action": "Introduced, read first time, referred to JRA for Printing",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Reported Printed and Referred to Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Reported out of Committee with Do Pass Recommendation, Filed for Second Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Read second time; Filed for Third Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "U.C. to hold place on third reading calendar one legislative day",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Read Third Time in Full -- PASSED 59-10-1",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Title apvd",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "to Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Received from the House passed; filed for first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Introduced, read first time; referred to: Education",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-17",
+      "description": "House Third Reading",
+      "yea": 59,
+      "nay": 10,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0516.pdf",
+      "doc_id": 3328717
+    }
+  ],
+  "committee": {
+    "committee_id": 1534,
+    "chamber": "S",
+    "chamber_id": 34,
+    "name": "Education"
+  },
+  "subjects": [
+    "EDUCATION"
+  ]
+}

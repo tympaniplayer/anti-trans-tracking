@@ -1,0 +1,58 @@
+{
+  "id": 2035673,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3718",
+  "title": "Sustaining America\u2019s Fisheries for the Future Act of 2025",
+  "summary": "To reauthorize and amend the Magnuson-Stevens Fishery Conservation and Management Act, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3718/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3718/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3718/all-info",
+  "sponsors": [
+    "Jared Huffman (D) [Rep]",
+    "James Moylan (R) [Rep]",
+    "Ed Case (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-04",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-04",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "Referred to the Committee on Natural Resources, and in addition to the Committee on Agriculture, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-01",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3718/BILLS-119hr3718ih.pdf",
+      "doc_id": 3260144
+    }
+  ],
+  "committee": {
+    "committee_id": 2310,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Natural Resources"
+  },
+  "subjects": [
+    "Public lands and natural resources"
+  ]
+}

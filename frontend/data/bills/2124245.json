@@ -1,0 +1,54 @@
+{
+  "id": 2124245,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF3979",
+  "title": "Preserving Girls Sports Act establishment",
+  "summary": "Preserving Girls Sports Act establishment",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF3979/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF3979/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3979/",
+  "sponsors": [
+    "Carla Nelson (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-26",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Referred to Education Policy",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-25",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3979/versions/0/pdf/",
+      "doc_id": 3375984
+    }
+  ],
+  "committee": {
+    "committee_id": 4667,
+    "chamber": "S",
+    "chamber_id": 56,
+    "name": "Education Policy"
+  },
+  "subjects": []
+}

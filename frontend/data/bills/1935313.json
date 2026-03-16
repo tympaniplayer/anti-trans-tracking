@@ -1,0 +1,85 @@
+{
+  "id": 1935313,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB0197",
+  "title": "ENERGY-WORKFORCE DEVELOPMENT",
+  "summary": "Amends the Energy Transition Act. Provides that the term \"community-based organization\" also includes an entity that currently receives federal funding from the federal Workforce Innovation and Opportunity Act. Effective immediately.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB0197/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB0197/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=197&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "Chapin Rose (R) [Sen]",
+    "Laura Murphy (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-22",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-22",
+      "action": "Filed with Secretary by Sen. Chapin Rose",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-22",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-22",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Assigned to Energy and Public Utilities",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Rule 2-10 Committee Deadline Established As April 4, 2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-04",
+      "action": "Rule 2-10 Committee Deadline Established As April 11, 2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Added as Co-Sponsor Sen. Laura M. Murphy",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Rule 3-9(a) / Re-referred to Assignments",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-22",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=197249&DocName=10400SB0197&DocNum=197&DocTypeID=SB&LegID=157459&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3072551
+    }
+  ],
+  "committee": {
+    "committee_id": 254,
+    "chamber": "S",
+    "chamber_id": 36,
+    "name": "Assignments"
+  },
+  "subjects": []
+}

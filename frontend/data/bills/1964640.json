@@ -1,0 +1,73 @@
+{
+  "id": 1964640,
+  "state": "GA",
+  "state_name": "Georgia",
+  "bill_number": "SR167",
+  "title": "Recognition of Marriage; only the union of man and woman; repeal -CA",
+  "summary": "A RESOLUTION proposing an amendment to the Constitution so as to repeal the recognition of marriage as only the union of man and woman; to provide for related matters; to provide for the submission of this amendment for ratification or rejection; and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/GA/bill/SR167/2025",
+  "legiscan_url": "https://legiscan.com/GA/bill/SR167/2025",
+  "state_url": "https://www.legis.ga.gov/legislation/70173",
+  "sponsors": [
+    "RaShaun Kemp (D) [Sen]",
+    "Kim Jackson (D) [Sen]",
+    "Harold Jones (D) [Sen]",
+    "Elena Parent (D) [Sen]",
+    "Kenya Wicks (D) [Sen]",
+    "Gail Davenport (D) [Sen]",
+    "Sonya Halpern (D) [Sen]",
+    "Donzella James (D) [Sen]",
+    "Michael Rhett (D) [Sen]",
+    "Jason Esteves (D) [Sen]",
+    "Nabilah Islam Parkes (D) [Sen]",
+    "Derek Mallow (D) [Sen]",
+    "Nikki Merritt (D) [Sen]",
+    "Nan Orrock (D) [Sen]",
+    "Ed Harbison (D) [Sen]",
+    "Sheikh Rahman (D) [Sen]",
+    "Sally Harrell (D) [Sen]",
+    "Randal Mangham (D) [Sen]",
+    "Josh McLaurin (D) [Sen]",
+    "David Lucas (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-10",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-10",
+      "action": "Senate Hopper",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "Senate Read and Referred",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-11",
+      "type": "Introduced",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231945",
+      "doc_id": 3111869
+    }
+  ],
+  "committee": {
+    "committee_id": 619,
+    "chamber": "S",
+    "chamber_id": 30,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

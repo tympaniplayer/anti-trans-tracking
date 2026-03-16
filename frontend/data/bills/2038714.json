@@ -1,0 +1,222 @@
+{
+  "id": 2038714,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S2543",
+  "title": "Strengthening health care protections in the Commonwealth",
+  "summary": "Strengthening health care protections in the Commonwealth",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S2543/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S2543/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S2543",
+  "sponsors": [
+    "Cindy Friedman (D) [Sen]",
+    "Joanne Comerford (D) [Sen]",
+    "Julian Cyr (D) [Sen]",
+    "Jacob Oliveira (D) [Sen]",
+    "Rebecca Rausch (D) [Sen]",
+    "Carmine Gentile (D) [Rep]",
+    "Erika Uyterhoeven (D) [Rep]",
+    "David Rogers (D) [Rep]",
+    "Pavel Payano (D) [Sen]",
+    "John Moran (D) [Rep]",
+    "Jason Lewis (D) [Sen]"
+  ],
+  "introduced_date": "2025-08-07",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-06-26",
+      "action": "Text of S2538, printed as amended",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Passed to be engrossed -see Roll Call #57 (Yeas 37 to Nays 3)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-03",
+      "action": "Rules suspended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-03",
+      "action": "Read; and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-16",
+      "action": "Committee recommended ought to pass with an amendment, striking out all after the enacting clause and inserting the text of H4271, and referred to the committee on House Steering, Policy and Scheduling",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-16",
+      "action": "Committee reported that the matter be placed in the Orders of the Day for the next sitting with the amendment pending",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-16",
+      "action": "Rules suspended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-16",
+      "action": "Read second, amended (as recommended by the committee on House Ways and Means)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-16",
+      "action": "Ordered to a third reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-16",
+      "action": "Rules suspended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-16",
+      "action": "Read third",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-16",
+      "action": "Amendment 4 rejected",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-16",
+      "action": "Amendment 8 rejected - 30 YEAS to 129 NAYS (See YEA and NAY No. 63 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-16",
+      "action": "Amendment 6 adopted, as changed - 130 YEAS to 29 NAYS (See YEA and NAY No. 64 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-16",
+      "action": "Amendment 7 adopted, as changed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-16",
+      "action": "Amendment 9 adopted, as changed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-16",
+      "action": "Amended by substitution of a new text, see H4294",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-16",
+      "action": "Passed to be engrossed - 136 YEAS to 23 NAYS (See YEA and NAY No. 65 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-31",
+      "action": "Rules suspended",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-31",
+      "action": "Senate concurred in the House amendment with a further amendment, see S2572",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-31",
+      "action": "Referred to the House Committee on Bills in the Third Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-31",
+      "action": "House concurred in the Senate amendment - 132 YEAS to 24 NAYS (See YEA and NAY No. 70 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-31",
+      "action": "Enacted - 132 YEAS to 24 NAYS (See YEA and NAY No. 72 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-31",
+      "action": "Enacted -see  Roll Call #68 (Yeas 37 to Nays 3)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-31",
+      "action": "Laid before the Governor",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-07",
+      "action": "Signed by the Governor, Chapter 16 of the Acts of 2025",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-07-16",
+      "description": "House  Amendment 8 rejected - 30 YEAS to 129 NAYS",
+      "yea": 30,
+      "nay": 129,
+      "passed": 0
+    },
+    {
+      "date": "2025-07-16",
+      "description": "House  Amendment 6 adopted, as changed - 130 YEAS to 29 NAYS",
+      "yea": 130,
+      "nay": 29,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-16",
+      "description": "House  Passed to be engrossed - 136 YEAS to 23 NAYS",
+      "yea": 136,
+      "nay": 23,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-31",
+      "description": "Senate  Enacted  Roll Call #68",
+      "yea": 37,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-31",
+      "description": "House  House concurred in the Senate amendment - 132 YEAS to 24 NAYS",
+      "yea": 132,
+      "nay": 24,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-31",
+      "description": "House  Enacted - 132 YEAS to 24 NAYS",
+      "yea": 132,
+      "nay": 24,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-06-26",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S2543.pdf",
+      "doc_id": 3259812
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

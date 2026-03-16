@@ -1,0 +1,51 @@
+{
+  "id": 2066903,
+  "state": "MS",
+  "state_name": "Mississippi",
+  "bill_number": "HB142",
+  "title": "Midwifery; provide for licensure and regulation of.",
+  "summary": "An Act To Provide For The Licensure And Regulation Of Professional Midwifery; To Provide Definitions For The Purpose Of The Act; To Provide Exceptions To The Applicability Of The Act; To Provide The Scope Of Practice For Licensed Midwives; To Provide Mandatory Procedures For Licensed Midwives; To Prohibit Licensed Midwives From Certain Actions; To Create The State Board Of Licensed Midwifery And Provide For Its Composition, Appointment And Powers And Duties; To Require The Board To Promulgate Rules Not Later Than July 1, 2027; To Require A License From The Board To Practice Professional Midwifery; To Provide For The Issuance Of Temporary Permits To Practice Pending Qualification For Licensure; To Provide Exemptions From Licensure For Certain Persons; To Provide For The Confidentiality Of Information Maintained By The Board; To Provide Immunity For Certain Actions; To Provide Criminal Penalties For Violations Of This Act; To Prohibit Terminology In Any Health Coverage Plan, Policy Or Contract That Is Discriminatory Against Professional Midwifery; To Require Health Coverage Plans That Provide Maternity Benefits To Provide Coverage For Services Rendered By A Licensed Midwife; To Provide Whenever A Health Coverage Plan Provides For Reimbursement Of Any Services That Are Within The Lawful Scope Of Practice Of Licensed Midwives, The Person Entitled To Benefits Under The Plan Shall Be Entitled To Reimbursement For The Services, Whether The Services Are Performed By A Physician Or A Licensed Midwife; To Require The State Department Of Health To Develop And Institute A Safe Perinatal Transfer Certification For The Facilities That It Regulates; To Amend Section 73-25-33, Mississippi Code Of 1972, To Remove The Reference To The Practice Of Midwifery In The Definition Of The Practice Of Medicine; And For Related Purposes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "bathrooms",
+    "religious_exemptions",
+    "definitions"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MS/bill/HB142/2026",
+  "legiscan_url": "https://legiscan.com/MS/bill/HB142/2026",
+  "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0142.xml",
+  "sponsors": [
+    "John Hines (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "action": "Referred To Public Health and Human Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Died In Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-07",
+      "type": "Introduced",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/HB/0100-0199/HB0142IN.htm",
+      "doc_id": 3301432
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

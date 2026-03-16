@@ -1,0 +1,59 @@
+{
+  "id": 2046247,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S2623",
+  "title": "Promoting community immunity",
+  "summary": "For legislation to promote community immunity, report the accompanying bill (Senate, No. 2623).",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S2623/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S2623/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S2623",
+  "sponsors": [
+    "Joint Committee on Public Health [Jnt]"
+  ],
+  "introduced_date": "2025-10-14",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-10-14",
+      "action": "Reported from the committee on Public Health",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-14",
+      "action": "New draft of S1618",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-14",
+      "action": "Bill reported favorably by committee and referred to the Joint Committee on Health Care Financing",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-14",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S2623.pdf",
+      "doc_id": 3272983
+    }
+  ],
+  "committee": {
+    "committee_id": 763,
+    "chamber": "J",
+    "chamber_id": 103,
+    "name": "Health Care Financing"
+  },
+  "subjects": []
+}

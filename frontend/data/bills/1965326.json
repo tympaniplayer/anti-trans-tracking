@@ -1,0 +1,51 @@
+{
+  "id": 1965326,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0201",
+  "title": "An act relating to prohibiting discrimination based on an individual\u2019s criminal history",
+  "summary": "An act relating to prohibiting discrimination based on an individual\u2019s criminal history",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0201/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0201/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.201",
+  "sponsors": [
+    "Barbara Rachelson (D) [Rep]",
+    "Kevin Christie (D) [Rep]",
+    "Troy Headrick (I) [Rep]"
+  ],
+  "introduced_date": "2025-02-12",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-02-12",
+      "action": "Read first time and referred to the Committee on General and Housing",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-11",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0201/H-0201%20As%20Introduced.pdf",
+      "doc_id": 3113097
+    }
+  ],
+  "committee": {
+    "committee_id": 4666,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "General and Housing"
+  },
+  "subjects": []
+}

@@ -1,0 +1,272 @@
+{
+  "id": 1931194,
+  "state": "NE",
+  "state_name": "Nebraska",
+  "bill_number": "LB504",
+  "title": "Adopt the Age-Appropriate Online Design Code Act",
+  "summary": "Adopt the Age-Appropriate Online Design Code Act",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NE/bill/LB504/2025",
+  "legiscan_url": "https://legiscan.com/NE/bill/LB504/2025",
+  "state_url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59284",
+  "sponsors": [
+    "Carolyn Bosn (N) [Sen]"
+  ],
+  "introduced_date": "2025-06-02",
+  "session": "109th Legislature",
+  "actions": [
+    {
+      "date": "2025-01-21",
+      "action": "Date of introduction",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "Referred to Banking, Commerce and Insurance Committee",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-01-27",
+      "action": "Notice of hearing for February 03, 2025",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Bosn FA16 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Placed on General File with AM169",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Banking, Commerce and Insurance AM169 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Banking, Commerce and Insurance AM169 adopted",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Dungan MO45 Reconsider the vote taken on AM169 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Dungan MO45 pending",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Dungan MO45 failed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Cavanaugh, J. FA22 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Cavanaugh, J. FA22 withdrawn",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Advanced to Enrollment and Review Initial",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Placed on Select File with ER21",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Enrollment and Review ER21 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Bosn AM856 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Enrollment and Review ER21 adopted",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Bosn FA16 withdrawn",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Bosn AM856 pending",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Cavanaugh, J. FA87 to AM856 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Cavanaugh, J. FA87 adopted",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Dungan FA91 to AM856 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Dungan FA91 lost",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Bosn AM856 adopted",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Advanced to Enrollment and Review for Engrossment",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Placed on Final Reading with ST16",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Enrollment and Review ST16 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Enrollment and Review ST16 recorded",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Dispensing of reading at large approved",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Passed on Final Reading 42-7*-0",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "President/Speaker signed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Presented to Governor on May 28, 2025",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Approved by Governor on May 30, 2025",
+      "chamber": "L"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-25",
+      "description": "Banking, Commerce and Insurance AM169 adopted",
+      "yea": 44,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-02-26",
+      "description": "Dungan MO45 failed",
+      "yea": 0,
+      "nay": 29,
+      "passed": 0
+    },
+    {
+      "date": "2025-02-26",
+      "description": "Advanced to Enrollment and Review Initial",
+      "yea": 38,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-09",
+      "description": "Cavanaugh, J. FA87 adopted",
+      "yea": 39,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-09",
+      "description": "Dungan FA91 lost",
+      "yea": 10,
+      "nay": 26,
+      "passed": 0
+    },
+    {
+      "date": "2025-04-09",
+      "description": "Bosn AM856 adopted",
+      "yea": 45,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-28",
+      "description": "Passed on Final Reading 42-7-0",
+      "yea": 42,
+      "nay": 7,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-21",
+      "type": "Introduced",
+      "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB504.pdf",
+      "doc_id": 3068842
+    },
+    {
+      "date": "2025-04-11",
+      "type": "Enrolled",
+      "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Final/LB504.pdf",
+      "doc_id": 3209869
+    },
+    {
+      "date": "2025-04-11",
+      "type": "Engrossed",
+      "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Engrossed/LB504.pdf",
+      "doc_id": 3209870
+    },
+    {
+      "date": "2025-06-02",
+      "type": "Chaptered",
+      "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Slip/LB504.pdf",
+      "doc_id": 3249917
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

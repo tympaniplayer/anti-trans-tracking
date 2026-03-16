@@ -1,0 +1,60 @@
+{
+  "id": 2033108,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "SB781",
+  "title": "In pupils and attendance, further providing for definitions and providing for mental health days.",
+  "summary": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in pupils and attendance, further providing for definitions and providing for mental health days.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/SB781/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/SB781/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/sb781",
+  "sponsors": [
+    "John Kane (D) [Sen]",
+    "Judy Schwank (D) [Sen]",
+    "Christine Tartaglione (D) [Sen]",
+    "Arthur Haywood (D) [Sen]",
+    "Maria Collett (D) [Sen]",
+    "Vincent Hughes (D) [Sen]",
+    "Steven Santarsiero (D) [Sen]",
+    "Carolyn Comitta (D) [Sen]",
+    "Amanda Cappelletti (D) [Sen]",
+    "Jay Costa (D) [Sen]",
+    "Katie Muth (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-22",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-05-22",
+      "action": "Referred to Education",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB0781/PN0834",
+      "doc_id": 3242543
+    }
+  ],
+  "committee": {
+    "committee_id": 72,
+    "chamber": "S",
+    "chamber_id": 4,
+    "name": "Education"
+  },
+  "subjects": []
+}

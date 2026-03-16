@@ -1,0 +1,53 @@
+{
+  "id": 2109886,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S3414",
+  "title": "Requires Attorney General to compile and publicly report certain statistics pertaining to permits to carry for handguns and firearm purchaser identification cards.",
+  "summary": "Requires Attorney General to compile and publicly report certain statistics pertaining to permits to carry for handguns and firearm purchaser identification cards.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "identity_documents"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S3414/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S3414/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S3414",
+  "sponsors": [
+    "James Holzapfel (R) [Sen]",
+    "Kristin Corrado (R) [Sen]",
+    "Parker Space (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-09",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-09",
+      "action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-10",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S3500/3414_I1.HTM",
+      "doc_id": 3356387
+    }
+  ],
+  "committee": {
+    "committee_id": 882,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Law and Public Safety"
+  },
+  "subjects": [
+    "Law and Public Safety"
+  ]
+}

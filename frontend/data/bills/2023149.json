@@ -1,0 +1,55 @@
+{
+  "id": 2023149,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB1489",
+  "title": "Anti-Racism in Public Health Act of 2025",
+  "summary": "A bill to amend the Public Health Service Act to provide for public health research and investment into understanding and eliminating structural racism and police violence.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB1489/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB1489/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1489/all-info",
+  "sponsors": [
+    "Elizabeth Warren (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Mazie Hirono (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-10",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-04-10",
+      "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-02",
+      "action": "Star Print ordered on the measure.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-02",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s1489/BILLS-119s1489is.pdf",
+      "doc_id": 3228328
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Health"
+  ]
+}

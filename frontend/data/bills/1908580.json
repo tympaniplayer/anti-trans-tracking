@@ -1,0 +1,72 @@
+{
+  "id": 1908580,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A01253",
+  "title": "Requires employers to annually report to the division of human rights the number of settlements with employees and other individuals performing services in the workplace regarding claims of discrimination on the basis of sex, including verbal and physical sexual harassment; requires the division of human rights to provide an annual report to the governor and the legislature; makes conforming technical changes.",
+  "summary": "Requires employers to annually report to the division of human rights the number of settlements with employees and other individuals performing services in the workplace regarding claims of discrimination on the basis of sex, including verbal and physical sexual harassment; requires the division of human rights to provide an annual report to the governor and the legislature; makes conforming technical changes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A01253/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A01253/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A1253",
+  "sponsors": [
+    "Nily Rozic (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Jo Simon (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-09",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-09",
+      "action": "referred to governmental operations",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-30",
+      "action": "amend (t) and recommit to governmental operations",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-30",
+      "action": "print number 1253a",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to governmental operations",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-09",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A01253&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A01253",
+      "doc_id": 3045407
+    },
+    {
+      "date": "2025-01-09",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A01253&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A01253A",
+      "doc_id": 3249106
+    }
+  ],
+  "committee": {
+    "committee_id": 368,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Governmental Operations"
+  },
+  "subjects": []
+}

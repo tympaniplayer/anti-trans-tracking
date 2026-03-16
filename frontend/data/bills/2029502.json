@@ -1,0 +1,89 @@
+{
+  "id": 2029502,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB1663",
+  "title": "Therapeutic Fraud Prevention Act of 2025",
+  "summary": "A bill to prohibit commercial sexual orientation conversion therapy, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB1663/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB1663/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1663/all-info",
+  "sponsors": [
+    "Patty Murray (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Michael Bennet (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Maria Cantwell (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Catherine Cortez Masto (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "John Fetterman (D) [Sen]",
+    "Kirsten Gillibrand (D) [Sen]",
+    "Margaret Hassan (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "John Hickenlooper (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Tim Kaine (D) [Sen]",
+    "Mark Kelly (D) [Sen]",
+    "Andy Kim (D) [Sen]",
+    "Angus King (I) [Sen]",
+    "Amy Klobuchar (D) [Sen]",
+    "Ben Lujan (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Christopher Murphy (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Jack Reed (D) [Sen]",
+    "Jacky Rosen (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Jeanne Shaheen (D) [Sen]",
+    "Elissa Slotkin (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Sheldon Whitehouse (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Ruben Gallego (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-07",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-05-07",
+      "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-27",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s1663/BILLS-119s1663is.pdf",
+      "doc_id": 3246742
+    }
+  ],
+  "committee": {
+    "committee_id": 2323,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Commerce, Science, And Transportation"
+  },
+  "subjects": [
+    "Commerce"
+  ]
+}

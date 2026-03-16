@@ -1,0 +1,59 @@
+{
+  "id": 2049926,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "SB846",
+  "title": "Higher education; creating the Stop DEI Act; prohibiting an institution of higher education from requiring, soliciting, or incentivizing participation in certain practices or content. Effective date. Emergency.",
+  "summary": "Higher education; creating the Stop DEI Act; prohibiting an institution of higher education from requiring, soliciting, or incentivizing participation in certain practices or content. Effective date. Emergency.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/SB846/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/SB846/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=sb846&Session=2600",
+  "sponsors": [
+    "Lisa Standridge (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Authored by Senator Standridge",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Second Reading referred to Education",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/SB/SB846%20INT.PDF",
+      "doc_id": 3279846
+    }
+  ],
+  "committee": {
+    "committee_id": 1225,
+    "chamber": "S",
+    "chamber_id": 80,
+    "name": "Education"
+  },
+  "subjects": []
+}

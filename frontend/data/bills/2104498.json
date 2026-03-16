@@ -1,0 +1,80 @@
+{
+  "id": 2104498,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "SB504",
+  "title": "Data Privacy - Consumer Data, Public Records, and Message Switching System (Data Privacy Act)",
+  "summary": "Prohibiting a certain controller from selling the personal data of a consumer to a purchaser who seeks to use the data for immigration enforcement; requiring a custodian of a public record to take reasonable steps to determine whether a public record is accessed for enforcing immigration law; requiring an entity that operates a certain message switching system to take certain actions regarding system access; requiring certain procedures of certain governmental entities to account for data containing sensitive attributes; etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/SB504/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/SB504/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0504?ys=2026RS",
+  "sponsors": [
+    "Clarence Lam (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "First Reading Finance",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Hearing 2/26 at 1:00 p.m.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-03",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/sb/sb0504f.pdf",
+      "doc_id": 3345018
+    }
+  ],
+  "committee": {
+    "committee_id": 1932,
+    "chamber": "S",
+    "chamber_id": 50,
+    "name": "Finance"
+  },
+  "subjects": [
+    "Commercial Law - Consumer Protection",
+    "Cybersecurity",
+    "Public Safety",
+    "Administrative Agencies",
+    "Commerce and Business",
+    "Consumer Protection",
+    "Data",
+    "Disclosure",
+    "Ethics",
+    "Immigrants and Citizenship",
+    "Information Technology",
+    "Information Technology, Department of",
+    "Local Government Mandates",
+    "Mobile Devices",
+    "Motor Vehicles",
+    "Motor Vehicle Administration",
+    "Personal Identifying Information",
+    "Plans and Proposals",
+    "Privacy",
+    "Public Information",
+    "Public Safety and Correctional Services, Department of",
+    "Records",
+    "Rules and Regulations",
+    "Standards and Best Practices",
+    "State Police, Department of"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": 2114434,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "HB626",
+  "title": "AN ACT relating to education reporting.",
+  "summary": "Create a new section of KRS Chapter 156 to require the Kentucky Board of Education to establish a statewide system of oversight and compliance monitoring for Title IX of the Education Amendments of 1972; specify the required components of the system; amend KRS 156.070 to require the Kentucky Board of Education to establish a system for reporting allegations of misconduct by employees of any agency designated for the management of interscholastic athletics and the requirements of the system.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/HB626/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/HB626/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/hb626.html",
+  "sponsors": [
+    "Daniel Grossberg (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-11",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-11",
+      "action": "introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "to Committee on Committees (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "to Primary and Secondary Education (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb626/orig_bill.pdf",
+      "doc_id": 3358901
+    }
+  ],
+  "committee": {
+    "committee_id": 5121,
+    "chamber": "H",
+    "chamber_id": 43,
+    "name": "Primary and Secondary Education"
+  },
+  "subjects": [
+    "Administrative Regulations and Proceedings",
+    "Athletics",
+    "Boards and Commissions",
+    "Children and Minors",
+    "Education, Elementary and Secondary",
+    "Men",
+    "Women",
+    "Reports Mandated"
+  ]
+}

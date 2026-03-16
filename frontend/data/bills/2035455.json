@@ -1,0 +1,49 @@
+{
+  "id": 2035455,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "K00644",
+  "title": "Commemorating the 35th Anniversary of Trillium Health, recognizing its legacy of courage, innovation, and commitment to equitable healthcare for all",
+  "summary": "Commemorating the 35th Anniversary of Trillium Health, recognizing its legacy of courage, innovation, and commitment to equitable healthcare for all",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/K00644/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/K00644/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/K644",
+  "sponsors": [
+    "Harry Bronson (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-04",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-06-04",
+      "action": "introduced",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "adopted",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-07",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=K00644&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#K00644",
+      "doc_id": 3251515
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

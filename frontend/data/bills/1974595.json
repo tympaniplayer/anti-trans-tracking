@@ -1,0 +1,61 @@
+{
+  "id": 1974595,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB1439",
+  "title": "Korematsu-Takai Civil Liberties Protection Act of 2025",
+  "summary": "To ensure due process protections of individuals in the United States against unlawful detention based solely on a protected characteristic.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB1439/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB1439/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/1439/all-info",
+  "sponsors": [
+    "Mark Takano (D) [Rep]",
+    "Doris Matsui (D) [Rep]",
+    "Jill Tokuda (D) [Rep]",
+    "Grace Meng (D) [Rep]",
+    "Ed Case (D) [Rep]",
+    "Daniel Goldman (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-18",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-02-18",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-13",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr1439/BILLS-119hr1439ih.pdf",
+      "doc_id": 3172486
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crime and law enforcement"
+  ]
+}

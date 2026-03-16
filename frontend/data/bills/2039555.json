@@ -1,0 +1,54 @@
+{
+  "id": 2039555,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB2286",
+  "title": "State-Based Universal Health Care Act of 2025",
+  "summary": "A bill to amend title I of the Patient Protection and Affordable Care Act to authorize the establishment of, and provide support for, State-based universal health care systems that provide comprehensive health benefits to State residents, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB2286/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB2286/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2286/all-info",
+  "sponsors": [
+    "Edward Markey (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Alex Padilla (D) [Sen]"
+  ],
+  "introduced_date": "2025-07-15",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-07-15",
+      "action": "Read twice and referred to the Committee on Finance.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-30",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s2286/BILLS-119s2286is.pdf",
+      "doc_id": 3263385
+    }
+  ],
+  "committee": {
+    "committee_id": 2326,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Finance"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

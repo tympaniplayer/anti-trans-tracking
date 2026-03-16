@@ -1,0 +1,65 @@
+{
+  "id": 1890887,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB843",
+  "title": "Relating to certain general definitions in the Code Construction Act.",
+  "summary": "Relating to certain general definitions in the Code Construction Act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB843/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB843/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB843",
+  "sponsors": [
+    "Brian Harrison (R) [Rep]",
+    "Tony Tinderholt (R) [Rep]"
+  ],
+  "introduced_date": "2024-11-12",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-12",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Referred to State Affairs",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-11-12",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00843I.htm",
+      "doc_id": 3026578
+    }
+  ],
+  "committee": {
+    "committee_id": 1895,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "Health",
+    "Health--General",
+    "Women",
+    "GENDER IDENTITY & EXPRESSION"
+  ]
+}

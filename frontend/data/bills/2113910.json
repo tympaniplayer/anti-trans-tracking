@@ -1,0 +1,86 @@
+{
+  "id": 2113910,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB1202",
+  "title": "Public Schools \u2013 Content Standards, Curriculum, and Bullying Policies \u2013 Culture and History of Palestine",
+  "summary": "Requiring the State Board of Education to develop certain content standards regarding the culture and history of Palestine to be included in certain State standards for social studies; requiring the Department to develop certain curriculum guides and instructional resources regarding the culture and history of Palestine in alignment with certain content standards; requiring each public school to include Palestinian culture and history in the social studies curriculum beginning in the 2027-2028 school year; etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB1202/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB1202/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1202?ys=2026RS",
+  "sponsors": [
+    "Gabriel Acevero (D) [Rep]",
+    "Tiffany Alston (D) [Rep]",
+    "Robbyn Lewis (D) [Rep]",
+    "Ashanti Martinez (D) [Rep]",
+    "Sean Stinnett (D) [Rep]",
+    "Jamila Woods (D) [Rep]",
+    "Caylin Young (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-11",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-11",
+      "action": "First Reading Ways and Means",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "Hearing 3/10 at 1:00 p.m.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-12",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb1202f.pdf",
+      "doc_id": 3360658
+    }
+  ],
+  "committee": {
+    "committee_id": 1928,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Ways and Means"
+  },
+  "subjects": [
+    "Primary and Secondary Education",
+    "Age",
+    "Art, Music, and Cultural Affairs",
+    "Civil Rights and Social Equity",
+    "Continuing Education",
+    "Counties",
+    "Curriculum",
+    "Discrimination",
+    "Diversity, Equity, and Inclusion",
+    "Education, Boards of",
+    "Education",
+    "Education, State Board of",
+    "Education, State Department of",
+    "Ethnic Affairs",
+    "Evaluations and Reviews",
+    "Harassment",
+    "Historical Matters",
+    "Language",
+    "Literacy",
+    "Local Government Mandates",
+    "Public Schools",
+    "Reports",
+    "Safety",
+    "Standards and Best Practices",
+    "Teachers"
+  ]
+}

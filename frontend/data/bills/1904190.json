@@ -1,0 +1,55 @@
+{
+  "id": 1904190,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S01033",
+  "title": "Prohibits the use of biometric surveillance technology by law enforcement; establishes the biometric surveillance regulation task force; provides for the expiration and repeal of certain provisions.",
+  "summary": "Prohibits the use of biometric surveillance technology by law enforcement; establishes the biometric surveillance regulation task force; provides for the expiration and repeal of certain provisions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S01033/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S01033/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S1033",
+  "sponsors": [
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Jamaal Bailey (D) [Sen]",
+    "Jabari Brisport (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "Liz Krueger (D) [Sen]",
+    "Julia Salazar (D) [Sen]",
+    "Luis Sepulveda (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-08",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "REFERRED TO INTERNET AND TECHNOLOGY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-21",
+      "action": "RECOMMIT, ENACTING CLAUSE STRICKEN",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S01033&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S01033",
+      "doc_id": 3040853
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

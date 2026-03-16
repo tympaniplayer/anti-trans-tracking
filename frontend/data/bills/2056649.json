@@ -1,0 +1,58 @@
+{
+  "id": 2056649,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "SB1103",
+  "title": "Providing for State aid requirement for libraries relating to book removal and for prohibited removal of instructional materials and voluntary inquiry materials in public school entities.",
+  "summary": "An Act providing for State aid requirement for libraries relating to book removal and for prohibited removal of instructional materials and voluntary inquiry materials in public school entities.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/SB1103/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/SB1103/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/sb1103",
+  "sponsors": [
+    "Amanda Cappelletti (D) [Sen]",
+    "Arthur Haywood (D) [Sen]",
+    "Nikil Saval (D) [Sen]",
+    "John Kane (D) [Sen]",
+    "Steven Santarsiero (D) [Sen]",
+    "Sharif Street (D) [Sen]",
+    "Carolyn Comitta (D) [Sen]",
+    "Jay Costa (D) [Sen]",
+    "Maria Collett (D) [Sen]",
+    "Judy Schwank (D) [Sen]"
+  ],
+  "introduced_date": "2025-12-04",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-04",
+      "action": "Referred to Education",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-04",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB1103/PN1338",
+      "doc_id": 3288154
+    }
+  ],
+  "committee": {
+    "committee_id": 72,
+    "chamber": "S",
+    "chamber_id": 4,
+    "name": "Education"
+  },
+  "subjects": []
+}

@@ -1,0 +1,67 @@
+{
+  "id": 2089069,
+  "state": "NM",
+  "state_name": "New Mexico",
+  "bill_number": "SB53",
+  "title": "Community & Health Info Safety & Privacy Act",
+  "summary": "Community & Health Info Safety & Privacy Act",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NM/bill/SB53/2026",
+  "legiscan_url": "https://legiscan.com/NM/bill/SB53/2026",
+  "state_url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legtype=B&legno=53&year=26",
+  "sponsors": [
+    "Angel Charley (D) [Sen]",
+    "Leo Jaramillo (D) [Sen]",
+    "Christine Chandler (D) [Rep]",
+    "Marianna Anaya (D) [Rep]",
+    "Pamelya Herndon (D) [Rep]",
+    "Carrie Hamblen (D) [Sen]",
+    "Linda Lopez (D) [Sen]",
+    "Sarah Silva (D) [Rep]",
+    "Elizabeth Stefanics (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-21",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-21",
+      "action": "Sent to SCC - Referrals: SCC/SHPAC/SJC",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "SCC: Reported by committee to fall within the purview of a 30 day session",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "SHPAC: Reported by committee with Do Pass recommendation",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://www.nmlegis.gov/Sessions/26%20Regular/bills/senate/SB0053.pdf",
+      "doc_id": 3326919
+    }
+  ],
+  "committee": {
+    "committee_id": 2190,
+    "chamber": "S",
+    "chamber_id": 72,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

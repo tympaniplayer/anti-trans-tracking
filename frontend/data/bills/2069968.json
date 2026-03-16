@@ -1,0 +1,64 @@
+{
+  "id": 2069968,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB4370",
+  "title": "NAME CHANGE-GENDER ID",
+  "summary": "Amends the Code of Civil Procedure. Creates a process for a petition for change of name on the basis of gender identity. Makes all of the proceedings and records confidential unless the petitioner waives otherwise. Makes limited exceptions to the confidentiality requirement. Creates a cause of action for knowingly violating the confidentiality provisions. Defines terms. Makes other changes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB4370/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB4370/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4370&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Anne Stava-Murray (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-09",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "action": "Filed with the Clerk by Rep. Anne Stava",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Assigned to Judiciary - Civil Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-09",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=206283&DocName=10400HB4370&DocNum=4370&DocTypeID=HB&LegID=164935&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3304817
+    }
+  ],
+  "committee": {
+    "committee_id": 3301,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Judiciary - Civil"
+  },
+  "subjects": []
+}

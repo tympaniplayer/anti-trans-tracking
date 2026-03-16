@@ -1,0 +1,81 @@
+{
+  "id": 1993528,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB4190",
+  "title": "Health: other; gender reassignment procedures or treatment for minors; prohibit. Amends 1978 PA 368 (MCL 333.1101 - 333.25211) by adding secs. 17019 & 17519.",
+  "summary": "Health: other; gender reassignment procedures or treatment for minors; prohibit. Amends 1978 PA 368 (MCL 333.1101 - 333.25211) by adding secs. 17019 & 17519.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB4190/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB4190/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4190",
+  "sponsors": [
+    "Jason Woolford (R) [Rep]",
+    "Tim Kelly (R) [Rep]",
+    "Cam Cavitt (R) [Rep]",
+    "Joseph Pavlov (R) [Rep]",
+    "Rachelle Smit (R) [Rep]",
+    "Gina Johnsen (R) [Rep]",
+    "Matthew Bierlein (R) [Rep]",
+    "James DeSana (R) [Rep]",
+    "Matthew Maddock (R) [Rep]",
+    "Ron Robinson (R) [Rep]",
+    "Tom Kunse (R) [Rep]",
+    "Joseph Fox (R) [Rep]",
+    "David Martin (R) [Rep]",
+    "Joseph Aragona (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-06",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-03-06",
+      "action": "Introduced By Representative Rep. Jason Woolford",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Referred To Committee On Health Policy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Bill Electronically Reproduced 03/06/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-06",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4190.htm",
+      "doc_id": 3156523
+    }
+  ],
+  "committee": {
+    "committee_id": 892,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Health Policy"
+  },
+  "subjects": [
+    "Health: other",
+    "Health: children"
+  ]
+}

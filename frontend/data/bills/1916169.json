@@ -1,0 +1,87 @@
+{
+  "id": 1916169,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB0068",
+  "title": "COURTS-DOMESTIC VIOLENCE ED",
+  "summary": "Creates the Judicial Domestic Violence Training Act. Requires the Judicial Education Division of the Administrative Office of the Illinois Courts to develop and implement a domestic violence continuing education program for judges and relevant court personnel. Provides that the continuing education program shall be required training for all judges every 2 years and shall be held at every biennial Education Conference and every new judge seminar.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB0068/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB0068/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=68&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "Michael Halpin (D) [Sen]",
+    "Laura Murphy (D) [Sen]",
+    "Meg Loughran Cappel (D) [Sen]",
+    "Darby Hills (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-13",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-13",
+      "action": "Filed with Secretary by Sen. Michael W. Halpin",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-13",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Assigned to Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Added as Co-Sponsor Sen. Laura M. Murphy",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Rule 3-9(a) / Re-referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-03",
+      "action": "Added as Co-Sponsor Sen. Meg Loughran Cappel",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Added as Co-Sponsor Sen. Darby A. Hills",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-13",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=196964&DocName=10400SB0068&DocNum=68&DocTypeID=SB&LegID=157173&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3053220
+    }
+  ],
+  "committee": {
+    "committee_id": 254,
+    "chamber": "S",
+    "chamber_id": 36,
+    "name": "Assignments"
+  },
+  "subjects": []
+}

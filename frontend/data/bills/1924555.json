@@ -1,0 +1,54 @@
+{
+  "id": 1924555,
+  "state": "KS",
+  "state_name": "Kansas",
+  "bill_number": "SB16",
+  "title": "Prohibiting discrimination by financial services companies on the basis of social credit score and requiring registered investment advisers to obtain written consent from clients prior to investing client moneys in mutual funds, equity funds, companies and financial institutions that engage in ideological boycotts.",
+  "summary": "Prohibiting discrimination by financial services companies on the basis of social credit score and requiring registered investment advisers to obtain written consent from clients prior to investing client moneys in mutual funds, equity funds, companies and financial institutions that engage in ideological boycotts.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KS/bill/SB16/2025",
+  "legiscan_url": "https://legiscan.com/KS/bill/SB16/2025",
+  "state_url": "https://kslegislature.gov/li/b2025_26/measures/sb16/",
+  "sponsors": [
+    "Federal and State Affairs [Sen]"
+  ],
+  "introduced_date": "2025-01-16",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-16",
+      "action": "Senate Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Senate Referred to Committee on Financial Institutions and Insurance",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/sb16_00_0000.pdf",
+      "doc_id": 3061840
+    }
+  ],
+  "committee": {
+    "committee_id": 1405,
+    "chamber": "S",
+    "chamber_id": 42,
+    "name": "Financial Institutions and Insurance"
+  },
+  "subjects": []
+}

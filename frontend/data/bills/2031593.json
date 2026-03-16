@@ -1,0 +1,73 @@
+{
+  "id": 2031593,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S08020",
+  "title": "Enacts the \"New York state agency BIPOC asset management and financial institution strategy act\" to ensure the promotion of equity, diversity, and inclusion within the state pension system and the New York city pension system's investments by mandating a minimum allocation of assets to BIPOC asset managers, BIPOC financial institutions, and BIPOC financial or professional service firms; addresses disparities in investment opportunities and fosters economic growth within BIPOC communities, aligning with best practices in investment management and bolstering the financial well-being of New York City and state and residents thereof (Part A); relates to fair investment practices by investment advisers within the state of New York (Part B).",
+  "summary": "Enacts the \"New York state agency BIPOC asset management and financial institution strategy act\" to ensure the promotion of equity, diversity, and inclusion within the state pension system and the New York city pension system's investments by mandating a minimum allocation of assets to BIPOC asset managers, BIPOC financial institutions, and BIPOC financial or professional service firms; addresses disparities in investment opportunities and fosters economic growth within BIPOC communities, aligning with best practices in investment management and bolstering the financial well-being of New York City and state and residents thereof (Part A); relates to fair investment practices by investment advisers within the state of New York (Part B).",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S08020/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S08020/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S8020",
+  "sponsors": [
+    "Leroy Comrie (D) [Sen]",
+    "Zellnor Myrie (D) [Sen]",
+    "Kevin Parker (D) [Sen]",
+    "Luis Sepulveda (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-15",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-15",
+      "action": "REFERRED TO CIVIL SERVICE AND PENSIONS",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO CIVIL SERVICE AND PENSIONS",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "AMEND (T) AND RECOMMIT TO CIVIL SERVICE AND PENSIONS",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "PRINT NUMBER 8020A",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-15",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S08020&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S08020",
+      "doc_id": 3237894
+    },
+    {
+      "date": "2025-05-15",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S08020&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S08020A",
+      "doc_id": 3302971
+    }
+  ],
+  "committee": {
+    "committee_id": 416,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Civil Service and Pensions"
+  },
+  "subjects": []
+}

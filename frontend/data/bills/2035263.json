@@ -1,0 +1,103 @@
+{
+  "id": 2035263,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB4544",
+  "title": "Health: pharmaceuticals; prescription drug cost and affordability review act; create. Creates new act.",
+  "summary": "Health: pharmaceuticals; prescription drug cost and affordability review act; create. Creates new act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB4544/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB4544/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4544",
+  "sponsors": [
+    "Matt Longjohn (D) [Rep]",
+    "Stephen Wooden (D) [Rep]",
+    "Denise Mentzer (D) [Rep]",
+    "Sharon MacDonell (D) [Rep]",
+    "Helena Scott (D) [Rep]",
+    "Natalie Price (D) [Rep]",
+    "Joey Andrews (D) [Rep]",
+    "Noah Arbit (D) [Rep]",
+    "Dylan Wegela (D) [Rep]",
+    "Kimberly Edwards (D) [Rep]",
+    "Reggie Miller (D) [Rep]",
+    "Morgan Foreman (D) [Rep]",
+    "Jason Hoskins (D) [Rep]",
+    "Jason Morgan (D) [Rep]",
+    "Carrie Rheingans (D) [Rep]",
+    "Tonya Myers Phillips (D) [Rep]",
+    "Erin Byrnes (D) [Rep]",
+    "Phil Skaggs (D) [Rep]",
+    "Tyrone Carter (D) [Rep]",
+    "Jimmie Wilson (D) [Rep]",
+    "Jasper Martus (D) [Rep]",
+    "Amos O'Neal (D) [Rep]",
+    "Cynthia Neeley (D) [Rep]",
+    "Regina Weiss (D) [Rep]",
+    "Emily Dievendorf (D) [Rep]",
+    "Jennifer Conlin (D) [Rep]",
+    "Kelly Breen (D) [Rep]",
+    "Kara Hope (D) [Rep]",
+    "Veronica Paiz (D) [Rep]",
+    "Donavan McKinney (D) [Rep]",
+    "Julie Brixie (D) [Rep]",
+    "Betsy Coffia (D) [Rep]",
+    "Stephanie Young (D) [Rep]",
+    "Carol Glanville (D) [Rep]",
+    "Will Snyder (D) [Rep]",
+    "Mike McFall (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-03",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-06-03",
+      "action": "Introduced By Representative Rep. Matt Longjohn",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "Bill Electronically Reproduced 06/03/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-03",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4544.htm",
+      "doc_id": 3250660
+    }
+  ],
+  "committee": {
+    "committee_id": 899,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Government Operations"
+  },
+  "subjects": [
+    "Health: pharmaceuticals",
+    "State agencies (existing): boards and commissions",
+    "State agencies (existing): insurance and financial services"
+  ]
+}

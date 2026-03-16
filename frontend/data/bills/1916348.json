@@ -1,0 +1,55 @@
+{
+  "id": 1916348,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5255",
+  "title": "Concerning juvenile detention pending disposition of a crime.",
+  "summary": "Concerning juvenile detention pending disposition of a crime.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5255/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5255/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5255&Year=2025&Initiative=false",
+  "sponsors": [
+    "Leonard Christian (R) [Sen]",
+    "John Braun (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-14",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-14",
+      "action": "First reading, referred to Human Services.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-13",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5255.pdf",
+      "doc_id": 3053390
+    }
+  ],
+  "committee": {
+    "committee_id": 4678,
+    "chamber": "S",
+    "chamber_id": 98,
+    "name": "Human Services"
+  },
+  "subjects": []
+}

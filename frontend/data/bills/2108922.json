@@ -1,0 +1,69 @@
+{
+  "id": 2108922,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB3482",
+  "title": "HIGHER ED-MENTAL HLTH COUNCIL",
+  "summary": "Amends the Mental Health Early Action on Campus Act. Requires the Board of Higher Education to establish the Mental Health Council. Establishes the student membership of the Council. Provides that the Council shall make recommendations to the Board regarding youth mental health. Requires the Council to meet at least 4 times annually.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB3482/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB3482/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3482&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "Mike Simmons (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "Filed with Secretary by Sen. Mike Simmons",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Assigned to Appropriations- Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Rule 2-10 Committee Deadline Established As April 24, 2026",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=207829&DocName=10400SB3482&DocNum=3482&DocTypeID=SB&LegID=166483&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3353999
+    }
+  ],
+  "committee": {
+    "committee_id": 4770,
+    "chamber": "S",
+    "chamber_id": 36,
+    "name": "Appropriations  Education"
+  },
+  "subjects": []
+}

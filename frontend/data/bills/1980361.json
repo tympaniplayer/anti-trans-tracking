@@ -1,0 +1,69 @@
+{
+  "id": 1980361,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB1464",
+  "title": "Housing preferences.",
+  "summary": "An act to amend Section 2606 of the Penal Code, relating to prisons.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB1464/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB1464/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1464",
+  "sponsors": [
+    "Alexandra Macedo (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-21",
+      "action": "Introduced. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-22",
+      "action": "From printer. May be heard in committee March 24.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Read first time.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Referred to Com. on PUB. S.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-31",
+      "action": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-21",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1464#99INT",
+      "doc_id": 3137149
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

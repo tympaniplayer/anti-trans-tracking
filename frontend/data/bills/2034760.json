@@ -1,0 +1,56 @@
+{
+  "id": 2034760,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S08310",
+  "title": "Enacts the \"forensic rehabilitation act\" relating to the custody of individuals following a verdict or plea of not responsible by reason of mental disease or defect.",
+  "summary": "Enacts the \"forensic rehabilitation act\" relating to the custody of individuals following a verdict or plea of not responsible by reason of mental disease or defect.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S08310/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S08310/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S8310",
+  "sponsors": [
+    "Samra Brouk (D) [Sen]",
+    "Kristen Gonzalez (D) [Sen]",
+    "Julia Salazar (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-30",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-30",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-30",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S08310&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S08310",
+      "doc_id": 3248615
+    }
+  ],
+  "committee": {
+    "committee_id": 417,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Codes"
+  },
+  "subjects": []
+}

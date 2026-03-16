@@ -1,0 +1,55 @@
+{
+  "id": 2091607,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "S2289",
+  "title": "Allows a tenant with a disability who needs a service animal or an emotional support animal to house the animal on the rented premises.",
+  "summary": "PROPERTY -- RHODE ISLAND FAIR HOUSING PRACTICES ACT - Allows a tenant with a disability who needs a service animal or an emotional support animal to house the animal on the rented premises.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/S2289/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/S2289/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Hanna Gallo (D) [Sen]",
+    "David Tikoian (D) [Sen]",
+    "Frank Ciccone (D) [Sen]",
+    "Louis Dipalma (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Introduced, referred to Senate Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-23",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/SenateText26/S2289.pdf",
+      "doc_id": 3330097
+    }
+  ],
+  "committee": {
+    "committee_id": 1140,
+    "chamber": "S",
+    "chamber_id": 84,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Property",
+    "PROPERTY -- RHODE ISLAND FAIR HOUSING PRACTICES ACT"
+  ]
+}

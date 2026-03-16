@@ -1,0 +1,65 @@
+{
+  "id": 2108808,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB5155",
+  "title": "INCARCERATED INDIVIDUALS DATA",
+  "summary": "Creates the Incarceration Demographic Data Transparency Act. Provides that for each person confined for any length of time in a State correctional institution or county jail demographic data shall be collected. Provides that the data shall consist of the race, ethnicity, and gender of confined persons. Provides that the Department of Corrections shall establish uniform statewide standards for the collection of demographic data that: (1) are consistent with applicable federal civil rights reporting requirements; (2) promote accuracy and consistency across jurisdictions; and (3) protect the dignity, privacy, and safety of confined individuals. Provides that the Department shall collect and maintain demographic data for all covered individuals confined in State correctional facilities. Provides that each county sheriff shall collect demographic data for covered individuals confined in county jails and shall submit such data to the Department in the form and manner prescribed by the Department. Provides that demographic data shall be submitted and reported at least quarterly and shall include: (1) snapshot population counts; and (2) admissions and releases occurring during the reporting period. Provides that the Department shall publish demographic data collected under the Act on a publicly accessible website in a searchable and downloadable. Provides that publicly reported data shall: (1) be aggregated and de-identified; and (2) exclude or suppress categories where disclosure would create a reasonable risk of identifying an individual. Provides that nothing in the Act authorizes the public release of personally identifiable information. Provides that the Department shall oversee implementation and compliance with the Act and provide guidance, reporting templates, and technical assistance to county sheriffs as necessary to implement the Act. Provides that the implementation of the Act is subject to appropriation. Provides that no criminal penalty shall apply to good-faith errors, technical mistakes, or omissions that are promptly corrected upon notice. Provides that the criminal penalties provided in this provision do not preclude administrative sanctions, civil penalties, injunctive relief, or other remedies authorized by law.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms",
+    "religious_exemptions"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB5155/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB5155/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5155&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Sonya Harper (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "Filed with the Clerk by Rep. Sonya M. Harper",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Assigned to Judiciary - Criminal Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-05",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=208119&DocName=10400HB5155&DocNum=5155&DocTypeID=HB&LegID=166773&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3355008
+    }
+  ],
+  "committee": {
+    "committee_id": 3302,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Judiciary - Criminal"
+  },
+  "subjects": []
+}

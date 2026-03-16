@@ -1,0 +1,103 @@
+{
+  "id": 2014017,
+  "state": "NC",
+  "state_name": "North Carolina",
+  "bill_number": "S571",
+  "title": "MOMnibus 3.0",
+  "summary": "MOMnibus 3.0",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NC/bill/S571/2025",
+  "legiscan_url": "https://legiscan.com/NC/bill/S571/2025",
+  "state_url": "https://www.ncleg.gov/BillLookUp/2025/S571",
+  "sponsors": [
+    "Natalie Murdock (D) [Sen]",
+    "Sydney Batch (D) [Sen]",
+    "Gladys Robinson (D) [Sen]",
+    "Val Applewhite (D) [Sen]",
+    "Woodson Bradley (D) [Sen]",
+    "Sophia Chitlik (D) [Sen]",
+    "Lisa Grafstein (D) [Sen]",
+    "Julie Mayfield (D) [Sen]",
+    "Mujtaba Mohammed (D) [Sen]",
+    "DeAndrea Salvador (D) [Sen]",
+    "Kandie Smith (D) [Sen]",
+    "Joyce Waddell (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-25",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-03-25",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Passed 1st Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Ref To Com On Rules and Operations of the Senate",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-25",
+      "type": "Introduced",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S571v0.pdf",
+      "doc_id": 3187670
+    },
+    {
+      "date": "2025-03-26",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S571v1.pdf",
+      "doc_id": 3189656
+    }
+  ],
+  "committee": {
+    "committee_id": 698,
+    "chamber": "S",
+    "chamber_id": 76,
+    "name": "Rules and Operations of the Senate"
+  },
+  "subjects": [
+    "Appropriations",
+    "Boards",
+    "Budgeting",
+    "Colleges & Universities",
+    "Corporations, Nonprofit",
+    "Death & Dying",
+    "Dhhs",
+    "Education",
+    "Funding",
+    "Grants",
+    "Health Education",
+    "Health Services",
+    "Higher Education",
+    "Minorities",
+    "Minors",
+    "Pregnancy",
+    "Public",
+    "Public Health",
+    "Reports",
+    "Unc",
+    "Unc Board Of Governors",
+    "Women",
+    "Ngos",
+    "Newborns & Infants",
+    "Family Issues",
+    "Patient Rights"
+  ]
+}

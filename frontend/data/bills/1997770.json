@@ -1,0 +1,59 @@
+{
+  "id": 1997770,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S29",
+  "title": "To establish the Massachusetts Data Privacy Act",
+  "summary": "For legislation to establish the Massachusetts Data Privacy Protection Act. Advanced Information Technology, the Internet and Cybersecurity.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S29/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S29/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S29",
+  "sponsors": [
+    "Cynthia Creem (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Hearing scheduled for 04/09/2025 from 01:00 PM-05:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Accompanied a new draft, see S2516",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S29.pdf",
+      "doc_id": 3163001
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

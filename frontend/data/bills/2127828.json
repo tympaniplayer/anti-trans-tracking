@@ -1,0 +1,51 @@
+{
+  "id": 2127828,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "SJR103",
+  "title": "Designates November of each year as \"Transgender Awareness Month.\"",
+  "summary": "Designates November of each year as \"Transgender Awareness Month.\"",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/SJR103/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/SJR103/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/SJR103",
+  "sponsors": [
+    "Teresa Ruiz (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-05",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-05",
+      "action": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-06",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/SJR/103_I1.HTM",
+      "doc_id": 3387240
+    }
+  ],
+  "committee": {
+    "committee_id": 879,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Health, Human Services and Senior Citizens"
+  },
+  "subjects": [
+    "Health, Human Services and Senior Citizens"
+  ]
+}

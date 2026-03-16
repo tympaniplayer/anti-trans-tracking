@@ -1,0 +1,66 @@
+{
+  "id": 1894588,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB1521",
+  "title": "Relating to the implementation of diversity, equity, and inclusion initiatives by certain governmental entities.",
+  "summary": "Relating to the implementation of diversity, equity, and inclusion initiatives by certain governmental entities.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB1521/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB1521/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1521",
+  "sponsors": [
+    "Stan Gerdes (R) [Rep]",
+    "Carl Tepper (R) [Rep]",
+    "Nate Schatzline (R) [Rep]",
+    "William Metcalf (R) [Rep]"
+  ],
+  "introduced_date": "2024-12-04",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-12-04",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Referred to State Affairs",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-12-04",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB01521I.htm",
+      "doc_id": 3030256
+    }
+  ],
+  "committee": {
+    "committee_id": 1895,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "Human Relations",
+    "State Agencies, Boards & Commissions",
+    "DISCRIMINATION"
+  ]
+}

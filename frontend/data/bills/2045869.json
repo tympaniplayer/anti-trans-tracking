@@ -1,0 +1,60 @@
+{
+  "id": 2045869,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR790",
+  "title": "Designating October 10, 2025, as \"American Girls in Sports Day\".",
+  "summary": "Designating October 10, 2025, as \"American Girls in Sports Day\".",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR790/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR790/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/790/all-info",
+  "sponsors": [
+    "Erin Houchin (R) [Rep]",
+    "Nancy Mace (R) [Rep]",
+    "Jake Ellzey (R) [Rep]",
+    "Julia Letlow (R) [Rep]",
+    "Tim Burchett (R) [Rep]"
+  ],
+  "introduced_date": "2025-10-06",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-10-06",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-06",
+      "action": "Referred to the House Committee on Education and Workforce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-07",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres790/BILLS-119hres790ih.pdf",
+      "doc_id": 3272132
+    }
+  ],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": [
+    "Sports and recreation"
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "id": 1961929,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB3567",
+  "title": "AI-MEANINGFUL HUMAN REVIEW",
+  "summary": "Creates the Meaningful Human Review of Artificial Intelligence Act. Sets forth provisions prohibiting a State agency, or any entity acting on behalf of an agency, from utilizing or applying any automated decision-making system, directly or indirectly, without continuous meaningful human review when performing any of the agency's specified functions. Requires impact assessments to be performed by State agencies seeking to utilize or apply an automated decision-making system with continuous meaningful human review. Provides that the impact assessment shall include a description of the objectives of the automated decision-making system; an evaluation of the ability of the automated decision-making system to achieve its stated objectives; a specified description and evaluation of the objectives and development of the automated decision-making; testing of the automated decision-making system; and the notification mechanism or procedure, if any, by which individuals impacted by the utilization of the automated decision-making system may be notified of the use of such automated decision-making system and of the individual's personal data, and informed of their rights and options relating to such use. Requires submission of impact assessments to the Governor and General Assembly.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB3567/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB3567/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3567&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Amy Briel (D) [Rep]",
+    "Abdelnasser Rashid (D) [Rep]",
+    "Norma Hernandez (D) [Rep]",
+    "Hoan Huynh (D) [Rep]",
+    "Gregg Johnson (D) [Rep]",
+    "Rick Ryan (D) [Rep]",
+    "Michael Crawford (D) [Rep]",
+    "Lisa Davis (D) [Rep]",
+    "Harry Benton (D) [Rep]",
+    "Kevin Olickal (D) [Rep]",
+    "Kelly Cassidy (D) [Rep]",
+    "Will Guzzardi (D) [Rep]",
+    "Yolanda Morris (D) [Rep]",
+    "Aaron Ortiz (D) [Rep]",
+    "Nicolle Grasse (D) [Rep]",
+    "Martha Deuter (D) [Rep]",
+    "Maurice West (D) [Rep]",
+    "Matt Hanson (D) [Rep]",
+    "Laura Faver Dias (D) [Rep]",
+    "Camille Lilly (D) [Rep]",
+    "Kimberly Du Buclet (D) [Rep]",
+    "Katie Stuart (D) [Rep]",
+    "Fred Crespo (D) [Rep]",
+    "Mary Canty (D) [Rep]",
+    "Dagmara Avelar (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-07",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-07",
+      "action": "Filed with the Clerk by Rep. Amy Briel",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Assigned to Cybersecurity, Data Analytics, & IT Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Added Chief Co-Sponsor Rep. Abdelnasser Rashid",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Co-Sponsor Rep. Hoan Huynh",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Co-Sponsor Rep. Gregg Johnson",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Co-Sponsor Rep. Rick Ryan",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Co-Sponsor Rep. Michael Crawford",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Co-Sponsor Rep. Lisa Davis",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Co-Sponsor Rep. Harry Benton",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Co-Sponsor Rep. Kevin John Olickal",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Co-Sponsor Rep. Kelly M. Cassidy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Chief Co-Sponsor Rep. Norma Hernandez",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Chief Co-Sponsor Changed to Rep. Norma Hernandez",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Co-Sponsor Rep. Will Guzzardi",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Co-Sponsor Rep. Yolonda Morris",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Co-Sponsor Rep. Aar\u00f3n M. Ort\u00edz",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Added Co-Sponsor Rep. Nicolle Grasse",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Added Co-Sponsor Rep. Martha Deuter",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Added Co-Sponsor Rep. Maurice A. West, II",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Added Co-Sponsor Rep. Matt Hanson",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Added Co-Sponsor Rep. Laura Faver Dias",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Added Co-Sponsor Rep. Camille Y. Lilly",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Added Co-Sponsor Rep. Kimberly Du Buclet",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Added Co-Sponsor Rep. Katie Stuart",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Added Co-Sponsor Rep. Fred Crespo",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Added Co-Sponsor Rep. Mary Beth Canty",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Added Co-Sponsor Rep. Dagmara Avelar",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Rule 19(a) / Re-referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Assigned to Cybersecurity, Data Analytics, & IT Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-07",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=202045&DocName=10400HB3567&DocNum=3567&DocTypeID=HB&LegID=162257&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3108191
+    }
+  ],
+  "committee": {
+    "committee_id": 3630,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Cybersecurity, Data Analytics, & IT"
+  },
+  "subjects": []
+}

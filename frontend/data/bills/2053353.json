@@ -1,0 +1,57 @@
+{
+  "id": 2053353,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB3206",
+  "title": "Transgender Health Care Access Act",
+  "summary": "A bill to improve access to evidence-based, lifesaving health care for transgender people, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB3206/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB3206/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3206/all-info",
+  "sponsors": [
+    "Edward Markey (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]"
+  ],
+  "introduced_date": "2025-11-19",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-11-19",
+      "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-16",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s3206/BILLS-119s3206is.pdf",
+      "doc_id": 3291347
+    }
+  ],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

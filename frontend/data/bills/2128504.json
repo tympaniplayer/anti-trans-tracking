@@ -1,0 +1,54 @@
+{
+  "id": 2128504,
+  "state": "CT",
+  "state_name": "Connecticut",
+  "bill_number": "SB00415",
+  "title": "An Act Concerning Transportation Network Companies And Rider Safety.",
+  "summary": "To require a transportation network company to (1) annually conduct criminal history records checks of transportation network company drivers, (2) provide annual sexual misconduct prevention and driver education training, and (3) implement certain safety features through its digital network to ensure the safety of riders.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CT/bill/SB00415/2026",
+  "legiscan_url": "https://legiscan.com/CT/bill/SB00415/2026",
+  "state_url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00415&which_year=2026",
+  "sponsors": [
+    "Transportation Committee [Jnt]"
+  ],
+  "introduced_date": "2026-03-04",
+  "session": "2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "action": "Referred to Joint Committee on Transportation",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Public Hearing 03/09",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-03",
+      "type": "Introduced",
+      "url": "https://www.cga.ct.gov/2026/TOB/S/PDF/2026SB-00415-R00-SB.PDF",
+      "doc_id": 3383101
+    }
+  ],
+  "committee": {
+    "committee_id": 1362,
+    "chamber": "J",
+    "chamber_id": 108,
+    "name": "Transportation"
+  },
+  "subjects": []
+}

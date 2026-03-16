@@ -1,0 +1,72 @@
+{
+  "id": 2063567,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HB207",
+  "title": "Relating To Sex-specific Student Athletic Teams.",
+  "summary": "Creates the requirement of school sports to designate sex-specific teams for the purpose of gender equality.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "education"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HB207/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HB207/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=207&year=2026",
+  "sponsors": [
+    "Diamond Garcia (R) [Rep]",
+    "David Alcos (R) [Rep]",
+    "Garner Shimizu (R) [Rep]",
+    "Gene Ward (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-16",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-15",
+      "action": "Pending introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-16",
+      "action": "Introduced and Pass First Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Referred to EDN, JHA, FIN, referral sheet 1",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-15",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB207_.HTM",
+      "doc_id": 3297388
+    }
+  ],
+  "committee": {
+    "committee_id": 2036,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Education"
+  },
+  "subjects": [
+    "Sex-specific athletic teams",
+    "School Sports",
+    "Education"
+  ]
+}

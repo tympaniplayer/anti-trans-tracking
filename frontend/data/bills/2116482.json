@@ -1,0 +1,78 @@
+{
+  "id": 2116482,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB1539",
+  "title": "Maryland Labor Relations Act",
+  "summary": "Establishing the Maryland Labor Relations Board as an independent unit of State government to oversee collective bargaining activities for certain private sector employees; establishing certain rights for employees and employers related to collective bargaining; establishing certain procedures related to elections and certification of exclusive representatives; and prohibiting an employer and employee organizations from engaging in certain unfair labor practices.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB1539/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB1539/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1539?ys=2026RS",
+  "sponsors": [
+    "C.T. Wilson (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-13",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-13",
+      "action": "First Reading Government, Labor, and Elections",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Hearing 3/05 at 1:00 p.m.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-15",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb1539f.pdf",
+      "doc_id": 3363213
+    }
+  ],
+  "committee": {
+    "committee_id": 5240,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Government, Labor, and Elections"
+  },
+  "subjects": [
+    "Private Sector Labor and Industry",
+    "State Government - Agencies, Offices, and Officials",
+    "Ballots",
+    "Certifications",
+    "Collective Bargaining",
+    "Committees and Commissions",
+    "Discrimination",
+    "Diversity, Equity, and Inclusion",
+    "Elections",
+    "Ethics",
+    "Governor",
+    "Hearings",
+    "Identification",
+    "meetings",
+    "Notices",
+    "Petitions",
+    "Records",
+    "Reports",
+    "Rules and Regulations",
+    "Standards and Best Practices",
+    "Subscriptions and Memberships",
+    "Unfair Trade Practices",
+    "Work, Labor, and Employment"
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "id": 2081740,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "HB3959",
+  "title": "Technology; Protecting Consumers and Jobs from Predatory Pricing Act; personalized algorithmic pricing; consumer data; food retailers; effective date.",
+  "summary": "Technology; Protecting Consumers and Jobs from Predatory Pricing Act; personalized algorithmic pricing; consumer data; food retailers; effective date.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/HB3959/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/HB3959/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=hb3959&Session=2600",
+  "sponsors": [
+    "Cyndi Munson (D) [Rep]",
+    "Ellen Pogemiller (D) [Rep]",
+    "Andy Fugate (D) [Rep]",
+    "Melissa Provenzano (D) [Rep]",
+    "Trish Ranson (D) [Rep]",
+    "Ellyn Hefner (D) [Rep]",
+    "Arturo Alonso-Sandoval (D) [Rep]",
+    "Annie Menz (D) [Rep]",
+    "Aletia Timmons (D) [Rep]",
+    "Ronald Stewart (D) [Rep]",
+    "Mickey Dollens (D) [Rep]",
+    "Amanda Clinton (D) [Rep]",
+    "John Waldron (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Authored by Representative Munson",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Second Reading referred to Rules",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Withdrawn from Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Referred to Commerce and Economic Development Oversight",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Referred to Business",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-15",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/hB/HB3959%20INT.PDF",
+      "doc_id": 3318921
+    }
+  ],
+  "committee": {
+    "committee_id": 5111,
+    "chamber": "H",
+    "chamber_id": 79,
+    "name": "Business"
+  },
+  "subjects": []
+}

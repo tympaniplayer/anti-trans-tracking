@@ -1,0 +1,66 @@
+{
+  "id": 2122933,
+  "state": "LA",
+  "state_name": "Louisiana",
+  "bill_number": "HB293",
+  "title": "Provides relative to employment discrimination based on gender identity and sexual orientation",
+  "summary": "Provides relative to employment discrimination based on gender identity and sexual orientation",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/LA/bill/HB293/2026",
+  "legiscan_url": "https://legiscan.com/LA/bill/HB293/2026",
+  "state_url": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB293&sbi=y",
+  "sponsors": [
+    "Delisha Boyd (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-24",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-24",
+      "action": "Prefiled.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Under the rules, provisionally referred to the Committee on Labor and Industrial Relations.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "First appeared in the Interim Calendar on 2/27/2026.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Read by title, under the rules, referred to the Committee on Labor and Industrial Relations.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1442422",
+      "doc_id": 3373392
+    }
+  ],
+  "committee": {
+    "committee_id": 1166,
+    "chamber": "H",
+    "chamber_id": 45,
+    "name": "Labor and Industrial Relations"
+  },
+  "subjects": [
+    "DISCRIMINATION"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 2124384,
+  "state": "CT",
+  "state_name": "Connecticut",
+  "bill_number": "SB00353",
+  "title": "An Act Concerning Reasonable Accommodations In The Workplace For Conditions Related To Menopause.",
+  "summary": "To (1) require employers to provide reasonable accommodations in the workplace for conditions related to menopause, (2) require the Commission on Human Rights and Opportunities to develop a model workplace policy regarding reasonable accommodations for conditions related to menopause, and (3) require the Commission on Human Rights and Opportunities to develop education materials regarding conditions related to menopause.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CT/bill/SB00353/2026",
+  "legiscan_url": "https://legiscan.com/CT/bill/SB00353/2026",
+  "state_url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00353&which_year=2026",
+  "sponsors": [
+    "Labor and Public Employees Committee [Jnt]",
+    "Kai Belton (D) [Rep]",
+    "Nick Gauthier (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-26",
+  "session": "2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "action": "Referred to Joint Committee on Labor and Public Employees",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Public Hearing 03/03",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-25",
+      "type": "Introduced",
+      "url": "https://www.cga.ct.gov/2026/TOB/S/PDF/2026SB-00353-R00-SB.PDF",
+      "doc_id": 3376120
+    }
+  ],
+  "committee": {
+    "committee_id": 1355,
+    "chamber": "J",
+    "chamber_id": 108,
+    "name": "Labor and Public Employees"
+  },
+  "subjects": []
+}

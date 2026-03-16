@@ -1,0 +1,60 @@
+{
+  "id": 2110864,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "S2499",
+  "title": "Creates a comprehensive statutory framework to address and regulate the use of artificial intelligence in the workplace, considering the interests of employers and employees.",
+  "summary": "LABOR AND LABOR RELATIONS -- ARTIFICIAL INTELLIGENCE USE AND FAIR EMPLOYMENT PRACTICES - Creates a comprehensive statutory framework to address and regulate the use of artificial intelligence in the workplace, considering the interests of employers and employees.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/S2499/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/S2499/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Victoria Gu (D) [Sen]",
+    "Louis Dipalma (D) [Sen]",
+    "Samuel Zurier (D) [Sen]",
+    "Lori Urso (D) [Sen]",
+    "Frank Ciccone (D) [Sen]",
+    "John Burke (D) [Sen]",
+    "Mark McKenney (D) [Sen]",
+    "Samuel Bell (D) [Sen]",
+    "Peter Appollonio (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-06",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "action": "Introduced, referred to Senate Labor and Gaming",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/SenateText26/S2499.pdf",
+      "doc_id": 3351784
+    }
+  ],
+  "committee": {
+    "committee_id": 5054,
+    "chamber": "S",
+    "chamber_id": 84,
+    "name": "Labor and Gaming"
+  },
+  "subjects": [
+    "Labor And Labor Relations",
+    "LABOR AND LABOR RELATIONS -- ARTIFICIAL INTELLIGENCE USE AND FAIR EMPLOYMENT PRACTICES"
+  ]
+}

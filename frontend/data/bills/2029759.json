@@ -1,0 +1,56 @@
+{
+  "id": 2029759,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "H4538",
+  "title": "Abortion",
+  "summary": "Amend The South Carolina Code Of Laws By Enacting The \"protections From Abortion-inducing Drugs Act\" By Adding Article 8 To Chapter 41, Title 44 So As To Prohibit The Manufacturing, Possession, Distribution, Mailing, Transporting, Delivering, Or Providing Of Abortion-inducing Drugs In This State Or Engaging In Conduct That Would Make A Person An Accomplice To The Prohibited Conduct, With Exceptions; To Define Terms; To Authorize Qui Tam Actions For Violation Of The Provisions Of The Article; And For Other Purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/H4538/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/H4538/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4538&session=126&summary=B",
+  "sponsors": [
+    "Melissa Oremus (R) [Rep]",
+    "April Cromer (R) [Rep]"
+  ],
+  "introduced_date": "2025-05-08",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-08",
+      "action": "Introduced and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-08",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4538_20250508.htm",
+      "doc_id": 3232804
+    }
+  ],
+  "committee": {
+    "committee_id": 708,
+    "chamber": "H",
+    "chamber_id": 85,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

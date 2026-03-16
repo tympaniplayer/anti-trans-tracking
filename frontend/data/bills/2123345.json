@@ -1,0 +1,108 @@
+{
+  "id": 2123345,
+  "state": "AL",
+  "state_name": "Alabama",
+  "bill_number": "SB319",
+  "title": "Shelby County; City of Helena, civil service system established, board, director, policies, and appeals created",
+  "summary": "Shelby County; City of Helena, civil service system established, board, director, policies, and appeals created",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AL/bill/SB319/2026",
+  "legiscan_url": "https://legiscan.com/AL/bill/SB319/2026",
+  "state_url": "https://alison.legislature.state.al.us/bill-search",
+  "sponsors": [
+    "April Weaver (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-24",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-24",
+      "action": "Read for the first time and referred to the Senate Committee on Shelby County Legislation",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Pending Senate Shelby County Legislation",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Reported Out of Committee House of Origin",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Read for the Second Time and placed on the Calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Third Reading in House of Origin",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Motion to Read a Third Time and Pass - Adopted Roll Call 625",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Read for the first time and referred to the House Committee on Shelby County Legislation",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Pending House Shelby County Legislation",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-26",
+      "description": "SBIR: Passed by House of Origin",
+      "yea": 29,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-26",
+      "description": "Third Reading in House of Origin",
+      "yea": 29,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-26",
+      "description": "Motion to Read a Third Time and Pass - Roll Call 625",
+      "yea": 29,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-02-24",
+      "type": "Introduced",
+      "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB319-int.pdf",
+      "doc_id": 3374160
+    }
+  ],
+  "committee": {
+    "committee_id": 985,
+    "chamber": "H",
+    "chamber_id": 11,
+    "name": "Shelby County Legislation"
+  },
+  "subjects": [
+    "Shelby County"
+  ]
+}

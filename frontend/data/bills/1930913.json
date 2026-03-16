@@ -1,0 +1,120 @@
+{
+  "id": 1930913,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB1451",
+  "title": "DHS-GAMBLING DISORDERS",
+  "summary": "Amends the Substance Use Disorder Act. In provisions requiring the Department of Human Services to establish a public education program regarding gambling disorders, requires the program to (i) promote public awareness to create a gambling informed State regarding the impact of gambling disorders on individuals, families, and communities and the stigma that surrounds gambling disorders and (ii) use screening, crisis intervention, treatment, public awareness, prevention, in-service training, and other innovative means to decrease the incidents of suicide attempts related to a gambling disorder or gambling issues. Requires the Department to determine a statement regarding obtaining assistance with a gambling disorder, which each licensed gambling establishment owner shall post and each master sports wagering licensee shall include on the master sports wagering licensee's portal, Internet website, or computer or mobile application. Permits the Department: to provide advice to State and local officials on gambling disorders; to support gambling disorder prevention, recognition, treatment, and recovery projects; to collaborate with other community-based organizations, substance use disorder treatment centers, or other health care providers engaged in treating individuals who are experiencing gambling disorder; and to perform other actions. Permits the Department to award grants to create or support local gambling prevention, recognition, and response projects. Makes other changes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "sports"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB1451/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB1451/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1451&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Daniel Didech (D) [Rep]",
+    "Tracy Katz Muhl (D) [Rep]",
+    "Nicolle Grasse (D) [Rep]",
+    "Kevin Olickal (D) [Rep]",
+    "Theresa Mah (D) [Rep]",
+    "Will Guzzardi (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-21",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-21",
+      "action": "Filed with the Clerk by Rep. Daniel Didech",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Assigned to Human Services Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Added Chief Co-Sponsor Rep. Tracy Katz Muhl",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Do Pass / Short Debate Human Services Committee; 010-001-000",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Placed on Calendar 2nd Reading - Short Debate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Added Co-Sponsor Rep. Nicolle Grasse",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Second Reading - Short Debate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Held on Calendar Order of Second Reading - Short Debate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Rule 19(a) / Re-referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-27",
+      "action": "Added Co-Sponsor Rep. Kevin John Olickal",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-03",
+      "action": "Added Co-Sponsor Rep. Theresa Mah",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-04",
+      "action": "Added Co-Sponsor Rep. Will Guzzardi",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-21",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=197290&DocName=10400HB1451&DocNum=1451&DocTypeID=HB&LegID=157500&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3068454
+    }
+  ],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
+  "subjects": []
+}

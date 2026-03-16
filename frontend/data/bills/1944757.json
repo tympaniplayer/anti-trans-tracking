@@ -1,0 +1,79 @@
+{
+  "id": 1944757,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1699",
+  "title": "Defending equity in interscholastic sports.",
+  "summary": "Defending equity in interscholastic sports.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1699/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1699/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1699&Year=2025&Initiative=false",
+  "sponsors": [
+    "Mike Volz (R) [Rep]",
+    "Jim Walsh (R) [Rep]",
+    "Rob Chase (R) [Rep]",
+    "Jenny Graham (R) [Rep]",
+    "Daniel Griffey (R) [Rep]",
+    "Suzanne Schmidt (R) [Rep]",
+    "David Stuebe (R) [Rep]",
+    "Tom Dent (R) [Rep]",
+    "Ed Orcutt (R) [Rep]",
+    "John Ley (R) [Rep]",
+    "Mark Klicker (R) [Rep]",
+    "Andrew Barkis (R) [Rep]",
+    "Michelle Valdez (R) [Rep]",
+    "Peter Abbarno (R) [Rep]",
+    "Travis Couture (R) [Rep]",
+    "Matt Marshall (R) [Rep]",
+    "Stephanie McClintock (R) [Rep]",
+    "Brian Burnett (R) [Rep]",
+    "Joe Schmick (R) [Rep]",
+    "Mary Dye (R) [Rep]",
+    "Cyndy Jacobsen (R) [Rep]",
+    "April Connors (R) [Rep]",
+    "Chris Corry (R) [Rep]",
+    "Alex Ybarra (R) [Rep]",
+    "Stephanie Barnard (R) [Rep]",
+    "Andrew Engell (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-29",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-29",
+      "action": "First reading, referred to Education.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1699.pdf",
+      "doc_id": 3086583
+    }
+  ],
+  "committee": {
+    "committee_id": 930,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Education"
+  },
+  "subjects": []
+}

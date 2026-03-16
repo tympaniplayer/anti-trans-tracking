@@ -1,0 +1,54 @@
+{
+  "id": 2109098,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S3413",
+  "title": "\"New Jersey Kids Code Act\", adopts Age-Appropriate Design Code for New Jersey and requires certain online services to implement certain measures concerning minors' use of online service.",
+  "summary": "\"New Jersey Kids Code Act\", adopts Age-Appropriate Design Code for New Jersey and requires certain online services to implement certain measures concerning minors' use of online service.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S3413/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S3413/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S3413",
+  "sponsors": [
+    "Raj Mukherji (D) [Sen]",
+    "Linda Greenstein (D) [Sen]",
+    "Anthony M. Bucco (R) [Sen]",
+    "James Beach (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-09",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-09",
+      "action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-10",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S3500/3413_I1.HTM",
+      "doc_id": 3355910
+    }
+  ],
+  "committee": {
+    "committee_id": 882,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Law and Public Safety"
+  },
+  "subjects": [
+    "Law and Public Safety"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": 1897906,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A00041",
+  "title": "Prohibits a court from granting, denying or deciding a petition for guardianship, custody or visitation solely on the allegation or basis that a parent or guardian is providing or facilitating the provision of gender affirming care to the subject child.",
+  "summary": "Prohibits a court from granting, denying or deciding a petition for guardianship, custody or visitation solely on the allegation or basis that a parent or guardian is providing or facilitating the provision of gender affirming care to the subject child.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A00041/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A00041/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A41",
+  "sponsors": [
+    "Christopher Burdick (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-08",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "referred to judiciary",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to judiciary",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A00041&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A00041",
+      "doc_id": 3034703
+    }
+  ],
+  "committee": {
+    "committee_id": 373,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": 2051491,
+  "state": "FL",
+  "state_name": "Florida",
+  "bill_number": "S0336",
+  "title": "Gay and Transgender Panic Legal Defenses",
+  "summary": "Citing this act as the \"Gay and Transgender Panic Legal Defenses Prohibition Act\"; prohibiting individuals from using a nonviolent sexual advance or specified perceptions or beliefs about another individual as a defense to a criminal offense, to excuse or justify an individual's conduct, or to mitigate the severity of an offense, etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/FL/bill/S0336/2026",
+  "legiscan_url": "https://legiscan.com/FL/bill/S0336/2026",
+  "state_url": "https://www.flsenate.gov/Session/Bill/2026/336",
+  "sponsors": [
+    "Carlos Smith (D) [Sen]"
+  ],
+  "introduced_date": "2025-11-04",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-11-04",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-17",
+      "action": "Referred to Criminal Justice; Judiciary; Fiscal Policy",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Introduced",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-04",
+      "type": "Introduced",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/336/BillText/Filed/HTML",
+      "doc_id": 3282987
+    }
+  ],
+  "committee": {
+    "committee_id": 546,
+    "chamber": "S",
+    "chamber_id": 28,
+    "name": "Criminal Justice"
+  },
+  "subjects": []
+}

@@ -1,0 +1,53 @@
+{
+  "id": 2099229,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A373",
+  "title": "Requires school safety teams to include coaches; broadens definition of \"harassment, intimidation or bullying\" to include hazing; requires coaches and certain advisors to complete training on anti-bullying policy.",
+  "summary": "Requires school safety teams to include coaches; broadens definition of \"harassment, intimidation or bullying\" to include hazing; requires coaches and certain advisors to complete training on anti-bullying policy.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "education",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A373/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A373/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A373",
+  "sponsors": [
+    "Victoria Flynn (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Education Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-26",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A0500/373_I1.HTM",
+      "doc_id": 3338314
+    }
+  ],
+  "committee": {
+    "committee_id": 854,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Education"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": 2059126,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB2153",
+  "title": "Prohibiting homebuyers from receiving multiple state-funded down payment assistance loans or grants.",
+  "summary": "Prohibiting homebuyers from receiving multiple state-funded down payment assistance loans or grants.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB2153/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB2153/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=2153&Year=2025&Initiative=false",
+  "sponsors": [
+    "April Connors (R) [Rep]",
+    "Andrew Barkis (R) [Rep]",
+    "Cyndy Jacobsen (R) [Rep]",
+    "Mari Leavitt (D) [Rep]",
+    "John Ley (R) [Rep]",
+    "Rob Chase (R) [Rep]",
+    "Suzanne Schmidt (R) [Rep]",
+    "Sam Low (R) [Rep]",
+    "Stephanie Barnard (R) [Rep]",
+    "Michael Keaton (R) [Rep]",
+    "Mary Dye (R) [Rep]",
+    "Jenny Graham (R) [Rep]",
+    "Michelle Valdez (R) [Rep]",
+    "Travis Couture (R) [Rep]",
+    "Joe Schmick (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-16",
+      "action": "Prefiled for introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "First reading, referred to Housing.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2153.pdf",
+      "doc_id": 3291107
+    }
+  ],
+  "committee": {
+    "committee_id": 4673,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Housing"
+  },
+  "subjects": []
+}

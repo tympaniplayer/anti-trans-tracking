@@ -1,0 +1,61 @@
+{
+  "id": 2026758,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF3461",
+  "title": "Constitutional amendment providing for equal rights under the law and prohibiting discrimination based on certain characteristics",
+  "summary": "Constitutional amendment providing for equal rights under the law and prohibiting discrimination based on certain characteristics",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF3461/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF3461/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3461/",
+  "sponsors": [
+    "Sandra Pappas (D) [Sen]",
+    "Erin Maye Quade (D) [Sen]",
+    "John Marty (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-28",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-04-28",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Referred to Judiciary and Public Safety",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-18",
+      "action": "Authors added Maye Quade; Marty",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-25",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3461/versions/0/pdf/",
+      "doc_id": 3222889
+    }
+  ],
+  "committee": {
+    "committee_id": 1748,
+    "chamber": "S",
+    "chamber_id": 56,
+    "name": "Judiciary and Public Safety"
+  },
+  "subjects": []
+}

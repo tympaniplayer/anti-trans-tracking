@@ -1,0 +1,79 @@
+{
+  "id": 2058603,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB6682",
+  "title": "Endometriosis CARE Act Endometriosis Coverage, Awareness, Research, and Education Act",
+  "summary": "To advance research, promote awareness, and provide patient support with respect to endometriosis, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB6682/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB6682/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/6682/all-info",
+  "sponsors": [
+    "Nikema Williams (D) [Rep]",
+    "Lauren Underwood (D) [Rep]",
+    "Alma Adams (D) [Rep]",
+    "Gil Cisneros (D) [Rep]",
+    "Yvette Clarke (D) [Rep]",
+    "Laura Friedman (D) [Rep]",
+    "Maxwell Frost (D) [Rep]",
+    "Daniel Goldman (D) [Rep]",
+    "Pablo Jose Hernandez (D) [Rep]",
+    "Timothy Kennedy (D) [Rep]",
+    "LaMonica McIver (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Mark Pocan (D) [Rep]",
+    "David Scott (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Paul Tonko (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Sanford Bishop (D) [Rep]",
+    "Seth Moulton (D) [Rep]",
+    "Shontel Brown (D) [Rep]",
+    "Zoe Lofgren (D) [Rep]",
+    "Josh Gottheimer (D) [Rep]",
+    "Lori Trahan (D) [Rep]",
+    "April McClain-Delaney (D) [Rep]"
+  ],
+  "introduced_date": "2025-12-11",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-12-11",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-11",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-04",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr6682/BILLS-119hr6682ih.pdf",
+      "doc_id": 3299307
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

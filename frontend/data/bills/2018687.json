@@ -1,0 +1,116 @@
+{
+  "id": 2018687,
+  "state": "NC",
+  "state_name": "North Carolina",
+  "bill_number": "H725",
+  "title": "MOMnibus 3.0",
+  "summary": "MOMnibus 3.0",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NC/bill/H725/2025",
+  "legiscan_url": "https://legiscan.com/NC/bill/H725/2025",
+  "state_url": "https://www.ncleg.gov/BillLookUp/2025/H725",
+  "sponsors": [
+    "Julie von Haefen (D) [Rep]",
+    "Zack Forde-Hawkins (D) [Rep]",
+    "Vernetta Alston (D) [Rep]",
+    "Monika Johnson-Hostler (D) [Rep]",
+    "Amber Baker (D) [Rep]",
+    "Cynthia Ball (D) [Rep]",
+    "Mary Belk (D) [Rep]",
+    "Terry Brown (D) [Rep]",
+    "Allen Buansi (D) [Rep]",
+    "Laura Budd (D) [Rep]",
+    "Deb Butler (D) [Rep]",
+    "Maria Cervania (D) [Rep]",
+    "Tracy Clark (D) [Rep]",
+    "Sarah Crawford (D) [Rep]",
+    "Allison Dahle (D) [Rep]",
+    "Aisha Dew (D) [Rep]",
+    "Mary Harrison (D) [Rep]",
+    "Beth Helfrich (D) [Rep]",
+    "Frances Jackson (D) [Rep]",
+    "Carolyn Logan (D) [Rep]",
+    "Jordan Lopez (D) [Rep]",
+    "Nasif Majeed (D) [Rep]",
+    "Marcia Morey (D) [Rep]",
+    "Rodney Pierce (D) [Rep]",
+    "Renee Price (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-02",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-04-02",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Passed 1st Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Ref To Com On Rules, Calendar, and Operations of the House",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-02",
+      "type": "Introduced",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H725v0.pdf",
+      "doc_id": 3198396
+    },
+    {
+      "date": "2025-04-03",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H725v1.pdf",
+      "doc_id": 3200881
+    }
+  ],
+  "committee": {
+    "committee_id": 673,
+    "chamber": "H",
+    "chamber_id": 75,
+    "name": "Rules, Calendar, and Operations of the House"
+  },
+  "subjects": [
+    "Appropriations",
+    "Boards",
+    "Budgeting",
+    "Colleges & Universities",
+    "Corporations, Nonprofit",
+    "Death & Dying",
+    "Dhhs",
+    "Education",
+    "Funding",
+    "Grants",
+    "Health Education",
+    "Health Services",
+    "Higher Education",
+    "Minorities",
+    "Minors",
+    "Pregnancy",
+    "Public",
+    "Public Health",
+    "Reports",
+    "Unc",
+    "Unc Board Of Governors",
+    "Women",
+    "Ngos",
+    "Newborns & Infants",
+    "Family Issues",
+    "Patient Rights"
+  ]
+}

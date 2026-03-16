@@ -1,0 +1,71 @@
+{
+  "id": 2006667,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB2749",
+  "title": "Relating to the definition of abuse or neglect of a child.",
+  "summary": "Relating to the definition of abuse or neglect of a child.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB2749/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB2749/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2749",
+  "sponsors": [
+    "Bob Hall (R) [Sen]"
+  ],
+  "introduced_date": "2025-03-13",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-13",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Referred to Health & Human Services",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-14",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB02749I.htm",
+      "doc_id": 3176273
+    }
+  ],
+  "committee": {
+    "committee_id": 1911,
+    "chamber": "S",
+    "chamber_id": 92,
+    "name": "Health & Human Services"
+  },
+  "subjects": [
+    "Family",
+    "Family--Parent & Child",
+    "CHILD ABUSE",
+    "GENDER IDENTITY & EXPRESSION",
+    "SEXUAL ORIENTATION"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2034641,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3664",
+  "title": "PAID Act Prohibit Auto Insurance Discrimination Act",
+  "summary": "To prohibit private passenger automobile insurers from using certain income proxies to determine insurance rates and eligibility.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3664/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3664/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3664/all-info",
+  "sponsors": [
+    "Bonnie Coleman (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Mark Takano (D) [Rep]"
+  ],
+  "introduced_date": "2025-05-29",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-05-29",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Referred to the Committee on Financial Services, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-03",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3664/BILLS-119hr3664ih.pdf",
+      "doc_id": 3251047
+    }
+  ],
+  "committee": {
+    "committee_id": 2304,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Financial Services"
+  },
+  "subjects": [
+    "Finance and financial sector"
+  ]
+}

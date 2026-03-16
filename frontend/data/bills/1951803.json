@@ -1,0 +1,67 @@
+{
+  "id": 1951803,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "SB0702",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 4, Chapter 3, Part 5; Title 9; Title 60; Title 67 and Title 68, relative to the \"Climate Resiliency Fund Act.\"",
+  "summary": "As introduced, enacts the \"Climate Resiliency Fund Act.\" - Amends TCA Title 4, Chapter 3, Part 5; Title 9; Title 60; Title 67 and Title 68.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/SB0702/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/SB0702/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB0702&ga=114",
+  "sponsors": [
+    "Sara Kyle (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-03",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "Filed for introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Introduced, Passed on First Consideration",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Passed on Second Consideration, refer to Senate Energy, Ag., and Nat. Resources Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-03",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0702.pdf",
+      "doc_id": 3095674
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0702.pdf",
+      "doc_id": 3097140
+    }
+  ],
+  "committee": {
+    "committee_id": 2846,
+    "chamber": "S",
+    "chamber_id": 90,
+    "name": "Energy, Agriculture and Natural Resources"
+  },
+  "subjects": [
+    "Environmental Preservation"
+  ]
+}

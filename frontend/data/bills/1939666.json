@@ -1,0 +1,77 @@
+{
+  "id": 1939666,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB2062",
+  "title": "Relating to regulations and policies for entering or using certain private spaces; authorizing a civil penalty.",
+  "summary": "Relating to regulations and policies for entering or using certain private spaces; authorizing a civil penalty.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB2062/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB2062/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2062",
+  "sponsors": [
+    "Janis Holt (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-24",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-24",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Referred to State Affairs",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-24",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB02062I.htm",
+      "doc_id": 3079060
+    }
+  ],
+  "committee": {
+    "committee_id": 1895,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "Civil Remedies & Liabilities",
+    "Corrections",
+    "Corrections--Jails & Prisons",
+    "Family",
+    "Family--Family Violence",
+    "Political Subdivisions",
+    "State Agencies, Boards & Commissions",
+    "TEXAS WOMEN'S PRIVACY ACT",
+    "BIRTH & DEATH CERTIFICATES",
+    "ATTORNEY GENERAL",
+    "Courts",
+    "Courts--General",
+    "Education",
+    "Education--Higher",
+    "Education--Higher--General",
+    "Women",
+    "ATTORNEY'S FEES"
+  ]
+}

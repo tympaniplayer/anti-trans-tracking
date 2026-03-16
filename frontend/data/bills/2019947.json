@@ -1,0 +1,74 @@
+{
+  "id": 2019947,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "S0540",
+  "title": "Definition of child abuse",
+  "summary": "Amend The South Carolina Code Of Laws By Amending Section 63-7-20, Relating To Definitions, So As To Clarify That Raising A Child Consistent With The Child's Sex Does Not Constitute Child Abuse, Neglect, Or Harm.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/S0540/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/S0540/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0540&session=126&summary=B",
+  "sponsors": [
+    "Richard Cash (R) [Sen]",
+    "Joshua Kimbrell (R) [Sen]",
+    "Carlisle Kennedy (R) [Sen]",
+    "Matthew Leber (R) [Sen]",
+    "Mike Reichenbach (R) [Sen]",
+    "Jeff Zell (R) [Sen]",
+    "JD Chaplin (R) [Sen]",
+    "Tom Fernandez (R) [Sen]",
+    "Stephen Goldfinch (R) [Sen]",
+    "Allen Blackmon (R) [Sen]",
+    "Brian Adams (R) [Sen]",
+    "Thomas Corbin (R) [Sen]",
+    "Danny Verdin (R) [Sen]",
+    "Michael Gambrell (R) [Sen]",
+    "Billy Garrett (R) [Sen]",
+    "Lawrence Grooms (R) [Sen]",
+    "Rex Rice (R) [Sen]",
+    "George Campsen (R) [Sen]",
+    "Everett Stubbs (R) [Sen]",
+    "Wes Climer (R) [Sen]"
+  ],
+  "introduced_date": "2025-04-03",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2025-04-03",
+      "action": "Introduced and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Referred to Committee on Family and Veterans' Services",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-03",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/540_20250403.htm",
+      "doc_id": 3200725
+    }
+  ],
+  "committee": {
+    "committee_id": 3795,
+    "chamber": "S",
+    "chamber_id": 86,
+    "name": "Family and Veterans Services"
+  },
+  "subjects": []
+}

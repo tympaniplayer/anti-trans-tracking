@@ -1,0 +1,79 @@
+{
+  "id": 2109087,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB3731",
+  "title": "FIRST 2026 GENERAL REVISORY",
+  "summary": "Creates the First 2026 General Revisory Act. Combines multiple versions of Sections amended by more than one Public Act. Renumbers Sections of various Acts to eliminate duplication. Corrects obsolete cross-references and technical errors. Makes stylistic changes. Effective immediately.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB3731/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB3731/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3731&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "William Cunningham (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "Filed with Secretary by Sen. Bill Cunningham",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Assigned to State Government",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Do Pass State Government; 007-000-000",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Placed on Calendar Order of 2nd Reading March 10, 2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Placed on Calendar Order of 3rd Reading March 24, 2026",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=208350&DocName=10400SB3731&DocNum=3731&DocTypeID=SB&LegID=167004&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3355120
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": 2086053,
+  "state": "MS",
+  "state_name": "Mississippi",
+  "bill_number": "SB2363",
+  "title": "Juries; prohibit peremptory challenges based on certain factors.",
+  "summary": "An Act To Prohibit A Party From Using A Peremptory Challenge To Remove A Prospective Juror On The Basis Of The Prospective Juror's Race, Ethnicity, Gender, Gender Identity, Sexual Orientation, National Origin, Or Religious Affiliation, Or The Perceived Membership Of The Prospective Juror In Any Of Those Groups; To Authorize A Party, Or The Trial Court On Its Own Motion, To Object To The Use Of A Peremptory Challenge Based On These Criteria; To Require The Party Exercising The Challenge, Upon Objection, To State The Reasons The Peremptory Challenge Has Been Exercised; To Require The Court To Evaluate The Reasons Given And, If The Court Grants The Objection, Authorize The Court To Take Certain Actions, Including, But Not Limited To, Starting A New Jury Selection, Declaring A Mistrial At The Request Of The Objecting Party, Seating The Challenged Juror, Or Providing Another Remedy As The Court Deems Appropriate; To Provide For A De Novo Standard Of Review By An Appellate Court Reviewing The Denial Of An Objection; To Provide That The Act Applies To Criminal Jury Trials In Which Jury Selection Begins On Or After January 1, 2027; To Provide That The Act Applies To Civil Jury Trials In Which Jury Selection Begins On Or After January 1, 2029; And For Related Purposes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "religious_exemptions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MS/bill/SB2363/2026",
+  "legiscan_url": "https://legiscan.com/MS/bill/SB2363/2026",
+  "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2363.xml",
+  "sponsors": [
+    "Derrick Simmons (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-19",
+      "action": "Referred To Judiciary, Division A",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Died In Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-19",
+      "type": "Introduced",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2363IN.htm",
+      "doc_id": 3323425
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

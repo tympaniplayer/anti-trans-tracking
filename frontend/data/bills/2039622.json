@@ -1,0 +1,123 @@
+{
+  "id": 2039622,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "SCR100",
+  "title": "California Youth Homelessness Outreach, Prevention, and Education (HOPE) Month.",
+  "summary": "Relative to California Youth Homelessness Outreach, Prevention, and Education (HOPE) Month.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/SCR100/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/SCR100/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SCR100",
+  "sponsors": [
+    "Jesse Arreguin (D) [Sen]"
+  ],
+  "introduced_date": "2025-09-18",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-07-16",
+      "action": "Introduced. Referred to Com. on RLS.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-20",
+      "action": "From committee: Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-25",
+      "action": "Read. Adopted. (Ayes 38. Noes 0. Page 2248.) Ordered to the Assembly.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-26",
+      "action": "In Assembly. Held at Desk.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-08-28",
+      "action": "Referred to Com. on RLS.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-03",
+      "action": "From committee: Be adopted. Ordered to consent calendar. (Ayes 6. Noes 0.) (September 3).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-08",
+      "action": "Read. Adopted. (Ayes 71. Noes 0. Page 3040.) Ordered to the Senate.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-08",
+      "action": "In Senate. Ordered to engrossing and enrolling.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-18",
+      "action": "Enrolled and filed with the Secretary of State at 1 p.m.",
+      "chamber": ""
+    },
+    {
+      "date": "2025-09-18",
+      "action": "Chaptered by Secretary of State. Res. Chapter 185, Statutes of 2025.",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-08-25",
+      "description": "Senate 3rd Reading SCR100 Arregu\u00edn",
+      "yea": 38,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-03",
+      "description": "Be adopted. To Consent Calendar",
+      "yea": 6,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-08",
+      "description": "SCR 100 Arregu\u00edn Consent Calendar Second Day Regular Session",
+      "yea": 71,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-07-16",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SCR100#99INT",
+      "doc_id": 3261929
+    },
+    {
+      "date": "2025-09-10",
+      "type": "Enrolled",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SCR100#98ENR",
+      "doc_id": 3268559
+    },
+    {
+      "date": "2025-09-18",
+      "type": "Chaptered",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SCR100#97CHP",
+      "doc_id": 3270270
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

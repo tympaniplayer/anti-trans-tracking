@@ -1,0 +1,59 @@
+{
+  "id": 2003203,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H235",
+  "title": "Establishing a bill of rights for children in foster care",
+  "summary": "Relative to establishing a bill of rights for children in foster care. Children, Families and Persons with Disabilities.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H235/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H235/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H235",
+  "sponsors": [
+    "Michael Finn (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Children, Families and Persons with Disabilities",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-27",
+      "action": "Hearing scheduled for 07/08/2025 from 01:00 PM-05:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-15",
+      "action": "Accompanied a new draft, see H4599",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H235.pdf",
+      "doc_id": 3169284
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

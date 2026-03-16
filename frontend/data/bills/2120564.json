@@ -1,0 +1,92 @@
+{
+  "id": 2120564,
+  "state": "ID",
+  "state_name": "Idaho",
+  "bill_number": "H0739",
+  "title": "Adds to existing law to establish the Pediatric Secretive Transitions Parental Rights Act.",
+  "summary": "PEDIATRIC SECRETIVE TRANSITIONS PARENTAL RIGHTS ACT -- Adds to existing law to establish the Pediatric Secretive Transitions Parental Rights Act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ID/bill/H0739/2026",
+  "legiscan_url": "https://legiscan.com/ID/bill/H0739/2026",
+  "state_url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0739/",
+  "sponsors": [
+    "State Affairs Committee [Rep]",
+    "Cindy Carlson (R) [Sen]",
+    "Brandon Mitchell (R) [Rep]",
+    "Ben Toews (R) [Sen]",
+    "Vito Barbieri (R) [Rep]",
+    "Tammy Nichols (R) [Sen]",
+    "Joe Alfieri (R) [Rep]",
+    "Scott Grow (R) [Sen]",
+    "Don Hall (R) [Rep]",
+    "Tanya Burgoyne (R) [Rep]",
+    "Faye Thompson (R) [Rep]",
+    "Jason Monks (R) [Rep]",
+    "Steve Tanner (R) [Rep]",
+    "Elaine Price (R) [Rep]",
+    "Jeff Cornilles (R) [Rep]",
+    "Charlie Shepherd (R) [Rep]",
+    "Ron Mendive (R) [Rep]",
+    "Douglas Pickett (R) [Rep]",
+    "John Shirts (R) [Rep]",
+    "Judy Boyle (R) [Rep]",
+    "Mike Pohanka (R) [Rep]",
+    "Chris Bruce (R) [Rep]",
+    "Heather Scott (R) [Rep]",
+    "Rob Beiswenger (R) [Rep]",
+    "Jaron Crane (R) [Rep]",
+    "Brent Crane (R) [Rep]",
+    "Cornel Rasor (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-19",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-19",
+      "action": "Introduced, read first time, referred to JRA for Printing",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Reported Printed and Referred to State Affairs",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Reported out of Committee, Returned to the Desk for re-referral",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Referred to Judiciary, Rules & Administration",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0739.pdf",
+      "doc_id": 3368776
+    }
+  ],
+  "committee": {
+    "committee_id": 1525,
+    "chamber": "H",
+    "chamber_id": 33,
+    "name": "Judiciary, Rules and Administration"
+  },
+  "subjects": [
+    "PEDIATRIC SECRETIVE TRANSITIONS PARENTAL RIGHTS ACT"
+  ]
+}

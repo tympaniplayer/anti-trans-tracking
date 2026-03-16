@@ -1,0 +1,52 @@
+{
+  "id": 2099620,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A1983",
+  "title": "Creates certain assistance and set-aside programs for businesses owned by lesbian, gay, bisexual, or transgender persons, by persons with a disability, and by veterans.",
+  "summary": "Creates certain assistance and set-aside programs for businesses owned by lesbian, gay, bisexual, or transgender persons, by persons with a disability, and by veterans.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A1983/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A1983/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A1983",
+  "sponsors": [
+    "Annette Quijano (D) [Rep]",
+    "Alixon Collazos-Gill (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Commerce and Economic Development Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-02",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A2000/1983_I1.HTM",
+      "doc_id": 3338707
+    }
+  ],
+  "committee": {
+    "committee_id": 852,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Commerce and Economic Development"
+  },
+  "subjects": [
+    "Commerce and Economic Development"
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": 1907778,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1198",
+  "title": "Revised for 1st substitute: Making 2025-2027 fiscal biennium operating appropriations and 2023-2025 fiscal biennium second supplemental operating appropriations.",
+  "summary": "Revised for 1st substitute: Making 2025-2027 fiscal biennium operating appropriations and 2023-2025 fiscal biennium second supplemental operating appropriations.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1198/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1198/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1198&Year=2025&Initiative=false",
+  "sponsors": [
+    "Timm Ormsby (D) [Rep]",
+    "Mia Gregerson (D) [Rep]",
+    "Nicole Macri (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-13",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "Prefiled for introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading, referred to Appropriations.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-13",
+      "action": "Public hearing in the House Committee on Appropriations at 4:00 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Public hearing in the House Committee on Appropriations at 4:00 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Executive action taken in the House Committee on Appropriations at 4:00 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "APP - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Minority; do not pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Referred to Rules 2 Review.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "House Rules \"X\" file.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-27",
+      "description": "House Committee on Appropriations: 1st substitute bill be substituted, do pass",
+      "yea": 19,
+      "nay": 11,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1198.pdf",
+      "doc_id": 3043475
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1198-S.pdf",
+      "doc_id": 3194270
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,73 @@
+{
+  "id": 2062129,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HB1490",
+  "title": "Relating To Health Care.",
+  "summary": "Requires the Hawaii Health Authority to develop a comprehensive plan for the establishment of a universal, single payer health care system to replace all other health care coverage in the State, including Medicare, Medicaid, and the Prepaid Health Care Act. Establishes a universal, single payer health care system to be known as the Hawaii Care program under the Hawaii Health Authority to take effect one hundred eighty days after the approval of waivers from certain provisions of the Patient Protection and Affordable Care Act of 2010 and the State's Medicaid plan. Appropriates funds.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HB1490/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HB1490/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1490&year=2026",
+  "sponsors": [
+    "Amy Perruso (D) [Rep]",
+    "Terez Amato (D) [Rep]",
+    "Della au Belatti (D) [Rep]",
+    "Elle Cochran (D) [Rep]",
+    "Tina Grandinetti (D) [Rep]",
+    "Kim Iwamoto (D) [Rep]",
+    "Mahina Poepoe (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-23",
+      "action": "Introduced and Pass First Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-27",
+      "action": "Referred to HLT/HSH, CPC, FIN, referral sheet 4",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-23",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1490_.HTM",
+      "doc_id": 3295146
+    }
+  ],
+  "committee": {
+    "committee_id": 2042,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Health"
+  },
+  "subjects": [
+    "Hawaii Care",
+    "Universal Health Care",
+    "Hawaii Health Authority",
+    "Single Payer Health Care System",
+    "Medicare",
+    "Medicaid",
+    "Prepaid Health Care Act ($)"
+  ]
+}

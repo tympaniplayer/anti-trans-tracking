@@ -1,0 +1,54 @@
+{
+  "id": 2060178,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "HB2526",
+  "title": "Modifies provisions on sex-related classifications",
+  "summary": "Modifies provisions on sex-related classifications",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/HB2526/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/HB2526/2026",
+  "state_url": "https://house.mo.gov/Bill.aspx?bill=HB2526&year=2026&code=R",
+  "sponsors": [
+    "Becky Laubinger (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-18",
+      "action": "Prefiled (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Read First Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Read Second Time (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-18",
+      "type": "Introduced",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6038H.01I.pdf",
+      "doc_id": 3292238
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

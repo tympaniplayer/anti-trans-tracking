@@ -1,0 +1,59 @@
+{
+  "id": 2107795,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB3437",
+  "title": "DCEO-VARIOUS",
+  "summary": "Repeals the Opportunities for At-Risk Women Act. Amends the Illinois Council on Women and Girls Act. Provides that the Council on Women and Girls may create the Opportunities for At-Risk Women Subcommittee to research and analyze organizations that support at-risk women in the State. Amends the Department of Commerce and Economic Opportunity Law of the Civil Administrative Code of Illinois. Provides that provisions requiring the Department of Commerce and Economic Opportunity's official website to contain a comprehensive list of State, local, and federal economic benefits available to businesses in each of the State's counties and municipalities are repealed on July 1, 2026. Provides that the following reports shall be filed on or before January 31 of each year (instead of January 1): a report on entrepreneurial assistance centers; reports on the Enterprise Zone Loan Fund and the Large Business Attraction Fund; and reports concerning cannabis social equity. Amends the Southeastern Illinois Economic Development Authority Act. Makes changes concerning the membership of the Board of the Southeastern Illinois Economic Development Authority. Amends the Illinois Income Tax Act. Extends the sunset for the apprenticeship education expense tax credit, the research and development tax credit, the angel investment tax credit, and the River Edge Redevelopment Zone tax credit. Effective immediately.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB3437/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB3437/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3437&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "Doris Turner (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-04",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "action": "Filed with Secretary by Sen. Doris Turner",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-04",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=207731&DocName=10400SB3437&DocNum=3437&DocTypeID=SB&LegID=166385&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3354769
+    }
+  ],
+  "committee": {
+    "committee_id": 254,
+    "chamber": "S",
+    "chamber_id": 36,
+    "name": "Assignments"
+  },
+  "subjects": []
+}

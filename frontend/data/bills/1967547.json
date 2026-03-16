@@ -1,0 +1,73 @@
+{
+  "id": 1967547,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A05224",
+  "title": "Designates certain offenses against emergency medical services personnel, firefighters, and law enforcement officers as hate crimes; includes the definition of emergency medical services personnel, firefighters, and law enforcement officers.",
+  "summary": "Designates certain offenses against emergency medical services personnel, firefighters, and law enforcement officers as hate crimes; includes the definition of emergency medical services personnel, firefighters, and law enforcement officers.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "definitions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A05224/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A05224/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A5224",
+  "sponsors": [
+    "Joseph DeStefano (R) [Rep]",
+    "Mary Walsh (R) [Rep]",
+    "Karl Brabenec (R) [Rep]",
+    "Brian Miller (R) [Rep]",
+    "Michael Durso (R) [Rep]",
+    "Doug Smith (R) [Rep]",
+    "David DiPietro (R) [Rep]",
+    "David McDonough (R) [Rep]",
+    "Angelo Morinello (R) [Rep]",
+    "Brian Manktelow (R) [Rep]",
+    "Eric Brown (R) [Rep]",
+    "Josh Jensen (R) [Rep]",
+    "Joseph Angelino (R) [Rep]",
+    "John Mikulin (R) [Rep]",
+    "John Lemondes (R) [Rep]",
+    "Paul Bologna (R) [Rep]",
+    "Alec Brook-Krasny (D) [Rep]",
+    "Scott Bendett (R) [Rep]",
+    "Kenneth Blankenbush (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-12",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-12",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to codes",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-12",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A05224&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A05224",
+      "doc_id": 3116153
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

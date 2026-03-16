@@ -1,0 +1,51 @@
+{
+  "id": 2086118,
+  "state": "MS",
+  "state_name": "Mississippi",
+  "bill_number": "HB1154",
+  "title": "Birth certificate; sex designated on must be the sex assigned at birth, and cannot be changed unless it is verified as clearly an error.",
+  "summary": "An Act To Amend Section 41-57-21, Mississippi Code Of 1972, To Provide That The Sex Designated On The Birth Certificate Shall Be The Sex Of The Child That Is Assigned At Birth; To Prohibit The State Registrar Of Vital Records From Changing The Sex On A Birth Certificate Unless It Is Clearly An Error That Is Verified By Medical Records From The Time Of Birth That Are Provided And Signed By One Of The Parents Of The Child Showing That The Sex Of The Child Was Not What Is Shown On The Birth Certificate, Or A Physician Or Other Person Who Delivered The Child Or Assisted In Delivering The Child Who Confirms That At The Time Of Birth, The Sex Of The Child Was Not What Is Shown On The Birth Certificate; To Amend Section 63-1-35, Mississippi Code Of 1972, To Provide That The Sex Of The Person Shown On The Driver's License Shall Be The Same As The Sex Shown On The Birth Certificate; And For Related Purposes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "education",
+    "identity_documents",
+    "healthcare"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MS/bill/HB1154/2026",
+  "legiscan_url": "https://legiscan.com/MS/bill/HB1154/2026",
+  "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1154.xml",
+  "sponsors": [
+    "Kimberly Remak (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-19",
+      "action": "Referred To Judiciary A",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Died In Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-19",
+      "type": "Introduced",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1154IN.htm",
+      "doc_id": 3323490
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": 2059172,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "HB2455",
+  "title": "Modifies provisions relating to unlawful discriminatory practices and establishes the Missouri Fair Housing Act",
+  "summary": "Modifies provisions relating to unlawful discriminatory practices and establishes the Missouri Fair Housing Act",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/HB2455/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/HB2455/2026",
+  "state_url": "https://house.mo.gov/Bill.aspx?bill=HB2455&year=2026&code=R",
+  "sponsors": [
+    "Elizabeth Fuchs (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-16",
+      "action": "Prefiled (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Read First Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Read Second Time (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-16",
+      "type": "Introduced",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5592H.01I.pdf",
+      "doc_id": 3291131
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

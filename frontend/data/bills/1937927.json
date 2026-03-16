@@ -1,0 +1,72 @@
+{
+  "id": 1937927,
+  "state": "KS",
+  "state_name": "Kansas",
+  "bill_number": "HB2071",
+  "title": "Enacting the help not harm act to restrict the use of state funds to promote gender transitioning, prohibit healthcare providers from providing gender transition whose gender identity is inconsistent with the child's sex, authorize a civil cause of action against healthcare providers for providing such treatments, require professional discipline against a healthcare provider who performs such treatment and prohibit professional liability insurance from covering damages for healthcare providers that provide gender transition treatment to children and adding violation of the act to the definition of unprofessional conduct for physicians.",
+  "summary": "Enacting the help not harm act to restrict the use of state funds to promote gender transitioning, prohibit healthcare providers from providing gender transition whose gender identity is inconsistent with the child's sex, authorize a civil cause of action against healthcare providers for providing such treatments, require professional discipline against a healthcare provider who performs such treatment and prohibit professional liability insurance from covering damages for healthcare providers that provide gender transition treatment to children and adding violation of the act to the definition of unprofessional conduct for physicians.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education",
+    "definitions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KS/bill/HB2071/2025",
+  "legiscan_url": "https://legiscan.com/KS/bill/HB2071/2025",
+  "state_url": "https://kslegislature.gov/li/b2025_26/measures/hb2071/",
+  "sponsors": [
+    "Health and Human Services [Rep]"
+  ],
+  "introduced_date": "2025-01-23",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-23",
+      "action": "House Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "House Referred to Committee on Health and Human Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "House Hearing: Tuesday, January 28, 2025, 1:30 PM Room 112-N",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-30",
+      "action": "House Committee Report recommending bill be passed as amended by Committee on Health and Human Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "House Stricken from Calendar by Rule 1507",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-23",
+      "type": "Introduced",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/hb2071_00_0000.pdf",
+      "doc_id": 3076572
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Amended",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/hb2071_01_0000.pdf",
+      "doc_id": 3092694
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

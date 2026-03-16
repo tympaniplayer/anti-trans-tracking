@@ -1,0 +1,59 @@
+{
+  "id": 2079815,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "SB1762",
+  "title": "Protection of fundamental rights; prohibiting certain acts of punishment, penalty, or legal sanction. Effective date.",
+  "summary": "Protection of fundamental rights; prohibiting certain acts of punishment, penalty, or legal sanction. Effective date.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/SB1762/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/SB1762/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=sb1762&Session=2600",
+  "sponsors": [
+    "Shane Jett (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Authored by Senator Jett",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Second Reading referred to Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/SB/SB1762%20INT.PDF",
+      "doc_id": 3316852
+    }
+  ],
+  "committee": {
+    "committee_id": 1230,
+    "chamber": "S",
+    "chamber_id": 80,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

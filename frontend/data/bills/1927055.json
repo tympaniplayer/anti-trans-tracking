@@ -1,0 +1,54 @@
+{
+  "id": 1927055,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S02409",
+  "title": "Relates to the housing of transgender or intersex incarcerated individuals; authorizes the sheriff to assign a transgender or intersex incarcerated individual to any facility housing unit which shall ensure the incarcerated individual's health and safety.",
+  "summary": "Relates to the housing of transgender or intersex incarcerated individuals; authorizes the sheriff to assign a transgender or intersex incarcerated individual to any facility housing unit which shall ensure the incarcerated individual's health and safety.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S02409/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S02409/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S2409",
+  "sponsors": [
+    "Luis Sepulveda (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-17",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-17",
+      "action": "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-17",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S02409&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S02409",
+      "doc_id": 3064370
+    }
+  ],
+  "committee": {
+    "committee_id": 421,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Crime Victims, Crime and Correction"
+  },
+  "subjects": []
+}

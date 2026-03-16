@@ -1,0 +1,91 @@
+{
+  "id": 1959236,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0169",
+  "title": "An act relating to amending the prohibitions against discrimination in public accommodations and housing",
+  "summary": "An act relating to amending the prohibitions against discrimination in public accommodations and housing",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0169/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0169/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.169",
+  "sponsors": [
+    "Leonora Dodge (D) [Rep]",
+    "Kevin Christie (D) [Rep]",
+    "Esme Cole (D) [Rep]",
+    "Angela Arsenault (D) [Rep]",
+    "John Bartholomew (D) [Rep]",
+    "Daisy Berbeco (D) [Rep]",
+    "Tiffany Bluemle (D) [Rep]",
+    "Michelle Bos-Lun (D) [Rep]",
+    "Mollie Burke (D) [Rep]",
+    "Emily Carris-Duncan (D) [Rep]",
+    "Conor Casey (D) [Rep]",
+    "Ela Chapin (D) [Rep]",
+    "Thomas Charlton (R) [Rep]",
+    "Brian Cina (D) [Rep]",
+    "Mari Cordes (D) [Rep]",
+    "Abbey Duke (D) [Rep]",
+    "Ian Goodnow (D) [Rep]",
+    "Leanne Harple (D) [Rep]",
+    "Troy Headrick (I) [Rep]",
+    "Philip Hooper (D) [Rep]",
+    "Robert Hooper (D) [Rep]",
+    "Mary Howard (D) [Rep]",
+    "Chris Keyser (R) [Rep]",
+    "Emilie Krasnow (D) [Rep]",
+    "Saudia Lamont (D) [Rep]",
+    "Kate Logan (D) [Rep]",
+    "James Masland (D) [Rep]",
+    "Kate McCann (D) [Rep]",
+    "Jubilee McGill (D) [Rep]",
+    "Brian Minier (D) [Rep]",
+    "Michael Mrowicki (D) [Rep]",
+    "Herb Olson (D) [Rep]",
+    "Gayle Pezzo (D) [Rep]",
+    "Phil Pouech (D) [Rep]",
+    "Monique Priestley (D) [Rep]",
+    "Barbara Rachelson (D) [Rep]",
+    "Laura Sibilia (I) [Rep]",
+    "Heather Surprenant (D) [Rep]",
+    "Shawn Sweeney (D) [Rep]",
+    "Chloe Tomlinson (D) [Rep]",
+    "Dara Torre (D) [Rep]",
+    "Edward Waszazak (D) [Rep]",
+    "Chea Evans (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-07",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-02-07",
+      "action": "Read first time and referred to the Committee on General and Housing",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-06",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0169/H-0169%20As%20Introduced.pdf",
+      "doc_id": 3105057
+    }
+  ],
+  "committee": {
+    "committee_id": 4666,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "General and Housing"
+  },
+  "subjects": []
+}

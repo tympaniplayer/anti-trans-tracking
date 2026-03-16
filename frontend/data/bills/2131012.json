@@ -1,0 +1,59 @@
+{
+  "id": 2131012,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S2980",
+  "title": "Promoting fair and affordable housing",
+  "summary": "For legislation to promote fair housing by preventing discrimination against affordable housing, report the accompanying bill (Senate, No. 2980).",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S2980/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S2980/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S2980",
+  "sponsors": [
+    "Joint Committee on Housing [Jnt]"
+  ],
+  "introduced_date": "2026-03-09",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2026-03-09",
+      "action": "Reported from the committee on Housing",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "New draft of S965",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-09",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S2980.pdf",
+      "doc_id": 3388693
+    }
+  ],
+  "committee": {
+    "committee_id": 746,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

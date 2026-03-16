@@ -1,0 +1,123 @@
+{
+  "id": 2016498,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A07496",
+  "title": "Establishes the healthy and safe students act; requires comprehensive sexuality instruction for students in grades K-12 which includes a model curricula for comprehensive sexuality education and at a minimum conforms to the content and scope of national sexuality education standards.",
+  "summary": "Establishes the healthy and safe students act; requires comprehensive sexuality instruction for students in grades K-12 which includes a model curricula for comprehensive sexuality education and at a minimum conforms to the content and scope of national sexuality education standards.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A07496/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A07496/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A7496",
+  "sponsors": [
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Deborah Glick (D) [Rep]",
+    "Amy Paulin (D) [Rep]",
+    "Jeffrey Dinowitz (D) [Rep]",
+    "Jennifer Lunsford (D) [Rep]",
+    "Harvey Epstein (D) [Rep]",
+    "Albert Stirpe (D) [Rep]",
+    "Catalina Cruz (D) [Rep]",
+    "Vivian Cook (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Alicia Hyndman (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "Harry Bronson (D) [Rep]",
+    "Nily Rozic (D) [Rep]",
+    "Charles Lavine (D) [Rep]",
+    "Philip Ramos (D) [Rep]",
+    "Linda Rosenthal (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Donna Lupardo (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Pamela Hunter (D) [Rep]",
+    "William Magnarelli (D) [Rep]",
+    "Patrick Burke (D) [Rep]",
+    "Steven Otis (D) [Rep]",
+    "Latrice Walker (D) [Rep]",
+    "Robert Carroll (D) [Rep]",
+    "Rodneyse Bichotte Hermelyn (D) [Rep]",
+    "Christopher Burdick (D) [Rep]",
+    "Sarah Clark (D) [Rep]",
+    "Jonathan Jacobson (D) [Rep]",
+    "Anna Kelles (D) [Rep]",
+    "Demond Meeks (D) [Rep]",
+    "Phara Souffrant Forrest (D) [Rep]",
+    "Karen McMahon (D) [Rep]",
+    "Jenifer Rajkumar (D) [Rep]",
+    "Didi Barrett (D) [Rep]",
+    "Zohran Kwame Mamdani (D) [Rep]",
+    "Manny De Los Santos (D) [Rep]",
+    "Phillip Steck (D) [Rep]",
+    "Khaleel Anderson (D) [Rep]",
+    "Emily Gallagher (D) [Rep]",
+    "Steven Raga (D) [Rep]",
+    "Maryjane Shimsky (D) [Rep]",
+    "Tony Simone (D) [Rep]",
+    "Brian Cunningham (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Sarahana Shrestha (D) [Rep]",
+    "Amanda Septimo (D) [Rep]",
+    "Maritza Davila (D) [Rep]",
+    "Yudelka Tapia (D) [Rep]",
+    "Alex Bores (D) [Rep]",
+    "Claire Valdez (D) [Rep]",
+    "Micah Lasher (D) [Rep]",
+    "Grace Lee (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-28",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-28",
+      "action": "referred to education",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "amend and recommit to education",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "print number 7496a",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to education",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-28",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A07496&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A07496",
+      "doc_id": 3193360
+    },
+    {
+      "date": "2025-03-28",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A07496&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A07496A",
+      "doc_id": 3225264
+    }
+  ],
+  "committee": {
+    "committee_id": 362,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Education"
+  },
+  "subjects": []
+}

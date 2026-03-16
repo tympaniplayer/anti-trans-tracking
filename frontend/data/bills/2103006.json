@@ -1,0 +1,75 @@
+{
+  "id": 2103006,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "S2406",
+  "title": "Requires that any covered entity that develops/provides online services, products, or features that children are reasonably likely to access shall consider the best interest of children when designing/developing such online service, product, or feature.",
+  "summary": "COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS -- AGE-APPROPRIATE DESIGN CODE - Requires that any covered entity that develops/provides online services, products, or features that children are reasonably likely to access shall consider the best interest of children when designing/developing such online service, product, or feature.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/S2406/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/S2406/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Valarie Lawson (D) [Sen]",
+    "Louis Dipalma (D) [Sen]",
+    "Melissa Murray (D) [Sen]",
+    "Matthew LaMountain (D) [Sen]",
+    "Hanna Gallo (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-30",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-30",
+      "action": "Introduced, referred to Senate Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Scheduled for hearing and/or consideration (03/03/2026)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Committee recommended measure be held for further study",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-03",
+      "description": "Senate Committee on Judiciary: Be held for further study",
+      "yea": 9,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-30",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/SenateText26/S2406.pdf",
+      "doc_id": 3342748
+    }
+  ],
+  "committee": {
+    "committee_id": 1140,
+    "chamber": "S",
+    "chamber_id": 84,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Commercial Law",
+    "COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS",
+    "COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS -- AGE-APPROPRIATE DESIGN CODE"
+  ]
+}

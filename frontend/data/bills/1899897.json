@@ -1,0 +1,137 @@
+{
+  "id": 1899897,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S00360",
+  "title": "Expands the health department's review of correctional health services by including a biennial study of health care staffing at facilities operated by the department of corrections and community supervision.",
+  "summary": "Expands the health department's review of correctional health services by including a biennial study of health care staffing at facilities operated by the department of corrections and community supervision.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S00360/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S00360/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S360",
+  "sponsors": [
+    "Gustavo Rivera (D) [Sen]",
+    "April Baskin (D) [Sen]",
+    "Samra Brouk (D) [Sen]",
+    "Cordell Cleare (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-28",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "REFERRED TO HEALTH",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "REPORTED AND COMMITTED TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "1ST REPORT CAL.744",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "ADVANCED TO THIRD READING",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "referred to health",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "died in assembly",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "returned to senate",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO HEALTH",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "REPORTED AND COMMITTED TO FINANCE",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-04",
+      "description": "Senate Health Committee Vote",
+      "yea": 11,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-29",
+      "description": "Senate Finance Committee Vote",
+      "yea": 16,
+      "nay": 6,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-28",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 41,
+      "nay": 20,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-24",
+      "description": "Senate Health Committee Vote",
+      "yea": 10,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S00360&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S00360",
+      "doc_id": 3036356
+    }
+  ],
+  "committee": {
+    "committee_id": 428,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Finance"
+  },
+  "subjects": []
+}

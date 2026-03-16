@@ -1,0 +1,1023 @@
+{
+  "id": 2032901,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB1",
+  "title": "FEHB Protection Act of 2025",
+  "summary": "To provide for reconciliation pursuant to title II of H. Con. Res. 14.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB1/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB1/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/1/all-info",
+  "sponsors": [
+    "Jodey Arrington (R) [Rep]"
+  ],
+  "introduced_date": "2025-07-04",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-05-20",
+      "action": "The House Committee on the Budget reported an original measure, H. Rept. 119-106, by Mr. Arrington.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Placed on the Union Calendar, Calendar No. 78.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Rules Committee Resolution H. Res. 436 Reported to House. Rule provides for consideration of H.R. 1. The resolution provides for consideration of H.R. 1 under a closed rule with two hours of general debate and one motion to recommit.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Rule H. Res. 436 passed House.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Considered under the provisions of rule H. Res. 436. (consideration: CR H2235-2357)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Rule provides for consideration of H.R. 1. The resolution provides for consideration of H.R. 1 under a closed rule with two hours of general debate and one motion to recommit.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "DEBATE - The House proceeded with two hours of debate on H.R. 1.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "The previous question was ordered pursuant to the rule.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Mrs. Trahan moved to recommit to the Committee on the Budget. (CR H2356)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "On motion to recommit Failed by the Yeas and Nays: 212 - 216 (Roll no. 144).",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "On passage Passed by the Yeas and Nays: 215 - 214, 1 Present (Roll no. 145). (text: CR H2235-2334)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Motion to reconsider laid on the table Agreed to without objection.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-27",
+      "action": "Received in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-28",
+      "action": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 107.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-28",
+      "action": "S.Amdt.2360 Amendment SA 2360 proposed by Senator Thune for Senator Graham. (consideration: CR S3612-3613) In the nature of a substitute.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-28",
+      "action": "Motion to proceed to consideration of measure agreed to in Senate by Yea-Nay Vote. 51 - 49. Record Vote Number: 329.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-29",
+      "action": "S.Amdt.2360 Point of order that the amendment violates section 313(b)(1)(E) of the Congressional Budget Act raised in Senate with respect to amendment SA 2360.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-29",
+      "action": "S.Amdt.2360 Ruling of the Chair that the point of order raised by Senator Thune with respect to amendment SA 2360, is that unless the Budget Committee, speaking through its chairman, asserts that the amendment causes a violation of the Budget Act, the Chair will not so hold.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-29",
+      "action": "S.Amdt.2360 Motion by Senator Schumer to appeal the ruling of the Chair that amendment SA2360 is in order made in Senate.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-29",
+      "action": "S.Amdt.2360 Amendment SA 2360 ruled in order by the chair.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Considered by Senate.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Motion by Senator Schumer to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 332.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Motion by Senator Markey to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 333.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Point of order that the measure violates section 425(a)(2) of the Congressional Budget Act raised in Senate.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Motion to waive section 425(a)(2) of the Congressional Budget Act with respect to the measure agreed to in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 334.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Motion by Senator Wyden to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 335.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Motion by Senator Coons to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 336.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Motion by Senator Lujan to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 337.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Motion by Senator Reed to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 338.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Motion by Senator Blunt Rochester to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 340.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Motion by Senator Kaine to commit to Senate Committee on Homeland Security and Governmental Affairs with instructions rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 346.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Motion by Senator Blumenthal to commit to Senate Committee on Armed Services with instructions rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 347.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Motion by Senator Gallego to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 348.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Motion by Senator Hassan to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 349.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Motion by Senator Duckworth to commit to Senate Committee on Agriculture, Nutrition, and Forestry with instructions rejected in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 350.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Motion by Senator Schiff to commit to Senate Committee on Agriculture, Nutrition, and Forestry with instructions rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 351.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Motion by Senator Alsobrooks to commit to Senate Committee on Finance with instructions rejected in Senate by Voice Vote.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Motion by Senator Kelly to commit to Senate Committee on Finance with instructions rejected in Senate by Voice Vote.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Motion by Senator Murphy to commit to Senate Committee on Finance with instructions rejected in Senate by Voice Vote.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Motion by Senator King to commit to Senate Committee on Finance with instructions rejected in Senate by Voice Vote.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2446 Amendment SA 2446 proposed by Senator Merkley to Amendment SA 2360. (consideration: CR S4049-4050)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2446 Point of order that the amendment violates section 313(b)(1)(d) of the Congressional Budget Act raised in Senate with respect to amendment SA 2446.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2414 Amendment SA 2414 ruled out of order by the chair.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2772 Amendment SA 2772 ruled out of order by the chair.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2446 Motion to waive section 313(b)(1)(D) of the Congressional Budget Act with respect to amendment SA 2446, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 343.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2414 Motion to waive section 302(f) of the Congressional Budget Act with respect to amendment SA 2414, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 341.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2401 Amendment SA 2401 proposed by Senator Blackburn to Amendment SA 2360. (consideration: CR S4051-4052)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2401 Point of order that the amendment violates section 313(b)(1)(d) of the Congressional Budget Act raised in Senate with respect to amendment SA 2401.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2401 Amendment SA 2401 ruled out of order by the chair.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2414 Amendment SA 2414 proposed by Senator Warren to Amendment SA 2360. (consideration: CR S4047-4048)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2414 Point of order that the amendment violates section 302(f) of the Congressional Budget Act raised in Senate with respect to amendment SA 2414.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2772 Motion to waive section 313(b)(1)(a) of the Congressional Budget Act with respect to amendment SA 2772 rejected, not having achieved 60 votes in the affirmative, in Senate by Yea-Nay Vote. 42 - 58. Record Vote Number: 352.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2772 Point of order that the amendment violates section 313(b)(1)(a) of the Congressional Budget Act raised in Senate with respect to amendment SA 2772.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2705 Amendment SA 2705 ruled out of order by the chair.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2705 Motion to waive section 313(b)(1)(D) of the Congressional Budget Act with respect to amendment SA 2705, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 56 - 44. Record Vote Number: 342.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2771 Amendment SA 2771 proposed by Senator Murray to Amendment SA 2360. (consideration: CR S4050-4051)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2771 Point of order that the amendment violates to section 302(f) of the Congressional Budget Act raised in Senate with respect to amendment SA 2771.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2771 Amendment SA 2771 ruled out of order by the chair.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2771 Motion to waive section 302(f) of the Congressional Budget Act with respect to amendment SA 2771, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 344.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2705 Point of order that the amendment violates section 313(b)(1)(D) of the Congressional Budget Act raised in Senate with respect to amendment SA 2705.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2705 Amendment SA 2705 proposed by Senator Cornyn to Amendment SA 2360. (consideration: CR S4048-4049)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2696 Amendment SA 2696 proposed by Senator Ossoff to Amendment SA 2360. (consideration: CR S4046-4047)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2446 Amendment SA 2446 ruled out of order by the chair.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2696 Point of order that the amendment violates section 302(f) of the Congressional Budget Act raised in Senate with respect to amendment SA 2696.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2696 Motion to waive section 302(f) of the Congressional Budget Act with respect to amendment SA 2696 rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 339.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2696 Amendment SA 2696 ruled out of order by the chair.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2772 Amendment SA 2772 proposed by Senator Kennedy to Amendment SA 2360. (consideration: CR S4056-4057) To prohibit the use of Defense Production Act of 1950 funds without the approval of Congress.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2401 Motion to waive section 313(b)(1)(d) of the Congressional Budget Act with respect to amendment SA 2401, not having achieved 60 votes in the affirmative, rejected in Senate by Yea-Nay Vote. 53 - 47. Record Vote Number: 345.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2360 Point of order that the amendment violates section 313(b)(1)(B) of the Congressional Budget Act raised in Senate with respect to amendment SA 2360.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2360 Ruling of the Chair sustained.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2360 Motion by Senator Schumer to appeal the ruling of the chair not agreed to, the question being, \"Shall the decision of the Chair stand as the Judgment of the Senate?\" by Yea-Nay Vote. 53 - 47. Record Vote Number: 330.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2360 Ruling of the Chair sustained.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2360 Ruling of the Chair that the point of order raised by Senator Thune with respect to amendment SA 2360, is that unless the Budget Committee, speaking through its chairman, asserts that the amendment causes a violation of the Budget Act, the Chair will not so hold.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2360 Considered by Senate.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2360 Amendment SA 2360 ruled in order by the chair.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2360 Ruling of the Chair sustained",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2360 Motion by Senator Merkley to appeal the ruling of the Chair that amendment SA 2360 does not violate section 313(b)(1)(B) of the CBA is in order, not agreed to by Yea-Nay Vote. 53 - 47. Record Vote Number: 331.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "S.Amdt.2360 Motion by Senator Merkley to appeal the ruling of the Chair that amendment SA 2360 does not violate section 313(b)(1)(B) of the CBA is in order made in Senate.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Motion by Senator Padilla to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 353.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "Motion by Senator Bennet to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 354.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "Motion by Senator Wyden to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 357.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "Motion by Senator Warnock to commit to Senate Committee on Finance with instructions rejected in Senate by Yea-Nay Vote. 48 - 51. Record Vote Number: 359.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "Passed Senate with an amendment by Yea-Nay Vote. 51 - 50. Record Vote Number: 372.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2790 Amendment SA 2790 proposed by Senator Kennedy to Amendment SA 2360. (consideration: CR S4069)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2775 Amendment SA 2275 ruled out of order by the chair.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2790 Amendment SA 2790 agreed to in Senate by Voice Vote.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2812 Amendment SA 2812 proposed by Senator Collins to Amendment SA 2360. (consideration: CR S4060-4061)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2745 Amendment SA 2745 proposed by Senator Lee to Amendment SA 2360. (consideration: CR S4064-4065)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2723 Proposed amendment SA 2723 withdrawn in Senate.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2723 Amendment SA 2723 proposed by Senator Kennedy to Amendment SA 2360. (consideration: CR S4072)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2719 Amendment SA 2719 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 365.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2812 Point of order that the amendment violates section 302(f) of the Congressional Budget Act raised in Senate with respect to amendment SA 2812.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2745 Amendment SA 2745 not agreed to in Senate by Yea-Nay Vote. 21 - 79. Record Vote Number: 360.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2775 Point of order that the amendment violates section 4106 of H. Con. Res. 71, 115th Congress raised in Senate with respect to amendment SA 2775.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2775 Amendment SA 2775 proposed by Senator Thune for Senator Kennedy to Amendment SA 2360. (consideration: CR S4061-4062)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2775 Motion to waive all applicable budgetary discipline with respect to amendment SA 2275 rejected, not having achieved 60 votes in the affirmative, in Senate by Yea-Nay Vote. 54 - 46. Record Vote Number: 356.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2814 Amendment SA 2814 proposed by Senator Blackburn to Amendment SA 2360. (consideration: CR S4068)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2848 Point of order that page 1, lines 3-5 violate section 313(b)(1)(A) of the Congressional Budget Act raised in Senate with respect to amendment SA 2848.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2848 Amendment SA 2848 proposed by Senator Graham to Amendment SA 2360. (consideration: CR S4072-4073)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2848 Ruling of the Chair that the point of order raised by Senator Schumer that page 1 lines 3-5 of amendment SA 2848 violates section 313(b)(1)(A) of the Congressional Budget Act sustained by the Chair and the text is stricken.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2848 Amendment SA 2848 agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 370.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2849 Amendment SA 2849 not agreed to in Senate by Yea-Nay Vote. 45 - 55. Record Vote Number: 369.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2849 Amendment SA 2849 proposed by Senator Klobuchar to Amendment SA 2848. (consideration: CR S4072-4073)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2847 Amendment SA 2847 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 367.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2847 Amendment SA 2847 proposed by Senator Warner to Amendment SA 2360. (consideration: CR S4070-4071)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2719 Amendment SA 2719 proposed by Senator Hickenlooper to Amendment SA 2360. (consideration: CR S4069)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2812 Amendment SA 2812 ruled out of order by the chair.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2814 Amendment SA 2814 agreed to in Senate by Yea-Nay Vote. 99 - 1. Record Vote Number: 363.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2817 Amendment SA 2817 proposed by Senator Kim to Amendment SA 2360. (consideration: CR S4065)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2817 Amendment SA 2817 not agreed to in Senate by Yea-Nay Vote. 48 - 52. Record Vote Number: 361.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2812 Motion to waive section 302(f) of the Congressional Budget Act with respect to amendment SA 2812 rejected, not having achieved 60 votes in the affirmative, in Senate by Yea-Nay Vote. 22 - 78. Record Vote Number: 355.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2435 Amendment SA 2435, under the order of 7/1/2025, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 362.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2372 Amendment SA 2372 agreed to in Senate by Voice Vote.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2382 Amendment SA 2382 proposed by Senator Hirono to Amendment SA 2360. (consideration: CR S4063)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2382 Amendment SA 2382 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 358.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2372 Point of order that the amendment violates section 313(b)(1)(e) of the Congressional Budget Act withdrawn in Senate with respect to amendment SA 2372.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2717 Amendment SA 2717 not agreed to in Senate by Yea-Nay Vote. 47 - 53. Record Vote Number: 364.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2360 Amendment SA 2360, as amended, agreed to in Senate by Yea-Nay Vote. 51 - 50. Record Vote Number: 371.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2372 Amendment SA 2372 proposed by Senator Ernst to Amendment SA 2360. (consideration: CR S4065-4066)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2435 Amendment SA 2435 proposed by Senator Sanders to Amendment SA 2360. (consideration: CR S4066)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2372 Point of order that the amendment violates section 313(b)(1)(e) of the Congressional Budget Act raised in Senate with respect to amendment SA 2372.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2717 Amendment SA 2717 proposed by Senator Rosen to Amendment SA 2360. (consideration: CR S4068-4069)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2564 Amendment SA 2564 proposed by Senator Shaheen to Amendment SA 2360. (consideration: CR S4069-4070)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2602 Amendment SA 2602 proposed by Senator Cruz for Senator Blackburn to Amendment SA 2360. (consideration: CR S4066-4067)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2602 Proposed amendment SA 2602 withdrawn in Senate.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2585 Amendment SA 2585 proposed by Senator Van Hollen to Amendment SA 2360. (consideration: CR S4071-4072)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2564 Amendment SA 2564 not agreed to in Senate by Yea-Nay Vote. 49 - 51. Record Vote Number: 366.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "S.Amdt.2585 Amendment SA 2585 not agreed to in Senate by Yea-Nay Vote. 50 - 50. Record Vote Number: 368.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "Message on Senate action sent to the House.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-03",
+      "action": "Resolving differences -- House actions: On motion that the House agree to the Senate amendment Agreed to by recorded vote: 218 - 214 (Roll no. 190).",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-03",
+      "action": "Presented to President.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-03",
+      "action": "Pursuant to the provisions of H. Res. 566, Mr. Arrington called up the Senate amendment to H.R. 1.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-03",
+      "action": "Mr. Arrington moved that the House agree to the Senate amendment. (consideration: CR H3059-3187)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-03",
+      "action": "Mr. Arrington moved that the House agree to the Senate amendment to H.R. 1. (CR H3143)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-03",
+      "action": "DEBATE - Pursuant to the provisions of H. Res. 566, the House proceeded with one hour of debate on the motion to agree to the Senate amendment to H.R. 1.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-03",
+      "action": "The previous question was ordered pursuant to the rule.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-03",
+      "action": "On motion that the House agree to the Senate amendment Agreed to by recorded vote: 218 - 214 (Roll no. 190). (text: CR H3059-3143)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-03",
+      "action": "Motion to reconsider laid on the table Agreed to without objection.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-04",
+      "action": "Signed by President.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-04",
+      "action": "Became Public Law No: 119-21.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-22",
+      "description": "On Motion to Recommit RC# 144",
+      "yea": 212,
+      "nay": 216,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-22",
+      "description": "On Passage RC# 145",
+      "yea": 215,
+      "nay": 214,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-30",
+      "description": "On the Motion (Padilla Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 353",
+      "yea": 47,
+      "nay": 53,
+      "passed": 0
+    },
+    {
+      "date": "2025-07-01",
+      "description": "On the Amendment S.Amdt. 2849 to S.Amdt. 2848 to S.Amdt. 2360 to H.R. 1 RC# 36",
+      "yea": 45,
+      "nay": 55,
+      "passed": 0
+    },
+    {
+      "date": "2025-07-01",
+      "description": "On the Motion (Bennet Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 354",
+      "yea": 47,
+      "nay": 53,
+      "passed": 0
+    },
+    {
+      "date": "2025-07-01",
+      "description": "On the Motion (Wyden Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 357",
+      "yea": 47,
+      "nay": 53,
+      "passed": 0
+    },
+    {
+      "date": "2025-07-01",
+      "description": "On the Amendment S.Amdt. 2382 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 358",
+      "yea": 50,
+      "nay": 50,
+      "passed": 0
+    },
+    {
+      "date": "2025-07-01",
+      "description": "On the Motion (Warnock Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 359",
+      "yea": 48,
+      "nay": 51,
+      "passed": 0
+    },
+    {
+      "date": "2025-07-01",
+      "description": "On the Amendment S.Amdt. 2745 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 360",
+      "yea": 21,
+      "nay": 79,
+      "passed": 0
+    },
+    {
+      "date": "2025-07-01",
+      "description": "On the Amendment S.Amdt. 2817 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 361",
+      "yea": 48,
+      "nay": 52,
+      "passed": 0
+    },
+    {
+      "date": "2025-07-01",
+      "description": "On the Amendment S.Amdt. 2435 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 362",
+      "yea": 47,
+      "nay": 53,
+      "passed": 0
+    },
+    {
+      "date": "2025-07-01",
+      "description": "On the Amendment S.Amdt. 2814 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 363",
+      "yea": 99,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-01",
+      "description": "On the Amendment S.Amdt. 2717 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 364",
+      "yea": 47,
+      "nay": 53,
+      "passed": 0
+    },
+    {
+      "date": "2025-07-01",
+      "description": "On the Amendment S.Amdt. 2719 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 365",
+      "yea": 48,
+      "nay": 52,
+      "passed": 0
+    },
+    {
+      "date": "2025-07-01",
+      "description": "On the Amendment S.Amdt. 2564 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 366",
+      "yea": 49,
+      "nay": 51,
+      "passed": 0
+    },
+    {
+      "date": "2025-07-01",
+      "description": "On the Amendment S.Amdt. 2847 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 367",
+      "yea": 50,
+      "nay": 50,
+      "passed": 0
+    },
+    {
+      "date": "2025-07-01",
+      "description": "On the Amendment S.Amdt. 2585 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 368",
+      "yea": 50,
+      "nay": 50,
+      "passed": 0
+    },
+    {
+      "date": "2025-07-01",
+      "description": "On the Amendment S.Amdt. 2848 to S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 370",
+      "yea": 50,
+      "nay": 50,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-01",
+      "description": "On the Amendment S.Amdt. 2360 to H.R. 1 (No short title on file) RC# 371",
+      "yea": 50,
+      "nay": 50,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-01",
+      "description": "On Passage of the Bill H.R. 1 RC# 372",
+      "yea": 50,
+      "nay": 50,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-03",
+      "description": "On Motion to Concur in the Senate Amendment RC# 190",
+      "yea": 218,
+      "nay": 214,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-30",
+      "description": "On the Motion (Schumer Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 332",
+      "yea": 47,
+      "nay": 53,
+      "passed": 0
+    },
+    {
+      "date": "2025-06-30",
+      "description": "On the Motion (Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 333",
+      "yea": 49,
+      "nay": 51,
+      "passed": 0
+    },
+    {
+      "date": "2025-06-30",
+      "description": "On the Motion (Motion to Waive Section 425(a)(2) of the CBA re: H.R. 1) RC# 334",
+      "yea": 51,
+      "nay": 48,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-30",
+      "description": "On the Motion (Wyden Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 335",
+      "yea": 47,
+      "nay": 53,
+      "passed": 0
+    },
+    {
+      "date": "2025-06-30",
+      "description": "On the Motion (Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 336",
+      "yea": 48,
+      "nay": 52,
+      "passed": 0
+    },
+    {
+      "date": "2025-06-30",
+      "description": "On the Motion (Lujan Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 337",
+      "yea": 49,
+      "nay": 51,
+      "passed": 0
+    },
+    {
+      "date": "2025-06-30",
+      "description": "On the Motion (Reed Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 338",
+      "yea": 48,
+      "nay": 52,
+      "passed": 0
+    },
+    {
+      "date": "2025-06-30",
+      "description": "On the Motion (Blunt Rochester Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 340",
+      "yea": 48,
+      "nay": 52,
+      "passed": 0
+    },
+    {
+      "date": "2025-06-30",
+      "description": "On the Motion (Kaine Motion to Commit H.R. 1 to the Committee on Homeland Security and Governmental Affairs with Instructions) RC# 346",
+      "yea": 47,
+      "nay": 53,
+      "passed": 0
+    },
+    {
+      "date": "2025-06-30",
+      "description": "On the Motion (Blumenthal Motion to Commit H.R. 1 to the Committee on Armed Services with Instructions) RC# 347",
+      "yea": 47,
+      "nay": 53,
+      "passed": 0
+    },
+    {
+      "date": "2025-06-30",
+      "description": "On the Motion (Gallego Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 348",
+      "yea": 47,
+      "nay": 53,
+      "passed": 0
+    },
+    {
+      "date": "2025-06-30",
+      "description": "On the Motion (Hassan Motion to Commit H.R. 1 to the Committee on Finance with Instructions) RC# 349",
+      "yea": 48,
+      "nay": 52,
+      "passed": 0
+    },
+    {
+      "date": "2025-06-30",
+      "description": "On the Motion (Duckworth Motion to Commit H.R. 1 to the Committee on Agriculture, Nutrition, and Forestry with Instructions) RC# 350",
+      "yea": 49,
+      "nay": 51,
+      "passed": 0
+    },
+    {
+      "date": "2025-06-30",
+      "description": "On the Motion (Schiff Motion to Commit H.R. 1 to the Committee on Agriculture, Nutrition, and Forestry with Instructions) RC# 351",
+      "yea": 47,
+      "nay": 53,
+      "passed": 0
+    },
+    {
+      "date": "2025-06-28",
+      "description": "On the Motion to Proceed H.R. 1 RC# 329",
+      "yea": 51,
+      "nay": 49,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-05-21",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr1/BILLS-119hr1rh.pdf",
+      "doc_id": 3241758
+    },
+    {
+      "date": "2025-05-28",
+      "type": "Engrossed",
+      "url": "https://www.congress.gov/119/bills/hr1/BILLS-119hr1eh.pdf",
+      "doc_id": 3247973
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr1/BILLS-119hr1pcs.pdf",
+      "doc_id": 3260300
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Amended",
+      "url": "https://www.congress.gov/119/bills/hr1/BILLS-119hr1eas.pdf",
+      "doc_id": 3260301
+    },
+    {
+      "date": "2025-07-08",
+      "type": "Enrolled",
+      "url": "https://www.congress.gov/119/bills/hr1/BILLS-119hr1enr.pdf",
+      "doc_id": 3261084
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Economics and public finance"
+  ]
+}

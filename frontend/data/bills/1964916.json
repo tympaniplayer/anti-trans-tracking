@@ -1,0 +1,110 @@
+{
+  "id": 1964916,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "SB87",
+  "title": "Define antisemitism; expand the offense of ethnic intimidation",
+  "summary": "To amend sections 2927.12 and 4112.01 and to enact sections 124.92 and 4112.20 of the Revised Code to define antisemitism for specific purposes and to expand the offense of ethnic intimidation to include the offenses of riot and aggravated riot committed by reason of the race, color, religion, or national origin of another person or group of persons.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/SB87/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/SB87/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/sb87",
+  "sponsors": [
+    "Terry Johnson (R) [Sen]",
+    "Jerry Cirino (R) [Sen]",
+    "Theresa Gavarone (R) [Sen]",
+    "Stephen Huffman (R) [Sen]",
+    "George Lang (R) [Sen]",
+    "Nathan Manning (R) [Sen]",
+    "Sandra O'Brien (R) [Sen]",
+    "Bill Reineke (R) [Sen]",
+    "Michele Reynolds (R) [Sen]",
+    "Kristina Roegner (R) [Sen]",
+    "Mark Romanchuk (R) [Sen]",
+    "Timothy Schaffer (R) [Sen]",
+    "Casey Weinstein (D) [Sen]",
+    "Shane Wilkin (R) [Sen]",
+    "Steve Wilson (R) [Sen]"
+  ],
+  "introduced_date": "2026-03-04",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-10",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Referred to committee: Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Reported - Substitute: Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Passed",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Introduced",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-04",
+      "description": "Senate Favorable Passage",
+      "yea": 4,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-04",
+      "description": "Senate Passed",
+      "yea": 27,
+      "nay": 4,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb87/00_IN/pdf/",
+      "doc_id": 3112458
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb87/01_RS/pdf/",
+      "doc_id": 3384886
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb87/02_PS/pdf/",
+      "doc_id": 3384887
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Crimes, Corrections, and Law Enforcement : Crime and Punishment",
+    "Education : Higher Education",
+    "State and Local Government : State Government",
+    "Senate Judiciary Committee"
+  ]
+}

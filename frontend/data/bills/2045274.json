@@ -1,0 +1,64 @@
+{
+  "id": 2045274,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4550",
+  "title": "Relative to modern family building",
+  "summary": "Relative to modern family building",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4550/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4550/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4550",
+  "sponsors": [
+    "Joint Committee on Financial Services [Jnt]"
+  ],
+  "introduced_date": "2025-09-29",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-09-29",
+      "action": "Reported from the committee on Financial Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-29",
+      "action": "New draft of H1190",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-29",
+      "action": "Reported favorably by committee and referred to the Joint Committee on Health Care Financing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-04",
+      "action": "Committee recommended bill ought to pass and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-09-29",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4550.pdf",
+      "doc_id": 3271040
+    }
+  ],
+  "committee": {
+    "committee_id": 737,
+    "chamber": "H",
+    "chamber_id": 51,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

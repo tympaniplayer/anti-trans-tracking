@@ -1,0 +1,53 @@
+{
+  "id": 2097520,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A1051",
+  "title": "Requires BPU to develop program to promote certain energy businesses in State.",
+  "summary": "Requires BPU to develop program to promote certain energy businesses in State.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A1051/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A1051/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A1051",
+  "sponsors": [
+    "Wayne DeAngelo (D) [Rep]",
+    "Shanique Speight (D) [Rep]",
+    "Vincent Kearney (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Telecommunications and Utilities Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-12",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A1500/1051_I1.HTM",
+      "doc_id": 3336582
+    }
+  ],
+  "committee": {
+    "committee_id": 870,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Telecommunications and Utilities"
+  },
+  "subjects": [
+    "Telecommunications and Utilities"
+  ]
+}

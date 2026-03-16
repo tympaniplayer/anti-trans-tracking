@@ -1,0 +1,54 @@
+{
+  "id": 1991826,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S06051",
+  "title": "Relates to expanding employee ownership assistance for lesbian, gay, bisexual, transgender and non-binary individuals.",
+  "summary": "Relates to expanding employee ownership assistance for lesbian, gay, bisexual, transgender and non-binary individuals.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S06051/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S06051/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S6051",
+  "sponsors": [
+    "Kevin Parker (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-05",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-05",
+      "action": "REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO COMMERCE, ECONOMIC DEVELOPMENT AND SMALL BUSINESS",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-05",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S06051&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S06051",
+      "doc_id": 3153839
+    }
+  ],
+  "committee": {
+    "committee_id": 418,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Commerce, Economic Development and Small Business"
+  },
+  "subjects": []
+}

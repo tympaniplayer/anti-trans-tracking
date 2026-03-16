@@ -1,0 +1,65 @@
+{
+  "id": 1997839,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S146",
+  "title": "Relative to a maltreatment coding system",
+  "summary": "For legislation to create a maltreatment coding system during a child abuse investigation. Children, Families and Persons with Disabilities.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S146/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S146/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S146",
+  "sponsors": [
+    "Robyn Kennedy (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Children, Families and Persons with Disabilities",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-27",
+      "action": "Hearing scheduled for 07/08/2025 from 01:00 PM-05:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-12-22",
+      "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-10",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S146.pdf",
+      "doc_id": 3163074
+    }
+  ],
+  "committee": {
+    "committee_id": 746,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

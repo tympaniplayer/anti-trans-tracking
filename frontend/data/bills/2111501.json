@@ -1,0 +1,55 @@
+{
+  "id": 2111501,
+  "state": "WY",
+  "state_name": "Wyoming",
+  "bill_number": "HB0113",
+  "title": "Parent rights-amendments.",
+  "summary": "AN ACT relating to education; clarifying procedures and requirements for school districts to provide parents notice of information regarding students; prohibiting school districts from requiring school district personnel and students to use a student's preferred pronoun if the pronoun does not align with the student's biological sex; requiring parental or guardian permission before instruction relating to diversity, equity or inclusion; authorizing school district personnel to opt out of mandatory trainings as specified; providing definitions; requiring reporting; and providing for an effective date.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WY/bill/HB0113/2026",
+  "legiscan_url": "https://legiscan.com/WY/bill/HB0113/2026",
+  "state_url": "https://www.wyoleg.gov/Legislation/2026/HB0113",
+  "sponsors": [
+    "Joe Webb (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-13",
+  "session": "2026 Budget Session",
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "action": "Bill Number Assigned",
+      "chamber": ""
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Received for Introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Did not Consider for Introduction",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://www.wyoleg.gov/2026/Introduced/HB0113.pdf",
+      "doc_id": 3352484
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

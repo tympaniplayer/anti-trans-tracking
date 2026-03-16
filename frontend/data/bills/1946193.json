@@ -1,0 +1,104 @@
+{
+  "id": 1946193,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "SB0472",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 49, relative to residential educational programs.",
+  "summary": "As enacted, requires all residential educational programs in this state that allow minors to participate or to access residential facilities, including staying overnight in such facilities, to segregate certain restrooms, changing areas, and showers by immutable biological sex. - Amends TCA Title 49.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "bathrooms",
+    "definitions",
+    "education"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/SB0472/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/SB0472/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB0472&ga=114",
+  "sponsors": [
+    "Janince Bowling (R) [Sen]",
+    "Joseph Hensley (R) [Sen]",
+    "John Stevens (R) [Sen]"
+  ],
+  "introduced_date": "2025-04-04",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-29",
+      "action": "Filed for introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Introduced, Passed on First Consideration",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Passed on Second Consideration, refer to Senate Education Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Placed on Senate Education Committee calendar for 3/12/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 8, Nays 1 PNV 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Placed on Senate Regular Calendar for 3/20/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Companion House Bill substituted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Sponsor(s) Added.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-04",
+      "action": "Comp. became Pub. Ch. 134",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-12",
+      "description": "SENATE EDUCATION COMMITTEE: Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 8, Nays 1 PNV 0",
+      "yea": 8,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-29",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0472.pdf",
+      "doc_id": 3088631
+    },
+    {
+      "date": "2025-04-04",
+      "type": "Chaptered",
+      "url": "https://publications.tnsosfiles.com/acts/114/pub/pc0134.pdf",
+      "doc_id": 3202534
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Education"
+  ]
+}

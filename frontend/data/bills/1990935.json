@@ -1,0 +1,54 @@
+{
+  "id": 1990935,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S05925",
+  "title": "Requires local social services districts distribute shelter information specifically for lesbian, gay, bisexual, transgender, and gender non-conforming persons on the district's website and as pamphlets at intake shelters.",
+  "summary": "Requires local social services districts distribute shelter information specifically for lesbian, gay, bisexual, transgender, and gender non-conforming persons on the district's website and as pamphlets at intake shelters.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S05925/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S05925/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S5925",
+  "sponsors": [
+    "Cordell Cleare (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-04",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-04",
+      "action": "REFERRED TO SOCIAL SERVICES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO SOCIAL SERVICES",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-04",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S05925&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S05925",
+      "doc_id": 3151830
+    }
+  ],
+  "committee": {
+    "committee_id": 440,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Social Services"
+  },
+  "subjects": []
+}

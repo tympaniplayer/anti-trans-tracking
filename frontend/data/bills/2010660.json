@@ -1,0 +1,66 @@
+{
+  "id": 2010660,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB2197",
+  "title": "No 340B Savings for Transgender Care Act",
+  "summary": "To prevent 340B covered entities from using savings derived for sex reassignment surgeries, hormonal therapies, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB2197/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB2197/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/2197/all-info",
+  "sponsors": [
+    "Dusty Johnson (R) [Rep]",
+    "Austin Scott (R) [Rep]",
+    "Dan Crenshaw (R) [Rep]",
+    "Michael Rulli (R) [Rep]",
+    "Mike Ezell (R) [Rep]",
+    "Stephanie Bice (R) [Rep]",
+    "Barry Moore (R) [Rep]",
+    "John Rose (R) [Rep]",
+    "Roger Williams (R) [Rep]",
+    "Brad Finstad (R) [Rep]",
+    "Russell Fry (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-18",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-03-18",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-29",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr2197/BILLS-119hr2197ih.pdf",
+      "doc_id": 3193977
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

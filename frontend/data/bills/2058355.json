@@ -1,0 +1,73 @@
+{
+  "id": 2058355,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "S0733",
+  "title": "Children",
+  "summary": "Amend The South Carolina Code Of Laws By Adding Section 6-1-200 So As To Prohibit State Agencies, Political Subdivisions, Or Entities That Are Supported In Whole Or In Part By Public Funds From Using Any Public Funds To Host Or Provide Drag Story Hours Or Other Drag Shows For Minors Under The Age Of Eighteen; To Establish Penalties; And To Define Terms.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "drag",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/S0733/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/S0733/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0733&session=126&summary=B",
+  "sponsors": [
+    "Carlisle Kennedy (R) [Sen]",
+    "Matthew Leber (R) [Sen]",
+    "Lee Bright (R) [Sen]",
+    "Tom Fernandez (R) [Sen]",
+    "Rex Rice (R) [Sen]",
+    "Richard Cash (R) [Sen]",
+    "Billy Garrett (R) [Sen]",
+    "Allen Blackmon (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2025-12-10",
+      "action": "Prefiled",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-10",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Introduced and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-10",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/733_20251210.htm",
+      "doc_id": 3290084
+    }
+  ],
+  "committee": {
+    "committee_id": 727,
+    "chamber": "S",
+    "chamber_id": 86,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

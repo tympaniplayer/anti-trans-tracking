@@ -1,0 +1,81 @@
+{
+  "id": 2054990,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "HB1973",
+  "title": "Modifies guidelines for student participation in athletic contests organized by sex",
+  "summary": "Modifies guidelines for student participation in athletic contests organized by sex",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "education"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/HB1973/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/HB1973/2026",
+  "state_url": "https://house.mo.gov/Bill.aspx?bill=HB1973&year=2026&code=R",
+  "sponsors": [
+    "Bennie Cook (R) [Rep]",
+    "Josh Hurlbert (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Prefiled (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Read First Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Read Second Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Referred: Emerging Issues(H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Public Hearing Completed (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Executive Session Completed (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "HCS Voted Do Pass (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "HCS Reported Do Pass (H) - AYES: 9 NOES: 4 PRESENT: 0",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-02",
+      "type": "Introduced",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4048H.01I.pdf",
+      "doc_id": 3287125
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

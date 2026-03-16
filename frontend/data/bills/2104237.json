@@ -1,0 +1,65 @@
+{
+  "id": 2104237,
+  "state": "NM",
+  "state_name": "New Mexico",
+  "bill_number": "HB279",
+  "title": "Healthcare Privacy & Safety Protections",
+  "summary": "Healthcare Privacy & Safety Protections",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NM/bill/HB279/2026",
+  "legiscan_url": "https://legiscan.com/NM/bill/HB279/2026",
+  "state_url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=279&year=26",
+  "sponsors": [
+    "Christine Chandler (D) [Rep]",
+    "Linda Trujillo (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "Not Printed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Withdrawn from committee or daily calendar, ordered printed and referred to",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Sent to HHHC - Referrals: HHHC/HJC",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "HHHC: Reported by committee with Do Not Pass but with a Do Pass recommendation on Committee Substitution",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-14",
+      "action": "HJC: Reported by committee with Do Pass recommendation",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-02",
+      "type": "Introduced",
+      "url": "https://www.nmlegis.gov/Sessions/26%20Regular/bills/house/HB0279.pdf",
+      "doc_id": 3344050
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

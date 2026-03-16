@@ -1,0 +1,54 @@
+{
+  "id": 2066102,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "HB2735",
+  "title": "Creates provisions relating to the use of reproductive or sexual health application information",
+  "summary": "Creates provisions relating to the use of reproductive or sexual health application information",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/HB2735/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/HB2735/2026",
+  "state_url": "https://house.mo.gov/Bill.aspx?bill=HB2735&year=2026&code=R",
+  "sponsors": [
+    "Eric Woods (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "action": "Prefiled (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Read First Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Read Second Time (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-06",
+      "type": "Introduced",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5321H.01I.pdf",
+      "doc_id": 3300534
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

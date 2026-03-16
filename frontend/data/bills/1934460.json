@@ -1,0 +1,83 @@
+{
+  "id": 1934460,
+  "state": "NE",
+  "state_name": "Nebraska",
+  "bill_number": "LB605",
+  "title": "Require each school board to adopt a policy relating to transgender student participation in extracurricular activities sponsored by a school or an athletics or activities association",
+  "summary": "Require each school board to adopt a policy relating to transgender student participation in extracurricular activities sponsored by a school or an athletics or activities association",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "education",
+    "sports"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NE/bill/LB605/2025",
+  "legiscan_url": "https://legiscan.com/NE/bill/LB605/2025",
+  "state_url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59468",
+  "sponsors": [
+    "Jane Raybould (N) [Sen]"
+  ],
+  "introduced_date": "2025-03-13",
+  "session": "109th Legislature",
+  "actions": [
+    {
+      "date": "2025-01-22",
+      "action": "Date of introduction",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-01-24",
+      "action": "Referred to Education Committee",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Notice of hearing for March 18, 2025",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Notice of hearing for March 18, 2025 (cancel)",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Raybould MO65 Withdraw LB605 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Raybould MO65 prevailed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Bill withdrawn",
+      "chamber": "L"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-13",
+      "description": "Raybould MO65 prevailed",
+      "yea": 34,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-22",
+      "type": "Introduced",
+      "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB605.pdf",
+      "doc_id": 3071693
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

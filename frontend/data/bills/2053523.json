@@ -1,0 +1,53 @@
+{
+  "id": 2053523,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB3264",
+  "title": "More Affordable Care Act",
+  "summary": "A bill to establish a health freedom waiver program, to promote better price reporting and outcomes, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB3264/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB3264/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3264/all-info",
+  "sponsors": [
+    "Rick Scott (R) [Sen]",
+    "Mike Lee (R) [Sen]",
+    "Cynthia Lummis (R) [Sen]"
+  ],
+  "introduced_date": "2025-11-20",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-11-20",
+      "action": "Read twice and referred to the Committee on Finance.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-20",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s3264/BILLS-119s3264is.pdf",
+      "doc_id": 3292959
+    }
+  ],
+  "committee": {
+    "committee_id": 2326,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Finance"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

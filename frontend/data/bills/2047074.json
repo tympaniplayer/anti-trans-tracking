@@ -1,0 +1,65 @@
+{
+  "id": 2047074,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4613",
+  "title": "Relative to culturally competent and effective health care",
+  "summary": "Relative to culturally competent and effective health care",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "sports"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4613/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4613/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4613",
+  "sponsors": [
+    "Joint Committee on Public Health [Jnt]"
+  ],
+  "introduced_date": "2025-10-20",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-10-20",
+      "action": "Reported from the committee on Public Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-20",
+      "action": "New draft of H2550",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-20",
+      "action": "Reported favorably by committee and referred to the Joint Committee on Health Care Financing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-04",
+      "action": "Committee recommended bill ought to pass and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-20",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4613.pdf",
+      "doc_id": 3274185
+    }
+  ],
+  "committee": {
+    "committee_id": 737,
+    "chamber": "H",
+    "chamber_id": 51,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

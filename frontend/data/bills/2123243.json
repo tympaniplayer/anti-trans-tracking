@@ -1,0 +1,59 @@
+{
+  "id": 2123243,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB4068",
+  "title": "INS-PRIOR AUTH HIV DRUG ACCESS",
+  "summary": "Amends the Illinois Insurance Code. Provides that, on and after the effective date of the amendatory Act, coverage for all abortifacients, hormonal therapy medication, human immunodeficiency virus pre-exposure prophylaxis, and post-exposure prophylaxis drugs approved by the United States Food and Drug Administration, and follow-up services related to that coverage, shall include screenings for pre-PrEP HIV and sexually transmitted infections. Provides that the coverage shall also include kidney function analysis, routine laboratory testing, and routine provider visits associated with those screenings. Amends the Prior Authorization Reform Act. Prohibits a health insurance issuer from requiring prior authorization for the following prescription drug types and their therapeutic equivalents approved by the United States Food and Drug Administration: human immunodeficiency virus pre-exposure prophylaxis and post-exposure prophylaxis medication or human immunodeficiency virus treatment medication. Effective January 1, 2028.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB4068/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB4068/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4068&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "Sara Feigenholtz (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-24",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-24",
+      "action": "Filed with Secretary by Sen. Sara Feigenholtz",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-24",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=209240&DocName=10400SB4068&DocNum=4068&DocTypeID=SB&LegID=167840&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3373871
+    }
+  ],
+  "committee": {
+    "committee_id": 254,
+    "chamber": "S",
+    "chamber_id": 36,
+    "name": "Assignments"
+  },
+  "subjects": []
+}

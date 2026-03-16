@@ -1,0 +1,69 @@
+{
+  "id": 2000482,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H1589",
+  "title": "To amend the definition of hate crime",
+  "summary": "Relative to the definition of hate crime. The Judiciary.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H1589/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H1589/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H1589",
+  "sponsors": [
+    "Christine Barber (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on The Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-14",
+      "action": "Hearing scheduled for 11/25/2025 from 10:00 AM-05:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-11-25",
+      "action": "Hearing rescheduled to 11/25/2025 from 10:00 AM-04:00 PM in A-2 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-11-26",
+      "action": "Hearing rescheduled to 11/25/2025 from 10:00 AM-05:00 PM in A-2 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-11-26",
+      "action": "Reported by committee to Clerk\u2019s Office for processing, will accompany a study order",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H1589.pdf",
+      "doc_id": 3166450
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

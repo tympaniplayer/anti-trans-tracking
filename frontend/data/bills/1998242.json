@@ -1,0 +1,64 @@
+{
+  "id": 1998242,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S763",
+  "title": "Relative to telehealth and digital equity for patients",
+  "summary": "For legislation relative to telehealth and digital equity for patients. Financial Services.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S763/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S763/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S763",
+  "sponsors": [
+    "Adam Gomez (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Financial Services",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-02",
+      "action": "Hearing scheduled for 10/14/2025 from 10:30 AM-01:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-12-15",
+      "action": "Bill reported favorably by committee and referred to the Joint Committee on Health Care Financing",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S763.pdf",
+      "doc_id": 3163492
+    }
+  ],
+  "committee": {
+    "committee_id": 763,
+    "chamber": "J",
+    "chamber_id": 103,
+    "name": "Health Care Financing"
+  },
+  "subjects": []
+}

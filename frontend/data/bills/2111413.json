@@ -1,0 +1,537 @@
+{
+  "id": 2111413,
+  "state": "WY",
+  "state_name": "Wyoming",
+  "bill_number": "SF0001",
+  "title": "General government appropriations.",
+  "summary": "AN ACT to make appropriations for the fiscal biennium commencing July 1, 2026 and ending June 30, 2028; providing definitions; providing for appropriations and transfers of funds for the period of the budget and for the remainder of the current biennium ending June 30, 2026 as specified; providing for carryover of certain funds beyond the biennium as specified; providing for employee positions as specified; providing for duties, terms and conditions and other requirements relating to appropriations for the remainder of the current biennium ending June 30, 2026 and the period of the budget as specified; providing for position and other budgetary limitations; continuing an account; authorizing grants and loans; discharging interfund loans; funding a higher education program; requiring an audit of funds; making conforming amendments; amending and repealing prior appropriations; and providing for effective dates.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WY/bill/SF0001/2026",
+  "legiscan_url": "https://legiscan.com/WY/bill/SF0001/2026",
+  "state_url": "https://www.wyoleg.gov/Legislation/2026/SF0001",
+  "sponsors": [
+    "Appropriations [Jnt]"
+  ],
+  "introduced_date": "2026-03-06",
+  "session": "2026 Budget Session",
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "action": "Bill Number Assigned",
+      "chamber": ""
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Received for Introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Introduced and Referred to SCOW",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "COW:Passed",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "2nd Reading:Passed",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "3rd Reading:Laid Back",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "3rd Reading:Passed 20-10-1-0-0",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Received for Introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Introduced and Referred to H02",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "House:Pursuant to JR 14-1 (g) referred directly to JCC",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Appointed JCC01 Members",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Appointed JCC01 Members",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Assigned Number SEA No. 0027",
+      "chamber": ""
+    },
+    {
+      "date": "2026-03-02",
+      "action": "President Signed SEA No. 0027",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Speaker Signed SEA No. 0027",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Governor Signed and Line Item Vetoed",
+      "chamber": ""
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Assigned Chapter Number 44",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-17",
+      "description": "SF0001S2001 Amendment adopted 20-11-0-0-0",
+      "yea": 20,
+      "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-17",
+      "description": "SF0001S2002 Amendment failed 2-29-0-0-0",
+      "yea": 2,
+      "nay": 29,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "SF0001S2010 Amendment adopted 28-3-0-0-0",
+      "yea": 28,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-17",
+      "description": "SF0001S2011 Amendment adopted 30-1-0-0-0",
+      "yea": 30,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-17",
+      "description": "SF0001S2014 Amendment failed 12-19-0-0-0",
+      "yea": 12,
+      "nay": 19,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "SF0001S2017 Amendment adopted 20-11-0-0-0",
+      "yea": 20,
+      "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-17",
+      "description": "SF0001S2018 Amendment adopted 27-4-0-0-0",
+      "yea": 27,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3001 Amendment failed 12-19-0-0-0",
+      "yea": 12,
+      "nay": 19,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3002 Amendment failed 12-19-0-0-0",
+      "yea": 12,
+      "nay": 19,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3003 Amendment adopted 24-7-0-0-0",
+      "yea": 24,
+      "nay": 7,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3004 Amendment adopted 30-1-0-0-0",
+      "yea": 30,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3007 Amendment failed 13-18-0-0-0",
+      "yea": 13,
+      "nay": 18,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3008 Amendment adopted 22-9-0-0-0",
+      "yea": 22,
+      "nay": 9,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3010 Amendment adopted 23-8-0-0-0",
+      "yea": 23,
+      "nay": 8,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3011 Amendment adopted 31-0-0-0-0",
+      "yea": 31,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3012 Amendment adopted 31-0-0-0-0",
+      "yea": 31,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3013 Amendment adopted 31-0-0-0-0",
+      "yea": 31,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3014 Amendment adopted 16-15-0-0-0",
+      "yea": 16,
+      "nay": 15,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3015 Amendment adopted 26-5-0-0-0",
+      "yea": 26,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3016 Amendment adopted 27-4-0-0-0",
+      "yea": 27,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3017 Amendment adopted 20-11-0-0-0",
+      "yea": 20,
+      "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3018 Amendment failed 10-21-0-0-0",
+      "yea": 10,
+      "nay": 21,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3019 Amendment adopted 17-14-0-0-0",
+      "yea": 17,
+      "nay": 14,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3020 Amendment failed 13-18-0-0-0",
+      "yea": 13,
+      "nay": 18,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3021 Amendment adopted 16-15-0-0-0",
+      "yea": 16,
+      "nay": 15,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3022 Amendment adopted 16-15-0-0-0",
+      "yea": 16,
+      "nay": 15,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3025 Amendment adopted 27-4-0-0-0",
+      "yea": 27,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3026 Amendment failed 2-29-0-0-0",
+      "yea": 2,
+      "nay": 29,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3033 Amendment adopted 29-1-0-0-1",
+      "yea": 29,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3034 Amendment adopted 21-10-0-0-0",
+      "yea": 21,
+      "nay": 10,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3035 Amendment adopted 27-4-0-0-0",
+      "yea": 27,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3036 Amendment adopted 18-13-0-0-0",
+      "yea": 18,
+      "nay": 13,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3037 Amendment adopted 22-9-0-0-0",
+      "yea": 22,
+      "nay": 9,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3038 Amendment adopted 24-7-0-0-0",
+      "yea": 24,
+      "nay": 7,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3039 Amendment adopted 26-5-0-0-0",
+      "yea": 26,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3040 Amendment adopted 23-8-0-0-0",
+      "yea": 23,
+      "nay": 8,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3044 Amendment failed 13-18-0-0-0",
+      "yea": 13,
+      "nay": 18,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3048 Amendment failed 11-20-0-0-0",
+      "yea": 11,
+      "nay": 20,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3049 Amendment adopted 16-15-0-0-0",
+      "yea": 16,
+      "nay": 15,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3050 Amendment adopted 23-8-0-0-0",
+      "yea": 23,
+      "nay": 8,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "SF0001S3053 Amendment adopted 30-0-1-0-0",
+      "yea": 30,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "3rd Reading:Passed 20-10-1-0-0",
+      "yea": 20,
+      "nay": 10,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-02",
+      "description": "SF0001JC001 Adopted SF0001JC001: 59-1-2-0-0",
+      "yea": 59,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-02",
+      "description": "SF0001JC001 Adopted SF0001JC001: 28-3-0-0-0",
+      "yea": 28,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "SF0001VT001 Line Item Veto Override 23-6-2-0-0",
+      "yea": 23,
+      "nay": 6,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "SF0001VT002 Line Item Veto Override 29-0-2-0-0",
+      "yea": 29,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "SF0001VT003 Line Item Veto Override 25-4-2-0-0",
+      "yea": 25,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "SF0001VT004 Line Item Veto Override 29-0-2-0-0",
+      "yea": 29,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "SF0001VT005 Line Item Veto Override 28-1-2-0-0",
+      "yea": 28,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "SF0001VT006 Line Item Veto Override 28-1-2-0-0",
+      "yea": 28,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "SF0001VT007 Line Item Veto Override 24-5-2-0-0",
+      "yea": 24,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "SF0001VT001 Line Item Veto Override 60-0-1-1-0",
+      "yea": 60,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "SF0001VT002 Did Not Override Line Item Veto 34-26-1-1-0",
+      "yea": 34,
+      "nay": 26,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "SF0001VT003 Did Not Override Line Item Veto 34-26-1-1-0",
+      "yea": 34,
+      "nay": 26,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "SF0001VT004 Line Item Veto Override 57-3-1-1-0",
+      "yea": 57,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "SF0001VT005 Line Item Veto Override 60-0-1-1-0",
+      "yea": 60,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "SF0001VT006 Line Item Veto Override 60-0-1-1-0",
+      "yea": 60,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "SF0001VT007 Did Not Override Line Item Veto 41-19-1-1-0",
+      "yea": 41,
+      "nay": 19,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://www.wyoleg.gov/2026/Introduced/SF0001.pdf",
+      "doc_id": 3352353
+    },
+    {
+      "date": "2026-03-02",
+      "type": "Enrolled",
+      "url": "https://www.wyoleg.gov/2026/Enroll/SF0001.pdf",
+      "doc_id": 3381462
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": 2068681,
+  "state": "IN",
+  "state_name": "Indiana",
+  "bill_number": "SB0215",
+  "title": "Gender matters.",
+  "summary": "Gender matters. Defines \"sex\" and \"gender\" for purposes of the Indiana Code. States that the definitions of \"sex\" and \"gender\" are meant to be synonymous in the Indiana Code unless specifically defined otherwise and is clarifying language. Sets forth requirements of a short form birth certificate and a long form birth certificate. Specifies when a short form birth certificate may be amended. Requires the Indiana department of health to: (1) update the definition of \"sex\" used by the agencies; (2) identify birth certificates issued with a change in sex classification by court order; (3) change the sex on the birth certificate back to the originating sex and reissue the birth certificate; and (4) void the superseded document. Allows for the sharing of certain information among specified agencies for the purpose of reissuing a birth certificate. Requires public buildings, certain schools, state educational institutions, and certain businesses to designate multiple occupancy restrooms or changing areas for the exclusive use of the male sex or the exclusive use of the female sex and provides, with exceptions, that an individual may only use a multiple occupancy restroom or changing area designated for the individual's sex. Provides specified remedies for a violation of these requirements, including criminal penalties or civil actions. Provides that a school may not promote or encourage the use of, or require, compel, or coerce a student, an employee of the school, or a staff member of the school to use: (1) a pronoun, title, or other word to identify a student, school employee, or other individual that is inconsistent with the student's, employee's, or individual's biological sex; or (2) a name or nickname to identify a student that is inconsistent with the student's name on the student's birth certificate. Creates an exception. Prohibits the department of correction (department) and each county jail from housing incarcerated individuals in a facility that does not align with the incarcerated individual's sex. Creates a civil cause of action for the department's or a county jail's failure to comply with the prohibition.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions",
+    "bathrooms",
+    "education",
+    "identity_documents"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IN/bill/SB0215/2026",
+  "legiscan_url": "https://legiscan.com/IN/bill/SB0215/2026",
+  "state_url": "https://iga.in.gov/legislative/2026/bills/senate/215/details",
+  "sponsors": [
+    "Gary Byrne (R) [Sen]",
+    "Ed Charbonneau (R) [Sen]",
+    "Chris Garten (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-08",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "action": "Authored by Senators Byrne, Charbonneau, Garten",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "First reading: referred to Committee on Health and Provider Services",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-08",
+      "type": "Introduced",
+      "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0215/SB0215.01.INTR.pdf",
+      "doc_id": 3303304
+    }
+  ],
+  "committee": {
+    "committee_id": 1321,
+    "chamber": "S",
+    "chamber_id": 38,
+    "name": "Health and Provider Services"
+  },
+  "subjects": []
+}

@@ -1,0 +1,134 @@
+{
+  "id": 1936625,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB284",
+  "title": "Law enforcement: Racial and Identity Profiling Advisory Board (RIPA).",
+  "summary": "An act to amend Section 13519.4 of the Penal Code, relating to law enforcement.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB284/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB284/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB284",
+  "sponsors": [
+    "Juan Alanis (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-22",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "From printer. May be heard in committee February 22.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Referred to Com. on PUB. S.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on PUB. S. Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Re-referred to Com. on PUB. S.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "In committee: Set, second hearing. Hearing canceled at the request of author.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 7. Noes 1.) (April 29).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "Re-referred to Com. on APPR.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "In committee: Hearing postponed by committee.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "In committee: Hearing postponed by committee.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-31",
+      "action": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-29",
+      "description": "Do pass as amended and be re-referred to the Committee on [Appropriations]",
+      "yea": 7,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-22",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB284#99INT",
+      "doc_id": 3074069
+    },
+    {
+      "date": "2025-03-24",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB284#98AMD",
+      "doc_id": 3186869
+    },
+    {
+      "date": "2025-05-01",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB284#97AMD",
+      "doc_id": 3227545
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,75 @@
+{
+  "id": 2070153,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB7005",
+  "title": "Customer Non-Discrimination Act",
+  "summary": "To prohibit discrimination in public accommodations on the basis of sex, gender identity, and sexual orientation, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB7005/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB7005/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/7005/all-info",
+  "sponsors": [
+    "Bonnie Coleman (D) [Rep]",
+    "Paul Tonko (D) [Rep]",
+    "Mark Pocan (D) [Rep]",
+    "Jasmine Crockett (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Scott Peters (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Kevin Mullin (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Andre Carson (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Mark Takano (D) [Rep]",
+    "Sylvia Garcia (D) [Rep]",
+    "Janice Schakowsky (D) [Rep]",
+    "Pramila Jayapal (D) [Rep]",
+    "Troy Carter (D) [Rep]",
+    "Nikema Williams (D) [Rep]",
+    "Josh Gottheimer (D) [Rep]",
+    "Lateefah Simon (D) [Rep]",
+    "Raja Krishnamoorthi (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-09",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-09",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-22",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr7005/BILLS-119hr7005ih.pdf",
+      "doc_id": 3327699
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

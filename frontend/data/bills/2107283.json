@@ -1,0 +1,53 @@
+{
+  "id": 2107283,
+  "state": "CO",
+  "state_name": "Colorado",
+  "bill_number": "HB1100",
+  "title": "Guardianship for Incapacitated Adults",
+  "summary": "Concerning updates to guardianship for incapacitated adults.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CO/bill/HB1100/2026",
+  "legiscan_url": "https://legiscan.com/CO/bill/HB1100/2026",
+  "state_url": "https://leg.colorado.gov/bills/HB26-1100",
+  "sponsors": [
+    "Cecelia Espenoza (D) [Rep]",
+    "Rebekah Stewart (D) [Rep]",
+    "Marc Snyder (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-03",
+      "action": "Introduced In House - Assigned to Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "1969-12-31",
+      "type": "Introduced",
+      "url": "https://leg.colorado.gov/bill_files/111204/download",
+      "doc_id": 3347754
+    }
+  ],
+  "committee": {
+    "committee_id": 907,
+    "chamber": "H",
+    "chamber_id": 21,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Probate, Trusts, & Fiduciaries"
+  ]
+}

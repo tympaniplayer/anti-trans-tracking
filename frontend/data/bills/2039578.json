@@ -1,0 +1,56 @@
+{
+  "id": 2039578,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A08913",
+  "title": "Prohibits discrimination based upon housing status.",
+  "summary": "Prohibits discrimination based upon housing status.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A08913/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A08913/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A8913",
+  "sponsors": [
+    "Linda Rosenthal (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Yudelka Tapia (D) [Rep]"
+  ],
+  "introduced_date": "2025-07-16",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-07-16",
+      "action": "referred to governmental operations",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to governmental operations",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-16",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08913&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08913",
+      "doc_id": 3261857
+    }
+  ],
+  "committee": {
+    "committee_id": 368,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Governmental Operations"
+  },
+  "subjects": []
+}

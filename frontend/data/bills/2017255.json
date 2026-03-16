@@ -1,0 +1,73 @@
+{
+  "id": 2017255,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF3154",
+  "title": "Foster youth bill of rights establishment",
+  "summary": "Foster youth bill of rights establishment",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF3154/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF3154/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3154/",
+  "sponsors": [
+    "Mary Kunesh-Podein (D) [Sen]",
+    "Erin Maye Quade (D) [Sen]",
+    "Bobby Champion (D) [Sen]",
+    "Bonnie Westlin (D) [Sen]",
+    "Jim Abeler (R) [Sen]"
+  ],
+  "introduced_date": "2025-04-01",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-04-01",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Referred to Health and Human Services",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Author added Champion",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Author added Westlin",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Author added Abeler",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-28",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3154/versions/0/pdf/",
+      "doc_id": 3194837
+    }
+  ],
+  "committee": {
+    "committee_id": 1745,
+    "chamber": "S",
+    "chamber_id": 56,
+    "name": "Health and Human Services"
+  },
+  "subjects": []
+}

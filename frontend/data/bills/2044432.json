@@ -1,0 +1,72 @@
+{
+  "id": 2044432,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "HB457",
+  "title": "Regards penalties for politically motivated criminal offenses",
+  "summary": "To amend sections 2903.01, 2929.01, 2929.12, 2929.14, and 2929.22 and to enact section 2941.1428 of the Revised Code to create new aggravated murder offenses for political motivation and political victims, to create a mandatory prison term for politically motivated offenses of violence, and to add political motivation to sentencing factors for felonies and misdemeanors.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/HB457/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/HB457/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/hb457",
+  "sponsors": [
+    "Jack Daniels (R) [Rep]",
+    "Josh Williams (R) [Rep]",
+    "Tim Barhorst (R) [Rep]",
+    "Adam Bird (R) [Rep]",
+    "Thaddeus Claggett (R) [Rep]",
+    "Steve Demetriou (R) [Rep]",
+    "Thomas Hall (R) [Rep]",
+    "Marilyn John (R) [Rep]",
+    "Beth Lear (R) [Rep]",
+    "Kevin Miller (R) [Rep]",
+    "Heidi Workman (R) [Rep]"
+  ],
+  "introduced_date": "2025-09-17",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2025-09-17",
+      "action": "Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-01",
+      "action": "Referred to committee: Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb457/00_IN/pdf/",
+      "doc_id": 3269959
+    }
+  ],
+  "committee": {
+    "committee_id": 106,
+    "chamber": "H",
+    "chamber_id": 5,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crimes, Corrections, and Law Enforcement",
+    "Crimes, Corrections, and Law Enforcement : Crime and Punishment",
+    "Elections",
+    "General Assembly",
+    "Health and Human Services : Public Health",
+    "Crimes, Corrections, and Law Enforcement : Sentencing",
+    "House Judiciary Committee"
+  ]
+}

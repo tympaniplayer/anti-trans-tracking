@@ -1,0 +1,67 @@
+{
+  "id": 2122541,
+  "state": "AK",
+  "state_name": "Alaska",
+  "bill_number": "HB342",
+  "title": "Phys Lblty: Sex Reassign Procedure;minors",
+  "summary": "An Act relating to physician liability for sex-reassignment treatments or procedures performed on minors; relating to standardized informed consent forms for sex-reassignment treatments or procedures; relating to the duties of the State Medical Board; relating to informed consent for sex-reassignment treatments or procedures performed on minors; establishing the crime of criminal sex-reassignment treatment or procedure; and providing for an effective date.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AK/bill/HB342/2025",
+  "legiscan_url": "https://legiscan.com/AK/bill/HB342/2025",
+  "state_url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB342",
+  "sponsors": [
+    "Jamie Allard (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-23",
+  "session": "34th Legislature",
+  "actions": [
+    {
+      "date": "2026-02-23",
+      "action": "READ THE FIRST TIME - REFERRALS",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "HSS, JUD",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "REFERRED TO HEALTH & SOCIAL SERVICES",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-23",
+      "type": "Introduced",
+      "url": "https://www.akleg.gov/PDF/34/Bills/HB0342A.PDF",
+      "doc_id": 3372603
+    }
+  ],
+  "committee": {
+    "committee_id": 2134,
+    "chamber": "H",
+    "chamber_id": 13,
+    "name": "Health & Social Services"
+  },
+  "subjects": [
+    "Civil Procedure",
+    "Claims",
+    "Liability",
+    "Medical Care",
+    "Minors",
+    "Physicians"
+  ]
+}

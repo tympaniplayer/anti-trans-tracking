@@ -1,0 +1,67 @@
+{
+  "id": 1967308,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A05197",
+  "title": "Establishes an LGBTQ+ youth and young adult suicide prevention task force; provides for the number of members, manner of appointment and the topics to be reviewed.",
+  "summary": "Establishes an LGBTQ+ youth and young adult suicide prevention task force; provides for the number of members, manner of appointment and the topics to be reviewed.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A05197/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A05197/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A5197",
+  "sponsors": [
+    "Karines Reyes (D) [Rep]",
+    "Carrie Woerner (D) [Rep]",
+    "David Weprin (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "David McDonough (R) [Rep]",
+    "Steven Otis (D) [Rep]",
+    "Harvey Epstein (D) [Rep]",
+    "Christopher Burdick (D) [Rep]",
+    "Deborah Glick (D) [Rep]",
+    "Jeffrey Dinowitz (D) [Rep]",
+    "Tony Simone (D) [Rep]",
+    "John McDonald (D) [Rep]",
+    "Christopher Tague (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-12",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-12",
+      "action": "referred to mental health",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to mental health",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-12",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A05197&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A05197",
+      "doc_id": 3115927
+    }
+  ],
+  "committee": {
+    "committee_id": 377,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Mental Health"
+  },
+  "subjects": []
+}

@@ -1,0 +1,84 @@
+{
+  "id": 1959738,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "HB1220",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 4; Title 8; Title 53; Title 56; Title 63; Title 68 and Title 71, relative to contraceptives.",
+  "summary": "As introduced, enacts the \"Tennessee Contraceptive Freedom Act.\" - Amends TCA Title 4; Title 8; Title 53; Title 56; Title 63; Title 68 and Title 71.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/HB1220/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/HB1220/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB1220&ga=114",
+  "sponsors": [
+    "Gloria Johnson (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-18",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-06",
+      "action": "Filed for introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Intro., P1C.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "P2C, ref. to Health Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Assigned to s/c Population Health Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Placed on s/c cal Population Health Subcommittee for 3/11/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Placed on s/c cal Population Health Subcommittee for 3/18/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Failed in s/c Population Health Subcommittee of Health Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-18",
+      "description": "POPULATION HEALTH SUBCOMMITTEE: Failed in s/c Population Health Subcommittee of Health Committee",
+      "yea": 2,
+      "nay": 6,
+      "passed": 0
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-06",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1220.pdf",
+      "doc_id": 3105558
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Birth Control"
+  ]
+}

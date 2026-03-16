@@ -1,0 +1,58 @@
+{
+  "id": 2013689,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S06806",
+  "title": "Requires school districts and charter schools to establish a task force to make recommendations on model curriculum or instruction on the political, economic, and social contributions of lesbian, gay, bisexual, transgender, queer, intersex, and asexual people, in an appropriate place in the curriculum of middle school and high school students.",
+  "summary": "Requires school districts and charter schools to establish a task force to make recommendations on model curriculum or instruction on the political, economic, and social contributions of lesbian, gay, bisexual, transgender, queer, intersex, and asexual people, in an appropriate place in the curriculum of middle school and high school students.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S06806/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S06806/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S6806",
+  "sponsors": [
+    "Robert Jackson (D) [Sen]",
+    "Nathalia Fernandez (D) [Sen]",
+    "Kristen Gonzalez (D) [Sen]",
+    "Michelle Hinchey (D) [Sen]",
+    "Jessica Ramos (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-24",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-24",
+      "action": "REFERRED TO EDUCATION",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO EDUCATION",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-24",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S06806&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S06806",
+      "doc_id": 3186498
+    }
+  ],
+  "committee": {
+    "committee_id": 423,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Education"
+  },
+  "subjects": []
+}

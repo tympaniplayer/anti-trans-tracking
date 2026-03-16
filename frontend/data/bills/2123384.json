@@ -1,0 +1,51 @@
+{
+  "id": 2123384,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S3715",
+  "title": "Establishes requirements for students engaging in certain bias-related conduct.",
+  "summary": "Establishes requirements for students engaging in certain bias-related conduct.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S3715/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S3715/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S3715",
+  "sponsors": [
+    "Britnee Timberlake (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-02",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "action": "Introduced in the Senate, Referred to Senate Education Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-03",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S4000/3715_I1.HTM",
+      "doc_id": 3382711
+    }
+  ],
+  "committee": {
+    "committee_id": 877,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Education"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

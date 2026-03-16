@@ -1,0 +1,214 @@
+{
+  "id": 2123478,
+  "state": "AL",
+  "state_name": "Alabama",
+  "bill_number": "HB493",
+  "title": "Shelby County; City of Helena, civil service system established, board, director, policies, and appeals created",
+  "summary": "Shelby County; City of Helena, civil service system established, board, director, policies, and appeals created",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AL/bill/HB493/2026",
+  "legiscan_url": "https://legiscan.com/AL/bill/HB493/2026",
+  "state_url": "https://alison.legislature.state.al.us/bill-search",
+  "sponsors": [
+    "Leigh Hulsey (R) [Rep]"
+  ],
+  "introduced_date": "2026-03-13",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-24",
+      "action": "Read for the first time and referred to the House Committee on Shelby County Legislation",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Pending House Shelby County Legislation",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Reported Out of Committee House of Origin",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Read for the Second Time and placed on the Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Third Reading in House of Origin",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Motion to Read a Third Time and Pass - Adopted Roll Call 602",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Read for the first time and referred to the Senate Committee on Shelby County Legislation",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Pending Senate Shelby County Legislation",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Shelby County Legislation 1st Amendment 11J9R3Z-1",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Reported Out of Committee Second House",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Read for the Second Time and placed on the Calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Third Reading in Second House",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Shelby County Legislation 1st Amendment Offered 11J9R3Z-1",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Chambliss motion to Adopt - Adopted Roll Call 711 11J9R3Z-1",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Motion to Read a Third Time and Pass - Adopted Roll Call 712",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Hulsey Concur In and Adopt - Adopted Roll Call 792",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Ready to Enroll",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Enrolled",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Signature Requested",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Delivered to Governor",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Enacted",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Enacted",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-26",
+      "description": "HBIR: Passed by House of Origin",
+      "yea": 56,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-26",
+      "description": "Third Reading in House of Origin",
+      "yea": 56,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-26",
+      "description": "Motion to Read a Third Time and Pass - Roll Call 602",
+      "yea": 18,
+      "nay": 0,
+      "passed": 0
+    },
+    {
+      "date": "2026-03-05",
+      "description": "SBIR: Passed by Second House",
+      "yea": 27,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-05",
+      "description": "Third Reading in Second House",
+      "yea": 27,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-05",
+      "description": "Chambliss motion to Adopt - Roll Call 711 11J9R3Z-1",
+      "yea": 27,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-05",
+      "description": "Motion to Read a Third Time and Pass - Roll Call 712",
+      "yea": 27,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-05",
+      "description": "Hulsey Concur In and Adopt - Roll Call 792",
+      "yea": 102,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-02-24",
+      "type": "Introduced",
+      "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB493-int.pdf",
+      "doc_id": 3374261
+    },
+    {
+      "date": "2026-03-05",
+      "type": "Enrolled",
+      "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB493-enr.pdf",
+      "doc_id": 3385764
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Shelby County"
+  ]
+}

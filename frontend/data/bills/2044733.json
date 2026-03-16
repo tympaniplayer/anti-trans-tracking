@@ -1,0 +1,98 @@
+{
+  "id": 2044733,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB5483",
+  "title": "Chloe Cole Act",
+  "summary": "To prohibit health care professionals, hospitals, or clinics from participating in the chemical or surgical mutilation of a child and to provide a private right of action for children and the parents of children whose healthy body parts have been damaged by medical professionals practicing chemical and surgical mutilation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB5483/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB5483/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/5483/all-info",
+  "sponsors": [
+    "Robert Onder (R) [Rep]",
+    "Earl Carter (R) [Rep]",
+    "Greg Murphy (R) [Rep]",
+    "Richard McCormick (R) [Rep]",
+    "Charles Fleischmann (R) [Rep]",
+    "Randy Weber (R) [Rep]",
+    "Barry Moore (R) [Rep]",
+    "James Baird (R) [Rep]",
+    "Brandon Gill (R) [Rep]",
+    "John Rose (R) [Rep]",
+    "Riley Moore (R) [Rep]",
+    "David Taylor (R) [Rep]",
+    "Michael Simpson (R) [Rep]",
+    "Sheri Biggs (R) [Rep]",
+    "Dan Crenshaw (R) [Rep]",
+    "Andy Harris (R) [Rep]",
+    "Pat Harrigan (R) [Rep]",
+    "Robert Aderholt (R) [Rep]",
+    "Andrew Ogles (R) [Rep]",
+    "Mike Collins (R) [Rep]",
+    "Marlin Stutzman (R) [Rep]",
+    "Josh Brecheen (R) [Rep]",
+    "Glenn Grothman (R) [Rep]",
+    "Harriet Hageman (R) [Rep]",
+    "Mary Miller (R) [Rep]",
+    "Brian Jack (R) [Rep]",
+    "Chip Roy (R) [Rep]",
+    "Michael Rulli (R) [Rep]",
+    "John McGuire (R) [Rep]",
+    "Troy Nehls (R) [Rep]",
+    "Garland Barr (R) [Rep]",
+    "Addison McDowell (R) [Rep]",
+    "Brian Babin (R) [Rep]",
+    "Ben Cline (R) [Rep]",
+    "Greg Steube (R) [Rep]",
+    "Barry Loudermilk (R) [Rep]",
+    "Michael Guest (R) [Rep]",
+    "Doug LaMalfa (R) [Rep]",
+    "Gary Palmer (R) [Rep]",
+    "Tim Moore (R) [Rep]",
+    "Mark Messmer (R) [Rep]",
+    "Randy Fine (R) [Rep]"
+  ],
+  "introduced_date": "2025-09-18",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-09-18",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-18",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-01",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr5483/BILLS-119hr5483ih.pdf",
+      "doc_id": 3271183
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

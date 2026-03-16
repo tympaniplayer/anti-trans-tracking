@@ -1,0 +1,54 @@
+{
+  "id": 2096143,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A2748",
+  "title": "Enhances protections under Law Against Discrimination for persons serving in military and military veterans.",
+  "summary": "Enhances protections under Law Against Discrimination for persons serving in military and military veterans.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A2748/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A2748/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A2748",
+  "sponsors": [
+    "Andrea Katz (D) [Rep]",
+    "Luanne Peterpaul (D) [Rep]",
+    "Cleopatra Tucker (D) [Rep]",
+    "Brian Rumpf (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Military and Veterans' Affairs Committee",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Withdrawn Because Approved P.L.2025, c.307.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-08",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A3000/2748_I1.HTM",
+      "doc_id": 3335178
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Withdrawn Because Approved"
+  ]
+}

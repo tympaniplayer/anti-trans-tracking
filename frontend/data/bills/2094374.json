@@ -1,0 +1,67 @@
+{
+  "id": 2094374,
+  "state": "WV",
+  "state_name": "West Virginia",
+  "bill_number": "SB630",
+  "title": "Protecting minors from exposure to indecent displays of sexually explicit nature",
+  "summary": "The purpose of this bill is to protect minors from indecent displays of a sexually explicit nature, including but not limited to, transvestite and/or transgender performances or displays to minors.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "drag"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WV/bill/SB630/2026",
+  "legiscan_url": "https://legiscan.com/WV/bill/SB630/2026",
+  "state_url": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=630&year=2026&sessiontype=RS&btype=bill",
+  "sponsors": [
+    "Mike Azinger (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-27",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-26",
+      "action": "Filed for introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "To Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Introduced in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "To Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=sb630%20intr.htm&yr=2026&sesstype=RS&i=630",
+      "doc_id": 3333100
+    }
+  ],
+  "committee": {
+    "committee_id": 30,
+    "chamber": "S",
+    "chamber_id": 2,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crime"
+  ]
+}

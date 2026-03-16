@@ -1,0 +1,57 @@
+{
+  "id": 2047705,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB5859",
+  "title": "Behavioral Health Crisis Care Centers Act of 2025",
+  "summary": "To direct the Secretary of Health and Human Services to award grants for the purpose of establishing, operating, or expanding one-stop crisis facilities, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB5859/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB5859/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/5859/all-info",
+  "sponsors": [
+    "Adam Smith (D) [Rep]",
+    "Eleanor Norton (D) [Rep]"
+  ],
+  "introduced_date": "2025-10-28",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-10-28",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-28",
+      "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Financial Services, and the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-30",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr5859/BILLS-119hr5859ih.pdf",
+      "doc_id": 3282544
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

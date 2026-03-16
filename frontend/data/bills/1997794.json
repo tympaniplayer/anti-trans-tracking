@@ -1,0 +1,64 @@
+{
+  "id": 1997794,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S106",
+  "title": "Transferring foster care review responsibilities to the Office of the Child Advocate",
+  "summary": "For legislation to establish the Massachusetts foster care review office. Children, Families and Persons with Disabilities.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S106/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S106/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S106",
+  "sponsors": [
+    "Joanne Comerford (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Children, Families and Persons with Disabilities",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-27",
+      "action": "Hearing scheduled for 07/08/2025 from 01:00 PM-05:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-12-22",
+      "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-10",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S106.pdf",
+      "doc_id": 3163026
+    }
+  ],
+  "committee": {
+    "committee_id": 746,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

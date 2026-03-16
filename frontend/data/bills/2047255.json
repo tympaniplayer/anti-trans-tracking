@@ -1,0 +1,65 @@
+{
+  "id": 2047255,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4646",
+  "title": "Enhancing child welfare protections",
+  "summary": "House bill No. 4644, as amended and passed to be engrossed by the House. October 22, 2025.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4646/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4646/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4646",
+  "sponsors": [],
+  "introduced_date": "2025-10-22",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-10-22",
+      "action": "H4644, published as amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "Passed to be engrossed - 159 YEAS to 1 NAYS (See YEA and NAY No. 96 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-27",
+      "action": "Read; and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-10-22",
+      "description": "House  Passed to be engrossed - 159 YEAS to 1 NAYS",
+      "yea": 159,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-10-22",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4646.pdf",
+      "doc_id": 3274498
+    }
+  ],
+  "committee": {
+    "committee_id": 746,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

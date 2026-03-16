@@ -1,0 +1,54 @@
+{
+  "id": 2130155,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "SB1433",
+  "title": "Maintenance of the codes.",
+  "summary": "An act to amend Sections 733, 2242.2, 2553.5, 3046.1, 4073.5, 4602, 4610, 4826.5, 4858, 6126.7, 16608, and 17810 of the Business and Professions Code, to amend Sections 714.6, 798.14, 798.74.4, 1714.27, 3273.29, 4752, and 8811 of the Civil Code, to amend Sections 697.680 and 1094.9 of the Code of Civil Procedure, to amend Sections 234.7, 35221, 38134, 44043.5, 46392, 49001, 51140, 69436, 70022, 70034, and 88821 of the Education Code, to amend Sections 6915, 12304, and 12309 of the Elections Code, to amend Section 5654 of the Fish and Game Code, to amend Section 21283 of the Food and Agricultural Code, to amend Sections 1031.5, 6215, 6588.7, 8010, 8557, 10233, 10240, 11041, 11123.2, 12100.33, 12100.162, 12910, 12960, 12965, 15475.6, 19829.9854, 53398.52, 54953.4, 54953.8, 54953.8.1, 54954.2, 54957.9, 63049.71, 65589.5, 65914.2, 65950, 66300.6.5, 66323, 67784, 67786, 67788, and 87202 of, and to repeal the heading of Chapter 17.45 (commencing with Section 7289) of Division 7 of Title 1 of, the Government Code, to amend Section 676 of the Harbors and Navigation Code, to amend Sections 1279.6, 1342.74, 1367.25, 1597.640, 8028.73, 17021.8, 17970.3, 38532, 38562, 38562.3, 38591.2, 40100.5.5, 41313, 44501, 44515, 44559.14, 50406.4, 50410, 53545.14, 104660, 104661, and 108980 of the Health and Safety Code, to amend Sections 937, 10123.1933, and 10123.196 of the Insurance Code, to amend Sections 923.1, 1401, and 2810.8 of the Labor Code, to amend Section 59 of the Military and Veterans Code, to amend Sections 136.1, 636.6, 1170, 2780.6, 11105.04, and 13667 of the Penal Code, to amend Sections 4291.5, 4584.1, 4584.2, 5006.1, 5598, 5797.4, 21080.28.5, 21080.43, 21080.44, 25354, 25545, 25545.16, 25545.19, 30166, 30168, 30600.5, and 42652.5 of the Public Resources Code, to amend Sections 748.5, 850, 3299.2, 3310, 8501, and 180305 of, to amend the heading of Chapter 10 (commencing with Section 8500) of Division 4.1 of, and to repeal the heading of Article 7 of Chapter 3 of Division 1.5 of, the Public Utilities Code, to amend Sections 17053.40, 19002, and 23640 of the Revenue and Taxation Code, to amend Sections 21201 and 21450.5 of the Vehicle Code, to amend Sections 351, 50976, 60385, 60414, 74467, and 74850 of the Water Code, to amend Sections 309, 827, 9630, 10213.5, 11330.6, 13300.5, 14005.62, 14005.27, 14105.47, 14132.968, 16000.1, 16121.5, and 18900 of, and to repeal Section 12306.16 of, the Welfare and Institutions Code, and to amend Section 3 of Chapter 578 of the Statutes of 2025, relating to maintenance of the codes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/SB1433/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/SB1433/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1433",
+  "sponsors": [
+    "Judiciary [Sen]"
+  ],
+  "introduced_date": "2026-03-05",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-05",
+      "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "From printer. May be acted upon on or after April 5.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-05",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1433#99INT",
+      "doc_id": 3386593
+    }
+  ],
+  "committee": {
+    "committee_id": 489,
+    "chamber": "S",
+    "chamber_id": 20,
+    "name": "Rules"
+  },
+  "subjects": []
+}

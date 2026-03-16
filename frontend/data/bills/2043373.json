@@ -1,0 +1,79 @@
+{
+  "id": 2043373,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SR374",
+  "title": "A resolution expressing the sense of the Senate that Secretary of Health and Human Services Robert Fitzgerald Kennedy Jr. does not have the confidence of the Senate or of the American people to faithfully carry out the duties of his office and should be removed from his position.",
+  "summary": "A resolution expressing the sense of the Senate that Secretary of Health and Human Services Robert Fitzgerald Kennedy Jr. does not have the confidence of the Senate or of the American people to faithfully carry out the duties of his office and should be removed from his position.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "religious_exemptions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SR374/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SR374/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/374/all-info",
+  "sponsors": [
+    "Angela Alsobrooks (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Charles Schumer (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Patty Murray (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Lisa Rochester (D) [Sen]",
+    "Catherine Cortez Masto (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "Tim Kaine (D) [Sen]",
+    "Andy Kim (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Jack Reed (D) [Sen]",
+    "Jacky Rosen (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Mark Warner (D) [Sen]",
+    "Raphael Warnock (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Ben Lujan (D) [Sen]",
+    "Christopher Murphy (D) [Sen]",
+    "Amy Klobuchar (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Jon Ossoff (D) [Sen]"
+  ],
+  "introduced_date": "2025-09-04",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-09-04",
+      "action": "Referred to the Committee on Finance. (text: CR S6330-6333)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-09-06",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/sres374/BILLS-119sres374is.pdf",
+      "doc_id": 3268091
+    }
+  ],
+  "committee": {
+    "committee_id": 2326,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Finance"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

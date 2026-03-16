@@ -1,0 +1,66 @@
+{
+  "id": 2039482,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB4387",
+  "title": "People\u2019s Response Act",
+  "summary": "To establish within the Department of Health and Human Services a Division on Community Safety, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB4387/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB4387/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4387/all-info",
+  "sponsors": [
+    "Summer Lee (D) [Rep]",
+    "Ayanna Pressley (D) [Rep]",
+    "Janice Schakowsky (D) [Rep]",
+    "Morgan McGarvey (D) [Rep]",
+    "Pramila Jayapal (D) [Rep]",
+    "Adam Smith (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Lateefah Simon (D) [Rep]",
+    "LaMonica McIver (D) [Rep]",
+    "Ilhan Omar (D) [Rep]"
+  ],
+  "introduced_date": "2025-07-15",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-07-15",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, Education and Workforce, Transportation and Infrastructure, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-11",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr4387/BILLS-119hr4387ih.pdf",
+      "doc_id": 3272752
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crime and law enforcement"
+  ]
+}

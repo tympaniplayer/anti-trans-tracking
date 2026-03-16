@@ -1,0 +1,106 @@
+{
+  "id": 1959816,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S04547",
+  "title": "Relates to judicial diversion programs; establishes a diversion part in each county; repeals certain provisions of law relating thereto.",
+  "summary": "Relates to judicial diversion programs; establishes a diversion part in each county; repeals certain provisions of law relating thereto.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S04547/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S04547/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S4547",
+  "sponsors": [
+    "Jessica Ramos (D) [Sen]",
+    "April Baskin (D) [Sen]",
+    "Jabari Brisport (D) [Sen]",
+    "Samra Brouk (D) [Sen]",
+    "Cordell Cleare (D) [Sen]",
+    "Leroy Comrie (D) [Sen]",
+    "Jeremy Cooney (D) [Sen]",
+    "Nathalia Fernandez (D) [Sen]",
+    "Michael Gianaris (D) [Sen]",
+    "Kristen Gonzalez (D) [Sen]",
+    "Andrew Gounardes (D) [Sen]",
+    "Peter Harckham (D) [Sen]",
+    "Michelle Hinchey (D) [Sen]",
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "Liz Krueger (D) [Sen]",
+    "John Liu (D) [Sen]",
+    "Rachel May (D) [Sen]",
+    "Shelley Mayer (D) [Sen]",
+    "Zellnor Myrie (D) [Sen]",
+    "Kevin Parker (D) [Sen]",
+    "Gustavo Rivera (D) [Sen]",
+    "Julia Salazar (D) [Sen]",
+    "James Sanders (D) [Sen]",
+    "Luis Sepulveda (D) [Sen]",
+    "Jose Serrano (D) [Sen]",
+    "Sam Sutton (D) [Sen]",
+    "Lea Webb (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-06",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-06",
+      "action": "REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "REPORTED AND COMMITTED TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "REPORTED AND COMMITTED TO FINANCE",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-22",
+      "description": "Senate Alcoholism And Substance Use Disorders Committee Vote",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-05",
+      "description": "Senate Alcoholism And Substance Use Disorders Committee Vote",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-06",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S04547&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S04547",
+      "doc_id": 3105635
+    }
+  ],
+  "committee": {
+    "committee_id": 428,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Finance"
+  },
+  "subjects": []
+}

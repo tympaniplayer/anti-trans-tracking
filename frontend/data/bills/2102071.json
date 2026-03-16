@@ -1,0 +1,84 @@
+{
+  "id": 2102071,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB3034",
+  "title": "DOMESTIC VIOLENCE-RECORDS",
+  "summary": "Amends the Substance Use Disorder Act. Provides that disclosure of nonexempt records protected under the Act may be disclosed for research activities under the Domestic Violence Fatality Review Act. Amends the Developmental Disabilities Confidentiality Act. Provides that staff and any designee of the Illinois Criminal Justice Information Authority, members of the Ad Hoc Statewide Domestic Violence Fatality Review Committee of the Illinois Criminal Justice Information Authority Board, and the regional domestic violence fatality review teams are entitled to receive, inspect, copy, and share HIV-related information of any person subject to a domestic violence fatality review as part of and in accordance with the provisions of the Domestic Violence Fatality Review Act. Provides that the information disclosed is subject to the confidentiality requirements of the Domestic Violence Fatality Review Act. Effective immediately.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB3034/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB3034/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3034&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "Celina Villanueva (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-29",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "action": "Filed with Secretary by Sen. Celina Villanueva",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Assigned to Criminal Law",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Senate Committee Amendment No. 1 Filed with Secretary by Sen. Celina Villanueva",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Senate Committee Amendment No. 1 Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Senate Committee Amendment No. 1 Assignments Refers to Criminal Law",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Rule 2-10 Committee Deadline Established As March 27, 2026",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-29",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=206923&DocName=10400SB3034&DocNum=3034&DocTypeID=SB&LegID=165576&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3341500
+    }
+  ],
+  "committee": {
+    "committee_id": 259,
+    "chamber": "S",
+    "chamber_id": 36,
+    "name": "Criminal Law"
+  },
+  "subjects": []
+}

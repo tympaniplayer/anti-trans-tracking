@@ -1,0 +1,169 @@
+{
+  "id": 2046662,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB1957",
+  "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, providing for personal reproductive liberty.",
+  "summary": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, providing for personal reproductive liberty.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB1957/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB1957/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb1957",
+  "sponsors": [
+    "Danielle Otten (D) [Rep]",
+    "Liz Hanbidge (D) [Rep]",
+    "La'Tasha Mayes (D) [Rep]",
+    "Carol Hill-Evans (D) [Rep]",
+    "Arvind Venkat (D) [Rep]",
+    "Benjamin Waxman (D) [Rep]",
+    "Johanny Cepeda-Freytiz (D) [Rep]",
+    "Nancy Guenst (D) [Rep]",
+    "Lisa Borowski (D) [Rep]",
+    "Jose Giral (D) [Rep]",
+    "Christopher Pielli (D) [Rep]",
+    "Tarah Probst (D) [Rep]",
+    "Tarik Khan (D) [Rep]",
+    "Kristine Howard (D) [Rep]",
+    "Peter Schweyer (D) [Rep]",
+    "Emily Kinkead (D) [Rep]",
+    "Ben Sanchez (D) [Rep]",
+    "Joseph Hohenstein (D) [Rep]",
+    "Michael Schlossberg (D) [Rep]",
+    "Steven Malagari (D) [Rep]",
+    "Dan Williams (D) [Rep]",
+    "Mandy Steele (D) [Rep]",
+    "Melissa Shusterman (D) [Rep]",
+    "Daniel Deasy (D) [Rep]",
+    "Jennifer O'Mara (D) [Rep]",
+    "Roni Green (D) [Rep]",
+    "Mary Jo Daley (D) [Rep]",
+    "Heather Boyd (D) [Rep]",
+    "Timothy Briggs (D) [Rep]",
+    "Gina Curry (D) [Rep]",
+    "Brandon Markosek (D) [Rep]",
+    "Nikki Rivera (D) [Rep]",
+    "David Madsen (D) [Rep]",
+    "Abigail Salisbury (D) [Rep]",
+    "Carol Kazeem (D) [Rep]",
+    "Justin Fleming (D) [Rep]"
+  ],
+  "introduced_date": "2025-12-17",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-10-16",
+      "action": "Referred to Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-27",
+      "action": "Reported as committed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-27",
+      "action": "First consideration",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-27",
+      "action": "Laid on the table",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-27",
+      "action": "Removed from table",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-16",
+      "action": "Second consideration, with amendments",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-16",
+      "action": "Re-committed to Appropriations",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-17",
+      "action": "Re-reported as committed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-17",
+      "action": "Third consideration and final passage (102-101)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-17",
+      "action": "In the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-22",
+      "action": "Referred to State Government",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-10-22",
+      "description": "House Judiciary: PN2468, Report Bill As Committed",
+      "yea": 14,
+      "nay": 12,
+      "passed": 1
+    },
+    {
+      "date": "2025-12-16",
+      "description": "House Floor: PN2468 A2017",
+      "yea": 102,
+      "nay": 101,
+      "passed": 1
+    },
+    {
+      "date": "2025-12-17",
+      "description": "House Appropriations: PN2468, Re-report Bill As Committed",
+      "yea": 22,
+      "nay": 15,
+      "passed": 1
+    },
+    {
+      "date": "2025-12-17",
+      "description": "House Floor: PN2711, FINAL PASSAGE",
+      "yea": 102,
+      "nay": 101,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-10-16",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1957/PN2468",
+      "doc_id": 3273725
+    },
+    {
+      "date": "2025-12-16",
+      "type": "Amended",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1957/PN2711",
+      "doc_id": 3291183
+    }
+  ],
+  "committee": {
+    "committee_id": 84,
+    "chamber": "S",
+    "chamber_id": 4,
+    "name": "State Government"
+  },
+  "subjects": []
+}

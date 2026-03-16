@@ -1,0 +1,72 @@
+{
+  "id": 2079248,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "SJR0589",
+  "title": "A RESOLUTION to affirm Tennessee's commitment to fairness, safety, and equal opportunity in women's sports and to urge federal action to preserve the original intent of Title IX.",
+  "summary": "Urges Congress to enact legislation reaffirming and preserving the equal opportunities in athletics guaranteed to women and girls by Title IX and recognizing that allowing males to compete in women's athletics violates the purpose and meaning of Title IX.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/SJR0589/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/SJR0589/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SJR0589&ga=114",
+  "sponsors": [
+    "Jack Johnson (R) [Sen]",
+    "Jessie Seal (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Filed for introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Introduced, Passed on First Consideration",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Passed on Second Consideration, refer to Senate Finance, Ways & Means Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Sponsor(s) Added.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Placed on Senate Finance, Ways, and Means Committee calendar for 3/17/2026",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/SJR0589.pdf",
+      "doc_id": 3316222
+    }
+  ],
+  "committee": {
+    "committee_id": 2496,
+    "chamber": "S",
+    "chamber_id": 90,
+    "name": "Finance, Ways and Means"
+  },
+  "subjects": [
+    "Memorials, Congress"
+  ]
+}

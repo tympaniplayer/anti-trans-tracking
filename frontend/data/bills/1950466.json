@@ -1,0 +1,54 @@
+{
+  "id": 1950466,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A04075",
+  "title": "Relates to expanding employee ownership assistance for lesbian, gay, bisexual, transgender and non-binary individuals.",
+  "summary": "Relates to expanding employee ownership assistance for lesbian, gay, bisexual, transgender and non-binary individuals.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A04075/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A04075/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A4075",
+  "sponsors": [
+    "Brian Cunningham (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-31",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-31",
+      "action": "referred to economic development",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to economic development",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-31",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A04075&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A04075",
+      "doc_id": 3093776
+    }
+  ],
+  "committee": {
+    "committee_id": 361,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Economic Development, Job Creation, Commerce and Industry"
+  },
+  "subjects": []
+}

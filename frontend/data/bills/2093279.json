@@ -1,0 +1,107 @@
+{
+  "id": 2093279,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB3024",
+  "title": "Relating To Sex-based Discrimination.",
+  "summary": "Clarifies and strengthens the State's protections against sex-based harassment, sex discrimination, and retaliation that occur in public schools, public charter schools, or at the University of Hawaii, including discrimination based on gender identity or expression, sexual orientation, pregnancy, and pregnancy-related conditions. Establishes procedures for investigations and decision-making. Requires mandatory reporting by certain employees. Requires the Department of the Attorney General to conduct a comprehensive legal review. Effective 7/1/2050. (SD1)",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB3024/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB3024/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3024&year=2026",
+  "sponsors": [
+    "Chris Lee (D) [Sen]",
+    "Stanley Chang (D) [Sen]",
+    "Troy Hashimoto (D) [Sen]",
+    "Karl Rhoads (D) [Sen]",
+    "Joy San Buenaventura (D) [Sen]",
+    "Les Ihara (D) [Sen]",
+    "Dru Kanuha (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "Referred to EDU, JDC/WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "The committee(s) on EDU has scheduled a public hearing on 02-18-26 1:02PM; CR 229 &amp; Videoconference.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "The committee(s) on EDU recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in EDU were as follows: 2 Aye(s): Senator(s) Kim, Hashimoto; Aye(s) with reservations: none ; 1 No(es): Senator(s) DeCorte; and 2 Excused: Senator(s) Kidani, Fukunaga.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Reported from EDU (Stand. Com. Rep. No. 2583) with recommendation of passage on Second Reading, as amended (SD 1) and referral to JDC/WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to JDC/WAM.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-18",
+      "description": "Senate Education: Passed, With Amendments",
+      "yea": 2,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-24",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB3024_.HTM",
+      "doc_id": 3331875
+    },
+    {
+      "date": "2026-02-19",
+      "type": "Amended",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB3024_SD1_.HTM",
+      "doc_id": 3369605
+    }
+  ],
+  "committee": {
+    "committee_id": 3756,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Sex-Based Harassment",
+    "Sex Discrimination",
+    "Retaliation",
+    "Title IX",
+    "Protections",
+    "AG",
+    "Comprehensive Legal Review"
+  ]
+}

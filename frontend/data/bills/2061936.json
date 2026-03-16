@@ -1,0 +1,71 @@
+{
+  "id": 2061936,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HB264",
+  "title": "Relating To Family Court.",
+  "summary": "Amends provisions relating to criteria in family court determinations regarding custody and visitation rights. Clarifies that no court shall consider a parent's affirmation of their child's gender identity or expression in a custody determination.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HB264/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HB264/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=264&year=2026",
+  "sponsors": [
+    "David Alcos (R) [Rep]",
+    "Diamond Garcia (R) [Rep]",
+    "Gene Ward (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-17",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-16",
+      "action": "Pending introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-17",
+      "action": "Introduced and Pass First Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Referred to HSH, JHA, referral sheet 1",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB264_.HTM",
+      "doc_id": 3294831
+    }
+  ],
+  "committee": {
+    "committee_id": 3923,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Human Services & Homelessness"
+  },
+  "subjects": [
+    "Family Court",
+    "Parent",
+    "Child Custody",
+    "Gender Affirmation"
+  ]
+}

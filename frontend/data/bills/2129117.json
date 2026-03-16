@@ -1,0 +1,54 @@
+{
+  "id": 2129117,
+  "state": "CO",
+  "state_name": "Colorado",
+  "bill_number": "HB1322",
+  "title": "Civil Actions for Conversion Therapy Survivors",
+  "summary": "Concerning civil actions against certain individuals engaging in conversion therapy efforts.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CO/bill/HB1322/2026",
+  "legiscan_url": "https://legiscan.com/CO/bill/HB1322/2026",
+  "state_url": "https://leg.colorado.gov/bills/HB26-1322",
+  "sponsors": [
+    "Karen McCormick (D) [Rep]",
+    "Alex Valdez (D) [Rep]",
+    "Lisa Cutter (D) [Sen]",
+    "Kyle Mullica (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-04",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "action": "Introduced In House - Assigned to Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "1969-12-31",
+      "type": "Introduced",
+      "url": "https://leg.colorado.gov/bill_files/112888/download",
+      "doc_id": 3384508
+    }
+  ],
+  "committee": {
+    "committee_id": 907,
+    "chamber": "H",
+    "chamber_id": 21,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil Law"
+  ]
+}

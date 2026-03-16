@@ -1,0 +1,51 @@
+{
+  "id": 2098880,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A3654",
+  "title": "Amends definition of \"harassment, intimidation, or bullying\" in \"Anti-Bullying Bill of Rights Act.\"",
+  "summary": "Amends definition of \"harassment, intimidation, or bullying\" in \"Anti-Bullying Bill of Rights Act.\"",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A3654/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A3654/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A3654",
+  "sponsors": [
+    "Don Guardian (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Education Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-08",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A4000/3654_I1.HTM",
+      "doc_id": 3337960
+    }
+  ],
+  "committee": {
+    "committee_id": 854,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Education"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

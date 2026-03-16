@@ -1,0 +1,70 @@
+{
+  "id": 2093342,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB2868",
+  "title": "Relating To Health Care.",
+  "summary": "Expands the protections established under Act 2, SLH 2023, to include gender-affirming health care services, including clarifying permitted disclosures of protected health information to address changes in federal regulations. Establishes protections against abusive litigation. Prohibits medical malpractice insurers and health carriers from taking certain adverse actions against health care providers solely on the basis that the health care provider provides lawful reproductive health care services or gender-affirming care services.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB2868/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB2868/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2868&year=2026",
+  "sponsors": [
+    "Chris Lee (D) [Sen]",
+    "Stanley Chang (D) [Sen]",
+    "Jarrett Keohokalole (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "Referred to HHS/CPN, JDC.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-23",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB2868_.HTM",
+      "doc_id": 3331960
+    }
+  ],
+  "committee": {
+    "committee_id": 4751,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Health and Human Services"
+  },
+  "subjects": [
+    "Gender-Affirming Health Care Services",
+    "Reproductive Health Care Services",
+    "Protections",
+    "Abusive Litigation",
+    "Medical Malpractice Insurance",
+    "Health Carriers",
+    "Protected Health Information",
+    "Covered Entities"
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "id": 2037401,
+  "state": "ME",
+  "state_name": "Maine",
+  "bill_number": "HP1338",
+  "title": "JOINT RESOLUTION RECOGNIZING JUNE 2025 AS PRIDE MONTH",
+  "summary": "JOINT RESOLUTION RECOGNIZING JUNE 2025 AS PRIDE MONTH",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ME/bill/HP1338/2025",
+  "legiscan_url": "https://legiscan.com/ME/bill/HP1338/2025",
+  "state_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?paper=HP1338&snum=132",
+  "sponsors": [
+    "Laurie Osher (D) [Rep]",
+    "Ryan Fecteau (D) [Rep]",
+    "Cheryl Golek (D) [Rep]",
+    "Craig Hickman (D) [Sen]",
+    "Matthew Moonen (D) [Rep]",
+    "Ambureen Rana (D) [Rep]",
+    "Amy Roeder (D) [Rep]",
+    "Eleanor Sato (D) [Rep]",
+    "Charles Skold (D) [Rep]",
+    "Sophia Warren (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-18",
+  "session": "132nd Legislature",
+  "actions": [
+    {
+      "date": "2025-06-18",
+      "action": "READ and ADOPTED.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "ROLL CALL NO. 577 (Yeas 93 - Nays 47 - Absent 9 - Excused 2)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "READ and ADOPTED, in concurrence. PREVAILED",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Roll Call Ordered Roll Call Number 636 Yeas 23 - Nays 10 - Excused 2 - Absent 0",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-18",
+      "description": "Adoption RC #577",
+      "yea": 93,
+      "nay": 47,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-18",
+      "description": "Adoption RC #636",
+      "yea": 23,
+      "nay": 10,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1338&item=1&snum=132",
+      "doc_id": 3256030
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

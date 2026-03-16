@@ -1,0 +1,65 @@
+{
+  "id": 1989548,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB3573",
+  "title": "Relating to certain prohibited considerations in contracting by governmental entities and the elimination of the state's historically underutilized business program.",
+  "summary": "Relating to certain prohibited considerations in contracting by governmental entities and the elimination of the state's historically underutilized business program.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB3573/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB3573/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3573",
+  "sponsors": [
+    "Don McLaughlin (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-03",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-03",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Referred to State Affairs",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-03",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB03573I.htm",
+      "doc_id": 3149785
+    }
+  ],
+  "committee": {
+    "committee_id": 1895,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "Human Relations",
+    "Purchasing",
+    "Purchasing--State",
+    "HISTORICALLY UNDERUTILIZED BUSINESSES",
+    "LEGISLATIVE BUDGET BOARD"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 1918023,
+  "state": "DE",
+  "state_name": "Delaware",
+  "bill_number": "HR3",
+  "title": "Relating To The Rules Of The House Of Representatives Of The 153rd General Assembly.",
+  "summary": "Relating To The Rules Of The House Of Representatives Of The 153rd General Assembly.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DE/bill/HR3/2025",
+  "legiscan_url": "https://legiscan.com/DE/bill/HR3/2025",
+  "state_url": "https://legis.delaware.gov/BillDetail?LegislationId=141781",
+  "sponsors": [
+    "Melissa Minor-Brown (D) [Rep]",
+    "Kerri Harris (D) [Rep]",
+    "Edward Osienski (D) [Rep]",
+    "Timothy Dukes (R) [Rep]",
+    "Jeffrey Spiegelman (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-14",
+  "session": "153rd General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-14",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Passed In House by Voice Vote",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Draft",
+      "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=141781&legislationTypeId=2&docTypeId=2&legislationName=HR3",
+      "doc_id": 3055045
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

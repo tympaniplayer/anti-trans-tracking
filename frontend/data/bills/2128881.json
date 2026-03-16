@@ -1,0 +1,57 @@
+{
+  "id": 2128881,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "S2992",
+  "title": "Creates the reproductive health and gender-affirming healthcare data privacy act.",
+  "summary": "HEALTH AND SAFETY -- REPRODUCTIVE HEALTH AND GENDER-AFFIRMING HEALTHCARE DATA PRIVACY ACT - Creates the reproductive health and gender-affirming healthcare data privacy act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/S2992/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/S2992/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Matthew LaMountain (D) [Sen]",
+    "Melissa Murray (D) [Sen]",
+    "John Burke (D) [Sen]",
+    "Jacob Bissaillon (D) [Sen]",
+    "Lori Urso (D) [Sen]",
+    "Lammis Vargas (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-04",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "action": "Introduced, referred to Senate Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-04",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/SenateText26/S2992.pdf",
+      "doc_id": 3385008
+    }
+  ],
+  "committee": {
+    "committee_id": 1140,
+    "chamber": "S",
+    "chamber_id": 84,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Health And Safety",
+    "HEALTH AND SAFETY -- REPRODUCTIVE HEALTH AND GENDER-AFFIRMING HEALTHCARE DATA PRIVACY ACT"
+  ]
+}

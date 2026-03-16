@@ -1,0 +1,87 @@
+{
+  "id": 2000344,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB2038",
+  "title": "American Housing and Economic Mobility Act of 2025 Community Reinvestment Reform Act of 2025",
+  "summary": "To make housing more affordable, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB2038/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB2038/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/2038/all-info",
+  "sponsors": [
+    "Emanuel Cleaver (D) [Rep]",
+    "Yassamin Ansari (D) [Rep]",
+    "Suzanne Bonamici (D) [Rep]",
+    "Cleo Fields (D) [Rep]",
+    "Shomari Figures (D) [Rep]",
+    "Maxwell Frost (D) [Rep]",
+    "Jesus Garcia (D) [Rep]",
+    "Al Green (D) [Rep]",
+    "Jimmy Gomez (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Jonathan Jackson (D) [Rep]",
+    "Ro Khanna (D) [Rep]",
+    "James McGovern (D) [Rep]",
+    "LaMonica McIver (D) [Rep]",
+    "Gwen Moore (D) [Rep]",
+    "Jerrold Nadler (D) [Rep]",
+    "Alexandria Ocasio-Cortez (D) [Rep]",
+    "Ilhan Omar (D) [Rep]",
+    "Ayanna Pressley (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Janice Schakowsky (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Bennie Thompson (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Valerie Foushee (D) [Rep]",
+    "Pramila Jayapal (D) [Rep]",
+    "Morgan McGarvey (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-11",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-03-11",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Referred to the Committee on Financial Services, and in addition to the Committees on the Judiciary, Veterans' Affairs, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Referred to the Subcommittee on Economic Opportunity.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-26",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr2038/BILLS-119hr2038ih.pdf",
+      "doc_id": 3189422
+    }
+  ],
+  "committee": {
+    "committee_id": 2598,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Subcommittee on Economic Opportunity"
+  },
+  "subjects": [
+    "Finance and financial sector"
+  ]
+}

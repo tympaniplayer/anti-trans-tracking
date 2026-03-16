@@ -1,0 +1,1003 @@
+{
+  "id": 2111266,
+  "state": "WY",
+  "state_name": "Wyoming",
+  "bill_number": "HB0001",
+  "title": "General government appropriations-2.",
+  "summary": "AN ACT to make appropriations for the fiscal biennium commencing July 1, 2026 and ending June 30, 2028; providing definitions; providing for appropriations and transfers of funds for the period of the budget and for the remainder of the current biennium ending June 30, 2026 as specified; providing for carryover of certain funds beyond the biennium as specified; providing for employee positions as specified; providing for duties, terms and conditions and other requirements relating to appropriations for the remainder of the current biennium ending June 30, 2026 and the period of the budget as specified; providing for position and other budgetary limitations; amending existing law by redirecting revenues for the period of the budget; continuing an account; authorizing loans; discharging interfund loans; increasing higher education scholarship amounts for the fiscal biennium commencing July 1, 2026 and ending June 30, 2028; making conforming amendments; amending and repealing prior appropriations; and providing for effective dates.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WY/bill/HB0001/2026",
+  "legiscan_url": "https://legiscan.com/WY/bill/HB0001/2026",
+  "state_url": "https://www.wyoleg.gov/Legislation/2026/HB0001",
+  "sponsors": [
+    "Appropriations [Jnt]"
+  ],
+  "introduced_date": "2026-02-21",
+  "session": "2026 Budget Session",
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "action": "Bill Number Assigned",
+      "chamber": ""
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Received for Introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Introduced and Referred to HCOW",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "COW:Passed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "2nd Reading:Passed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-21",
+      "action": "3rd Reading:Passed 47-14-1-0-0",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Received for Introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Introduced and Referred to S02",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Senate:Pursuant to JR 14-1 (g) referred directly to JCC",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Appointed JCC01 Members",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Appointed JCC01 Members",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "See Mirror Bill SF0001",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2001 Amendment failed 26-35-1-0-0",
+      "yea": 26,
+      "nay": 35,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2002 Amendment failed 25-35-2-0-0",
+      "yea": 25,
+      "nay": 35,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2003 Amendment failed 29-31-2-0-0",
+      "yea": 29,
+      "nay": 31,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2004 Amendment failed 28-31-3-0-0",
+      "yea": 28,
+      "nay": 31,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2005 Amendment failed 27-32-3-0-0",
+      "yea": 27,
+      "nay": 32,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2006 Amendment failed 27-33-2-0-0",
+      "yea": 27,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2007 Amendment failed 26-34-2-0-0",
+      "yea": 26,
+      "nay": 34,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2008 Amendment failed 26-33-3-0-0",
+      "yea": 26,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2009 Amendment failed 25-35-2-0-0",
+      "yea": 25,
+      "nay": 35,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2010 Amendment failed 17-43-2-0-0",
+      "yea": 17,
+      "nay": 43,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2011 Amendment failed 11-46-5-0-0",
+      "yea": 11,
+      "nay": 46,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2012 Amendment failed 28-32-2-0-0",
+      "yea": 28,
+      "nay": 32,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2013 Amendment failed 23-35-4-0-0",
+      "yea": 23,
+      "nay": 35,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2014 Amendment failed 28-32-2-0-0",
+      "yea": 28,
+      "nay": 32,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2015 Amendment failed 18-42-2-0-0",
+      "yea": 18,
+      "nay": 42,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2016 Amendment failed 28-33-1-0-0",
+      "yea": 28,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2017 Amendment failed 25-35-2-0-0",
+      "yea": 25,
+      "nay": 35,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2018 Amendment adopted 31-29-1-0-1",
+      "yea": 31,
+      "nay": 29,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2019 Amendment failed 30-31-1-0-0",
+      "yea": 30,
+      "nay": 31,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2020 Amendment failed 27-34-1-0-0",
+      "yea": 27,
+      "nay": 34,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2022 Amendment adopted 46-14-2-0-0",
+      "yea": 46,
+      "nay": 14,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2023 Amendment failed 23-36-3-0-0",
+      "yea": 23,
+      "nay": 36,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2024 Amendment failed 30-31-1-0-0",
+      "yea": 30,
+      "nay": 31,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2025 Amendment failed 15-45-2-0-0",
+      "yea": 15,
+      "nay": 45,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2026 Amendment failed 29-31-2-0-0",
+      "yea": 29,
+      "nay": 31,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2027 Amendment failed 25-35-2-0-0",
+      "yea": 25,
+      "nay": 35,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2029 Amendment failed 27-33-2-0-0",
+      "yea": 27,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2030 Amendment failed 30-30-2-0-0",
+      "yea": 30,
+      "nay": 30,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2031 Amendment failed 15-42-5-0-0",
+      "yea": 15,
+      "nay": 42,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2032 Amendment failed 26-34-2-0-0",
+      "yea": 26,
+      "nay": 34,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2033 Amendment failed 26-34-2-0-0",
+      "yea": 26,
+      "nay": 34,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2035 Amendment failed 28-31-3-0-0",
+      "yea": 28,
+      "nay": 31,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2034 Amendment failed 25-35-2-0-0",
+      "yea": 25,
+      "nay": 35,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2036 Amendment adopted 36-23-3-0-0",
+      "yea": 36,
+      "nay": 23,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2037 Amendment failed 26-34-2-0-0",
+      "yea": 26,
+      "nay": 34,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2040 Amendment failed 25-34-3-0-0",
+      "yea": 25,
+      "nay": 34,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-17",
+      "description": "HB0001H2042 Amendment failed 26-32-4-0-0",
+      "yea": 26,
+      "nay": 32,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2043 Amendment failed 21-39-2-0-0",
+      "yea": 21,
+      "nay": 39,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2044 Amendment failed 26-33-3-0-0",
+      "yea": 26,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2045 Amendment failed 16-44-2-0-0",
+      "yea": 16,
+      "nay": 44,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2051 Amendment failed 26-34-2-0-0",
+      "yea": 26,
+      "nay": 34,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2053 Amendment failed 26-32-4-0-0",
+      "yea": 26,
+      "nay": 32,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2059 Amendment failed 25-34-3-0-0",
+      "yea": 25,
+      "nay": 34,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2061 Amendment failed 17-43-2-0-0",
+      "yea": 17,
+      "nay": 43,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2062 Amendment failed 19-41-2-0-0",
+      "yea": 19,
+      "nay": 41,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2065 Amendment failed 7-53-2-0-0",
+      "yea": 7,
+      "nay": 53,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2066 Amendment failed 26-34-2-0-0",
+      "yea": 26,
+      "nay": 34,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2068 Amendment adopted 35-25-2-0-0",
+      "yea": 35,
+      "nay": 25,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2069 Amendment failed 27-33-2-0-0",
+      "yea": 27,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2073 Amendment failed 29-30-3-0-0",
+      "yea": 29,
+      "nay": 30,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2078 Amendment failed 26-33-3-0-0",
+      "yea": 26,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2079 Amendment failed 27-33-2-0-0",
+      "yea": 27,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2081 Amendment failed 26-34-2-0-0",
+      "yea": 26,
+      "nay": 34,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2084 Amendment failed 26-33-3-0-0",
+      "yea": 26,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2085 Amendment failed 26-32-4-0-0",
+      "yea": 26,
+      "nay": 32,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2090 Amendment failed 22-36-4-0-0",
+      "yea": 22,
+      "nay": 36,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2093 Amendment failed 5-54-3-0-0",
+      "yea": 5,
+      "nay": 54,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2098 Amendment failed 29-31-2-0-0",
+      "yea": 29,
+      "nay": 31,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2114 Amendment failed 26-33-3-0-0",
+      "yea": 26,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-18",
+      "description": "HB0001H2115 Amendment failed 28-31-3-0-0",
+      "yea": 28,
+      "nay": 31,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3001 Amendment failed 26-35-1-0-0",
+      "yea": 26,
+      "nay": 35,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3003 Amendment failed 6-55-1-0-0",
+      "yea": 6,
+      "nay": 55,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3004 Amendment adopted 31-30-1-0-0",
+      "yea": 31,
+      "nay": 30,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3005 Amendment failed 27-34-1-0-0",
+      "yea": 27,
+      "nay": 34,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3006 Amendment failed 20-40-2-0-0",
+      "yea": 20,
+      "nay": 40,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3008 Amendment failed 14-44-3-0-1",
+      "yea": 14,
+      "nay": 44,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3010 Amendment failed 29-30-3-0-0",
+      "yea": 29,
+      "nay": 30,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3011 Amendment adopted 34-25-3-0-0",
+      "yea": 34,
+      "nay": 25,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3012 Amendment failed 28-31-3-0-0",
+      "yea": 28,
+      "nay": 31,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3013.01 Amendment failed 25-35-2-0-0",
+      "yea": 25,
+      "nay": 35,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3013.02 Amendment failed 23-37-2-0-0",
+      "yea": 23,
+      "nay": 37,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3013.03 Amendment failed 30-30-2-0-0",
+      "yea": 30,
+      "nay": 30,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3014 Amendment failed 28-33-1-0-0",
+      "yea": 28,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3016 Amendment failed 25-35-2-0-0",
+      "yea": 25,
+      "nay": 35,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3019 Amendment failed 28-30-4-0-0",
+      "yea": 28,
+      "nay": 30,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3020 Amendment failed 30-30-2-0-0",
+      "yea": 30,
+      "nay": 30,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3023 Amendment failed 26-33-3-0-0",
+      "yea": 26,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3024 Amendment failed 27-33-2-0-0",
+      "yea": 27,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3027 Amendment failed 28-33-1-0-0",
+      "yea": 28,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3031 Amendment adopted 31-30-1-0-0",
+      "yea": 31,
+      "nay": 30,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3032 Amendment failed 27-33-2-0-0",
+      "yea": 27,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3033 Amendment failed 27-32-3-0-0",
+      "yea": 27,
+      "nay": 32,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3034 Amendment failed 29-31-2-0-0",
+      "yea": 29,
+      "nay": 31,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3035 Amendment adopted 60-0-2-0-0",
+      "yea": 60,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3036 Amendment failed 16-45-1-0-0",
+      "yea": 16,
+      "nay": 45,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3037 Amendment failed 11-50-1-0-0",
+      "yea": 11,
+      "nay": 50,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3039 Amendment failed 29-32-1-0-0",
+      "yea": 29,
+      "nay": 32,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3040 Amendment failed 22-39-1-0-0",
+      "yea": 22,
+      "nay": 39,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-20",
+      "description": "HB0001H3041 Amendment adopted 60-1-1-0-0",
+      "yea": 60,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3044 Amendment failed 29-31-2-0-0",
+      "yea": 29,
+      "nay": 31,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3045 Amendment failed 14-46-2-0-0",
+      "yea": 14,
+      "nay": 46,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3046 Amendment failed 24-37-1-0-0",
+      "yea": 24,
+      "nay": 37,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3048 Amendment failed 21-40-1-0-0",
+      "yea": 21,
+      "nay": 40,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3049 Amendment failed 27-33-2-0-0",
+      "yea": 27,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3052 Amendment failed 12-48-2-0-0",
+      "yea": 12,
+      "nay": 48,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3054 Amendment failed 27-32-3-0-0",
+      "yea": 27,
+      "nay": 32,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3057 Amendment failed 25-35-2-0-0",
+      "yea": 25,
+      "nay": 35,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3060 Amendment adopted 31-29-2-0-0",
+      "yea": 31,
+      "nay": 29,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3120 Amendment adopted 32-28-2-0-0",
+      "yea": 32,
+      "nay": 28,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3061 Amendment failed 29-31-2-0-0",
+      "yea": 29,
+      "nay": 31,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3062 Amendment failed 26-34-2-0-0",
+      "yea": 26,
+      "nay": 34,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3065 Amendment failed 27-33-2-0-0",
+      "yea": 27,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3064 Amendment failed 26-34-2-0-0",
+      "yea": 26,
+      "nay": 34,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3002 Amendment failed 27-33-2-0-0",
+      "yea": 27,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3066 Amendment adopted 31-29-2-0-0",
+      "yea": 31,
+      "nay": 29,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3072.02 Amendment failed 28-31-3-0-0",
+      "yea": 28,
+      "nay": 31,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3075 Amendment failed 26-34-2-0-0",
+      "yea": 26,
+      "nay": 34,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3076 Amendment failed 24-36-2-0-0",
+      "yea": 24,
+      "nay": 36,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3078 Amendment adopted 51-8-2-0-1",
+      "yea": 51,
+      "nay": 8,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3079 Amendment adopted 32-28-2-0-0",
+      "yea": 32,
+      "nay": 28,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3082 Amendment failed 28-32-2-0-0",
+      "yea": 28,
+      "nay": 32,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3084.01 Amendment failed 26-33-3-0-0",
+      "yea": 26,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3084.02 Amendment failed 28-31-2-0-1",
+      "yea": 28,
+      "nay": 31,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3092 Amendment failed 12-48-2-0-0",
+      "yea": 12,
+      "nay": 48,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3098 Amendment adopted 59-2-1-0-0",
+      "yea": 59,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3099 Amendment adopted 31-29-1-0-1",
+      "yea": 31,
+      "nay": 29,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3105 Amendment failed 25-35-1-0-1",
+      "yea": 25,
+      "nay": 35,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3106 Amendment failed 26-35-1-0-0",
+      "yea": 26,
+      "nay": 35,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3107 Amendment failed 14-47-1-0-0",
+      "yea": 14,
+      "nay": 47,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3109 Amendment failed 12-49-1-0-0",
+      "yea": 12,
+      "nay": 49,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3110 Amendment failed 14-47-1-0-0",
+      "yea": 14,
+      "nay": 47,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3113 Amendment failed 20-41-1-0-0",
+      "yea": 20,
+      "nay": 41,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3114 Amendment failed 20-41-1-0-0",
+      "yea": 20,
+      "nay": 41,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3115 Amendment failed 10-51-1-0-0",
+      "yea": 10,
+      "nay": 51,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3116 Amendment adopted 54-7-1-0-0",
+      "yea": 54,
+      "nay": 7,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3119 Amendment failed 26-35-1-0-0",
+      "yea": 26,
+      "nay": 35,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3121 Amendment adopted 56-5-1-0-0",
+      "yea": 56,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-21",
+      "description": "HB0001H3122 Amendment adopted 51-10-1-0-0",
+      "yea": 51,
+      "nay": 10,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-21",
+      "description": "3rd Reading:Passed 47-14-1-0-0",
+      "yea": 47,
+      "nay": 14,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://www.wyoleg.gov/2026/Introduced/HB0001.pdf",
+      "doc_id": 3352295
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1999416,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR210",
+  "title": "Supporting the goals and ideals of National Women and Girls HIV/AIDS Awareness Day.",
+  "summary": "Supporting the goals and ideals of National Women and Girls HIV/AIDS Awareness Day.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR210/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR210/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/210/all-info",
+  "sponsors": [
+    "Maxine Waters (D) [Rep]",
+    "Robin Kelly (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Nydia Velazquez (D) [Rep]",
+    "Sheila Cherfilus-McCormick (D) [Rep]",
+    "Yvette Clarke (D) [Rep]",
+    "Jasmine Crockett (D) [Rep]",
+    "Danny Davis (D) [Rep]",
+    "Jonathan Jackson (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Jennifer McClellan (D) [Rep]",
+    "LaMonica McIver (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Terri Sewell (D) [Rep]",
+    "Bennie Thompson (D) [Rep]",
+    "Dina Titus (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Emanuel Cleaver (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-10",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-03-10",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-11",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres210/BILLS-119hres210ih.pdf",
+      "doc_id": 3164700
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

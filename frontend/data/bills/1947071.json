@@ -1,0 +1,89 @@
+{
+  "id": 1947071,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1738",
+  "title": "Ensuring access to state benefits and opportunities for veterans, uniformed service members, and military spouses.",
+  "summary": "Ensuring access to state benefits and opportunities for veterans, uniformed service members, and military spouses.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1738/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1738/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1738&Year=2025&Initiative=false",
+  "sponsors": [
+    "Clyde Shavers (D) [Rep]",
+    "Greg Nance (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-30",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-30",
+      "action": "First reading, referred to Technology, Economic Development, & Veterans.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Public hearing in the House Committee on Technology, Economic Development, & Veterans at 8:00 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Executive action taken in the House Committee on Technology, Economic Development, & Veterans at 10:30 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "TEDV - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Referred to Appropriations.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-18",
+      "description": "House Committee on Technology, Economic Development, & Veterans: 1st substitute bill be substituted, do pass",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1738.pdf",
+      "doc_id": 3089676
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1738-S.pdf",
+      "doc_id": 3130895
+    }
+  ],
+  "committee": {
+    "committee_id": 2759,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Appropriations"
+  },
+  "subjects": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": 1939591,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB209",
+  "title": "Protecting Minors from Medical Malpractice Act of 2025",
+  "summary": "A bill to protect children from medical malpractice in the form of gender-transition procedures.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB209/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB209/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/209/all-info",
+  "sponsors": [
+    "Tom Cotton (R) [Sen]",
+    "Jim Banks (R) [Sen]",
+    "Tim Sheehy (R) [Sen]",
+    "Markwayne Mullin (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-23",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-01-23",
+      "action": "Read twice and referred to the Committee on the Judiciary.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-25",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s209/BILLS-119s209is.pdf",
+      "doc_id": 3141802
+    }
+  ],
+  "committee": {
+    "committee_id": 2330,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

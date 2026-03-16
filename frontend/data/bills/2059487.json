@@ -1,0 +1,60 @@
+{
+  "id": 2059487,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "SB0758",
+  "title": "Communications: internet; Michigan kids code act; create. Creates new act. TIE BAR WITH: SB 0759'25",
+  "summary": "Communications: internet; Michigan kids code act; create. Creates new act. TIE BAR WITH: SB 0759'25",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/SB0758/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/SB0758/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0758",
+  "sponsors": [
+    "Kevin Hertel (D) [Sen]",
+    "Mallory McMorrow (D) [Sen]",
+    "Erika Geiss (D) [Sen]"
+  ],
+  "introduced_date": "2025-12-17",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-12-17",
+      "action": "Introduced By Senator Kevin Hertel",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-17",
+      "action": "Referred To Committee On Finance, Insurance, And Consumer Protection",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-17",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/htm/2025-SIB-0758.htm",
+      "doc_id": 3291420
+    }
+  ],
+  "committee": {
+    "committee_id": 4717,
+    "chamber": "S",
+    "chamber_id": 54,
+    "name": "Finance, Insurance, And Consumer Protection"
+  },
+  "subjects": [
+    "Communications: Internet",
+    "Consumer protection: privacy",
+    "Children: other"
+  ]
+}

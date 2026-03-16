@@ -1,0 +1,64 @@
+{
+  "id": 2108308,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB946",
+  "title": "State Government - Governor's Appointments Office - Judicial Selection - Reporting",
+  "summary": "Requiring the Governor's Appointments Office to report to the General Assembly beginning December 1, 2026, and each December 1 thereafter, certain demographic information regarding applicants and nominees for judicial office.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB946/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB946/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0946?ys=2026RS",
+  "sponsors": [
+    "Chao Wu (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "First Reading Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Hearing 3/04 at 1:00 p.m.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-05",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0946f.pdf",
+      "doc_id": 3349893
+    }
+  ],
+  "committee": {
+    "committee_id": 1927,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Courts and Court Personnel - Statewide",
+    "State Government - Agencies, Offices, and Officials",
+    "Applicants and Applications",
+    "Committees and Commissions",
+    "Demographics",
+    "Governor",
+    "Judges",
+    "Public Officials",
+    "Reports"
+  ]
+}

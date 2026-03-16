@@ -1,0 +1,67 @@
+{
+  "id": 2085629,
+  "state": "WV",
+  "state_name": "West Virginia",
+  "bill_number": "SB507",
+  "title": "Extending statute of limitations for bringing actions for gender reassignment surgeries",
+  "summary": "The purpose of this bill is to extend the statute of limitations for bringing actions for gender reassignment surgeries, provide for additional damages in actions filed against surgeons for medical injuries from gender reassignment surgeries and the prescribing of medications related to gender reassignment procedures and therapies.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WV/bill/SB507/2026",
+  "legiscan_url": "https://legiscan.com/WV/bill/SB507/2026",
+  "state_url": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=507&year=2026&sessiontype=RS&btype=bill",
+  "sponsors": [
+    "Brian Helton (R) [Sen]",
+    "Darren Thorne (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-19",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-19",
+      "action": "Filed for introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-19",
+      "action": "To Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-19",
+      "action": "Introduced in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-19",
+      "action": "To Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=sb507%20intr.htm&yr=2026&sesstype=RS&i=507",
+      "doc_id": 3322986
+    }
+  ],
+  "committee": {
+    "committee_id": 30,
+    "chamber": "S",
+    "chamber_id": 2,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Courts"
+  ]
+}

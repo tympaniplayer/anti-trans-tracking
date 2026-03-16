@@ -1,0 +1,78 @@
+{
+  "id": 1957221,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "SB1010",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 4; Title 8; Title 53; Title 56; Title 63; Title 68 and Title 71, relative to contraceptives.",
+  "summary": "As introduced, enacts the \"Tennessee Contraceptive Freedom Act.\" - Amends TCA Title 4; Title 8; Title 53; Title 56; Title 63; Title 68 and Title 71.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/SB1010/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/SB1010/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB1010&ga=114",
+  "sponsors": [
+    "Charlane Oliver (D) [Sen]",
+    "Heidi Campbell (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-11",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-05",
+      "action": "Filed for introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Introduced, Passed on First Consideration",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Passed on Second Consideration, refer to Senate Commerce and Labor Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Placed on Senate Commerce and Labor Committee calendar for 3/11/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Failed in Senate Commerce and Labor Committee / no second",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Sponsor(s) Added.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-05",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1010.pdf",
+      "doc_id": 3102161
+    },
+    {
+      "date": "2025-02-06",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1010.pdf",
+      "doc_id": 3107172
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Birth Control"
+  ]
+}

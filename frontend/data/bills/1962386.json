@@ -1,0 +1,65 @@
+{
+  "id": 1962386,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB2286",
+  "title": "INS-PREVENTIVE CARE PRIOR AUTH",
+  "summary": "Amends the Prior Authorization Reform Act. Provides that, notwithstanding any other provision of law, a health insurance issuer or a contracted utilization review organization may not require prior authorization for preventive health services recommended by a health care professional. Amends the Illinois Insurance Code. Provides that a policy of group health insurance coverage or individual health insurance coverage shall, at a minimum, provide coverage and shall not require prior authorization or impose any cost-sharing requirements, including a copayment, coinsurance, or deductible, for specified preventive health services. Effective January 1, 2027.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB2286/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB2286/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2286&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "Mike Simmons (D) [Sen]",
+    "Rachel Ventura (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-07",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-07",
+      "action": "Filed with Secretary by Sen. Mike Simmons",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Added as Co-Sponsor Sen. Rachel Ventura",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-07",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=201877&DocName=10400SB2286&DocNum=2286&DocTypeID=SB&LegID=162089&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3108625
+    }
+  ],
+  "committee": {
+    "committee_id": 254,
+    "chamber": "S",
+    "chamber_id": 36,
+    "name": "Assignments"
+  },
+  "subjects": []
+}

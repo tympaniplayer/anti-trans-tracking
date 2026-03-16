@@ -1,0 +1,53 @@
+{
+  "id": 2023173,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB1411",
+  "title": "PROSPECT Act Preparing and Resourcing Our Student Parents and Early Childhood Teachers Act",
+  "summary": "A bill to establish competitive Federal grants that will empower community colleges and minority-serving institutions to become incubators for infant and toddler child care talent, training, and access on their campuses and in their communities, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "sports"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB1411/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB1411/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1411/all-info",
+  "sponsors": [
+    "Cory Booker (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-10",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-04-10",
+      "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-01",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s1411/BILLS-119s1411is.pdf",
+      "doc_id": 3227581
+    }
+  ],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": [
+    "Families"
+  ]
+}

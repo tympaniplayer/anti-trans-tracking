@@ -1,0 +1,68 @@
+{
+  "id": 2093289,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HR4",
+  "title": "Requesting The United States Congress To Pass Legislation To Amend The Civil Rights Act Of 1964 To Prohibit Discrimination On The Basis Of Sex, Sexual Orientation, And Gender Identity In Employment, Housing, Public Accommodations, Education, Federally Funded Programs, Credit, And Jury Service.",
+  "summary": "Requesting The United States Congress To Pass Legislation To Amend The Civil Rights Act Of 1964 To Prohibit Discrimination On The Basis Of Sex, Sexual Orientation, And Gender Identity In Employment, Housing, Public Accommodations, Education, Federally Funded Programs, Credit, And Jury Service.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HR4/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HR4/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HR&billnumber=4&year=2026",
+  "sponsors": [
+    "Adrian Tam (D) [Rep]",
+    "Terez Amato (D) [Rep]",
+    "Greggor Ilagan (D) [Rep]",
+    "Trish La Chica (D) [Rep]",
+    "Nicole Lowen (D) [Rep]",
+    "Lisa Marten (D) [Rep]",
+    "Amy Perruso (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "To be offered.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Offered",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Referred to JHA, referral sheet 15",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-24",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HR4_.HTM",
+      "doc_id": 3331883
+    }
+  ],
+  "committee": {
+    "committee_id": 4406,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Judiciary & Hawaiian Affairs"
+  },
+  "subjects": [
+    "Federal Equality Act",
+    "Sex, sexual orientation, and gender identity"
+  ]
+}

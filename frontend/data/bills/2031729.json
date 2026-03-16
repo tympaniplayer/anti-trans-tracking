@@ -1,0 +1,147 @@
+{
+  "id": 2031729,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S08021",
+  "title": "Requires the commissioner of the division of criminal justice services, the superintendent of the division of state police, and the commissioner of the department of corrections and community supervision and the person in charge of every state law enforcement agency to adopt and implement a tattoo policy for all members of such law enforcement agency who are designated as police officers, peace officers and applicants for employment in such positions.",
+  "summary": "Requires the commissioner of the division of criminal justice services, the superintendent of the division of state police, and the commissioner of the department of corrections and community supervision and the person in charge of every state law enforcement agency to adopt and implement a tattoo policy for all members of such law enforcement agency who are designated as police officers, peace officers and applicants for employment in such positions.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S08021/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S08021/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S8021",
+  "sponsors": [
+    "Michelle Hinchey (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-12",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-15",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "AMEND AND RECOMMIT TO CODES",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "PRINT NUMBER 8021A",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "COMMITTEE DISCHARGED AND COMMITTED TO RULES",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "ORDERED TO THIRD READING CAL.1653",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "AMENDED ON THIRD READING (T) 8021B",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "died in assembly",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "returned to senate",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "AMEND AND RECOMMIT TO CODES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "PRINT NUMBER 8021C",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-09",
+      "description": "Senate Rules Committee Vote",
+      "yea": 19,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-12",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 58,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-05-15",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S08021&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S08021",
+      "doc_id": 3237996
+    },
+    {
+      "date": "2025-05-15",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S08021&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S08021A",
+      "doc_id": 3246221
+    },
+    {
+      "date": "2025-05-15",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S08021&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S08021B",
+      "doc_id": 3253802
+    },
+    {
+      "date": "2025-05-15",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S08021&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S08021C",
+      "doc_id": 3357015
+    }
+  ],
+  "committee": {
+    "committee_id": 417,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Codes"
+  },
+  "subjects": []
+}

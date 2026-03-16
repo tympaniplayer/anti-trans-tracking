@@ -1,0 +1,85 @@
+{
+  "id": 2128327,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "HB867",
+  "title": "AN ACT relating to private spaces.",
+  "summary": "Create a new section of KRS Chapter 61 to ensure that privacy exists in public building multi-occupancy private spaces; identify consequences for using multi-occupancy private spaces designated for the opposite biological sex; identify exceptions for using multi-occupancy private space designated for the opposite biological sex; create cause of action for discrimination and retaliation against a person who makes a good-faith report.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "religious_exemptions",
+    "definitions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/HB867/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/HB867/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/hb867.html",
+  "sponsors": [
+    "Billy Wesley (R) [Rep]",
+    "T.J. Roberts (R) [Rep]",
+    "Shane Baker (R) [Rep]",
+    "Ryan Bivens (R) [Rep]",
+    "Josh Calloway (R) [Rep]",
+    "Steven Doan (R) [Rep]",
+    "Ryan Dotson (R) [Rep]",
+    "Daniel Fister (R) [Rep]",
+    "Chris Fugate (R) [Rep]",
+    "John Hodgson (R) [Rep]",
+    "Kim King (R) [Rep]",
+    "William Lawrence (R) [Rep]",
+    "Candy Massaroni (R) [Rep]",
+    "Shawn McPherson (R) [Rep]",
+    "Marianne Proctor (R) [Rep]",
+    "Scott Sharp (R) [Rep]",
+    "Tom Smith (R) [Rep]",
+    "Nancy Tate (R) [Rep]",
+    "Timmy Truett (R) [Rep]",
+    "Wade Williams (R) [Rep]"
+  ],
+  "introduced_date": "2026-03-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "action": "introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "to Committee on Committees (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "to State Government (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb867/orig_bill.pdf",
+      "doc_id": 3382921
+    }
+  ],
+  "committee": {
+    "committee_id": 333,
+    "chamber": "H",
+    "chamber_id": 43,
+    "name": "State Government"
+  },
+  "subjects": [
+    "Local Mandate",
+    "Civil Actions",
+    "Courts, Circuit",
+    "Public Buildings and Grounds",
+    "State Agencies"
+  ]
+}

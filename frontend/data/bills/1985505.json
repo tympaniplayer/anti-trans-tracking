@@ -1,0 +1,57 @@
+{
+  "id": 1985505,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H2025",
+  "title": "Order relative to the adoption of permanent Rules of the House of Representatives for the 194th General Court governing the 2025-2026 legislative sessions",
+  "summary": "House order No. 2025, as amended and as adopted by the House. February 25, 2025.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H2025/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H2025/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H2025",
+  "sponsors": [
+    "William Galvin (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-25",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-25",
+      "action": "H2024, published as amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Order adopted - 128 YEAS to 23 NAYS (See YEA and NAY No. 24 )",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-25",
+      "description": "House  Order adopted - 128 YEAS to 23 NAYS",
+      "yea": 128,
+      "nay": 23,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-25",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H2025.pdf",
+      "doc_id": 3143817
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": 1932429,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S02619",
+  "title": "Removes restrictions of three-cycle coverage for in vitro fertilization; mandates individual insurance coverage of in vitro.",
+  "summary": "Removes restrictions of three-cycle coverage for in vitro fertilization; mandates individual insurance coverage of in vitro.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S02619/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S02619/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S2619",
+  "sponsors": [
+    "Jessica Scarcella-Spanton (D) [Sen]",
+    "Joseph Addabbo (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-21",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-21",
+      "action": "REFERRED TO INSURANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO INSURANCE",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-21",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S02619&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S02619",
+      "doc_id": 3070031
+    }
+  ],
+  "committee": {
+    "committee_id": 432,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Insurance"
+  },
+  "subjects": []
+}

@@ -1,0 +1,66 @@
+{
+  "id": 2079657,
+  "state": "WV",
+  "state_name": "West Virginia",
+  "bill_number": "HB4143",
+  "title": "Relating to Women\u2019s Bill of Rights",
+  "summary": "The purpose of this bill is to establish the West Virginia Women's Bill of Rights.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WV/bill/HB4143/2026",
+  "legiscan_url": "https://legiscan.com/WV/bill/HB4143/2026",
+  "state_url": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4143&year=2026&sessiontype=RS&btype=bill",
+  "sponsors": [
+    "Kathie Crouse (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Filed for introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "To Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "To House Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb4143%20intr.htm&yr=2026&sesstype=RS&i=4143",
+      "doc_id": 3316615
+    }
+  ],
+  "committee": {
+    "committee_id": 11,
+    "chamber": "H",
+    "chamber_id": 1,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Human Rights"
+  ]
+}

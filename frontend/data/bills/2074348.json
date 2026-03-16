@@ -1,0 +1,84 @@
+{
+  "id": 2074348,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S1631",
+  "title": "Prohibits discrimination on basis of height or weight under \"Law Against Discrimination.\"",
+  "summary": "Prohibits discrimination on basis of height or weight under \"Law Against Discrimination.\"",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S1631/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S1631/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S1631",
+  "sponsors": [
+    "Andrew Zwicker (D) [Sen]",
+    "Angela Mcknight (D) [Sen]",
+    "Teresa Ruiz (D) [Sen]",
+    "Britnee Timberlake (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-24",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Labor Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Reported from Senate Committee, 2nd Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Passed by the Senate (24-14)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Received in the Assembly, Referred to Assembly Judiciary Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-05",
+      "description": "Senate Labor Committee: Reported Favorably",
+      "yea": 4,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-24",
+      "description": "Senate Floor: Third Reading - Final Passage",
+      "yea": 24,
+      "nay": 14,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-12-31",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S2000/1631_I1.HTM",
+      "doc_id": 3311382
+    }
+  ],
+  "committee": {
+    "committee_id": 862,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Judiciary"
+  ]
+}

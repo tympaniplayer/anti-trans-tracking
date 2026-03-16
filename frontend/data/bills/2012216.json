@@ -1,0 +1,62 @@
+{
+  "id": 2012216,
+  "state": "GA",
+  "state_name": "Georgia",
+  "bill_number": "HR654",
+  "title": "Community EsTr(El/La); commend",
+  "summary": "A RESOLUTION commending Community EsTr(El/La); and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/GA/bill/HR654/2025",
+  "legiscan_url": "https://legiscan.com/GA/bill/HR654/2025",
+  "state_url": "https://www.legis.ga.gov/legislation/71495",
+  "sponsors": [
+    "Karen Lupton (D) [Rep]",
+    "Marvin Lim (D) [Rep]",
+    "Lisa Campbell (D) [Rep]",
+    "Park Cannon (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-20",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-20",
+      "action": "House Hopper",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "House First Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "House Second Readers",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-21",
+      "type": "Introduced",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236635",
+      "doc_id": 3183872
+    }
+  ],
+  "committee": {
+    "committee_id": 5006,
+    "chamber": "H",
+    "chamber_id": 29,
+    "name": "Public and Community Health"
+  },
+  "subjects": []
+}

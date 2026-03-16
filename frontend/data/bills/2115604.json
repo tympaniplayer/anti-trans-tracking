@@ -1,0 +1,65 @@
+{
+  "id": 2115604,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A10168",
+  "title": "Requires the state office for the aging to maintain a public facing state master plan on aging dashboard on the public website of the office, which includes real-time information and updates on each proposal in such master plan including legislative and budgetary progress.",
+  "summary": "Requires the state office for the aging to maintain a public facing state master plan on aging dashboard on the public website of the office, which includes real-time information and updates on each proposal in such master plan including legislative and budgetary progress.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A10168/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A10168/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A10168",
+  "sponsors": [
+    "Rebecca Seawright (D) [Rep]",
+    "Judy Griffin (D) [Rep]",
+    "Nikki Lucas (D) [Rep]",
+    "Sarahana Shrestha (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-12",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-12",
+      "action": "referred to aging",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "reported referred to ways and means",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-04",
+      "description": "Assembly Aging Committee: Favorable refer to committee Ways and Means",
+      "yea": 28,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-02-12",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A10168&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A10168",
+      "doc_id": 3360484
+    }
+  ],
+  "committee": {
+    "committee_id": 387,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

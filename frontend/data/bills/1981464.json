@@ -1,0 +1,67 @@
+{
+  "id": 1981464,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "HB128",
+  "title": "Enact the Reproductive Care Act",
+  "summary": "To amend sections 109.572, 2305.11, 2317.02, 2919.10, 2919.12, 2953.25, 3701.341, 3701.792, 3702.30, 4112.01, 4112.02, 4729.291, 4731.22, 4731.223, 4731.281, 4731.293, and 4743.09; to enact sections 2305.2312, 3732.01, 3732.02, 3732.03, 3732.04, 3732.05, 3732.06, 3732.07, 3732.08, 3732.09, and 3732.11; and to repeal sections 2307.54, 2317.56, 2317.561, 2919.101, 2919.124, 2919.171, 2919.19, 2919.191, 2919.192, 2919.193, 2919.194, 2919.195, 2919.196, 2919.197, 2919.198, 2919.199, 2919.1910, 2919.1912, 2919.1913, 2919.20, 2919.201, 2919.202, 2919.203, 2919.204, 2919.205, 3701.79, 3701.791, 3702.302, 3702.303, 3702.304, 3702.305, 3702.306, 3702.307, 3702.308, 3702.309, 3702.3010, 3702.3011, 3726.01, 3726.02, 3726.03, 3726.04, 3726.041, 3726.042, 3726.05, 3726.09, 3726.10, 3726.11, 3726.12, 3726.13, 3726.14, 3726.15, 3726.16, 3726.95, 3726.99, 3727.60, 4717.271, 5101.57, and 5103.11 of the Revised Code to enact the Reproductive Care Act regarding abortion, abortion-related laws, and reproductive health protections.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/HB128/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/HB128/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/hb128",
+  "sponsors": [
+    "Desiree Tims (D) [Rep]",
+    "Anita Somani (D) [Rep]",
+    "Rachel Baker (D) [Rep]",
+    "Karen Brownlee (D) [Rep]",
+    "Michele Grim (D) [Rep]",
+    "Dontavius Jarrells (D) [Rep]",
+    "Tristan Rader (D) [Rep]",
+    "Bride Sweeney (D) [Rep]",
+    "Terrence Upchurch (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-24",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-24",
+      "action": "Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Referred to committee: Health",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb128/00_IN/pdf/",
+      "doc_id": 3138598
+    }
+  ],
+  "committee": {
+    "committee_id": 102,
+    "chamber": "H",
+    "chamber_id": 5,
+    "name": "Health"
+  },
+  "subjects": [
+    "Crimes, Corrections, and Law Enforcement",
+    "Crimes, Corrections, and Law Enforcement : Crime and Punishment",
+    "Health and Human Services : Health Care",
+    "House Health Committee"
+  ]
+}

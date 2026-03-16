@@ -1,0 +1,59 @@
+{
+  "id": 2011149,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF2817",
+  "title": "Athletic team designations based on biological sex at birth requirement",
+  "summary": "Athletic team designations based on biological sex at birth requirement",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF2817/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF2817/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2817/",
+  "sponsors": [
+    "Karin Housley (R) [Sen]",
+    "Eric Pratt (R) [Sen]",
+    "Julia Coleman (R) [Sen]",
+    "Carla Nelson (R) [Sen]",
+    "Michael Kreun (R) [Sen]"
+  ],
+  "introduced_date": "2025-03-20",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-03-20",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Referred to Education Policy",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-19",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2817/versions/0/pdf/",
+      "doc_id": 3181761
+    }
+  ],
+  "committee": {
+    "committee_id": 4667,
+    "chamber": "S",
+    "chamber_id": 56,
+    "name": "Education Policy"
+  },
+  "subjects": []
+}

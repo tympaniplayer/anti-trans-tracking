@@ -1,0 +1,75 @@
+{
+  "id": 2088710,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S09003",
+  "title": "Makes appropriations for the support of government - Aid to Localities Budget.",
+  "summary": "Makes appropriations for the support of government - Aid to Localities Budget.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S09003/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S09003/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S9003",
+  "sponsors": [
+    "Budget [Sen]"
+  ],
+  "introduced_date": "2026-01-21",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-21",
+      "action": "REFERRED TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "AMEND AND RECOMMIT TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "PRINT NUMBER 9003A",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "AMEND AND RECOMMIT TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "PRINT NUMBER 9003B",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-20",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S09003&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S09003A",
+      "doc_id": 3371707
+    },
+    {
+      "date": "2026-01-20",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S09003&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S09003B",
+      "doc_id": 3389442
+    }
+  ],
+  "committee": {
+    "committee_id": 428,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Finance"
+  },
+  "subjects": []
+}

@@ -1,0 +1,98 @@
+{
+  "id": 2035697,
+  "state": "DE",
+  "state_name": "Delaware",
+  "bill_number": "SB169",
+  "title": "An Act To Amend Title 3, Title 6, Title 9, Title 10, Title 11, Title 14, Title 16, Title 19, Title 21, Title 24, Title 26, Title 29, Title 30, And Title 31 Of The Delaware Code, And The Charter Of The Town Of Newport, Relating To Technical Corrections.",
+  "summary": "An Act To Amend Title 3, Title 6, Title 9, Title 10, Title 11, Title 14, Title 16, Title 19, Title 21, Title 24, Title 26, Title 29, Title 30, And Title 31 Of The Delaware Code, And The Charter Of The Town Of Newport, Relating To Technical Corrections.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DE/bill/SB169/2025",
+  "legiscan_url": "https://legiscan.com/DE/bill/SB169/2025",
+  "state_url": "https://legis.delaware.gov/BillDetail?LegislationId=142406",
+  "sponsors": [
+    "David Sokola (D) [Sen]",
+    "Bryan Townsend (D) [Sen]",
+    "Elizabeth Lockman (D) [Sen]",
+    "Gerald Hocker (R) [Sen]",
+    "Brian Pettyjohn (R) [Sen]",
+    "Melissa Minor-Brown (D) [Rep]",
+    "Kerri Harris (D) [Rep]",
+    "Edward Osienski (D) [Rep]",
+    "Timothy Dukes (R) [Rep]",
+    "Jeffrey Spiegelman (R) [Rep]"
+  ],
+  "introduced_date": "2025-07-01",
+  "session": "153rd General Assembly",
+  "actions": [
+    {
+      "date": "2025-06-05",
+      "action": "Introduced and Assigned to Executive Committee in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-11",
+      "action": "Reported Out of Committee (Executive) in Senate with 1 Favorable, 6 On Its Merits",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "Passed By Senate. Votes: 18 YES 1 NOT VOTING 2 ABSENT",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "Assigned to Administration Committee in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-25",
+      "action": "Reported Out of Committee (Administration) in House with 5 On Its Merits",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Passed By House. Votes: 40 YES 1 VACANT",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "Signed by Governor",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-12",
+      "description": "Senate Third Reading",
+      "yea": 18,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-30",
+      "description": "House Third Reading",
+      "yea": 40,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Draft",
+      "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142406&legislationTypeId=1&docTypeId=2&legislationName=SB169",
+      "doc_id": 3252151
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

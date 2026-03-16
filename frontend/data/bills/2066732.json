@@ -1,0 +1,125 @@
+{
+  "id": 2066732,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "HB1472",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 4, Chapter 21, relative to discrimination.",
+  "summary": "As introduced, enacts the \"Banning Bostock Act.\" - Amends TCA Title 4, Chapter 21.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/HB1472/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/HB1472/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB1472&ga=114",
+  "sponsors": [
+    "Gino Bulso (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-06",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "action": "Filed for introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Intro., P1C.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "P2C, ref. to Judiciary Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Assigned to s/c Civil Justice Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Placed on s/c cal Civil Justice Subcommittee for 2/11/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Rec. for pass by s/c ref. to Judiciary Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Placed on cal. Judiciary Committee for 2/18/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Action def. in Judiciary Committee to Next Available Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Placed on cal. Judiciary Committee for 3/4/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Action def. in Judiciary Committee to 3/11/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Placed on cal. Judiciary Committee for 3/11/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Action def. in Judiciary Committee to 3/18/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Placed on cal. Judiciary Committee for 3/18/2026",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-11",
+      "description": "HOUSE CIVIL JUSTICE SUBCOMMITTEE: Rec. for pass by s/c ref. to Judiciary Committee",
+      "yea": 6,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-06",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1472.pdf",
+      "doc_id": 3301264
+    },
+    {
+      "date": "2026-01-16",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1472.pdf",
+      "doc_id": 3322364
+    }
+  ],
+  "committee": {
+    "committee_id": 2486,
+    "chamber": "H",
+    "chamber_id": 89,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Sex Discrimination"
+  ]
+}

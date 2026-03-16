@@ -1,0 +1,59 @@
+{
+  "id": 2033197,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A08603",
+  "title": "Enacts the \"forensic rehabilitation act\" relating to the custody of individuals following a verdict or plea of not responsible by reason of mental disease or defect.",
+  "summary": "Enacts the \"forensic rehabilitation act\" relating to the custody of individuals following a verdict or plea of not responsible by reason of mental disease or defect.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A08603/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A08603/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A8603",
+  "sponsors": [
+    "Jo Simon (D) [Rep]",
+    "Yudelka Tapia (D) [Rep]",
+    "Anna Kelles (D) [Rep]",
+    "Maritza Davila (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "Emily Gallagher (D) [Rep]"
+  ],
+  "introduced_date": "2025-05-22",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-22",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to codes",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-22",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08603&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08603",
+      "doc_id": 3242683
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

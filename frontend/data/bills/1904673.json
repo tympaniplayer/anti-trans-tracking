@@ -1,0 +1,254 @@
+{
+  "id": 1904673,
+  "state": "ND",
+  "state_name": "North Dakota",
+  "bill_number": "HB1144",
+  "title": "Transgender student accommodations and restroom use in public schools; to provide a penalty; and to declare an emergency.",
+  "summary": "AN ACT to amend and reenact section 15.1-06-21 of the North Dakota Century Code, relating to transgender student accommodations and restroom use in public schools; to provide a penalty; and to declare an emergency.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "education",
+    "bathrooms"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ND/bill/HB1144/2025",
+  "legiscan_url": "https://legiscan.com/ND/bill/HB1144/2025",
+  "state_url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1144.html",
+  "sponsors": [
+    "Bill Tveit (R) [Rep]",
+    "Dick Anderson (R) [Rep]",
+    "Kathy Frelich (R) [Rep]",
+    "Lawrence Klemin (R) [Rep]",
+    "Carrie McLeod (R) [Rep]",
+    "SuAnn Olson (R) [Rep]",
+    "Karen Rohr (R) [Rep]",
+    "Mike Schatz (R) [Rep]",
+    "David Clemens (R) [Sen]",
+    "Kent Weston (R) [Sen]"
+  ],
+  "introduced_date": "2025-05-02",
+  "session": "69th Legislative Assembly",
+  "actions": [
+    {
+      "date": "2025-01-07",
+      "action": "Introduced, first reading, (emergency), referred to Human Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-27",
+      "action": "Committee Hearing 03:15 (Human Services)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Reported back amended, do pass, amendment placed on calendar 8 3 2",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Amendment adopted, placed on calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Second reading, passed, yeas 73 nays 18",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Received from House",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Introduced, first reading, referred to Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Committee Hearing 10:00 (Education)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Reported back amended, do pass, amendment placed on calendar 5 1 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Amendment adopted, placed on calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Second reading, passed as amended, yeas 40 nays 7",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Emergency clause carried",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Returned to House (12)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Refused to concur",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Conference committee appointed Rohr Frelich Fegley",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Conference committee appointed Lemm Gerhardt Boschee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-25",
+      "action": "Reported back from conference committee, in place of, placed on calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Conference committee report adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Second reading, passed, yeas 75 nays 14, Emergency clause carried",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Reported back from conference committee, in place of, placed on calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Conference committee report adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Second reading, passed as amended, yeas 40 nays 7",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Emergency clause carried",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Signed by President",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Signed by Speaker",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Sent to Governor",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-02",
+      "action": "Signed by Governor 05/01",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-11",
+      "action": "Filed with Secretary Of State 05/02",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-07",
+      "description": "House Second reading",
+      "yea": 73,
+      "nay": 18,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-10",
+      "description": "Senate Second reading",
+      "yea": 40,
+      "nay": 7,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-28",
+      "description": "House Second reading",
+      "yea": 75,
+      "nay": 14,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-28",
+      "description": "Senate Second reading",
+      "yea": 40,
+      "nay": 7,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-07",
+      "type": "Introduced",
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0440-03000.pdf",
+      "doc_id": 3041320
+    },
+    {
+      "date": "2025-02-05",
+      "type": "Engrossed",
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0440-04000.pdf",
+      "doc_id": 3101457
+    },
+    {
+      "date": "2025-04-09",
+      "type": "Comm Sub",
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0440-04004m.pdf",
+      "doc_id": 3207569
+    },
+    {
+      "date": "2025-04-09",
+      "type": "Amended",
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0440-05000.pdf",
+      "doc_id": 3207570
+    },
+    {
+      "date": "2025-04-25",
+      "type": "Comm Sub",
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0440-04008m.pdf",
+      "doc_id": 3222377
+    },
+    {
+      "date": "2025-04-25",
+      "type": "Amended",
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0440-06000.pdf",
+      "doc_id": 3222378
+    },
+    {
+      "date": "2025-04-29",
+      "type": "Enrolled",
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0440-07000.pdf",
+      "doc_id": 3224635
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

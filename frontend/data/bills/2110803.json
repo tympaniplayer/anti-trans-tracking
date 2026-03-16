@@ -1,0 +1,86 @@
+{
+  "id": 2110803,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "SB978",
+  "title": "Online services accessed by minors, minors\u2019 personal data, and granting rule-making authority.",
+  "summary": "An Act to create 100.80 of the statutes; Relating to: online services accessed by minors, minors\u2019 personal data, and granting rule-making authority.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/SB978/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/SB978/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb978",
+  "sponsors": [
+    "Jeff Smith (D) [Sen]",
+    "Dianne Hesselbein (D) [Sen]",
+    "Kelda Roys (D) [Sen]",
+    "Jamie Wall (D) [Sen]",
+    "Mark Spreitzer (D) [Sen]",
+    "Alex Joers (D) [Rep]",
+    "Jill Billings (D) [Rep]",
+    "Renuka Mayadev (D) [Rep]",
+    "Deb Andraca (D) [Rep]",
+    "Ryan Clancy (D) [Rep]",
+    "Karen DeSanto (D) [Rep]",
+    "Ben DeSmidt (D) [Rep]",
+    "Jodi Emerson (D) [Rep]",
+    "Joan Fitzgerald (D) [Rep]",
+    "Russell Goodwin (D) [Rep]",
+    "Darrin Madison (D) [Rep]",
+    "Vinnie Miresse (D) [Rep]",
+    "Greta Neubauer (D) [Rep]",
+    "Ann Roe (D) [Rep]",
+    "Christine Sinicki (D) [Rep]",
+    "Lee Snodgrass (D) [Rep]",
+    "Shelia Stubbs (D) [Rep]",
+    "Randy Udell (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-06",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Read first time and referred to Committee on Utilities, Technology and Tourism",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Representative Palmeri added as a cosponsor",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Representative Vining added as a cosponsor",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/SB978.pdf",
+      "doc_id": 3351746
+    }
+  ],
+  "committee": {
+    "committee_id": 5219,
+    "chamber": "S",
+    "chamber_id": 100,
+    "name": "Utilities, Technology and Tourism"
+  },
+  "subjects": []
+}

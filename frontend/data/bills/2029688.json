@@ -1,0 +1,106 @@
+{
+  "id": 2029688,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HR231",
+  "title": "Recognizing the month of June 2025 as \"LGBTQ+ Pride Month\" in Pennsylvania.",
+  "summary": "A Resolution recognizing the month of June 2025 as \"LGBTQ+ Pride Month\" in Pennsylvania.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HR231/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HR231/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hr231",
+  "sponsors": [
+    "Jessica Benham (D) [Rep]",
+    "Andre Carroll (D) [Rep]",
+    "Malcolm Kenyatta (D) [Rep]",
+    "La'Tasha Mayes (D) [Rep]",
+    "Abigail Salisbury (D) [Rep]",
+    "Gregory Scott (D) [Rep]",
+    "Ismail Smith-Wade-El (D) [Rep]",
+    "Nikki Rivera (D) [Rep]",
+    "Jeanne McNeill (D) [Rep]",
+    "Benjamin Waxman (D) [Rep]",
+    "Aerion Abney (D) [Rep]",
+    "Lindsay Powell (D) [Rep]",
+    "Christopher Pielli (D) [Rep]",
+    "Nancy Guenst (D) [Rep]",
+    "Tarah Probst (D) [Rep]",
+    "Arvind Venkat (D) [Rep]",
+    "Carol Hill-Evans (D) [Rep]",
+    "Elizabeth Fiedler (D) [Rep]",
+    "Michael Schlossberg (D) [Rep]",
+    "Joseph Hohenstein (D) [Rep]",
+    "Danilo Burgos (D) [Rep]",
+    "Melissa Shusterman (D) [Rep]",
+    "Mary Isaacson (D) [Rep]",
+    "Timothy Brennan (D) [Rep]",
+    "Robert Merski (D) [Rep]",
+    "Peter Schweyer (D) [Rep]",
+    "Jamie Flick (R) [Rep]",
+    "Tarik Khan (D) [Rep]",
+    "Johanny Cepeda-Freytiz (D) [Rep]",
+    "Maureen Madden (D) [Rep]",
+    "Dan Frankel (D) [Rep]",
+    "John Inglis (D) [Rep]",
+    "Ben Sanchez (D) [Rep]",
+    "Jennifer O'Mara (D) [Rep]",
+    "Daniel Miller (D) [Rep]",
+    "Perry Warren (D) [Rep]",
+    "Joseph Webster (D) [Rep]",
+    "Steven Malagari (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-11",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-05-08",
+      "action": "Referred to State Government",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Reported as committed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-11",
+      "action": "Adopted (120-83)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-13",
+      "description": "House State Government: Report Bill As Committed",
+      "yea": 16,
+      "nay": 10,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-11",
+      "description": "House Floor: HR 231 PN 1666",
+      "yea": 120,
+      "nay": 83,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HR0231/PN1666",
+      "doc_id": 3232489
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1998346,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S142",
+  "title": "Relative to bias-free child removals",
+  "summary": "For legislation to authorize the Department of Children and Families to develop a bias-free child review team to review emergency child removals. Children, Families and Persons with Disabilities.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "education"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S142/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S142/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S142",
+  "sponsors": [
+    "Robyn Kennedy (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Children, Families and Persons with Disabilities",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-27",
+      "action": "Hearing scheduled for 07/08/2025 from 01:00 PM-05:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-11-26",
+      "action": "Accompanied a study order, see S2754",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-10",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S142.pdf",
+      "doc_id": 3163600
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

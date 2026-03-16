@@ -1,0 +1,82 @@
+{
+  "id": 2060903,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB5438",
+  "title": "Health: vital records; fee waiver for individuals fleeing or attempting to flee a dangerous situation; provide for. Amends sec. 2891 of 1978 PA 368 (MCL 333.2891).",
+  "summary": "Health: vital records; fee waiver for individuals fleeing or attempting to flee a dangerous situation; provide for. Amends sec. 2891 of 1978 PA 368 (MCL 333.2891).",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "identity_documents"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB5438/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB5438/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-5438",
+  "sponsors": [
+    "Emily Dievendorf (D) [Rep]",
+    "Reggie Miller (D) [Rep]",
+    "Laurie Pohutsky (D) [Rep]",
+    "Kara Hope (D) [Rep]",
+    "Natalie Price (D) [Rep]",
+    "Dylan Wegela (D) [Rep]",
+    "Helena Scott (D) [Rep]",
+    "Carrie Rheingans (D) [Rep]",
+    "Julie Brixie (D) [Rep]",
+    "Erin Byrnes (D) [Rep]",
+    "Jasper Martus (D) [Rep]",
+    "Penelope Tsernoglou (D) [Rep]",
+    "Regina Weiss (D) [Rep]",
+    "Jason Morgan (D) [Rep]",
+    "Jason Hoskins (D) [Rep]",
+    "Kelly Breen (D) [Rep]"
+  ],
+  "introduced_date": "2025-12-23",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-12-23",
+      "action": "Introduced By Representative Rep. Emily Dievendorf",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-23",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-23",
+      "action": "Referred To Committee On Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-31",
+      "action": "Bill Electronically Reproduced 12/23/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-23",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-5438.htm",
+      "doc_id": 3293310
+    }
+  ],
+  "committee": {
+    "committee_id": 821,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Health: vital records",
+    "Crimes: domestic violence"
+  ]
+}

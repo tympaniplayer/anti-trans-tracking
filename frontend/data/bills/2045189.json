@@ -1,0 +1,62 @@
+{
+  "id": 2045189,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB5592",
+  "title": "Childhood Genital Mutilation Prevention Act",
+  "summary": "To prohibit the performance of gender-related medical treatment on minors, to amend title XVIII of the Social Security Act to prohibit payment and participation under the Medicare program with respect to such treatment, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education",
+    "drag"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB5592/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB5592/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/5592/all-info",
+  "sponsors": [
+    "Nancy Mace (R) [Rep]",
+    "Tim Burchett (R) [Rep]",
+    "Randy Weber (R) [Rep]",
+    "Lauren Boebert (R) [Rep]",
+    "Paul Gosar (R) [Rep]"
+  ],
+  "introduced_date": "2025-09-26",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-09-26",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-26",
+      "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on the Judiciary, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-03",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr5592/BILLS-119hr5592ih.pdf",
+      "doc_id": 3271699
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2051528,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "HB567",
+  "title": "Modify laws governing the Board of Nursing, nursing professionals",
+  "summary": "To amend sections 109.71, 3129.01, 3313.5310, 3333.28, 3701.69, 3701.92, 3701.921, 3705.01, 3705.30, 3707.58, 3721.011, 3728.01, 4503.44, 4723.01, 4723.063, 4723.18, 4723.181, 4723.28, 4723.34, 4723.35, 4723.36, 4723.43, 4723.431, 4723.47, 4723.481, 4723.482, 4723.483, 4723.493, 4723.52, 4723.66, 4723.67, 4723.69, 4731.297, and 5122.10 and to repeal sections 3701.923, 3701.924, 3701.925, 3701.926, 3701.927, and 3701.929 of the Revised Code and to repeal Section 105.40 of H.B. 33 of the 135th General Assembly to modify the laws governing a Board of Nursing advisory body for advanced practice registered nurses and to make various corrections in other laws pertaining to the Board and the professionals it regulates.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/HB567/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/HB567/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/hb567",
+  "sponsors": [
+    "Kellie Deeter (R) [Rep]"
+  ],
+  "introduced_date": "2025-11-04",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2025-11-04",
+      "action": "Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-05",
+      "action": "Referred to committee: Health",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb567/00_IN/pdf/",
+      "doc_id": 3283030
+    }
+  ],
+  "committee": {
+    "committee_id": 102,
+    "chamber": "H",
+    "chamber_id": 5,
+    "name": "Health"
+  },
+  "subjects": [
+    "Occupational Licensing and Regulation",
+    "State and Local Government : State Government",
+    "House Health Committee"
+  ]
+}

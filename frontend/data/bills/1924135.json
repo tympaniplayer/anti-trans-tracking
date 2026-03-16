@@ -1,0 +1,70 @@
+{
+  "id": 1924135,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "S0243",
+  "title": "Parental Rights in Education",
+  "summary": "Amend The South Carolina Code Of Laws So As To Enact The \"parental Rights In Education Act\"; By Adding Article 3 To Chapter 28, Title 59, So As To Recognize That Parents Have The Ultimate Responsibility To Direct The Upbringing, Education, Healthcare, And Mental Health Of Their Children, To Prohibit The State From Substantially Burdening Those Parental Rights, To Require The State To Obtain Parental Consent In Certain Circumstances, To Create A Cause Of Action For Violation Of The Chapter, And To Provide Necessary Definitions; And To Designate The Existing Provisions Of Chapter 28, Title 59, As Article 1 Entitled \"general Provisions.\"",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/S0243/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/S0243/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0243&session=126&summary=B",
+  "sponsors": [
+    "Richard Cash (R) [Sen]",
+    "Matthew Leber (R) [Sen]",
+    "Carlisle Kennedy (R) [Sen]",
+    "Lawrence Grooms (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-16",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-16",
+      "action": "Introduced and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-16",
+      "action": "Referred to Committee on Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Scrivener's error corrected",
+      "chamber": ""
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/243_20250116.htm",
+      "doc_id": 3061287
+    },
+    {
+      "date": "2025-01-28",
+      "type": "Draft",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/243_20250128.htm",
+      "doc_id": 3086239
+    }
+  ],
+  "committee": {
+    "committee_id": 720,
+    "chamber": "S",
+    "chamber_id": 86,
+    "name": "Education"
+  },
+  "subjects": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": 2116945,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "S2567",
+  "title": "Establishes a universal and unified healthcare system and reform the current payment system for healthcare coverage in this state.",
+  "summary": "INSURANCE -- UNIVERSAL AND UNIFIED HEALTHCARE SYSTEM ACT - Establishes a universal and unified healthcare system and reform the current payment system for healthcare coverage in this state.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/S2567/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/S2567/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Meghan Kallman (D) [Sen]",
+    "Melissa Murray (D) [Sen]",
+    "Pamela Lauria (D) [Sen]",
+    "Alana DiMario (D) [Sen]",
+    "Tiara Mack (D) [Sen]",
+    "Bridget Valverde (D) [Sen]",
+    "Linda Ujifusa (D) [Sen]",
+    "Samuel Zurier (D) [Sen]",
+    "Jonathon Acosta (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-13",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-13",
+      "action": "Introduced, referred to Senate Health and Human Services",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-13",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/SenateText26/S2567.pdf",
+      "doc_id": 3362327
+    }
+  ],
+  "committee": {
+    "committee_id": 1138,
+    "chamber": "S",
+    "chamber_id": 84,
+    "name": "Health and Human Services"
+  },
+  "subjects": [
+    "Insurance",
+    "INSURANCE -- UNIVERSAL AND UNIFIED HEALTHCARE SYSTEM ACT"
+  ]
+}

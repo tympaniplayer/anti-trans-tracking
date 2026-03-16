@@ -1,0 +1,92 @@
+{
+  "id": 2106590,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "HB553",
+  "title": "AN ACT relating to gender transition services.",
+  "summary": "Create a new section of KRS Chapter 311 to define terms; prohibit health care providers from accepting payment or reimbursement for gender transition services from a state or local government or Medicare; prohibit use of state or local government funds for the provision or subsidy of gender transition services; require licensing or certifying agencies to revoke a health care provider's license for a violation; direct that intentional violation by a public servant shall be a violation of KRS 522.030; amend KRS 15.241 to authorize the Attorney General to seek injunctive relief and penalties for a violation of gender transition services prohibitions; amend KRS 156.496 to prohibit family resource or youth services centers from providing or making referrals for gender transition services; amend KRS 39A.180 to prohibit suspension of gender transition services laws during an emergency; create new sections of Subtitle 17A of KRS Chapter 304, and KRS 205.6481 to 205.6495, and amend KRS 205.5365, 18A.225, 164.2871, and 304.17C-125, to prohibit publicly funded health plans, Medicaid, the Kentucky Children's Health Insurance Program (KCHIP), publicly funded limited health service benefit plans, the state employee health plan, and state postsecondary education institution self-insured health plans from providing payment or coverage for gender transition services; amend KRS 605.110 to direct that gender transition services are not authorized for a child committed to the custody of the Department of Juvenile Justice; state findings of the General Assembly relating to the purpose of the Act; apply certain provisions to health plans issued or renewed on or after the effective date of Act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education",
+    "definitions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/HB553/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/HB553/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/hb553.html",
+  "sponsors": [
+    "Josh Calloway (R) [Rep]",
+    "Felicia Rabourn (R) [Rep]",
+    "Steven Doan (R) [Rep]",
+    "Ryan Dotson (R) [Rep]",
+    "Candy Massaroni (R) [Rep]",
+    "T.J. Roberts (R) [Rep]",
+    "Billy Wesley (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-03",
+      "action": "introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "to Committee on Committees (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "to Banking & Insurance (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "reassigned to State Government (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb553/orig_bill.pdf",
+      "doc_id": 3346993
+    }
+  ],
+  "committee": {
+    "committee_id": 333,
+    "chamber": "H",
+    "chamber_id": 43,
+    "name": "State Government"
+  },
+  "subjects": [
+    "Appropriations",
+    "Attorney General",
+    "Children and Minors",
+    "Drugs and Medicines",
+    "Education, Elementary and Secondary",
+    "Education, Higher",
+    "Federal Laws and Regulations",
+    "Funds",
+    "Health and Medical Services",
+    "Insurance, Health",
+    "Licensing",
+    "Local Government",
+    "Medicaid",
+    "Mental Health",
+    "State Agencies",
+    "Men",
+    "Parental Rights",
+    "Women",
+    "State Employee Health Plan Mandate"
+  ]
+}

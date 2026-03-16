@@ -1,0 +1,61 @@
+{
+  "id": 2085195,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "SB1745",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 4, Chapter 21, relative to discrimination.",
+  "summary": "As introduced, enacts the \"Banning Bostock Act.\" - Amends TCA Title 4, Chapter 21.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/SB1745/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/SB1745/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB1745&ga=114",
+  "sponsors": [
+    "Janince Bowling (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-16",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-16",
+      "action": "Filed for introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Introduced, Passed on First Consideration",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Passed on Second Consideration, refer to Senate Judiciary Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-16",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1745.pdf",
+      "doc_id": 3322487
+    }
+  ],
+  "committee": {
+    "committee_id": 2499,
+    "chamber": "S",
+    "chamber_id": 90,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Sex Discrimination"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 2000397,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB934",
+  "title": "American Housing and Economic Mobility Act of 2025 Community Reinvestment Reform Act of 2025",
+  "summary": "A bill to make housing more affordable, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB934/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB934/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/934/all-info",
+  "sponsors": [
+    "Elizabeth Warren (D) [Sen]",
+    "Raphael Warnock (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Andy Kim (D) [Sen]",
+    "Ben Lujan (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-11",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-03-11",
+      "action": "Read twice and referred to the Committee on Finance.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-28",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s934/BILLS-119s934is.pdf",
+      "doc_id": 3193150
+    }
+  ],
+  "committee": {
+    "committee_id": 2326,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Finance"
+  },
+  "subjects": [
+    "Finance and financial sector"
+  ]
+}

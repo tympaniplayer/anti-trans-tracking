@@ -1,0 +1,70 @@
+{
+  "id": 2080057,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "H4915",
+  "title": "Women's Sports",
+  "summary": "Call On Congress To Reaffirm Title Ix's Protections That Afford Every Woman And Girl Equal Opportunities In Athletics And To Urge The Supreme Court Of The United States To Uphold The Authority Of Every State To Ensure Women's Sports Are Reserved For Females Only.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/H4915/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/H4915/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4915&session=126&summary=B",
+  "sponsors": [
+    "Thomas Pope (R) [Rep]",
+    "David Martin (R) [Rep]",
+    "Randy Ligon (R) [Rep]",
+    "Jackie Terribile (R) [Rep]",
+    "Dennis Moss (R) [Rep]",
+    "Davey Hiott (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Referred to Committee on Invitations and Memorial Resolutions",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Scrivener's error corrected",
+      "chamber": ""
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4915_20260114.htm",
+      "doc_id": 3317096
+    },
+    {
+      "date": "2026-01-23",
+      "type": "Draft",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4915_20260123.htm",
+      "doc_id": 3331082
+    }
+  ],
+  "committee": {
+    "committee_id": 707,
+    "chamber": "H",
+    "chamber_id": 85,
+    "name": "Invitations and Memorial Resolutions"
+  },
+  "subjects": []
+}

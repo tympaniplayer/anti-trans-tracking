@@ -1,0 +1,149 @@
+{
+  "id": 1926692,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB498",
+  "title": "Do No Harm in Medicaid Act",
+  "summary": "To amend title XIX of the Social Security Act to prohibit Federal Medicaid funding for gender transition procedures for minors.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB498/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB498/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/498/all-info",
+  "sponsors": [
+    "Dan Crenshaw (R) [Rep]",
+    "Marjorie Greene (R) [Rep]",
+    "Randy Weber (R) [Rep]",
+    "Greg Steube (R) [Rep]",
+    "Warren Davidson (R) [Rep]",
+    "Glenn Grothman (R) [Rep]",
+    "Anna Luna (R) [Rep]"
+  ],
+  "introduced_date": "2025-12-18",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-01-16",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-16",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-17",
+      "action": "Rules Committee Resolution H. Res. 953 Reported to House. Rule provides for consideration of H.R. 6703, H.R. 498 and H.R. 3492. The resolution provides for consideration of H.R. 6703 and H.R. 498 under a closed rule and H.R. 3492 under a structured rule with one hour of general debate and one motion to recommit on each bill.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-18",
+      "action": "Considered under the provisions of rule H. Res. 953. (consideration: CR H6057-6065)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-18",
+      "action": "Rule provides for consideration of H.R. 6703, H.R. 498 and H.R. 3492. The resolution provides for consideration of H.R. 6703 and H.R. 498 under a closed rule and H.R. 3492 under a structured rule with one hour of general debate and one motion to recommit on each bill.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-18",
+      "action": "DEBATE - The House proceeded with one hour of debate on H.R. 498.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-18",
+      "action": "The previous question was ordered pursuant to the rule.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-18",
+      "action": "Mr. Soto moved to recommit to the Committee on Energy and Commerce. (text: CR H6065)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-18",
+      "action": "The previous question on the motion to recommit was ordered pursuant to clause 2(b) of rule XIX.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-18",
+      "action": "POSTPONED PROCEEDINGS - At the conclusion of debate on H.R. 498, the Chair put the question on motion to recommit and by voice vote announced that the noes had prevailed. Mr. Soto demanded the yeas and nays and the Chair postponed further proceedings until a time to be announced.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-18",
+      "action": "Considered as unfinished business. (consideration: CR H6072-6073)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-18",
+      "action": "On motion to recommit Failed by the Yeas and Nays: 204 - 212 (Roll no. 361).",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-18",
+      "action": "On passage Passed by the Yeas and Nays: 215 - 201 (Roll no. 362). (text: CR H6057)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-18",
+      "action": "Motion to reconsider laid on the table Agreed to without objection.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-18",
+      "action": "Received in the Senate and Read twice and referred to the Committee on Finance.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-12-18",
+      "description": "On Motion to Recommit RC# 361",
+      "yea": 204,
+      "nay": 212,
+      "passed": 0
+    },
+    {
+      "date": "2025-12-18",
+      "description": "On Passage RC# 362",
+      "yea": 215,
+      "nay": 201,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-19",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr498/BILLS-119hr498ih.pdf",
+      "doc_id": 3132112
+    },
+    {
+      "date": "2025-12-19",
+      "type": "Engrossed",
+      "url": "https://www.congress.gov/119/bills/hr498/BILLS-119hr498eh.pdf",
+      "doc_id": 3292521
+    }
+  ],
+  "committee": {
+    "committee_id": 2326,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Finance"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

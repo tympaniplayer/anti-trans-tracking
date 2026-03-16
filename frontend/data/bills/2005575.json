@@ -1,0 +1,64 @@
+{
+  "id": 2005575,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB977",
+  "title": "End Taxpayer Funding of Gender Experimentation Act of 2025",
+  "summary": "A bill to prohibit taxpayer-funded gender transition procedures, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB977/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB977/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/977/all-info",
+  "sponsors": [
+    "Roger Marshall (R) [Sen]",
+    "Cindy Hyde-Smith (R) [Sen]",
+    "Kevin Cramer (R) [Sen]",
+    "Josh Hawley (R) [Sen]",
+    "Ted Budd (R) [Sen]",
+    "Lindsey Graham (R) [Sen]",
+    "Tim Sheehy (R) [Sen]",
+    "Marsha Blackburn (R) [Sen]",
+    "Jim Banks (R) [Sen]",
+    "Roger Wicker (R) [Sen]",
+    "Mike Lee (R) [Sen]",
+    "Cynthia Lummis (R) [Sen]",
+    "James Risch (R) [Sen]",
+    "Rick Scott (R) [Sen]"
+  ],
+  "introduced_date": "2025-03-12",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-03-12",
+      "action": "Read twice and referred to the Committee on Finance.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-01",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s977/BILLS-119s977is.pdf",
+      "doc_id": 3197915
+    }
+  ],
+  "committee": {
+    "committee_id": 2326,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Finance"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 2117087,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB1928",
+  "title": "Sex equity: sexual harassment complaints.",
+  "summary": "An act to amend Section 66281.8 of the Education Code, relating to education.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB1928/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB1928/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1928",
+  "sponsors": [
+    "Mike Fong (D) [Rep]",
+    "Dave Cortese (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-13",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-13",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-14",
+      "action": "From printer. May be heard in committee March 16.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Referred to Coms. on HIGHER ED. and JUD.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-13",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1928#99INT",
+      "doc_id": 3362827
+    }
+  ],
+  "committee": {
+    "committee_id": 458,
+    "chamber": "A",
+    "chamber_id": 19,
+    "name": "Higher Education"
+  },
+  "subjects": []
+}

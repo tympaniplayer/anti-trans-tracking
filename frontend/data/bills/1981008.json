@@ -1,0 +1,51 @@
+{
+  "id": 1981008,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S05503",
+  "title": "Prohibits discrimination on the basis of a person's height or weight in opportunities of employment, housing, and access to public accommodations.",
+  "summary": "Prohibits discrimination on the basis of a person's height or weight in opportunities of employment, housing, and access to public accommodations.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S05503/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S05503/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S5503",
+  "sponsors": [
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Liz Krueger (D) [Sen]",
+    "Lea Webb (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-24",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-24",
+      "action": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-24",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S05503&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S05503",
+      "doc_id": 3138078
+    }
+  ],
+  "committee": {
+    "committee_id": 433,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Investigations and Government Operations"
+  },
+  "subjects": []
+}

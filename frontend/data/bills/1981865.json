@@ -1,0 +1,164 @@
+{
+  "id": 1981865,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "AB58",
+  "title": "Flags flown, hung, or displayed from a flagpole or the exterior of state and local buildings and eliminating a related administrative rule.",
+  "summary": "An Act to create 1.14 (1m) of the statutes; Relating to: flags flown, hung, or displayed from a flagpole or the exterior of state and local buildings and eliminating a related administrative rule.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/AB58/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/AB58/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab58",
+  "sponsors": [
+    "Jerry O'Connor (R) [Rep]",
+    "David Murphy (R) [Rep]",
+    "Robert Brooks (R) [Rep]",
+    "Joy Goeben (R) [Rep]",
+    "Chanz Green (R) [Rep]",
+    "Brent Jacobson (R) [Rep]",
+    "Rob Kreibich (R) [Rep]",
+    "Rick Gundrum (R) [Rep]",
+    "Barbara Dittrich (R) [Rep]",
+    "William Penterman (R) [Rep]",
+    "David Armstrong (R) [Rep]",
+    "Chuck Wichgers (R) [Rep]",
+    "Dan Knodl (R) [Rep]",
+    "Elijah Behnke (R) [Rep]",
+    "Dan Feyen (R) [Sen]",
+    "Cory Tomczyk (R) [Sen]"
+  ],
+  "introduced_date": "2025-09-11",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-24",
+      "action": "Introduced",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Read first time and referred to Committee on State Affairs",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Public hearing held",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Executive action taken",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "Report passage recommended by Committee on State Affairs, Ayes 5, Noes 1",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "Referred to committee on Rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-09",
+      "action": "Withdrawn from Committee on Rules and referred to calendar of 9-11-2025",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-11",
+      "action": "Read a second time",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-11",
+      "action": "Assembly Substitute Amendment 1 offered by Representative Rivera-Wagner",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-11",
+      "action": "Point of order that Assembly Substitute Amendment 1 not germane under Assembly Rule 54 (3)(f) well taken",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-11",
+      "action": "Decision of the Chair appealed",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-11",
+      "action": "Decision of the Chair upheld, Ayes 51, Noes 44",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-11",
+      "action": "Ordered to a third reading",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-11",
+      "action": "Rules suspended",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-11",
+      "action": "Read a third time and passed, Ayes 50, Noes 44, Paired 4",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-11",
+      "action": "Ordered immediately messaged",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-11",
+      "action": "Received from Assembly",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-12",
+      "action": "Read first time and referred to committee on Licensing, Regulatory Reform, State and Federal Affairs",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-09-11",
+      "description": "Assembly: Decision of the Chair upheld",
+      "yea": 51,
+      "nay": 44,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-11",
+      "description": "Assembly: Read a third time and passed",
+      "yea": 50,
+      "nay": 44,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-24",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AB58.pdf",
+      "doc_id": 3139085
+    }
+  ],
+  "committee": {
+    "committee_id": 5127,
+    "chamber": "S",
+    "chamber_id": 100,
+    "name": "Licensing, Regulatory Reform, State and Federal Affairs"
+  },
+  "subjects": []
+}

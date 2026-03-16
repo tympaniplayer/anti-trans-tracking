@@ -1,0 +1,49 @@
+{
+  "id": 2091642,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S09028",
+  "title": "Prohibits employers from engaging in discrimination on the basis of a protected class when using artificial intelligence for recruitment, hiring, promotion, renewal of employment, selection for training or apprenticeship, discharge, discipline, tenure, or the terms, privileges, or conditions of employment.",
+  "summary": "Prohibits employers from engaging in discrimination on the basis of a protected class when using artificial intelligence for recruitment, hiring, promotion, renewal of employment, selection for training or apprenticeship, discharge, discipline, tenure, or the terms, privileges, or conditions of employment.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S09028/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S09028/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S9028",
+  "sponsors": [
+    "Alexis Weik (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-23",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S09028&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S09028",
+      "doc_id": 3330133
+    }
+  ],
+  "committee": {
+    "committee_id": 433,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Investigations and Government Operations"
+  },
+  "subjects": []
+}

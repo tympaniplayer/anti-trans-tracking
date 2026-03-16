@@ -1,0 +1,97 @@
+{
+  "id": 2027391,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB1503",
+  "title": "Equality Act",
+  "summary": "A bill to prohibit discrimination on the basis of sex, gender identity, and sexual orientation, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB1503/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB1503/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1503/all-info",
+  "sponsors": [
+    "Jeff Merkley (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Angela Alsobrooks (D) [Sen]",
+    "Michael Bennet (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Lisa Rochester (D) [Sen]",
+    "Maria Cantwell (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Catherine Cortez Masto (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "John Fetterman (D) [Sen]",
+    "Ruben Gallego (D) [Sen]",
+    "Kirsten Gillibrand (D) [Sen]",
+    "Margaret Hassan (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "John Hickenlooper (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Tim Kaine (D) [Sen]",
+    "Mark Kelly (D) [Sen]",
+    "Andy Kim (D) [Sen]",
+    "Angus King (I) [Sen]",
+    "Amy Klobuchar (D) [Sen]",
+    "Ben Lujan (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Christopher Murphy (D) [Sen]",
+    "Patty Murray (D) [Sen]",
+    "Jon Ossoff (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Gary Peters (D) [Sen]",
+    "Jack Reed (D) [Sen]",
+    "Jacky Rosen (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Brian Schatz (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Charles Schumer (D) [Sen]",
+    "Jeanne Shaheen (D) [Sen]",
+    "Elissa Slotkin (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Mark Warner (D) [Sen]",
+    "Raphael Warnock (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Sheldon Whitehouse (D) [Sen]",
+    "Ron Wyden (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-29",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-04-29",
+      "action": "Read twice and referred to the Committee on the Judiciary.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-08",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s1503/BILLS-119s1503is.pdf",
+      "doc_id": 3233224
+    }
+  ],
+  "committee": {
+    "committee_id": 2330,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

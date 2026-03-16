@@ -1,0 +1,72 @@
+{
+  "id": 2112630,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB7421",
+  "title": "SAFE Olympic Sports Act Securing Actual Female Events in Olympic Sports Act",
+  "summary": "To amend title 36, United States Code, to provide that a national governing body shall have as an eligibility criteria related to participation in the Olympic Games, a requirement that an amateur athlete may only participate in events corresponding to the sex of such athlete, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB7421/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB7421/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/7421/all-info",
+  "sponsors": [
+    "Michael Cloud (R) [Rep]",
+    "Daniel Webster (R) [Rep]",
+    "John Rose (R) [Rep]",
+    "Anna Luna (R) [Rep]",
+    "Mary Miller (R) [Rep]",
+    "Clay Higgins (R) [Rep]",
+    "Claudia Tenney (R) [Rep]",
+    "Lauren Boebert (R) [Rep]",
+    "Burgess Owens (R) [Rep]",
+    "Blake Moore (R) [Rep]",
+    "Barry Moore (R) [Rep]",
+    "Nancy Mace (R) [Rep]",
+    "Randy Fine (R) [Rep]",
+    "Abraham Hamadeh (R) [Rep]",
+    "Elijah Crane (R) [Rep]",
+    "Sheri Biggs (R) [Rep]",
+    "Michael Rulli (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-09",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-02-09",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-11",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr7421/BILLS-119hr7421ih.pdf",
+      "doc_id": 3359424
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Sports and recreation"
+  ]
+}

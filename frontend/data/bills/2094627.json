@@ -1,0 +1,187 @@
+{
+  "id": 2094627,
+  "state": "SD",
+  "state_name": "South Dakota",
+  "bill_number": "HB1161",
+  "title": "Amend provisions related to changing rooms, sleeping quarters, and restrooms.",
+  "summary": "Amend provisions related to changing rooms, sleeping quarters, and restrooms.",
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SD/bill/HB1161/2026",
+  "legiscan_url": "https://legiscan.com/SD/bill/HB1161/2026",
+  "state_url": "https://sdlegislature.gov/#/Session/Bill/27032",
+  "sponsors": [
+    "David Kull (R) [Rep]",
+    "Glen Vilhauer (R) [Sen]",
+    "Helene Duhamel (R) [Sen]",
+    "Eric Emery (D) [Rep]",
+    "Trish Ladner (R) [Rep]",
+    "Tim Reed (R) [Rep]",
+    "Kent Roe (R) [Rep]"
+  ],
+  "introduced_date": "2026-03-05",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-28",
+      "action": "First read in House and referred to House State Affairs H.J. 165",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Scheduled for hearing",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "State Affairs Motion to amend, Passed H.J. 13 Amendment 1161A",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "State Affairs Deferred to the 41st legislative day, Passed, YEAS 7, NAYS 5. H.J. 13",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "State Affairs Recalled, Passed, YEAS 8, NAYS 4.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Scheduled for hearing",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "State Affairs Motion to amend, Passed Amendment 1161C",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "State Affairs Do Pass Amended, Passed, YEAS 12, NAYS 0.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "House of Representatives Do Pass Amended, Passed, YEAS 62, NAYS 4. H.J. 425",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "First read in Senate and referred to Senate Local Government S.J. 398",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Scheduled for hearing",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Local Government Do Pass, Passed, YEAS 7, NAYS 0.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Certified uncontested, placed on consent",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Senate Do Pass Amended, Passed, YEAS 34, NAYS 0. S.J. 481",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Signed by the Speaker H.J. 542",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Signed by the President S.J. 512",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Delivered to the Governor on March 11, 2026 H.J. 556",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-06",
+      "description": "Deferred to the 41st legislative day",
+      "yea": 7,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-11",
+      "description": "Recalled",
+      "yea": 8,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "Do Pass Amended",
+      "yea": 12,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-24",
+      "description": "Do Pass Amended",
+      "yea": 62,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-04",
+      "description": "Do Pass",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-05",
+      "description": "Do Pass Amended",
+      "yea": 34,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-27",
+      "type": "Introduced",
+      "url": "https://mylrc.sdlegislature.gov/api/Documents/298209.pdf",
+      "doc_id": 3333433
+    },
+    {
+      "date": "2026-02-20",
+      "type": "Comm Sub",
+      "url": "https://mylrc.sdlegislature.gov/api/Documents/304272.pdf",
+      "doc_id": 3370088
+    },
+    {
+      "date": "2026-03-09",
+      "type": "Enrolled",
+      "url": "https://mylrc.sdlegislature.gov/api/Documents/306446.pdf",
+      "doc_id": 3388330
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Personal Rights and Obligations"
+  ]
+}

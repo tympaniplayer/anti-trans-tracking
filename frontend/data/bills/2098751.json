@@ -1,0 +1,52 @@
+{
+  "id": 2098751,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A441",
+  "title": "Establishes the \"New Jersey Health Care and Privacy Protection Act\"; bars disclosure of certain geolocation data.",
+  "summary": "Establishes the \"New Jersey Health Care and Privacy Protection Act\"; bars disclosure of certain geolocation data.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A441/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A441/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A441",
+  "sponsors": [
+    "Michael Venezia (D) [Rep]",
+    "Carmen Morales (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Science, Innovation and Technology Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-25",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A0500/441_I1.HTM",
+      "doc_id": 3337830
+    }
+  ],
+  "committee": {
+    "committee_id": 3753,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Science, Innovation and Technology"
+  },
+  "subjects": [
+    "Science, Innovation and Technology"
+  ]
+}

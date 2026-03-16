@@ -1,0 +1,56 @@
+{
+  "id": 1901974,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB166",
+  "title": "Fair Lending for All Act",
+  "summary": "To establish an Office of Fair Lending Testing to test for compliance with the Equal Credit Opportunity Act, to strengthen the Equal Credit Opportunity Act, to ensure that persons injured by discriminatory practices, including organizations that have diverted resources to address discrimination and whose mission has been frustrated by illegal acts, can seek relief under such Act and to provide for criminal penalties for violating such Act, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB166/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB166/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/166/all-info",
+  "sponsors": [
+    "Al Green (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-03",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-01-03",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-03",
+      "action": "Referred to the House Committee on Financial Services.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-04",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr166/BILLS-119hr166ih.pdf",
+      "doc_id": 3097492
+    }
+  ],
+  "committee": {
+    "committee_id": 2304,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Financial Services"
+  },
+  "subjects": [
+    "Finance and financial sector"
+  ]
+}

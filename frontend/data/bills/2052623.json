@@ -1,0 +1,90 @@
+{
+  "id": 2052623,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "SJR109",
+  "title": "Recognizing October 26 in 2025 and 2026, as Intersex Awareness Day in Wisconsin.",
+  "summary": "Relating to: recognizing October 26 in 2025 and 2026, as Intersex Awareness Day in Wisconsin.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/SJR109/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/SJR109/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/joint_resolution/sjr109",
+  "sponsors": [
+    "Mark Spreitzer (D) [Sen]",
+    "Timothy Carpenter (D) [Sen]",
+    "Kristin Dassler-Alfheim (D) [Sen]",
+    "Kelda Roys (D) [Sen]",
+    "Melissa Ratcliff (D) [Sen]",
+    "Christopher Larson (D) [Sen]",
+    "Dianne Hesselbein (D) [Sen]",
+    "Angela Stroud (D) [Rep]",
+    "Lee Snodgrass (D) [Rep]",
+    "Randy Udell (D) [Rep]",
+    "Angelina Cruz (D) [Rep]",
+    "Amaad Rivera-Wagner (D) [Rep]",
+    "Ryan Spaude (D) [Rep]",
+    "Ryan Clancy (D) [Rep]",
+    "Margaret Arney (D) [Rep]",
+    "Clinton Anderson (D) [Rep]",
+    "Mike Bare (D) [Rep]",
+    "Alex Joers (D) [Rep]",
+    "Darrin Madison (D) [Rep]",
+    "Supreme Omokunde (D) [Rep]",
+    "Robyn Vining (D) [Rep]",
+    "Tara Johnson (D) [Rep]"
+  ],
+  "introduced_date": "2025-11-14",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-11-14",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-14",
+      "action": "Read and referred to Committee on Senate Organization",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-14",
+      "action": "Available for scheduling",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-14",
+      "action": "Representative Palmeri added as a cosponsor",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-24",
+      "action": "Representative Subeck added as a cosponsor",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Representative J. Jacobson added as a cosponsor",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-14",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/SJR109.pdf",
+      "doc_id": 3284321
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

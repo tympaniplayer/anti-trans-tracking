@@ -1,0 +1,109 @@
+{
+  "id": 1932202,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5426",
+  "title": "Improving developmentally appropriate alternatives for youth outside the formal court process.",
+  "summary": "Improving developmentally appropriate alternatives for youth outside the formal court process.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5426/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5426/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5426&Year=2025&Initiative=false",
+  "sponsors": [
+    "Claire Wilson (D) [Sen]",
+    "Noel Frame (D) [Sen]",
+    "Robert Hasegawa (D) [Sen]",
+    "T'wina Nobles (D) [Sen]",
+    "Rebecca Saldana (D) [Sen]",
+    "Yasmin Trudeau (D) [Sen]",
+    "Javier Valdez (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-22",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-22",
+      "action": "First reading, referred to Human Services.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-29",
+      "action": "Public hearing in the Senate Committee on Human Services at 8:00 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Executive action taken in the Senate Committee on Human Services at 8:00 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "HS - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Minority; do not pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "And refer to Ways & Means.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Referred to Ways & Means.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Public hearing in the Senate Committee on Ways & Means at 4:00 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-05",
+      "description": "Senate Committee on Human Services: 1st substitute bill be substituted, do pass",
+      "yea": 2,
+      "nay": 2,
+      "passed": 0
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5426.pdf",
+      "doc_id": 3069809
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5426-S.pdf",
+      "doc_id": 3106236
+    }
+  ],
+  "committee": {
+    "committee_id": 962,
+    "chamber": "S",
+    "chamber_id": 98,
+    "name": "Ways & Means"
+  },
+  "subjects": []
+}

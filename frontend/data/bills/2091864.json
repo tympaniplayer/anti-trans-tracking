@@ -1,0 +1,71 @@
+{
+  "id": 2091864,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "HB2052",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 47 and Title 53, relative to consumer protection.",
+  "summary": "As introduced, requires certain food retail establishments to use a nondigital presentation of price; prohibits a food retail establishment from using personalized algorithmic pricing; makes other changes related to food retail establishments. - Amends TCA Title 47 and Title 53.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/HB2052/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/HB2052/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB2052&ga=114",
+  "sponsors": [
+    "Karen Camper (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Filed for introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Intro., P1C.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "P2C, ref. to Commerce Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Assigned to s/c Banking & Consumer Affairs Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Placed on s/c cal Banking & Consumer Affairs Subcommittee for 3/4/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Taken off notice for cal in s/c Banking and Consumer Affairs Subcommittee of Commerce Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-23",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB2052.pdf",
+      "doc_id": 3330348
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Consumer Protection"
+  ]
+}

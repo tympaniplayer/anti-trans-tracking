@@ -1,0 +1,82 @@
+{
+  "id": 1989846,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB3616",
+  "title": "Relating to prohibiting social transitioning assistance to minors by employees of governmental entities, including public schools, and health care facilities; authorizing civil penalties and loss of school funding.",
+  "summary": "Relating to prohibiting social transitioning assistance to minors by employees of governmental entities, including public schools, and health care facilities; authorizing civil penalties and loss of school funding.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB3616/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB3616/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3616",
+  "sponsors": [
+    "Nate Schatzline (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-03",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-03",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Referred to State Affairs",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-03",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB03616I.htm",
+      "doc_id": 3150165
+    }
+  ],
+  "committee": {
+    "committee_id": 1895,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "Civil Remedies & Liabilities",
+    "Education",
+    "Education--Primary & Secondary",
+    "Education--Primary & Secondary--Charter Schools",
+    "Education--Primary & Secondary--Other School Personnel",
+    "Education--Primary & Secondary--Teachers",
+    "Education--School Districts",
+    "Family",
+    "Family--Parent & Child",
+    "Health Care Providers",
+    "Health",
+    "Health--Other Diseases & Medical Conditions",
+    "Minors",
+    "Minors--Health & Safety",
+    "Political Subdivisions",
+    "State Agencies, Boards & Commissions",
+    "GENDER IDENTITY & EXPRESSION",
+    "PARENTAL NOTIFICATION",
+    "PARENTAL RIGHTS",
+    "EDUCATION, COMMISSIONER OF"
+  ]
+}

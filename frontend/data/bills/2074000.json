@@ -1,0 +1,98 @@
+{
+  "id": 2074000,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "HB3132",
+  "title": "Higher education; Selecting Neutral Accreditors Act; review for diversity, equity, and inclusion practices and procedures; Attorney General enforcement; effective date.",
+  "summary": "Higher education; Selecting Neutral Accreditors Act; review for diversity, equity, and inclusion practices and procedures; Attorney General enforcement; effective date.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/HB3132/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/HB3132/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=hb3132&Session=2600",
+  "sponsors": [
+    "Kevin West (R) [Rep]",
+    "Randy Grellner (R) [Sen]",
+    "Denise Hader (R) [Rep]",
+    "Cody Maynard (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Authored by Representative West (Kevin)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Second Reading referred to Education Oversight",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Referred to Postsecondary Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Policy recommendation to the Education Oversight committee; Do Pass Postsecondary Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Authored by Senator Grellner (principal Senate author)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "CR; Do Pass Education Oversight Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-10",
+      "description": "House: Postsecondary Education Committee: DO PASS",
+      "yea": 6,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-25",
+      "description": "House: Education Oversight Committee: DO PASS",
+      "yea": 7,
+      "nay": 2,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-13",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/hB/HB3132%20INT.PDF",
+      "doc_id": 3311003
+    },
+    {
+      "date": "2026-03-02",
+      "type": "Amended",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20FLR/HFLR/HB3132%20HFLR.PDF",
+      "doc_id": 3381562
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

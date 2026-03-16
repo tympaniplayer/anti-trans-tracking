@@ -1,0 +1,62 @@
+{
+  "id": 2095454,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB3702",
+  "title": "Dignity for Detained Immigrants Act",
+  "summary": "A bill to provide standards for facilities at which aliens in the custody of the Department of Homeland Security are detained, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB3702/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB3702/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3702/all-info",
+  "sponsors": [
+    "Cory Booker (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Patty Murray (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Andy Kim (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Jeff Merkley (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-27",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-01-27",
+      "action": "Read twice and referred to the Committee on the Judiciary.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-18",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s3702/BILLS-119s3702is.pdf",
+      "doc_id": 3367563
+    }
+  ],
+  "committee": {
+    "committee_id": 2330,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Immigration"
+  ]
+}

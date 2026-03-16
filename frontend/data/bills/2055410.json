@@ -1,0 +1,59 @@
+{
+  "id": 2055410,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "SB1334",
+  "title": "Establishes the Vulnerable Child Compassion and Protection Act prohibiting discussion of certain topics by school personnel",
+  "summary": "Establishes the Vulnerable Child Compassion and Protection Act prohibiting discussion of certain topics by school personnel",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/SB1334/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/SB1334/2026",
+  "state_url": "https://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=395",
+  "sponsors": [
+    "Mike Moon (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Prefiled",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "S First Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Second Read and Referred S Education Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-17",
+      "type": "Introduced",
+      "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1334.pdf",
+      "doc_id": 3291691
+    }
+  ],
+  "committee": {
+    "committee_id": 2263,
+    "chamber": "S",
+    "chamber_id": 60,
+    "name": "Education"
+  },
+  "subjects": []
+}

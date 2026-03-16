@@ -1,0 +1,59 @@
+{
+  "id": 2044692,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB5474",
+  "title": "No DEI in DC Act No Diversity, Equity, and Inclusion in the District of Columbia Act",
+  "summary": "To ensure equal protection of the law and prevent racism in the Government of the District of Columbia by prohibiting the Government of the District of Columbia from engaging in certain diversity, equity, or inclusion practices or conducting racial equity training, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB5474/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB5474/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/5474/all-info",
+  "sponsors": [
+    "Nancy Mace (R) [Rep]",
+    "Lauren Boebert (R) [Rep]",
+    "Barry Moore (R) [Rep]",
+    "Tim Burchett (R) [Rep]"
+  ],
+  "introduced_date": "2025-09-18",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-09-18",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-18",
+      "action": "Referred to the House Committee on Oversight and Government Reform.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-29",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr5474/BILLS-119hr5474ih.pdf",
+      "doc_id": 3282549
+    }
+  ],
+  "committee": {
+    "committee_id": 2311,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Oversight And Government Reform"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

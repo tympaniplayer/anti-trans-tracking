@@ -1,0 +1,56 @@
+{
+  "id": 2111863,
+  "state": "ID",
+  "state_name": "Idaho",
+  "bill_number": "H0606",
+  "title": "Adds to existing law to prohibit a person from entering a restroom or changing room of the opposite sex, to provide a penalty, and to provide exceptions.",
+  "summary": "INDECENCY AND OBSCENITY -- Adds to existing law to prohibit a person from entering a restroom or changing room of the opposite sex, to provide a penalty, and to provide exceptions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ID/bill/H0606/2026",
+  "legiscan_url": "https://legiscan.com/ID/bill/H0606/2026",
+  "state_url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0606/",
+  "sponsors": [
+    "State Affairs Committee [Rep]"
+  ],
+  "introduced_date": "2026-02-09",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-09",
+      "action": "Introduced, read first time, referred to JRA for Printing",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Reported Printed and Referred to Judiciary, Rules & Administration",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0606.pdf",
+      "doc_id": 3353082
+    }
+  ],
+  "committee": {
+    "committee_id": 1525,
+    "chamber": "H",
+    "chamber_id": 33,
+    "name": "Judiciary, Rules and Administration"
+  },
+  "subjects": [
+    "INDECENCY AND OBSCENITY"
+  ]
+}

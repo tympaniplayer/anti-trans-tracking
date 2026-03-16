@@ -1,0 +1,62 @@
+{
+  "id": 1988556,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "SB360",
+  "title": "Providing for solitary confinement.",
+  "summary": "An Act amending Title 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, providing for solitary confinement.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/SB360/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/SB360/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/sb360",
+  "sponsors": [
+    "Vincent Hughes (D) [Sen]",
+    "John Kane (D) [Sen]",
+    "Katie Muth (D) [Sen]",
+    "Carolyn Comitta (D) [Sen]",
+    "Timothy Kearney (D) [Sen]",
+    "Nikil Saval (D) [Sen]",
+    "Arthur Haywood (D) [Sen]",
+    "Judy Schwank (D) [Sen]",
+    "Christine Tartaglione (D) [Sen]",
+    "Jay Costa (D) [Sen]",
+    "Sharif Street (D) [Sen]",
+    "Lindsey Williams (D) [Sen]",
+    "Maria Collett (D) [Sen]",
+    "Amanda Cappelletti (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-28",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-28",
+      "action": "Referred to Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB0360/PN0306",
+      "doc_id": 3147939
+    }
+  ],
+  "committee": {
+    "committee_id": 77,
+    "chamber": "S",
+    "chamber_id": 4,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

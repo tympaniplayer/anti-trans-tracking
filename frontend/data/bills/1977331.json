@@ -1,0 +1,89 @@
+{
+  "id": 1977331,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "HF1233",
+  "title": "Women's athletics exemption created in the Human Rights Act.",
+  "summary": "Women's athletics exemption created in the Human Rights Act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "religious_exemptions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/HF1233/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/HF1233/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1233/",
+  "sponsors": [
+    "Natalie Zeleznikar (R) [Rep]",
+    "Harry Niska (R) [Rep]",
+    "Krista Knudsen (R) [Rep]",
+    "Elliott Engen (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-20",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-02-20",
+      "action": "Introduction and first reading, referred to Judiciary Finance and Civil Law",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Author added Knudsen",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Author added Engen",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Committee report, to adopt as amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Second reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "House rule 1.21, placed on Calendar for the Day Wednesday, March 12, 2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Motion to lay on the table",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Motion prevailed",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-19",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1233/versions/0/pdf/",
+      "doc_id": 3133164
+    },
+    {
+      "date": "2025-03-10",
+      "type": "Engrossed",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1233/versions/1/pdf/",
+      "doc_id": 3161083
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

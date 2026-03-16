@@ -1,0 +1,74 @@
+{
+  "id": 2063827,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HB268",
+  "title": "Relating To Sex-based Athletic Competitions In Sports.",
+  "summary": "Requires the department of education to designate athletic sports teams based on the biological sex assigned to players at birth. Prevents males from participating in female sports.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HB268/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HB268/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=268&year=2026",
+  "sponsors": [
+    "David Alcos (R) [Rep]",
+    "Diamond Garcia (R) [Rep]",
+    "Gene Ward (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-17",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-16",
+      "action": "Pending introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-17",
+      "action": "Introduced and Pass First Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Referred to EDN, JHA, referral sheet 1",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB268_.HTM",
+      "doc_id": 3297784
+    }
+  ],
+  "committee": {
+    "committee_id": 2036,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Education"
+  },
+  "subjects": [
+    "Education",
+    "Athletics",
+    "Competitions",
+    "Gender",
+    "Sex",
+    "Sports"
+  ]
+}

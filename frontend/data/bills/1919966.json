@@ -1,0 +1,66 @@
+{
+  "id": 1919966,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "S0162",
+  "title": "Vital Statistics - Changes to Birth Certificates",
+  "summary": "Amend The South Carolina Code Of Laws By Amending Section 44-63-100, Relating To The Process Through Which A Person May Make Changes To His Birth Certificate, So As To Provide That Gender Changes To A Person's Birth Certificate May Only Be To Change From Male To Female Or From Female To Male, And To Provide For The Circumstances And Timing Limitations Of Gender Changes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "identity_documents"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/S0162/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/S0162/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0162&session=126&summary=B",
+  "sponsors": [
+    "Danny Verdin (R) [Sen]",
+    "Billy Garrett (R) [Sen]",
+    "Matthew Leber (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-14",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-14",
+      "action": "Introduced and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Referred to Committee on Medical Affairs",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Introduced and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Referred to Committee on Medical Affairs",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-14",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/162_20250114.htm",
+      "doc_id": 3057158
+    }
+  ],
+  "committee": {
+    "committee_id": 731,
+    "chamber": "S",
+    "chamber_id": 86,
+    "name": "Medical Affairs"
+  },
+  "subjects": []
+}

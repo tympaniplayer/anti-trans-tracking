@@ -1,0 +1,74 @@
+{
+  "id": 2040635,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB4769",
+  "title": "Foster Youth Mentoring Act of 2025",
+  "summary": "To support the establishment or expansion and operation of programs using a network of public and private community entities to provide mentoring for children and youth with experience in foster care.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB4769/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB4769/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4769/all-info",
+  "sponsors": [
+    "Mary Gay Scanlon (D) [Rep]",
+    "Don Bacon (R) [Rep]",
+    "Sean Casten (D) [Rep]",
+    "Sheila Cherfilus-McCormick (D) [Rep]",
+    "Emanuel Cleaver (D) [Rep]",
+    "Gwen Moore (D) [Rep]",
+    "Zachary Nunn (R) [Rep]",
+    "Terri Sewell (D) [Rep]",
+    "Marc Veasey (D) [Rep]",
+    "Nikema Williams (D) [Rep]",
+    "John Larson (D) [Rep]",
+    "Veronica Escobar (D) [Rep]",
+    "Deborah Ross (D) [Rep]",
+    "Lateefah Simon (D) [Rep]",
+    "Dwight Evans (D) [Rep]",
+    "Josh Harder (D) [Rep]",
+    "Sarah McBride (D) [Rep]",
+    "Steve Cohen (D) [Rep]",
+    "Seth Magaziner (D) [Rep]"
+  ],
+  "introduced_date": "2025-07-25",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-07-25",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-25",
+      "action": "Referred to the House Committee on Ways and Means.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-08-06",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr4769/BILLS-119hr4769ih.pdf",
+      "doc_id": 3264077
+    }
+  ],
+  "committee": {
+    "committee_id": 2317,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Ways And Means"
+  },
+  "subjects": [
+    "Families"
+  ]
+}

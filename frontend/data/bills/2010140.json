@@ -1,0 +1,69 @@
+{
+  "id": 2010140,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A06927",
+  "title": "Provides that prescription labels for gonadotropin-releasing hormone agonists, pubertal suppressants, anabolic steroids, alpha reductase inhibitors, progestins, or drug classes for hormone replacement therapy maybe include the name of the dispensing practice instead of the prescriber; provides for notice to patients.",
+  "summary": "Provides that prescription labels for gonadotropin-releasing hormone agonists, pubertal suppressants, anabolic steroids, alpha reductase inhibitors, progestins, or drug classes for hormone replacement therapy maybe include the name of the dispensing practice instead of the prescriber; provides for notice to patients.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A06927/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A06927/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A6927",
+  "sponsors": [
+    "Tony Simone (D) [Rep]",
+    "Yudelka Tapia (D) [Rep]",
+    "Harvey Epstein (D) [Rep]",
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "Maryjane Shimsky (D) [Rep]",
+    "Deborah Glick (D) [Rep]",
+    "Tommy Schiavoni (D) [Rep]",
+    "Jennifer Lunsford (D) [Rep]",
+    "Gabriella Romero (D) [Rep]",
+    "Demond Meeks (D) [Rep]",
+    "Harry Bronson (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Linda Rosenthal (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-18",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-18",
+      "action": "referred to higher education",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to higher education",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-18",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06927&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06927",
+      "doc_id": 3179762
+    }
+  ],
+  "committee": {
+    "committee_id": 370,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Higher Education"
+  },
+  "subjects": []
+}

@@ -1,0 +1,72 @@
+{
+  "id": 2049126,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "HB1911",
+  "title": "Mental health; definitions; 988 Suicide and Crisis Lifeline System; administrative structure; evaluation; workforce retention; trust fund; telecommunication fee; maximization of federal funding; effective date.",
+  "summary": "Mental health; definitions; 988 Suicide and Crisis Lifeline System; administrative structure; evaluation; workforce retention; trust fund; telecommunication fee; maximization of federal funding; effective date.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/HB1911/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/HB1911/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=hb1911&Session=2600",
+  "sponsors": [
+    "Arturo Alonso-Sandoval (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Authored by Representative Alonso-Sandoval",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Second Reading referred to Health and Human Services Oversight",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Referred to Public Health",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-24",
+      "description": "House: Public Health Committee: DO PASS AS AMENDED BY CS",
+      "yea": 3,
+      "nay": 5,
+      "passed": 0
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/hB/HB1911%20INT.PDF",
+      "doc_id": 3278114
+    }
+  ],
+  "committee": {
+    "committee_id": 1214,
+    "chamber": "H",
+    "chamber_id": 79,
+    "name": "Public Health"
+  },
+  "subjects": []
+}

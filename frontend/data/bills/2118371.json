@@ -1,0 +1,80 @@
+{
+  "id": 2118371,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "HB653",
+  "title": "AN ACT relating to civil rights.",
+  "summary": "Repeal and reenact KRS 344.010 to define terms; amend KRS 344.020, relating to the purpose of the Kentucky's civil rights chapter, to prohibit discrimination on the basis of sexual orientation or gender identity; amend KRS 344.025, 344.040, 344.050, 344.060, 344.070, and 344.080, relating to prohibited discrimination in various labor and employment practices, to include discrimination on the basis of sexual orientation or gender identity; amend KRS 210.033, 344.030, 344.100 and 344.110 to conform; amend KRS 344.120 and 342.140, relating to prohibited discrimination in places of public accommodation and advertisements, to include discrimination on the basis of sexual orientation or gender identity; amend KRS 344.170, 344.180, 344.190, 344.300, and 344.310, relating to the state and local human rights commissions, to include the prohibition of discrimination on the basis of sexual orientation or gender identity in the scope of their powers and duties; amend KRS 344.360, 344.370, 344.380, and 344.680, relating to prohibited discrimination in certain housing, real estate, and other financial transactions, to include discrimination on the basis of sexual orientation or gender identity; amend KRS 344.367, relating to prohibited discrimination in certain insurance sales, to include discrimination on the basis of sexual orientation or gender identity; amend KRS 344.400, relating to prohibited discrimination in certain credit transactions, to include discrimination on the basis of sexual orientation or gender identity; amend KRS 18A.095 to conform; make technical corrections.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/HB653/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/HB653/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/hb653.html",
+  "sponsors": [
+    "Mary Marzian (D) [Rep]",
+    "Lisa Willner (D) [Rep]",
+    "Tina Bojanowski (D) [Rep]",
+    "George Brown (D) [Rep]",
+    "Adrielle Camuel (D) [Rep]",
+    "Beverly Chester-Burton (D) [Rep]",
+    "Anne Donworth (D) [Rep]",
+    "Alan Gentry (D) [Rep]",
+    "Erika Hancock (D) [Rep]",
+    "Nima Kulkarni (D) [Rep]",
+    "Matthew Lehman (D) [Rep]",
+    "Rachel Roarx (D) [Rep]",
+    "Sarah Stalker (D) [Rep]",
+    "Joshua Watkins (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-17",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-17",
+      "action": "introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "to Committee on Committees (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "to Judiciary (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb653/orig_bill.pdf",
+      "doc_id": 3365094
+    }
+  ],
+  "committee": {
+    "committee_id": 327,
+    "chamber": "H",
+    "chamber_id": 43,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Local Mandate",
+    "Civil Rights",
+    "Labor and Industry",
+    "Landlord and Tenant",
+    "Men",
+    "Real Estate",
+    "Women"
+  ]
+}

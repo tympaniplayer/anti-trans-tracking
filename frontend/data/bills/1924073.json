@@ -1,0 +1,60 @@
+{
+  "id": 1924073,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "S0240",
+  "title": "Parental Rights to Affirm Biological Sex in Child Welfare",
+  "summary": "Amend The South Carolina Code Of Laws So As To Enact The \"south Carolina Parental Rights To Affirm Biological Sex In Child Welfare And Placement Act\"; And By Adding Section 63-7-50 So As To Encourage Children To Identify With Their Biological Sex By Requiring Courts And Agencies To Consider A Child's Biological Sex As A Positive Factor In Child Welfare Proceedings, To Provide That Parents And Legal Guardians Have The Right To Encourage A Child To Align With Their Biological Sex, Including In Making Medical Decisions, And To Offer Protections For Exercising This Right, To Require The Department Of Social Services And Family Court System To Develop Policies And The Department Of Social Services To Submit Annual Reports, And To Define Necessary Terms.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions",
+    "healthcare"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/S0240/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/S0240/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0240&session=126&summary=B",
+  "sponsors": [
+    "Richard Cash (R) [Sen]",
+    "Joshua Kimbrell (R) [Sen]",
+    "Thomas Corbin (R) [Sen]",
+    "Matthew Leber (R) [Sen]",
+    "Carlisle Kennedy (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-16",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-16",
+      "action": "Introduced and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-16",
+      "action": "Referred to Committee on Family and Veterans' Services",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/240_20250116.htm",
+      "doc_id": 3061216
+    }
+  ],
+  "committee": {
+    "committee_id": 3795,
+    "chamber": "S",
+    "chamber_id": 86,
+    "name": "Family and Veterans Services"
+  },
+  "subjects": []
+}

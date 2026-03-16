@@ -1,0 +1,60 @@
+{
+  "id": 1947275,
+  "state": "ND",
+  "state_name": "North Dakota",
+  "bill_number": "SCR4010",
+  "title": "A concurrent resolution urging the the National Collegiate Athletic Association to revoke its transgender student-athlete eligibility policy, which directly discriminates against female student athletes in collegiate women's sports.",
+  "summary": "A concurrent resolution urging the the National Collegiate Athletic Association to revoke its transgender student-athlete eligibility policy, which directly discriminates against female student athletes in collegiate women's sports.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "education"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ND/bill/SCR4010/2025",
+  "legiscan_url": "https://legiscan.com/ND/bill/SCR4010/2025",
+  "state_url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo4010.html",
+  "sponsors": [
+    "Janne Myrdal (R) [Sen]",
+    "Desiree Van Oosting (R) [Sen]",
+    "Kathy Frelich (R) [Rep]",
+    "Karen Grindberg (R) [Rep]",
+    "Karen Karls (R) [Rep]",
+    "Vicky Steiner (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-29",
+  "session": "69th Legislative Assembly",
+  "actions": [
+    {
+      "date": "2025-01-29",
+      "action": "Introduced, first reading, referred to Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Request return from committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Withdrawn from further consideration",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-29",
+      "type": "Introduced",
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-3064-01000.pdf",
+      "doc_id": 3089879
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": 2073966,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "HB3138",
+  "title": "Schools; public schools; students; higher education; prohibiting certain name usage; pronouns; prohibiting adverse employment action; prohibiting student disciplinary action; private cause of action; legal remedies; limitations; effective date.",
+  "summary": "Schools; public schools; students; higher education; prohibiting certain name usage; pronouns; prohibiting adverse employment action; prohibiting student disciplinary action; private cause of action; legal remedies; limitations; effective date.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/HB3138/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/HB3138/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=hb3138&Session=2600",
+  "sponsors": [
+    "Kevin West (R) [Rep]",
+    "Jim Olsen (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Authored by Representative West (Kevin)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Second Reading referred to Rules",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-13",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/hB/HB3138%20INT.PDF",
+      "doc_id": 3310968
+    }
+  ],
+  "committee": {
+    "committee_id": 1216,
+    "chamber": "H",
+    "chamber_id": 79,
+    "name": "Rules"
+  },
+  "subjects": []
+}

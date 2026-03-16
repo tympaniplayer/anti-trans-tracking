@@ -1,0 +1,79 @@
+{
+  "id": 2055028,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "HB1672",
+  "title": "Modifies provisions relating to gender transition procedures",
+  "summary": "Modifies provisions relating to gender transition procedures",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/HB1672/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/HB1672/2026",
+  "state_url": "https://house.mo.gov/Bill.aspx?bill=HB1672&year=2026&code=R",
+  "sponsors": [
+    "Brian Seitz (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Prefiled (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Read First Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Read Second Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Referred: Emerging Issues(H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Public Hearing Completed (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Executive Session Completed (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "HCS Voted Do Pass (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "HCS Reported Do Pass (H) - AYES: 9 NOES: 4 PRESENT: 0",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-01",
+      "type": "Introduced",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/3907H.01I.pdf",
+      "doc_id": 3286423
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

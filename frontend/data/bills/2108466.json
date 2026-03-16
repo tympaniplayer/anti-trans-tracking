@@ -1,0 +1,70 @@
+{
+  "id": 2108466,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB5151",
+  "title": "AUTO LICENSE PLATE RECOGNITION",
+  "summary": "Creates the Automated License Plate Recognition System Act. Sets forth provisions regarding authorized uses of an automated license plate recognition system, data retention, prohibited uses of an automated license plate recognition system, restrictions, requirements for use, preservation and disclosure, required data collection, reporting requirements, admissibility, privacy, penalties, and a private right of action. Makes a conforming change in the Freedom of Information Act. Effective immediately.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB5151/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB5151/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5151&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Nicolle Grasse (D) [Rep]",
+    "Mary Canty (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "Filed with the Clerk by Rep. Kelly M. Cassidy",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Chief Sponsor Changed to Rep. Nicolle Grasse",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Added Chief Co-Sponsor Rep. Mary Beth Canty",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-05",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=208112&DocName=10400HB5151&DocNum=5151&DocTypeID=HB&LegID=166766&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3354936
+    }
+  ],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
+  "subjects": []
+}

@@ -1,0 +1,67 @@
+{
+  "id": 2123385,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "HB717",
+  "title": "AN ACT relating to health education.",
+  "summary": "Repeal and reenact KRS 158.1415 to require each school district to provide healthy relationship education instruction to all public school students; establish minimum requirements for the instruction; establish minimum requirements for the healthy relationship curricula and instructional materials; prohibit a school or school district from restricting the ability of an instructor to answer a question related to the instruction; require that a school make the healthy relationship curricula and instructional materials available upon the request of a parent or guardian and establish a procedure for a parent or guardian to opt a student out of the instruction; require the Kentucky Board of Education to promulgate administrative regulations necessary to implement, administer, and enforce this section; require the Kentucky Board of Education to promulgate administrative regulations requiring that each school district submit a report on healthy relationship instruction in the district biennially; require the Kentucky Department of Education to maintain a list of recommended healthy relationship curricula and instructional materials; permit a parent or guardian to file an enforcement action in Circuit Court; provide that the Act may be cited as the Education for Healthy Youth Act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/HB717/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/HB717/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/hb717.html",
+  "sponsors": [
+    "Lisa Willner (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-24",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-24",
+      "action": "introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "to Committee on Committees (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "to Primary and Secondary Education (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb717/orig_bill.pdf",
+      "doc_id": 3374190
+    }
+  ],
+  "committee": {
+    "committee_id": 5121,
+    "chamber": "H",
+    "chamber_id": 43,
+    "name": "Primary and Secondary Education"
+  },
+  "subjects": [
+    "Administrative Regulations and Proceedings",
+    "Boards and Commissions",
+    "Children and Minors",
+    "Education, Elementary and Secondary",
+    "Reports Mandated",
+    "Short Titles and Popular Names",
+    "State Agencies"
+  ]
+}

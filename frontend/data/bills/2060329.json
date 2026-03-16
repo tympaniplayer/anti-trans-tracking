@@ -1,0 +1,67 @@
+{
+  "id": 2060329,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB6876",
+  "title": "Protecting Children from Foreign Mutilation Act",
+  "summary": "To require the imposition of visa sanctions with respect to each foreign person the President determines has performed or otherwise facilitated chemical or surgical mutilations of United States minors, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "bathrooms"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB6876/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB6876/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/6876/all-info",
+  "sponsors": [
+    "Addison McDowell (R) [Rep]",
+    "Josh Brecheen (R) [Rep]",
+    "Randy Weber (R) [Rep]",
+    "Marlin Stutzman (R) [Rep]",
+    "David Taylor (R) [Rep]",
+    "Tim Moore (R) [Rep]",
+    "Abraham Hamadeh (R) [Rep]",
+    "Mike Bost (R) [Rep]",
+    "John Rose (R) [Rep]",
+    "Michael Rulli (R) [Rep]",
+    "Mary Miller (R) [Rep]"
+  ],
+  "introduced_date": "2025-12-18",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-12-18",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-18",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr6876/BILLS-119hr6876ih.pdf",
+      "doc_id": 3329007
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Immigration"
+  ]
+}

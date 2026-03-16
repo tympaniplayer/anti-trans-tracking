@@ -1,0 +1,57 @@
+{
+  "id": 1973485,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0262",
+  "title": "An act relating to restricting electronic monitoring of employees and the use of employment-related automated decision systems",
+  "summary": "An act relating to restricting electronic monitoring of employees and the use of employment-related automated decision systems",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0262/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0262/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.262",
+  "sponsors": [
+    "Monique Priestley (D) [Rep]",
+    "Ela Chapin (D) [Rep]",
+    "Robert Hooper (D) [Rep]",
+    "James Masland (D) [Rep]",
+    "Kate McCann (D) [Rep]",
+    "Jubilee McGill (D) [Rep]",
+    "Brian Minier (D) [Rep]",
+    "Kate Nugent (D) [Rep]",
+    "Herb Olson (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-19",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-02-19",
+      "action": "Read first time and referred to the Committee on General and Housing",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-18",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0262/H-0262%20As%20Introduced.pdf",
+      "doc_id": 3129678
+    }
+  ],
+  "committee": {
+    "committee_id": 4666,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "General and Housing"
+  },
+  "subjects": []
+}

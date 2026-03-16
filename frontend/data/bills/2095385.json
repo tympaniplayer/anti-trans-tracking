@@ -1,0 +1,117 @@
+{
+  "id": 2095385,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB573",
+  "title": "Fair Housing and Housing Discrimination - Regulations, Intent, and Discriminatory Effect",
+  "summary": "Authorizing the Department of Housing and Community Development to adopt certain regulations related to affirmatively furthering fair housing; providing that certain discriminatory housing practices may be committed without intent; prohibiting a person from acting in a certain manner that has a discriminatory effect; and providing that certain conduct necessary to achieve certain nondiscriminatory interests does not constitute a certain violation.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB573/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB573/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0573?ys=2026RS",
+  "sponsors": [
+    "Deni Taveras (D) [Rep]",
+    "Gabriel Acevero (D) [Rep]",
+    "Dylan Behler (D) [Rep]",
+    "Diana Fennell (D) [Rep]",
+    "Linda Foley (D) [Rep]",
+    "Terri Hill (D) [Rep]",
+    "Julian Ivey (D) [Rep]",
+    "Aaron Kaufman (D) [Rep]",
+    "Mary Lehman (D) [Rep]",
+    "Gabriel Moreno (D) [Rep]",
+    "Darrell Odom (D) [Rep]",
+    "Malcolm Ruff (D) [Rep]",
+    "Ryan Spiegel (D) [Rep]",
+    "Jen Terrasa (D) [Rep]",
+    "Veronica Turner (D) [Rep]",
+    "Joe Vogel (D) [Rep]",
+    "Nicole Williams (D) [Rep]",
+    "Greg Wims (D) [Rep]",
+    "Sarah Wolek (D) [Rep]",
+    "Jamila Woods (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-12",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-28",
+      "action": "First Reading Economic Matters",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Hearing 2/19 at 1:00 p.m.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Favorable Report by Economic Matters",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Favorable Adopted Second Reading Passed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Third Reading Passed (96-36)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Referred Judicial Proceedings",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-28",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0573f.pdf",
+      "doc_id": 3335448
+    },
+    {
+      "date": "2026-03-11",
+      "type": "Engrossed",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0573t.pdf",
+      "doc_id": 3391136
+    }
+  ],
+  "committee": {
+    "committee_id": 1934,
+    "chamber": "S",
+    "chamber_id": 50,
+    "name": "Judicial Proceedings"
+  },
+  "subjects": [
+    "Human Relations",
+    "Housing and Community Development",
+    "Awareness and Outreach",
+    "Boundaries",
+    "Civil Actions",
+    "Civil Rights and Social Equity",
+    "Discrimination",
+    "Housing and Community Development, Department of",
+    "Housing",
+    "Intergovernmental Cooperation",
+    "Leases and Rent",
+    "Nonprofit Organizations",
+    "Penalties and Sentences",
+    "Plans and Proposals",
+    "Real Estate",
+    "Reports",
+    "Rules and Regulations"
+  ]
+}

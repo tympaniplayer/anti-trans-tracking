@@ -1,0 +1,69 @@
+{
+  "id": 1962057,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB3720",
+  "title": "AI-MEANINGFUL HUMAN REVIEW",
+  "summary": "Creates the Meaningful Human Review of Artificial Intelligence Act. Sets forth provisions prohibiting a State agency, or any entity acting on behalf of an agency, from utilizing or applying any automated decision-making system, directly or indirectly, without continuous meaningful human review when performing any of the agency's specified functions. Requires impact assessments to be performed by State agencies seeking to utilize or apply an automated decision-making system with continuous meaningful human review. Provides that the impact assessment shall include a description of the objectives of the automated decision-making system; an evaluation of the ability of the automated decision-making system to achieve its stated objectives; a specified description and evaluation of the objectives and development of the automated decision-making; testing of the automated decision-making system; and the notification mechanism or procedure, if any, by which individuals impacted by the utilization of the automated decision-making system may be notified of the use of such automated decision-making system and of the individual's personal data, and informed of their rights and options relating to such use. Requires submission of impact assessments to the Governor and General Assembly.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB3720/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB3720/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3720&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Abdelnasser Rashid (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-07",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-07",
+      "action": "Filed with the Clerk by Rep. Abdelnasser Rashid",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Assigned to Cybersecurity, Data Analytics, & IT Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Rule 19(a) / Re-referred to Rules Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-07",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=202339&DocName=10400HB3720&DocNum=3720&DocTypeID=HB&LegID=162554&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3108310
+    }
+  ],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
+  "subjects": []
+}

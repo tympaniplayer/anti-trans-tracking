@@ -1,0 +1,85 @@
+{
+  "id": 2062637,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB594",
+  "title": "Relating To Crimes Against Seniors.",
+  "summary": "Removes the requirement that a perpetrator of certain crimes knows or reasonably should know that the victim is a person sixty years of age or older.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB594/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB594/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=594&year=2026",
+  "sponsors": [
+    "Sharon Moriwaki (D) [Sen]",
+    "Henry Aquino (D) [Sen]",
+    "Stanley Chang (D) [Sen]",
+    "Kurt Fevella (R) [Sen]",
+    "Troy Hashimoto (D) [Sen]",
+    "Karl Rhoads (D) [Sen]",
+    "Carol Fukunaga (D) [Sen]",
+    "Glenn Wakai (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-17",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-17",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-17",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "Referred to HHS, JDC.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    },
+    {
+      "date": "2026-01-23",
+      "action": "The committee(s) on HHS has scheduled a public hearing on 01-28-26 1:30PM; Conference Room 225 &amp; Videoconference.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "The committee on HHS deferred the measure.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB594_.HTM",
+      "doc_id": 3295948
+    }
+  ],
+  "committee": {
+    "committee_id": 4751,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Health and Human Services"
+  },
+  "subjects": [
+    "Offenses Against Seniors",
+    "Penal Code",
+    "Enhanced Penalties"
+  ]
+}

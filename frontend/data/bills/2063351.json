@@ -1,0 +1,137 @@
+{
+  "id": 2063351,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HB1452",
+  "title": "Relating To Birth Certificates.",
+  "summary": "Includes advanced practice registered nurses among the types of health care providers who can submit an affidavit for a new certificate of birth for certain birth registrants. Effective 7/1/3000. (HD1)",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "healthcare",
+    "identity_documents"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HB1452/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HB1452/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1452&year=2026",
+  "sponsors": [
+    "Adrian Tam (D) [Rep]",
+    "Terez Amato (D) [Rep]",
+    "Della au Belatti (D) [Rep]",
+    "Kim Iwamoto (D) [Rep]",
+    "Lisa Marten (D) [Rep]",
+    "Amy Perruso (D) [Rep]",
+    "Mahina Poepoe (D) [Rep]",
+    "Gregg Takayama (D) [Rep]",
+    "David Tarnas (D) [Rep]",
+    "Shirley Ann Templo (D) [Rep]",
+    "Chris Todd (D) [Rep]",
+    "Scot Matayoshi (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-06",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-23",
+      "action": "Introduced and Pass First Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-27",
+      "action": "Referred to HLT, CPC, referral sheet 4",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Bill scheduled to be heard by HLT on Friday, 01-30-26 10:30AM in House conference room 329 VIA VIDEOCONFERENCE.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "The committee on HLT recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 7 Ayes: Representative(s) Takayama, Keohokapu-Lee Loy, Amato, Hartsfield, Marten, Olds, Takenouchi; Ayes with reservations: none; 2 Noes: Representative(s) Alcos, Garcia; and Excused: none.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Reported from HLT (Stand. Com. Rep. No. 163-26) as amended in HD 1, recommending passage on Second Reading and referral to CPC.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Passed Second Reading as amended in HD 1 and referred to the committee(s) on CPC with Representative(s) Reyes Oda voting aye with reservations; Representative(s) Alcos, Garcia, Gedeon, Kong, Matsumoto, Muraoka, Pierick, Shimizu voting no (8) and Representative(s) Holt excused (1).",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Bill scheduled to be heard by CPC on Tuesday, 03-03-26 2:00PM in House conference room 329 VIA VIDEOCONFERENCE.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "The committee on CPC recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 10 Ayes: Representative(s) Matayoshi, Grandinetti, Chun, Ilagan, Ichiyama, Iwamoto, Kong, Lowen, Marten, Tam; Ayes with reservations: none; 0 Noes: none; and 1 Excused: Representative(s) Pierick.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Reported from CPC (Stand. Com. Rep. No. 986-26), recommending passage on Third Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Passed Third Reading with Representative(s) Muraoka, Reyes Oda voting aye with reservations; Representative(s) Alcos, Garcia, Gedeon, Kong, Matsumoto, Pierick, Shimizu voting no (7) and Representative(s) Perruso, Quinlan, Sayama excused (3). Transmitted to Senate.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Received from House (Hse. Com. No. 133).",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Referred to HHS, JDC.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-23",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1452_.HTM",
+      "doc_id": 3297031
+    },
+    {
+      "date": "2026-02-10",
+      "type": "Amended",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1452_HD1_.HTM",
+      "doc_id": 3357781
+    }
+  ],
+  "committee": {
+    "committee_id": 4751,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Health and Human Services"
+  },
+  "subjects": [
+    "Birth Certificates",
+    "Vital Statistics",
+    "Birth Registrants",
+    "Advanced Practice Registered Nurses"
+  ]
+}

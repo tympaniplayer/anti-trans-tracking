@@ -1,0 +1,111 @@
+{
+  "id": 1993305,
+  "state": "DE",
+  "state_name": "Delaware",
+  "bill_number": "HB55",
+  "title": "An Act To Amend The Delaware Code Relating To Prohibited Discrimination On The Basis Of Military Status.",
+  "summary": "An Act To Amend The Delaware Code Relating To Prohibited Discrimination On The Basis Of Military Status.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DE/bill/HB55/2025",
+  "legiscan_url": "https://legiscan.com/DE/bill/HB55/2025",
+  "state_url": "https://legis.delaware.gov/BillDetail?LegislationId=142125",
+  "sponsors": [
+    "Nnamdi Chukwuocha (D) [Rep]",
+    "William Bush (D) [Rep]",
+    "Nicole Poore (D) [Sen]",
+    "Spiros Mantzavinos (D) [Sen]",
+    "Krista Griffith (D) [Rep]",
+    "Kendra Johnson (D) [Rep]",
+    "Eric Morrison (D) [Rep]",
+    "Josue Ortega (D) [Rep]",
+    "Melanie Ross Levin (D) [Rep]",
+    "Jeff Hilovsky (R) [Rep]",
+    "Debra Heffernan (D) [Rep]",
+    "Frank Burns (D) [Rep]",
+    "Larry Lambert (D) [Rep]",
+    "David Sokola (D) [Sen]",
+    "Jack Walsh (D) [Sen]",
+    "Kyra Hoffner (D) [Sen]",
+    "Gerald Hocker (R) [Sen]"
+  ],
+  "introduced_date": "2025-07-23",
+  "session": "153rd General Assembly",
+  "actions": [
+    {
+      "date": "2025-04-15",
+      "action": "Adopted in lieu of the original bill HB 55, and Assigned to Veterans Affairs Committee in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Reported Out of Committee (Veterans Affairs) in House with 7 Favorable, 7 On Its Merits",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-17",
+      "action": "Passed By House. Votes: 40 YES 1 ABSENT",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-17",
+      "action": "Assigned to Veterans Affairs Committee in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "Reported Out of Committee (Veterans Affairs) in Senate with 1 Favorable, 8 On Its Merits",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Passed By Senate. Votes: 21 YES",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-23",
+      "action": "Signed by Governor",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-17",
+      "description": "House Third Reading",
+      "yea": 40,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-30",
+      "description": "Senate Third Reading",
+      "yea": 21,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Draft",
+      "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=141882&legislationTypeId=1&docTypeId=2&legislationName=HB55",
+      "doc_id": 3156096
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Draft",
+      "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142125&legislationTypeId=6&docTypeId=2&legislationName=HS1forHB55",
+      "doc_id": 3212900
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

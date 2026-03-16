@@ -1,0 +1,59 @@
+{
+  "id": 2019020,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "SR67",
+  "title": "Recognizing the month of April 2025 as \"National Fair Housing Month\" in Pennsylvania.",
+  "summary": "A Resolution recognizing the month of April 2025 as \"National Fair Housing Month\" in Pennsylvania.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/SR67/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/SR67/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/sr67",
+  "sponsors": [
+    "Amanda Cappelletti (D) [Sen]",
+    "Nikil Saval (D) [Sen]",
+    "Christine Tartaglione (D) [Sen]",
+    "Sharif Street (D) [Sen]",
+    "Wayne Fontana (D) [Sen]",
+    "Carolyn Comitta (D) [Sen]",
+    "Judy Schwank (D) [Sen]",
+    "Arthur Haywood (D) [Sen]",
+    "Steven Santarsiero (D) [Sen]",
+    "Jay Costa (D) [Sen]",
+    "Vincent Hughes (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-02",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-04-02",
+      "action": "Referred to Rules & Executive Nominations",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SR0067/PN0521",
+      "doc_id": 3199568
+    }
+  ],
+  "committee": {
+    "committee_id": 83,
+    "chamber": "S",
+    "chamber_id": 4,
+    "name": "Rules & Executive Nominations"
+  },
+  "subjects": []
+}

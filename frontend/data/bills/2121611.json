@@ -1,0 +1,60 @@
+{
+  "id": 2121611,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB2534",
+  "title": "Domestic Violence Prevention Act: forced marriage.",
+  "summary": "An act to amend Sections 6211, 6300, 6320, 6340 of, and to add Sections 6217 and 6230 to, the Family Code relating to domestic violence.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB2534/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB2534/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2534",
+  "sponsors": [
+    "Ash Kalra (D) [Rep]",
+    "Aisha Wahab (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-20",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-20",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-21",
+      "action": "From printer. May be heard in committee March 23.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Referred to Com. on JUD.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-20",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2534#99INT",
+      "doc_id": 3371153
+    }
+  ],
+  "committee": {
+    "committee_id": 463,
+    "chamber": "A",
+    "chamber_id": 19,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

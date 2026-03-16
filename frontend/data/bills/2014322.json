@@ -1,0 +1,83 @@
+{
+  "id": 2014322,
+  "state": "NC",
+  "state_name": "North Carolina",
+  "bill_number": "S624",
+  "title": "AI Chatbots - Licensing/Safety/Privacy",
+  "summary": "AI Chatbots - Licensing/Safety/Privacy",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NC/bill/S624/2025",
+  "legiscan_url": "https://legiscan.com/NC/bill/S624/2025",
+  "state_url": "https://www.ncleg.gov/BillLookUp/2025/S624",
+  "sponsors": [
+    "Jim Burgin (R) [Sen]"
+  ],
+  "introduced_date": "2025-03-25",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-03-25",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Passed 1st Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Ref To Com On Rules and Operations of the Senate",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-25",
+      "type": "Introduced",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S624v0.pdf",
+      "doc_id": 3187978
+    },
+    {
+      "date": "2025-03-26",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S624v1.pdf",
+      "doc_id": 3189749
+    }
+  ],
+  "committee": {
+    "committee_id": 698,
+    "chamber": "S",
+    "chamber_id": 76,
+    "name": "Rules and Operations of the Senate"
+  },
+  "subjects": [
+    "Attorney General",
+    "Council Of State",
+    "Data & Records Systems",
+    "Emerging Technologies",
+    "Health Services",
+    "Information Technology",
+    "Insurance",
+    "Insurance, Liability",
+    "Justice Dept.",
+    "Licenses & Permits",
+    "Privacy",
+    "Public",
+    "Public Officials",
+    "Stem",
+    "Records",
+    "Liability",
+    "Artificial Intelligence"
+  ]
+}

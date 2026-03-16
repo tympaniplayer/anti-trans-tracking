@@ -1,0 +1,59 @@
+{
+  "id": 1971356,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "HB90",
+  "title": "Define antisemitism for certain purposes",
+  "summary": "To amend section 4112.01 and to enact sections 124.92, 2701.21, and 4112.20 of the Revised Code to define antisemitism for the purpose of investigations and proceedings in courts and state agencies and for state employee anti-bias training.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/HB90/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/HB90/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/hb90",
+  "sponsors": [
+    "Jean Schmidt (R) [Rep]",
+    "Justin Pizzulli (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-11",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-11",
+      "action": "Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Referred to committee: Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb90/00_IN/pdf/",
+      "doc_id": 3121657
+    }
+  ],
+  "committee": {
+    "committee_id": 106,
+    "chamber": "H",
+    "chamber_id": 5,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Courts and Civil Law : Civil Law",
+    "State and Local Government : State Government",
+    "House Judiciary Committee"
+  ]
+}

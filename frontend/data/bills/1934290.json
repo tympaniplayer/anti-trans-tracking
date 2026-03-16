@@ -1,0 +1,59 @@
+{
+  "id": 1934290,
+  "state": "NE",
+  "state_name": "Nebraska",
+  "bill_number": "LB552",
+  "title": "Prohibit public postsecondary educational institutions from having a diversity, equity, and inclusion office and taking certain actions relating to diversity, equity, and inclusion",
+  "summary": "Prohibit public postsecondary educational institutions from having a diversity, equity, and inclusion office and taking certain actions relating to diversity, equity, and inclusion",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NE/bill/LB552/2025",
+  "legiscan_url": "https://legiscan.com/NE/bill/LB552/2025",
+  "state_url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=58917",
+  "sponsors": [
+    "Loren Lippincott (N) [Sen]"
+  ],
+  "introduced_date": "2025-01-22",
+  "session": "109th Legislature",
+  "actions": [
+    {
+      "date": "2025-01-22",
+      "action": "Date of introduction",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-01-24",
+      "action": "Referred to Education Committee",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Notice of hearing for March 17, 2025",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Title printed. Carryover bill",
+      "chamber": "L"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-22",
+      "type": "Introduced",
+      "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB552.pdf",
+      "doc_id": 3071530
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

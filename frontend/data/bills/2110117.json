@@ -1,0 +1,67 @@
+{
+  "id": 2110117,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB1011",
+  "title": "Workgroup on Supporting Transgender and Gender Diverse Students - Established",
+  "summary": "Establishing the Workgroup on Supporting Transgender and Gender Diverse Students to study ways to support transgender and gender diverse students and, on or before December 1, 2026, make recommendations regarding statewide statutory and regulatory policies.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB1011/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB1011/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1011?ys=2026RS",
+  "sponsors": [
+    "Kris Fair (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-06",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "action": "First Reading Ways and Means",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Hearing 3/04 at 1:00 p.m.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb1011f.pdf",
+      "doc_id": 3351622
+    }
+  ],
+  "committee": {
+    "committee_id": 1928,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Ways and Means"
+  },
+  "subjects": [
+    "Education - Miscellaneous",
+    "Primary and Secondary Education",
+    "Committees and Commissions",
+    "Education, State Department of",
+    "Gender",
+    "Gender Identity and Expression",
+    "LGBTQIA+",
+    "Public Schools",
+    "Reports",
+    "Students",
+    "studies",
+    "Sunset"
+  ]
+}

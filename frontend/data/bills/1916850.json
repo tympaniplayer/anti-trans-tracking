@@ -1,0 +1,224 @@
+{
+  "id": 1916850,
+  "state": "GA",
+  "state_name": "Georgia",
+  "bill_number": "SB1",
+  "title": "'Fair and Safe Athletic Opportunities Act'; enact",
+  "summary": "A BILL to be entitled an Act to amend Title 20 of the O.C.G.A., relating to education, so as to provide generally for competitively fair and safe student participation in middle school, high school, and college sports; to promote fair and safe competition; to provide for equal athletic opportunities and safety; to provide for specific designations of teams operated or sponsored by local school systems, public schools, participating private schools, and postsecondary educational institutions in this state; to prohibit males from participating in interscholastic and intercollegiate competitions on teams designated as female; to prohibit females from participating in competition on intercollegiate teams designated as male, subject to exceptions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "sports",
+    "education"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/GA/bill/SB1/2025",
+  "legiscan_url": "https://legiscan.com/GA/bill/SB1/2025",
+  "state_url": "https://www.legis.ga.gov/legislation/69274",
+  "sponsors": [
+    "Greg Dolezal (R) [Sen]",
+    "John Kennedy (R) [Sen]",
+    "Steve Gooch (R) [Sen]",
+    "Brandon Beach (R) [Sen]",
+    "Randy Robertson (R) [Sen]",
+    "John Albers (R) [Sen]",
+    "Larry Walker (R) [Sen]",
+    "Ben Watson (R) [Sen]",
+    "Kay Kirkpatrick (R) [Sen]",
+    "Frank Ginn (R) [Sen]",
+    "Bill Cowsert (R) [Sen]",
+    "Russ Goodman (R) [Sen]",
+    "Blake Tillery (R) [Sen]",
+    "Billy Hickman (R) [Sen]",
+    "Drew Echols (R) [Sen]",
+    "Sam Watson (R) [Sen]",
+    "Max Burns (R) [Sen]",
+    "Timothy Bearden (R) [Sen]",
+    "Brian Strickland (R) [Sen]",
+    "Lee Anderson (R) [Sen]",
+    "Clint Dixon (R) [Sen]",
+    "Shawn Still (R) [Sen]",
+    "Bo Hatchett (R) [Sen]",
+    "Marty Harbin (R) [Sen]",
+    "Jason Anavitarte (R) [Sen]",
+    "Chuck Hufstetler (R) [Sen]",
+    "Colton Moore (R) [Sen]",
+    "Mike Hodges (R) [Sen]",
+    "Chuck Payne (R) [Sen]",
+    "Matt Brass (R) [Sen]",
+    "Josh Bonner (R) [Rep]"
+  ],
+  "introduced_date": "2025-04-28",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-13",
+      "action": "Senate Hopper",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Senate Read and Referred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Senate Committee Favorably Reported By Substitute",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Senate Read Second Time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Senate Third Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Senate Passed/Adopted By Substitute",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "House First Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "House Second Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "House Committee Favorably Reported By Substitute",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "House Third Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "House Passed/Adopted By Substitute",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Senate Agreed House Amend or Sub",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Senate Sent to Governor",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Senate Date Signed by Governor",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Act 11",
+      "chamber": ""
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Effective Date 2025-07-01",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-06",
+      "description": "Adoption Of Amendment #1 By The Senator From The 22nd: Senate Vote #23",
+      "yea": 19,
+      "nay": 32,
+      "passed": 0
+    },
+    {
+      "date": "2025-02-06",
+      "description": "Adoption Of Amendment #2 By The Senator From The 41st: Senate Vote #24",
+      "yea": 18,
+      "nay": 34,
+      "passed": 0
+    },
+    {
+      "date": "2025-02-06",
+      "description": "Adoption Of Amendment #3 By The Senator From The 44th: Senate Vote #25",
+      "yea": 19,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2025-02-06",
+      "description": "Passage By Substitute: Senate Vote #26",
+      "yea": 35,
+      "nay": 17,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-31",
+      "description": "Passage: House Vote #350",
+      "yea": 100,
+      "nay": 64,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-31",
+      "description": "Agree To House Substitute As Amended: Senate Vote #372",
+      "yea": 17,
+      "nay": 37,
+      "passed": 0
+    },
+    {
+      "date": "2025-03-31",
+      "description": "Agree To House Substitute: Senate Vote #373",
+      "yea": 34,
+      "nay": 20,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-13",
+      "type": "Introduced",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/229718",
+      "doc_id": 3053907
+    },
+    {
+      "date": "2025-01-30",
+      "type": "Comm Sub",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230897",
+      "doc_id": 3092904
+    },
+    {
+      "date": "2025-02-06",
+      "type": "Engrossed",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231717",
+      "doc_id": 3107439
+    },
+    {
+      "date": "2025-03-25",
+      "type": "Comm Sub",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237331",
+      "doc_id": 3189243
+    },
+    {
+      "date": "2025-04-01",
+      "type": "Enrolled",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238607",
+      "doc_id": 3198189
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

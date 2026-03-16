@@ -1,0 +1,210 @@
+{
+  "id": 1951071,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5632",
+  "title": "Protecting the confidentiality of records and information that may be relevant to another state's enforcement of its laws.",
+  "summary": "Protecting the confidentiality of records and information that may be relevant to another state's enforcement of its laws.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5632/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5632/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5632&Year=2025&Initiative=false",
+  "sponsors": [
+    "Drew Hansen (D) [Sen]",
+    "Robert Hasegawa (D) [Sen]",
+    "Rebecca Saldana (D) [Sen]",
+    "Derek Stanford (D) [Sen]",
+    "Yasmin Trudeau (D) [Sen]",
+    "Javier Valdez (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "First reading, referred to Law & Justice.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Public hearing in the Senate Committee on Law & Justice at 10:30 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Executive action taken in the Senate Committee on Law & Justice at 10:30 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "LAW - Majority; do pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Minority; do not pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Minority; without recommendation.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-14",
+      "action": "Passed to Rules Committee for second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Placed on second reading by Rules Committee.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "First reading, referred to Civil Rights & Judiciary.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Public hearing in the House Committee on Civil Rights & Judiciary at 10:30 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Executive action taken in the House Committee on Civil Rights & Judiciary at 8:00 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "CRJ - Majority; do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Minority; do not pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "Referred to Rules 2 Review.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Rules Committee relieved of further consideration. Placed on second reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-12",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-12",
+      "action": "Third reading, passed; yeas, 58; nays, 36; absent, 0; excused, 4.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "President signed.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-18",
+      "action": "Speaker signed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Delivered to Governor.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Governor signed.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Chapter 248, 2025 Laws.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Effective date 7/27/2025.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-13",
+      "description": "Senate Committee on Law & Justice: do pass",
+      "yea": 5,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-04",
+      "description": "Senate 3rd Reading & Final Passage",
+      "yea": 30,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-26",
+      "description": "House Committee on Civil Rights & Judiciary: do pass",
+      "yea": 8,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-12",
+      "description": "House 3rd Reading & Final Passage",
+      "yea": 58,
+      "nay": 36,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5632.pdf",
+      "doc_id": 3094657
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Enrolled",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Passed%20Legislature/5632.PL.pdf",
+      "doc_id": 3220190
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Chaptered",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Session%20Laws/Senate/5632.SL.pdf",
+      "doc_id": 3238560
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

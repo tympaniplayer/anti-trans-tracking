@@ -1,0 +1,70 @@
+{
+  "id": 1920946,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A02149",
+  "title": "Expands the health department's review of correctional health services by including a biennial study of health care staffing at facilities operated by the department of corrections and community supervision.",
+  "summary": "Expands the health department's review of correctional health services by including a biennial study of health care staffing at facilities operated by the department of corrections and community supervision.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A02149/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A02149/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A2149",
+  "sponsors": [
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Harvey Epstein (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Maryjane Shimsky (D) [Rep]",
+    "Yudelka Tapia (D) [Rep]",
+    "Jennifer Lunsford (D) [Rep]",
+    "Noah Burroughs (D) [Rep]",
+    "Phara Souffrant Forrest (D) [Rep]",
+    "George Alvarez (D) [Rep]",
+    "Angelo Santabarbara (D) [Rep]",
+    "Phillip Steck (D) [Rep]",
+    "Alfred Taylor (D) [Rep]",
+    "Anna Kelles (D) [Rep]",
+    "Emerita Torres (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-15",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-15",
+      "action": "referred to health",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to health",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-15",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A02149&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A02149",
+      "doc_id": 3058122
+    }
+  ],
+  "committee": {
+    "committee_id": 369,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Health"
+  },
+  "subjects": []
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1917732,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB1354",
+  "title": "PATIENT RIGHTS-NEXT OF KIN",
+  "summary": "Amends the Medical Patient Rights Act. Provides that every health care facility in this State shall permit the next of kin of a patient who is on life support to remain with the patient, at the patient's bedside, irrespective of regular hours of visitation. Provides that health care facilities may institute reasonable policies, including reasonable requirements that promote the health, safety, and welfare of the next of kin, the patient, and the employees and other patients of the health care facility without revoking the basic right afforded to the next of kin of a patient who is on life support. Defines \"next of kin\".",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "bathrooms",
+    "definitions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB1354/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB1354/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1354&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Mary Canty (D) [Rep]",
+    "Michael Crawford (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-14",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-14",
+      "action": "Filed with the Clerk by Rep. Mary Beth Canty",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "Assigned to Judiciary - Civil Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Added Co-Sponsor Rep. Michael Crawford",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Rule 19(a) / Re-referred to Rules Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-14",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=197070&DocName=10400HB1354&DocNum=1354&DocTypeID=HB&LegID=157280&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3054795
+    }
+  ],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
+  "subjects": []
+}

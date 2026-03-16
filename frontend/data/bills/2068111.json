@@ -1,0 +1,54 @@
+{
+  "id": 2068111,
+  "state": "IN",
+  "state_name": "Indiana",
+  "bill_number": "HB1421",
+  "title": "Ban on employer use of automated decision systems.",
+  "summary": "Ban on employer use of automated decision systems. Prohibits an employer from: (1) relying exclusively on an automated decision system in making an employment related decision with respect to a covered individual; (2) using an automated decision system output in making an employment related decision with respect to a covered individual unless certain conditions are met; and (3) discriminating or retaliating against a covered individual for exercising rights under these provisions. Sets forth disclosure requirements for an employer that uses or intends to use an automated decision system output in making an employment related decision. Allows the department of labor to take certain enforcement actions. Allows a covered individual or labor organization to bring a civil action for a violation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IN/bill/HB1421/2026",
+  "legiscan_url": "https://legiscan.com/IN/bill/HB1421/2026",
+  "state_url": "https://iga.in.gov/legislative/2026/bills/house/1421/details",
+  "sponsors": [
+    "Earl Harris (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-08",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "action": "Authored by Representative Harris",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "First reading: referred to Committee on Employment, Labor and Pensions",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-08",
+      "type": "Introduced",
+      "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1421/HB1421.01.INTR.pdf",
+      "doc_id": 3302720
+    }
+  ],
+  "committee": {
+    "committee_id": 1705,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Employment, Labor and Pensions"
+  },
+  "subjects": []
+}

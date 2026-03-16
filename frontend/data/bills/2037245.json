@@ -1,0 +1,72 @@
+{
+  "id": 2037245,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3974",
+  "title": "Protect Black Women and Girls Act",
+  "summary": "To establish an Interagency Task Force to examine the conditions and experiences of Black women and girls in education, economic development, healthcare, labor and employment, housing, justice and civil rights, to promote community-based methods for mitigating and addressing harm and ensuring accountability, and to study societal effects on Black women and girls, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3974/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3974/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3974/all-info",
+  "sponsors": [
+    "Robin Kelly (D) [Rep]",
+    "Yvette Clarke (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Brian Fitzpatrick (R) [Rep]",
+    "Jennifer McClellan (D) [Rep]",
+    "Gwen Moore (D) [Rep]",
+    "Joyce Beatty (D) [Rep]",
+    "Shontel Brown (D) [Rep]",
+    "Terri Sewell (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Sydney Kamlager-Dove (D) [Rep]",
+    "Marilyn Strickland (D) [Rep]",
+    "Summer Lee (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Ilhan Omar (D) [Rep]",
+    "Jahana Hayes (D) [Rep]",
+    "Andre Carson (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-12",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-12",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "Referred to the Committee on the Judiciary, and in addition to the Committees on Education and Workforce, Energy and Commerce, and Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-20",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3974/BILLS-119hr3974ih.pdf",
+      "doc_id": 3257785
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": 2073984,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "HB3130",
+  "title": "Gender transition procedures; state funds; parental rights; severability clause; judicial review; venue; unprofessional conduct within the Oklahoma Allopathic Medical and Surgical Licensure and Supervision Act; gender transition procedure misconduct; unprofessional conduct within the Physician Assistant Act; Oklahoma Nursing Practice Act; Oklahoma Osteopathic Medicine Act; health services for minors; definition; referrals; aiding and abetting; emergency.",
+  "summary": "Gender transition procedures; state funds; parental rights; severability clause; judicial review; venue; unprofessional conduct within the Oklahoma Allopathic Medical and Surgical Licensure and Supervision Act; gender transition procedure misconduct; unprofessional conduct within the Physician Assistant Act; Oklahoma Nursing Practice Act; Oklahoma Osteopathic Medicine Act; health services for minors; definition; referrals; aiding and abetting; emergency.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education",
+    "definitions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/HB3130/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/HB3130/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=hb3130&Session=2600",
+  "sponsors": [
+    "Kevin West (R) [Rep]",
+    "David Bullard (R) [Sen]",
+    "Denise Hader (R) [Rep]",
+    "Jim Olsen (R) [Rep]",
+    "Stacy Jo Adams (R) [Rep]",
+    "Gabe Woolley (R) [Rep]",
+    "Cody Maynard (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Authored by Representative West (Kevin)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Second Reading referred to Government Oversight",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Referred to General Government",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Policy recommendation to the Government Oversight committee; Do Pass General Government",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Coauthored by Representative(s) Olsen, Woolley",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Authored by Senator Bullard (principal Senate author)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "CR; Do Pass, amended by committee substitute Government Oversight Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Coauthored by Representative(s) Adams, CrosswhiteHader",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-10",
+      "description": "House: General Government Committee: DO PASS",
+      "yea": 7,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-26",
+      "description": "House: Government Oversight Committee: DO PASS AS AMENDED BY CS",
+      "yea": 16,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-13",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/hB/HB3130%20INT.PDF",
+      "doc_id": 3310987
+    },
+    {
+      "date": "2026-03-02",
+      "type": "Comm Sub",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20COMMITTEE%20SUBS/HCS/HB3130%20CS.PDF",
+      "doc_id": 3381038
+    },
+    {
+      "date": "2026-03-03",
+      "type": "Amended",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20FLR/HFLR/HB3130%20HFLR.PDF",
+      "doc_id": 3382339
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

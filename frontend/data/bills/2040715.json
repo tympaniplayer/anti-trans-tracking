@@ -1,0 +1,55 @@
+{
+  "id": 2040715,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB2477",
+  "title": "End Solitary Confinement Act",
+  "summary": "A bill to end the use of solitary confinement and other forms of restrictive housing in all Federal agencies and entities with which Federal agencies contract.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB2477/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB2477/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2477/all-info",
+  "sponsors": [
+    "Edward Markey (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Jeff Merkley (D) [Sen]"
+  ],
+  "introduced_date": "2025-07-28",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-07-28",
+      "action": "Read twice and referred to the Committee on the Judiciary.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-08-08",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s2477/BILLS-119s2477is.pdf",
+      "doc_id": 3264454
+    }
+  ],
+  "committee": {
+    "committee_id": 2330,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crime and law enforcement"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 2054647,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "HB1968",
+  "title": "Prohibits certain mental health professionals from engaging in conversion therapy with minors",
+  "summary": "Prohibits certain mental health professionals from engaging in conversion therapy with minors",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/HB1968/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/HB1968/2026",
+  "state_url": "https://house.mo.gov/Bill.aspx?bill=HB1968&year=2026&code=R",
+  "sponsors": [
+    "Jeremy Dean (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Prefiled (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Read First Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Read Second Time (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-02",
+      "type": "Introduced",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5311H.01I.pdf",
+      "doc_id": 3287267
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

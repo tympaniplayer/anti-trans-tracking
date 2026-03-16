@@ -1,0 +1,56 @@
+{
+  "id": 2015730,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "SB510",
+  "title": "Providing for Compassionate Name Change Assistance Grant Program and for powers and duties of the Department of Community and Economic Development; establishing the Compassionate Name Change Assistance Grant Fund; and making an appropriation.",
+  "summary": "An Act amending Title 54 (Names) of the Pennsylvania Consolidated Statutes, providing for Compassionate Name Change Assistance Grant Program and for powers and duties of the Department of Community and Economic Development; establishing the Compassionate Name Change Assistance Grant Fund; and making an appropriation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/SB510/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/SB510/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/sb510",
+  "sponsors": [
+    "Timothy Kearney (D) [Sen]",
+    "Amanda Cappelletti (D) [Sen]",
+    "Lindsey Williams (D) [Sen]",
+    "Katie Muth (D) [Sen]",
+    "Nikil Saval (D) [Sen]",
+    "Sharif Street (D) [Sen]",
+    "Arthur Haywood (D) [Sen]",
+    "John Kane (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-27",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-27",
+      "action": "Referred to Community, Economic & Recreational Development",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB0510/PN0504",
+      "doc_id": 3191743
+    }
+  ],
+  "committee": {
+    "committee_id": 70,
+    "chamber": "S",
+    "chamber_id": 4,
+    "name": "Community, Economic & Recreational Development"
+  },
+  "subjects": []
+}

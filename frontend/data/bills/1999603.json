@@ -1,0 +1,68 @@
+{
+  "id": 1999603,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB4333",
+  "title": "Relating to prohibitions on deceptive and unfair practices related to financial institutions discriminating in the provision of financial services to consumers and other persons.",
+  "summary": "Relating to prohibitions on deceptive and unfair practices related to financial institutions discriminating in the provision of financial services to consumers and other persons.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB4333/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB4333/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB4333",
+  "sponsors": [
+    "Richard Hayes (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-11",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-11",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Referred to Pensions, Investments & Financial Services",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-11",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB04333I.htm",
+      "doc_id": 3164914
+    }
+  ],
+  "committee": {
+    "committee_id": 1890,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Pensions, Investments & Financial Services"
+  },
+  "subjects": [
+    "EQUALITY IN FINANCIAL SERVICES ACT",
+    "Business & Commerce",
+    "Business & Commerce--General",
+    "Business & Commerce--Trade Practices",
+    "Civil Remedies & Liabilities",
+    "Financial",
+    "Financial--Banks",
+    "DISCRIMINATION"
+  ]
+}

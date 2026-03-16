@@ -1,0 +1,120 @@
+{
+  "id": 2061145,
+  "state": "UT",
+  "state_name": "Utah",
+  "bill_number": "HB0095",
+  "title": "Public Employee Gender-specific Language Requirements",
+  "summary": "Public Employee Gender-specific Language Requirements",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/UT/bill/HB0095/2026",
+  "legiscan_url": "https://legiscan.com/UT/bill/HB0095/2026",
+  "state_url": "https://le.utah.gov/~2026/bills/static/HB0095.html",
+  "sponsors": [
+    "Nicholeen Peck (R) [Rep]"
+  ],
+  "introduced_date": "2026-03-06",
+  "session": "2026 General Session",
+  "actions": [
+    {
+      "date": "2025-09-02",
+      "action": "LFA/ bill assigned to staff for fiscal analysis for HB0095 in Legislative Fiscal Analyst",
+      "chamber": ""
+    },
+    {
+      "date": "2025-09-02",
+      "action": "LFA/ bill sent to agencies for fiscal input for HB0095 in Legislative Fiscal Agency",
+      "chamber": ""
+    },
+    {
+      "date": "2025-09-15",
+      "action": "LFA/ fiscal note sent to sponsor for HB0095 in Version Sponsor",
+      "chamber": ""
+    },
+    {
+      "date": "2025-12-29",
+      "action": "Bill Numbered but not Distributed in Legislative Research and General Counsel",
+      "chamber": ""
+    },
+    {
+      "date": "2025-12-29",
+      "action": "Numbered Bill Publicly Distributed in Legislative Research and General Counsel",
+      "chamber": ""
+    },
+    {
+      "date": "2026-01-08",
+      "action": "LFA/ fiscal note sent to sponsor for HB0095 in Version Sponsor",
+      "chamber": ""
+    },
+    {
+      "date": "2026-01-13",
+      "action": "LFA/ fiscal note publicly available for HB0095 in Released",
+      "chamber": ""
+    },
+    {
+      "date": "2026-01-14",
+      "action": "House/ received bill from Legislative Research in Clerk of the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "House/ received fiscal note from Fiscal Analyst in Clerk of the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "House/ 1st reading (Introduced) in House Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "House/ to standing committee in House Government Operations Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "House Comm - Recommends Returned to Rules in House Government Operations Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "House/ comm rpt/ sent to Rules in House Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "House/ strike enacting clause in Clerk of the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "House/ filed in House file for bills not passed",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-29",
+      "type": "Introduced",
+      "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0095.pdf",
+      "doc_id": 3293722
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Education",
+    "K-12 Education",
+    "State Board of Education",
+    "State Officers and Employees",
+    "Local Education Agencies (LEAs)"
+  ]
+}

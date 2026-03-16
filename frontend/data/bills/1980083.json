@@ -1,0 +1,125 @@
+{
+  "id": 1980083,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB1186",
+  "title": "Data collection: race and ethnicity: minimum categories.",
+  "summary": "An act to add Sections 8310.9.5 and 13073.3 to the Government Code, relating to state government.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB1186/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB1186/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1186",
+  "sponsors": [
+    "Darshana Patel (D) [Rep]",
+    "Jose Solache (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-21",
+      "action": "Introduced. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-22",
+      "action": "From printer. May be heard in committee March 24.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Read first time.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Referred to Com. on JUD.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on JUD. Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Re-referred to Com. on JUD.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on JUD. Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Re-referred to Com. on JUD.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 12. Noes 0.) (April 8). Re-referred to Com. on APPR.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "In committee: Set, first hearing. Referred to suspense file.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "In committee: Held under submission.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-31",
+      "action": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-08",
+      "description": "Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar",
+      "yea": 12,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-21",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1186#99INT",
+      "doc_id": 3136875
+    },
+    {
+      "date": "2025-03-24",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1186#98AMD",
+      "doc_id": 3186834
+    },
+    {
+      "date": "2025-04-03",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1186#97AMD",
+      "doc_id": 3201549
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

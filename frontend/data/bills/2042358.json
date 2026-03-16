@@ -1,0 +1,145 @@
+{
+  "id": 2042358,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "SCR104",
+  "title": "National Domestic Violence Awareness Month.",
+  "summary": "Relative to National Domestic Violence Awareness Month.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/SCR104/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/SCR104/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SCR104",
+  "sponsors": [
+    "Suzette Valladares (R) [Sen]",
+    "Cecilia Aguiar-Curry (D) [Rep]",
+    "Marie Alvarado-Gil (R) [Sen]",
+    "Catherine Blakespear (D) [Sen]",
+    "Anna Caballero (D) [Sen]",
+    "Lisa Calderon (D) [Rep]",
+    "Jessica Caloza (D) [Rep]",
+    "Megan Dahle (R) [Sen]",
+    "Laurie Davies (R) [Rep]",
+    "Diane Dixon (R) [Rep]",
+    "Heather Hadwick (R) [Rep]",
+    "Melissa Hurtado (D) [Sen]",
+    "Monique Limon (D) [Sen]",
+    "Rosilicie Ochoa Bogh (R) [Sen]",
+    "Esmeralda Soria (D) [Rep]",
+    "Catherine Stefani (D) [Rep]",
+    "Akilah Weber Pierson (D) [Sen]",
+    "Anamarie Farias (D) [Rep]"
+  ],
+  "introduced_date": "2025-09-18",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-08-19",
+      "action": "Introduced. Referred to Com. on RLS.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-27",
+      "action": "From committee: Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-29",
+      "action": "Read. Adopted. (Ayes 37. Noes 0. Page 2285.) Ordered to the Assembly.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-29",
+      "action": "In Assembly. Held at Desk.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-03",
+      "action": "Referred to Com. on RLS.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-03",
+      "action": "Coauthors revised.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-03",
+      "action": "From committee: Be adopted. Ordered to consent calendar. (Ayes 6. Noes 0.) (September 3).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-08",
+      "action": "Read. Adopted. (Ayes 71. Noes 0. Page 3041.) Ordered to the Senate.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-08",
+      "action": "In Senate. Ordered to engrossing and enrolling.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-18",
+      "action": "Enrolled and filed with the Secretary of State at 1 p.m.",
+      "chamber": ""
+    },
+    {
+      "date": "2025-09-18",
+      "action": "Chaptered by Secretary of State. Res. Chapter 188, Statutes of 2025.",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-08-29",
+      "description": "Senate 3rd Reading SCR104 Valladares et al",
+      "yea": 37,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-03",
+      "description": "Be adopted. To Consent Calendar",
+      "yea": 6,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-08",
+      "description": "SCR 104 Valladares Consent Calendar Second Day Regular Session",
+      "yea": 71,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-08-19",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SCR104#99INT",
+      "doc_id": 3265704
+    },
+    {
+      "date": "2025-09-10",
+      "type": "Enrolled",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SCR104#98ENR",
+      "doc_id": 3268581
+    },
+    {
+      "date": "2025-09-18",
+      "type": "Chaptered",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SCR104#97CHP",
+      "doc_id": 3270259
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

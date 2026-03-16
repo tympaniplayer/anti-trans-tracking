@@ -1,0 +1,90 @@
+{
+  "id": 2102614,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB4714",
+  "title": "CHILDREN'S MENTAL HLTH ACT",
+  "summary": "Amends the Children's Mental Health Act. In provisions concerning the Children's Mental Health Partnership, makes changes to the Partnership's list of duties to include (i) reviewing or facilitating needs assessments (rather than conducting research assessments) to better understand the challenges and gaps of programs, services, and policies related to children's mental health; (ii) monitoring policy development related to children's mental health in Illinois at the local, State, and federal level; and (iii) regularly reviewing aggregate and de-identified data on the need for children's behavioral health services in Illinois that is collected by the Behavioral Health Care and Ongoing Navigation (BEACON) portal to ensure that system transformation can continue to be driven by data. Provides that the Partnership's membership shall include public members who reflect a diversity of sexual orientation; and that all Partnership members shall serve without compensation and with no entitlement to reimbursement for expenses incurred in the performance of their duties. Removes a provision permitting the Partnership to convene study groups. Expands the membership of the adjunct council to include up to 10 youth aged 16 to 25 (rather than up to 6 youth aged 14 to 25) and up to 4 (rather than a minimum of 4) representatives of 4 different community-based organizations that focus on youth mental health. Makes other changes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "bathrooms",
+    "education",
+    "drag"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB4714/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB4714/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4714&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "William Davis (D) [Rep]",
+    "Kelly Cassidy (D) [Rep]",
+    "Debbie Meyers-Martin (D) [Rep]",
+    "Gregg Johnson (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-30",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-30",
+      "action": "Filed with the Clerk by Rep. William \"Will\" Davis",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Assigned to Mental Health & Addiction Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Do Pass / Short Debate Mental Health & Addiction Committee; 013-006-000",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Placed on Calendar 2nd Reading - Short Debate",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Added Chief Co-Sponsor Rep. Kelly M. Cassidy",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Added Co-Sponsor Rep. Debbie Meyers-Martin",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Added Co-Sponsor Rep. Gregg Johnson",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-30",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=207097&DocName=10400HB4714&DocNum=4714&DocTypeID=HB&LegID=165749&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3354033
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

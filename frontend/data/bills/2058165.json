@@ -1,0 +1,86 @@
+{
+  "id": 2058165,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB3426",
+  "title": "International Human Rights Defense Act of 2025",
+  "summary": "A bill to establish in the Department of State a Special Envoy for the Human Rights of LGBTQI+ People, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB3426/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB3426/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3426/all-info",
+  "sponsors": [
+    "Edward Markey (D) [Sen]",
+    "Angela Alsobrooks (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Michael Bennet (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Maria Cantwell (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Catherine Cortez Masto (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "John Fetterman (D) [Sen]",
+    "Kirsten Gillibrand (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "John Hickenlooper (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Tim Kaine (D) [Sen]",
+    "Mark Kelly (D) [Sen]",
+    "Ben Lujan (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Christopher Murphy (D) [Sen]",
+    "Patty Murray (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Gary Peters (D) [Sen]",
+    "Jacky Rosen (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Brian Schatz (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Jeanne Shaheen (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "Elissa Slotkin (D) [Sen]",
+    "Jon Ossoff (D) [Sen]"
+  ],
+  "introduced_date": "2025-12-10",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-12-10",
+      "action": "Read twice and referred to the Committee on Foreign Relations.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-06",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s3426/BILLS-119s3426is.pdf",
+      "doc_id": 3300073
+    }
+  ],
+  "committee": {
+    "committee_id": 2327,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Foreign Relations"
+  },
+  "subjects": [
+    "International affairs"
+  ]
+}

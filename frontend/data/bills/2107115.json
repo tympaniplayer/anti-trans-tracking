@@ -1,0 +1,65 @@
+{
+  "id": 2107115,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "SB569",
+  "title": "Commercial Law - Online Data Privacy - Limits on Data Collection",
+  "summary": "Altering certain requirements for a controller relating to the collection of personal data; and prohibiting a controller, unless consumer consent is obtained, from collecting, processing, sharing, or selling precise geolocation data for the purpose of targeted advertising.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/SB569/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/SB569/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0569?ys=2026RS",
+  "sponsors": [
+    "Arthur Ellis (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-04",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "action": "First Reading Finance",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Hearing 2/19 at 1:00 p.m.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-04",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/sb/sb0569f.pdf",
+      "doc_id": 3348323
+    }
+  ],
+  "committee": {
+    "committee_id": 1932,
+    "chamber": "S",
+    "chamber_id": 50,
+    "name": "Finance"
+  },
+  "subjects": [
+    "Commercial Law - Consumer Protection",
+    "Commerce and Business",
+    "Consumer Protection",
+    "Cybersecurity",
+    "Data",
+    "Ethics",
+    "Information Technology",
+    "internet",
+    "Privacy",
+    "Standards and Best Practices"
+  ]
+}

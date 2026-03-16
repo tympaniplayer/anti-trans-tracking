@@ -1,0 +1,77 @@
+{
+  "id": 2051835,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB5242",
+  "title": "Higher education: other; use of diversity, equity, and inclusion in accreditation decisions; prohibit. Creates new act.",
+  "summary": "Higher education: other; use of diversity, equity, and inclusion in accreditation decisions; prohibit. Creates new act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB5242/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB5242/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-5242",
+  "sponsors": [
+    "Tim Kelly (R) [Rep]",
+    "Ann Bollin (R) [Rep]",
+    "Angela Rigas (R) [Rep]",
+    "Joseph Aragona (R) [Rep]",
+    "Bradley Slagh (R) [Rep]",
+    "Jay DeBoyer (R) [Rep]",
+    "Jason Woolford (R) [Rep]",
+    "Brian BeGole (R) [Rep]",
+    "Donni Steele (R) [Rep]",
+    "Mike Harris (R) [Rep]",
+    "Jerry Neyer (R) [Rep]",
+    "Matthew Maddock (R) [Rep]"
+  ],
+  "introduced_date": "2025-11-06",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-11-06",
+      "action": "Introduced By Representative Rep. Tim Kelly",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-06",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-06",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-12",
+      "action": "Bill Electronically Reproduced 11/06/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-06",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-5242.htm",
+      "doc_id": 3283425
+    }
+  ],
+  "committee": {
+    "committee_id": 899,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Government Operations"
+  },
+  "subjects": [
+    "Higher education: other"
+  ]
+}

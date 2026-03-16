@@ -1,0 +1,59 @@
+{
+  "id": 2109890,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H5017",
+  "title": "Relative to telehealth and digital equity for patients",
+  "summary": "Relative to telehealth and digital equity for patients",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H5017/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H5017/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H5017",
+  "sponsors": [
+    "Joint Committee on Financial Services [Jnt]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "Reported from the committee on Financial Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "New draft of H1130",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Reported favorably by committee and referred to the Joint Committee on Health Care Financing",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-05",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H5017.pdf",
+      "doc_id": 3350608
+    }
+  ],
+  "committee": {
+    "committee_id": 763,
+    "chamber": "J",
+    "chamber_id": 103,
+    "name": "Health Care Financing"
+  },
+  "subjects": []
+}

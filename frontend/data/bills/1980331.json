@@ -1,0 +1,59 @@
+{
+  "id": 1980331,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB1434",
+  "title": "Health care boards: workforce data collection.",
+  "summary": "An act to amend Section 502 of the Business and Professions Code, relating to healing arts.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB1434/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB1434/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1434",
+  "sponsors": [
+    "Michelle Rodriguez (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-21",
+      "action": "Introduced. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-22",
+      "action": "From printer. May be heard in committee March 24.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Read first time.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Died at Desk.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-21",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1434#99INT",
+      "doc_id": 3137119
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

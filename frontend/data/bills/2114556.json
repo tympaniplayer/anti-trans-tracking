@@ -1,0 +1,88 @@
+{
+  "id": 2114556,
+  "state": "AK",
+  "state_name": "Alaska",
+  "bill_number": "HB301",
+  "title": "Discrimination: Gender Id.;sexual Orient.",
+  "summary": "An Act relating to and prohibiting discrimination based on sexual orientation or gender identity or expression.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AK/bill/HB301/2025",
+  "legiscan_url": "https://legiscan.com/AK/bill/HB301/2025",
+  "state_url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB301",
+  "sponsors": [
+    "Alyse Galvin (I) [Rep]",
+    "Sara Hannan (D) [Rep]",
+    "Andrea Story (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-11",
+  "session": "34th Legislature",
+  "actions": [
+    {
+      "date": "2026-02-11",
+      "action": "READ THE FIRST TIME - REFERRALS",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "STA, JUD",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "REFERRED TO STATE AFFAIRS",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "COSPONSOR(S): HANNAN",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "COSPONSOR(S): STORY",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-11",
+      "type": "Introduced",
+      "url": "https://www.akleg.gov/PDF/34/Bills/HB0301A.PDF",
+      "doc_id": 3359027
+    }
+  ],
+  "committee": {
+    "committee_id": 2139,
+    "chamber": "H",
+    "chamber_id": 13,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "Age Of Persons",
+    "Boards & Commissions",
+    "Credit",
+    "Disabilities",
+    "Divorce",
+    "Employment",
+    "Families",
+    "Financial Institutions",
+    "Housing",
+    "Labor",
+    "Leases",
+    "Property",
+    "Public Accommodations",
+    "Rights",
+    "Wages",
+    "Women"
+  ]
+}

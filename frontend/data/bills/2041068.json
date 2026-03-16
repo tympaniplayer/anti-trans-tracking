@@ -1,0 +1,107 @@
+{
+  "id": 2041068,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "AJR79",
+  "title": "Recognizing June 2025 as LGBTQ Pride Month.",
+  "summary": "Relating to: recognizing June 2025 as LGBTQ Pride Month.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/AJR79/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/AJR79/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr79",
+  "sponsors": [
+    "Christian Phelps (D) [Rep]",
+    "Amaad Rivera-Wagner (D) [Rep]",
+    "Lee Snodgrass (D) [Rep]",
+    "Angelina Cruz (D) [Rep]",
+    "Greta Neubauer (D) [Rep]",
+    "Ryan Spaude (D) [Rep]",
+    "Angela Stroud (D) [Rep]",
+    "Randy Udell (D) [Rep]",
+    "Margaret Arney (D) [Rep]",
+    "Ryan Clancy (D) [Rep]",
+    "Clinton Anderson (D) [Rep]",
+    "Deb Andraca (D) [Rep]",
+    "Mike Bare (D) [Rep]",
+    "Brienne Brown (D) [Rep]",
+    "Karen DeSanto (D) [Rep]",
+    "Ben DeSmidt (D) [Rep]",
+    "Jodi Emerson (D) [Rep]",
+    "Joan Fitzgerald (D) [Rep]",
+    "Francesca Hong (D) [Rep]",
+    "Andrew Hysell (D) [Rep]",
+    "Alex Joers (D) [Rep]",
+    "Tara Johnson (D) [Rep]",
+    "Darrin Madison (D) [Rep]",
+    "Renuka Mayadev (D) [Rep]",
+    "Maureen McCarville (D) [Rep]",
+    "Vinnie Miresse (D) [Rep]",
+    "Supreme Omokunde (D) [Rep]",
+    "Sylvia Ortiz-Velez (D) [Rep]",
+    "Lori Palmeri (D) [Rep]",
+    "Pricilla Prado (D) [Rep]",
+    "Ann Roe (D) [Rep]",
+    "Shelia Stubbs (D) [Rep]",
+    "Lisa Subeck (D) [Rep]",
+    "Angelito Tenorio (D) [Rep]",
+    "Robyn Vining (D) [Rep]",
+    "Kalan Haywood (D) [Rep]",
+    "Kelda Roys (D) [Sen]",
+    "Mark Spreitzer (D) [Sen]",
+    "Timothy Carpenter (D) [Sen]",
+    "Kristin Dassler-Alfheim (D) [Sen]",
+    "Melissa Ratcliff (D) [Sen]",
+    "Dora Drake (D) [Sen]",
+    "Jodi Habush Sinykin (D) [Sen]",
+    "Dianne Hesselbein (D) [Sen]",
+    "LaTonya Johnson (D) [Sen]",
+    "Sarah Keyeski (D) [Sen]",
+    "Christopher Larson (D) [Sen]",
+    "Jeff Smith (D) [Sen]",
+    "Jamie Wall (D) [Sen]"
+  ],
+  "introduced_date": "2025-07-31",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-07-31",
+      "action": "Introduced",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-07-31",
+      "action": "Read and referred to Committee on Rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Representative J. Jacobson added as a coauthor",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-31",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AJR79.pdf",
+      "doc_id": 3263655
+    }
+  ],
+  "committee": {
+    "committee_id": 1049,
+    "chamber": "A",
+    "chamber_id": 99,
+    "name": "Rules"
+  },
+  "subjects": []
+}

@@ -1,0 +1,110 @@
+{
+  "id": 2066777,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "HB1476",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 49, relative to public institutions of higher education.",
+  "summary": "As introduced, enacts the \"Charlie Kirk Act.\" - Amends TCA Title 49.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/HB1476/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/HB1476/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB1476&ga=114",
+  "sponsors": [
+    "Gino Bulso (R) [Rep]",
+    "Dennis Powers (R) [Rep]",
+    "John Crawford (R) [Rep]",
+    "Tim Rudd (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-06",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "action": "Filed for introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Intro., P1C.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "P2C, ref. to Education Committee - Judiciary Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Assigned to s/c Higher Education Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Sponsor(s) Added.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Placed on s/c cal Higher Education Subcommittee for 2/18/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Action Def. in s/c Higher Education Subcommittee to 3/4/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Placed on s/c cal Higher Education Subcommittee for 3/4/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Action Def. in s/c Higher Education Subcommittee to 3/18/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Sponsor(s) Added.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Placed on s/c cal Higher Education Subcommittee for 3/18/2026",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-06",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1476.pdf",
+      "doc_id": 3301307
+    },
+    {
+      "date": "2026-01-16",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1476.pdf",
+      "doc_id": 3322352
+    }
+  ],
+  "committee": {
+    "committee_id": 4028,
+    "chamber": "H",
+    "chamber_id": 89,
+    "name": "Higher Education Subcommittee"
+  },
+  "subjects": [
+    "Education, Higher"
+  ]
+}

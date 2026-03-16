@@ -1,0 +1,141 @@
+{
+  "id": 2019005,
+  "state": "ME",
+  "state_name": "Maine",
+  "bill_number": "LD1432",
+  "title": "An Act to Remove Consideration of Gender Identity from the Maine Human Rights Act",
+  "summary": "An Act to Remove Consideration of Gender Identity from the Maine Human Rights Act",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ME/bill/LD1432/2025",
+  "legiscan_url": "https://legiscan.com/ME/bill/LD1432/2025",
+  "state_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1432&snum=132",
+  "sponsors": [
+    "Michael Soboleski (R) [Rep]",
+    "Gary Drinkwater (R) [Rep]",
+    "Ann Fredericks (R) [Rep]",
+    "David Haggan (R) [Sen]",
+    "Joseph Martin (R) [Sen]",
+    "Mathew McIntyre (R) [Rep]",
+    "Reagan Paul (R) [Rep]",
+    "Chad Perkins (R) [Rep]",
+    "Katrina Smith (R) [Rep]",
+    "Harold Stewart (R) [Sen]"
+  ],
+  "introduced_date": "2025-06-13",
+  "session": "132nd Legislature",
+  "actions": [
+    {
+      "date": "2025-04-03",
+      "action": "Committee on Judiciary suggested and ordered printed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "The Bill was REFERRED to the Committee on JUDICIARY.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "The Bill was REFERRED to the Committee on JUDICIARY  in concurrence",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Work Session Held",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Voted: Divided Report",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "Reported Out: ONTP/OTP-AM",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Reports READ.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "On motion of Representative KUHN of Falmouth, the Majority Ought Not to Pass Report was ACCEPTED.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "ROLL CALL NO. 478 (Yeas 81 - Nays 65 - Absent 3 - Excused 2)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Reports Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "On motion by Senator CARNEY of Cumberland the Majority Ought Not to Pass Report ACCEPTED. in concurrence PREVAILED",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Roll Call Ordered Roll Call Number 546 Yeas 21 - Nays 11 - Excused 3 - Absent 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Placed in Legislative Files (DEAD).",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-13",
+      "description": "Acc Maj Ought Not To Pass Rep RC #478",
+      "yea": 81,
+      "nay": 65,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-13",
+      "description": "Accept Majority Ought Not To Pass Report RC #546",
+      "yea": 21,
+      "nay": 11,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0941&item=1&snum=132",
+      "doc_id": 3198800
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Human Rights",
+    "Gender"
+  ]
+}

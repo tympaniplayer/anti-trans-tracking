@@ -1,0 +1,199 @@
+{
+  "id": 2042897,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "SB405",
+  "title": "A civil cause of action for a minor injured by a gender transition procedure.",
+  "summary": "An Act to create 895.039 of the statutes; Relating to: a civil cause of action for a minor injured by a gender transition procedure.",
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/SB405/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/SB405/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb405",
+  "sponsors": [
+    "Rob Hutton (R) [Sen]",
+    "Chris Kapenga (R) [Sen]",
+    "Julian Bradley (R) [Sen]",
+    "Steve Nass (R) [Sen]",
+    "Amanda Nedweski (R) [Rep]",
+    "David Steffen (R) [Rep]",
+    "Dave Maxey (R) [Rep]",
+    "Lindee Brill (R) [Rep]",
+    "Chanz Green (R) [Rep]",
+    "Nate Gustafson (R) [Rep]",
+    "Jerry O'Connor (R) [Rep]",
+    "Rob Kreibich (R) [Rep]",
+    "Jim Piwowarczyk (R) [Rep]",
+    "William Penterman (R) [Rep]",
+    "Jeffrey Mursau (R) [Rep]",
+    "Scott Allen (R) [Rep]",
+    "Barbara Dittrich (R) [Rep]",
+    "Dan Knodl (R) [Rep]",
+    "David Murphy (R) [Rep]",
+    "Chuck Wichgers (R) [Rep]",
+    "Elijah Behnke (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-20",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-08-28",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-28",
+      "action": "Read first time and referred to Committee on Health",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-05",
+      "action": "Public hearing held",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-10",
+      "action": "Senate Amendment 1 offered by Senator Hutton",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-12",
+      "action": "Executive action taken",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-12",
+      "action": "Report adoption of Senate Amendment 1 recommended by Committee on Health, Ayes 3, Noes 2",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-12",
+      "action": "Report passage as amended recommended by Committee on Health, Ayes 3, Noes 2",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-12",
+      "action": "Available for scheduling",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Placed on calendar 2-11-2026 pursuant to Senate Rule 18(1)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Read a second time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Senate Amendment 1 adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Ordered to a third reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Rules suspended to give bill its third reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Read a third time and passed",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Ordered immediately messaged",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Received from Senate",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Read",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Rules suspended to withdraw from Senate message and take up",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Read a second time",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Ordered to a third reading",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Rules suspended",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Read a third time and concurred in, Ayes 53, Noes 45",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Ordered immediately messaged",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Received from Assembly concurred in",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Report correctly enrolled",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-12",
+      "description": "Assembly: Read a third time and concurred in",
+      "yea": 53,
+      "nay": 45,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-08-28",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/SB405.pdf",
+      "doc_id": 3266711
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Enrolled",
+      "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/SB405.pdf",
+      "doc_id": 3366175
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

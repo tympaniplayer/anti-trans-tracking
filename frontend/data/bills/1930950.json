@@ -1,0 +1,153 @@
+{
+  "id": 1930950,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S02491",
+  "title": "Prohibits peremptory challenges of prospective jurors based on race, color, national origin, ancestry, gender, gender identity or expression, religion, religious practice, age, disability, or sexual orientation.",
+  "summary": "Prohibits peremptory challenges of prospective jurors based on race, color, national origin, ancestry, gender, gender identity or expression, religion, religious practice, age, disability, or sexual orientation.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "religious_exemptions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S02491/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S02491/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S2491",
+  "sponsors": [
+    "Andrew Gounardes (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-12",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-21",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "1ST REPORT CAL.678",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "ADVANCED TO THIRD READING",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "died in assembly",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "returned to senate",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "1ST REPORT CAL.368",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "ADVANCED TO THIRD READING",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "referred to codes",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-09",
+      "description": "Senate Codes Committee Vote",
+      "yea": 11,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-12",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 43,
+      "nay": 14,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-24",
+      "description": "Senate Codes Committee Vote",
+      "yea": 9,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-10",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 46,
+      "nay": 15,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-21",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S02491&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S02491",
+      "doc_id": 3068490
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

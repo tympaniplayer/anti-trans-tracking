@@ -1,0 +1,77 @@
+{
+  "id": 2080128,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "HB1286",
+  "title": "Assault and battery; employees of state or local department of social services, penalty.",
+  "summary": "Assault and battery; employees of state or local department of social services; penalty. Provides that any person who commits a battery against another knowing or having reason to know that such individual is an employee of a local department of social services or the State Department of Social Services who is engaged in the performance of his duties is guilty of a Class 1 misdemeanor. The bill also provides that the sentence of such person, upon conviction, shall include a term of confinement of 15 days in jail, two days of which shall be a mandatory minimum term of confinement.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "drag"
+  ],
+  "primary_category": "drag",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/HB1286/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/HB1286/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/HB1286",
+  "sponsors": [
+    "Wendell Walker (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Presented and ordered printed 26104657D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Referred to Committee for Courts of Justice",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-24",
+      "action": "Assigned HCJ sub: Criminal",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Subcommittee recommends laying on the table (7-Y 2-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Left in Committee Courts of Justice",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-28",
+      "description": "Subcommittee recommends laying on the table (7-Y 2-N)",
+      "yea": 7,
+      "nay": 2,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB1286/text/HB1286",
+      "doc_id": 3317169
+    }
+  ],
+  "committee": {
+    "committee_id": 150,
+    "chamber": "H",
+    "chamber_id": 7,
+    "name": "Courts of Justice"
+  },
+  "subjects": []
+}

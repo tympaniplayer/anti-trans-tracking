@@ -1,0 +1,103 @@
+{
+  "id": 1993740,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A06596",
+  "title": "Requires Medicaid to cover gender-affirming care regardless of federal funding; prohibits discriminatory practices by health care entities including hospitals, certain professionals, and insurers; requires insurance coverage for services or treatments for gender dysphoria or gender incongruence.",
+  "summary": "Requires Medicaid to cover gender-affirming care regardless of federal funding; prohibits discriminatory practices by health care entities including hospitals, certain professionals, and insurers; requires insurance coverage for services or treatments for gender dysphoria or gender incongruence.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A06596/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A06596/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A6596",
+  "sponsors": [
+    "Linda Rosenthal (D) [Rep]",
+    "Catalina Cruz (D) [Rep]",
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Jennifer Lunsford (D) [Rep]",
+    "Maritza Davila (D) [Rep]",
+    "Tony Simone (D) [Rep]",
+    "Harvey Epstein (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "Gabriella Romero (D) [Rep]",
+    "Patrick Carroll (D) [Rep]",
+    "Demond Meeks (D) [Rep]",
+    "Anna Kelles (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Maryjane Shimsky (D) [Rep]",
+    "Alex Bores (D) [Rep]",
+    "Jo Simon (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-06",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-06",
+      "action": "referred to health",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "amend (t) and recommit to health",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "print number 6596a",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to health",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "amend and recommit to health",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "print number 6596b",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-06",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06596&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06596",
+      "doc_id": 3156710
+    },
+    {
+      "date": "2025-03-06",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06596&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06596A",
+      "doc_id": 3250476
+    },
+    {
+      "date": "2025-03-06",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06596&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06596B",
+      "doc_id": 3379422
+    }
+  ],
+  "committee": {
+    "committee_id": 369,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Health"
+  },
+  "subjects": []
+}

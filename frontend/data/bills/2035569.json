@@ -1,0 +1,78 @@
+{
+  "id": 2035569,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "SB0359",
+  "title": "Consumer protection: privacy; personal data privacy act; create. Creates new act.",
+  "summary": "Consumer protection: privacy; personal data privacy act; create. Creates new act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/SB0359/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/SB0359/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0359",
+  "sponsors": [
+    "Rosemary Bayer (D) [Sen]",
+    "Stephanie Chang (D) [Sen]",
+    "Mary Cavanagh (D) [Sen]",
+    "Erika Geiss (D) [Sen]",
+    "Mallory McMorrow (D) [Sen]",
+    "Sue Shink (D) [Sen]",
+    "Sarah Anthony (D) [Sen]",
+    "Jeff Irwin (D) [Sen]",
+    "Sylvia Santana (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-05",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-06-05",
+      "action": "Introduced By Senator Rosemary Bayer",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-05",
+      "action": "Referred To Committee On Finance, Insurance, And Consumer Protection",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "Reported Favorably Without Amendment 6/11/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "Referred To Committee Of The Whole",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-12",
+      "description": "Reported Favorably Without Amendment 6/11/2025",
+      "yea": 5,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-06-05",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/htm/2025-SIB-0359.htm",
+      "doc_id": 3252083
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Consumer protection: privacy",
+    "Communications: Internet"
+  ]
+}

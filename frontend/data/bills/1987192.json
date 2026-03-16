@@ -1,0 +1,63 @@
+{
+  "id": 1987192,
+  "state": "ME",
+  "state_name": "Maine",
+  "bill_number": "HP0504",
+  "title": "JOINT RESOLUTION RECOGNIZING MARCH 2025 AS SOCIAL WORK MONTH",
+  "summary": "JOINT RESOLUTION RECOGNIZING MARCH 2025 AS SOCIAL WORK MONTH",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ME/bill/HP0504/2025",
+  "legiscan_url": "https://legiscan.com/ME/bill/HP0504/2025",
+  "state_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?paper=HP0504&snum=132",
+  "sponsors": [
+    "Lori Gramlich (D) [Rep]",
+    "Marshall Archer (D) [Rep]",
+    "Poppy Arford (D) [Rep]",
+    "Michael Brennan (D) [Rep]",
+    "Lydia Crafts (D) [Rep]",
+    "Deqa Dhalac (D) [Rep]",
+    "Henry Ingwersen (D) [Sen]",
+    "Kristi Mathieson (D) [Rep]",
+    "Melanie Sachs (D) [Rep]",
+    "Rachel Talbot Ross (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-04",
+  "session": "132nd Legislature",
+  "actions": [
+    {
+      "date": "2025-03-04",
+      "action": "READ and ADOPTED.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "READ and ADOPTED, in concurrence.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0504&item=1&snum=132",
+      "doc_id": 3146020
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

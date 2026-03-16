@@ -1,0 +1,69 @@
+{
+  "id": 1999302,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S1720",
+  "title": "To build restorative family and community connection",
+  "summary": "For legislation relative to regulating visits in state prisons and correctional facilities. Public Safety and Homeland Security.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S1720/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S1720/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S1720",
+  "sponsors": [
+    "Liz Miranda (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Public Safety and Homeland Security",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-01",
+      "action": "Hearing scheduled for 10/15/2025 from 01:00 PM-05:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-15",
+      "action": "Hearing rescheduled to 10/15/2025 from 01:00 PM-06:00 PM in A-2 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-15",
+      "action": "Hearing rescheduled to 10/15/2025 from 01:00 PM-06:20 PM in A-2 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Accompanied a new draft, see S2858",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S1720.pdf",
+      "doc_id": 3164580
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1998916,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S340",
+  "title": "Relative to healthy youth",
+  "summary": "For legislation relative to healthy youth. Education.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S340/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S340/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S340",
+  "sponsors": [
+    "Salvatore DiDomenico (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-02",
+      "action": "Hearing scheduled for 09/16/2025 from 11:00 AM-5:00 PM in Gardner Auditorium",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-11-13",
+      "action": "Accompanied by S336",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-13",
+      "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S340.pdf",
+      "doc_id": 3164191
+    }
+  ],
+  "committee": {
+    "committee_id": 746,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

@@ -1,0 +1,309 @@
+{
+  "id": 2073872,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "HB677",
+  "title": "Residential property owners; insurance policies, roofing services by contractors.",
+  "summary": "Residential property owners; insurance policies; roofing services by contractors; prohibited practices and consumer protection. Prohibits insurers from refusing coverage or canceling, refusing to renew, or increasing the premiums of a policy written to insure an owner-occupied dwelling solely based on the age or condition of the asphalt shingle\u00a0roof, except in certain circumstances. The bill also contains provisions related to consumer protection in the context of contractors providing roofing services for residential property owners. The bill prohibits certain advertisements and conduct by contractors in such context. The bill includes contract terms that must be included by contractors in such context, and permits a residential property owner to cancel a contract for roofing services in the case of a declaration of a state of emergency by the Governor applicable to the geographic area where the property is located. Provisions of the bill related to prohibited conduct and requirements for contractors providing roofing services are subject to the enforcement provisions of the Consumer Protection Act. The bill has a delayed effective date of January 1, 2027.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/HB677/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/HB677/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/HB677",
+  "sponsors": [
+    "Michelle Maldonado (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-16",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26105215D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Referred to Committee on Labor and Commerce",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Assigned HCL sub: Subcommittee #1",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "House subcommittee offered",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Subcommittee recommends reporting with substitute (8-Y 1-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Reported from Labor and Commerce with substitute (22-Y 0-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Committee substitute printed 26107049D-H1",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-08",
+      "action": "Fiscal Impact Statement from State Corporation Commission (HB677)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Motion to refer to Appropriations agreed to",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Referred to Committee on Appropriations",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Assigned HAPP sub: Commerce Agriculture & Natural Resources",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Subcommittee recommends reporting with substitute (7-Y 0-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Reported from Appropriations with substitute (22-Y 0-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Committee substitute printed 26107777D-H2",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "Read second time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "committee substitute rejected",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "committee substitute agreed to",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "Engrossed by House - committee substitute",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Read third time and passed House (97-Y 0-N 0-A)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Constitutional reading dispensed (on 1st reading)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Referred to Committee on Commerce and Labor",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Rereferred from Commerce and Labor to General Laws and Technology (12-Y 0-N)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Senate committee offered",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Fiscal Impact Statement from State Corporation Commission (HB677)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Reported from General Laws and Technology with amendment (15-Y 0-N)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Rules suspended",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Constitutional reading dispensed Block Vote (on 2nd reading) (39-Y 0-N 0-A)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Passed by for the day Block Vote (Voice Vote)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Read third time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "General Laws and Technology Amendment agreed to",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Engrossed by Senate as amended",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Passed Senate with amendment Block Vote (40-Y 0-N 0-A)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Senate amendment agreed to by House (95-Y 4-N 0-A)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-03",
+      "description": "Subcommittee recommends reporting with substitute (8-Y 1-N)",
+      "yea": 8,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-05",
+      "description": "Reported from Labor and Commerce with substitute (22-Y 0-N)",
+      "yea": 22,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-13",
+      "description": "Subcommittee recommends reporting with substitute (7-Y 0-N)",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-13",
+      "description": "Reported from Appropriations with substitute (22-Y 0-N)",
+      "yea": 22,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-17",
+      "description": "Read third time and passed House (97-Y 0-N 0-A)",
+      "yea": 97,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-23",
+      "description": "Rereferred from Commerce and Labor to General Laws and Technology (12-Y 0-N)",
+      "yea": 12,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-04",
+      "description": "Reported from General Laws and Technology with amendment (15-Y 0-N)",
+      "yea": 15,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-09",
+      "description": "Passed Senate with amendment Block Vote (40-Y 0-N 0-A)",
+      "yea": 40,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-10",
+      "description": "Senate amendment agreed to by House (95-Y 4-N 0-A)",
+      "yea": 95,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "Constitutional reading dispensed Block Vote (on 2nd reading) (39-Y 0-N 0-A)",
+      "yea": 39,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-13",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB677/text/HB677",
+      "doc_id": 3310679
+    },
+    {
+      "date": "2026-02-03",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB677/text/HB677HC1",
+      "doc_id": 3347506
+    },
+    {
+      "date": "2026-02-04",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB677/text/HB677H1",
+      "doc_id": 3348753
+    },
+    {
+      "date": "2026-02-13",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB677/text/HB677HC2",
+      "doc_id": 3362490
+    },
+    {
+      "date": "2026-02-13",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB677/text/HB677H2",
+      "doc_id": 3362943
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

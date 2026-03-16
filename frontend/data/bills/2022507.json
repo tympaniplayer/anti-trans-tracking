@@ -1,0 +1,69 @@
+{
+  "id": 2022507,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR321",
+  "title": "Supporting the goals and ideals of the Rise Up for LGBTQI+ Youth in Schools Initiative, a call to action to communities across the country to demand equal educational opportunity, basic civil rights protections, and freedom from erasure for all students, particularly LGBTQI+ young people, in K-12 schools.",
+  "summary": "Supporting the goals and ideals of the Rise Up for LGBTQI+ Youth in Schools Initiative, a call to action to communities across the country to demand equal educational opportunity, basic civil rights protections, and freedom from erasure for all students, particularly LGBTQI+ young people, in K-12 schools.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR321/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR321/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/321/all-info",
+  "sponsors": [
+    "Mark Takano (D) [Rep]",
+    "Betty McCollum (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Raja Krishnamoorthi (D) [Rep]",
+    "Linda Sanchez (D) [Rep]",
+    "Andre Carson (D) [Rep]",
+    "Darren Soto (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Jerrold Nadler (D) [Rep]",
+    "Gwen Moore (D) [Rep]",
+    "Becca Balint (D) [Rep]",
+    "Josh Gottheimer (D) [Rep]",
+    "Lateefah Simon (D) [Rep]",
+    "Andrea Salinas (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-09",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-04-09",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Referred to the House Committee on Education and Workforce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-10",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres321/BILLS-119hres321ih.pdf",
+      "doc_id": 3208138
+    }
+  ],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

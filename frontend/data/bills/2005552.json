@@ -1,0 +1,89 @@
+{
+  "id": 2005552,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB986",
+  "title": "Safe Schools Improvement Act",
+  "summary": "A bill to address and take action to prevent bullying and harassment of students.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB986/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB986/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/986/all-info",
+  "sponsors": [
+    "Tim Kaine (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Michael Bennet (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Catherine Cortez Masto (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "John Fetterman (D) [Sen]",
+    "John Hickenlooper (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Amy Klobuchar (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Patty Murray (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Gary Peters (D) [Sen]",
+    "Jacky Rosen (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Jeanne Shaheen (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Mark Warner (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Christopher Murphy (D) [Sen]",
+    "Maria Cantwell (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "Ben Lujan (D) [Sen]",
+    "Andy Kim (D) [Sen]",
+    "Lisa Rochester (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Jack Reed (D) [Sen]",
+    "Elissa Slotkin (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Mark Kelly (D) [Sen]",
+    "Angela Alsobrooks (D) [Sen]",
+    "Sheldon Whitehouse (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-12",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-03-12",
+      "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-28",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s986/BILLS-119s986is.pdf",
+      "doc_id": 3194207
+    }
+  ],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

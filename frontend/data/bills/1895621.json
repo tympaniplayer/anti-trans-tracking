@@ -1,0 +1,85 @@
+{
+  "id": 1895621,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "H3506",
+  "title": "Human Biological Sexes",
+  "summary": "Amend The South Carolina Code Of Laws By Adding Article 29 To Chapter 1, Title 1 So As To Provide Definitions And Other Rules Of Construction Relating To Human Biological Sexes For Purposes Of The Laws, Administrative Regulations, And Guidelines Of South Carolina.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/H3506/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/H3506/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3506&session=126&summary=B",
+  "sponsors": [
+    "Travis Moore (R) [Rep]",
+    "Josiah Magnuson (R) [Rep]",
+    "John Mccravy (R) [Rep]",
+    "David Vaughan (R) [Rep]",
+    "Cody Mitchell (R) [Rep]",
+    "Luke Rankin (R) [Rep]",
+    "Steven Long (R) [Rep]",
+    "Melissa Oremus (R) [Rep]",
+    "Daniel Gibson (R) [Rep]",
+    "Brian Lawson (R) [Rep]",
+    "James Burns (R) [Rep]",
+    "Sarita Edgerton (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-14",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2024-12-05",
+      "action": "Prefiled",
+      "chamber": "H"
+    },
+    {
+      "date": "2024-12-05",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Introduced and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-16",
+      "action": "Member(s) request name added as sponsor: Vaughan",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Member(s) request name added as sponsor: C.Mitchell, Rankin, Long, Oremus, Gibson, Lawson, Burns, Edgerton",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-12-05",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3506_20241205.htm",
+      "doc_id": 3031718
+    }
+  ],
+  "committee": {
+    "committee_id": 708,
+    "chamber": "H",
+    "chamber_id": 85,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

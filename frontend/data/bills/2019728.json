@@ -1,0 +1,175 @@
+{
+  "id": 2019728,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S07202",
+  "title": "Establishes the crimes of unlawful dissemination or publication of intimate images in the first, second, and third degree; defines terms and clarifies application of provisions relating to such crimes; extends the statute of limitations for such crimes; repeals provisions relating thereto.",
+  "summary": "Establishes the crimes of unlawful dissemination or publication of intimate images in the first, second, and third degree; defines terms and clarifies application of provisions relating to such crimes; extends the statute of limitations for such crimes; repeals provisions relating thereto.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S07202/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S07202/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S7202",
+  "sponsors": [
+    "Michelle Hinchey (D) [Sen]",
+    "Andrew Gounardes (D) [Sen]",
+    "Joseph Addabbo (D) [Sen]",
+    "Stephen Chan (R) [Sen]",
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "Liz Krueger (D) [Sen]",
+    "Dean Murray (R) [Sen]",
+    "Steven Rhoads (R) [Sen]",
+    "Robert Rolison (R) [Sen]",
+    "Christopher Ryan (D) [Sen]",
+    "Jessica Scarcella-Spanton (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-12",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-04-03",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "1ST REPORT CAL.918",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "ADVANCED TO THIRD READING",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "AMENDED ON THIRD READING 7202A",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "died in assembly",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "returned to senate",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "1ST REPORT CAL.278",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "ADVANCED TO THIRD READING",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "referred to codes",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-05",
+      "description": "Senate Codes Committee Vote",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-12",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 59,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-04",
+      "description": "Senate Codes Committee Vote",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-11",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 62,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-04-03",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S07202&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S07202",
+      "doc_id": 3200525
+    },
+    {
+      "date": "2025-04-03",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S07202&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S07202A",
+      "doc_id": 3253415
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

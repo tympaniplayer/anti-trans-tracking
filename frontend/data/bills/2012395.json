@@ -1,0 +1,54 @@
+{
+  "id": 2012395,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A07175",
+  "title": "Expands insurance coverage for in vitro fertilization; includes coverage under individual policies; provides coverage for three complete oocyte retrievals and in vitro fertilization with unlimited embryo transfers.",
+  "summary": "Expands insurance coverage for in vitro fertilization; includes coverage under individual policies; provides coverage for three complete oocyte retrievals and in vitro fertilization with unlimited embryo transfers.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A07175/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A07175/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A7175",
+  "sponsors": [
+    "Rodneyse Bichotte Hermelyn (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-21",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-21",
+      "action": "referred to insurance",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to insurance",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-21",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A07175&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A07175",
+      "doc_id": 3184689
+    }
+  ],
+  "committee": {
+    "committee_id": 372,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Insurance"
+  },
+  "subjects": []
+}

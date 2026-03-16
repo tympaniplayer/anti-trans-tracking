@@ -1,0 +1,57 @@
+{
+  "id": 2060166,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "HB2519",
+  "title": "Modifies provisions relating to hate offenses and establishes new programs that provide assistance to victims of such offenses",
+  "summary": "Modifies provisions relating to hate offenses and establishes new programs that provide assistance to victims of such offenses",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/HB2519/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/HB2519/2026",
+  "state_url": "https://house.mo.gov/Bill.aspx?bill=HB2519&year=2026&code=R",
+  "sponsors": [
+    "Ray Reed (D) [Rep]",
+    "Jeff Hales (D) [Rep]",
+    "Marla Smith (D) [Rep]",
+    "Mark Boyko (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-18",
+      "action": "Prefiled (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Read First Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Read Second Time (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-18",
+      "type": "Introduced",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5637H.01I.pdf",
+      "doc_id": 3292227
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

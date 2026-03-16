@@ -1,0 +1,95 @@
+{
+  "id": 1957264,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB1679",
+  "title": "HEALTH CARE TRANSPARENCY",
+  "summary": "Creates the Health Care Transparency Act. Provides that the Department of Public Health shall identify reproductive health care services, LGBTQ health care services, and end-of-life health care services that are or may be subject to denial of care for nonmedical reasons in the State and develop a clear and simple disclosure form for the purpose of conveying to patients and to the public which of the identified health care services are and are not generally available, are subject to restriction for nonmedical reasons, and are subject to restrictions on referral by each covered entity. Requires the Department to publish and maintain on its public-facing website a current list of covered entities and provide for public access to the disclosure form submitted by each covered entity; adopt rules implementing the Department's duties; and develop and administer to the public an education and awareness program regarding how denial of care may negatively impact health care access and quality, may be avoided, and affects vulnerable people and communities. Establishes disclosure requirements for covered entities. Effective immediately.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB1679/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB1679/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1679&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "Omar Aquino (D) [Sen]",
+    "David Koehler (D) [Sen]",
+    "Graciela Guzman (D) [Sen]",
+    "Mary Edly-Allen (D) [Sen]",
+    "Mike Simmons (D) [Sen]",
+    "Karina Villa (D) [Sen]",
+    "Rachel Ventura (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-05",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-05",
+      "action": "Filed with Secretary by Sen. Omar Aquino",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Added as Chief Co-Sponsor Sen. David Koehler",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Added as Co-Sponsor Sen. Mary Edly-Allen",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Added as Co-Sponsor Sen. Mike Simmons",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Added as Co-Sponsor Sen. Karina Villa",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Added as Chief Co-Sponsor Sen. Graciela Guzm\u00e1n",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Added as Co-Sponsor Sen. Rachel Ventura",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-05",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=200382&DocName=10400SB1679&DocNum=1679&DocTypeID=SB&LegID=160595&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3102203
+    }
+  ],
+  "committee": {
+    "committee_id": 254,
+    "chamber": "S",
+    "chamber_id": 36,
+    "name": "Assignments"
+  },
+  "subjects": []
+}

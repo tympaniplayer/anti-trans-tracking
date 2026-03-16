@@ -1,0 +1,53 @@
+{
+  "id": 2074997,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S2627",
+  "title": "Establishes Advisory Commission on Advancing LGBTQIA+ Youth Equity and Inclusion in Schools.",
+  "summary": "Establishes Advisory Commission on Advancing LGBTQIA+ Youth Equity and Inclusion in Schools.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S2627/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S2627/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S2627",
+  "sponsors": [
+    "Vin Gopal (D) [Sen]",
+    "Teresa Ruiz (D) [Sen]",
+    "Troy Singleton (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Education Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-06",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S3000/2627_I1.HTM",
+      "doc_id": 3312028
+    }
+  ],
+  "committee": {
+    "committee_id": 877,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Education"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

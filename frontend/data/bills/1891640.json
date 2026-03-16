@@ -1,0 +1,84 @@
+{
+  "id": 1891640,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB230",
+  "title": "Relating to the establishment of the office of community violence intervention and prevention within the Department of State Health Services and a grant program for violence intervention and prevention services.",
+  "summary": "Relating to the establishment of the office of community violence intervention and prevention within the Department of State Health Services and a grant program for violence intervention and prevention services.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB230/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB230/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB230",
+  "sponsors": [
+    "Jon Rosenthal (D) [Rep]",
+    "Lauren Ashley Simmons (D) [Rep]",
+    "Eugene Wu (D) [Rep]",
+    "Maria Flores (D) [Rep]",
+    "Cassandra Garcia Hernandez (D) [Rep]",
+    "Linda Garcia (D) [Rep]",
+    "Vikki Goodwin (D) [Rep]",
+    "Donna Howard (D) [Rep]",
+    "Suleman Lalani (D) [Rep]",
+    "Terry Meza (D) [Rep]",
+    "Penny Morales Shaw (D) [Rep]",
+    "Christina Morales (D) [Rep]",
+    "Mihaela Plesa (D) [Rep]",
+    "Hubert Vo (D) [Rep]"
+  ],
+  "introduced_date": "2024-11-12",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-12",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Referred to Public Health",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-11-12",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00230I.htm",
+      "doc_id": 3027130
+    }
+  ],
+  "committee": {
+    "committee_id": 1892,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Public Health"
+  },
+  "subjects": [
+    "Crime Prevention",
+    "Health",
+    "Health--General",
+    "State Agencies, Boards & Commissions",
+    "State Agencies, Boards & Commissions--Newly Proposed",
+    "COMMUNITY VIOLENCE INTERVENTION & PREVENTION, OFFICE OF",
+    "HEALTH & HUMAN SERVICES COMMISSION",
+    "STATE HEALTH SERVICES, DEPARTMENT OF",
+    "Mental Health & Substance Abuse",
+    "State Finances",
+    "State Finances--Management & Control"
+  ]
+}

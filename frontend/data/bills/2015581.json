@@ -1,0 +1,56 @@
+{
+  "id": 2015581,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB1147",
+  "title": "Defining Male and Female Act of 2025",
+  "summary": "A bill to establish clear and consistent biological definitions of male and female.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB1147/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB1147/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1147/all-info",
+  "sponsors": [
+    "Roger Marshall (R) [Sen]",
+    "Bill Cassidy (R) [Sen]",
+    "Tim Sheehy (R) [Sen]",
+    "Cindy Hyde-Smith (R) [Sen]",
+    "Pete Ricketts (R) [Sen]",
+    "James Risch (R) [Sen]"
+  ],
+  "introduced_date": "2025-03-26",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-03-26",
+      "action": "Read twice and referred to the Committee on the Judiciary.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-09",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s1147/BILLS-119s1147is.pdf",
+      "doc_id": 3207545
+    }
+  ],
+  "committee": {
+    "committee_id": 2330,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

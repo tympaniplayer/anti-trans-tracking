@@ -1,0 +1,60 @@
+{
+  "id": 2046205,
+  "state": "FL",
+  "state_name": "Florida",
+  "bill_number": "S0166",
+  "title": "Parental Rights",
+  "summary": "Revising requirements for the provision of maternal health and contraceptive information and services to minors; requiring consent from a parent or guardian for a minor's treatment for certain diseases; repealing a provision relating to minors' access to outpatient crisis intervention services and treatment; requiring school districts to provide parents with specified information before the district administers certain questionnaires or forms to students, etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/FL/bill/S0166/2026",
+  "legiscan_url": "https://legiscan.com/FL/bill/S0166/2026",
+  "state_url": "https://www.flsenate.gov/Session/Bill/2026/166",
+  "sponsors": [
+    "Erin Grall (R) [Sen]"
+  ],
+  "introduced_date": "2025-10-10",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-10-10",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-03",
+      "action": "Referred to Education Pre-K - 12; Health Policy; Rules",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Introduced",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-10",
+      "type": "Introduced",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/166/BillText/Filed/HTML",
+      "doc_id": 3272692
+    }
+  ],
+  "committee": {
+    "committee_id": 547,
+    "chamber": "S",
+    "chamber_id": 28,
+    "name": "Education Pre-K - 12"
+  },
+  "subjects": []
+}

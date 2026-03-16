@@ -1,0 +1,81 @@
+{
+  "id": 1978087,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0310",
+  "title": "An act relating to education on the evolving nature of antisemitism",
+  "summary": "An act relating to education on the evolving nature of antisemitism",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0310/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0310/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.310",
+  "sponsors": [
+    "Casey Toof (R) [Rep]",
+    "Matt Birong (D) [Rep]",
+    "Sarita Austin (D) [Rep]",
+    "Alyssa Black (D) [Rep]",
+    "David Bosch (R) [Rep]",
+    "Thomas Burditt (R) [Rep]",
+    "Gregory Burtt (R) [Rep]",
+    "Thomas Charlton (R) [Rep]",
+    "Voranus Coffin IV (R) [Rep]",
+    "Allen Demar (R) [Rep]",
+    "Joshua Dobrovich (R) [Rep]",
+    "Alice Emmons (D) [Rep]",
+    "Gina Galfetti (R) [Rep]",
+    "Kenneth Goslant (R) [Rep]",
+    "William Greer (D) [Rep]",
+    "Lisa Hango (R) [Rep]",
+    "Jim Harrison (R) [Rep]",
+    "Zachary Harvey (R) [Rep]",
+    "Philip Hooper (D) [Rep]",
+    "Robert Hooper (D) [Rep]",
+    "John Kascenska (R) [Rep]",
+    "Emilie Krasnow (D) [Rep]",
+    "Wayne Laroche (R) [Rep]",
+    "Joseph Luneau (R) [Rep]",
+    "Patricia McCoy (R) [Rep]",
+    "Michael Morgan (R) [Rep]",
+    "Kristi Morris (D) [Rep]",
+    "Todd Nielsen (R) [Rep]",
+    "Robert North (R) [Rep]",
+    "Sandra Pinsonault (R) [Rep]",
+    "Christopher Pritchard (R) [Rep]",
+    "Beth Quimby (R) [Rep]",
+    "Michael Tagliavia (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-21",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-02-21",
+      "action": "Read first time and referred to the Committee on Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-20",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0310/H-0310%20As%20Introduced.pdf",
+      "doc_id": 3134059
+    }
+  ],
+  "committee": {
+    "committee_id": 784,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "Education"
+  },
+  "subjects": []
+}

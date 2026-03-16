@@ -1,0 +1,66 @@
+{
+  "id": 1895596,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "H3160",
+  "title": "Uniform Antidiscrimination Act",
+  "summary": "Amend The South Carolina Code Of Laws By Enacting The \"uniform Antidiscrimination Act\" By Adding Section 31-21-65 So As To Prohibit Discrimination In Housing On The Basis Of Race, Color, Or National Origin, And To Define A Necessary Term; By Adding Section 45-9-11 So As To Prohibit Discrimination In Public Accommodations On The Basis Of Race, Color, Or National Origin, And To Define A Necessary Term; By Adding Section 59-63-41 So As To Prohibit Discrimination In Certain School Or School Administrative Matters On The Basis Of Race, Color, Or National Origin, To Define A Necessary Term, And To Limit Liability Of Education Organizations In Certain Circumstances; By Amending Section 1-13-20, Relating To The Policy Of The State Human Affairs Commission, So As To Expand The Definition Of \"discrimination\"; By Amending Section 1-13-30, Relating To Definitions In The South Carolina Human Affairs Law, So As To Clarify A Definition; By Amending Section 1-13-80, Relating To Unlawful Employment Practices And Exceptions Under The South Carolina Human Affairs Law, So As To Prohibit Discrimination By An Employer On The Basis Of An Individual's Gender Identity Or Sexual Orientation, And To Limit The Liability Of Covered Employers In Certain Circumstances; And By Amending Section 1-32-60, Relating To Applicability And Construction Of The South Carolina Religious Freedom Act, Section 31-21-40, Relating To Discrimination In Relation To Sale Or Rental Of Property Under The South Carolina Fair Housing Law, Section 31-21-50, Relating To Discrimination In Relation To Membership Or Participation In Certain Realtor Services And Organizations, Section 31-21-60, Relating To Discrimination In Relation To Residential Real Estate-related Transactions, Section 44-69-80, Relating To Discrimination By Home Health Agencies On Certain Bases, Section 44-71-90, Relating To Discrimination By Hospices On Certain Bases, And Section 45-9-10, Relating To The Right To Equal Enjoyment Of And Privileges To Public Accommodations, All So As To Make Conforming Changes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions",
+    "education",
+    "religious_exemptions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/H3160/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/H3160/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3160&session=126&summary=B",
+  "sponsors": [
+    "Todd Rutherford (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-14",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2024-12-05",
+      "action": "Prefiled",
+      "chamber": "H"
+    },
+    {
+      "date": "2024-12-05",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Introduced and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-12-05",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3160_20241205.htm",
+      "doc_id": 3031693
+    }
+  ],
+  "committee": {
+    "committee_id": 708,
+    "chamber": "H",
+    "chamber_id": 85,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

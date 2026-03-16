@@ -1,0 +1,85 @@
+{
+  "id": 2057666,
+  "state": "NH",
+  "state_name": "New Hampshire",
+  "bill_number": "HB1562",
+  "title": "Relative to licensing requirements for health care facilities that operate on a membership-based business model.",
+  "summary": "Relative to licensing requirements for health care facilities that operate on a membership-based business model.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NH/bill/HB1562/2026",
+  "legiscan_url": "https://legiscan.com/NH/bill/HB1562/2026",
+  "state_url": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2358&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1562",
+  "sponsors": [
+    "Mark McLean (R) [Rep]",
+    "Mark Warden (R) [Rep]",
+    "Lisa Mazur (R) [Rep]",
+    "Keith Ammon (R) [Rep]",
+    "Jim Kofalt (R) [Rep]",
+    "Victoria Sullivan (R) [Sen]"
+  ],
+  "introduced_date": "2025-12-10",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-10",
+      "action": "Introduced 01/07/2026 and referred to Health, Human Services and Elderly Affairs",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Public Hearing: 01/28/2026 01:00 pm GP 158",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "==RECESSED== Executive Session: 01/28/2026 02:30 pm GP 158",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "==CONTINUED== Executive Session: 02/11/2026 02:30 pm GP 158",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Majority Committee Report: Ought to Pass with Amendment # 2026-0415h 02/11/2026 (Vote 10-8; Regular Calendar)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Minority Committee Report: Inexpedient to Legislate",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Amendment # 2026-0415h: Amendment Adopted Voice Vote 03/11/2026 House Journal  7",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Ought to Pass with Amendment 2026-0415h: Motion Adopted DV 181-149 03/11/2026 House Journal  7",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&id=1558&txtFormat=html",
+      "doc_id": 3290272
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

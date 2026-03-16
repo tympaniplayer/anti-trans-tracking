@@ -1,0 +1,79 @@
+{
+  "id": 2015213,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "CER26-0027",
+  "title": "Sexual Assault Awareness Month Recognition Resolution of 2025",
+  "summary": "Sexual Assault Awareness Month Recognition Resolution of 2025",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/CER26-0027/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/CER26-0027/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/CER26-0027",
+  "sponsors": [
+    "Brooke Pinto (D) [Sen]",
+    "Charles Allen (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-01",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2025-03-25",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Retained by the Council",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Final Reading, CC",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Approved with Resolution Number ACR26-0027",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-05-02",
+      "action": "Resolution ACR26-0027, Effective from Apr 01, 2025 Published in DC Register Vol 72 and Page 005352",
+      "chamber": "C"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-01",
+      "description": "Final Reading, CC",
+      "yea": 12,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-03-25",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/57426/Introduction/CER26-0027-Introduction.pdf",
+      "doc_id": 3190085
+    },
+    {
+      "date": "2025-04-01",
+      "type": "Enrolled",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/57426/Meeting1/Enrollment/CER26-0027-Enrollment1.pdf",
+      "doc_id": 3231229
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,67 @@
+{
+  "id": 2088666,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "HB1850",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 4, Chapter 3, Part 5; Title 9; Title 60; Title 67 and Title 68, relative to the Climate Resiliency Fund Act.",
+  "summary": "As introduced, enacts the \"Climate Resiliency Fund Act.\" - Amends TCA Title 4, Chapter 3, Part 5; Title 9; Title 60; Title 67 and Title 68.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/HB1850/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/HB1850/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB1850&ga=114",
+  "sponsors": [
+    "Justin Jones (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-21",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-21",
+      "action": "Filed for introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Intro., P1C.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "P2C, ref. to Agriculture & Natural Resources Committee- Government Operations for Review",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Assigned to s/c Agriculture & Natural Resources Subcommittee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1850.pdf",
+      "doc_id": 3326399
+    },
+    {
+      "date": "2026-01-22",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1850.pdf",
+      "doc_id": 3327734
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Environment and Conservation, Department of"
+  ]
+}

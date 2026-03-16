@@ -1,0 +1,193 @@
+{
+  "id": 2101430,
+  "state": "OR",
+  "state_name": "Oregon",
+  "bill_number": "HB4040",
+  "title": "Relating to health care; and declaring an emergency.",
+  "summary": "The Act changes the rules for how certain health care is given in this state. The Act alters how certain health care providers are licensed or regulated. The Act changes some insurance rules. The Act changes some pharmacy and drug rules. The Act takes effect when signed. (Flesch Readability Score: 79.7). Modifies the requirements for screening a hospital patient for presumptive eligibility for financial assistance. [Prohibits the Oregon Health Authority from requiring certain home health agencies to comply with Medicare conditions of participation.] [Modifies the requirements for how the Department of Human Services must publish Residential Care Quality Measurement Program data.] Removes the requirement that an applicant for a residential care facility administrator license hold a bachelor's degree in a health or social service related field. Allows a person residing in a correctional facility to receive prerelease medical assistance benefits under certain circumstances. [Prohibits the authority or a coordinated care organization from requiring prior authorization for medical assistance coverage for repairing complex rehabilitation technology if the repair costs $1,500 or less.] Modifies the requirements for meetings held by the Health Evidence Review Commission. Modifies the composition of the Medicaid Advisory Committee. Modifies the eligibility requirements for parent providers who are paid to provide attendant care services to their children. [*redacted text - see A-Eng Bill*.] Allows a full-time dentistry student enrolled in an out-of-state dental education program to practice dentistry without a license if the student is supervised by a faculty member of a dental education program accredited by the Commission on Dental Accreditation of the American Dental Association. Requires casualty or health insurance policies to provide coverage for medically necessary anesthesia services, regardless of duration, for any covered procedures. Requires dental insurers to follow certain rules for payment and denial of claims. Requires the Legislative Policy and Research Director to develop and propose to the [Legislative Policy and Research Committee] committees with jurisdiction over health care an insurance coverage mandate impact statement policy. Directs the [committee] committees to perform due diligence in considering the proposal and authorizes the [committee] committees to modify the proposal if the [committee] committees so [determines] determine, and then to adopt the policy. Repeals requirement that enrollees in individual or group policies or certificates of health insurance [or members of coordinated care organizations] be assigned by their insurer [or organization] to primary care providers under certain circumstances. Specifies exemptions from the requirement that pharmacy services administrative organizations must register with the Department of Consumer and Business Services as third party administrators. [*redacted text - see A-Eng Bill*] Modifies requirements for the Prescription Drug Affordability Board's annual affordability determination for insulin products. Allows licensees of the Occupational Therapy Licensing Board and the Oregon Board of Physical Therapy to provide psilocybin services as licensed psilocybin service facilitators while providing occupational therapy or physical therapy services. [*redacted text - See A-Eng Bill*] Lowers the age at which a naturopathic physician may request a retired license status from 70 years of age to [60] 65 years of age. Includes nurse practitioners and physician associates in the definition of \"attending physician\" for purposes of the treatment of workers\u2019 compensable injuries. Declares an emergency, effective on passage.",
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
+  "categories": [
+    "healthcare",
+    "education",
+    "bathrooms",
+    "religious_exemptions",
+    "definitions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OR/bill/HB4040/2026",
+  "legiscan_url": "https://legiscan.com/OR/bill/HB4040/2026",
+  "state_url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4040",
+  "sponsors": [],
+  "introduced_date": "2026-03-05",
+  "session": "2026 Legislative Measures",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "First reading. Referred to Speaker's desk.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Referred to Health Care.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Public Hearing held.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Public Hearing held.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Work Session held.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "Recommendation: Do pass with amendments, be printed A-Engrossed, and be referred to Ways and Means.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "Referred to Ways and Means by order of Speaker.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Assigned to Subcommittee On Human Services.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Work Session held.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Returned to Full Committee.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Work Session held.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Recommendation: Do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Second reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Third reading. Carried by Nosse. Passed. Ayes, 55; Excused, 2--Hartman, Valderrama; Excused for Business of the House, 3--Elmer, Reschke, Skarlatos.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "First reading. Referred to President's desk.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Referred to Ways and Means.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Recommendation: Do pass the A-Eng. bill.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Third reading. Carried by Patterson. Passed. Ayes, 27; Nays, 1--Robinson; Excused, 2--Drazan, Hayden.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Speaker signed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "President signed.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-12",
+      "description": "House Committee Do pass with amendments and be referred to Ways and Means. (Printed A-Eng.)",
+      "yea": 8,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-27",
+      "description": "House Committee Do Pass the A-Eng bill",
+      "yea": 24,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-03",
+      "description": "House Third Reading",
+      "yea": 55,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-05",
+      "description": "Senate Third Reading",
+      "yea": 27,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4040/Introduced",
+      "doc_id": 3340613
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4040/House%20Amendments%20to%20Introduced",
+      "doc_id": 3364020
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4040/A-Engrossed",
+      "doc_id": 3364021
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Enrolled",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4040/Enrolled",
+      "doc_id": 3387629
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

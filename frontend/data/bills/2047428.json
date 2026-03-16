@@ -1,0 +1,110 @@
+{
+  "id": 2047428,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "AB588",
+  "title": "Statutory right to contraception.",
+  "summary": "An Act to create 253.078 of the statutes; Relating to: statutory right to contraception.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/AB588/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/AB588/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab588",
+  "sponsors": [
+    "Lisa Subeck (D) [Rep]",
+    "Deb Andraca (D) [Rep]",
+    "Margaret Arney (D) [Rep]",
+    "Mike Bare (D) [Rep]",
+    "Ryan Clancy (D) [Rep]",
+    "Ben DeSmidt (D) [Rep]",
+    "Jodi Emerson (D) [Rep]",
+    "Joan Fitzgerald (D) [Rep]",
+    "Russell Goodwin (D) [Rep]",
+    "Andrew Hysell (D) [Rep]",
+    "Alex Joers (D) [Rep]",
+    "Tara Johnson (D) [Rep]",
+    "Darrin Madison (D) [Rep]",
+    "Maureen McCarville (D) [Rep]",
+    "Supreme Omokunde (D) [Rep]",
+    "Greta Neubauer (D) [Rep]",
+    "Sylvia Ortiz-Velez (D) [Rep]",
+    "Lori Palmeri (D) [Rep]",
+    "Pricilla Prado (D) [Rep]",
+    "Christine Sinicki (D) [Rep]",
+    "Angela Stroud (D) [Rep]",
+    "Dianne Hesselbein (D) [Sen]",
+    "Kelda Roys (D) [Sen]",
+    "Kristin Dassler-Alfheim (D) [Sen]",
+    "Jodi Habush Sinykin (D) [Sen]",
+    "LaTonya Johnson (D) [Sen]",
+    "Sarah Keyeski (D) [Sen]",
+    "Christopher Larson (D) [Sen]",
+    "Brad Pfaff (D) [Sen]",
+    "Melissa Ratcliff (D) [Sen]",
+    "Mark Spreitzer (D) [Sen]",
+    "Jamie Wall (D) [Sen]"
+  ],
+  "introduced_date": "2025-10-24",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-10-24",
+      "action": "Introduced",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-10-24",
+      "action": "Read first time and referred to Committee on State Affairs",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-11-17",
+      "action": "Representative Phelps added as a coauthor",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-12-11",
+      "action": "Representative Mayadev added as a coauthor",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Representative J. Jacobson added as a coauthor",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Senator Smith added as a cosponsor",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Representative Roe added as a coauthor",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-24",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AB588.pdf",
+      "doc_id": 3274699
+    }
+  ],
+  "committee": {
+    "committee_id": 3000,
+    "chamber": "A",
+    "chamber_id": 99,
+    "name": "State Affairs"
+  },
+  "subjects": []
+}

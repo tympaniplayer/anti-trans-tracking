@@ -1,0 +1,552 @@
+{
+  "id": 1995428,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB18",
+  "title": "Relating to the establishment and administration of certain programs and services providing health care services to rural counties.",
+  "summary": "Relating to the establishment and administration of certain programs and services providing health care services to rural counties.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB18/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB18/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB18",
+  "sponsors": [
+    "Gary Vandeaver (R) [Rep]",
+    "Stan Lambert (R) [Rep]",
+    "Ken King (R) [Rep]",
+    "Ann Johnson (D) [Rep]",
+    "Trent Ashby (R) [Rep]",
+    "Greg Bonnen (R) [Rep]",
+    "Brad Buckley (R) [Rep]",
+    "Maria Flores (D) [Rep]",
+    "Ryan Guillen (R) [Rep]",
+    "Cody Harris (R) [Rep]",
+    "Brooks Landgraf (R) [Rep]",
+    "William Metcalf (R) [Rep]",
+    "David Spiller (R) [Rep]",
+    "Charles Perry (R) [Sen]",
+    "Cesar Blanco (D) [Sen]",
+    "Brent Hagenbuch (R) [Sen]",
+    "Juan Hinojosa (D) [Sen]",
+    "Lois Kolkhorst (R) [Sen]",
+    "Kevin Sparks (R) [Sen]"
+  ],
+  "introduced_date": "2025-06-20",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-07",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Referred to Public Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Considered in public hearing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Committee substitute considered in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Testimony taken/registration(s) recorded in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Left pending in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Considered in public hearing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Committee substitute considered in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Reported favorably as substituted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Comte report filed with Committee Coordinator",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Committee report distributed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Committee report sent to Calendars",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Considered in Calendars",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Placed on General State Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Read 2nd time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Postponed 4/22/25 1:00 PM",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Laid out as postponed business",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Postponed 4/23/25 10:00 AM",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "Laid out as postponed business",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "Amendment(s) offered 1-Toth",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "Point of order withdrawn (amendment) Rule 11, Section 2",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "Amendment withdrawn 1-Toth",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "Amended 2-Toth",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "Record vote RV#416",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "Passed to engrossment as amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "Record vote RV#417",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Read 3rd time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Passed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Record vote RV#466",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Reported engrossed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Received from the House",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Referred to Health & Human Services",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Co-sponsor authorized",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Considered in public hearing",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Testimony taken in committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Left pending in committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Considered in public hearing",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Vote taken in committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-19",
+      "action": "Reported favorably as substituted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-19",
+      "action": "Committee report printed and distributed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Co-sponsor authorized",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Placed on intent calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-25",
+      "action": "Co-sponsor authorized",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-25",
+      "action": "Rules suspended-Regular order of business",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-25",
+      "action": "Record vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-25",
+      "action": "Read 2nd time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-25",
+      "action": "Amendment(s) offered FA1 Men\u00e9ndez",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-25",
+      "action": "Amendment fails of adoption",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-25",
+      "action": "Record vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-25",
+      "action": "Passed to 3rd reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-25",
+      "action": "Record vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-25",
+      "action": "Three day rule suspended",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-25",
+      "action": "Record vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-25",
+      "action": "Read 3rd time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-25",
+      "action": "Passed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-25",
+      "action": "Record vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-26",
+      "action": "Senate passage as amended reported",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-26",
+      "action": "Senate Amendments distributed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-26",
+      "action": "Senate Amendments Analysis distributed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "House concurs in Senate amendment(s)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Record vote RV#3981",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Text of Senate Amendment(s)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "House concurs in Senate amendment(s)-reported",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Reported enrolled",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-30",
+      "action": "Signed in the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-31",
+      "action": "Signed in the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-31",
+      "action": "Sent to the Governor",
+      "chamber": ""
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Signed by the Governor",
+      "chamber": ""
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Effective immediately",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-23",
+      "description": "1-Toth RV#416",
+      "yea": 88,
+      "nay": 55,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-23",
+      "description": "Statement(s) of vote recorded in Journal RV#417",
+      "yea": 106,
+      "nay": 33,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-24",
+      "description": "Read 3rd time RV#466",
+      "yea": 119,
+      "nay": 24,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-25",
+      "description": "Rules suspended-Regular order of business",
+      "yea": 26,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-25",
+      "description": "Amendment fails of adoption",
+      "yea": 26,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-25",
+      "description": "Record vote",
+      "yea": 26,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-25",
+      "description": "Three day rule suspended",
+      "yea": 0,
+      "nay": 1,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-25",
+      "description": "Read 3rd time",
+      "yea": 0,
+      "nay": 1,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-28",
+      "description": "House concurs in Senate amendment(s) RV#3981",
+      "yea": 115,
+      "nay": 18,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-03-07",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00018I.htm",
+      "doc_id": 3159589
+    },
+    {
+      "date": "2025-04-14",
+      "type": "Comm Sub",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00018H.htm",
+      "doc_id": 3211227
+    },
+    {
+      "date": "2025-04-24",
+      "type": "Engrossed",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00018E.htm",
+      "doc_id": 3221172
+    },
+    {
+      "date": "2025-05-19",
+      "type": "Comm Sub",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00018S.htm",
+      "doc_id": 3240318
+    },
+    {
+      "date": "2025-05-29",
+      "type": "Enrolled",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00018F.htm",
+      "doc_id": 3247950
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Disaster Preparedness & Relief",
+    "Education",
+    "Education--Higher",
+    "Education--Higher--Health Institutions",
+    "Health Care Providers",
+    "Health",
+    "Health--Rural",
+    "Hospitals",
+    "Human Services",
+    "Human Services--Medical Assistance",
+    "Minors",
+    "Minors--Health & Safety",
+    "State Agencies, Boards & Commissions",
+    "State Agencies, Boards & Commissions--Newly Proposed",
+    "State Finances",
+    "State Finances--Appropriations",
+    "State Finances--Management & Control",
+    "RURAL HEALTH STABILIZATION & INNOVATION ACT",
+    "HEALTH & HUMAN SERVICES COMMISSION",
+    "STATE OFFICE OF RURAL HOSPITAL FINANCE",
+    "STAFF DEVELOPMENT & TRAINING"
+  ]
+}

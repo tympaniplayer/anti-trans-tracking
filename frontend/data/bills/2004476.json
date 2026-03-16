@@ -1,0 +1,65 @@
+{
+  "id": 2004476,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H2196",
+  "title": "Relative to preventing overdose deaths and increasing access to treatment",
+  "summary": "Relative to overdose deaths and access to treatment. Mental Health, Substance Use and Recovery.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H2196/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H2196/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H2196",
+  "sponsors": [
+    "Marjorie Decker (D) [Rep]",
+    "John Lawn (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Mental Health, Substance Use and Recovery",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-07",
+      "action": "Hearing scheduled for 09/15/2025 from 11:00 AM-05:00 PM in Gardner Auditorium",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-11-26",
+      "action": "Reporting date extended to Wednesday, March 18, 2026",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H2196.pdf",
+      "doc_id": 3170631
+    }
+  ],
+  "committee": {
+    "committee_id": 3708,
+    "chamber": "J",
+    "chamber_id": 103,
+    "name": "Mental Health, Substance Abuse and Recovery"
+  },
+  "subjects": []
+}

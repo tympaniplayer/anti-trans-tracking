@@ -1,0 +1,53 @@
+{
+  "id": 2097135,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "AJR45",
+  "title": "Designates March 31 of each year as \"Jack Antonoff Day\" in New Jersey.",
+  "summary": "Designates March 31 of each year as \"Jack Antonoff Day\" in New Jersey.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/AJR45/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/AJR45/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/AJR45",
+  "sponsors": [
+    "Cody Miller (D) [Rep]",
+    "Dan Hutchison (D) [Rep]",
+    "Roy Freiman (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Tourism, Gaming and the Arts Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-16",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/AJR/45_I1.HTM",
+      "doc_id": 3336195
+    }
+  ],
+  "committee": {
+    "committee_id": 3114,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Tourism, Gaming and the Arts"
+  },
+  "subjects": [
+    "Tourism, Gaming and the Arts"
+  ]
+}

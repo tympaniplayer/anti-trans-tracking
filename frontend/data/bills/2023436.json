@@ -1,0 +1,70 @@
+{
+  "id": 2023436,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A07891",
+  "title": "Removes restrictions of three-cycle coverage for in vitro fertilization; mandates individual insurance coverage of in vitro.",
+  "summary": "Removes restrictions of three-cycle coverage for in vitro fertilization; mandates individual insurance coverage of in vitro.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A07891/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A07891/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A7891",
+  "sponsors": [
+    "Anna Kelles (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-11",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-04-11",
+      "action": "referred to insurance",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to insurance",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "amend and recommit to insurance",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "print number 7891a",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-11",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A07891&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A07891",
+      "doc_id": 3210056
+    },
+    {
+      "date": "2025-04-11",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A07891&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A07891A",
+      "doc_id": 3303506
+    }
+  ],
+  "committee": {
+    "committee_id": 372,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Insurance"
+  },
+  "subjects": []
+}

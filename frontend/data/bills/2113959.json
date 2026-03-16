@@ -1,0 +1,88 @@
+{
+  "id": 2113959,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB1209",
+  "title": "Conversion Therapy - Prohibitions and Causes of Action",
+  "summary": "Clarifying that injury resulting from conversion therapy is cognizable for purposes of a health care malpractice action; establishing certain procedures in an action for health care malpractice resulting from conversion therapy; removing the limitation on noneconomic damages to a claimant in an action for health care malpractice resulting from conversion therapy; etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB1209/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB1209/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1209?ys=2026RS",
+  "sponsors": [
+    "Bonnie Cullison (D) [Rep]",
+    "Gabriel Acevero (D) [Rep]",
+    "Dylan Behler (D) [Rep]",
+    "Luke Clippinger (D) [Rep]",
+    "Kris Fair (D) [Rep]",
+    "Anne Kaiser (D) [Rep]",
+    "Ashanti Martinez (D) [Rep]",
+    "Joe Vogel (D) [Rep]",
+    "Teresa Woorman (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-11",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-11",
+      "action": "First Reading Judiciary and Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Hearing 3/04 at 1:00 p.m. (Judiciary)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-12",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb1209f.pdf",
+      "doc_id": 3360702
+    }
+  ],
+  "committee": {
+    "committee_id": 1927,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil Actions and Procedures",
+    "Insurance - Other than Health",
+    "Advertising",
+    "Attorneys' Fees",
+    "Budgets",
+    "Civil Actions",
+    "Court Costs",
+    "Crimes and Punishments",
+    "Damages",
+    "Emergency Bills",
+    "Gender",
+    "Health Occupations",
+    "Injury",
+    "Insurance",
+    "Medical Malpractice",
+    "Medical Treatments",
+    "Mental and Behavioral Health",
+    "Minors",
+    "Reimbursements",
+    "Revenue and Taxes",
+    "Sexual Orientation",
+    "Standards and Best Practices",
+    "Statutes of Limitation",
+    "Testimony",
+    "Witnesses"
+  ]
+}

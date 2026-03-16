@@ -1,0 +1,60 @@
+{
+  "id": 2041053,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "SB944",
+  "title": "Providing for nondiscrimination in adoption and foster care family agencies; and promulgating regulations.",
+  "summary": "An Act amending Title 67 (Public Welfare) of the Pennsylvania Consolidated Statutes, providing for nondiscrimination in adoption and foster care family agencies; and promulgating regulations.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/SB944/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/SB944/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/sb944",
+  "sponsors": [
+    "Carolyn Comitta (D) [Sen]",
+    "Judy Schwank (D) [Sen]",
+    "Patty Kim (D) [Sen]",
+    "Maria Collett (D) [Sen]",
+    "Timothy Kearney (D) [Sen]",
+    "Jay Costa (D) [Sen]",
+    "Arthur Haywood (D) [Sen]",
+    "Amanda Cappelletti (D) [Sen]",
+    "Steven Santarsiero (D) [Sen]",
+    "Nikil Saval (D) [Sen]",
+    "Sharif Street (D) [Sen]",
+    "Lindsey Williams (D) [Sen]"
+  ],
+  "introduced_date": "2025-07-31",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-07-31",
+      "action": "Referred to Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB0944/PN1083",
+      "doc_id": 3263640
+    }
+  ],
+  "committee": {
+    "committee_id": 77,
+    "chamber": "S",
+    "chamber_id": 4,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

@@ -1,0 +1,66 @@
+{
+  "id": 2117359,
+  "state": "WV",
+  "state_name": "West Virginia",
+  "bill_number": "HB5615",
+  "title": "Relating to Teleheatlh",
+  "summary": "The purpose of this bill is to remove in person requirements prior to initial telemedicine services and set out the appropriate jurisdiction for documentation and confidentiality requirements.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WV/bill/HB5615/2026",
+  "legiscan_url": "https://legiscan.com/WV/bill/HB5615/2026",
+  "state_url": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5615&year=2026&sessiontype=RS&btype=bill",
+  "sponsors": [
+    "Larry Kump (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-16",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-16",
+      "action": "Filed for introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "To Health and Human Resources",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "To House Health and Human Resources",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb5615%20intr.htm&yr=2026&sesstype=RS&i=5615",
+      "doc_id": 3363395
+    }
+  ],
+  "committee": {
+    "committee_id": 8,
+    "chamber": "H",
+    "chamber_id": 1,
+    "name": "Health & Human Resources"
+  },
+  "subjects": [
+    "Human Services"
+  ]
+}

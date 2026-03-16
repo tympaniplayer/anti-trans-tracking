@@ -1,0 +1,51 @@
+{
+  "id": 2092090,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "S0302",
+  "title": "An act relating to limiting the collection of personally identifying information",
+  "summary": "An act relating to limiting the collection of personally identifying information",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/S0302/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/S0302/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/S.302",
+  "sponsors": [
+    "Tanya Vyhovsky (D) [Sen]",
+    "Martine Gulick (D) [Sen]",
+    "Rebecca White (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Read 1st time & referred to Committee on Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-22",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0302/S-0302%20As%20Introduced.pdf",
+      "doc_id": 3330667
+    }
+  ],
+  "committee": {
+    "committee_id": 802,
+    "chamber": "S",
+    "chamber_id": 96,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

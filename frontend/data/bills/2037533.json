@@ -1,0 +1,62 @@
+{
+  "id": 2037533,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB4021",
+  "title": "Patriotism Not Pride Act",
+  "summary": "To prohibit certain Federal activity with respect to the promotion of Lesbian, Gay, Bisexual, Transgender, Queer, and Intersex Pride Month and the display of flags representing sexual orientation or gender identity on Federal property or grounds, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB4021/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB4021/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4021/all-info",
+  "sponsors": [
+    "Josh Brecheen (R) [Rep]",
+    "Mary Miller (R) [Rep]",
+    "Mike Collins (R) [Rep]",
+    "Paul Gosar (R) [Rep]",
+    "Brandon Gill (R) [Rep]",
+    "Glenn Grothman (R) [Rep]",
+    "Anna Luna (R) [Rep]"
+  ],
+  "introduced_date": "2025-06-17",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-17",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-17",
+      "action": "Referred to the House Committee on Oversight and Government Reform.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-26",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr4021/BILLS-119hr4021ih.pdf",
+      "doc_id": 3258919
+    }
+  ],
+  "committee": {
+    "committee_id": 2311,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Oversight And Government Reform"
+  },
+  "subjects": [
+    "Government operations and politics"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": 2117018,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "S2592",
+  "title": "Amends the Rhode Island Fair Housing Practices Act to clarify housing-status enforcement, ban discriminatory housing notices, align state law with federal standards and remove a ban on public discussion of fair housing cases.",
+  "summary": "PROPERTY -- RHODE ISLAND FAIR HOUSING PRACTICE ACT - Amends the Rhode Island Fair Housing Practices Act to clarify housing-status enforcement, ban discriminatory housing notices, align state law with federal standards and remove a ban on public discussion of fair housing cases.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/S2592/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/S2592/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Meghan Kallman (D) [Sen]",
+    "Victoria Gu (D) [Sen]",
+    "Alana DiMario (D) [Sen]",
+    "Tiara Mack (D) [Sen]",
+    "Robert Britto (D) [Sen]",
+    "Jacob Bissaillon (D) [Sen]",
+    "Lori Urso (D) [Sen]",
+    "Bridget Valverde (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-13",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-13",
+      "action": "Introduced, referred to Senate Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-13",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/SenateText26/S2592.pdf",
+      "doc_id": 3362398
+    }
+  ],
+  "committee": {
+    "committee_id": 1140,
+    "chamber": "S",
+    "chamber_id": 84,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Property",
+    "PROPERTY -- RHODE ISLAND FAIR HOUSING PRACTICE ACT"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": 2071322,
+  "state": "AZ",
+  "state_name": "Arizona",
+  "bill_number": "HB2222",
+  "title": "Birth certificates; sex designation change",
+  "summary": "Birth certificates; sex designation change",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "identity_documents"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AZ/bill/HB2222/2026",
+  "legiscan_url": "https://legiscan.com/AZ/bill/HB2222/2026",
+  "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/83922",
+  "sponsors": [
+    "Brian Garcia (D) [Rep]",
+    "Mariana Sandoval (D) [Rep]",
+    "Stephanie Simacek (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-15",
+  "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
+  "actions": [
+    {
+      "date": "2026-01-12",
+      "action": "Prefile",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Introduced in House and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Assigned to House GOV Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Assigned to House RULES Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "House read second time",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-12",
+      "type": "Introduced",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/hb2222p.htm",
+      "doc_id": 3306075
+    }
+  ],
+  "committee": {
+    "committee_id": 1095,
+    "chamber": "H",
+    "chamber_id": 15,
+    "name": "Government"
+  },
+  "subjects": [
+    "Birth Certificates",
+    "Public Health And Safety - Title 36",
+    "Sex Designation Change",
+    "Vital Records"
+  ]
+}

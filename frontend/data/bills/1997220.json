@@ -1,0 +1,79 @@
+{
+  "id": 1997220,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S1062",
+  "title": "To stop profiling transgender people and low-income women",
+  "summary": "For legislation to stop profiling transgender people and low-income women. The Judiciary.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S1062/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S1062/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S1062",
+  "sponsors": [
+    "Julian Cyr (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on The Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-14",
+      "action": "Hearing scheduled for 11/25/2025 from 10:00 AM-05:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-11-25",
+      "action": "Hearing rescheduled to 11/25/2025 from 10:00 AM-04:00 PM in A-2 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-11-26",
+      "action": "Hearing rescheduled to 11/25/2025 from 10:00 AM-05:00 PM in A-2 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Reporting date extended to Monday March 2, 2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S1062.pdf",
+      "doc_id": 3162399
+    }
+  ],
+  "committee": {
+    "committee_id": 746,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

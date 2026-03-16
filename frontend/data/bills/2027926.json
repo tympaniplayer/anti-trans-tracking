@@ -1,0 +1,128 @@
+{
+  "id": 2027926,
+  "state": "ME",
+  "state_name": "Maine",
+  "bill_number": "LD1898",
+  "title": "An Act to Correct Outdated References Regarding the Maine Human Rights Act",
+  "summary": "An Act to Correct Outdated References Regarding the Maine Human Rights Act",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ME/bill/LD1898/2025",
+  "legiscan_url": "https://legiscan.com/ME/bill/LD1898/2025",
+  "state_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1898&snum=132",
+  "sponsors": [
+    "Matthew Moonen (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-05",
+  "session": "132nd Legislature",
+  "actions": [
+    {
+      "date": "2025-05-01",
+      "action": "Received by the Clerk of the House on May 1, 2025.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "The Bill was REFERRED to the Committee on JUDICIARY pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Work Session Held",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Voted: OTP",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "CONSENT CALENDAR - FIRST DAY",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Reported Out: OTP",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Under suspension of the rules CONSENT CALENDAR - SECOND DAY.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "The Bill was PASSED TO BE ENGROSSED.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Report READ and ACCEPTED, in concurrence.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "READ ONCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED, in concurrence.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Ordered sent down forthwith.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "PASSED TO BE ENACTED.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-05",
+      "action": "PASSED TO BE ENACTED, in concurrence.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1269&item=1&snum=132",
+      "doc_id": 3226830
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Chaptered",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1269&item=3&snum=132",
+      "doc_id": 3254688
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Human Rights",
+    "Statutes"
+  ]
+}

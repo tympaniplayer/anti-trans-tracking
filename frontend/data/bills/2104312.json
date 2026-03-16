@@ -1,0 +1,64 @@
+{
+  "id": 2104312,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H5024",
+  "title": "Resolve for a foster care and child care liability insurance special commission",
+  "summary": "Resolve for a foster care and child care liability insurance special commission",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H5024/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H5024/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H5024",
+  "sponsors": [
+    "Joint Committee on Children, Families and Persons with Disabilities [Jnt]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "Reported from the committee on Children, Families and Persons with Disabilities",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "New draft of H197",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Resolve reported favorably by committee and referred to the Joint Committee on Rules of the two branches, acting concurrently",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Discharged to the committee on House Rules",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-02",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H5024.pdf",
+      "doc_id": 3344100
+    }
+  ],
+  "committee": {
+    "committee_id": 736,
+    "chamber": "H",
+    "chamber_id": 51,
+    "name": "Rules"
+  },
+  "subjects": []
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1921002,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1335",
+  "title": "Protecting military spouses from employment discrimination.",
+  "summary": "Protecting military spouses from employment discrimination.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1335/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1335/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1335&Year=2025&Initiative=false",
+  "sponsors": [
+    "Adison Richards (D) [Rep]",
+    "Kristine Reeves (D) [Rep]",
+    "Mari Leavitt (D) [Rep]",
+    "Joel McEntire (R) [Rep]",
+    "Clyde Shavers (D) [Rep]",
+    "Hunter Abell (R) [Rep]",
+    "Lawrence Springer (D) [Rep]",
+    "Timm Ormsby (D) [Rep]",
+    "Nicole Macri (D) [Rep]",
+    "Julia Reed (D) [Rep]",
+    "Natasha Hill (D) [Rep]",
+    "Beth Doglio (D) [Rep]",
+    "Michelle Valdez (R) [Rep]",
+    "Dave Paul (D) [Rep]",
+    "Greg Nance (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-16",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-16",
+      "action": "First reading, referred to Labor & Workplace Standards.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Public hearing in the House Committee on Labor & Workplace Standards at 10:30 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Executive action taken in the House Committee on Labor & Workplace Standards at 10:30 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "LAWS - Majority; do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "Referred to Appropriations.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-07",
+      "description": "House Committee on Labor & Workplace Standards: do pass",
+      "yea": 9,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1335.pdf",
+      "doc_id": 3058178
+    }
+  ],
+  "committee": {
+    "committee_id": 2759,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Appropriations"
+  },
+  "subjects": []
+}

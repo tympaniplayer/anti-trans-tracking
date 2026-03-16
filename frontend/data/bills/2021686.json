@@ -1,0 +1,77 @@
+{
+  "id": 2021686,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "K00333",
+  "title": "Memorializing Governor Kathy Hochul to proclaim April 6-12, 2025, as Crime Victims' Rights Week in the State of New York",
+  "summary": "Memorializing Governor Kathy Hochul to proclaim April 6-12, 2025, as Crime Victims' Rights Week in the State of New York",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/K00333/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/K00333/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/K333",
+  "sponsors": [
+    "Carrie Woerner (D) [Rep]",
+    "Joseph Angelino (R) [Rep]",
+    "Andrea Bailey (R) [Rep]",
+    "Karl Brabenec (R) [Rep]",
+    "Keith Brown (R) [Rep]",
+    "Marianne Buttenschon (D) [Rep]",
+    "Patrick Carroll (D) [Rep]",
+    "Lester Chang (R) [Rep]",
+    "Joseph DeStefano (R) [Rep]",
+    "Michael Fitzpatrick (R) [Rep]",
+    "Jarett Gandolfo (R) [Rep]",
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Judy Griffin (D) [Rep]",
+    "Josh Jensen (R) [Rep]",
+    "D. Billy Jones (D) [Rep]",
+    "Donna Lupardo (D) [Rep]",
+    "John McDonald (D) [Rep]",
+    "David McDonough (R) [Rep]",
+    "Andrew Molitor (R) [Rep]",
+    "Michael Novakhov (R) [Rep]",
+    "Philip Palmesano (R) [Rep]",
+    "Stacey Pheffer Amato (D) [Rep]",
+    "Steven Raga (D) [Rep]",
+    "Angelo Santabarbara (D) [Rep]",
+    "Nader Sayegh (D) [Rep]",
+    "Tommy Schiavoni (D) [Rep]",
+    "Matthew Simpson (R) [Rep]",
+    "Christopher Tague (R) [Rep]",
+    "Mary Walsh (R) [Rep]"
+  ],
+  "introduced_date": "2025-04-09",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-04-08",
+      "action": "referred to calendar",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "adopted",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=K00333&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#K00333",
+      "doc_id": 3205637
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

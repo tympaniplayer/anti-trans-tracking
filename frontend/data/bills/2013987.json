@@ -1,0 +1,92 @@
+{
+  "id": 2013987,
+  "state": "NC",
+  "state_name": "North Carolina",
+  "bill_number": "S516",
+  "title": "Women's Safety and Protection Act",
+  "summary": "Women's Safety and Protection Act",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NC/bill/S516/2025",
+  "legiscan_url": "https://legiscan.com/NC/bill/S516/2025",
+  "state_url": "https://www.ncleg.gov/BillLookUp/2025/S516",
+  "sponsors": [
+    "Vickie Sawyer (R) [Sen]",
+    "Brad Overcash (R) [Sen]",
+    "Lisa Barnes (R) [Sen]",
+    "Bob Brinson (R) [Sen]",
+    "Warren Daniel (R) [Sen]",
+    "Bobby Hanig (R) [Sen]",
+    "Ralph Hise (R) [Sen]",
+    "Steve Jarvis (R) [Sen]",
+    "Dana Jones (R) [Sen]",
+    "Norman Sanderson (R) [Sen]"
+  ],
+  "introduced_date": "2025-03-25",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-03-25",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Passed 1st Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Ref To Com On Rules and Operations of the Senate",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-25",
+      "type": "Introduced",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S516v0.pdf",
+      "doc_id": 3187454
+    },
+    {
+      "date": "2025-03-26",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S516v1.pdf",
+      "doc_id": 3189640
+    }
+  ],
+  "committee": {
+    "committee_id": 698,
+    "chamber": "S",
+    "chamber_id": 76,
+    "name": "Rules and Operations of the Senate"
+  },
+  "subjects": [
+    "Courts",
+    "Definitions",
+    "Dmv",
+    "Drivers Licenses",
+    "Lgbtq & Gender Issues",
+    "Id Systems",
+    "Licenses & Permits",
+    "Motor Vehicles",
+    "Public",
+    "Public Officials",
+    "Public Records",
+    "State Employees",
+    "State Registrar",
+    "Vital Records",
+    "Women",
+    "Records",
+    "Civil Actions"
+  ]
+}

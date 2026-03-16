@@ -1,0 +1,51 @@
+{
+  "id": 2044033,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB5342",
+  "title": "Science Appropriations Act, 2026 Commerce, Justice, Science, and Related Agencies Appropriations Act, 2026 Department of Justice Appropriations Act, 2026 Department of Commerce Appropriations Act, 2026",
+  "summary": "Making appropriations for the Departments of Commerce and Justice, Science, and Related Agencies for the fiscal year ending September 30, 2026, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB5342/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB5342/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/5342/all-info",
+  "sponsors": [
+    "Harold Rogers (R) [Rep]"
+  ],
+  "introduced_date": "2025-09-12",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-09-12",
+      "action": "The House Committee on Appropriations reported an original measure, H. Rept. 119-272, by Mr. Rogers (KY).",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-12",
+      "action": "Placed on the Union Calendar, Calendar No. 228.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-09-12",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr5342/BILLS-119hr5342rh.pdf",
+      "doc_id": 3269130
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Economics and public finance"
+  ]
+}

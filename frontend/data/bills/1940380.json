@@ -1,0 +1,60 @@
+{
+  "id": 1940380,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S03279",
+  "title": "Includes correctional facilities and local correctional facilities as publicly-assisted housing accommodations for purposes of the division of human rights; defines correctional facilities and local correctional facilities.",
+  "summary": "Includes correctional facilities and local correctional facilities as publicly-assisted housing accommodations for purposes of the division of human rights; defines correctional facilities and local correctional facilities.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms",
+    "definitions"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S03279/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S03279/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S3279",
+  "sponsors": [
+    "Samra Brouk (D) [Sen]",
+    "Nathalia Fernandez (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "Julia Salazar (D) [Sen]",
+    "Luis Sepulveda (D) [Sen]",
+    "Lea Webb (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-24",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-24",
+      "action": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-24",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S03279&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S03279",
+      "doc_id": 3077991
+    }
+  ],
+  "committee": {
+    "committee_id": 433,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Investigations and Government Operations"
+  },
+  "subjects": []
+}

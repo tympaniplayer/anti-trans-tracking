@@ -1,0 +1,88 @@
+{
+  "id": 2065401,
+  "state": "ME",
+  "state_name": "Maine",
+  "bill_number": "LD2107",
+  "title": "An Act to Establish the Maine Nonprofit Security Grant Program",
+  "summary": "An Act to Establish the Maine Nonprofit Security Grant Program",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ME/bill/LD2107/2025",
+  "legiscan_url": "https://legiscan.com/ME/bill/LD2107/2025",
+  "state_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=2107&snum=132",
+  "sponsors": [
+    "Michael Brennan (D) [Rep]",
+    "Deqa Dhalac (D) [Rep]",
+    "Jill Duson (D) [Sen]",
+    "Andrew Gattine (D) [Rep]",
+    "Cameron Reny (D) [Sen]",
+    "Margaret Rotundo (D) [Sen]",
+    "Holly Stover (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "132nd Legislature",
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "action": "Committee on Judiciary suggested and ordered printed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "The Bill was REFERRED to the Committee on JUDICIARY.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "The Bill was REFERRED to the Committee on JUDICIARY  in concurrence",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Work Session Held: TABLED",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Work Session Held",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Voted: Divided Report",
+      "chamber": "J"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1422&item=1&snum=132",
+      "doc_id": 3300847
+    }
+  ],
+  "committee": {
+    "committee_id": 2160,
+    "chamber": "J",
+    "chamber_id": 119,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Attorney General Dept",
+    "Powers"
+  ]
+}

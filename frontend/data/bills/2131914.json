@@ -1,0 +1,54 @@
+{
+  "id": 2131914,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF4324",
+  "title": "Licensed child care centers and licensed family care governing policies and rules encodement and modernization provisions",
+  "summary": "Licensed child care centers and licensed family care governing policies and rules encodement and modernization provisions",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF4324/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF4324/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4324/",
+  "sponsors": [
+    "Melissa Wiklund (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-11",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2026-03-11",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Referred to Health and Human Services",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-09",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4324/versions/0/pdf/",
+      "doc_id": 3390375
+    }
+  ],
+  "committee": {
+    "committee_id": 1745,
+    "chamber": "S",
+    "chamber_id": 56,
+    "name": "Health and Human Services"
+  },
+  "subjects": []
+}

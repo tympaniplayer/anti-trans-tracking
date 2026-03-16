@@ -1,0 +1,69 @@
+{
+  "id": 1938349,
+  "state": "IA",
+  "state_name": "Iowa",
+  "bill_number": "HSB84",
+  "title": "A bill for an act prohibiting school districts, charter schools, and innovation zone schools from providing any program, curriculum, test, survey, questionnaire, promotion, or instruction relating to gender identity or sexual orientation to students in grades seven through twelve.",
+  "summary": "A bill for an act prohibiting school districts, charter schools, and innovation zone schools from providing any program, curriculum, test, survey, questionnaire, promotion, or instruction relating to gender identity or sexual orientation to students in grades seven through twelve.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IA/bill/HSB84/2025",
+  "legiscan_url": "https://legiscan.com/IA/bill/HSB84/2025",
+  "state_url": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HSB84",
+  "sponsors": [
+    "Education [Rep]"
+  ],
+  "introduced_date": "2025-01-23",
+  "session": "91st General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-23",
+      "action": "By COMMITTEE ON EDUCATION",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "Introduced, referred to Education. H.J. 122.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "Subcommittee: Wheeler, Levin and Stone. H.J. 125.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "Subcommittee Meeting: 02/12/2025 12:30PM RM 103.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Subcommittee recommends passage.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-23",
+      "type": "Introduced",
+      "url": "https://www.legis.iowa.gov/docs/publications/LGI/91/attachments/HSB84.html",
+      "doc_id": 3075902
+    }
+  ],
+  "committee": {
+    "committee_id": 1455,
+    "chamber": "H",
+    "chamber_id": 39,
+    "name": "Education"
+  },
+  "subjects": []
+}

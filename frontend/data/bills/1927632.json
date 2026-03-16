@@ -1,0 +1,63 @@
+{
+  "id": 1927632,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF477",
+  "title": "Case management associate, mental health behavioral aide, and mental health rehabilitation worker supervision requirements modification",
+  "summary": "Case management associate, mental health behavioral aide, and mental health rehabilitation worker supervision requirements modification",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF477/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF477/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/477/",
+  "sponsors": [
+    "Liz Boldon (D) [Sen]",
+    "Alice Mann (D) [Sen]",
+    "Paul Utke (R) [Sen]",
+    "Jim Abeler (R) [Sen]",
+    "Rich Draheim (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-21",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-01-21",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Referred to Health and Human Services",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Author added Draheim",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-17",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/477/versions/0/pdf/",
+      "doc_id": 3064960
+    }
+  ],
+  "committee": {
+    "committee_id": 1745,
+    "chamber": "S",
+    "chamber_id": 56,
+    "name": "Health and Human Services"
+  },
+  "subjects": []
+}

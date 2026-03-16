@@ -1,0 +1,49 @@
+{
+  "id": 2132404,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0927",
+  "title": "An act relating to technical corrections for the 2026 legislative session",
+  "summary": "An act relating to technical corrections for the 2026 legislative session",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0927/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0927/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.927",
+  "sponsors": [
+    "Government Operations and Military Affairs [Rep]"
+  ],
+  "introduced_date": "2026-03-12",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2026-03-12",
+      "action": "Committee bill read the first time and placed on Notice Calendar of March 13, 2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Notice Calendar: Committee bill for second reading",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-11",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0927/H-0927%20As%20Introduced.pdf",
+      "doc_id": 3391651
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

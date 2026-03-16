@@ -1,0 +1,115 @@
+{
+  "id": 2104315,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "SB152",
+  "title": "AN ACT relating to education.",
+  "summary": "Amend KRS 160.345 to define \"school-based policy\"; require that principals provide monthly and annual reports to the local board of education; set notice requirements for school advisory council elections; establish that a superintendent selects the principals for the school district; require that all school-based policies be reviewed and approved by the local board before implementation and provide exceptions; amend KRS 160.370 to permit county school districts with more than 15,000 students to delegate the approval of school-based policies; amend KRS 158.1415 to permit a local school board to adopt a curriculum for human sexuality; amend various sections of KRS Chapters 7, 156, 157, 158, 160, 161, 164, and 605 to transfer duties of school-based decision making councils to advisory councils and principals and to conform.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/SB152/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/SB152/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/sb152.html",
+  "sponsors": [
+    "Aaron Reed (R) [Sen]",
+    "Steve West (R) [Sen]",
+    "Donald Douglas (R) [Sen]",
+    "David Givens (R) [Sen]",
+    "Stephen Meredith (R) [Sen]",
+    "Lindsey Tichenor (R) [Sen]",
+    "Gex Williams (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-20",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "introduced in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "to Committee on Committees (S)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "to Education (S)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "reported favorably, 1st reading, to Calendar with Committee Substitute (1)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "2nd reading, to Rules",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "posted for passage in the Regular Orders of the Day for Thursday, February 19 2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "3rd reading, passed 27-11 with Committee Substitute (1)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "received in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "to Committee on Committees (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-19",
+      "description": "Senate: Third Reading RSN# 3838",
+      "yea": 27,
+      "nay": 11,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb152/orig_bill.pdf",
+      "doc_id": 3344103
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb152/bill.pdf",
+      "doc_id": 3368927
+    }
+  ],
+  "committee": {
+    "committee_id": 317,
+    "chamber": "H",
+    "chamber_id": 43,
+    "name": "Committee On Committees"
+  },
+  "subjects": [
+    "Boards and Commissions",
+    "Education, Elementary and Secondary",
+    "Parental Rights",
+    "Reports Mandated"
+  ]
+}

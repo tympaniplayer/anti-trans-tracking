@@ -1,0 +1,70 @@
+{
+  "id": 1960539,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5704",
+  "title": "Concerning material changes to the operations and governance structure of participants in the health care marketplace.",
+  "summary": "Concerning material changes to the operations and governance structure of participants in the health care marketplace.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5704/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5704/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5704&Year=2025&Initiative=false",
+  "sponsors": [
+    "Manka Dhingra (D) [Sen]",
+    "Emily Alvarado (D) [Sen]",
+    "Yasmin Trudeau (D) [Sen]",
+    "Jamie Pedersen (D) [Sen]",
+    "Liz Lovelett (D) [Sen]",
+    "Javier Valdez (D) [Sen]",
+    "Rebecca Saldana (D) [Sen]",
+    "Deborah Krishnadasan (D) [Sen]",
+    "Claire Wilson (D) [Sen]",
+    "Sharon Shewmake (D) [Sen]",
+    "Marcus Riccelli (D) [Sen]",
+    "T'wina Nobles (D) [Sen]",
+    "Bill Ramos (D) [Sen]",
+    "Claudia Kauffman (D) [Sen]",
+    "Vandana Slatter (D) [Sen]",
+    "Robert Hasegawa (D) [Sen]",
+    "Derek Stanford (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-07",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-07",
+      "action": "First reading, referred to Law & Justice.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5704.pdf",
+      "doc_id": 3106635
+    }
+  ],
+  "committee": {
+    "committee_id": 2771,
+    "chamber": "S",
+    "chamber_id": 98,
+    "name": "Law & Justice"
+  },
+  "subjects": []
+}

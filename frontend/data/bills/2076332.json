@@ -1,0 +1,53 @@
+{
+  "id": 2076332,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S366",
+  "title": "Amends felony murder, aggravated manslaughter, and aggravated assault statutes to include death or bodily injury occurring during commission of auto theft.",
+  "summary": "Amends felony murder, aggravated manslaughter, and aggravated assault statutes to include death or bodily injury occurring during commission of auto theft.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S366/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S366/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S366",
+  "sponsors": [
+    "Douglas Steinhardt (R) [Sen]",
+    "Anthony M. Bucco (R) [Sen]",
+    "Kristin Corrado (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Judiciary Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-02",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S0500/366_I1.HTM",
+      "doc_id": 3313353
+    }
+  ],
+  "committee": {
+    "committee_id": 880,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Judiciary"
+  ]
+}

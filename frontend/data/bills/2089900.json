@@ -1,0 +1,49 @@
+{
+  "id": 2089900,
+  "state": "MS",
+  "state_name": "Mississippi",
+  "bill_number": "HB1685",
+  "title": "Book fairs; require school districts to adopt policy regulating content of books for sale.",
+  "summary": "An Act To Require The School Board Of Each School District To Adopt A Policy Regulating The Content Of Books Made Available For Purchase By Students At School Book Fairs; To Require The Policy To Include Certain Provisions; And For Related Purposes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MS/bill/HB1685/2026",
+  "legiscan_url": "https://legiscan.com/MS/bill/HB1685/2026",
+  "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1685.xml",
+  "sponsors": [
+    "Lance Varner (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-19",
+      "action": "Referred To Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Died In Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-22",
+      "type": "Introduced",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/HB/1600-1699/HB1685IN.htm",
+      "doc_id": 3327916
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

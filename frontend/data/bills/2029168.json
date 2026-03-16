@@ -1,0 +1,68 @@
+{
+  "id": 2029168,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "H4515",
+  "title": "Birth Certificates",
+  "summary": "Amend The South Carolina Code Of Laws By Amending Sections 44-63-20, 44-63-100, 44-63-150, And 63-3-530, All Relating In Part To Changes To Certificates Of Birth, So As To Prohibit The Amendment, Modification, Correction, Or Other Changes To The Gender Of Individuals As It Appears On The Original Certificate Of Birth, With Exceptions; By Adding Section 44-63-155 So As To Allow Certain Corrections To Be Made To Birth Certificates By Filing A Court Petition Requesting An Appropriate Court Order; By Amending Section 63-7-20, Relating To Terms Defined In The Children's Code, So As To Change The Definition Of \"child Abuse Or Neglect\"; And For Other Purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions",
+    "education",
+    "identity_documents"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/H4515/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/H4515/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4515&session=126&summary=B",
+  "sponsors": [
+    "Steven Long (R) [Rep]",
+    "Bruce Bannister (R) [Rep]",
+    "Travis Moore (R) [Rep]",
+    "Patrick Haddon (R) [Rep]",
+    "Richard Yow (R) [Rep]",
+    "Cody Mitchell (R) [Rep]",
+    "Bill Taylor (R) [Rep]",
+    "Weston Newton (R) [Rep]",
+    "Val Guest (R) [Rep]",
+    "Doug Gilliam (R) [Rep]",
+    "William Herbkersman (R) [Rep]",
+    "Luke Rankin (R) [Rep]",
+    "Davey Hiott (R) [Rep]"
+  ],
+  "introduced_date": "2025-05-06",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-06",
+      "action": "Introduced and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-06",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4515_20250506.htm",
+      "doc_id": 3230685
+    }
+  ],
+  "committee": {
+    "committee_id": 708,
+    "chamber": "H",
+    "chamber_id": 85,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

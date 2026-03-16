@@ -1,0 +1,216 @@
+{
+  "id": 1944816,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1718",
+  "title": "Concerning well-being programs for certain health care professionals.",
+  "summary": "Concerning well-being programs for certain health care professionals.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1718/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1718/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1718&Year=2025&Initiative=false",
+  "sponsors": [
+    "My-Linh Thai (D) [Rep]",
+    "Clyde Shavers (D) [Rep]",
+    "Lisa Parshley (D) [Rep]",
+    "Janice Zahn (D) [Rep]",
+    "Shaun Scott (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-21",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-29",
+      "action": "First reading, referred to Health Care & Wellness.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Public hearing in the House Committee on Health Care & Wellness at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Executive action taken in the House Committee on Health Care & Wellness at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "HCW - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-21",
+      "action": "Referred to Rules 2 Review.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Rules Committee relieved of further consideration. Placed on second reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-08",
+      "action": "1st substitute bill substituted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-08",
+      "action": "Floor amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-08",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-08",
+      "action": "Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "First reading, referred to Health & Long-Term Care.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Public hearing in the Senate Committee on Health & Long-Term Care at 8:00 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Executive action taken in the Senate Committee on Health & Long-Term Care at 8:00 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "HLTC - Majority; do pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Passed to Rules Committee for second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Placed on second reading by Rules Committee.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Speaker signed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "President signed.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Delivered to Governor.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-21",
+      "action": "Governor signed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-21",
+      "action": "Chapter 97, 2025 Laws.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-21",
+      "action": "Effective date 7/27/2025.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-19",
+      "description": "House Committee on Health Care & Wellness: 1st substitute bill be substituted, do pass",
+      "yea": 19,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-08",
+      "description": "House 3rd Reading & Final Passage",
+      "yea": 96,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-21",
+      "description": "Senate Committee on Health & Long-Term Care: do pass",
+      "yea": 11,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-08",
+      "description": "Senate 3rd Reading & Final Passage",
+      "yea": 48,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1718.pdf",
+      "doc_id": 3086641
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1718-S.pdf",
+      "doc_id": 3137456
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1718-S.E.pdf",
+      "doc_id": 3160636
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Enrolled",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Passed%20Legislature/1718-S.PL.pdf",
+      "doc_id": 3210676
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Chaptered",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Session%20Laws/House/1718-S.SL.pdf",
+      "doc_id": 3218470
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

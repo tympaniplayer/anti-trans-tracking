@@ -1,0 +1,89 @@
+{
+  "id": 2053821,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR909",
+  "title": "Recognizing that immigrant justice and reproductive justice are inseparable and must be pursued together.",
+  "summary": "Recognizing that immigrant justice and reproductive justice are inseparable and must be pursued together.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR909/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR909/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/909/all-info",
+  "sponsors": [
+    "Delia Ramirez (D) [Rep]",
+    "Ayanna Pressley (D) [Rep]",
+    "Jill Tokuda (D) [Rep]",
+    "Lateefah Simon (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Yvette Clarke (D) [Rep]",
+    "Sydney Kamlager-Dove (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Gwen Moore (D) [Rep]",
+    "Nydia Velazquez (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Andre Carson (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Deborah Ross (D) [Rep]",
+    "Robin Kelly (D) [Rep]",
+    "Sara Jacobs (D) [Rep]",
+    "Janice Schakowsky (D) [Rep]",
+    "Adriano Espaillat (D) [Rep]",
+    "Frederica Wilson (D) [Rep]",
+    "Raja Krishnamoorthi (D) [Rep]",
+    "Emily Randall (D) [Rep]",
+    "Summer Lee (D) [Rep]",
+    "Jesus Garcia (D) [Rep]",
+    "Sylvia Garcia (D) [Rep]",
+    "Luz Rivas (D) [Rep]",
+    "Kevin Mullin (D) [Rep]",
+    "Becca Balint (D) [Rep]",
+    "Gil Cisneros (D) [Rep]",
+    "Alma Adams (D) [Rep]",
+    "Debbie Wasserman Schultz (D) [Rep]",
+    "Melanie Stansbury (D) [Rep]",
+    "Danny Davis (D) [Rep]",
+    "Joyce Beatty (D) [Rep]",
+    "Dina Titus (D) [Rep]"
+  ],
+  "introduced_date": "2025-11-21",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-11-21",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-21",
+      "action": "Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres909/BILLS-119hres909ih.pdf",
+      "doc_id": 3325273
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

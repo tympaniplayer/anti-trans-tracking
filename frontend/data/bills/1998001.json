@@ -1,0 +1,69 @@
+{
+  "id": 1998001,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S2275",
+  "title": "Relative to healthy and sustainable schools",
+  "summary": "For legislation relative to healthy and sustainable schools. Telecommunications, Utilities and Energy.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S2275/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S2275/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S2275",
+  "sponsors": [
+    "Paul Feeney (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Telecommunications, Utilities and Energy",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "Hearing scheduled for 09/25/2025 from 01:00 PM-05:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Hearing rescheduled to 09/25/2025 from 01:00 PM-04:30 PM in A-1 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-12-15",
+      "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S2275.pdf",
+      "doc_id": 3163243
+    }
+  ],
+  "committee": {
+    "committee_id": 746,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

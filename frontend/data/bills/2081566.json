@@ -1,0 +1,261 @@
+{
+  "id": 2081566,
+  "state": "NE",
+  "state_name": "Nebraska",
+  "bill_number": "LB1071",
+  "title": "Provide, change, and eliminate provisions related to appropriations for the expenses of Nebraska State Government for the biennium ending June 30, 2027",
+  "summary": "Provide, change, and eliminate provisions related to appropriations for the expenses of Nebraska State Government for the biennium ending June 30, 2027",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NE/bill/LB1071/2025",
+  "legiscan_url": "https://legiscan.com/NE/bill/LB1071/2025",
+  "state_url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=62648",
+  "sponsors": [
+    "John Arch (N) [Sen]"
+  ],
+  "introduced_date": "2026-03-10",
+  "session": "109th Legislature",
+  "actions": [
+    {
+      "date": "2026-01-15",
+      "action": "Date of introduction",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-01-16",
+      "action": "Kauth FA730 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Referred to Appropriations Committee",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Notice of hearing for February 02, 2026",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "Conrad FA945 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Speaker Major Proposal",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Placed on General File with AM2162",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Appropriations AM2162 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Brandt AM2500 to AM2162 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Brandt AM2500 lost",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Hallstrom AM2522 to AM2162 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Hallstrom AM2522 adopted",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Appropriations AM2162 pending",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Conrad FA1036 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Conrad FA1036 lost",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Appropriations AM2162 pending",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Appropriations AM2162 pending",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Rountree FA1039 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Rountree FA1039 pending",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Rountree FA1039 lost",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Conrad AM2573 to AM2162 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Speaker Arch MO517 Invoke cloture pursuant to Rule 7, Sec. 10 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Speaker Arch MO517 prevailed",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Conrad AM2573 lost",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Appropriations AM2162 adopted",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Advanced to Enrollment and Review Initial",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Hunt AM2571 to AM2162 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Brandt FA1045 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Conrad AM2566 to AM2162 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Conrad AM2567 to AM2162 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Conrad AM2580 to AM2162 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Conrad AM2583 to AM2162 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Cavanaugh, M. FA1037 filed",
+      "chamber": "L"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-09",
+      "description": "Brandt AM2500 lost",
+      "yea": 23,
+      "nay": 17,
+      "passed": 0
+    },
+    {
+      "date": "2026-03-09",
+      "description": "Hallstrom AM2522 adopted",
+      "yea": 34,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-10",
+      "description": "Conrad FA1036 lost",
+      "yea": 8,
+      "nay": 29,
+      "passed": 0
+    },
+    {
+      "date": "2026-03-10",
+      "description": "Rountree FA1039 lost",
+      "yea": 12,
+      "nay": 28,
+      "passed": 0
+    },
+    {
+      "date": "2026-03-10",
+      "description": "Speaker Arch MO517 prevailed",
+      "yea": 35,
+      "nay": 12,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-10",
+      "description": "Conrad AM2573 lost",
+      "yea": 12,
+      "nay": 31,
+      "passed": 0
+    },
+    {
+      "date": "2026-03-10",
+      "description": "Appropriations AM2162 adopted",
+      "yea": 34,
+      "nay": 12,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-10",
+      "description": "Advanced to Enrollment and Review Initial",
+      "yea": 32,
+      "nay": 14,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-15",
+      "type": "Introduced",
+      "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB1071.pdf",
+      "doc_id": 3318682
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

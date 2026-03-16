@@ -1,0 +1,51 @@
+{
+  "id": 2122458,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S09275",
+  "title": "Requires Medicaid to cover gender-affirming care regardless of federal funding; prohibits discriminatory practices by health care entities including hospitals, certain professionals, and insurers; requires insurance coverage for services or treatments for gender dysphoria or gender incongruence.",
+  "summary": "Requires Medicaid to cover gender-affirming care regardless of federal funding; prohibits discriminatory practices by health care entities including hospitals, certain professionals, and insurers; requires insurance coverage for services or treatments for gender dysphoria or gender incongruence.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S09275/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S09275/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S9275",
+  "sponsors": [
+    "Gustavo Rivera (D) [Sen]",
+    "Kristen Gonzalez (D) [Sen]",
+    "Robert Jackson (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-23",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-23",
+      "action": "REFERRED TO HEALTH",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-23",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S09275&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S09275",
+      "doc_id": 3372520
+    }
+  ],
+  "committee": {
+    "committee_id": 429,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Health"
+  },
+  "subjects": []
+}

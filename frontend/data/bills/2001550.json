@@ -1,0 +1,70 @@
+{
+  "id": 2001550,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H1558",
+  "title": "Promoting fair and affordable housing",
+  "summary": "Relative to the promotion of affordable housing. Housing.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H1558/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H1558/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H1558",
+  "sponsors": [
+    "David Rogers (D) [Rep]",
+    "Christine Barber (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Housing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-11",
+      "action": "Hearing scheduled for 07/23/2025 from 01:00 PM-05:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-09-18",
+      "action": "Reporting date extended to Friday, October 31, 2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-29",
+      "action": "Reporting date extended to Monday, November 17, 2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H1558.pdf",
+      "doc_id": 3167539
+    }
+  ],
+  "committee": {
+    "committee_id": 765,
+    "chamber": "J",
+    "chamber_id": 103,
+    "name": "Housing"
+  },
+  "subjects": []
+}

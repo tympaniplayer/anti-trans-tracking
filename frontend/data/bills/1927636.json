@@ -1,0 +1,54 @@
+{
+  "id": 1927636,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF407",
+  "title": "Discrimination based on political affiliation prohibition",
+  "summary": "Discrimination based on political affiliation prohibition",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF407/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF407/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/407/",
+  "sponsors": [
+    "Justin Eichorn (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-21",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-01-21",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Referred to Judiciary and Public Safety",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/407/versions/0/pdf/",
+      "doc_id": 3064964
+    }
+  ],
+  "committee": {
+    "committee_id": 1748,
+    "chamber": "S",
+    "chamber_id": 56,
+    "name": "Judiciary and Public Safety"
+  },
+  "subjects": []
+}

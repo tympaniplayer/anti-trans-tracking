@@ -1,0 +1,49 @@
+{
+  "id": 2102877,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S09088",
+  "title": "Requires the registration of data brokers; imposes regulations upon data brokers; establishes a data deletion mechanism for consumers; imposes penalties upon data brokers for violations of the law.",
+  "summary": "Requires the registration of data brokers; imposes regulations upon data brokers; establishes a data deletion mechanism for consumers; imposes penalties upon data brokers for violations of the law.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S09088/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S09088/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S9088",
+  "sponsors": [
+    "Kristen Gonzalez (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-30",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-30",
+      "action": "REFERRED TO CONSUMER PROTECTION",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-30",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S09088&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S09088",
+      "doc_id": 3342624
+    }
+  ],
+  "committee": {
+    "committee_id": 419,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Consumer Affairs and Protection"
+  },
+  "subjects": []
+}

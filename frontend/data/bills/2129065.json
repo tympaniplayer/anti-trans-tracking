@@ -1,0 +1,59 @@
+{
+  "id": 2129065,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "S2790",
+  "title": "Mandates that athletic teams that are sponsored by a public school or a private school whose teams compete against a public school, be designated as (1) \"males\", \"men\" or \"boys\"; (2) \"females\", \"women\" or \"girls\"; or (3) \"coed\" or \"mixed\".",
+  "summary": "EDUCATION -- SAVE WOMEN\u2019S SPORTS ACT - Mandates that athletic teams that are sponsored by a public school or a private school whose teams compete against a public school, be designated as (1) \"males\", \"men\" or \"boys\"; (2) \"females\", \"women\" or \"girls\"; or (3) \"coed\" or \"mixed\".",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "education"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/S2790/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/S2790/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Elaine Morgan (R) [Sen]",
+    "Todd Patalano (D) [Sen]",
+    "Jessica de la Cruz (R) [Sen]",
+    "Leonidas Raptakis (D) [Sen]",
+    "Andrew Dimitri (D) [Sen]",
+    "Gordon Rogers (R) [Sen]",
+    "John Burke (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-04",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "action": "Introduced, referred to Senate Education",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-04",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/SenateText26/S2790.pdf",
+      "doc_id": 3384296
+    }
+  ],
+  "committee": {
+    "committee_id": 1134,
+    "chamber": "S",
+    "chamber_id": 84,
+    "name": "Education"
+  },
+  "subjects": [
+    "Education",
+    "EDUCATION -- SAVE WOMEN\u2019S SPORTS ACT"
+  ]
+}

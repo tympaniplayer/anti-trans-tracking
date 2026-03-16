@@ -1,0 +1,650 @@
+{
+  "id": 1891121,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB229",
+  "title": "Relating to general definitions for and collection of governmental information regarding biological sex.",
+  "summary": "Relating to general definitions for and collection of governmental information regarding biological sex.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB229/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB229/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB229",
+  "sponsors": [
+    "Ellen Troxclair (R) [Rep]",
+    "Valoree Swanson (R) [Rep]",
+    "Shelby Slawson (R) [Rep]",
+    "Lacey Hull (R) [Rep]",
+    "Jeff Leach (R) [Rep]",
+    "Daniel Alders (R) [Rep]",
+    "Jeff Barry (R) [Rep]",
+    "Keith Bell (R) [Rep]",
+    "Greg Bonnen (R) [Rep]",
+    "Brad Buckley (R) [Rep]",
+    "Ben Bumgarner (R) [Rep]",
+    "Angie Button (R) [Rep]",
+    "Briscoe Cain (R) [Rep]",
+    "Giovanni Capriglione (R) [Rep]",
+    "David Cook (R) [Rep]",
+    "Pat Curry (R) [Rep]",
+    "Jay Dean (R) [Rep]",
+    "Mano DeAyala (R) [Rep]",
+    "Mark Dorazio (R) [Rep]",
+    "Paul Dyson (R) [Rep]",
+    "Caroline Fairly (R) [Rep]",
+    "James Frank (R) [Rep]",
+    "Stan Gerdes (R) [Rep]",
+    "Ryan Guillen (R) [Rep]",
+    "Cody Harris (R) [Rep]",
+    "Caroline Harris Davila (R) [Rep]",
+    "Brian Harrison (R) [Rep]",
+    "Richard Hayes (R) [Rep]",
+    "Cole Hefner (R) [Rep]",
+    "Hillary Hickland (R) [Rep]",
+    "Janis Holt (R) [Rep]",
+    "Andy Hopper (R) [Rep]",
+    "Todd Hunter (R) [Rep]",
+    "Carrie Isaac (R) [Rep]",
+    "Helen Kerwin (R) [Rep]",
+    "Stan Kitzman (R) [Rep]",
+    "Marc LaHood (R) [Rep]",
+    "Brooks Landgraf (R) [Rep]",
+    "Terri Leo-Wilson (R) [Rep]",
+    "Mitch Little (R) [Rep]",
+    "Janie Lopez (R) [Rep]",
+    "David Lowe (R) [Rep]",
+    "J.M. Lozano (R) [Rep]",
+    "Shelley Luther (R) [Rep]",
+    "Don McLaughlin (R) [Rep]",
+    "John McQueeney (R) [Rep]",
+    "William Metcalf (R) [Rep]",
+    "Brent Money (R) [Rep]",
+    "Matt Morgan (R) [Rep]",
+    "Candy Noble (R) [Rep]",
+    "Mike Olcott (R) [Rep]",
+    "Tom Oliverson (R) [Rep]",
+    "Angelia Orr (R) [Rep]",
+    "Jared Patterson (R) [Rep]",
+    "Dennis Paul (R) [Rep]",
+    "Katrina Pierson (R) [Rep]",
+    "Keresa Richardson (R) [Rep]",
+    "Nate Schatzline (R) [Rep]",
+    "Alan Schoolcraft (R) [Rep]",
+    "Matthew Shaheen (R) [Rep]",
+    "Joanne Shofner (R) [Rep]",
+    "David Spiller (R) [Rep]",
+    "Carl Tepper (R) [Rep]",
+    "Tony Tinderholt (R) [Rep]",
+    "Steve Toth (R) [Rep]",
+    "Cody Vasut (R) [Rep]",
+    "Denise Villalobos (R) [Rep]",
+    "Wesley Virdell (R) [Rep]",
+    "Trey Wharton (R) [Rep]",
+    "Terry Wilson (R) [Rep]",
+    "Mayes Middleton (R) [Sen]",
+    "Donna Campbell (R) [Sen]",
+    "Brent Hagenbuch (R) [Sen]",
+    "Kelly Hancock (R) [Sen]",
+    "Adam Hinojosa (R) [Sen]",
+    "Phil King (R) [Rep]",
+    "Lois Kolkhorst (R) [Sen]"
+  ],
+  "introduced_date": "2025-06-20",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-12",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Referred to State Affairs",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-25",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-25",
+      "action": "Considered in public hearing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-25",
+      "action": "Testimony taken/registration(s) recorded in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-25",
+      "action": "Left pending in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Considered in public hearing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Reported favorably w/o amendment(s)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "Comte report filed with Committee Coordinator",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Committee report distributed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Committee report sent to Calendars",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Considered in Calendars",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-09",
+      "action": "Placed on General State Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Read 2nd time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Amendment fails of adoption 1-J. Gonz\u00e1lez",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Record vote RV#2123",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Amendment tabled 2-V. Jones",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Record vote RV#2124",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Point of order withdrawn Rule 4, Section 32(c)(1)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Amended 3-M. Gonz\u00e1lez",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Passed to engrossment as amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Record vote RV#2125",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Read 3rd time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Postponed 5/12/25 11:30 AM",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Laid out as postponed business",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Amendment(s) offered 1-Zwiener",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Point of order withdrawn (amendment) Rule 11, Section 2",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Amendment withdrawn 1-Zwiener",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Amendment tabled 2-Zwiener",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Record vote RV#2171",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Amendment tabled 3-Reynolds",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Record vote RV#2172",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Amendment tabled 4-J. Gonz\u00e1lez",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Record vote RV#2173",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Amendment tabled 5-V. Jones",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Record vote RV#2174",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Amendment tabled 6-Wu",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Record vote RV#2175",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Amendment tabled 7-Gervin-Hawkins",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Record vote RV#2176",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Passed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Record vote RV#2177",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Statement(s) of vote recorded in Journal",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Reported engrossed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Received from the House",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Referred to State Affairs",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Considered in public hearing",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Testimony taken in committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Left pending in committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Considered in public hearing",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Vote taken in committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Reported favorably w/o amendments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Committee report printed and distributed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-26",
+      "action": "Co-sponsor authorized",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-26",
+      "action": "Placed on intent calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Co-sponsor authorized",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Co-sponsor authorized",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Rules suspended-Regular order of business",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Record vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Read 2nd time & passed to 3rd reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Record vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Rules suspended-Regular order of business",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Record vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Read 3rd time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Passed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Record vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Remarks ordered printed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Senate passage reported",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Reported enrolled",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Signed in the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Signed in the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-30",
+      "action": "Sent to the Governor",
+      "chamber": ""
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Signed by the Governor",
+      "chamber": ""
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Effective on 9/1/25",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-10",
+      "description": "Amendment fails of adoption RV#2123",
+      "yea": 28,
+      "nay": 79,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-10",
+      "description": "Amendment tabled RV#2124",
+      "yea": 82,
+      "nay": 29,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-10",
+      "description": "Amended RV#2125",
+      "yea": 86,
+      "nay": 36,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-12",
+      "description": "Amendment tabled RV#2171",
+      "yea": 86,
+      "nay": 55,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-12",
+      "description": "Amendment tabled RV#2172",
+      "yea": 85,
+      "nay": 59,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-12",
+      "description": "Amendment tabled RV#2173",
+      "yea": 87,
+      "nay": 56,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-12",
+      "description": "Amendment tabled RV#2175",
+      "yea": 87,
+      "nay": 55,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-12",
+      "description": "Amendment tabled RV#2176",
+      "yea": 88,
+      "nay": 56,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-12",
+      "description": "Amendment tabled RV#2174",
+      "yea": 86,
+      "nay": 58,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-12",
+      "description": "Record vote RV#2177",
+      "yea": 87,
+      "nay": 56,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-28",
+      "description": "Rules suspended-Regular order of business",
+      "yea": 20,
+      "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-28",
+      "description": "Read 2nd time & passed to 3rd reading",
+      "yea": 20,
+      "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-28",
+      "description": "Rules suspended-Regular order of business",
+      "yea": 20,
+      "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-28",
+      "description": "Read 3rd time",
+      "yea": 20,
+      "nay": 11,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2024-11-12",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00229I.htm",
+      "doc_id": 3026746
+    },
+    {
+      "date": "2025-05-06",
+      "type": "Comm Sub",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00229H.htm",
+      "doc_id": 3229634
+    },
+    {
+      "date": "2025-05-12",
+      "type": "Engrossed",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00229E.htm",
+      "doc_id": 3234943
+    },
+    {
+      "date": "2025-05-23",
+      "type": "Comm Sub",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00229S.htm",
+      "doc_id": 3244160
+    },
+    {
+      "date": "2025-05-28",
+      "type": "Enrolled",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00229F.htm",
+      "doc_id": 3247237
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Health",
+    "Health--Privacy/Use of Information",
+    "Human Relations",
+    "Women",
+    "VITAL STATISTICS & RECORDS",
+    "GENDER IDENTITY & EXPRESSION"
+  ]
+}

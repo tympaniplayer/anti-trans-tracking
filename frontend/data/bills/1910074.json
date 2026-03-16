@@ -1,0 +1,62 @@
+{
+  "id": 1910074,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H50",
+  "title": "Relative to the Veterans' Bonus Division",
+  "summary": "Relative to the Veterans\u2019 Bonus Division. Veterans and Federal Affairs.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H50/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H50/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H50",
+  "sponsors": [],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Veterans and Federal Affairs",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "Hearing scheduled for 06/24/2025 from 01:00 PM-05:00 PM in 437",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-17",
+      "action": "Hearing rescheduled to 06/24/2025 from 01:00 PM-05:00 PM in A-1",
+      "chamber": "J"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H50.pdf",
+      "doc_id": 3047038
+    }
+  ],
+  "committee": {
+    "committee_id": 779,
+    "chamber": "J",
+    "chamber_id": 103,
+    "name": "Veterans and Federal Affairs"
+  },
+  "subjects": []
+}

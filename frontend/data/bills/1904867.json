@@ -1,0 +1,138 @@
+{
+  "id": 1904867,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "B26-0029",
+  "title": "Institution of Higher Education Sexual Misconduct Reporting and Resource Accessibility Act of 2025",
+  "summary": "As introduced Bill 26-29 would assist survivors of sexual misconduct by requiring institutions of higher education in the District to retain a confidential resource advisor (CRA) to provide emergency and ongoing support to reporting parties at institutions of higher education. It would require amnesty protections for reporting parties of sexual misconduct in certain cases. Institutions would be required to facilitate mandatory annual sexual misconduct trainings for all students and personnel. It would establish minimum criteria for institutions\u2019 sexual misconduct policies. It would also, among other things, require institutions to submit to the Higher Education Licensure Commission a report containing data about sexual misconduct on campus. \n\nFISCAL NOTE - This bill is Subject to Appropriations. Please see the Fiscal Impact Statement for more information.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "bathrooms",
+    "education"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/B26-0029/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/B26-0029/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/B26-0029",
+  "sponsors": [
+    "Christina Henderson (I) [Sen]",
+    "Matthew Frumin (D) [Sen]",
+    "Robert White (D) [Sen]",
+    "Brianne Nadeau (D) [Sen]",
+    "Charles Allen (D) [Sen]",
+    "Brooke Pinto (D) [Sen]",
+    "Janeese Lewis George (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-25",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2025-01-06",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-01-10",
+      "action": "Notice of Intent to Act on B26-0029 Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Referred to Committee on Committee of the Whole",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Committee Mark-up of B26-0029",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "First Reading, CC",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Final Reading, CC",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Transmitted to Mayor, Response Due on April 24, 2025",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Returned from Mayor",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-04-25",
+      "action": "Enacted without Mayor's Signature with Act Number A26-0059",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-05-02",
+      "action": "Act A26-0059 Published in DC Register Vol 72 and Page 005314",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-08-26",
+      "action": "Notice of Mark-up filed in the Office of Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Committee Report Filed",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Transmitted to Congress, Projected Law Date is Mar 25, 2026",
+      "chamber": "C"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-04",
+      "description": "First Reading, CC",
+      "yea": 12,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-01",
+      "description": "Final Reading, CC",
+      "yea": 12,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-06",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/56861/Introduction/B26-0029-Introduction.pdf",
+      "doc_id": 3041783
+    },
+    {
+      "date": "2025-03-04",
+      "type": "Engrossed",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/56861/Meeting1/Engrossment/B26-0029-Engrossment1.pdf",
+      "doc_id": 3161044
+    },
+    {
+      "date": "2025-04-01",
+      "type": "Enrolled",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/56861/Meeting2/Enrollment/B26-0029-Enrollment1.pdf",
+      "doc_id": 3203664
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2044402,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "SB1007",
+  "title": "Providing for insurance coverage for transition intervention reversal services.",
+  "summary": "An Act providing for insurance coverage for transition intervention reversal services.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/SB1007/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/SB1007/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/sb1007",
+  "sponsors": [
+    "Michele Brooks (R) [Sen]",
+    "Doug Mastriano (R) [Sen]",
+    "Tracy Pennycuick (R) [Sen]"
+  ],
+  "introduced_date": "2025-09-17",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-09-17",
+      "action": "Referred to Banking & Insurance",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB1007/PN1170",
+      "doc_id": 3269928
+    }
+  ],
+  "committee": {
+    "committee_id": 68,
+    "chamber": "S",
+    "chamber_id": 4,
+    "name": "Banking & Insurance"
+  },
+  "subjects": []
+}

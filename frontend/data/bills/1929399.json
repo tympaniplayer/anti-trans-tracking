@@ -1,0 +1,81 @@
+{
+  "id": 1929399,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1426",
+  "title": "Creating a civil protection order to prevent impaired driving.",
+  "summary": "Creating a civil protection order to prevent impaired driving.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1426/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1426/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1426&Year=2025&Initiative=false",
+  "sponsors": [
+    "Lauren Davis (D) [Rep]",
+    "Cyndy Jacobsen (R) [Rep]",
+    "Amy Walen (D) [Rep]",
+    "Daniel Griffey (R) [Rep]",
+    "Joe Fitzgibbon (D) [Rep]",
+    "April Berg (D) [Rep]",
+    "Cindy Ryu (D) [Rep]",
+    "Davina Duerr (D) [Rep]",
+    "Roger Goodman (D) [Rep]",
+    "Beth Doglio (D) [Rep]",
+    "Osman Salahuddin (D) [Rep]",
+    "Mary Fosse (D) [Rep]",
+    "Mari Leavitt (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-20",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-20",
+      "action": "First reading, referred to Civil Rights & Judiciary.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Public hearing in the House Committee on Civil Rights & Judiciary at 10:30 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-29",
+      "action": "Public hearing in the House Committee on Civil Rights & Judiciary at 8:00 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Executive session scheduled, but no action was taken in the House Committee on Civil Rights & Judiciary at 8:00 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1426.pdf",
+      "doc_id": 3066714
+    }
+  ],
+  "committee": {
+    "committee_id": 3813,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Civil Rights & Judiciary"
+  },
+  "subjects": []
+}

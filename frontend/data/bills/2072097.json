@@ -1,0 +1,69 @@
+{
+  "id": 2072097,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "HB482",
+  "title": "Local and Regional Jails, State Board of; supervision by Office of Dept. of Corrections Ombudsman.",
+  "summary": "State Board of Local and Regional Jails. Moves supervision of the State Board of Local and Regional Jails from the Department of Corrections to the Office of the Department of Corrections Ombudsman within the Office of the State Inspector General.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/HB482/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/HB482/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/HB482",
+  "sponsors": [
+    "Patrick Hope (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-12",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-12",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26103406D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Referred to Committee on Public Safety",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Assigned HMPPS sub: Subcommittee #2",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (HB482)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Subcommittee recommends incorporating (Voice Vote)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Incorporated by Public Safety (HB1421-Keys-Gamarra) (Voice Vote)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-12",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB482/text/HB482",
+      "doc_id": 3306967
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

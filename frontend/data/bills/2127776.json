@@ -1,0 +1,54 @@
+{
+  "id": 2127776,
+  "state": "CT",
+  "state_name": "Connecticut",
+  "bill_number": "SB00399",
+  "title": "An Act Permitting Separate Areas For Exercise On The Basis Of Sex In Health Clubs And Gyms And Concerning The Disposition Of Cases Before The Commission On Human Rights And Opportunities.",
+  "summary": "To (1) permit health clubs and gyms to offer separate areas for exercise on the basis of sex, and (2) make statutory changes to commission processes involving requests for early legal intervention, the reopening of previously closed complaints and time parameters for pursuing a complaint in court.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CT/bill/SB00399/2026",
+  "legiscan_url": "https://legiscan.com/CT/bill/SB00399/2026",
+  "state_url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00399&which_year=2026",
+  "sponsors": [
+    "Judiciary Committee [Jnt]"
+  ],
+  "introduced_date": "2026-03-03",
+  "session": "2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-03-03",
+      "action": "Referred to Joint Committee on Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-16",
+      "action": "Public Hearing 03/20",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-02",
+      "type": "Introduced",
+      "url": "https://www.cga.ct.gov/2026/TOB/S/PDF/2026SB-00399-R00-SB.PDF",
+      "doc_id": 3381606
+    }
+  ],
+  "committee": {
+    "committee_id": 1354,
+    "chamber": "J",
+    "chamber_id": 108,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

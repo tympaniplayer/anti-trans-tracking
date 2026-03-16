@@ -1,0 +1,80 @@
+{
+  "id": 2102399,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "SB934",
+  "title": "Sexual orientation change efforts: remedies.",
+  "summary": "An act relating to healing arts.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/SB934/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/SB934/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB934",
+  "sponsors": [
+    "Scott Wiener (D) [Sen]",
+    "Alex Lee (D) [Rep]",
+    "Rebecca Bauer-Kahan (D) [Rep]",
+    "Mia Bonta (D) [Rep]",
+    "Christopher Cabaldon (D) [Sen]",
+    "Sabrina Cervantes (D) [Sen]",
+    "Maria Durazo (D) [Sen]",
+    "Sade Elhawary (D) [Rep]",
+    "Lena Gonzalez (D) [Sen]",
+    "Matt Haney (D) [Rep]",
+    "Corey Jackson (D) [Rep]",
+    "John Laird (D) [Sen]",
+    "Mark Gonzalez (D) [Rep]",
+    "Caroline Menjivar (D) [Sen]",
+    "Steve Padilla (D) [Sen]",
+    "Sasha Renee Perez (D) [Sen]",
+    "Lola Smallwood-Cuevas (D) [Sen]",
+    "Jose Solache (D) [Rep]",
+    "Aisha Wahab (D) [Sen]",
+    "Chris Ward (D) [Rep]",
+    "Lori Wilson (D) [Rep]",
+    "Rick Zbur (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-29",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "From printer. May be acted upon on or after March 1.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Referred to Com. on RLS.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-29",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB934#99INT",
+      "doc_id": 3341953
+    }
+  ],
+  "committee": {
+    "committee_id": 489,
+    "chamber": "S",
+    "chamber_id": 20,
+    "name": "Rules"
+  },
+  "subjects": []
+}

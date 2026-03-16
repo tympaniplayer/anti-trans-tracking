@@ -1,0 +1,89 @@
+{
+  "id": 2084089,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB2875",
+  "title": "CONSUMER DATA PRIVACY",
+  "summary": "Creates the Illinois Consumer Data Privacy Act. Applies to legal entities that conduct business in Illinois or produce products or services that are targeted to Illinois residents and that satisfy one or more of the following thresholds: during a calendar year, controls or processes personal data of 100,000 consumers or more, excluding personal data controlled or processed solely for the purpose of completing a payment transaction; or derives over 25% of gross revenue from the sale of personal data and processes or controls personal data of 25,000 consumers or more. \"Personal data\" means any information that is linked or reasonably linkable to an identified or identifiable natural person but does not include deidentified data or publicly available information. Requires a controller who, alone or jointly with others, to consider the purposes and means of the processing of personal data in protecting the security of consumers while processing personal data and in notifying consumers of a breach of the security of the system. Authorizes rights to consumers under the Act to include, but not be limited to, the right to access their personal data, obtain a list of third parties to whom their data has been disclosed, request corrections to inaccurate data, and question the profiling of their information. Creates an appeal process for a consumer to gather more information on the actions of a covered entity. Exempts the State, a political subdivision of the State, and units of local government, a federally recognized Indian tribe, nonprofits established to prevent insurance fraud, and data already covered by federal law. Authorizes the Attorney General to enforce the Act. Makes definitions. Makes other changes. Limits the concurrent exercise of home rule powers. Contains a severability provision.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB2875/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB2875/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2875&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "Laura Murphy (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-16",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-16",
+      "action": "Filed with Secretary by Sen. Laura M. Murphy",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-16",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-16",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Assigned to Executive",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "To AI and Social Media",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Senate Committee Amendment No. 1 Filed with Secretary by Sen. Laura M. Murphy",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Senate Committee Amendment No. 1 Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Senate Committee Amendment No. 1 Assignments Refers to Executive",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Senate Committee Amendment No. 1 To AI and Social Media",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Rule 2-10 Committee Deadline Established As March 27, 2026",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-16",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=206475&DocName=10400SB2875&DocNum=2875&DocTypeID=SB&LegID=165127&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3321314
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

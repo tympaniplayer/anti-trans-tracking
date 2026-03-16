@@ -1,0 +1,76 @@
+{
+  "id": 1959487,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB1127",
+  "title": "Relating to charter schools, including the admission, enrollment, and employment policies of and the applicability of certain laws to open-enrollment charter schools.",
+  "summary": "Relating to charter schools, including the admission, enrollment, and employment policies of and the applicability of certain laws to open-enrollment charter schools.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB1127/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB1127/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1127",
+  "sponsors": [
+    "Mayes Middleton (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-06",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-06",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Referred to Education K-16",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-06",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB01127I.htm",
+      "doc_id": 3107465
+    }
+  ],
+  "committee": {
+    "committee_id": 5056,
+    "chamber": "S",
+    "chamber_id": 92,
+    "name": "Education K-16"
+  },
+  "subjects": [
+    "Education",
+    "Education--Higher",
+    "Education--Higher--General",
+    "Education--Primary & Secondary",
+    "Education--Primary & Secondary--Admission & Attendance",
+    "Education--Primary & Secondary--Charter Schools",
+    "Education--Primary & Secondary--Other School Personnel",
+    "Education--Primary & Secondary--Teachers",
+    "ADULT EDUCATION",
+    "GENDER IDENTITY & EXPRESSION",
+    "SCHOOL CROSSING GUARDS & CROSSING ZONES"
+  ]
+}

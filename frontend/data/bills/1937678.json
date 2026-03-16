@@ -1,0 +1,80 @@
+{
+  "id": 1937678,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A03133",
+  "title": "Establishes masked harassment when a person wears a mask or other face covering that intentionally hides or conceals their face for the primary purpose of menacing or threatening another person or placing another person or group of persons in reasonable fear for their physical safety.",
+  "summary": "Establishes masked harassment when a person wears a mask or other face covering that intentionally hides or conceals their face for the primary purpose of menacing or threatening another person or placing another person or group of persons in reasonable fear for their physical safety.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A03133/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A03133/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A3133",
+  "sponsors": [
+    "Jeffrey Dinowitz (D) [Rep]",
+    "Sam Berger (D) [Rep]",
+    "Amy Paulin (D) [Rep]",
+    "Nily Rozic (D) [Rep]",
+    "Steve Stern (D) [Rep]",
+    "Micah Lasher (D) [Rep]",
+    "Simcha Eichenstein (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Paula Kay (D) [Rep]",
+    "Kalman Yeger (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Deborah Glick (D) [Rep]",
+    "Phillip Steck (D) [Rep]",
+    "Marianne Buttenschon (D) [Rep]",
+    "Charles Lavine (D) [Rep]",
+    "David Weprin (D) [Rep]",
+    "Patrick Carroll (D) [Rep]",
+    "Nader Sayegh (D) [Rep]",
+    "Michael Novakhov (R) [Rep]",
+    "Stacey Pheffer Amato (D) [Rep]",
+    "Eric Brown (R) [Rep]",
+    "Alec Brook-Krasny (D) [Rep]",
+    "William Colton (D) [Rep]",
+    "Jaime Williams (D) [Rep]",
+    "Karl Brabenec (R) [Rep]",
+    "Jacob Blumencranz (R) [Rep]",
+    "Matthew Slater (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-23",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-23",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to codes",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-23",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A03133&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A03133",
+      "doc_id": 3075122
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

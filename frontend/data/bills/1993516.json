@@ -1,0 +1,181 @@
+{
+  "id": 1993516,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A06559",
+  "title": "Establishes a veterans' bill of rights; provides sample language for such bill of rights; requires the department of veterans' services to establish and distribute a veterans' bill of rights and to make such bill of rights available on the department's website.",
+  "summary": "Establishes a veterans' bill of rights; provides sample language for such bill of rights; requires the department of veterans' services to establish and distribute a veterans' bill of rights and to make such bill of rights available on the department's website.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A06559/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A06559/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A6559",
+  "sponsors": [
+    "Michael Benedetto (D) [Rep]",
+    "Judy Griffin (D) [Rep]",
+    "Joseph Angelino (R) [Rep]"
+  ],
+  "introduced_date": "2025-05-21",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-06",
+      "action": "referred to veterans' affairs",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "amend and recommit to veterans' affairs",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "print number 6559a",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "amend and recommit to veterans' affairs",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "print number 6559b",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-19",
+      "action": "reported referred to rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "reported",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "rules report cal.225",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "ordered to third reading rules cal.225",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "passed assembly",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "delivered to senate",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "DIED IN SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "RETURNED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "ordered to third reading cal.164",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "amended on third reading 6559c",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "passed assembly",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "delivered to senate",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-19",
+      "description": "Assembly Veterans' Affairs Committee: Favorable refer to committee Rules",
+      "yea": 18,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-21",
+      "description": "Assembly Rules Committee: Favorable",
+      "yea": 29,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-21",
+      "description": "Assembly Floor Vote - Final Passage",
+      "yea": 143,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-03-06",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06559&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06559",
+      "doc_id": 3156513
+    },
+    {
+      "date": "2025-03-06",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06559&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06559A",
+      "doc_id": 3229591
+    },
+    {
+      "date": "2025-03-06",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06559&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06559B",
+      "doc_id": 3238080
+    },
+    {
+      "date": "2025-03-06",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06559&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06559C",
+      "doc_id": 3306770
+    }
+  ],
+  "committee": {
+    "committee_id": 442,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Veterans, Homeland Security and Military Affairs"
+  },
+  "subjects": []
+}

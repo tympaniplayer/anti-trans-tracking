@@ -1,0 +1,167 @@
+{
+  "id": 2046495,
+  "state": "FL",
+  "state_name": "Florida",
+  "bill_number": "H0173",
+  "title": "Parental Rights",
+  "summary": "Requires parental consent for minor's treatment for certain diseases; revises informed consent requirements; requires consent from parent or guardian for certain services provided by mobile response team; revises responsibility for cost of substance abuse services, confidentiality requirements, & requirements for voluntary admission for substance abuse impairment services; requires school district to provide parents with specified information before district administers certain questionnaires or forms to students; requires school district to give parent opportunity to opt his or her student out of such questionnaire or form; revises exceptions for certain parental rights; creates parental right to review, inspect, & consent to survey or questionnaire provided to parent's minor child; creates parental right to know certain information about survey or questionnaire at time of consent; creates parental right to consent in writing to use of biofeedback device on parent's minor child; defines \"biofeedback device\"; requires that results from use of such device be provided to parent; requires that such results be held as confidential medical record; revises exceptions for specified requirements of parental consent.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare",
+    "sports",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/FL/bill/H0173/2026",
+  "legiscan_url": "https://legiscan.com/FL/bill/H0173/2026",
+  "state_url": "https://www.flsenate.gov/Session/Bill/2026/173",
+  "sponsors": [
+    "Kim Kendall (R) [Rep]",
+    "Shane Abbott (R) [Rep]",
+    "Yvette Benarroch (R) [Rep]",
+    "Robert Brackett (R) [Rep]",
+    "Monique Miller (R) [Rep]",
+    "Bill Partington (R) [Rep]",
+    "Rachel Plakon (R) [Rep]",
+    "Kevin Steele (R) [Rep]",
+    "Brad Yeager (R) [Rep]"
+  ],
+  "introduced_date": "2025-10-15",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-10-15",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-21",
+      "action": "Referred to Health & Human Services Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-21",
+      "action": "Referred to Judiciary Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-21",
+      "action": "Referred to Education & Employment Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-21",
+      "action": "Now in Health & Human Services Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "1st Reading (Original Filed Version)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Added to Health & Human Services Committee agenda",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Favorable by Health & Human Services Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Reported out of Health & Human Services Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Now in Judiciary Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Added to Judiciary Committee agenda",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Favorable by Judiciary Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Reported out of Judiciary Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Now in Education & Employment Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Added to Education & Employment Committee agenda",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Favorable by Education & Employment Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Reported out of Education & Employment Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Bill released to House Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Added to Second Reading Calendar",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-27",
+      "description": "House Health & Human Services Committee",
+      "yea": 19,
+      "nay": 7,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-10",
+      "description": "House Judiciary Committee",
+      "yea": 15,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-17",
+      "description": "House Education & Employment Committee",
+      "yea": 12,
+      "nay": 4,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-10-15",
+      "type": "Introduced",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/173/BillText/Filed/PDF",
+      "doc_id": 3273418
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": 2111124,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB3890",
+  "title": "CONSUMER DATA PRIVACY",
+  "summary": "Creates the Illinois Data Privacy Protection Act. Applies to legal entities that conduct business in Illinois or produce products or services that are targeted to Illinois residents and that satisfy one or more of the following thresholds: during a calendar year, controls or processes personal data of 100,000 consumers or more, excluding personal data controlled or processed solely for the purpose of completing a payment transaction; or derives over 25% of gross revenue from the sale of personal data and processes or controls personal data of 25,000 consumers or more. Requires a controller, alone or jointly with others, to consider the purposes and means of the processing of personal data in protecting the security of consumers while processing personal data and in notifying consumers of a breach of the security of the system. Authorizes rights to consumers under the Act to include, but not be limited to, the right to access their personal data, obtain a list of third parties to whom their data has been disclosed, request corrections to inaccurate data, and question the profiling of their information. Authorizes the Attorney General to enforce the Act. Amends the Personal Information Protection Act. Provides that, annually, on or before January 31, a data broker operating in the State must register with the Attorney General. Provides that the Attorney General shall create a page on its Internet website in which the registration information is accessible to the public that allows consumers to delete their personal information across all registered data brokers. Provides for civil penalties. Amends the State Finance Act to create the Data Privacy Protection Fund. Makes definitions. Makes other changes. Limits the concurrent exercise of home rule powers. Contains a severability provision.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB3890/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB3890/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3890&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "Rachel Ventura (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-06",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "action": "Filed with Secretary by Sen. Rachel Ventura",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Assigned to Executive",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "To AI and Social Media",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Rule 2-10 Committee Deadline Established As March 27, 2026",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=208679&DocName=10400SB3890&DocNum=3890&DocTypeID=SB&LegID=167333&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3353926
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

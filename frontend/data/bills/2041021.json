@@ -1,0 +1,49 @@
+{
+  "id": 2041021,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S2572",
+  "title": "Site Information & Links",
+  "summary": "Site Information & Links",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S2572/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S2572/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S2572",
+  "sponsors": [
+    "Cindy Friedman (D) [Sen]"
+  ],
+  "introduced_date": "2025-07-31",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-07-31",
+      "action": "Text of the further amendment to H4294",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-31",
+      "action": "See S2543",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-31",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S2572.pdf",
+      "doc_id": 3263597
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

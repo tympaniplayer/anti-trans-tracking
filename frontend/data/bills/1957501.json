@@ -1,0 +1,135 @@
+{
+  "id": 1957501,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB2904",
+  "title": "HEALTH CARE TRANSPARENCY",
+  "summary": "Creates the Health Care Transparency Act. Provides that the Department of Public Health shall identify reproductive health care services, LGBTQ health care services, and end-of-life health care services that are or may be subject to denial of care for nonmedical reasons in the State and develop a clear and simple disclosure form for the purpose of conveying to patients and to the public which of the identified health care services are and are not generally available, are subject to restriction for nonmedical reasons, and are subject to restrictions on referral by each covered entity. Requires the Department to publish and maintain on its public-facing website a current list of covered entities and provide for public access to the disclosure form submitted by each covered entity; adopt rules implementing the Department's duties; and develop and administer to the public an education and awareness program regarding how denial of care may negatively impact health care access and quality, may be avoided, and affects vulnerable people and communities. Establishes disclosure requirements for covered entities. Effective immediately.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB2904/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB2904/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2904&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Dagmara Avelar (D) [Rep]",
+    "Kelly Cassidy (D) [Rep]",
+    "Laura Faver Dias (D) [Rep]",
+    "Maura Hirschauer (D) [Rep]",
+    "Hoan Huynh (D) [Rep]",
+    "Theresa Mah (D) [Rep]",
+    "Nicolle Grasse (D) [Rep]",
+    "Elizabeth Hernandez (D) [Rep]",
+    "Camille Lilly (D) [Rep]",
+    "Barbara Hernandez (D) [Rep]",
+    "Rita Mayfield (D) [Rep]",
+    "Justin Cochran (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-05",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-05",
+      "action": "Filed with the Clerk by Rep. Dagmara Avelar",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-21",
+      "action": "Added Co-Sponsor Rep. Kelly M. Cassidy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Added Co-Sponsor Rep. Laura Faver Dias",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Added Co-Sponsor Rep. Maura Hirschauer",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Added Co-Sponsor Rep. Hoan Huynh",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Assigned to Health Care Availability & Accessibility Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Co-Sponsor Rep. Theresa Mah",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Added Co-Sponsor Rep. Nicolle Grasse",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Rule 19(a) / Re-referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Added Co-Sponsor Rep. Elizabeth \"Lisa\" Hernandez",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Added Co-Sponsor Rep. Camille Y. Lilly",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Added Co-Sponsor Rep. Barbara Hernandez",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Added Co-Sponsor Rep. Rita Mayfield",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Added Co-Sponsor Rep. Justin Cochran",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-05",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=200894&DocName=10400HB2904&DocNum=2904&DocTypeID=HB&LegID=161106&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3102687
+    }
+  ],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
+  "subjects": []
+}

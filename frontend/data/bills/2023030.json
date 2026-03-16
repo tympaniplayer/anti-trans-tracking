@@ -1,0 +1,143 @@
+{
+  "id": 2023030,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "SJR4",
+  "title": "Research and education: federal funding cuts: the National Institutes of Health and postsecondary educational institutions.",
+  "summary": "Relative to research and education.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/SJR4/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/SJR4/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SJR4",
+  "sponsors": [
+    "Christopher Cabaldon (D) [Sen]",
+    "John Laird (D) [Sen]",
+    "Monique Limon (D) [Sen]",
+    "Sasha Renee Perez (D) [Sen]"
+  ],
+  "introduced_date": "2025-09-09",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-04-10",
+      "action": "Introduced. Referred to Com. on RLS.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "Re-referred to Com. on ED.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-25",
+      "action": "Set for hearing April 30.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "From committee: Be adopted. Ordered to third reading. (Ayes 5. Noes 1. Page 962.) (April 30).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Read. Adopted. (Ayes 26. Noes 6. Page 1089.) Ordered to the Assembly.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "In Assembly. Held at Desk.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-23",
+      "action": "Referred to Com. on HIGHER ED.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-07-09",
+      "action": "From committee: Be adopted. Ordered to third reading. (Ayes 7. Noes 2.) (July 8).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-03",
+      "action": "Read. Adopted. (Ayes 61. Noes 9. Page 2862.) Ordered to the Senate.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-04",
+      "action": "In Senate. Ordered to engrossing and enrolling.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-09",
+      "action": "Enrolled and filed with the Secretary of State at 11:30 a.m.",
+      "chamber": ""
+    },
+    {
+      "date": "2025-09-09",
+      "action": "Chaptered by Secretary of State. Res. Chapter 173, Statutes of 2025.",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-30",
+      "description": "Be adopted. Ordered to third reading",
+      "yea": 5,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-15",
+      "description": "Senate 3rd Reading SJR4 Laird et al",
+      "yea": 26,
+      "nay": 6,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-08",
+      "description": "Be adopted. To third reading",
+      "yea": 7,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-03",
+      "description": "SJR 4 Laird Senate Third Reading By Fong",
+      "yea": 61,
+      "nay": 9,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-04-10",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SJR4#99INT",
+      "doc_id": 3209165
+    },
+    {
+      "date": "2025-09-05",
+      "type": "Enrolled",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SJR4#98ENR",
+      "doc_id": 3267878
+    },
+    {
+      "date": "2025-09-09",
+      "type": "Chaptered",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SJR4#97CHP",
+      "doc_id": 3268404
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

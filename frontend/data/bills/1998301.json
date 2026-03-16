@@ -1,0 +1,59 @@
+{
+  "id": 1998301,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S336",
+  "title": "Relative to LGBTQ+ inclusive curriculum",
+  "summary": "For legislation relative to LGBTQ+ inclusive curriculum. Education.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S336/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S336/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S336",
+  "sponsors": [
+    "Julian Cyr (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-02",
+      "action": "Hearing scheduled for 09/16/2025 from 11:00 AM-5:00 PM in Gardner Auditorium",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-11-13",
+      "action": "Accompanied S340",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S336.pdf",
+      "doc_id": 3163554
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

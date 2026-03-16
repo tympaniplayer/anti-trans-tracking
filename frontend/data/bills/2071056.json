@@ -1,0 +1,143 @@
+{
+  "id": 2071056,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0648",
+  "title": "An act relating to banking, insurance, and securities",
+  "summary": "An act relating to banking, insurance, and securities",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0648/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0648/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.648",
+  "sponsors": [
+    "Michael Marcotte (R) [Rep]",
+    "Edye Graning (D) [Rep]",
+    "David Bosch (R) [Rep]",
+    "Emily Carris-Duncan (D) [Rep]",
+    "Abbey Duke (D) [Rep]",
+    "Anthony Micklus (R) [Rep]",
+    "Herb Olson (D) [Rep]",
+    "Monique Priestley (D) [Rep]",
+    "Kirk White (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-30",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Read first time and referred to the Committee on Commerce and Economic Development",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Notice Calendar: Favorable with Amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Referred to Committee on Ways and Means per Rule 35(a)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Notice Calendar: Favorable with Amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Referred to Committee on Appropriations per Rule 35(a)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Notice Calendar: Favorable with Amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Action Calendar: Favorable with Amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Read second time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Rep. Olson of Starksboro reported for the Committee on Commerce and Economic Development",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Rep. Burkhardt of South Burlington recommended for the Committee on Ways and Means",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Rep. Nigro of Bennington recommended for the Committee on Appropriations",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Report of Committee on Commerce and Economic Development agreed to",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Third Reading ordered",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "Action Calendar: Third Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "Rep. Olson of Starksboro moved to amend the bill, which was agreed to",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "Read third time and passed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Read 1st time & referred to Committee on Finance",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-12",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0648/H-0648%20As%20Introduced.pdf",
+      "doc_id": 3305819
+    },
+    {
+      "date": "2026-02-02",
+      "type": "Engrossed",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0648/H-0648%20As%20passed%20by%20the%20House%20Official.pdf",
+      "doc_id": 3343555
+    }
+  ],
+  "committee": {
+    "committee_id": 798,
+    "chamber": "S",
+    "chamber_id": 96,
+    "name": "Finance"
+  },
+  "subjects": []
+}

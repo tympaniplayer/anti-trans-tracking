@@ -1,0 +1,129 @@
+{
+  "id": 2004678,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A06765",
+  "title": "Enacts the preventing algorithmic pricing discrimination act; requires the disclosure of algorithmically set prices.",
+  "summary": "Enacts the preventing algorithmic pricing discrimination act; requires the disclosure of algorithmically set prices.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A06765/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A06765/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A6765",
+  "sponsors": [
+    "Emerita Torres (D) [Rep]",
+    "Nily Rozic (D) [Rep]",
+    "Latrice Walker (D) [Rep]",
+    "Maryjane Shimsky (D) [Rep]",
+    "Micah Lasher (D) [Rep]",
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Kalman Yeger (D) [Rep]",
+    "Alfred Taylor (D) [Rep]",
+    "Steven Otis (D) [Rep]",
+    "Yudelka Tapia (D) [Rep]",
+    "Tommy Schiavoni (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Michael Benedetto (D) [Rep]",
+    "Patrick Carroll (D) [Rep]",
+    "Brian Cunningham (D) [Rep]",
+    "George Alvarez (D) [Rep]",
+    "Joseph DeStefano (R) [Rep]",
+    "Deborah Glick (D) [Rep]",
+    "Angelo Santabarbara (D) [Rep]",
+    "Noah Burroughs (D) [Rep]",
+    "Linda Rosenthal (D) [Rep]",
+    "Steven Raga (D) [Rep]",
+    "Jennifer Lunsford (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-12",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-12",
+      "action": "referred to consumer affairs and protection",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "reported referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "reported referred to rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "reported",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "rules report cal.114",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "ordered to third reading rules cal.114",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "amended on third reading 6765a",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "ordered to third reading cal.173",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-25",
+      "description": "Assembly Codes Committee: Favorable refer to committee Rules",
+      "yea": 21,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-25",
+      "description": "Assembly Consumer Affairs And Protection Committee: Favorable refer to committee Codes",
+      "yea": 14,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-25",
+      "description": "Assembly Rules Committee: Favorable",
+      "yea": 30,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-03-12",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06765&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06765",
+      "doc_id": 3171094
+    },
+    {
+      "date": "2025-03-12",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06765&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06765A",
+      "doc_id": 3188189
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

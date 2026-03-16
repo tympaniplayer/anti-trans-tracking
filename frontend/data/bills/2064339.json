@@ -1,0 +1,132 @@
+{
+  "id": 2064339,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HB129",
+  "title": "Relating To Youth Fees And Fines.",
+  "summary": "Prohibits the assessment of any fees, fines, or court costs against a person who was adjudicated for an offense committed during the person's minority, or against the person's parent or guardian, and discharges all related debt obligations assessed before the effective date of the Act. Limits court-ordered community service for a minor to no more than seventy-two hours. Repeals certain penalties imposed on parents, guardians, or other persons associated with unaccompanied children in streets and unmarried minors in dance halls. Effective 7/1/3000. (HD2)",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HB129/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HB129/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=129&year=2026",
+  "sponsors": [
+    "David Tarnas (D) [Rep]",
+    "Tina Grandinetti (D) [Rep]",
+    "Kim Iwamoto (D) [Rep]",
+    "Jeanne Kapela (D) [Rep]",
+    "Amy Perruso (D) [Rep]",
+    "Mahina Poepoe (D) [Rep]",
+    "Kanani Souza (R) [Rep]",
+    "Gregg Takayama (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-16",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-14",
+      "action": "Prefiled.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-16",
+      "action": "Introduced and Pass First Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Referred to HSH, JHA, FIN, referral sheet 1",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-24",
+      "action": "Bill scheduled to be heard by HSH on Tuesday, 01-28-25 9:00AM in House conference room 329 VIA VIDEOCONFERENCE.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "The committee on HSH recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 7 Ayes: Representative(s) Marten, Olds, Amato, Chun, Keohokapu-Lee Loy, Takayama, Takenouchi; Ayes with reservations: none; 1 Noes: Representative(s) Garcia; and 1 Excused: Representative(s) Alcos.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-31",
+      "action": "Reported from HSH (Stand. Com. Rep. No. 29) as amended in HD 1, recommending passage on Second Reading and referral to JHA.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-31",
+      "action": "Passed Second Reading as amended in HD 1 and referred to the committee(s) on JHA with Representative(s) Kila, Lamosao, Reyes Oda, Shimizu voting aye with reservations; Representative(s) Alcos, Garcia, Matsumoto, Muraoka, Pierick voting no (5) and Representative(s) Cochran, Templo, Ward excused (3).",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-31",
+      "action": "Bill scheduled to be heard by JHA on Wednesday, 02-05-25 2:00PM in House conference room 325 VIA VIDEOCONFERENCE.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "The committee on JHA recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 9 Ayes: Representative(s) Tarnas, Poepoe, Belatti, Hashem, Kahaloa, Perruso, Takayama, Todd, Shimizu; Ayes with reservations: none; 1 Noes: Representative(s) Garcia; and 1 Excused: Representative(s) Cochran.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Reported from JHA (Stand. Com. Rep. No. 630) as amended in HD 2, recommending referral to FIN.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Report adopted; referred to the committee(s) on FIN as amended in HD 2 with Representative(s) Kila, Lamosao, Reyes Oda, Shimizu voting aye with reservations; Representative(s) Alcos, Garcia, Matsumoto, Muraoka, Pierick voting no (5) and Representative(s) Cochran, Kitagawa, Ward excused (3).",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-14",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB129_.HTM",
+      "doc_id": 3298617
+    },
+    {
+      "date": "2025-01-30",
+      "type": "Amended",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB129_HD1_.HTM",
+      "doc_id": 3298618
+    },
+    {
+      "date": "2025-02-13",
+      "type": "Amended",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB129_HD2_.HTM",
+      "doc_id": 3298619
+    }
+  ],
+  "committee": {
+    "committee_id": 2039,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Finance"
+  },
+  "subjects": [
+    "Juvenile Justice",
+    "Minors",
+    "Fees",
+    "Fines",
+    "Court Costs",
+    "Penalties",
+    "Prohibited",
+    "Community Service"
+  ]
+}

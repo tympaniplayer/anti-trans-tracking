@@ -1,0 +1,61 @@
+{
+  "id": 2037652,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB2122",
+  "title": "Jury ACCESS Act of 2025 Jury Access for Capable Citizens and Equality in Service Selection Act of 2025",
+  "summary": "A bill to amend title 28, United States Code, to prohibit the exclusion of individuals from service on a Federal jury on account of sexual orientation or gender identity.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB2122/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB2122/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2122/all-info",
+  "sponsors": [
+    "Jeanne Shaheen (D) [Sen]",
+    "Susan Collins (R) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Catherine Cortez Masto (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "Sheldon Whitehouse (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Ben Lujan (D) [Sen]",
+    "Richard Durbin (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-18",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-18",
+      "action": "Read twice and referred to the Committee on the Judiciary.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-01",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s2122/BILLS-119s2122is.pdf",
+      "doc_id": 3260203
+    }
+  ],
+  "committee": {
+    "committee_id": 2330,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Law"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 2113716,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "SB1009",
+  "title": "Juveniles: detention.",
+  "summary": "An act to amend Sections 635, 636, 726, 730, and 875 of, and to add Section 636.3 to, the Welfare and Institutions Code, relating to juveniles.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/SB1009/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/SB1009/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1009",
+  "sponsors": [
+    "Josh Becker (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-10",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-10",
+      "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "From printer. May be acted upon on or after March 13.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Referred to Com. on PUB. S.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Set for hearing March 17.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-10",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1009#99INT",
+      "doc_id": 3357704
+    }
+  ],
+  "committee": {
+    "committee_id": 487,
+    "chamber": "S",
+    "chamber_id": 20,
+    "name": "Public Safety"
+  },
+  "subjects": []
+}

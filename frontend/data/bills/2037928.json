@@ -1,0 +1,63 @@
+{
+  "id": 2037928,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SR295",
+  "title": "A resolution supporting the designation of the week of June 23 through June 29, 2025, as \"National Women's Sports Week\" to celebrate the anniversary of the enactment of title IX of the Education Amendments of 1972 and the growth of women's sports.",
+  "summary": "A resolution supporting the designation of the week of June 23 through June 29, 2025, as \"National Women's Sports Week\" to celebrate the anniversary of the enactment of title IX of the Education Amendments of 1972 and the growth of women's sports.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SR295/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SR295/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/295/all-info",
+  "sponsors": [
+    "Joni Ernst (R) [Sen]",
+    "Kevin Cramer (R) [Sen]",
+    "James Lankford (R) [Sen]",
+    "Tommy Tuberville (R) [Sen]",
+    "James Risch (R) [Sen]",
+    "Mike Crapo (R) [Sen]",
+    "Katie Boyd Britt (R) [Sen]",
+    "Cindy Hyde-Smith (R) [Sen]",
+    "Josh Hawley (R) [Sen]",
+    "James Justice (R) [Sen]",
+    "Jim Banks (R) [Sen]",
+    "Roger Wicker (R) [Sen]",
+    "David McCormick (R) [Sen]"
+  ],
+  "introduced_date": "2025-06-23",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-23",
+      "action": "Referred to the Committee on Commerce, Science, and Transportation. (text: CR S3494)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "Star Print ordered on the resolution.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-26",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/sres295/BILLS-119sres295is.pdf",
+      "doc_id": 3258950
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Sports and recreation"
+  ]
+}

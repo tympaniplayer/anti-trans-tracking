@@ -1,0 +1,58 @@
+{
+  "id": 1980923,
+  "state": "IA",
+  "state_name": "Iowa",
+  "bill_number": "HF560",
+  "title": "A bill for an act relating to the rights of parents, guardians, and minors including those relating to gender transition procedure-related activities for minors, and providing effective date and retroactive applicability provisions.",
+  "summary": "A bill for an act relating to the rights of parents, guardians, and minors including those relating to gender transition procedure-related activities for minors, and providing effective date and retroactive applicability provisions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IA/bill/HF560/2025",
+  "legiscan_url": "https://legiscan.com/IA/bill/HF560/2025",
+  "state_url": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF560",
+  "sponsors": [
+    "Aime Wichtendahl (D) [Rep]",
+    "Ken Croken (D) [Rep]",
+    "Elinor Levin (D) [Rep]",
+    "Brian Meyer (D) [Rep]",
+    "Timi Brown-powers (D) [Rep]",
+    "Monica Kurth (D) [Rep]",
+    "Jerome Amos (D) [Rep]",
+    "Beth Wessel-Kroeschell (D) [Rep]",
+    "Larry McBurney (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-24",
+  "session": "91st General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-24",
+      "action": "Introduced, referred to Judiciary. H.J. 414.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-24",
+      "type": "Introduced",
+      "url": "https://www.legis.iowa.gov/docs/publications/LGI/91/attachments/HF560.html",
+      "doc_id": 3137996
+    }
+  ],
+  "committee": {
+    "committee_id": 1460,
+    "chamber": "H",
+    "chamber_id": 39,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

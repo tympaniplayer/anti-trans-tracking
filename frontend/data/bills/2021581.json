@@ -1,0 +1,58 @@
+{
+  "id": 2021581,
+  "state": "DE",
+  "state_name": "Delaware",
+  "bill_number": "HB115",
+  "title": "An Act To Amend The Delaware Code Relating To The Prohibition Of Discrimination Based On Weight, Height, Or Body Size.",
+  "summary": "An Act To Amend The Delaware Code Relating To The Prohibition Of Discrimination Based On Weight, Height, Or Body Size.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DE/bill/HB115/2025",
+  "legiscan_url": "https://legiscan.com/DE/bill/HB115/2025",
+  "state_url": "https://legis.delaware.gov/BillDetail?LegislationId=142056",
+  "sponsors": [
+    "Sophie Phillips (D) [Rep]",
+    "Elizabeth Lockman (D) [Sen]",
+    "Stephanie Bolden (D) [Rep]",
+    "Mara Gorman (D) [Rep]",
+    "Sherae'a Moore (D) [Rep]",
+    "Eric Morrison (D) [Rep]",
+    "DeShanna Neal (D) [Rep]",
+    "Melanie Ross Levin (D) [Rep]",
+    "Frank Burns (D) [Rep]",
+    "Larry Lambert (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-08",
+  "session": "153rd General Assembly",
+  "actions": [
+    {
+      "date": "2025-04-08",
+      "action": "Introduced and Assigned to Administration Committee in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Motion to Release Failed",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Draft",
+      "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142056&legislationTypeId=1&docTypeId=2&legislationName=HB115",
+      "doc_id": 3205304
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,176 @@
+{
+  "id": 1989865,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "B26-0159",
+  "title": "PrEP DC Act of 2025",
+  "summary": "As introduced, Bill 26-159 would prohibit health benefit plans and health insurers from using prescription information as a condition of eligibility or to set premium rates.  It would prohibit insurers from restricting or imposing delays in the distribution of antiretroviral prescription drugs prescribed to a person for the treatment or prevention of the human immunodeficiency virus (HIV) or acquired immunodeficiency syndrome (AIDS).  It would also prohibit health insurers from imposing a deductible, coinsurance, copayment, or other cost-sharing requirement for PrEP or PEP to prevent HIV and AIDS infection.\n\nNOTE - Incorporates provisions of Bill 26-101, Removing Barriers and Reducing Stigma to Encourage HIV Prevention Amendment Act of 2025.",
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/B26-0159/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/B26-0159/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/B26-0159",
+  "sponsors": [
+    "Zachary Parker (D) [Sen]",
+    "Janeese Lewis George (D) [Sen]",
+    "Christina Henderson (I) [Sen]",
+    "Brooke Pinto (D) [Sen]",
+    "Brianne Nadeau (D) [Sen]",
+    "Charles Allen (D) [Sen]",
+    "Anita Bonds (D) [Sen]",
+    "Robert White (D) [Sen]",
+    "Wendell Felder (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-10",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2025-02-28",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Referred to Committee on Business and Economic Development",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-03-07",
+      "action": "Notice of Intent to Act on B26-0159 Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Referred to Committee on Health",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "Referred to Committee on Health",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Notice of Public Hearing Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-10-10",
+      "action": "Notice of Public Hearing Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Public Hearing Held",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-11-20",
+      "action": "Notice of Mark-up filed in the Office of Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Committee Mark-up of B26-0159",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-12-11",
+      "action": "Committee Report Filed",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-01-06",
+      "action": "Referred to Committee on Health",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-01-09",
+      "action": "Referred to Committee on Health",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Referred to Committee on Health",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "Referred to Committee on Health",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "First Reading",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Amendment (Henderson)",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Final Reading, CC",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Transmitted to Mayor, Response Due on March 24, 2026",
+      "chamber": "C"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-03",
+      "description": "First Reading",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-03",
+      "description": "Amendment (Henderson)",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-03",
+      "description": "Final Reading, CC",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-28",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/57282/Introduction/B26-0159-Introduction.pdf",
+      "doc_id": 3150180
+    },
+    {
+      "date": "2026-02-03",
+      "type": "Engrossed",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/57282/Meeting1/Engrossment/B26-0159-Engrossment2.pdf",
+      "doc_id": 3351524
+    },
+    {
+      "date": "2026-03-03",
+      "type": "Enrolled",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/57282/Meeting2/Enrollment/B26-0159-Enrollment1.pdf",
+      "doc_id": 3388350
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

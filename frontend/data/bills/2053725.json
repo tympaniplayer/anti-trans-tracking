@@ -1,0 +1,77 @@
+{
+  "id": 2053725,
+  "state": "NH",
+  "state_name": "New Hampshire",
+  "bill_number": "SB464",
+  "title": "Relative to civil rights enforcement.",
+  "summary": "Relative to civil rights enforcement.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NH/bill/SB464/2026",
+  "legiscan_url": "https://legiscan.com/NH/bill/SB464/2026",
+  "state_url": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2245&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=SB464",
+  "sponsors": [
+    "Daryl Abbas (R) [Sen]",
+    "Keith Murphy (R) [Sen]",
+    "Howard Pearl (R) [Sen]",
+    "Victoria Sullivan (R) [Sen]",
+    "William Gannon (R) [Sen]",
+    "Kevin Avard (R) [Sen]",
+    "Regina Birdsell (R) [Sen]",
+    "Daniel Innis (R) [Sen]",
+    "Keith Ammon (R) [Rep]"
+  ],
+  "introduced_date": "2025-11-21",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-11-21",
+      "action": "Introduced 01/07/2026 and Referred to Judiciary; Senate Journal 1",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Hearing: 02/12/2026, Room 100, State House, 01:00 pm; Senate Calendar  5",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Committee Report: Referred to Interim Study, 03/12/2026; Vote 5-0; Consent Calendar; Senate Calendar  9",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "SB 464 was Removed from the Consent Calendar; 03/12/2026; Senate Journal 6",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Special Order to 03/26/2026, Without Objection, Motion Adopted; 03/12/2026 Senate Journal 6",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Committee Report: Referred to Interim Study, 03/26/2026, Vote 5-0; Senate Calendar  11",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&id=1444&txtFormat=html",
+      "doc_id": 3285677
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

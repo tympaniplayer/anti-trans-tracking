@@ -1,0 +1,64 @@
+{
+  "id": 2069601,
+  "state": "NE",
+  "state_name": "Nebraska",
+  "bill_number": "LB941",
+  "title": "Exclude certain franchisors from being considered employers under certain labor laws",
+  "summary": "Exclude certain franchisors from being considered employers under certain labor laws",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NE/bill/LB941/2025",
+  "legiscan_url": "https://legiscan.com/NE/bill/LB941/2025",
+  "state_url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=62962",
+  "sponsors": [
+    "Loren Lippincott (N) [Sen]"
+  ],
+  "introduced_date": "2026-01-09",
+  "session": "109th Legislature",
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "action": "Date of introduction",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Kauth FA597 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Referred to Business and Labor Committee",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Notice of hearing for February 09, 2026",
+      "chamber": "L"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-09",
+      "type": "Introduced",
+      "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB941.pdf",
+      "doc_id": 3304376
+    }
+  ],
+  "committee": {
+    "committee_id": 1439,
+    "chamber": "L",
+    "chamber_id": 64,
+    "name": "Business and Labor"
+  },
+  "subjects": []
+}

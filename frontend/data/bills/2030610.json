@@ -1,0 +1,55 @@
+{
+  "id": 2030610,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SR217",
+  "title": "A resolution expressing the sense of the Senate that Secretary of Health and Human Services Robert Fitzgerald Kennedy Jr. does not have the confidence of the Senate or of the American people to faithfully carry out the duties of his office.",
+  "summary": "A resolution expressing the sense of the Senate that Secretary of Health and Human Services Robert Fitzgerald Kennedy Jr. does not have the confidence of the Senate or of the American people to faithfully carry out the duties of his office.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "religious_exemptions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SR217/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SR217/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/217/all-info",
+  "sponsors": [
+    "Angela Alsobrooks (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Peter Welch (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-12",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-05-12",
+      "action": "Referred to the Committee on Finance. (text: CR S2865-2867)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-13",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/sres217/BILLS-119sres217is.pdf",
+      "doc_id": 3236682
+    }
+  ],
+  "committee": {
+    "committee_id": 2326,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Finance"
+  },
+  "subjects": [
+    "Government operations and politics"
+  ]
+}

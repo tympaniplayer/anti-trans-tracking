@@ -1,0 +1,51 @@
+{
+  "id": 2087664,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "SB282",
+  "title": "Budget Bill (Fiscal Year 2027)",
+  "summary": "Making the proposed appropriations contained in the State Budget for the fiscal year ending June 30, 2027, in accordance with Article III, Section 52 of the Maryland Constitution; etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/SB282/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/SB282/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0282?ys=2026RS",
+  "sponsors": [],
+  "introduced_date": "2026-01-21",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-21",
+      "action": "First Reading Budget and Taxation",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-16",
+      "action": "Favorable with Amendments Report by Budget and Taxation",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/sb/sb0282f.pdf",
+      "doc_id": 3325332
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Operating Budget",
+    "Appropriations",
+    "Budgets"
+  ]
+}

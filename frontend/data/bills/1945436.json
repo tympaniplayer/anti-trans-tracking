@@ -1,0 +1,70 @@
+{
+  "id": 1945436,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB811",
+  "title": "Mentoring to Succeed Act of 2025",
+  "summary": "To establish a competitive grant program to support the establishment, expansion, or enhancement of youth mentoring programs for eligible youth, and to provide for social and emotional learning, employability skill development, career exploration, work-based learning, and other youth workforce opportunities.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB811/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB811/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/811/all-info",
+  "sponsors": [
+    "Janice Schakowsky (D) [Rep]",
+    "Jesus Garcia (D) [Rep]",
+    "Lori Trahan (D) [Rep]",
+    "Summer Lee (D) [Rep]",
+    "Jerrold Nadler (D) [Rep]",
+    "Danny Davis (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "John Garamendi (D) [Rep]",
+    "Jonathan Jackson (D) [Rep]",
+    "Dwight Evans (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Steve Cohen (D) [Rep]",
+    "Eugene Vindman (D) [Rep]",
+    "Seth Magaziner (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-28",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-01-28",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Referred to the House Committee on Education and Workforce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-26",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr811/BILLS-119hr811ih.pdf",
+      "doc_id": 3141865
+    }
+  ],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

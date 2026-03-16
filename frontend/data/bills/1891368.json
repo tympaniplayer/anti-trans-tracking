@@ -1,0 +1,74 @@
+{
+  "id": 1891368,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB976",
+  "title": "Relating to parental rights in public education and prohibiting certain instruction regarding sexual orientation or gender identity; authorizing a civil penalty.",
+  "summary": "Relating to parental rights in public education and prohibiting certain instruction regarding sexual orientation or gender identity; authorizing a civil penalty.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB976/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB976/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB976",
+  "sponsors": [
+    "Steve Toth (R) [Rep]",
+    "Janis Holt (R) [Rep]",
+    "Keresa Richardson (R) [Rep]"
+  ],
+  "introduced_date": "2024-11-12",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-12",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Referred to Public Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-11-13",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00976I.htm",
+      "doc_id": 3027466
+    }
+  ],
+  "committee": {
+    "committee_id": 1891,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Public Education"
+  },
+  "subjects": [
+    "Education",
+    "Education--Primary & Secondary",
+    "Education--Primary & Secondary--Curriculum",
+    "Minors",
+    "Minors--Health & Safety",
+    "GENDER IDENTITY & EXPRESSION",
+    "PARENTAL NOTIFICATION",
+    "PARENTAL RIGHTS",
+    "SEXUAL ORIENTATION",
+    "EDUCATION AGENCY, TEXAS",
+    "EDUCATION, STATE BOARD OF",
+    "EDUCATOR CERTIFICATION, STATE BOARD FOR"
+  ]
+}

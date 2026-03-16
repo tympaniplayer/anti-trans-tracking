@@ -1,0 +1,55 @@
+{
+  "id": 1991770,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S06085",
+  "title": "Establishes a regional or county-based peer support services program for transgender and non-binary individuals that provides support services including but not limited to, peer counseling for mental illness including alcohol and substance abuse counseling, family support services, domestic violence, mental health and physical health.",
+  "summary": "Establishes a regional or county-based peer support services program for transgender and non-binary individuals that provides support services including but not limited to, peer counseling for mental illness including alcohol and substance abuse counseling, family support services, domestic violence, mental health and physical health.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S06085/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S06085/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S6085",
+  "sponsors": [
+    "Kevin Parker (D) [Sen]",
+    "Cordell Cleare (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-05",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-05",
+      "action": "REFERRED TO MENTAL HEALTH",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO MENTAL HEALTH",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-05",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S06085&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S06085",
+      "doc_id": 3153787
+    }
+  ],
+  "committee": {
+    "committee_id": 4467,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Mental Health"
+  },
+  "subjects": []
+}

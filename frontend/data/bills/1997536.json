@@ -1,0 +1,64 @@
+{
+  "id": 1997536,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S1485",
+  "title": "Providing for safe and consensual sensitive examinations",
+  "summary": "For legislation to prohibit nonconsensual intimate examinations of anesthetized or unconscious patients. Public Health.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S1485/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S1485/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S1485",
+  "sponsors": [
+    "Joanne Comerford (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Public Health",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Hearing scheduled for 06/23/2025 from 09:00 AM-01:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Hearing rescheduled to 06/23/2025 from 09:00 AM-01:00 PM in B-1",
+      "chamber": "J"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S1485.pdf",
+      "doc_id": 3162762
+    }
+  ],
+  "committee": {
+    "committee_id": 770,
+    "chamber": "J",
+    "chamber_id": 103,
+    "name": "Public Health"
+  },
+  "subjects": []
+}

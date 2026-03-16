@@ -1,0 +1,49 @@
+{
+  "id": 2118612,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB1998",
+  "title": "Discrimination: sex and gender: intimate spaces.",
+  "summary": "An act to amend Section 51 of the Civil Code, relating to discrimination.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB1998/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB1998/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1998",
+  "sponsors": [
+    "Leticia Castillo (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-17",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-17",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "From printer. May be heard in committee March 20.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-17",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1998#99INT",
+      "doc_id": 3365533
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

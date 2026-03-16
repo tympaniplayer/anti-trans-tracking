@@ -1,0 +1,232 @@
+{
+  "id": 2044504,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S2608",
+  "title": "Establishing the Massachusetts data privacy act",
+  "summary": "Establishing the Massachusetts data privacy act",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S2608/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S2608/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S2608",
+  "sponsors": [
+    "Senate Committee on Ways and Means [Sen]"
+  ],
+  "introduced_date": "2025-09-18",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-09-18",
+      "action": "Reported from the committee on Senate Ways and Means",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-18",
+      "action": "Recommended new draft for S2516",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-18",
+      "action": "Placed in the Orders of the Day for Thursday, September 25, 2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #2 (Finegold) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #3 (Eldridge) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #6 (Fernandes) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #17 (Keenan) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #21 (Rush) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #26 (Cronin) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #27 (Cronin) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #31 (Cronin) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #18 (Payano) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #44 (Montigny) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #46 (Driscoll) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #47 (Driscoll) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #48 (Driscoll) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #51 (Cronin) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #57 (Cronin) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #58 (Driscoll) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #42 (Rausch) adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #52 (Rausch) adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #4 (Creem) adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #14 (Lewis) adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #24 (Friedman) adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #12 (Mark) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #36 (Fernandes) adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #16 (Tarr) adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #20 (Tarr) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #34 (Tarr) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #35 (Tarr) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #37 (Tarr) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #49 (Tarr) adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Amendment #50 (Rodrigues) adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Substituted as a new draft for S2516",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Ordered to a third reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Read third",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Reprinted, as amended, see S2619",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-09-25",
+      "description": "Senate  Passed to be engrossed  Roll Call #71",
+      "yea": 40,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S2608.pdf",
+      "doc_id": 3270084
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

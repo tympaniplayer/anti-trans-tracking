@@ -1,0 +1,202 @@
+{
+  "id": 2067525,
+  "state": "AZ",
+  "state_name": "Arizona",
+  "bill_number": "SB1099",
+  "title": "Defamation; elements; review",
+  "summary": "Defamation; elements; review",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AZ/bill/SB1099/2026",
+  "legiscan_url": "https://legiscan.com/AZ/bill/SB1099/2026",
+  "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/83796",
+  "sponsors": [
+    "Frank Carroll (R) [Sen]",
+    "Hildy Angius (R) [Sen]",
+    "David Gowan (R) [Sen]",
+    "Kevin Payne (R) [Sen]",
+    "Janae Shamp (R) [Sen]",
+    "Beverly Pingerelli (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-27",
+  "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "action": "Prefile",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Introduced in Senate and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Assigned to Senate RAGE Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Assigned to Senate JUDE Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Assigned to Senate RULES Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Senate read second time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Senate RAGE Committee action: Withdrawn, voting: (0-0-0-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Senate JUDE Committee action: do pass amended/strike-everything, voting: (4-3-0-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Senate RULES Committee action: Proper For Consideration, voting: (5-4-0-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Senate majority caucus: Do pass",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Senate minority caucus: Do pass",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Senate Committee of the Whole action: Do Pass Amended",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Senate third reading PASSED voting: (16-12-2-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Transmit to House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Introduced in House and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Assigned to House JUD Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Assigned to House RULES Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "House read second time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "House JUD Committee action: Do Pass, voting: (6-2-0-1-0-0)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-17",
+      "description": "Senate Regulatory Affairs and Government Efficiency Committee Action (W/D)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "Senate Judiciary and Elections Committee Action (DPA/SE)",
+      "yea": 4,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-25",
+      "description": "Senate Rules Committee Action (PFC)",
+      "yea": 5,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-26",
+      "description": "Senate - Committee of the Whole (DPA)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-26",
+      "description": "Senate - Third Reading",
+      "yea": 16,
+      "nay": 12,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-11",
+      "description": "House Judiciary Committee Action (DP)",
+      "yea": 6,
+      "nay": 2,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-07",
+      "type": "Introduced",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/sb1099p.htm",
+      "doc_id": 3302042
+    },
+    {
+      "date": "2026-02-27",
+      "type": "Engrossed",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/sb1099s.htm",
+      "doc_id": 3379834
+    }
+  ],
+  "committee": {
+    "committee_id": 1101,
+    "chamber": "H",
+    "chamber_id": 15,
+    "name": "Rules"
+  },
+  "subjects": [
+    "Civil Action",
+    "Definitions",
+    "Gender Transition Procedures",
+    "Health Professionals",
+    "Informed Consent",
+    "Legislative Intent",
+    "Professions And Occupations - Title 32",
+    "Record Retention"
+  ]
+}

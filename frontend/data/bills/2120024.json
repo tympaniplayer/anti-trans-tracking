@@ -1,0 +1,67 @@
+{
+  "id": 2120024,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "HF3540",
+  "title": "Protection for veterans provided in the Minnesota Human Rights Act.",
+  "summary": "Protection for veterans provided in the Minnesota Human Rights Act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/HF3540/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/HF3540/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3540/",
+  "sponsors": [
+    "Matt Bliss (R) [Rep]",
+    "Jay Xiong (D) [Rep]",
+    "Kari Rehrauer (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-19",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2026-02-19",
+      "action": "Introduction and first reading, referred to Veterans and Military Affairs Division",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Author added Rehrauer",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Committee report, to adopt as amended and re-refer to Judiciary Finance and Civil Law",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-19",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3540/versions/0/pdf/",
+      "doc_id": 3368174
+    },
+    {
+      "date": "2026-02-26",
+      "type": "Engrossed",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3540/versions/1/pdf/",
+      "doc_id": 3378790
+    }
+  ],
+  "committee": {
+    "committee_id": 3806,
+    "chamber": "H",
+    "chamber_id": 55,
+    "name": "Judiciary Finance and Civil Law"
+  },
+  "subjects": []
+}

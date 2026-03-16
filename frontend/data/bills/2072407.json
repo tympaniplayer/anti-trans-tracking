@@ -1,0 +1,51 @@
+{
+  "id": 2072407,
+  "state": "MS",
+  "state_name": "Mississippi",
+  "bill_number": "SB2121",
+  "title": "Health Insurance Coverage for Fertility Preservation Services Act; enact.",
+  "summary": "An Act To Enact The Health Insurance Coverage For Fertility Preservation Services Act; To Ensure Health Insurance Coverage For Standard Fertility Preservation Services When Medically Necessary Treatment May Directly Or Indirectly Cause Iatrogenic Infertility Consistent With Established Medical Practice And Professional Guidelines; To Provide That A Carrier Offering Health Insurance Coverage In This State Shall Provide Coverage For Standard Fertility Preservation Services For Any Covered Individual Who May Undergo A Medically Necessary Treatment That May Directly Or Indirectly Cause Iatrogenic Infertility; To Prohibit A Carrier Who Offers Health Insurance Coverage In This State For Standard Fertility Preservation Services From Imposing Certain Exclusions, Limitations Or Other Restrictions; And For Related Purposes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MS/bill/SB2121/2026",
+  "legiscan_url": "https://legiscan.com/MS/bill/SB2121/2026",
+  "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2121.xml",
+  "sponsors": [
+    "Hillman Frazier (D) [Sen]",
+    "Kamesha Mumford (D) [Sen]",
+    "Theresa Gillespie Isom (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Referred To Insurance",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Died In Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-13",
+      "type": "Introduced",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/SB/2100-2199/SB2121IN.htm",
+      "doc_id": 3307287
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

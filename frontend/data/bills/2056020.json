@@ -1,0 +1,61 @@
+{
+  "id": 2056020,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "SB1278",
+  "title": "Prohibits elementary and secondary schools and institutions of postsecondary education from being members of athletic organizations that allow students to use performance enhancing drugs",
+  "summary": "Prohibits elementary and secondary schools and institutions of postsecondary education from being members of athletic organizations that allow students to use performance enhancing drugs",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "sports",
+    "drag"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/SB1278/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/SB1278/2026",
+  "state_url": "https://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=609",
+  "sponsors": [
+    "Mary Coleman (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Prefiled",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "S First Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Second Read and Referred S Education Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-17",
+      "type": "Introduced",
+      "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1278.pdf",
+      "doc_id": 3292359
+    }
+  ],
+  "committee": {
+    "committee_id": 2263,
+    "chamber": "S",
+    "chamber_id": 60,
+    "name": "Education"
+  },
+  "subjects": []
+}

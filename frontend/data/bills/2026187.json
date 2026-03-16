@@ -1,0 +1,99 @@
+{
+  "id": 2026187,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "AJR33",
+  "title": "Declaration of the Economic Justice Bill of Rights.",
+  "summary": "Relating to: declaration of the Economic Justice Bill of Rights.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/AJR33/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/AJR33/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr33",
+  "sponsors": [
+    "Francesca Hong (D) [Rep]",
+    "Angelito Tenorio (D) [Rep]",
+    "Ryan Clancy (D) [Rep]",
+    "Angelina Cruz (D) [Rep]",
+    "Darrin Madison (D) [Rep]",
+    "Christian Phelps (D) [Rep]",
+    "Robyn Vining (D) [Rep]",
+    "Supreme Omokunde (D) [Rep]",
+    "Ben DeSmidt (D) [Rep]",
+    "Lee Snodgrass (D) [Rep]",
+    "Vinnie Miresse (D) [Rep]",
+    "Mike Bare (D) [Rep]",
+    "Angela Stroud (D) [Rep]",
+    "Greta Neubauer (D) [Rep]",
+    "Andrew Hysell (D) [Rep]",
+    "Alex Joers (D) [Rep]",
+    "Shelia Stubbs (D) [Rep]",
+    "Jill Billings (D) [Rep]",
+    "Joe Sheehan (D) [Rep]",
+    "Maureen McCarville (D) [Rep]",
+    "Lisa Subeck (D) [Rep]",
+    "Ann Roe (D) [Rep]",
+    "Joan Fitzgerald (D) [Rep]",
+    "Brienne Brown (D) [Rep]",
+    "Randy Udell (D) [Rep]",
+    "Karen DeSanto (D) [Rep]",
+    "Clinton Anderson (D) [Rep]",
+    "Christine Sinicki (D) [Rep]",
+    "Tara Johnson (D) [Rep]",
+    "Jenna Jacobson (D) [Rep]",
+    "Christopher Larson (D) [Sen]",
+    "Jeff Smith (D) [Sen]",
+    "Dianne Hesselbein (D) [Sen]",
+    "Kelda Roys (D) [Sen]",
+    "Mark Spreitzer (D) [Sen]",
+    "LaTonya Johnson (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-23",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-04-23",
+      "action": "Introduced",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "Read and referred to Committee on Rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Representative Arney added as a coauthor",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Representative Haywood added as a coauthor",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-23",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AJR33.pdf",
+      "doc_id": 3219815
+    }
+  ],
+  "committee": {
+    "committee_id": 1049,
+    "chamber": "A",
+    "chamber_id": 99,
+    "name": "Rules"
+  },
+  "subjects": []
+}

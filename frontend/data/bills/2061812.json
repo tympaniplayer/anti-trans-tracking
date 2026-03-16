@@ -1,0 +1,70 @@
+{
+  "id": 2061812,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB947",
+  "title": "Relating To Birth Certificates.",
+  "summary": "Expands the types of health care providers who can submit an affidavit for a new certificate of birth for certain birth registrants.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "identity_documents"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB947/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB947/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=947&year=2026",
+  "sponsors": [
+    "Stanley Chang (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-17",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-17",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "Referred to HHS, JDC.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-17",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB947_.HTM",
+      "doc_id": 3294635
+    }
+  ],
+  "committee": {
+    "committee_id": 4751,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Health and Human Services"
+  },
+  "subjects": [
+    "Birth Certificates",
+    "Vital Statistics",
+    "Birth Registrants",
+    "Advanced Practice Registered Nurses"
+  ]
+}

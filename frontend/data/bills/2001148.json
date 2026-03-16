@@ -1,0 +1,59 @@
+{
+  "id": 2001148,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H228",
+  "title": "Transferring foster care review responsibilities to the Office of the Child Advocate",
+  "summary": "For legislation to further regulate the Office of the Child Advocate. Children, Families and Persons with Disabilities.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H228/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H228/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H228",
+  "sponsors": [
+    "Tricia Farley-Bouvier (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Children, Families and Persons with Disabilities",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-27",
+      "action": "Hearing scheduled for 07/08/2025 from 01:00 PM-05:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-12-31",
+      "action": "Accompanied a study order, see H4883",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H228.pdf",
+      "doc_id": 3167130
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

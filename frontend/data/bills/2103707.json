@@ -1,0 +1,49 @@
+{
+  "id": 2103707,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0864",
+  "title": "An act relating to immigration agreements with the federal government",
+  "summary": "An act relating to immigration agreements with the federal government",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0864/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0864/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.864",
+  "sponsors": [
+    "William Greer (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2026-02-03",
+      "action": "Read first time and referred to the Committee on Corrections and Institutions",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-02",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0864/H-0864%20As%20Introduced.pdf",
+      "doc_id": 3343513
+    }
+  ],
+  "committee": {
+    "committee_id": 783,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "Corrections and Institutions"
+  },
+  "subjects": []
+}

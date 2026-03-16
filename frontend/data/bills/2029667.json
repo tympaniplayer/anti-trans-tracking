@@ -1,0 +1,103 @@
+{
+  "id": 2029667,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB4475",
+  "title": "Civil rights: employment discrimination; discrimination based on certain vaccination status; prohibit. Amends title of 1976 PA 453 (MCL 37.2101 - 37.2804) & adds art. 5A.",
+  "summary": "Civil rights: employment discrimination; discrimination based on certain vaccination status; prohibit. Amends title of 1976 PA 453 (MCL 37.2101 - 37.2804) & adds art. 5A.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB4475/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB4475/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4475",
+  "sponsors": [
+    "James DeSana (R) [Rep]",
+    "Rylee Linting (R) [Rep]",
+    "Joseph Fox (R) [Rep]",
+    "Brad Paquette (R) [Rep]",
+    "Pat Outman (R) [Rep]",
+    "Mike Hoadley (R) [Rep]",
+    "Jaime Greene (R) [Rep]",
+    "Jennifer Wortz (R) [Rep]",
+    "Gina Johnsen (R) [Rep]",
+    "Steve Carra (R) [Rep]",
+    "Tim Kelly (R) [Rep]",
+    "Luke Meerman (R) [Rep]",
+    "Angela Rigas (R) [Rep]",
+    "Alicia St. Germaine (R) [Rep]",
+    "Tom Kunse (R) [Rep]",
+    "Gregory Markkanen (R) [Rep]",
+    "Cam Cavitt (R) [Rep]",
+    "Mike Harris (R) [Rep]",
+    "Josh Schriver (R) [Rep]",
+    "Matthew Bierlein (R) [Rep]",
+    "Jason Woolford (R) [Rep]",
+    "Gregory Alexander (R) [Rep]",
+    "Brian BeGole (R) [Rep]",
+    "Matthew Maddock (R) [Rep]",
+    "Jamie Thompson (R) [Rep]",
+    "Joseph Pavlov (R) [Rep]",
+    "Jay DeBoyer (R) [Rep]",
+    "Rachelle Smit (R) [Rep]",
+    "Sarah Lightner (R) [Rep]",
+    "Karen Whitsett (D) [Rep]",
+    "Tullio Liberati (D) [Rep]",
+    "Amos O'Neal (D) [Rep]",
+    "Nancy Jenkins-Arno (R) [Rep]",
+    "Kathy Schmaltz (R) [Rep]",
+    "Ann Bollin (R) [Rep]",
+    "Timothy Beson (R) [Rep]"
+  ],
+  "introduced_date": "2025-05-08",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-05-08",
+      "action": "Introduced By Representative Rep. James Desana",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Bill Electronically Reproduced 05/08/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-08",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4475.htm",
+      "doc_id": 3232474
+    }
+  ],
+  "committee": {
+    "committee_id": 899,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Government Operations"
+  },
+  "subjects": [
+    "Civil rights: employment discrimination",
+    "Labor: fair employment practices",
+    "Health: immunizations"
+  ]
+}

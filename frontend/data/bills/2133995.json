@@ -1,0 +1,49 @@
+{
+  "id": 2133995,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A10626",
+  "title": "Establishes a New York state prison labor board to ensure that all labor programs comply with the requirements of the labor law and are for the purpose of promoting successful rehabilitation, reentry and reintegration into the community and not for the purpose of earnings or cost-savings which inure to the benefit the state or any private individual or corporation; prohibits the department of corrections and community supervision from unfairly attaching, garnishing or disbursing the funds of incarcerated individuals where such individuals have not requested disbursement; requires that all interest accumulated on incarcerated individuals' funds be credited to such individual's accounts; eliminates the preferred status of the department of corrections and community supervision regarding commodities and services furnished by the correctional industries program; repeals certain provisions of the state finance law relating to such preferred status.",
+  "summary": "Establishes a New York state prison labor board to ensure that all labor programs comply with the requirements of the labor law and are for the purpose of promoting successful rehabilitation, reentry and reintegration into the community and not for the purpose of earnings or cost-savings which inure to the benefit the state or any private individual or corporation; prohibits the department of corrections and community supervision from unfairly attaching, garnishing or disbursing the funds of incarcerated individuals where such individuals have not requested disbursement; requires that all interest accumulated on incarcerated individuals' funds be credited to such individual's accounts; eliminates the preferred status of the department of corrections and community supervision regarding commodities and services furnished by the correctional industries program; repeals certain provisions of the state finance law relating to such preferred status.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A10626/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A10626/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A10626",
+  "sponsors": [
+    "Brian Cunningham (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-13",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-03-13",
+      "action": "referred to correction",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-13",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A10626&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A10626",
+      "doc_id": 3394651
+    }
+  ],
+  "committee": {
+    "committee_id": 360,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Correction"
+  },
+  "subjects": []
+}

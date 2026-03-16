@@ -1,0 +1,71 @@
+{
+  "id": 2055927,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "SB1085",
+  "title": "Prohibits public school staff members from encouraging students in their social transition to being perceived as a member of the opposite biological sex",
+  "summary": "Prohibits public school staff members from encouraging students in their social transition to being perceived as a member of the opposite biological sex",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/SB1085/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/SB1085/2026",
+  "state_url": "https://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=174",
+  "sponsors": [
+    "Joe Nicola (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Prefiled",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "S First Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Second Read and Referred S Education Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Hearing Conducted S Education Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "SCS Voted Do Pass S Education Committee (4425S.03C)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-02",
+      "type": "Introduced",
+      "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1085.pdf",
+      "doc_id": 3286840
+    },
+    {
+      "date": "2026-02-17",
+      "type": "Comm Sub",
+      "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1085.pdf",
+      "doc_id": 3365657
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

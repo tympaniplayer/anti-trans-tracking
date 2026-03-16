@@ -1,0 +1,60 @@
+{
+  "id": 2030410,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4113",
+  "title": "Relative to addressing higher education sexual misconduct",
+  "summary": "Relative to addressing sexual misconduct by certain higher education employees. Higher Education.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4113/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4113/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4113",
+  "sponsors": [
+    "Tram Nguyen (D) [Rep]",
+    "Christine Barber (D) [Rep]"
+  ],
+  "introduced_date": "2025-05-12",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-05-12",
+      "action": "Referred to the Joint Committee on Higher Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-03",
+      "action": "Hearing scheduled for 10/16/2025 from 01:00 PM-05:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Accompanied a study order, see H5104",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-12",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4113.pdf",
+      "doc_id": 3234662
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,83 @@
+{
+  "id": 1968987,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "HF501",
+  "title": "Equal rights under the law provided and discrimination based on the listed characteristics prohibited, and constitutional amendment proposed.",
+  "summary": "Equal rights under the law provided and discrimination based on the listed characteristics prohibited, and constitutional amendment proposed.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/HF501/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/HF501/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/501/",
+  "sponsors": [
+    "Leigh Finke (D) [Rep]",
+    "Kaohly Her (D) [Rep]",
+    "Kristin Bahner (D) [Rep]",
+    "Kelly Moller (D) [Rep]",
+    "Emma Greenman (D) [Rep]",
+    "Carlie Kotyza-Witthuhn (D) [Rep]",
+    "Steve Elkins (D) [Rep]",
+    "Kristi Pursell (D) [Rep]",
+    "Athena Hollins (D) [Rep]",
+    "Esther Agbaje (D) [Rep]",
+    "Maria Perez-Vega (D) [Rep]",
+    "Ginny Klevorn (D) [Rep]",
+    "Samantha Vang (D) [Rep]",
+    "Patty Acomb (D) [Rep]",
+    "Heather Keeler (D) [Rep]",
+    "Jessica Hanson (D) [Rep]",
+    "Tina Liebling (D) [Rep]",
+    "Brion Curran (D) [Rep]",
+    "Alicia Kozlowski (D) [Rep]",
+    "Liz Lee (D) [Rep]",
+    "Anquam Mahamoud (D) [Rep]",
+    "Sydney Jordan (D) [Rep]",
+    "Aisha Gomez (D) [Rep]",
+    "Jay Xiong (D) [Rep]",
+    "Melissa Hortman (D) [Rep]",
+    "Amanda Hemmingsen-Jaeger (D) [Sen]",
+    "Sandra Feist (D) [Rep]",
+    "Bianca Virnig (D) [Rep]",
+    "Julie Greene (D) [Rep]",
+    "Katie Jones (D) [Rep]",
+    "Ethan Cha (D) [Rep]",
+    "Lucille Rehm (D) [Rep]",
+    "Cedrick Frazier (D) [Rep]",
+    "Kaela Berg (D) [Rep]",
+    "Huldah Momanyi-Hiltsley (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-13",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-02-13",
+      "action": "Introduction and first reading, referred to State Government Finance and Policy",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-11",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/501/versions/0/pdf/",
+      "doc_id": 3118352
+    }
+  ],
+  "committee": {
+    "committee_id": 4308,
+    "chamber": "H",
+    "chamber_id": 55,
+    "name": "State Government Finance & Policy"
+  },
+  "subjects": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": 2117235,
+  "state": "WV",
+  "state_name": "West Virginia",
+  "bill_number": "HB5623",
+  "title": "Youth Mental Health Protection Act",
+  "summary": "The purpose of this bill is to protect children from conversion therapy, also known as sexual orientation change efforts or reparative therapy.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WV/bill/HB5623/2026",
+  "legiscan_url": "https://legiscan.com/WV/bill/HB5623/2026",
+  "state_url": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5623&year=2026&sessiontype=RS&btype=bill",
+  "sponsors": [
+    "Elliott Pritt (R) [Rep]",
+    "Bill Flanigan (R) [Rep]",
+    "Sean Hornbuckle (D) [Rep]",
+    "Kayla Young (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-16",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-16",
+      "action": "Filed for introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "To Health and Human Resources then Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "To House Health and Human Resources",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb5623%20intr.htm&yr=2026&sesstype=RS&i=5623",
+      "doc_id": 3363274
+    }
+  ],
+  "committee": {
+    "committee_id": 8,
+    "chamber": "H",
+    "chamber_id": 1,
+    "name": "Health & Human Resources"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

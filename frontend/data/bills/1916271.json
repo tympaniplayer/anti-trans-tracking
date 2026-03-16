@@ -1,0 +1,64 @@
+{
+  "id": 1916271,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5233",
+  "title": "Developing the Washington health trust.",
+  "summary": "Developing the Washington health trust.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5233/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5233/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5233&Year=2025&Initiative=false",
+  "sponsors": [
+    "Robert Hasegawa (D) [Sen]",
+    "Jessica Bateman (D) [Sen]",
+    "Mike Chapman (D) [Sen]",
+    "Manka Dhingra (D) [Sen]",
+    "Marko Liias (D) [Sen]",
+    "Liz Lovelett (D) [Sen]",
+    "T'wina Nobles (D) [Sen]",
+    "Rebecca Saldana (D) [Sen]",
+    "Sharon Shewmake (D) [Sen]",
+    "Derek Stanford (D) [Sen]",
+    "Yasmin Trudeau (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-14",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-14",
+      "action": "First reading, referred to Health & Long-Term Care.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-13",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5233.pdf",
+      "doc_id": 3053316
+    }
+  ],
+  "committee": {
+    "committee_id": 954,
+    "chamber": "S",
+    "chamber_id": 98,
+    "name": "Health & Long-term Care"
+  },
+  "subjects": []
+}

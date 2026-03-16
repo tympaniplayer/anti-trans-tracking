@@ -1,0 +1,64 @@
+{
+  "id": 2121912,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "SB1328",
+  "title": "Public postsecondary education: Equity in Higher Education Act: campus contact.",
+  "summary": "An act to amend Section 66271.2 of the Education Code, relating to public postsecondary education.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/SB1328/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/SB1328/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1328",
+  "sponsors": [
+    "Sabrina Cervantes (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-20",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-20",
+      "action": "Introduced. To Com. on RLS. for assignment. To print.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "From printer. May be acted upon on or after March 23.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Read first time.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Referred to Com. on ED.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-20",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1328#99INT",
+      "doc_id": 3371448
+    }
+  ],
+  "committee": {
+    "committee_id": 477,
+    "chamber": "S",
+    "chamber_id": 20,
+    "name": "Education"
+  },
+  "subjects": []
+}

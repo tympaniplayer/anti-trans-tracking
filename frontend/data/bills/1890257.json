@@ -1,0 +1,75 @@
+{
+  "id": 1890257,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB116",
+  "title": "Relating to the statute of limitations on a health care liability claim involving certain gender modification drugs provided to and procedures performed on a minor.",
+  "summary": "Relating to the statute of limitations on a health care liability claim involving certain gender modification drugs provided to and procedures performed on a minor.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB116/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB116/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB116",
+  "sponsors": [
+    "Bob Hall (R) [Sen]",
+    "Mayes Middleton (R) [Sen]"
+  ],
+  "introduced_date": "2024-11-12",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-12",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2024-11-12",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Referred to State Affairs",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-11-12",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00116I.htm",
+      "doc_id": 3026167
+    }
+  ],
+  "committee": {
+    "committee_id": 1919,
+    "chamber": "S",
+    "chamber_id": 92,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "Civil Remedies & Liabilities",
+    "Malpractice",
+    "Malpractice--Professionals",
+    "Minors",
+    "Minors--Health & Safety",
+    "GENDER IDENTITY & EXPRESSION",
+    "MEDICINE & PRESCRIPTION DRUGS",
+    "STATUTES OF LIMITATIONS"
+  ]
+}

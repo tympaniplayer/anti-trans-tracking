@@ -1,0 +1,51 @@
+{
+  "id": 2076723,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S1920",
+  "title": "Establishes \"Welcome Home Veterans Bonus\" program in DMVA.",
+  "summary": "Establishes \"Welcome Home Veterans Bonus\" program in DMVA.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S1920/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S1920/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S1920",
+  "sponsors": [
+    "Latham Tiver (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Military and Veterans' Affairs Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-02",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S2000/1920_I1.HTM",
+      "doc_id": 3313738
+    }
+  ],
+  "committee": {
+    "committee_id": 884,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Military and Veterans' Affairs"
+  },
+  "subjects": [
+    "Military and Veterans' Affairs"
+  ]
+}

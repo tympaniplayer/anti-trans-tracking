@@ -1,0 +1,64 @@
+{
+  "id": 2044706,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB5458",
+  "title": "CCAMPIS Reauthorization Act Child Care Access Means Parents In Schools Reauthorization Act",
+  "summary": "To amend the Child Care Access Means Parents In School Program under the Higher Education Act of 1965.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB5458/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB5458/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/5458/all-info",
+  "sponsors": [
+    "Katherine Clark (D) [Rep]",
+    "Suzanne Bonamici (D) [Rep]",
+    "Jimmy Gomez (D) [Rep]",
+    "Brittany Pettersen (D) [Rep]",
+    "Jennifer McClellan (D) [Rep]",
+    "Jill Tokuda (D) [Rep]",
+    "Lateefah Simon (D) [Rep]",
+    "Lauren Underwood (D) [Rep]",
+    "Julia Brownley (D) [Rep]"
+  ],
+  "introduced_date": "2025-09-18",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-09-18",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-18",
+      "action": "Referred to the House Committee on Education and Workforce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-01",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr5458/BILLS-119hr5458ih.pdf",
+      "doc_id": 3271191
+    }
+  ],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

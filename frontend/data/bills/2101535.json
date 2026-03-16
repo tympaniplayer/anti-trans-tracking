@@ -1,0 +1,60 @@
+{
+  "id": 2101535,
+  "state": "OR",
+  "state_name": "Oregon",
+  "bill_number": "HB4122",
+  "title": "Relating to student government at public universities.",
+  "summary": "The Act would make changes to the law for student government at public universities in this state. (Flesch Readability Score: 60.1). Establishes statutory definition of \"student government\" for purposes of public universities in this state. Specifies the powers, rights and duties of such student government. Provides the official name of the student government at each public university. Changes the name of \"mandatory incidental fee\" to \"mandatory student-initiated fee.\" Modifies provisions related to \"mandatory student-initiated fees\" at public universities.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OR/bill/HB4122/2026",
+  "legiscan_url": "https://legiscan.com/OR/bill/HB4122/2026",
+  "state_url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4122",
+  "sponsors": [
+    "Zach Hudson (D) [Rep]",
+    "Robert Nosse (D) [Rep]",
+    "Paul Evans (D) [Rep]",
+    "Lamar Wise (D) [Rep]",
+    "Dacia Grayber (D) [Rep]",
+    "Courtney Neron Misslin (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-06",
+  "session": "2026 Legislative Measures",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "First reading. Referred to Speaker's desk.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Referred to Education.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "In committee upon adjournment.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4122/Introduced",
+      "doc_id": 3340713
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

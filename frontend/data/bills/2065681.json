@@ -1,0 +1,88 @@
+{
+  "id": 2065681,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB1535",
+  "title": "Hate crimes: political affiliation.",
+  "summary": "An act to amend Section 422.76 of the Penal Code, relating to hate crimes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB1535/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB1535/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1535",
+  "sponsors": [
+    "Laurie Davies (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-05",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-05",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-06",
+      "action": "From printer. May be heard in committee February 5.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Referred to Com. on PUB. S.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 8. Noes 0.) (March 3).",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Re-referred to Com. on APPR.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-03",
+      "description": "Do pass as amended and be re-referred to the Committee on [Appropriations]",
+      "yea": 8,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-05",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1535#99INT",
+      "doc_id": 3299935
+    },
+    {
+      "date": "2026-03-05",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1535#98AMD",
+      "doc_id": 3386609
+    }
+  ],
+  "committee": {
+    "committee_id": 449,
+    "chamber": "A",
+    "chamber_id": 19,
+    "name": "Appropriations"
+  },
+  "subjects": []
+}

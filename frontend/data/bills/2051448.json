@@ -1,0 +1,69 @@
+{
+  "id": 2051448,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A09194",
+  "title": "Relates to the creation of an innovative housing initiative for persons with a developmental disability who wish and are able to safely reside in such a setting; directs the division of housing and community renewal to establish guidelines for the dissemination of disclosure materials for the offer and sale of interests in residential environments formed under the innovative housing initiative; creates an exemption from certain filing requirements for residential environments that are formed as cooperative interests in realty for persons receiving services under the innovative housing initiative.",
+  "summary": "Relates to the creation of an innovative housing initiative for persons with a developmental disability who wish and are able to safely reside in such a setting; directs the division of housing and community renewal to establish guidelines for the dissemination of disclosure materials for the offer and sale of interests in residential environments formed under the innovative housing initiative; creates an exemption from certain filing requirements for residential environments that are formed as cooperative interests in realty for persons receiving services under the innovative housing initiative.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "religious_exemptions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A09194/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A09194/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A9194",
+  "sponsors": [
+    "Angelo Santabarbara (D) [Rep]",
+    "Christopher Burdick (D) [Rep]",
+    "Albert Stirpe (D) [Rep]",
+    "Karl Brabenec (R) [Rep]",
+    "Pamela Hunter (D) [Rep]",
+    "John McDonald (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Doug Smith (R) [Rep]",
+    "Alfred Taylor (D) [Rep]",
+    "Karen McMahon (D) [Rep]",
+    "Brian Manktelow (R) [Rep]",
+    "Joseph DeStefano (R) [Rep]",
+    "Jodi Giglio (R) [Rep]",
+    "Christopher Tague (R) [Rep]",
+    "John Lemondes (R) [Rep]"
+  ],
+  "introduced_date": "2025-11-03",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-11-03",
+      "action": "referred to people with disabilities",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to people with disabilities",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-03",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A09194&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A09194",
+      "doc_id": 3282928
+    }
+  ],
+  "committee": {
+    "committee_id": 4444,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "People with Disabilities"
+  },
+  "subjects": []
+}

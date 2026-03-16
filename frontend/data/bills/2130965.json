@@ -1,0 +1,83 @@
+{
+  "id": 2130965,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "HJR287",
+  "title": "Commending Birth in Color.",
+  "summary": "Commending Birth in Color.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/HJR287/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/HJR287/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/HJ287",
+  "sponsors": [
+    "Margaret Franklin (D) [Rep]",
+    "May Nivar (D) [Rep]",
+    "Marcia Price (D) [Rep]",
+    "Sam Rasoul (D) [Rep]",
+    "Jennifer Boysko (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-12",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-09",
+      "action": "Presented and laid on Speaker's table 26109469D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Engrossed by House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Agreed to by House by voice vote",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Received",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Laid on Clerk's Desk",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Received",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Laid on Clerk's Desk",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Agreed to by Senate Block Vote (Voice Vote)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-09",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/HJ287/text/HJ287",
+      "doc_id": 3388665
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

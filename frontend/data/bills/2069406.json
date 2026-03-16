@@ -1,0 +1,353 @@
+{
+  "id": 2069406,
+  "state": "FL",
+  "state_name": "Florida",
+  "bill_number": "H1329",
+  "title": "Local Government Finances",
+  "summary": "Revises the timeframe during which tentative budgets, and the length of time for which final budgets, must be posted on county websites; requires the county to hold a budget workshop for a specified purpose by a certain date; requires the county to post a certain budget reduction exercise or link on its website; requires counties to publish budget development calendars, etc.",
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/FL/bill/H1329/2026",
+  "legiscan_url": "https://legiscan.com/FL/bill/H1329/2026",
+  "state_url": "https://www.flsenate.gov/Session/Bill/2026/1329",
+  "sponsors": [
+    "State Affairs Committee [Rep]",
+    "Intergovernmental Affairs Subcommittee [Rep]",
+    "Yvette Benarroch (R) [Rep]",
+    "Webster Barnaby (R) [Rep]",
+    "James Buchanan (R) [Rep]",
+    "Kim Kendall (R) [Rep]",
+    "Rachel Plakon (R) [Rep]"
+  ],
+  "introduced_date": "2026-03-12",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "1st Reading (Original Filed Version)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Referred to Intergovernmental Affairs Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Referred to State Administration Budget Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Referred to State Affairs Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Now in Intergovernmental Affairs Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "PCS added to Intergovernmental Affairs Subcommittee agenda",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Favorable with CS by Intergovernmental Affairs Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Reported out of Intergovernmental Affairs Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Laid on Table under Rule 7.18(a)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "CS Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Referred to State Administration Budget Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Referred to State Affairs Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Now in State Administration Budget Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "1st Reading (Committee Substitute 1)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Added to State Administration Budget Subcommittee agenda",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Favorable by State Administration Budget Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Reported out of State Administration Budget Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Now in State Affairs Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Added to State Affairs Committee agenda",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Favorable with CS by State Affairs Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Reported out of State Affairs Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Laid on Table under Rule 7.18(a)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "CS Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Bill referred to House Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Bill added to Special Order Calendar (3/4/2026)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "1st Reading (Committee Substitute 2)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Read 2nd time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Amendment 863021 adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Added to Third Reading Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Read 3rd time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "CS passed as amended; YEAS 82, NAYS 28",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "In Messages",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Referred to Rules",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Received",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Withdrawn from Rules",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Placed on Calendar, on 2nd reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Substituted for CS/CS/CS/SB 1566",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Read 2nd time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Amendment(s) adopted (399106)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Read 3rd time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "CS passed as amended; YEAS 34 NAYS 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "In Messages",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Added to Senate Message List",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Amendment 399106 Concur",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "CS passed as amended; YEAS 87, NAYS 19",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Ordered engrossed, then enrolled",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-05",
+      "description": "House Intergovernmental Affairs Subcommittee",
+      "yea": 8,
+      "nay": 4,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-12",
+      "description": "House State Administration Budget Subcommittee",
+      "yea": 11,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-26",
+      "description": "House State Affairs Committee",
+      "yea": 17,
+      "nay": 6,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-04",
+      "description": "House: Third Reading RCS#666",
+      "yea": 82,
+      "nay": 28,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "Senate: Third Reading RCS#11",
+      "yea": 34,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-12",
+      "description": "House: Third Reading RCS#831",
+      "yea": 87,
+      "nay": 19,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-09",
+      "type": "Introduced",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1329/BillText/Filed/PDF",
+      "doc_id": 3304128
+    },
+    {
+      "date": "2026-02-06",
+      "type": "Comm Sub",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1329/BillText/c1/PDF",
+      "doc_id": 3351137
+    },
+    {
+      "date": "2026-02-26",
+      "type": "Comm Sub",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1329/BillText/c2/PDF",
+      "doc_id": 3378047
+    },
+    {
+      "date": "2026-03-04",
+      "type": "Engrossed",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1329/BillText/e1/PDF",
+      "doc_id": 3384885
+    },
+    {
+      "date": "2026-03-13",
+      "type": "Engrossed",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1329/BillText/e2/PDF",
+      "doc_id": 3393939
+    },
+    {
+      "date": "2026-03-13",
+      "type": "Enrolled",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1329/BillText/er/PDF",
+      "doc_id": 3393940
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

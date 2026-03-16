@@ -1,0 +1,76 @@
+{
+  "id": 2010079,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A06926",
+  "title": "Includes nonconsensual use of bodily fluids and matter in harassment in the first degree and aggravated harassment in the first degree; includes strikes, shoves and kicks in aggravated harassment in the first degree.",
+  "summary": "Includes nonconsensual use of bodily fluids and matter in harassment in the first degree and aggravated harassment in the first degree; includes strikes, shoves and kicks in aggravated harassment in the first degree.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A06926/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A06926/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A6926",
+  "sponsors": [
+    "Andrew Molitor (R) [Rep]",
+    "Jeff Gallahan (R) [Rep]",
+    "Robert Smullen (R) [Rep]",
+    "Joseph DeStefano (R) [Rep]",
+    "Joseph Angelino (R) [Rep]",
+    "Kenneth Blankenbush (R) [Rep]",
+    "Brian Manktelow (R) [Rep]",
+    "Edward Ra (R) [Rep]",
+    "Jodi Giglio (R) [Rep]",
+    "Andrea Bailey (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-18",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-18",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "held for consideration in codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to codes",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-13",
+      "description": "Assembly Codes Committee: Held for Consideration",
+      "yea": 16,
+      "nay": 6,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-03-18",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06926&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06926",
+      "doc_id": 3179700
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

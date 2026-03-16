@@ -1,0 +1,53 @@
+{
+  "id": 2029906,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB1689",
+  "title": "Stop Mental Health Stigma in Our Communities Act of 2025",
+  "summary": "A bill to amend the Public Health Service Act to provide for a national outreach and education strategy and reach to improve behavioral health among the Asian American, Native Hawaiian, and Pacific Islander population, while addressing stigma against behavioral health treatment amongst such population.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB1689/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB1689/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1689/all-info",
+  "sponsors": [
+    "Mazie Hirono (D) [Sen]",
+    "Catherine Cortez Masto (D) [Sen]",
+    "Cory Booker (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-08",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-05-08",
+      "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-20",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s1689/BILLS-119s1689is.pdf",
+      "doc_id": 3240651
+    }
+  ],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

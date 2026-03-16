@@ -1,0 +1,51 @@
+{
+  "id": 2075164,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S2691",
+  "title": "Clarifies staff training requirements at long-term care facilities regarding care of lesbian, gay, bisexual, transgender, questioning, queer, and intersex seniors and seniors living with HIV.",
+  "summary": "Clarifies staff training requirements at long-term care facilities regarding care of lesbian, gay, bisexual, transgender, questioning, queer, and intersex seniors and seniors living with HIV.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S2691/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S2691/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S2691",
+  "sponsors": [
+    "Britnee Timberlake (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-07",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S3000/2691_I1.HTM",
+      "doc_id": 3312194
+    }
+  ],
+  "committee": {
+    "committee_id": 879,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Health, Human Services and Senior Citizens"
+  },
+  "subjects": [
+    "Health, Human Services and Senior Citizens"
+  ]
+}

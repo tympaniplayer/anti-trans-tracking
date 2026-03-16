@@ -1,0 +1,53 @@
+{
+  "id": 2129201,
+  "state": "CO",
+  "state_name": "Colorado",
+  "bill_number": "HB1319",
+  "title": "Right to Be Out at Work",
+  "summary": "Concerning the right of an employee to be open about their LGBTQ+ identity in the workplace without adverse action from their employer, and, in connection therewith, protecting an employee's expression of their sexual orientation, gender identity, or status as a transgender, nonbinary, or transitioning individual.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CO/bill/HB1319/2026",
+  "legiscan_url": "https://legiscan.com/CO/bill/HB1319/2026",
+  "state_url": "https://leg.colorado.gov/bills/HB26-1319",
+  "sponsors": [
+    "Sean Camacho (D) [Rep]",
+    "Junie Joseph (D) [Rep]",
+    "Julie Gonzales (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-04",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "action": "Introduced In House - Assigned to Business Affairs & Labor",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "1969-12-31",
+      "type": "Introduced",
+      "url": "https://leg.colorado.gov/bill_files/112887/download",
+      "doc_id": 3384597
+    }
+  ],
+  "committee": {
+    "committee_id": 902,
+    "chamber": "H",
+    "chamber_id": 21,
+    "name": "Business Affairs and Labor"
+  },
+  "subjects": [
+    "Labor & Employment"
+  ]
+}

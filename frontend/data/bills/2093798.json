@@ -1,0 +1,57 @@
+{
+  "id": 2093798,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SR9",
+  "title": "Requesting The United States Congress To Pass Legislation To Amend The Civil Rights Act Of 1964 To Prohibit Discrimination On The Basis Of Sex, Sexual Orientation, And Gender Identity In Employment, Housing, Public Accommodations, Education, Federally Funded Programs, Credit, And Jury Service.",
+  "summary": "Requesting The United States Congress To Pass Legislation To Amend The Civil Rights Act Of 1964 To Prohibit Discrimination On The Basis Of Sex, Sexual Orientation, And Gender Identity In Employment, Housing, Public Accommodations, Education, Federally Funded Programs, Credit, And Jury Service.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SR9/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SR9/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SR&billnumber=9&year=2026",
+  "sponsors": [
+    "Karl Rhoads (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-28",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-28",
+      "action": "Offered.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Referred to EIG/JDC.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-26",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SR9_.HTM",
+      "doc_id": 3332620
+    }
+  ],
+  "committee": {
+    "committee_id": 5011,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Energy and Intergovernmental Affairs"
+  },
+  "subjects": [
+    "Federal Equality Act",
+    "Sex, sexual orientation, and gender identity"
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": 1904689,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A00988",
+  "title": "Requires the office of mental health to convene statewide forums and listening sessions in areas with high rates of death by suicide, suicide attempts, or other risk factors associated with suicide, and high risk minority groups or special populations.",
+  "summary": "Requires the office of mental health to convene statewide forums and listening sessions in areas with high rates of death by suicide, suicide attempts, or other risk factors associated with suicide, and high risk minority groups or special populations.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A00988/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A00988/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A988",
+  "sponsors": [
+    "Maritza Davila (D) [Rep]",
+    "Angelo Santabarbara (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Manny De Los Santos (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-08",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "referred to mental health",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "reported referred to ways and means",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to ways and means",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-11",
+      "description": "Assembly Mental Health Committee: Favorable refer to committee Ways and Means",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A00988&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A00988",
+      "doc_id": 3041336
+    }
+  ],
+  "committee": {
+    "committee_id": 387,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

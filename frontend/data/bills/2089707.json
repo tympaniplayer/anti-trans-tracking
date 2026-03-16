@@ -1,0 +1,113 @@
+{
+  "id": 2089707,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "SB1989",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 36, Chapter 6; Title 37, Chapter 1 and Title 39, Chapter 15, relative to children.",
+  "summary": "As introduced, specifies that a parent's or legal guardian's action of raising, guiding, or instructing the parent's or legal guardian's child in a manner consistent with the child's biological sex is not a basis for certain findings or actions by the court, does not constitute the criminal offense of child abuse, child neglect, or child endangerment, and must not be considered as a negative factor by a court in determining a custody arrangement in the best interest of the child. - Amends TCA Title 36, Chapter 6; Title 37, Chapter 1 and Title 39, Chapter 15.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/SB1989/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/SB1989/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB1989&ga=114",
+  "sponsors": [
+    "Paul Rose (R) [Sen]",
+    "Janince Bowling (R) [Sen]",
+    "Ferrell Haile (R) [Sen]",
+    "Mark Pody (R) [Sen]",
+    "Jessie Seal (R) [Sen]",
+    "John Stevens (R) [Sen]"
+  ],
+  "introduced_date": "2026-03-12",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-22",
+      "action": "Filed for introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Introduced, Passed on First Consideration",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Passed on Second Consideration, refer to Senate Judiciary Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Placed on Senate Judiciary Committee calendar for 3/3/2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Recommended for passage, refer to Senate Calendar Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Placed on Senate Regular Calendar for 3/12/2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Passed Senate, Ayes 27, Nays 6",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Engrossed; ready for transmission to House",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Sponsor(s) Added.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-03",
+      "description": "SENATE JUDICIARY COMMITTEE: Recommended for passage, refer to Senate Calendar Committee",
+      "yea": 7,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-12",
+      "description": "FLOOR VOTE: Third Consideration",
+      "yea": 27,
+      "nay": 6,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-22",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1989.pdf",
+      "doc_id": 3327744
+    },
+    {
+      "date": "2026-01-23",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1989.pdf",
+      "doc_id": 3331096
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Children"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 2035480,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB4548",
+  "title": "Civil rights: general discrimination; discrimination because of ethnicity, including discrimination because of Jewish heritage; prohibit under the Elliot-Larsen civil rights act. Amends title & secs. 102, 103, 202, 203, 204, 205, 206, 207, 209, 210, 301, 302, 302a, 402, 502, 504, 505, 506 & 507 of 1976 PA 453 (MCL 37.2102 et seq.).",
+  "summary": "Civil rights: general discrimination; discrimination because of ethnicity, including discrimination because of Jewish heritage; prohibit under the Elliot-Larsen civil rights act. Amends title & secs. 102, 103, 202, 203, 204, 205, 206, 207, 209, 210, 301, 302, 302a, 402, 502, 504, 505, 506 & 507 of 1976 PA 453 (MCL 37.2102 et seq.).",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB4548/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB4548/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4548",
+  "sponsors": [
+    "Noah Arbit (D) [Rep]",
+    "Samantha Steckloff (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-04",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-06-04",
+      "action": "Introduced By Representative Rep. Noah Arbit",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-05",
+      "action": "Bill Electronically Reproduced 06/04/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-04",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4548.htm",
+      "doc_id": 3251544
+    }
+  ],
+  "committee": {
+    "committee_id": 899,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Government Operations"
+  },
+  "subjects": [
+    "Civil rights: general discrimination"
+  ]
+}

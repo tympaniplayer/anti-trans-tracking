@@ -1,0 +1,50 @@
+{
+  "id": 2078174,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "HB2973",
+  "title": "Modifies guidelines for student participation in athletic contests organized by sex",
+  "summary": "Modifies guidelines for student participation in athletic contests organized by sex",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "education"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/HB2973/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/HB2973/2026",
+  "state_url": "https://house.mo.gov/Bill.aspx?bill=HB2973&year=2026&code=R",
+  "sponsors": [
+    "Lisa Durnell (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Introduced and Read First Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Read Second Time (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6723H.01I.pdf",
+      "doc_id": 3315169
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,103 @@
+{
+  "id": 2091604,
+  "state": "MS",
+  "state_name": "Mississippi",
+  "bill_number": "SB2735",
+  "title": "Medicaid; make various amendments to the provisions of the program.",
+  "summary": "An Act To Amend Section 43-13-115, Mississippi Code Of 1972, To Make Certain Technical Amendments To The Provisions That Provide For Medicaid Eligibility And To Modify Age And Income And Eligibility Criteria To Reflect The Current Criteria; To Provide That Men Of Reproductive Age Are Eligible Under The Family Planning Program; To Conform With Federal Law To Allow Children In Foster Care To Be Eligible Until Their 26th Birthday; To Eliminate The Requirement That The Division Must Apply To Cms For Waivers To Provide Services For Certain Individuals Who Are End Stage Renal Disease Patients On Dialysis, Cancer Patients On Chemotherapy Or Organ Transplant Recipients On Antirejection Drugs; To Amend Section 43-13-117, Mississippi Code Of 1972, To Make Certain Technical Amendments To The Provisions That Provide For Medicaid Services To Comply With Federal Law; To Enable Rural Hospitals To Elect Against Reimbursement For Outpatient Hospital Services Using The Ambulatory Payment Classification (apc) Methodology; To Authorize The Division To Make Payment To Nursing Facilities And To Intermediate Care Facilities For Each Day, Not Exceeding 21 Days Per Year For Nursing Facilities Or 31 Days Per Year For Intermediate Care Facilities, That A Patient Is Absent From The Facility On Home Leave; To Require The Division To Update The Case-mix Payment System And Fair Rental Reimbursement System As Necessary To Maintain Compliance With Federal Law; To Authorize The Division To Implement A Quality Or Value-based Component To The Nursing Facility Payment System; To Require The Division To Reimburse Pediatricians For Certain Primary Care Services As Defined By The Division At 100% Of The Rate Established Under Medicare; To Authorize The Division To Reimburse Ambulatory Surgical Care (asc) Based On 85% Of The Medicare Asc Payment System Rate In Effect July 1 Of Each Year As Set By Cms; To Provide That The Division May Develop Alternative Models For Distribution Of Medical Claims And Supplemental Payments For Inpatient And Outpatient Hospital Services; To Authorize The Division To Contract With The State Department Of Health To Provide For A Perinatal High Risk-management/infant Services System For Any Eligible Beneficiary That Cannot Receive Such Services Under A Different Program; To Authorize The Division To Reimburse For Services At Certified Community Behavioral Health Centers; To Delete The Provision Of Law That Provides That The Division Shall Reimburse For Outpatient Hospital Services Provided To Eligible Medicaid Beneficiaries Under The Age Of 21 Years By Border City University-affiliated Pediatric Teaching Hospitals, Which Was Repealed By Operation Of Law In 2024; To Reduce The Length Of Notice The Division Must Provide The Medicaid Committee Chairmen For Proposed Rate Changes And To Provide That Such Legislative Notice May Be Expedited; To Authorize The Division, Effective July 1, 2027, To Reimburse Ambulance Transportation Service Providers That Provide An Assessment, Triage Or Treatment For Eligible Medicaid Beneficiaries; To Set Certain Reimbursement Levels For Such Providers; To Delete The Date Of The Repealer On Such Section; To Amend Section 43-13-121, Mississippi Code Of 1972, To Authorize The Division To Extend Its Medicaid Enterprise System And Fiscal Agent Services, Including All Related Components And Services, Contracts In Effect On June 30, 2026, For Additional Contract Periods At The Discretion Of The Division; To Authorize The Division To Enter Into A Two-year Contract Ending No Later Than June 30, 2028, With A Vendor To Provide Support Of The Division's Eligibility System; To Reduce The Length Of Notice The Division Must Provide The Medicaid Committee Chairmen For A Proposed State Plan Amendment And To Provide That Such Legislative Notice May Be Expedited; To Amend Section 43-13-305, Mississippi Code Of 1972, To Provide That When A Third Party Payor Requires Prior Authorization For An Item Or Service Furnished To A Medicaid Recipient, The Payor Shall Accept Authorization Provided By The Division Of Medicaid That The Item Or Service Is Covered Under The State Plan As If Such Authorization Were The Prior Authorization Made By The Third Party Payor For Such Item Or Service; To Amend Section 43-13-117.7, Mississippi Code Of 1972, To Provide That The Division Shall Not Reimburse Or Provide Coverage For Gender Transition Procedures For Any Person; To Amend Section 43-13-145, Mississippi Code Of 1972, To Provide That A Quarterly Hospital Assessment May Exceed The Assessment In The Prior Quarter By More Than $3,750,000.00 If Such Increase Is To Maximize Federal Funds That Are Available To Reimburse Hospitals For Services Provided Under New Programs For Hospitals, For Increased Supplemental Payment Programs For Hospitals Or To Assist With State Matching Funds As Authorized By The Legislature; To Amend Section 43-13-107, Mississippi Code Of 1972, To Establish A Medicaid Advisory Committee And Beneficiary Advisory Council In Accordance With Federal Law; To Provide That All Members Of The Previously Established Medical Care Advisory Committee Serving On January 1, 2026, Shall Be Selected To Serve On The Medicaid Advisory Committee, And Such Members Shall Serve Until July 1, 2029; And For Related Purposes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "healthcare",
+    "sports",
+    "bathrooms",
+    "education",
+    "definitions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MS/bill/SB2735/2026",
+  "legiscan_url": "https://legiscan.com/MS/bill/SB2735/2026",
+  "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2735.xml",
+  "sponsors": [
+    "Kevin Blackwell (R) [Sen]"
+  ],
+  "introduced_date": "2026-03-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-19",
+      "action": "Referred To Medicaid",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Title Suff Do Pass Comm Sub",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Committee Substitute Adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Passed",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Immediate Release",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Transmitted To House",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Referred To Medicaid",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Died In Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-05",
+      "description": "Senate Passed",
+      "yea": 48,
+      "nay": 4,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-23",
+      "type": "Introduced",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2735IN.htm",
+      "doc_id": 3330094
+    },
+    {
+      "date": "2026-02-02",
+      "type": "Comm Sub",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2735CS.htm",
+      "doc_id": 3343657
+    },
+    {
+      "date": "2026-02-06",
+      "type": "Engrossed",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/SB/2700-2799/SB2735PS.htm",
+      "doc_id": 3351149
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,110 @@
+{
+  "id": 2038499,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB4197",
+  "title": "LGBTQ+ Panic Defense Prohibition Act of 2025",
+  "summary": "To amend title 18, United States Code, to prohibit defenses based on sexual orientation or gender identity or expression.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB4197/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB4197/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4197/all-info",
+  "sponsors": [
+    "Christopher Pappas (D) [Rep]",
+    "Janice Schakowsky (D) [Rep]",
+    "Jasmine Crockett (D) [Rep]",
+    "Sean Casten (D) [Rep]",
+    "Danny Davis (D) [Rep]",
+    "Emilia Sykes (D) [Rep]",
+    "Marilyn Strickland (D) [Rep]",
+    "Mark Takano (D) [Rep]",
+    "Jennifer McClellan (D) [Rep]",
+    "Julia Brownley (D) [Rep]",
+    "Timothy Kennedy (D) [Rep]",
+    "Sharice Davids (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Nikema Williams (D) [Rep]",
+    "Seth Moulton (D) [Rep]",
+    "Christopher Deluzio (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Morgan McGarvey (D) [Rep]",
+    "Kevin Mullin (D) [Rep]",
+    "Frank Pallone (D) [Rep]",
+    "Al Green (D) [Rep]",
+    "Scott Peters (D) [Rep]",
+    "Jahana Hayes (D) [Rep]",
+    "John Garamendi (D) [Rep]",
+    "Jared Huffman (D) [Rep]",
+    "Paul Tonko (D) [Rep]",
+    "Stephen Lynch (D) [Rep]",
+    "Maxwell Frost (D) [Rep]",
+    "Valerie Foushee (D) [Rep]",
+    "Salud Carbajal (D) [Rep]",
+    "Raja Krishnamoorthi (D) [Rep]",
+    "Luis Correa (D) [Rep]",
+    "Brad Sherman (D) [Rep]",
+    "Jesus Garcia (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "James McGovern (D) [Rep]",
+    "Gabe Amo (D) [Rep]",
+    "Zoe Lofgren (D) [Rep]",
+    "Josh Gottheimer (D) [Rep]",
+    "Andrea Salinas (D) [Rep]",
+    "LaMonica McIver (D) [Rep]",
+    "Dwight Evans (D) [Rep]",
+    "Becca Balint (D) [Rep]",
+    "Suzanne Bonamici (D) [Rep]",
+    "Mike Quigley (D) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "Ted Lieu (D) [Rep]",
+    "Joseph Neguse (D) [Rep]",
+    "Elizabeth Fletcher (D) [Rep]",
+    "Sylvia Garcia (D) [Rep]",
+    "Suzan DelBene (D) [Rep]",
+    "Hillary Scholten (D) [Rep]",
+    "Diana DeGette (D) [Rep]",
+    "April McClain-Delaney (D) [Rep]",
+    "Delia Ramirez (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-26",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-26",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-09",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr4197/BILLS-119hr4197ih.pdf",
+      "doc_id": 3261233
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crime and law enforcement"
+  ]
+}

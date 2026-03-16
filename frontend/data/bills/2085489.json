@@ -1,0 +1,69 @@
+{
+  "id": 2085489,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "SB411",
+  "title": "Youth Health Protection Act; established, civil penalty.",
+  "summary": "Youth Health Protection Act established; civil penalty. Creates the Youth Health Protection Act, which makes it unlawful for any individual to provide gender transition procedures, defined in the bill, for minors and prohibits the use of public funds for gender transition procedures. The bill allows parents, guardians, or custodians to withhold consent for any treatment, activity, or mental health care services that are designed or intended to form their child's conceptions of sex and gender or to treat gender dysphoria or gender nonconformity. The bill prohibits government agents, other than law-enforcement personnel, from encouraging or coercing a minor to withhold information from the minor's parent. The bill establishes a duty for a government agent with knowledge that a minor has exhibited symptoms of gender dysphoria or gender nonconformity or otherwise demonstrates a desire to be treated in a manner incongruent with the minor's sex to immediately notify each of the minor's parents, guardians, or custodians in writing, with descriptions of relevant circumstances. The bill prohibits discrimination against persons (i) providing information regarding violations of the Act to their employer or specified public entities or (ii) who make disclosures under the Act of information that evinces any violation of law, rule, or regulation; any violation of any standard of care or other ethical guidelines for the provision of health care service; or gross mismanagement, a gross waste of funds, an abuse of authority, or a substantial and specific danger to public health or safety. The bill establishes a civil action for any violation of the Act by a clinic, health care system, medical professional, or other responsible person with a two-year statute of limitations. The bill prohibits political subdivisions of the Commonwealth from enacting, adopting, maintaining, or enforcing any measure that interferes with the professional conduct and judgment of a mental health care professional or counselor undertaken within the course of treatment and communication with clients, patients, other persons, or the public. The bill provides for enforcement by the Attorney General or a mental health care professional or counselor through an action for injunctive relief and allows a mental health care professional to recover reasonable attorney fees and reasonable costs incurred in obtaining an injunction. The bill waives sovereign immunity to suit and immunity from liability under this statute.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education",
+    "definitions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/SB411/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/SB411/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/SB411",
+  "sponsors": [
+    "Mark Peake (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26102708D",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Referred to Committee on Education and Health",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "Assigned Education sub: Health Professions",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Passed by indefinitely in Education and Health (9-Y 5-N)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-05",
+      "description": "Passed by indefinitely in Education and Health (9-Y 5-N)",
+      "yea": 9,
+      "nay": 5,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-13",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB411/text/SB411",
+      "doc_id": 3322839
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

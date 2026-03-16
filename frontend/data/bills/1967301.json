@@ -1,0 +1,54 @@
+{
+  "id": 1967301,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "J00356",
+  "title": "Memorializing Governor Kathy Hochul to proclaim February 24, 2025, as Domestic Violence Awareness and Prevention Day in the State of New York",
+  "summary": "Memorializing Governor Kathy Hochul to proclaim February 24, 2025, as Domestic Violence Awareness and Prevention Day in the State of New York",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/J00356/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/J00356/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/J356",
+  "sponsors": [
+    "Lea Webb (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-25",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-12",
+      "action": "REFERRED TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "REPORTED TO CALENDAR FOR CONSIDERATION",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "ADOPTED",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-24",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=J00356&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#J00356",
+      "doc_id": 3115921
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

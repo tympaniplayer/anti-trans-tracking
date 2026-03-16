@@ -1,0 +1,66 @@
+{
+  "id": 2014423,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A07339",
+  "title": "Requires certain insurance policies to provide coverage for fertility preservation services, including anticipated iatrogenic infertility.",
+  "summary": "Requires certain insurance policies to provide coverage for fertility preservation services, including anticipated iatrogenic infertility.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A07339/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A07339/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A7339",
+  "sponsors": [
+    "Nily Rozic (D) [Rep]",
+    "Grace Lee (D) [Rep]",
+    "Steven Raga (D) [Rep]",
+    "Catalina Cruz (D) [Rep]",
+    "Emerita Torres (D) [Rep]",
+    "Paula Kay (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "David McDonough (R) [Rep]",
+    "Jennifer Lunsford (D) [Rep]",
+    "Rebecca Kassay (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Joseph DeStefano (R) [Rep]",
+    "Edward Ra (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-25",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-25",
+      "action": "referred to insurance",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to insurance",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-25",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A07339&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A07339",
+      "doc_id": 3188458
+    }
+  ],
+  "committee": {
+    "committee_id": 372,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Insurance"
+  },
+  "subjects": []
+}

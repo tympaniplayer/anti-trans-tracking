@@ -1,0 +1,61 @@
+{
+  "id": 2125164,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "SB0801",
+  "title": "Criminal procedure: search and seizure; protections against unlawful search and seizure; provide for. Amends sec. 15d, ch. IV of 1927 PA 175 (MCL 765.15d) & adds sec. 1h to ch. IV.",
+  "summary": "Criminal procedure: search and seizure; protections against unlawful search and seizure; provide for. Amends sec. 15d, ch. IV of 1927 PA 175 (MCL 765.15d) & adds sec. 1h to ch. IV.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/SB0801/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/SB0801/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0801",
+  "sponsors": [
+    "Jeff Irwin (D) [Sen]",
+    "Stephanie Chang (D) [Sen]",
+    "Sue Shink (D) [Sen]",
+    "Mallory McMorrow (D) [Sen]",
+    "Jeremy Moss (D) [Sen]",
+    "Rosemary Bayer (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-26",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "action": "Introduced By Senator Jeff Irwin",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-26",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/htm/2026-SIB-0801.htm",
+      "doc_id": 3377314
+    }
+  ],
+  "committee": {
+    "committee_id": 838,
+    "chamber": "S",
+    "chamber_id": 54,
+    "name": "Government Operations"
+  },
+  "subjects": [
+    "Criminal procedure: search and seizure"
+  ]
+}

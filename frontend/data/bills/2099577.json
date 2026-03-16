@@ -1,0 +1,53 @@
+{
+  "id": 2099577,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A406",
+  "title": "Amends felony murder, aggravated manslaughter, and aggravated assault statutes to include death or bodily injury occurring during commission of auto theft.",
+  "summary": "Amends felony murder, aggravated manslaughter, and aggravated assault statutes to include death or bodily injury occurring during commission of auto theft.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A406/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A406/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A406",
+  "sponsors": [
+    "Victoria Flynn (R) [Rep]",
+    "Dawn Fantasia (R) [Rep]",
+    "Michael Inganamort (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Judiciary Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-26",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A0500/406_I1.HTM",
+      "doc_id": 3338664
+    }
+  ],
+  "committee": {
+    "committee_id": 862,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Judiciary"
+  ]
+}

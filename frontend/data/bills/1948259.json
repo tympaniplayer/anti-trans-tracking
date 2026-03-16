@@ -1,0 +1,54 @@
+{
+  "id": 1948259,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S03848",
+  "title": "Requires LGBT awareness curriculum or instruction.",
+  "summary": "Requires LGBT awareness curriculum or instruction.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S03848/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S03848/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S3848",
+  "sponsors": [
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Jabari Brisport (D) [Sen]",
+    "Michael Gianaris (D) [Sen]",
+    "Kristen Gonzalez (D) [Sen]",
+    "Jessica Ramos (D) [Sen]",
+    "Julia Salazar (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-30",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-30",
+      "action": "REFERRED TO EDUCATION",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-30",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S03848&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S03848",
+      "doc_id": 3090924
+    }
+  ],
+  "committee": {
+    "committee_id": 423,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Education"
+  },
+  "subjects": []
+}

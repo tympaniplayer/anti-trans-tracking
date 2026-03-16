@@ -1,0 +1,57 @@
+{
+  "id": 1981655,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0341",
+  "title": "An act relating to creating oversight and safety standards for developers and deployers of inherently dangerous artificial intelligence systems",
+  "summary": "An act relating to creating oversight and safety standards for developers and deployers of inherently dangerous artificial intelligence systems",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0341/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0341/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.341",
+  "sponsors": [
+    "Monique Priestley (D) [Rep]",
+    "Angela Arsenault (D) [Rep]",
+    "Daisy Berbeco (D) [Rep]",
+    "Esme Cole (D) [Rep]",
+    "Kate Logan (D) [Rep]",
+    "James Masland (D) [Rep]",
+    "Jubilee McGill (D) [Rep]",
+    "Laura Sibilia (I) [Rep]",
+    "Kirk White (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-25",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-02-25",
+      "action": "Read first time and referred to the Committee on Commerce and Economic Development",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-24",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0341/H-0341%20As%20Introduced.pdf",
+      "doc_id": 3138782
+    }
+  ],
+  "committee": {
+    "committee_id": 782,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "Commerce and Economic Development"
+  },
+  "subjects": []
+}

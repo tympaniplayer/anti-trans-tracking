@@ -1,0 +1,68 @@
+{
+  "id": 2116282,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB1900",
+  "title": "Guaranteed Health Care for All.",
+  "summary": "An act to add Title 23 (commencing with Section 100600) to the Government Code, relating to health care coverage, and making an appropriation therefor.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB1900/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB1900/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1900",
+  "sponsors": [
+    "Isaac Bryan (D) [Rep]",
+    "Ash Kalra (D) [Rep]",
+    "Alex Lee (D) [Rep]",
+    "Liz Ortega (D) [Rep]",
+    "Chris Rogers (D) [Rep]",
+    "Damon Connolly (D) [Rep]",
+    "Sade Elhawary (D) [Rep]",
+    "Lena Gonzalez (D) [Sen]",
+    "Mike McGuire (D) [Sen]",
+    "Nick Schultz (D) [Rep]",
+    "Josh Becker (D) [Sen]",
+    "Celeste Rodriguez (D) [Rep]",
+    "Dave Cortese (D) [Sen]",
+    "Robert Garcia (D) [Rep]",
+    "Matt Haney (D) [Rep]",
+    "John Harabedian (D) [Rep]",
+    "Corey Jackson (D) [Rep]",
+    "John Laird (D) [Sen]",
+    "Tina McKinnor (D) [Rep]",
+    "Sasha Renee Perez (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-12",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "From printer. May be heard in committee March 15.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-12",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1900#99INT",
+      "doc_id": 3361421
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

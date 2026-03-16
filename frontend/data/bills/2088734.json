@@ -1,0 +1,49 @@
+{
+  "id": 2088734,
+  "state": "MS",
+  "state_name": "Mississippi",
+  "bill_number": "HB1427",
+  "title": "\"MS Anti-Lynching Act\"; create.",
+  "summary": "An Act To Create The \"mississippi Anti-lynching Act\"; To Define Lynching As A Discriminatory Killing Committed By Two Or More Persons Under The Pretext Of Administering Justice For An Alleged Offense; To Create The Standalone Felony Offense Of Lynching Punishable By Life Imprisonment Without Eligibility For Parole; To Provide For The Felony Offense Of Attempted Lynching With A Mandatory Minimum Sentence; To Provide For Aiding And Abetting, Organizing Or Inciting, And Conspiracy; To Establish Discriminatory Death Triggers And Mandatory Investigative Protocols; To Require Appointment Of An Independent Prosecutor By Default; To Require Mandatory Reporting By Local Agencies To The Mississippi Department Of Public Safety And The Office Of The Attorney General; To Require A Uniform Statewide Tracking Database And Annual Reports To The Legislature; To Require Psychological Autopsies And Forensic Protocols In Certain Cases; To Require Attendance By An Independent Pathologist Selected By The Family In Certain Cases; To Establish Family Rights And Anti-intimidation Protections; To Create A Civil Cause Of Action For Survival And Wrongful Death Claims Against Perpetrators And Organizers, Including Damages, Civil Penalties, And Attorney's Fees; To Provide Sanctions For Official Misconduct For Willful Failure To Report, Investigate, Or Prosecute; To Create An Anti-lynching Investigation And Accountability Fund And Grant Program; To Provide For Severability; And For Related Purposes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MS/bill/HB1427/2026",
+  "legiscan_url": "https://legiscan.com/MS/bill/HB1427/2026",
+  "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1427.xml",
+  "sponsors": [
+    "Kabir Karriem (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-16",
+      "action": "Referred To Judiciary B",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Died In Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1427IN.htm",
+      "doc_id": 3326463
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

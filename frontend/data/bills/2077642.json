@@ -1,0 +1,62 @@
+{
+  "id": 2077642,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "SB263",
+  "title": "Virginia Public Procurement Act; certification for service disabled veteran-owned businesses, etc.",
+  "summary": "Department of Small Business and Supplier Diversity; Virginia Public Procurement Act; certification for service disabled veteran-owned businesses and veteran-owned businesses; participation requirements; penalty. Provides that the Director of the Department of Small Business and Supplier Diversity may adopt regulations to implement certification programs for service disabled veteran-owned businesses and veteran-owned businesses in the Commonwealth and adds such businesses to the definition of \"SWaM\" and relevant provisions. The bill requires each public body to annually award at least one percent of its contract dollars to service disabled veteran-owned and veteran-owned businesses under the Virginia Public Procurement Act and requires each public body that has annual procurement expenditures exceeding $10 million to designate a Veteran Business Procurement Liaison. The bill requires the Department of Small Business and Supplier Diversity, in consultation with the Department of Veterans Services, to develop a plan to implement the provisions of the bill and make such plan available to the public on the electronic procurement system known as eVA by December 1, 2026. The bill requires the Department of General Services to update eVA to reflect the procurement opportunities available to service disabled veteran-owned and veteran-owned businesses. The bill directs the Department of Small Business and Supplier Diversity to adopt emergency regulations to implement the provisions of the bill.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/SB263/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/SB263/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/SB263",
+  "sponsors": [
+    "William Stanley (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-12",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-12",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26101924D",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Referred to Committee on General Laws and Technology",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Continued to next session in General Laws and Technology (10-Y 5-N)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-21",
+      "description": "Continued to next session in General Laws and Technology (10-Y 5-N)",
+      "yea": 10,
+      "nay": 5,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-12",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB263/text/SB263",
+      "doc_id": 3314648
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

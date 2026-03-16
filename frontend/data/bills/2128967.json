@@ -1,0 +1,52 @@
+{
+  "id": 2128967,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "S2989",
+  "title": "Establishes a two-year pilot program, from January 2027 to December 2028, to incorporate equity impact statements into the legislative process for both the House and Senate chamber.",
+  "summary": "GENERAL ASSEMBLY -- THE EQUITY IMPACT STATEMENT AND BUDGET EQUITY IMPACT ACT - Establishes a two-year pilot program, from January 2027 to December 2028, to incorporate equity impact statements into the legislative process for both the House and Senate chamber.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/S2989/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/S2989/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Tiara Mack (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-04",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "action": "Introduced, referred to Senate Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-04",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/SenateText26/S2989.pdf",
+      "doc_id": 3385088
+    }
+  ],
+  "committee": {
+    "committee_id": 1140,
+    "chamber": "S",
+    "chamber_id": 84,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "General Assembly",
+    "GENERAL ASSEMBLY -- THE EQUITY IMPACT STATEMENT AND BUDGET EQUITY IMPACT ACT"
+  ]
+}

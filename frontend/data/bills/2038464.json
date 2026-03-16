@@ -1,0 +1,76 @@
+{
+  "id": 2038464,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SR306",
+  "title": "A resolution expressing support for the designation of June 26 as \"LGBTQI+ Equality Day\".",
+  "summary": "A resolution expressing support for the designation of June 26 as \"LGBTQI+ Equality Day\".",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SR306/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SR306/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/306/all-info",
+  "sponsors": [
+    "Tammy Baldwin (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "John Fetterman (D) [Sen]",
+    "Margaret Hassan (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Tim Kaine (D) [Sen]",
+    "Amy Klobuchar (D) [Sen]",
+    "Ben Lujan (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Christopher Murphy (D) [Sen]",
+    "Gary Peters (D) [Sen]",
+    "Jacky Rosen (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Jeanne Shaheen (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Ruben Gallego (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-26",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-26",
+      "action": "Referred to the Committee on the Judiciary. (text: CR S3564-3565)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-27",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/sres306/BILLS-119sres306is.pdf",
+      "doc_id": 3259485
+    }
+  ],
+  "committee": {
+    "committee_id": 2330,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

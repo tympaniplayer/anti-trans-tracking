@@ -1,0 +1,74 @@
+{
+  "id": 2030259,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S2516",
+  "title": "Establishing the Massachusetts data privacy act",
+  "summary": "For legislation to establish the Massachusetts Data Privacy Protection Act, report the accompanying bill (Senate, No. 2516).",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S2516/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S2516/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S2516",
+  "sponsors": [
+    "Advanced Information Technology, the Internet and Cybersecurity [Jnt]"
+  ],
+  "introduced_date": "2025-05-12",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-05-12",
+      "action": "Reported from the committee on Advanced Information Technology, the Internet and Cybersecurity",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "New draft of S29, S33 and S45",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-18",
+      "action": "Committee recommended ought to pass with an amendment, substituting a new draft, see S2608",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-18",
+      "action": "Order relative to subject matter adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Read second",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "New draft substituted, se S2608",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-12",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S2516.pdf",
+      "doc_id": 3234579
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": 2015083,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "SB521",
+  "title": "In judicial change of name, further providing for court approval required for change of name.",
+  "summary": "An Act amending Title 54 (Names) of the Pennsylvania Consolidated Statutes, in judicial change of name, further providing for court approval required for change of name.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/SB521/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/SB521/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/sb521",
+  "sponsors": [
+    "Katie Muth (D) [Sen]",
+    "Amanda Cappelletti (D) [Sen]",
+    "Timothy Kearney (D) [Sen]",
+    "Lindsey Williams (D) [Sen]",
+    "Nikil Saval (D) [Sen]",
+    "Sharif Street (D) [Sen]",
+    "Arthur Haywood (D) [Sen]",
+    "John Kane (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-26",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-26",
+      "action": "Referred to Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB0521/PN0490",
+      "doc_id": 3189959
+    }
+  ],
+  "committee": {
+    "committee_id": 77,
+    "chamber": "S",
+    "chamber_id": 4,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

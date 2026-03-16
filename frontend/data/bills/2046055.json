@@ -1,0 +1,89 @@
+{
+  "id": 2046055,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HCR56",
+  "title": "Recognizing the significance of equal pay and the disparity in wages paid to Latina women in comparison to White, non-Hispanic men.",
+  "summary": "Recognizing the significance of equal pay and the disparity in wages paid to Latina women in comparison to White, non-Hispanic men.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HCR56/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HCR56/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/56/all-info",
+  "sponsors": [
+    "Teresa Fernandez (D) [Rep]",
+    "Nanette Barragan (D) [Rep]",
+    "Joaquin Castro (D) [Rep]",
+    "Andrea Salinas (D) [Rep]",
+    "Sylvia Garcia (D) [Rep]",
+    "Lloyd Doggett (D) [Rep]",
+    "Linda Sanchez (D) [Rep]",
+    "Jesus Garcia (D) [Rep]",
+    "Juan Vargas (D) [Rep]",
+    "Kathy Castor (D) [Rep]",
+    "Jim Costa (D) [Rep]",
+    "Veronica Escobar (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Suzanne Bonamici (D) [Rep]",
+    "Adriano Espaillat (D) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "Salud Carbajal (D) [Rep]",
+    "Emanuel Cleaver (D) [Rep]",
+    "Rosa DeLauro (D) [Rep]",
+    "Raul Ruiz (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Alma Adams (D) [Rep]",
+    "Luz Rivas (D) [Rep]",
+    "Luis Correa (D) [Rep]",
+    "Nydia Velazquez (D) [Rep]",
+    "Vicente Gonzalez (D) [Rep]",
+    "Norma Torres (D) [Rep]",
+    "Gwen Moore (D) [Rep]",
+    "Derek Tran (D) [Rep]",
+    "Greg Landsman (D) [Rep]",
+    "Jasmine Crockett (D) [Rep]",
+    "Pablo Jose Hernandez (D) [Rep]",
+    "Andre Carson (D) [Rep]"
+  ],
+  "introduced_date": "2025-10-08",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-10-08",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Referred to the House Committee on Education and Workforce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-09",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hconres56/BILLS-119hconres56ih.pdf",
+      "doc_id": 3272477
+    }
+  ],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": [
+    "Labor and employment"
+  ]
+}

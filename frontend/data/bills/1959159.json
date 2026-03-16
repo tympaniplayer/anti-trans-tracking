@@ -1,0 +1,106 @@
+{
+  "id": 1959159,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "AB8",
+  "title": "Agreements for direct primary care.",
+  "summary": "An Act to create 146.78 and 600.01 (1) (b) 13. of the statutes; Relating to: agreements for direct primary care.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/AB8/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/AB8/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab8",
+  "sponsors": [
+    "Cindi Duchow (R) [Rep]",
+    "Robert Brooks (R) [Rep]",
+    "David Armstrong (R) [Rep]",
+    "Barbara Dittrich (R) [Rep]",
+    "Karen Hurd (R) [Rep]",
+    "David Murphy (R) [Rep]",
+    "Jerry O'Connor (R) [Rep]",
+    "Jessie Rodriguez (R) [Rep]",
+    "Chuck Wichgers (R) [Rep]",
+    "Rachael Cabral-Guevara (R) [Sen]",
+    "Chris Kapenga (R) [Sen]",
+    "Steve Nass (R) [Sen]",
+    "Patrick Testin (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-06",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-06",
+      "action": "Introduced",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Read first time and referred to Committee on Health, Aging and Long-Term Care",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Public hearing held",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Representative Kitchens added as a coauthor",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Senator Hutton added as a cosponsor",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Assembly Amendment 1 offered by Representative Subeck",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Executive action taken",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Report passage recommended by Committee on Health, Aging and Long-Term Care, Ayes 12, Noes 3",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Referred to committee on Rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-09",
+      "action": "Withdrawn from committee on Rules and referred to calendar of 5-13-2025",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Laid on the table",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-06",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AB8.pdf",
+      "doc_id": 3104743
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

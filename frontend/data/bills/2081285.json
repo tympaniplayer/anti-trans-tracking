@@ -1,0 +1,59 @@
+{
+  "id": 2081285,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "SB1866",
+  "title": "Schools; creating the Oklahoma Sexual Education Reform and Parental Rights Protection Act; requiring written consent for a student to participate in certain instruction. Effective date. Emergency.",
+  "summary": "Schools; creating the Oklahoma Sexual Education Reform and Parental Rights Protection Act; requiring written consent for a student to participate in certain instruction. Effective date. Emergency.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/SB1866/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/SB1866/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=sb1866&Session=2600",
+  "sponsors": [
+    "David Bullard (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Authored by Senator Bullard",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Second Reading referred to Education",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-15",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/SB/SB1866%20INT.PDF",
+      "doc_id": 3318417
+    }
+  ],
+  "committee": {
+    "committee_id": 1225,
+    "chamber": "S",
+    "chamber_id": 80,
+    "name": "Education"
+  },
+  "subjects": []
+}

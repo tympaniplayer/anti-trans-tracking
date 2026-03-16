@@ -1,0 +1,68 @@
+{
+  "id": 2036793,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB2006",
+  "title": "Fit to Serve Act",
+  "summary": "A bill to amend title 10, United States Code, to prohibit discrimination in the Armed Forces on the basis of gender identity, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB2006/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB2006/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2006/all-info",
+  "sponsors": [
+    "Elizabeth Warren (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "Kirsten Gillibrand (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "John Fetterman (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Andy Kim (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Brian Schatz (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Jacky Rosen (D) [Sen]",
+    "Catherine Cortez Masto (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-10",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-10",
+      "action": "Read twice and referred to the Committee on Armed Services.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-16",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s2006/BILLS-119s2006is.pdf",
+      "doc_id": 3256250
+    }
+  ],
+  "committee": {
+    "committee_id": 2320,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Armed Services"
+  },
+  "subjects": [
+    "Armed forces and national security"
+  ]
+}

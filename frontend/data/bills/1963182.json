@@ -1,0 +1,60 @@
+{
+  "id": 1963182,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB3819",
+  "title": "PROHIBIT SEX-REASSIGN-UNDER 18",
+  "summary": "Amends the Medical Practice Act of 1987. Provides that sex-reassignment procedures are prohibited for patients younger than 18 years of age. Provides that if sex-reassignment procedures are administered or performed on patients 18 years of age or older, consent must be provided as specified. Provides that the Department of Financial and Professional Regulation shall revoke the license of any physician who willfully or actively violates the prohibition on sex-reassignment procedures for patients younger than 18 years of age. Amends the Hospital Licensing Act and the Ambulatory Surgical Treatment Center Act. Adds a failure to comply with the provisions as grounds for fines, license denial, license suspension or revocation, or refusal to renew a hospital or facility's license. Amends the Illinois Administrative Procedure Act to provide for emergency rulemaking.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB3819/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB3819/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3819&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Tom Weber (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-07",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-07",
+      "action": "Filed with the Clerk by Rep. Tom Weber",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-07",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=202480&DocName=10400HB3819&DocNum=3819&DocTypeID=HB&LegID=162696&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3109639
+    }
+  ],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
+  "subjects": []
+}

@@ -1,0 +1,66 @@
+{
+  "id": 2042415,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB4777",
+  "title": "Civil rights: general discrimination; gender identity or expression; remove from categories protected under Elliott-Larsen civil rights act. Amends title & secs. 102, 103, 202, 203, 204, 205, 206, 207, 209, 302, 302a, 402, 502, 504, 505 & 506 of 1976 PA 453 (MCL 37.2102 et seq.).",
+  "summary": "Civil rights: general discrimination; gender identity or expression; remove from categories protected under Elliott-Larsen civil rights act. Amends title & secs. 102, 103, 202, 203, 204, 205, 206, 207, 209, 302, 302a, 402, 502, 504, 505 & 506 of 1976 PA 453 (MCL 37.2102 et seq.).",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB4777/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB4777/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4777",
+  "sponsors": [
+    "Brad Paquette (R) [Rep]"
+  ],
+  "introduced_date": "2025-08-20",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-08-20",
+      "action": "Introduced By Representative Rep. Brad Paquette",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-20",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-20",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-21",
+      "action": "Bill Electronically Reproduced 08/20/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-08-20",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4777.htm",
+      "doc_id": 3265797
+    }
+  ],
+  "committee": {
+    "committee_id": 899,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Government Operations"
+  },
+  "subjects": [
+    "Civil rights: general discrimination"
+  ]
+}

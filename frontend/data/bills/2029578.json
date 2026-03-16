@@ -1,0 +1,59 @@
+{
+  "id": 2029578,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3247",
+  "title": "SAFE Home Act Sensible Adoption For Every Home Act",
+  "summary": "To prohibit entities receiving Federal assistance that are involved in adoption or foster care placements from delaying or denying placements under certain conditions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3247/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3247/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3247/all-info",
+  "sponsors": [
+    "Mary Miller (R) [Rep]",
+    "Richard McCormick (R) [Rep]",
+    "Barry Loudermilk (R) [Rep]",
+    "Keith Self (R) [Rep]"
+  ],
+  "introduced_date": "2025-05-07",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-05-07",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Referred to the House Committee on Ways and Means.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-14",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3247/BILLS-119hr3247ih.pdf",
+      "doc_id": 3237616
+    }
+  ],
+  "committee": {
+    "committee_id": 2317,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Ways And Means"
+  },
+  "subjects": [
+    "Families"
+  ]
+}

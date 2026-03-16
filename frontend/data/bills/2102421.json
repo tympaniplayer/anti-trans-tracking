@@ -1,0 +1,104 @@
+{
+  "id": 2102421,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB627",
+  "title": "Commission on History, Culture, and Civics in Education - Establishment",
+  "summary": "Establishing the Commission on History, Culture, and Civics in Education to make recommendations to the State Board of Education and the State Department of Education to further the discovery, interpretation, and learning of the history, culture, and civics of the United States and Maryland and provide equitable learning outcomes consistent with certain provisions of the Blueprint for Maryland's Future.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB627/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB627/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0627?ys=2026RS",
+  "sponsors": [
+    "Gabriel Acevero (D) [Rep]",
+    "Tiffany Alston (D) [Rep]",
+    "Marlon Amprey (D) [Rep]",
+    "Kris Fair (D) [Rep]",
+    "Diana Fennell (D) [Rep]",
+    "Kevin Hornberger (R) [Rep]",
+    "Robbyn Lewis (D) [Rep]",
+    "Ashanti Martinez (D) [Rep]",
+    "Bernice Mireku-North (D) [Rep]",
+    "Kent Roberson (D) [Rep]",
+    "Malcolm Ruff (D) [Rep]",
+    "Gary Simmons (D) [Rep]",
+    "Kym Taylor (D) [Rep]",
+    "Jen Terrasa (D) [Rep]",
+    "Veronica Turner (D) [Rep]",
+    "Jamila Woods (D) [Rep]",
+    "Teresa Woorman (D) [Rep]",
+    "Caylin Young (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-30",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-30",
+      "action": "First Reading Ways and Means",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Hearing 2/18 at 1:00 p.m.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-30",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0627f.pdf",
+      "doc_id": 3342787
+    }
+  ],
+  "committee": {
+    "committee_id": 1928,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Ways and Means"
+  },
+  "subjects": [
+    "Primary and Secondary Education",
+    "Art, Music, and Cultural Affairs",
+    "Civil Rights and Social Equity",
+    "Committees and Commissions",
+    "Communications",
+    "Demographics",
+    "Disabilities",
+    "Early Childhood Education",
+    "Education",
+    "Education, State Board of",
+    "Education, State Department of",
+    "Electronic Government",
+    "Ethnic Affairs",
+    "Governor",
+    "Historical Matters",
+    "LGBTQIA+",
+    "meetings",
+    "Minorities",
+    "Open Government",
+    "Primary Schools",
+    "Public Information",
+    "Racial Matters",
+    "Recordings",
+    "Records",
+    "Religion",
+    "Reports",
+    "Salaries and Compensation",
+    "Secondary Schools",
+    "Telecommunications",
+    "Video",
+    "Virtual Environments",
+    "Women"
+  ]
+}

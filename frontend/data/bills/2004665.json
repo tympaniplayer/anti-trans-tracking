@@ -1,0 +1,72 @@
+{
+  "id": 2004665,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "HB172",
+  "title": "Prohibit mental health service to minors without parental consent",
+  "summary": "To amend sections 2151.461, 3129.03, 3313.473, 3798.07, and 3798.12 and to repeal section 5122.04 of the Revised Code to prohibit the provision of mental health services to minors without parental consent.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/HB172/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/HB172/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/hb172",
+  "sponsors": [
+    "Johnathan Newman (R) [Rep]",
+    "Gary Click (R) [Rep]",
+    "Rodney Creech (R) [Rep]",
+    "Levi Dean (R) [Rep]",
+    "Ron Ferguson (R) [Rep]",
+    "Sarah Fowler Arthur (R) [Rep]",
+    "Marilyn John (R) [Rep]",
+    "Roy Klopfenstein (R) [Rep]",
+    "Beth Lear (R) [Rep]",
+    "Ty Mathews (R) [Rep]",
+    "Melanie Miller (R) [Rep]",
+    "Diane Mullins (R) [Rep]",
+    "Kevin Ritter (R) [Rep]",
+    "Jodi Salvo (R) [Rep]",
+    "Josh Williams (R) [Rep]",
+    "Heidi Workman (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-12",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-12",
+      "action": "Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Referred to committee: Health",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb172/00_IN/pdf/",
+      "doc_id": 3171082
+    }
+  ],
+  "committee": {
+    "committee_id": 102,
+    "chamber": "H",
+    "chamber_id": 5,
+    "name": "Health"
+  },
+  "subjects": [
+    "Health and Human Services : Mental Health and Disabilities",
+    "House Health Committee"
+  ]
+}

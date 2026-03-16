@@ -1,0 +1,159 @@
+{
+  "id": 2004734,
+  "state": "ME",
+  "state_name": "Maine",
+  "bill_number": "LD1036",
+  "title": "An Act to Protect Recipients of Public Assistance from Housing Discrimination",
+  "summary": "An Act to Protect Recipients of Public Assistance from Housing Discrimination",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ME/bill/LD1036/2025",
+  "legiscan_url": "https://legiscan.com/ME/bill/LD1036/2025",
+  "state_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1036&snum=132",
+  "sponsors": [
+    "Ambureen Rana (D) [Rep]",
+    "Poppy Arford (D) [Rep]",
+    "Joseph Baldacci (D) [Sen]",
+    "Andrew Gattine (D) [Rep]",
+    "Cheryl Golek (D) [Rep]",
+    "Grayson Lookner (D) [Rep]",
+    "Eleanor Sato (D) [Rep]",
+    "David Sinclair (D) [Rep]",
+    "Holly Stover (D) [Rep]",
+    "Rachel Talbot Ross (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-09",
+  "session": "132nd Legislature",
+  "actions": [
+    {
+      "date": "2025-03-12",
+      "action": "Received by the Clerk of the House on March 12, 2025.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "The Bill was REFERRED to the Committee on HOUSING AND ECONOMIC DEVELOPMENT pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Work Session Held",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Voted: Divided Report",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Reported Out: OTP/ONTP",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "Reports READ.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "On motion of Representative GERE of Kennebunkport, the Majority Ought to Pass Report was ACCEPTED.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "ROLL CALL NO. 322 (Yeas 72 - Nays 70 - Absent 9 - Excused 0)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "The Bill was READ ONCE.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "The Bill was PASSED TO BE ENGROSSED.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-05",
+      "action": "Reports Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-05",
+      "action": "On motion by Senator CURRY of Waldo the Minority Ought Not to Pass Report ACCEPTED In NON-CONCURRENCE.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-05",
+      "action": "Sent down for concurrence",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "The House INSISTED on ACCEPTANCE of the Majority Ought to Pass Report and PASSAGE TO BE ENGROSSED",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "On motion by Senator PIERCE of Cumberland The Senate INSISTED on ACCEPTANCE of The Minority Ought Not To Pass Report.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "Placed in Legislative Files (DEAD)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-04",
+      "description": "Acc Maj Ought To Pass Rep RC #322",
+      "yea": 72,
+      "nay": 70,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0665&item=1&snum=132",
+      "doc_id": 3171151
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Housing",
+    "Assistance"
+  ]
+}

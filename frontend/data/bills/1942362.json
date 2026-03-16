@@ -1,0 +1,138 @@
+{
+  "id": 1942362,
+  "state": "KS",
+  "state_name": "Kansas",
+  "bill_number": "SB76",
+  "title": "Requiring employees of school districts and postsecondary educational institutions to use the name and pronouns consistent with a student's biological sex and birth certificate and authorizing a cause of action for violations therefor.",
+  "summary": "Requiring employees of school districts and postsecondary educational institutions to use the name and pronouns consistent with a student's biological sex and birth certificate and authorizing a cause of action for violations therefor.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education",
+    "identity_documents",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KS/bill/SB76/2025",
+  "legiscan_url": "https://legiscan.com/KS/bill/SB76/2025",
+  "state_url": "https://kslegislature.gov/li/b2025_26/measures/sb76/",
+  "sponsors": [
+    "Education [Sen]"
+  ],
+  "introduced_date": "2025-02-25",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-27",
+      "action": "Senate Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Senate Referred to Committee on Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Senate Hearing: Monday, February 10, 2025, 1:30 PM Room 144-S",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-17",
+      "action": "Senate Committee Report recommending bill be passed as amended by Committee on Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Senate Committee of the Whole - Committee Report be adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Senate Committee of the Whole - Motion to Amend - Offered by Senator Schmidt",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Senate Committee of the Whole - Amendment by Senator Schmidt was rejected Yea: 3 Nay: 31",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Senate Committee of the Whole - Be passed as amended",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Senate Emergency Final Action - Passed as amended; Yea: 26 Nay: 14",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "House Received and Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "House Referred to Committee on Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "House Hearing: Tuesday, March 4, 2025, 1:30 PM Room 218-N",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-07",
+      "action": "House Committee Report recommending bill be passed as amended by Committee on Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "House Stricken from Calendar by Rule 1507",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-19",
+      "description": "Senate Committee of the Whole - Amendment by  Senator Schmidt was rejected - Yea: 3 Nay: 31",
+      "yea": 3,
+      "nay": 31,
+      "passed": 0
+    },
+    {
+      "date": "2025-02-19",
+      "description": "Senate Emergency Final Action - Passed as amended - Yea: 26 Nay: 14",
+      "yea": 26,
+      "nay": 14,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-27",
+      "type": "Introduced",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/sb76_00_0000.pdf",
+      "doc_id": 3084011
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Amended",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/sb76_01_0000.pdf",
+      "doc_id": 3127197
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Amended",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/sb76_02_0000.pdf",
+      "doc_id": 3158700
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

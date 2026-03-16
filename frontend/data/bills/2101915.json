@@ -1,0 +1,80 @@
+{
+  "id": 2101915,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB5491",
+  "title": "Corrections: other; strip searches according to biological sex by MDOC facilities; require. Amends sec. 69a of 1953 PA 232 (MCL 791.269a).",
+  "summary": "Corrections: other; strip searches according to biological sex by MDOC facilities; require. Amends sec. 69a of 1953 PA 232 (MCL 791.269a).",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms",
+    "definitions"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB5491/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB5491/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5491",
+  "sponsors": [
+    "Gina Johnsen (R) [Rep]",
+    "Tom Kunse (R) [Rep]",
+    "Douglas Wozniak (R) [Rep]",
+    "Donni Steele (R) [Rep]",
+    "Alicia St. Germaine (R) [Rep]",
+    "Brian BeGole (R) [Rep]",
+    "Mike Mueller (R) [Rep]",
+    "Tim Kelly (R) [Rep]",
+    "Luke Meerman (R) [Rep]",
+    "Jay DeBoyer (R) [Rep]",
+    "Gregory Alexander (R) [Rep]",
+    "Jennifer Wortz (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-29",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "action": "Introduced By Representative Rep. Gina Johnsen",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Referred To Committee On Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Bill Electronically Reproduced 01/29/2026",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-29",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2026-HIB-5491.htm",
+      "doc_id": 3341189
+    }
+  ],
+  "committee": {
+    "committee_id": 821,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Corrections: other",
+    "Corrections: state facilities",
+    "Corrections: prisoners"
+  ]
+}

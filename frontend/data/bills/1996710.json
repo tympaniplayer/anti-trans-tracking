@@ -1,0 +1,73 @@
+{
+  "id": 1996710,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB2149",
+  "title": "Relating to the implementation of diversity, equity, and inclusion initiatives by providers of electric service.",
+  "summary": "Relating to the implementation of diversity, equity, and inclusion initiatives by providers of electric service.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB2149/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB2149/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2149",
+  "sponsors": [
+    "Paul Bettencourt (R) [Sen]",
+    "Charles Creighton (R) [Sen]",
+    "Phil King (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-10",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-10",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Referred to Business & Commerce",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-10",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB02149I.htm",
+      "doc_id": 3161733
+    }
+  ],
+  "committee": {
+    "committee_id": 1904,
+    "chamber": "S",
+    "chamber_id": 92,
+    "name": "Business & Commerce"
+  },
+  "subjects": [
+    "Human Relations",
+    "Labor",
+    "Labor--Management Relations",
+    "Utilities",
+    "Utilities--General",
+    "ATTORNEY GENERAL"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": 1999174,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S1293",
+  "title": "Resolve establishing a special commission on paid family and medical leave for public employees",
+  "summary": "For legislation to establish a special commission on paid family and medical leave for public employees. Labor and Workforce Development.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S1293/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S1293/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S1293",
+  "sponsors": [
+    "Joanne Comerford (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Labor and Workforce Development",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-10",
+      "action": "Hearing scheduled for 07/22/2025 from 10:00 AM-01:00 PM in B-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-02",
+      "action": "Bill reported favorably by committee, as changed and referred to the Joint Committee on Rules of the two branches, acting concurrently",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "Committee recommended ought to pass and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S1293.pdf",
+      "doc_id": 3164454
+    }
+  ],
+  "committee": {
+    "committee_id": 746,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

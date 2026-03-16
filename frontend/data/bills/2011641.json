@@ -1,0 +1,55 @@
+{
+  "id": 2011641,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB987",
+  "title": "In miscellaneous provisions relating to institutions of higher education, providing for prohibitions regarding ideological oaths or statements, for prohibition on diversity, equity and inclusion offices and employees, for statements required to be included in mission statement, bylaws, faculty handbook and student handbook, for certain mandatory training prohibited, for revoking tenure for diversity, equity and inclusion violations and for spending restricted; and imposing penalties.",
+  "summary": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in miscellaneous provisions relating to institutions of higher education, providing for prohibitions regarding ideological oaths or statements, for prohibition on diversity, equity and inclusion offices and employees, for statements required to be included in mission statement, bylaws, faculty handbook and student handbook, for certain mandatory training prohibited, for revoking tenure for diversity, equity and inclusion violations and for spending restricted; and imposing penalties.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB987/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB987/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb987",
+  "sponsors": [
+    "Milou Mackenzie (R) [Rep]",
+    "Joe Hamm (R) [Rep]",
+    "Robert Kauffman (R) [Rep]",
+    "Stephenie Scialabba (R) [Rep]",
+    "Andrew Kuzma (R) [Rep]",
+    "Jacob Banta (R) [Rep]",
+    "David Zimmerman (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-24",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-24",
+      "action": "Referred to Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB0987/PN1079",
+      "doc_id": 3187162
+    }
+  ],
+  "committee": {
+    "committee_id": 44,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "Education"
+  },
+  "subjects": []
+}

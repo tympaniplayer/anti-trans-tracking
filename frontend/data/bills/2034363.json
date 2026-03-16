@@ -1,0 +1,59 @@
+{
+  "id": 2034363,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "K00626",
+  "title": "Commemorating the 33rd Anniversary of Queens LGBTQ Pride Parade on June 1, 2025",
+  "summary": "Commemorating the 33rd Anniversary of Queens LGBTQ Pride Parade on June 1, 2025",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/K00626/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/K00626/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/K626",
+  "sponsors": [
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Rodneyse Bichotte Hermelyn (D) [Rep]",
+    "Catalina Cruz (D) [Rep]",
+    "Deborah Glick (D) [Rep]",
+    "Judy Griffin (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Donna Lupardo (D) [Rep]",
+    "John McDonald (D) [Rep]",
+    "Maryjane Shimsky (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "David Weprin (D) [Rep]"
+  ],
+  "introduced_date": "2025-05-29",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-29",
+      "action": "introduced",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "adopted",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-01",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=K00626&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#K00626",
+      "doc_id": 3247722
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

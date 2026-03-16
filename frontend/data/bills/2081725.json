@@ -1,0 +1,59 @@
+{
+  "id": 2081725,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "HB3798",
+  "title": "State health insurance coverage; gender transition procedures; effective date.",
+  "summary": "State health insurance coverage; gender transition procedures; effective date.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/HB3798/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/HB3798/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=hb3798&Session=2600",
+  "sponsors": [
+    "Chris Sneed (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Authored by Representative Sneed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Second Reading referred to Rules",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-15",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/hB/HB3798%20INT.PDF",
+      "doc_id": 3318906
+    }
+  ],
+  "committee": {
+    "committee_id": 1216,
+    "chamber": "H",
+    "chamber_id": 79,
+    "name": "Rules"
+  },
+  "subjects": []
+}

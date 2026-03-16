@@ -1,0 +1,104 @@
+{
+  "id": 1895286,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "H3381",
+  "title": "Defense of Children's Innocence Act",
+  "summary": "Amend The South Carolina Code Of Laws By Enacting The \"defense Of Children's Innocence Act\" By Adding Section 6-1-200 So As To Provide That Any Business Where Drag Shows Are Held Is Deemed To Be A Sexually Oriented Business For All Local Ordinances Relating To A Sexually Oriented Business; By Adding Section 6-1-210 So As To Prohibit A State Agency, Political Subdivision, Or Any Entity That Is Supported In Whole Or In Part By Public Funds From Using Any Public Funds To Host Or Provide A Drag Show; And By Amending Section 16-15-385, Relating To Disseminating Harmful Materials To Minors, So As To Include The Offense Of Allowing A Minor To View A Drag Show.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "drag"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/H3381/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/H3381/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3381&session=126&summary=B",
+  "sponsors": [
+    "Thomas Beach (R) [Rep]",
+    "Brian Lawson (R) [Rep]",
+    "John Mccravy (R) [Rep]",
+    "William Chumley (R) [Rep]",
+    "Weston Newton (R) [Rep]",
+    "David Vaughan (R) [Rep]",
+    "Cody Mitchell (R) [Rep]",
+    "Luke Rankin (R) [Rep]",
+    "Steven Long (R) [Rep]",
+    "Melissa Oremus (R) [Rep]",
+    "Daniel Gibson (R) [Rep]",
+    "James Burns (R) [Rep]",
+    "Sarita Edgerton (R) [Rep]",
+    "Phillip Bowers (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-14",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2024-12-05",
+      "action": "Prefiled",
+      "chamber": "H"
+    },
+    {
+      "date": "2024-12-05",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Introduced and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-16",
+      "action": "Member(s) request name added as sponsor: Vaughan",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Member(s) request name added as sponsor: C.Mitchell, Rankin, Long, Oremus, Gibson, Burns, Edgerton",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Scrivener's error corrected",
+      "chamber": ""
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Member(s) request name added as sponsor: Bowers",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-12-05",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3381_20241205.htm",
+      "doc_id": 3031380
+    },
+    {
+      "date": "2025-02-05",
+      "type": "Draft",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3381_20250205.htm",
+      "doc_id": 3101496
+    }
+  ],
+  "committee": {
+    "committee_id": 708,
+    "chamber": "H",
+    "chamber_id": 85,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

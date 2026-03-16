@@ -1,0 +1,66 @@
+{
+  "id": 2118265,
+  "state": "WV",
+  "state_name": "West Virginia",
+  "bill_number": "HB5674",
+  "title": "Prohibiting civil rights violations based on disability, gender identity or sexual orientation",
+  "summary": "The purpose of this bill is to prohibit civil rights violations based on disability gender identity, or sexual orientation. The bill provides that evidence of constitutionally protected speech or associations is not admissible in criminal prosecutions except in certain situations. The bill provides for sentencing alternatives for persons convicted of violations. And, the amendments to this section are to be known as \"Angel's Law\".",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WV/bill/HB5674/2026",
+  "legiscan_url": "https://legiscan.com/WV/bill/HB5674/2026",
+  "state_url": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5674&year=2026&sessiontype=RS&btype=bill",
+  "sponsors": [
+    "John Williams (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-17",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-17",
+      "action": "Filed for introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "To Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "To House Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb5674%20intr.htm&yr=2026&sesstype=RS&i=5674",
+      "doc_id": 3364815
+    }
+  ],
+  "committee": {
+    "committee_id": 11,
+    "chamber": "H",
+    "chamber_id": 1,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crime"
+  ]
+}

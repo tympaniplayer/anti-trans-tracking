@@ -1,0 +1,56 @@
+{
+  "id": 2064789,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "HB2635",
+  "title": "Requires the department of social services to submit a state plan amendment or seek any necessary waivers requesting approval for MO HealthNet coverage of fertility treatments",
+  "summary": "Requires the department of social services to submit a state plan amendment or seek any necessary waivers requesting approval for MO HealthNet coverage of fertility treatments",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/HB2635/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/HB2635/2026",
+  "state_url": "https://house.mo.gov/Bill.aspx?bill=HB2635&year=2026&code=R",
+  "sponsors": [
+    "Marty Murray (D) [Rep]",
+    "Ladonna Appelbaum (D) [Rep]",
+    "Connie Steinmetz (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-31",
+      "action": "Prefiled (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Read First Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Read Second Time (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-31",
+      "type": "Introduced",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5962H.01I.pdf",
+      "doc_id": 3298855
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

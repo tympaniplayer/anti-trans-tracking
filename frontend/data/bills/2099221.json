@@ -1,0 +1,89 @@
+{
+  "id": 2099221,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A978",
+  "title": "Includes Sikhs as protected class in bias intimidation law; appropriates $100,000.",
+  "summary": "Includes Sikhs as protected class in bias intimidation law; appropriates $100,000.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A978/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A978/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A978",
+  "sponsors": [
+    "Carol Murphy (D) [Rep]",
+    "Shanique Speight (D) [Rep]",
+    "Sterley Stanley (D) [Rep]",
+    "Wayne DeAngelo (D) [Rep]",
+    "Clinton Calabrese (D) [Rep]",
+    "Joe Danielsen (D) [Rep]",
+    "Mitchelle Drulis (D) [Rep]",
+    "Verlina Reynolds-Jackson (D) [Rep]",
+    "Tennille McCoy (D) [Rep]",
+    "Rosy Bagolie (D) [Rep]",
+    "Andrea Katz (D) [Rep]",
+    "Cody Miller (D) [Rep]",
+    "Gabriel Rodriguez (D) [Rep]",
+    "Heather Simmons (D) [Rep]",
+    "William Spearman (D) [Rep]",
+    "David Bailey (D) [Rep]",
+    "Cleopatra Tucker (D) [Rep]",
+    "Dan Hutchison (D) [Rep]",
+    "Alexander Schnall (D) [Rep]",
+    "Christopher Tully (D) [Rep]",
+    "Gary Schaer (D) [Rep]",
+    "Yvonne Lopez (D) [Rep]",
+    "William Sampson (D) [Rep]",
+    "Linda Carter (D) [Rep]",
+    "William Moen (D) [Rep]",
+    "James Kennedy (D) [Rep]",
+    "Lisa Swain (D) [Rep]",
+    "Gerard Scharfenberger (R) [Rep]",
+    "Victoria Flynn (R) [Rep]",
+    "Michael Venezia (D) [Rep]",
+    "Melinda Kane (D) [Rep]",
+    "Al Abdelaziz (D) [Rep]",
+    "Alixon Collazos-Gill (D) [Rep]",
+    "Roy Freiman (D) [Rep]",
+    "Kenyatta Stewart (D) [Rep]",
+    "Maureen Rowan (D) [Rep]",
+    "Ed Rodriguez (D) [Rep]",
+    "Jerry Walker (D) [Rep]",
+    "Anthony Angelozzi (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Judiciary Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-12",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A1000/978_I1.HTM",
+      "doc_id": 3338306
+    }
+  ],
+  "committee": {
+    "committee_id": 862,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Judiciary"
+  ]
+}

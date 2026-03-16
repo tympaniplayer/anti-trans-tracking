@@ -1,0 +1,59 @@
+{
+  "id": 1999244,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S860",
+  "title": "Establishing medicare for all in Massachusetts",
+  "summary": "For legislation to establish medicare for all in Massachusetts. Health Care Financing.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S860/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S860/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S860",
+  "sponsors": [
+    "James Eldridge (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Health Care Financing",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-06",
+      "action": "Hearing scheduled for 06/18/2025 from 11:00 AM-03:00 PM in Gardner Auditorium",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Accompanied a study order, see S2931",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S860.pdf",
+      "doc_id": 3164523
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

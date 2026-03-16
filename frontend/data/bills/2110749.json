@@ -1,0 +1,55 @@
+{
+  "id": 2110749,
+  "state": "KS",
+  "state_name": "Kansas",
+  "bill_number": "HB2741",
+  "title": "Establishing the Kansas medical rights of conscience act to permit a healthcare provider to refuse to provide transgender healthcare services if such services violate the provider's conscience and creating a civil cause of action for violation of this act.",
+  "summary": "Establishing the Kansas medical rights of conscience act to permit a healthcare provider to refuse to provide transgender healthcare services if such services violate the provider's conscience and creating a civil cause of action for violation of this act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "religious_exemptions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KS/bill/HB2741/2025",
+  "legiscan_url": "https://legiscan.com/KS/bill/HB2741/2025",
+  "state_url": "https://kslegislature.gov/li/b2025_26/measures/hb2741/",
+  "sponsors": [
+    "Health and Human Services [Rep]"
+  ],
+  "introduced_date": "2026-02-06",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "action": "House Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "House Referred to Committee on Health and Human Services",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/hb2741_00_0000.pdf",
+      "doc_id": 3351715
+    }
+  ],
+  "committee": {
+    "committee_id": 1382,
+    "chamber": "H",
+    "chamber_id": 41,
+    "name": "Health and Human Services"
+  },
+  "subjects": []
+}

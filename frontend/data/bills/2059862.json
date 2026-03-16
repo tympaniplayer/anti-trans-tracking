@@ -1,0 +1,294 @@
+{
+  "id": 2059862,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "H4756",
+  "title": "South Carolina Student Physical Privacy Act",
+  "summary": "Amend The South Carolina Code Of Laws By Enacting The \"south Carolina Student Physical Privacy Act\" By Adding Article 5 To Chapter 23, Title 59 So As To Provide Various Measures To Promote And Ensure Privacy Among Sexes Using Certain Restrooms And Changing Facilities In Public Schools And Public Institutions Of Higher Learning, And To Provide Penalties For Noncompliance, Among Other Things.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "bathrooms",
+    "education"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/H4756/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/H4756/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4756&session=126&summary=B",
+  "sponsors": [
+    "Thomas Pope (R) [Rep]",
+    "William Bailey (R) [Rep]",
+    "Nathan Ballentine (R) [Rep]",
+    "Gary Brewer (R) [Rep]",
+    "Thomas Brittain (R) [Rep]",
+    "Joseph Bustos (R) [Rep]",
+    "Micajah Caskey (R) [Rep]",
+    "Don Chapman (R) [Rep]",
+    "Heather Crawford (R) [Rep]",
+    "Sylleste Davis (R) [Rep]",
+    "Adam Duncan (R) [Rep]",
+    "Cally Forrest (R) [Rep]",
+    "Craig Gagnon (R) [Rep]",
+    "Gil Gatch (R) [Rep]",
+    "Doug Gilliam (R) [Rep]",
+    "Val Guest (R) [Rep]",
+    "Kevin Hardee (R) [Rep]",
+    "Charles Hartz (R) [Rep]",
+    "William Herbkersman (R) [Rep]",
+    "William Hewitt (R) [Rep]",
+    "Davey Hiott (R) [Rep]",
+    "William Hixon (R) [Rep]",
+    "Harriet Holman (R) [Rep]",
+    "Jeffrey Johnson (R) [Rep]",
+    "Brian Lawson (R) [Rep]",
+    "Randy Ligon (R) [Rep]",
+    "Steven Long (R) [Rep]",
+    "Phillip Lowe (R) [Rep]",
+    "David Martin (R) [Rep]",
+    "John Mccravy (R) [Rep]",
+    "Timothy McGinnis (R) [Rep]",
+    "Cody Mitchell (R) [Rep]",
+    "Travis Moore (R) [Rep]",
+    "Weston Newton (R) [Rep]",
+    "Melissa Oremus (R) [Rep]",
+    "Fawn Pedalino (R) [Rep]",
+    "Luke Rankin (R) [Rep]",
+    "Robby Robbins (R) [Rep]",
+    "Blake Sanders (R) [Rep]",
+    "Carla Schuessler (R) [Rep]",
+    "Heath Sessions (R) [Rep]",
+    "Murrell Smith (R) [Rep]",
+    "Marvin Smith (R) [Rep]",
+    "Bill Taylor (R) [Rep]",
+    "David Vaughan (R) [Rep]",
+    "William Whitmire (R) [Rep]",
+    "Paul Wickensimer (R) [Rep]",
+    "Mark Willis (R) [Rep]",
+    "Christopher Wooten (R) [Rep]",
+    "Richard Yow (R) [Rep]",
+    "Brandon Newton (R) [Rep]",
+    "William Chumley (R) [Rep]",
+    "Sarita Edgerton (R) [Rep]",
+    "Josiah Magnuson (R) [Rep]",
+    "Jackie Terribile (R) [Rep]",
+    "Joe White (R) [Rep]",
+    "Dianne Mitchell (R) [Rep]",
+    "April Cromer (R) [Rep]",
+    "Lee Gilreath (R) [Rep]",
+    "Chris Huff (R) [Rep]",
+    "Kathy Landing (R) [Rep]",
+    "John Lastinger (R) [Rep]",
+    "James Teeple (R) [Rep]",
+    "Brandon Guffey (R) [Rep]",
+    "Donald McCabe (R) [Rep]",
+    "Daniel Gibson (R) [Rep]",
+    "Phillip Bowers (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2025-12-16",
+      "action": "Prefiled",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-16",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Introduced and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Member(s) request name added as sponsor: White, D.Mitchell, Cromer, Gilreath, Huff",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Member(s) request name added as sponsor: Landing",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Member(s) request name added as sponsor: Lastinger, Teeple, Guffey, McCabe",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Committee report: Favorable with amendment Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Member(s) request name added as sponsor: Gibson",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Requests for debate-Rep",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Member(s) request name added as sponsor: Bowers",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Read second time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Roll call Yeas-96 Nays-19",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Read third time and sent to Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Scrivener's error corrected",
+      "chamber": ""
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Introduced and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Referred to Committee on Education",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-28",
+      "description": "House: Table Amendment 27 Amendment Number 27",
+      "yea": 82,
+      "nay": 30,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-28",
+      "description": "House: Table Amendment 28 Amendment Number 28",
+      "yea": 80,
+      "nay": 30,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-28",
+      "description": "House: Table Amendment 2 Amendment Number 2",
+      "yea": 80,
+      "nay": 31,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-28",
+      "description": "House: Table Amendment 3 Amendment Number 3",
+      "yea": 86,
+      "nay": 30,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-28",
+      "description": "House: Cloture",
+      "yea": 83,
+      "nay": 32,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-28",
+      "description": "House: Adjourn For The Day",
+      "yea": 27,
+      "nay": 87,
+      "passed": 0
+    },
+    {
+      "date": "2026-01-28",
+      "description": "House: Table Amendment 5 Amendment Number 5",
+      "yea": 85,
+      "nay": 32,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-28",
+      "description": "House: Table Amendment 6 Amendment Number 6",
+      "yea": 85,
+      "nay": 30,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-29",
+      "description": "House: Passage Of Bill",
+      "yea": 96,
+      "nay": 19,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-12-17",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4756_20251217.htm",
+      "doc_id": 3291920
+    },
+    {
+      "date": "2026-01-22",
+      "type": "Comm Sub",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4756_20260122.htm",
+      "doc_id": 3328265
+    },
+    {
+      "date": "2026-01-28",
+      "type": "Amended",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4756_20260128.htm",
+      "doc_id": 3339393
+    },
+    {
+      "date": "2026-01-29",
+      "type": "Amended",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4756_20260129.htm",
+      "doc_id": 3341253
+    },
+    {
+      "date": "2026-02-03",
+      "type": "Amended",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4756_20260203.htm",
+      "doc_id": 3347055
+    }
+  ],
+  "committee": {
+    "committee_id": 720,
+    "chamber": "S",
+    "chamber_id": 86,
+    "name": "Education"
+  },
+  "subjects": []
+}

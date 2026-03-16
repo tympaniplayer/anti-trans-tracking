@@ -1,0 +1,62 @@
+{
+  "id": 2031927,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3406",
+  "title": "Readiness Over Wokeness Act",
+  "summary": "To prohibit individuals with gender dysphoria from serving as members of the Armed Forces, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3406/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3406/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3406/all-info",
+  "sponsors": [
+    "Barry Moore (R) [Rep]",
+    "Harriet Hageman (R) [Rep]",
+    "Anna Luna (R) [Rep]",
+    "Warren Davidson (R) [Rep]",
+    "Marjorie Greene (R) [Rep]",
+    "Andrew Clyde (R) [Rep]",
+    "Keith Self (R) [Rep]"
+  ],
+  "introduced_date": "2025-05-14",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-05-14",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Referred to the House Committee on Armed Services.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-20",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3406/BILLS-119hr3406ih.pdf",
+      "doc_id": 3241642
+    }
+  ],
+  "committee": {
+    "committee_id": 2299,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Armed Services"
+  },
+  "subjects": [
+    "Armed forces and national security"
+  ]
+}

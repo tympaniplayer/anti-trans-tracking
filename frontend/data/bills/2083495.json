@@ -1,0 +1,197 @@
+{
+  "id": 2083495,
+  "state": "AZ",
+  "state_name": "Arizona",
+  "bill_number": "HCR2044",
+  "title": "Preferential treatment; discrimination; prohibited acts",
+  "summary": "Preferential treatment; discrimination; prohibited acts",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AZ/bill/HCR2044/2026",
+  "legiscan_url": "https://legiscan.com/AZ/bill/HCR2044/2026",
+  "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/84743",
+  "sponsors": [
+    "Steve Montenegro (R) [Rep]",
+    "Leo Biasiucci (R) [Rep]",
+    "Walter Blackman (R) [Rep]",
+    "Selina Bliss (R) [Rep]",
+    "Michael Carbone (R) [Rep]",
+    "Neal Carter (R) [Rep]",
+    "Pamela Carter (R) [Rep]",
+    "Joseph Chaplik (R) [Rep]",
+    "Lupe Diaz (R) [Rep]",
+    "Lisa Fink (R) [Rep]",
+    "John Gillette (R) [Rep]",
+    "Matt Gress (R) [Rep]",
+    "Gail Griffin (R) [Rep]",
+    "Ralph Heap (R) [Rep]",
+    "Rachel Keshel (R) [Rep]",
+    "Alexander Kolodin (R) [Rep]",
+    "David Livingston (R) [Rep]",
+    "Chris Lopez (R) [Rep]",
+    "David Marshall (R) [Rep]",
+    "Teresa Martinez (R) [Rep]",
+    "Quang Nguyen (R) [Rep]",
+    "Justin Olson (R) [Rep]",
+    "Michele Pena (R) [Rep]",
+    "Beverly Pingerelli (R) [Rep]",
+    "Tony Rivero (R) [Rep]",
+    "James Taylor (R) [Rep]",
+    "Michael Way (R) [Rep]",
+    "Jeff Weninger (R) [Rep]",
+    "Julie Willoughby (R) [Rep]",
+    "Justin Wilmeth (R) [Rep]",
+    "Frank Carroll (R) [Sen]",
+    "Janae Shamp (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-26",
+  "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
+  "actions": [
+    {
+      "date": "2026-01-22",
+      "action": "Introduced in House and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Assigned to House GOV Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Assigned to House RULES Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "House read second time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "House GOV Committee action: Do Pass, voting: (4-3-0-0-0-0)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "House RULES Committee action: constitutional and in proper form, voting: (7-0-0-1-0-0)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "House consent calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "House majority caucus: Do pass",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "House minority caucus: Do pass",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "House Committee of the Whole action: Do Pass",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "House third reading PASSED voting: (31-23-6-0)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Transmit to Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Introduced in Senate and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Assigned to Senate GOV Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Assigned to Senate RULES Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Senate read second time",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-04",
+      "description": "House Government Committee Action (HELD)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-11",
+      "description": "House Government Committee Action (DP)",
+      "yea": 4,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-16",
+      "description": "House Rules Committee Action (C&P)",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-24",
+      "description": "House - Committee of the Whole (DP)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-26",
+      "description": "House - Third Reading",
+      "yea": 31,
+      "nay": 23,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-15",
+      "type": "Introduced",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/hcr2044p.htm",
+      "doc_id": 3320790
+    },
+    {
+      "date": "2026-02-24",
+      "type": "Engrossed",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/hcr2044h.htm",
+      "doc_id": 3374789
+    }
+  ],
+  "committee": {
+    "committee_id": 1109,
+    "chamber": "S",
+    "chamber_id": 16,
+    "name": "Government Institutions"
+  },
+  "subjects": []
+}

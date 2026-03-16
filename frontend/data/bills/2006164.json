@@ -1,0 +1,78 @@
+{
+  "id": 2006164,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB4982",
+  "title": "Relating to hate crimes, including criminal and civil liability for those crimes and the hate crime prevention grant program; increasing a criminal penalty.",
+  "summary": "Relating to hate crimes, including criminal and civil liability for those crimes and the hate crime prevention grant program; increasing a criminal penalty.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB4982/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB4982/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB4982",
+  "sponsors": [
+    "Vikki Goodwin (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-13",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-13",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Referred to State Affairs",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-13",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB04982I.htm",
+      "doc_id": 3173208
+    }
+  ],
+  "committee": {
+    "committee_id": 1895,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "Civil Remedies & Liabilities",
+    "Crimes",
+    "Crimes--Against Persons",
+    "Crimes--Against Persons--General",
+    "Crimes--Against Persons--Sexual",
+    "Crimes--Miscellaneous",
+    "Criminal Procedure",
+    "Criminal Procedure--General",
+    "Criminal Procedure--Sentencing & Punishment",
+    "State Finances",
+    "State Finances--Management & Control",
+    "CRIME VICTIMS",
+    "HATE CRIMES",
+    "STAFF DEVELOPMENT & TRAINING",
+    "ATTORNEY GENERAL",
+    "COMMISSION ON LAW ENFORCEMENT, TEXAS",
+    "TEXAS HATE CRIMES PREVENTION & VICTIM PROTECTION ACT",
+    "PUBLIC SAFETY, DEPARTMENT OF"
+  ]
+}

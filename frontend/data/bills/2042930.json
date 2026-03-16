@@ -1,0 +1,104 @@
+{
+  "id": 2042930,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "AB400",
+  "title": "A civil cause of action for a minor injured by a gender transition procedure.",
+  "summary": "An Act to create 895.039 of the statutes; Relating to: a civil cause of action for a minor injured by a gender transition procedure.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/AB400/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/AB400/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab400",
+  "sponsors": [
+    "Amanda Nedweski (R) [Rep]",
+    "David Steffen (R) [Rep]",
+    "Scott Allen (R) [Rep]",
+    "Elijah Behnke (R) [Rep]",
+    "Lindee Brill (R) [Rep]",
+    "Barbara Dittrich (R) [Rep]",
+    "Chanz Green (R) [Rep]",
+    "Dan Knodl (R) [Rep]",
+    "Rob Kreibich (R) [Rep]",
+    "Dave Maxey (R) [Rep]",
+    "David Murphy (R) [Rep]",
+    "Jeffrey Mursau (R) [Rep]",
+    "Jerry O'Connor (R) [Rep]",
+    "William Penterman (R) [Rep]",
+    "Jim Piwowarczyk (R) [Rep]",
+    "Chuck Wichgers (R) [Rep]",
+    "Rob Hutton (R) [Sen]",
+    "Chris Kapenga (R) [Sen]",
+    "Julian Bradley (R) [Sen]",
+    "Steve Nass (R) [Sen]"
+  ],
+  "introduced_date": "2025-08-29",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-08-29",
+      "action": "Introduced",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-08-29",
+      "action": "Read first time and referred to Committee on Judiciary",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Public hearing held",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Executive action taken",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Report passage recommended by Committee on Judiciary, Ayes 5, Noes 3",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Referred to committee on Rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Placed on calendar 2-12-2026 by Committee on Rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Assembly Amendment 1 offered by Representative Nedweski",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Laid on the table",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-08-29",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AB400.pdf",
+      "doc_id": 3266778
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

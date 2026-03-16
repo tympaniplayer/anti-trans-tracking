@@ -1,0 +1,65 @@
+{
+  "id": 2069989,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB6063",
+  "title": "Correcting terminology to align the revised code of Washington with recent reorganization at the department of social and health services.",
+  "summary": "Correcting terminology to align the revised code of Washington with recent reorganization at the department of social and health services.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB6063/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB6063/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=6063&Year=2025&Initiative=false",
+  "sponsors": [
+    "Jessica Bateman (D) [Sen]",
+    "Manka Dhingra (D) [Sen]",
+    "Noel Frame (D) [Sen]",
+    "T'wina Nobles (D) [Sen]",
+    "Yasmin Trudeau (D) [Sen]",
+    "Lisa Wellman (D) [Sen]",
+    "Claire Wilson (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "action": "Prefiled for introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "First reading, referred to Human Services.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-19",
+      "action": "Public hearing in the Senate Committee on Human Services at 1:30 PM.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/6063.pdf",
+      "doc_id": 3304838
+    }
+  ],
+  "committee": {
+    "committee_id": 4678,
+    "chamber": "S",
+    "chamber_id": 98,
+    "name": "Human Services"
+  },
+  "subjects": []
+}

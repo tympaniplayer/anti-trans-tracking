@@ -1,0 +1,163 @@
+{
+  "id": 1914900,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S01633",
+  "title": "Provides additional protections for sensitive health information; requires all health information networks, electronic health record systems, and health care providers to provide patients with a right to restrict the disclosures of such patient's health information; defines terms; provides for exceptions; clarifies that such provisions shall not create, establish or authorize a new private cause of an action by an aggrieved person against a health information networks, electronic health records systems, and health care providers.",
+  "summary": "Provides additional protections for sensitive health information; requires all health information networks, electronic health record systems, and health care providers to provide patients with a right to restrict the disclosures of such patient's health information; defines terms; provides for exceptions; clarifies that such provisions shall not create, establish or authorize a new private cause of an action by an aggrieved person against a health information networks, electronic health records systems, and health care providers.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "healthcare",
+    "definitions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S01633/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S01633/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S1633",
+  "sponsors": [
+    "Nathalia Fernandez (D) [Sen]",
+    "Cordell Cleare (D) [Sen]",
+    "Leroy Comrie (D) [Sen]",
+    "Patricia Fahy (D) [Sen]",
+    "Kristen Gonzalez (D) [Sen]",
+    "Andrew Gounardes (D) [Sen]",
+    "Peter Harckham (D) [Sen]",
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "Liz Krueger (D) [Sen]",
+    "John Liu (D) [Sen]",
+    "Julia Salazar (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-27",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-13",
+      "action": "REFERRED TO HEALTH",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "1ST REPORT CAL.1082",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "ADVANCED TO THIRD READING",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "COMMITTED TO RULES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO HEALTH",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "AMEND (T) AND RECOMMIT TO HEALTH",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "PRINT NUMBER 1633A",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "REPORTED AND COMMITTED TO RULES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "ORDERED TO THIRD READING CAL.140",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "referred to health",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-13",
+      "description": "Senate Health Committee Vote",
+      "yea": 9,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-27",
+      "description": "Senate Health Committee Vote",
+      "yea": 9,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-27",
+      "description": "Senate Rules Committee Vote",
+      "yea": 16,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-27",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 37,
+      "nay": 21,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-27",
+      "description": "Senate Rules Committee Vote",
+      "yea": 16,
+      "nay": 4,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-13",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S01633&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S01633",
+      "doc_id": 3051998
+    },
+    {
+      "date": "2025-01-13",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S01633&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S01633A",
+      "doc_id": 3305755
+    }
+  ],
+  "committee": {
+    "committee_id": 369,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Health"
+  },
+  "subjects": []
+}

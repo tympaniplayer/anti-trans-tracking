@@ -1,0 +1,88 @@
+{
+  "id": 1928746,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "B26-0033",
+  "title": "Contract No. CW122630 with Patriot Harley Davidson Approval and Payment Authorization Emergency Act of 2025",
+  "summary": "Contract No. CW122630 with Patriot Harley Davidson Approval and Payment Authorization Emergency Act of 2025",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/B26-0033/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/B26-0033/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/B26-0033",
+  "sponsors": [
+    "Phil Mendelson (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-20",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Retained by the Council",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Final Reading, CC",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "Transmitted to Mayor, Response Due on February 26, 2025",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Signed by the Mayor and Enacted with Act Number A26-0008, Expires on May 21, 2025",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Returned from Mayor",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "Act A26-0008 Published in DC Register Vol 72 and Page 002004, Expires on May 21, 2025",
+      "chamber": "C"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-04",
+      "description": "Final Reading, CC",
+      "yea": 12,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/56899/Introduction/B26-0033-Introduction.pdf",
+      "doc_id": 3066079
+    },
+    {
+      "date": "2025-02-04",
+      "type": "Enrolled",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/56899/Meeting1/Enrollment/B26-0033-Enrollment1.pdf",
+      "doc_id": 3110486
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

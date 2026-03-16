@@ -1,0 +1,79 @@
+{
+  "id": 2000815,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H2501",
+  "title": "Relative to LGBTQ+ health disparities",
+  "summary": "Relative to LGBTQ+ health disparities. Public Health.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H2501/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H2501/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H2501",
+  "sponsors": [
+    "Samantha Montano (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Public Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Hearing scheduled for 06/23/2025 from 09:00 AM-01:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Hearing rescheduled to 06/23/2025 from 09:00 AM-01:00 PM in B-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-09-11",
+      "action": "Reporting date extended to Tuesday, October 21, 2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-29",
+      "action": "Reported favorably by committee and referred to the Joint Committee on Health Care Financing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Reporting date extended to Wednesday, March 18, 2026",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H2501.pdf",
+      "doc_id": 3166790
+    }
+  ],
+  "committee": {
+    "committee_id": 763,
+    "chamber": "J",
+    "chamber_id": 103,
+    "name": "Health Care Financing"
+  },
+  "subjects": []
+}

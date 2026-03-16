@@ -1,0 +1,174 @@
+{
+  "id": 1970875,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S04914",
+  "title": "Protects individuals who provide or receive legally protected health activity, including reproductive health care and gender-affirming care, from criminal or civil liability or professional sanctions imposed by jurisdictions outside the state.",
+  "summary": "Protects individuals who provide or receive legally protected health activity, including reproductive health care and gender-affirming care, from criminal or civil liability or professional sanctions imposed by jurisdictions outside the state.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S04914/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S04914/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S4914",
+  "sponsors": [
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Jabari Brisport (D) [Sen]",
+    "Samra Brouk (D) [Sen]",
+    "Cordell Cleare (D) [Sen]",
+    "Leroy Comrie (D) [Sen]",
+    "Jeremy Cooney (D) [Sen]",
+    "Patricia Fahy (D) [Sen]",
+    "Nathalia Fernandez (D) [Sen]",
+    "Kristen Gonzalez (D) [Sen]",
+    "Andrew Gounardes (D) [Sen]",
+    "Peter Harckham (D) [Sen]",
+    "Michelle Hinchey (D) [Sen]",
+    "Liz Krueger (D) [Sen]",
+    "John Liu (D) [Sen]",
+    "Gustavo Rivera (D) [Sen]",
+    "Julia Salazar (D) [Sen]",
+    "Jose Serrano (D) [Sen]"
+  ],
+  "introduced_date": "2025-12-19",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-14",
+      "action": "REFERRED TO CHILDREN AND FAMILIES",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "AMEND (T) AND RECOMMIT TO CHILDREN AND FAMILIES",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "PRINT NUMBER 4914A",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "1ST REPORT CAL.1005",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "ADVANCED TO THIRD READING",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-19",
+      "action": "AMENDED ON THIRD READING 4914B",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "substituted for a5480c",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "ordered to third reading rules cal.321",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "passed assembly",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "returned to senate",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "DELIVERED TO GOVERNOR",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-19",
+      "action": "SIGNED CHAP.694",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-19",
+      "action": "APPROVAL MEMO.71",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-13",
+      "description": "Senate Children And Families Committee Vote",
+      "yea": 5,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-22",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 37,
+      "nay": 20,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-16",
+      "description": "Assembly Floor Vote - Final Passage",
+      "yea": 94,
+      "nay": 50,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-14",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S04914&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S04914",
+      "doc_id": 3121030
+    },
+    {
+      "date": "2025-02-14",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S04914&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S04914A",
+      "doc_id": 3228917
+    },
+    {
+      "date": "2025-02-14",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S04914&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S04914B",
+      "doc_id": 3240319
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

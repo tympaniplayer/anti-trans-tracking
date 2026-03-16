@@ -1,0 +1,71 @@
+{
+  "id": 2039116,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB2231",
+  "title": "GLOBE Act of 2025 Greater Leadership Overseas for the Benefit of Equality Act of 2025",
+  "summary": "A bill to protect human rights and enhance opportunities for LGBTQI people around the world, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB2231/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB2231/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2231/all-info",
+  "sponsors": [
+    "Edward Markey (D) [Sen]",
+    "Tim Kaine (D) [Sen]",
+    "Brian Schatz (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Patty Murray (D) [Sen]",
+    "Sheldon Whitehouse (D) [Sen]",
+    "Christopher Murphy (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Catherine Cortez Masto (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Jacky Rosen (D) [Sen]",
+    "Jeanne Shaheen (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Amy Klobuchar (D) [Sen]"
+  ],
+  "introduced_date": "2025-07-09",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-07-09",
+      "action": "Read twice and referred to the Committee on Foreign Relations.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-17",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s2231/BILLS-119s2231is.pdf",
+      "doc_id": 3262265
+    }
+  ],
+  "committee": {
+    "committee_id": 2327,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Foreign Relations"
+  },
+  "subjects": [
+    "International affairs"
+  ]
+}

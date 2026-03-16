@@ -1,0 +1,91 @@
+{
+  "id": 1904107,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S01049",
+  "title": "Enacts the \"gender identity respect, dignity and safety act\"; relates to the treatment and placement of incarcerated individuals based upon gender identity; requires that incarcerated individuals in state and local correctional facilities who have a gender identity different from their assigned sex at birth be addressed and have access to commissary items, clothing and other materials that are consistent with the person's gender identity; establishes that incarcerated individuals shall be placed in a correctional facility with persons of the gender that most closely aligns with such person's self-attested gender identity unless the person opts out of such placement.",
+  "summary": "Enacts the \"gender identity respect, dignity and safety act\"; relates to the treatment and placement of incarcerated individuals based upon gender identity; requires that incarcerated individuals in state and local correctional facilities who have a gender identity different from their assigned sex at birth be addressed and have access to commissary items, clothing and other materials that are consistent with the person's gender identity; establishes that incarcerated individuals shall be placed in a correctional facility with persons of the gender that most closely aligns with such person's self-attested gender identity unless the person opts out of such placement.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S01049/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S01049/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S1049",
+  "sponsors": [
+    "Julia Salazar (D) [Sen]",
+    "Jabari Brisport (D) [Sen]",
+    "Samra Brouk (D) [Sen]",
+    "Cordell Cleare (D) [Sen]",
+    "Leroy Comrie (D) [Sen]",
+    "Jeremy Cooney (D) [Sen]",
+    "Patricia Fahy (D) [Sen]",
+    "Nathalia Fernandez (D) [Sen]",
+    "Michael Gianaris (D) [Sen]",
+    "Kristen Gonzalez (D) [Sen]",
+    "Peter Harckham (D) [Sen]",
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "Liz Krueger (D) [Sen]",
+    "Rachel May (D) [Sen]",
+    "Zellnor Myrie (D) [Sen]",
+    "Jessica Ramos (D) [Sen]",
+    "Gustavo Rivera (D) [Sen]",
+    "Luis Sepulveda (D) [Sen]",
+    "Jose Serrano (D) [Sen]",
+    "Lea Webb (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-08",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-22",
+      "action": "AMEND AND RECOMMIT TO CRIME VICTIMS, CRIME AND CORRECTION",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-22",
+      "action": "PRINT NUMBER 1049A",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S01049&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S01049",
+      "doc_id": 3040788
+    },
+    {
+      "date": "2025-01-08",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S01049&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S01049A",
+      "doc_id": 3293145
+    }
+  ],
+  "committee": {
+    "committee_id": 421,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Crime Victims, Crime and Correction"
+  },
+  "subjects": []
+}

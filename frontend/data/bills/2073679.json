@@ -1,0 +1,88 @@
+{
+  "id": 2073679,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "HB721",
+  "title": "Parents of public school children; fundamental right to opt children out of certain ed. content.",
+  "summary": "Parents of public school children; fundamental right to opt children out of certain educational content. Provides that parents of public school children have the fundamental right to opt their children out, without penalty, of any instruction, reading, discussion, presentation, including any audio-visual presentation, school assembly, or activity that includes any gender identity, sexual orientation, transgenderism, or drag show theme or content, and the school shall make reasonable accommodations during such opt-out period.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "drag"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/HB721/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/HB721/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/HB721",
+  "sponsors": [
+    "Eric Zehr (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26103884D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Referred to Committee on Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-19",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (HB721)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Assigned HED sub: K-12 Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "House subcommittee offered",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Subcommittee recommends laying on the table (7-Y 3-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Left in Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-10",
+      "description": "Subcommittee recommends laying on the table (7-Y 3-N)",
+      "yea": 7,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-13",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB721/text/HB721",
+      "doc_id": 3310485
+    }
+  ],
+  "committee": {
+    "committee_id": 151,
+    "chamber": "H",
+    "chamber_id": 7,
+    "name": "Education"
+  },
+  "subjects": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": 2036282,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "SB843",
+  "title": "Prohibiting minor medical procedures that cause permanent and irreparable damage due to certain sex transitioning procedures; prescribing penalties; and establishing a private right of action.",
+  "summary": "An Act prohibiting minor medical procedures that cause permanent and irreparable damage due to certain sex transitioning procedures; prescribing penalties; and establishing a private right of action.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/SB843/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/SB843/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/sb843",
+  "sponsors": [
+    "Judith Ward (R) [Sen]",
+    "Patrick Stefano (R) [Sen]",
+    "Scott Hutchinson (R) [Sen]",
+    "Scott Martin (R) [Sen]",
+    "Cris Dush (R) [Sen]",
+    "Dawn Keefer (R) [Sen]",
+    "Doug Mastriano (R) [Sen]",
+    "Lisa Baker (R) [Sen]",
+    "Greg Rothman (R) [Sen]",
+    "Michele Brooks (R) [Sen]",
+    "Chris Gebhard (R) [Sen]"
+  ],
+  "introduced_date": "2025-06-09",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-06-09",
+      "action": "Referred to Health & Human Services",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB0843/PN0921",
+      "doc_id": 3253781
+    }
+  ],
+  "committee": {
+    "committee_id": 3551,
+    "chamber": "S",
+    "chamber_id": 4,
+    "name": "Health & Human Services"
+  },
+  "subjects": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": 2095724,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB4666",
+  "title": "SCH CD-BD MEMBER TRAINING/TOUR",
+  "summary": "Amends the School Code. Requires every voting member of a school board of a school district (other than the Chicago school district) to complete a minimum of 4 hours of professional development and leadership training within the first year of every elected term (rather than within the first year of his or her first term). Provides that in addition to training, every voting member of a school board shall, within the first year of every elected term, tour any affiliated education buildings that a student may attend while under the direction of the school district. Effective July 1, 2027.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB4666/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB4666/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4666&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Michelle Mussman (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-28",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-28",
+      "action": "Filed with the Clerk by Rep. Michelle Mussman",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Assigned to Elementary & Secondary Education: Administration, Licensing & Charter Schools",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-28",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=206971&DocName=10400HB4666&DocNum=4666&DocTypeID=HB&LegID=165624&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3334759
+    }
+  ],
+  "committee": {
+    "committee_id": 3955,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Elementary & Secondary Education: Administration, Licensing & Charter School"
+  },
+  "subjects": []
+}

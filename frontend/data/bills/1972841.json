@@ -1,0 +1,69 @@
+{
+  "id": 1972841,
+  "state": "IA",
+  "state_name": "Iowa",
+  "bill_number": "SF335",
+  "title": "A bill for an act relating to education, including by modifying provisions related to trainings and curricula provided by school districts and prohibited sexual orientation and gender identity instruction, and implementing prohibitions related to the diversity, equity, and inclusion efforts of institutions of higher learning governed by the state board of regents, community colleges, and public schools.",
+  "summary": "A bill for an act relating to education, including by modifying provisions related to trainings and curricula provided by school districts and prohibited sexual orientation and gender identity instruction, and implementing prohibitions related to the diversity, equity, and inclusion efforts of institutions of higher learning governed by the state board of regents, community colleges, and public schools.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IA/bill/SF335/2025",
+  "legiscan_url": "https://legiscan.com/IA/bill/SF335/2025",
+  "state_url": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=SF335",
+  "sponsors": [
+    "Sandy Salmon (R) [Sen]",
+    "Doug Campbell (R) [Sen]",
+    "Mike Pike (R) [Sen]",
+    "Kevin Alons (R) [Sen]",
+    "Dave Rowley (R) [Sen]",
+    "Dennis Guth (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-17",
+  "session": "91st General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-17",
+      "action": "Introduced, referred to Education. S.J. 279.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Subcommittee: Salmon, Pike, and Quirmbach. S.J. 314.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Subcommittee Meeting: 02/25/2025 10:30AM Senate Lounge.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Subcommittee recommends passage.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-17",
+      "type": "Introduced",
+      "url": "https://www.legis.iowa.gov/docs/publications/LGI/91/attachments/SF335.html",
+      "doc_id": 3126966
+    }
+  ],
+  "committee": {
+    "committee_id": 1474,
+    "chamber": "S",
+    "chamber_id": 40,
+    "name": "Education"
+  },
+  "subjects": []
+}

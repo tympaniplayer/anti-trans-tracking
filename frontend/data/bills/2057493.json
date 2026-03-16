@@ -1,0 +1,85 @@
+{
+  "id": 2057493,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB3386",
+  "title": "Health Care Freedom for Patients Act of 2025",
+  "summary": "A bill to provide a health savings account contribution to certain enrollees, to reduce health care costs, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB3386/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB3386/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3386/all-info",
+  "sponsors": [
+    "Mike Crapo (R) [Sen]",
+    "Bill Cassidy (R) [Sen]"
+  ],
+  "introduced_date": "2025-12-08",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-12-08",
+      "action": "Introduced in the Senate. Read the first time. Placed on Senate Legislative Calendar under Read the First Time. (Legislative Day December 4, 2025).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Read the second time. Placed on Senate Legislative Calendar under General Orders. Calendar No. 285.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-09",
+      "action": "Motion to proceed to consideration of measure made in Senate. (CR S8567)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-09",
+      "action": "Cloture motion on the motion to proceed to the measure presented in Senate. (CR S8567)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-09",
+      "action": "Motion to proceed to consideration of measure withdrawn in Senate.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-11",
+      "action": "Motion to proceed to measure considered in Senate. (CR S8643)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-11",
+      "action": "Cloture on the motion to proceed to the measure not invoked in Senate by Yea-Nay Vote. 51 - 48. Record Vote Number: 643. (CR S8654)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-12-11",
+      "description": "On the Cloture Motion S. 3386 RC# 643",
+      "yea": 51,
+      "nay": 48,
+      "passed": 0
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-12-09",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s3386/BILLS-119s3386pcs.pdf",
+      "doc_id": 3289458
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Health"
+  ]
+}

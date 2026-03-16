@@ -1,0 +1,81 @@
+{
+  "id": 2056153,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB6356",
+  "title": "Artificial Intelligence Civil Rights Act of 2025",
+  "summary": "To establish protections for individual rights with respect to computational algorithms, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB6356/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB6356/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/6356/all-info",
+  "sponsors": [
+    "Yvette Clarke (D) [Rep]",
+    "Summer Lee (D) [Rep]",
+    "Ayanna Pressley (D) [Rep]",
+    "Pramila Jayapal (D) [Rep]",
+    "Wesley Bell (D) [Rep]",
+    "Andre Carson (D) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "Danny Davis (D) [Rep]",
+    "Christopher Deluzio (D) [Rep]",
+    "Jonathan Jackson (D) [Rep]",
+    "Robin Kelly (D) [Rep]",
+    "James McGovern (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Alexandria Ocasio-Cortez (D) [Rep]",
+    "Mark Pocan (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Bennie Thompson (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Frederica Wilson (D) [Rep]",
+    "Jesus Garcia (D) [Rep]",
+    "Valerie Foushee (D) [Rep]",
+    "Shontel Brown (D) [Rep]",
+    "Kweisi Mfume (D) [Rep]",
+    "Jahana Hayes (D) [Rep]",
+    "Mark DeSaulnier (D) [Rep]"
+  ],
+  "introduced_date": "2025-12-02",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-12-02",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-02",
+      "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-09",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr6356/BILLS-119hr6356ih.pdf",
+      "doc_id": 3289461
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Science, technology, communications"
+  ]
+}

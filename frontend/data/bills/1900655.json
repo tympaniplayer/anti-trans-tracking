@@ -1,0 +1,55 @@
+{
+  "id": 1900655,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S00492",
+  "title": "Requires judges or justices in a court that exercises criminal jurisdiction, including town and village justices, family court judges, and justices of the supreme court who regularly handle matrimonial matters, and court clerks of such courts to attend a program approved by the chief administrator of the courts addressing issues relating to domestic violence totaling at least ten hours every two years; requires law enforcement officers to complete ten hours of domestic violence training every two years.",
+  "summary": "Requires judges or justices in a court that exercises criminal jurisdiction, including town and village justices, family court judges, and justices of the supreme court who regularly handle matrimonial matters, and court clerks of such courts to attend a program approved by the chief administrator of the courts addressing issues relating to domestic violence totaling at least ten hours every two years; requires law enforcement officers to complete ten hours of domestic violence training every two years.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S00492/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S00492/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S492",
+  "sponsors": [
+    "Nathalia Fernandez (D) [Sen]",
+    "Jessica Ramos (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-08",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "REFERRED TO JUDICIARY",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO JUDICIARY",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S00492&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S00492",
+      "doc_id": 3037192
+    }
+  ],
+  "committee": {
+    "committee_id": 434,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

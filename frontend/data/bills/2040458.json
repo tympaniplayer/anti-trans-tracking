@@ -1,0 +1,65 @@
+{
+  "id": 2040458,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB4723",
+  "title": "Mental Health for Latinos Act of 2025",
+  "summary": "To amend the Public Health Service Act to provide for a behavioral and mental health outreach and education strategy to reduce stigma associated with mental health among the Hispanic and Latino population, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB4723/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB4723/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4723/all-info",
+  "sponsors": [
+    "Andrea Salinas (D) [Rep]",
+    "Nanette Barragan (D) [Rep]",
+    "Jesus Garcia (D) [Rep]",
+    "Emily Randall (D) [Rep]",
+    "Gil Cisneros (D) [Rep]",
+    "Raul Ruiz (D) [Rep]",
+    "Nellie Pou (D) [Rep]",
+    "Salud Carbajal (D) [Rep]",
+    "Veronica Escobar (D) [Rep]",
+    "Vicente Gonzalez (D) [Rep]"
+  ],
+  "introduced_date": "2025-07-23",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-07-23",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-23",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-08-05",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr4723/BILLS-119hr4723ih.pdf",
+      "doc_id": 3264062
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

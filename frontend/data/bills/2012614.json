@@ -1,0 +1,54 @@
+{
+  "id": 2012614,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A07207",
+  "title": "Relates to providing increased and uniform training requirements including implicit bias, use of force, first aid and firearm training, and outreach for law enforcement; establishes law enforcement peer support through the office of mental health.",
+  "summary": "Relates to providing increased and uniform training requirements including implicit bias, use of force, first aid and firearm training, and outreach for law enforcement; establishes law enforcement peer support through the office of mental health.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A07207/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A07207/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A7207",
+  "sponsors": [
+    "Monique Chandler-Waterman (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-21",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-21",
+      "action": "referred to governmental operations",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to governmental operations",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-21",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A07207&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A07207",
+      "doc_id": 3184906
+    }
+  ],
+  "committee": {
+    "committee_id": 368,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Governmental Operations"
+  },
+  "subjects": []
+}

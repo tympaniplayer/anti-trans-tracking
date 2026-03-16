@@ -1,0 +1,70 @@
+{
+  "id": 2062181,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HB710",
+  "title": "Relating To Insurance.",
+  "summary": "Prohibits health insurers, mutual benefit societies, and health maintenance organizations from arbitrarily denying coverage requests for gender affirming health care services when the requested service is known to be considered a standard of care and for which scientific evidence exists that supports the service. Increases transparency of insurance carrier medical necessity reviews and requirements when coverage is denied.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HB710/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HB710/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=710&year=2026",
+  "sponsors": [
+    "Jenna Takenouchi (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-21",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-17",
+      "action": "Pending introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Introduced and Pass First Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Referred to HLT, JHA, CPC, referral sheet 2",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-17",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB710_.HTM",
+      "doc_id": 3295222
+    }
+  ],
+  "committee": {
+    "committee_id": 2042,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Health"
+  },
+  "subjects": [
+    "Gender Affirming Treatment Act",
+    "Insurance",
+    "Nondiscrimination",
+    "Transgender",
+    "Gender Affirming Care Services"
+  ]
+}

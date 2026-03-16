@@ -1,0 +1,296 @@
+{
+  "id": 1907109,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB1117",
+  "title": "INTERSCHOLASTIC SPORTS-GENDER",
+  "summary": "Amends the Interscholastic Athletic Organization Act. Provides that any athletic team or sport that is under the jurisdiction of an association or entity that provides for interscholastic athletics or athletic competition among schools and student must be expressly designated as (i) a male athletic team or sport, (ii) a female athletic team or sport, or (iii) a coeducational athletic team or sport. Provides that an athletic team or sport designated as being female is available only to participants who are female, based on their biological sex. Requires a school district or nonpublic school to obtain a written statement signed by a student's parent or guardian or the student verifying the student's age, biological sex, and that the student has not taken performance enhancing drugs; provides for a penalty for false or misleading statements. Prohibits a governmental entity or an association or entity that provides for interscholastic athletics or athletic competition among schools and students from entertaining a complaint, opening an investigation, or taking any other adverse action against a school district or nonpublic school for maintaining athletic teams or sports in accordance with these provisions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "education",
+    "drag",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB1117/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB1117/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1117&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Regan Deering (R) [Rep]",
+    "Tony McCombie (R) [Rep]",
+    "Norine Hammond (R) [Rep]",
+    "Amy Grant (R) [Rep]",
+    "Amy Elik (R) [Rep]",
+    "Jackie Haas (R) [Rep]",
+    "Christopher Davidsmeyer (R) [Rep]",
+    "Charles Meier (R) [Rep]",
+    "Bradley Fritts (R) [Rep]",
+    "Kevin Schmidt (R) [Rep]",
+    "Steven Reick (R) [Rep]",
+    "Wayne Rosenthal (R) [Rep]",
+    "Martin McLaughlin (R) [Rep]",
+    "Chris Miller (R) [Rep]",
+    "Blaine Wilhour (R) [Rep]",
+    "Paul Jacobs (R) [Rep]",
+    "Jed Davis (R) [Rep]",
+    "Brad Halbrook (R) [Rep]",
+    "Tom Weber (R) [Rep]",
+    "Dan Ugaste (R) [Rep]",
+    "Jeff Keicher (R) [Rep]",
+    "Adam Niemerg (R) [Rep]",
+    "William Hauter (R) [Rep]",
+    "Patrick Sheehan (R) [Rep]",
+    "Jason Bunting (R) [Rep]",
+    "Joe Sosnowski (R) [Rep]",
+    "Brandun Schweizer (R) [Rep]",
+    "Travis Weaver (R) [Rep]",
+    "Kyle Moore (R) [Rep]",
+    "Mike Coffey (R) [Rep]",
+    "John Cabello (R) [Rep]",
+    "David Friess (R) [Rep]",
+    "Nicole La Ha (R) [Rep]",
+    "Jennifer Sanalitro (R) [Rep]",
+    "Dave Severin (R) [Rep]",
+    "Ryan Spain (R) [Rep]",
+    "Daniel Swanson (R) [Rep]",
+    "Dennis Tipsword (R) [Rep]",
+    "Patrick Windhorst (R) [Rep]",
+    "Bradley Stephens (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-09",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-03",
+      "action": "Prefiled with Clerk by Rep. Regan Deering",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-09",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-09",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "Added Co-Sponsor Rep. Tony M. McCombie",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "Added Co-Sponsor Rep. Norine K. Hammond",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "Added Co-Sponsor Rep. Amy L. Grant",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-16",
+      "action": "Added Co-Sponsor Rep. Amy Elik",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-16",
+      "action": "Added Co-Sponsor Rep. Jackie Haas",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Added Co-Sponsor Rep. Christopher \"C.D.\" Davidsmeyer",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Added Co-Sponsor Rep. Charles Meier",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. Bradley Fritts",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. Kevin Schmidt",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. Steven Reick",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. Wayne A. Rosenthal",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. Martin McLaughlin",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. Chris Miller",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. Blaine Wilhour",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. Paul Jacobs",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. Jed Davis",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. Brad Halbrook",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. Tom Weber",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. Dan Ugaste",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. Jeff Keicher",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. Adam M. Niemerg",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. William E Hauter",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. Patrick Sheehan",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. Jason R. Bunting",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. Joe C. Sosnowski",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. Brandun Schweizer",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. Travis Weaver",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Added Co-Sponsor Rep. Kyle Moore",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Added Co-Sponsor Rep. Michael J. Coffey, Jr.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Added Co-Sponsor Rep. John M. Cabello",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Added Co-Sponsor Rep. David Friess",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Added Co-Sponsor Rep. Nicole La Ha",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Added Co-Sponsor Rep. Jennifer Sanalitro",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Added Co-Sponsor Rep. Dave Severin",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Added Co-Sponsor Rep. Ryan Spain",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Added Co-Sponsor Rep. Dan Swanson",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Added Co-Sponsor Rep. Dennis Tipsword",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Added Co-Sponsor Rep. Patrick Windhorst",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Added Co-Sponsor Rep. Brad Stephens",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=196616&DocName=10400HB1117&DocNum=1117&DocTypeID=HB&LegID=156850&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3044236
+    }
+  ],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
+  "subjects": []
+}

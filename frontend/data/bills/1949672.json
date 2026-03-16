@@ -1,0 +1,209 @@
+{
+  "id": 1949672,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB354",
+  "title": "Commission on Peace Officer Standards and Training.",
+  "summary": "An act to add Section 15169 to the Government Code, and to amend Sections 13500, 13510.8, and 13510.9 of, and to add Section 13503.1 to, the Penal Code, relating to peace officers, and declaring the urgency thereof, to take effect immediately.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB354/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB354/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB354",
+  "sponsors": [
+    "Michelle Rodriguez (D) [Rep]"
+  ],
+  "introduced_date": "2025-07-14",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-30",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-01-31",
+      "action": "From printer. May be heard in committee March 2.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Referred to Com. on PUB. S.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on PUB. S. Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Re-referred to Com. on PUB. S.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 9. Noes 0.) (April 8).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-21",
+      "action": "Re-referred to Com. on APPR.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "From committee: Do pass. To Consent Calendar. (Ayes 14. Noes 0.) (April 30).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Read second time. Ordered to Consent Calendar.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Read third time. Urgency clause adopted. Passed. Ordered to the Senate. (Ayes 69. Noes 0. Page 1485.).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Referred to Com. on PUB. S.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-10",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 6. Noes 0.) (June 10). Re-referred to Com. on APPR.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 6. Noes 0.) (June 10). Re-referred to Com. on APPR.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-23",
+      "action": "From committee: Be ordered to second reading file pursuant to Senate Rule 28.8 and ordered to Consent Calendar.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "Read second time. Ordered to Consent Calendar.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-27",
+      "action": "Read third time. Urgency clause adopted. Passed. Ordered to the Assembly. (Ayes 38. Noes 0. Page 1809.).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-27",
+      "action": "In Assembly. Ordered to Engrossing and Enrolling.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-07-03",
+      "action": "Enrolled and presented to the Governor at 11 a.m.",
+      "chamber": ""
+    },
+    {
+      "date": "2025-07-14",
+      "action": "Approved by the Governor.",
+      "chamber": ""
+    },
+    {
+      "date": "2025-07-14",
+      "action": "Chaptered by Secretary of State - Chapter 32, Statutes of 2025.",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-08",
+      "description": "Do pass as amended, and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar",
+      "yea": 9,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-30",
+      "description": "Do pass. To Consent Calendar",
+      "yea": 14,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-08",
+      "description": "AB 354 Michelle Rodriguez Consent Calendar Second Day Regular Session",
+      "yea": 69,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-10",
+      "description": "Do pass, but first be re-referred to the Committee on [Appropriations] with the recommendation: To Consent Calendar",
+      "yea": 6,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-27",
+      "description": "Consent Calendar 2nd AB354 Michelle Rodriguez Urgency Clause",
+      "yea": 38,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-30",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB354#99INT",
+      "doc_id": 3092807
+    },
+    {
+      "date": "2025-03-24",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB354#98AMD",
+      "doc_id": 3186853
+    },
+    {
+      "date": "2025-04-10",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB354#97AMD",
+      "doc_id": 3209187
+    },
+    {
+      "date": "2025-07-01",
+      "type": "Enrolled",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB354#96ENR",
+      "doc_id": 3260261
+    },
+    {
+      "date": "2025-07-14",
+      "type": "Chaptered",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB354#95CHP",
+      "doc_id": 3261612
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": 2091859,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB4554",
+  "title": "CONVERSION THERAPY-NO FUNDING",
+  "summary": "Amends the State Finance Act. Provides that the State shall not expend or invest any public funds in any organization, nonprofit organization, religious organization, or any other entity to be used for conversion therapy. Provides that the State shall not enter into any contract for the provision of conversion therapy. Provides that any contract entered into or renewed after the effective date of the amendatory Act that is used or will be used for conversion therapy shall be void and unenforceable as contrary to public policy. Defines \"conversion therapy\".",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "religious_exemptions",
+    "definitions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB4554/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB4554/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4554&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Laura Faver Dias (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Filed with the Clerk by Rep. Laura Faver Dias",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Assigned to State Government Administration Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Do Pass / Short Debate State Government Administration Committee; 006-003-000",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Placed on Calendar 2nd Reading - Short Debate",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-23",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=206757&DocName=10400HB4554&DocNum=4554&DocTypeID=HB&LegID=165410&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3330343
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

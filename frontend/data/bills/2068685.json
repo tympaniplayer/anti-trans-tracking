@@ -1,0 +1,89 @@
+{
+  "id": 2068685,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S08807",
+  "title": "Specifies that professional liability insurance insurers cannot deny coverage or increase rates solely based on legal use or prescription of certain gender-affirming care-related drugs; prescribes procedures for warrants issued in other jurisdictions for electronic data related to legally protected health activities; provides for additional procedural methods for protection of legally protected health activities.",
+  "summary": "Specifies that professional liability insurance insurers cannot deny coverage or increase rates solely based on legal use or prescription of certain gender-affirming care-related drugs; prescribes procedures for warrants issued in other jurisdictions for electronic data related to legally protected health activities; provides for additional procedural methods for protection of legally protected health activities.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S08807/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S08807/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S8807",
+  "sponsors": [
+    "Liz Krueger (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-21",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "action": "REFERRED TO RULES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "ORDERED TO THIRD READING CAL.34",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "referred to judiciary",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "substituted for a9501",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "ordered to third reading rules cal.69",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-12",
+      "description": "Senate Rules Committee Vote",
+      "yea": 13,
+      "nay": 7,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-21",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 35,
+      "nay": 21,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-08",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S08807&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S08807",
+      "doc_id": 3303308
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

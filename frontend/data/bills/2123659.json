@@ -1,0 +1,74 @@
+{
+  "id": 2123659,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB7661",
+  "title": "Stop the Sexualization of Children Act",
+  "summary": "To amend the Elementary and Secondary Education Act of 1965 to prohibit the use of funds provided under such Act to develop, implement, facilitate, host, or promote any program or activity for, or to provide or promote literature or other materials to, children under the age of 18 that includes sexually oriented material, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms",
+    "education"
+  ],
+  "primary_category": "bathrooms",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB7661/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB7661/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/7661/all-info",
+  "sponsors": [
+    "Mary Miller (R) [Rep]",
+    "Troy Downing (R) [Rep]",
+    "Randy Fine (R) [Rep]",
+    "Greg Steube (R) [Rep]",
+    "Paul Gosar (R) [Rep]",
+    "Andrew Ogles (R) [Rep]",
+    "Harriet Hageman (R) [Rep]",
+    "Marlin Stutzman (R) [Rep]",
+    "Barry Moore (R) [Rep]",
+    "Sheri Biggs (R) [Rep]",
+    "Julia Letlow (R) [Rep]",
+    "Claudia Tenney (R) [Rep]",
+    "Chip Roy (R) [Rep]",
+    "Warren Davidson (R) [Rep]",
+    "Randy Weber (R) [Rep]",
+    "John Rose (R) [Rep]",
+    "Burgess Owens (R) [Rep]",
+    "Keith Self (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-24",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-02-24",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Referred to the House Committee on Education and Workforce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-25",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr7661/BILLS-119hr7661ih.pdf",
+      "doc_id": 3374763
+    }
+  ],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

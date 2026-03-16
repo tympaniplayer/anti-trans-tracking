@@ -1,0 +1,52 @@
+{
+  "id": 2102828,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A10093",
+  "title": "Establishes a twenty-four hour, toll-free hotline and website for lesbian, gay, bisexual, transgender, queer or questioning plus (LGBTQ+) individuals who are experiencing emotional distress, suicidal ideation, or crisis-related challenges, which shall provide immediate support, referrals, resource lists, and other information.",
+  "summary": "Establishes a twenty-four hour, toll-free hotline and website for lesbian, gay, bisexual, transgender, queer or questioning plus (LGBTQ+) individuals who are experiencing emotional distress, suicidal ideation, or crisis-related challenges, which shall provide immediate support, referrals, resource lists, and other information.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A10093/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A10093/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A10093",
+  "sponsors": [
+    "Carrie Woerner (D) [Rep]",
+    "Maryjane Shimsky (D) [Rep]",
+    "Emerita Torres (D) [Rep]",
+    "Jo Simon (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-30",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-30",
+      "action": "referred to mental health",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-30",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A10093&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A10093",
+      "doc_id": 3342576
+    }
+  ],
+  "committee": {
+    "committee_id": 377,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Mental Health"
+  },
+  "subjects": []
+}

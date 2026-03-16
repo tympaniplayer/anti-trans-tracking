@@ -1,0 +1,56 @@
+{
+  "id": 2046224,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB5727",
+  "title": "ERRPA End Racial and Religious Profiling Act of 2025",
+  "summary": "To eliminate racial, religious, and other discriminatory profiling by law enforcement, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "religious_exemptions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB5727/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB5727/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/5727/all-info",
+  "sponsors": [
+    "Steve Cohen (D) [Rep]"
+  ],
+  "introduced_date": "2025-10-10",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-10-10",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-10",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-18",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr5727/BILLS-119hr5727ih.pdf",
+      "doc_id": 3273957
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crime and law enforcement"
+  ]
+}

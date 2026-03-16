@@ -1,0 +1,66 @@
+{
+  "id": 1906036,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB0010",
+  "title": "DCFS-LUGGAGE FOR FOSTER KIDS",
+  "summary": "Amends the Foster Children's Bill of Rights Act. Requires the Department of Children and Family Services to: (1) establish and maintain a decentralized supply of luggage to be used to transport the belongings of any child in the foster care system; and (2) develop procedures for the storage and distribution of luggage. Requires the Department to provide luggage to a child who is being removed from home or changing placement. Requires the Department, subject to appropriation, to purchase luggage that cannot otherwise be provided through grant or donation to ensure a sufficient supply of luggage for foster children. Provides that the Department shall submit an annual report to the Governor and the General Assembly that summarizes: (i) the number of times a trash bag was used to transport a foster child's personal belongings and the reasons the Department failed to provide the child with appropriate luggage; and (ii) the Department's supply inventory and inventory management practices for its luggage supply.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "education"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB0010/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB0010/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=10&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Margaret Croke (D) [Rep]",
+    "Harry Benton (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-09",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2024-12-02",
+      "action": "Prefiled with Clerk by Rep. Margaret Croke",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-09",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-09",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Added Co-Sponsor Rep. Harry Benton",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=195428&DocName=10400HB0010&DocNum=10&DocTypeID=HB&LegID=155662&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3044293
+    }
+  ],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
+  "subjects": []
+}

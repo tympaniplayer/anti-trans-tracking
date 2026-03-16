@@ -1,0 +1,95 @@
+{
+  "id": 2070217,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "SB195",
+  "title": "Gaming Commission; established, penalties, report.",
+  "summary": "Virginia Gaming Commission established; penalties. Establishes the Virginia Gaming Commission as an independent agency of the Commonwealth, exclusive of the legislative, executive, or judicial branches of government, to oversee and regulate all forms of legal gambling in the Commonwealth except for the state lottery. The bill sets eligibility requirements for the appointment of a Commissioner and Virginia Gaming Commission Board members, provides powers and duties of such Commissioner and Board members, and provides for the transfer of current employees of relevant state agencies to the Commission. The bill contains numerous technical amendments.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/SB195/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/SB195/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/SB195",
+  "sponsors": [
+    "Lashrecse Aird (D) [Sen]",
+    "Bryce Reeves (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-09",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26100714D",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-09",
+      "action": "Referred to Committee on General Laws and Technology",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Fiscal Impact statement From VCSC (1/12/2026 11:24 am)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Assigned GL&T sub: Gaming",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Incorporates SB558 (Reeves)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Reported from General Laws and Technology with substitute and rereferred to Finance and Appropriations (15-Y 0-N)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Incorporated by Finance and Appropriations (SB609-Lucas) (12-Y 3-N)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (SB195)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-28",
+      "description": "Reported from General Laws and Technology with substitute and rereferred to Finance and Appropriations (15-Y 0-N)",
+      "yea": 15,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-10",
+      "description": "Incorporated by Finance and Appropriations (SB609-Lucas) (12-Y 3-N)",
+      "yea": 12,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-09",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB195/text/SB195",
+      "doc_id": 3305127
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

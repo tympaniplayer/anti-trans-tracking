@@ -1,0 +1,52 @@
+{
+  "id": 2120400,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "HF3538",
+  "title": "Classroom instruction related to gender identity prohibited in public schools; parental notification required; grant program to include firearms safety, trap shooting, archery, hunting, and angling in school physical education courses established; and money appropriated.",
+  "summary": "Classroom instruction related to gender identity prohibited in public schools; parental notification required; grant program to include firearms safety, trap shooting, archery, hunting, and angling in school physical education courses established; and money appropriated.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/HF3538/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/HF3538/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3538/",
+  "sponsors": [
+    "Drew Roach (R) [Rep]",
+    "Ben Davis (R) [Rep]",
+    "Jimmy Gordon (R) [Rep]",
+    "Mike Wiener (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-19",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2026-02-19",
+      "action": "Introduction and first reading, referred to Education Policy",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-19",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3538/versions/0/pdf/",
+      "doc_id": 3368476
+    }
+  ],
+  "committee": {
+    "committee_id": 2699,
+    "chamber": "H",
+    "chamber_id": 55,
+    "name": "Education Policy"
+  },
+  "subjects": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": 2115660,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "H7767",
+  "title": "Creates a comprehensive statutory framework to address and regulate the use of artificial intelligence in the workplace, considering the interests of employers and employees.",
+  "summary": "LABOR AND LABOR RELATIONS -- ARTIFICIAL INTELLIGENCE USE AND FAIR EMPLOYMENT PRACTICES - Creates a comprehensive statutory framework to address and regulate the use of artificial intelligence in the workplace, considering the interests of employers and employees.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/H7767/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/H7767/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Thomas Noret (D) [Rep]",
+    "Matthew Dawson (D) [Rep]",
+    "Leonela Felix (D) [Rep]",
+    "William O'Brien (D) [Rep]",
+    "David Bennett (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-12",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-12",
+      "action": "Introduced, referred to House Labor",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-12",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H7767.pdf",
+      "doc_id": 3360522
+    }
+  ],
+  "committee": {
+    "committee_id": 1123,
+    "chamber": "H",
+    "chamber_id": 83,
+    "name": "Labor"
+  },
+  "subjects": [
+    "Labor And Labor Relations",
+    "LABOR AND LABOR RELATIONS -- ARTIFICIAL INTELLIGENCE USE AND FAIR EMPLOYMENT PRACTICES"
+  ]
+}

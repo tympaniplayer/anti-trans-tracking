@@ -1,0 +1,131 @@
+{
+  "id": 2063034,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB1150",
+  "title": "Relating To Health Care.",
+  "summary": "Expands the protections established under Act 2, SLH 2023, to include gender-affirming health care services. Clarifies jurisdiction under the Uniform Child-Custody Jurisdiction and Enforcement Act for cases involving children who obtain gender-affirming health care services. Effective 12/31/2050. (SD1)",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB1150/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB1150/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1150&year=2026",
+  "sponsors": [
+    "Chris Lee (D) [Sen]",
+    "Troy Hashimoto (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-17",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-17",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "Referred to HHS/CPN, JDC/WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "The committee(s) on HHS/CPN has scheduled a public hearing on 02-11-25 9:45AM; Conference Room 229 &amp; Videoconference.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "The committee(s) on HHS/CPN deferred the measure until 02-12-25 9:34AM; Conference Room 229 &amp; Videoconference.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "The committee(s) on HHS recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in HHS were as follows: 4 Aye(s): Senator(s) San Buenaventura, Aquino, Hashimoto, Keohokalole; Aye(s) with reservations: none ; 1 No(es): Senator(s) Fevella; and 0 Excused: none.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "The committee(s) on CPN recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in CPN were as follows: 3 Aye(s): Senator(s) Keohokalole, Fukunaga, Richards; Aye(s) with reservations: none ; 1 No(es): Senator(s) Awa; and 1 Excused: Senator(s) McKelvey.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-14",
+      "action": "Reported from HHS/CPN (Stand. Com. Rep. No. 650) with recommendation of passage on Second Reading, as amended (SD 1) and referral to JDC/WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-14",
+      "action": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to JDC/WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-21",
+      "action": "The committee(s) on JDC/WAM will hold a public decision making on 02-26-25 10:05AM; Conference Room 211 &amp; Videoconference.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "The committee on JDC deferred the measure.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "The committee on WAM deferred the measure.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-12",
+      "description": "Senate Commerce and Consumer Protection: Passed, With Amendments",
+      "yea": 3,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-02-12",
+      "description": "Senate Health and Human Services: Passed, With Amendments",
+      "yea": 4,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-18",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB1150_.HTM",
+      "doc_id": 3296542
+    },
+    {
+      "date": "2025-02-13",
+      "type": "Amended",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB1150_SD1_.HTM",
+      "doc_id": 3296543
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Gender-Affirming Health Care Services",
+    "Protections",
+    "Child Custody"
+  ]
+}

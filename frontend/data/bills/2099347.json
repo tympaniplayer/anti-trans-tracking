@@ -1,0 +1,49 @@
+{
+  "id": 2099347,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S3231",
+  "title": "Requires adoption of joint resolution before Attorney General files amicus brief in any state or federal court in which State is not party.",
+  "summary": "Requires adoption of joint resolution before Attorney General files amicus brief in any state or federal court in which State is not party.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S3231/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S3231/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S3231",
+  "sponsors": [],
+  "introduced_date": "2026-02-02",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-03",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S3500/3231_I1.HTM",
+      "doc_id": 3344977
+    }
+  ],
+  "committee": {
+    "committee_id": 882,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Law and Public Safety"
+  },
+  "subjects": [
+    "Law and Public Safety"
+  ]
+}

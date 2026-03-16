@@ -1,0 +1,59 @@
+{
+  "id": 1998988,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S2327",
+  "title": "Resolve increasing representation of all Massachusetts residents in the state house art collection",
+  "summary": "By Ms. Comerford, a petition of Joanne M. Comerford that provisions be made for an investigation and study by a special commission (including members of the General Court) to review and study of the state house art collection. Tourism, Arts and Cultural Development.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S2327/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S2327/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S2327",
+  "sponsors": [
+    "Joanne Comerford (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Tourism, Arts and Cultural Development",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-09",
+      "action": "Hearing scheduled for 10/21/2025 from 01:00 PM-05:00 PM in B-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-12-01",
+      "action": "Accompanied a new draft, see S2740",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S2327.pdf",
+      "doc_id": 3164265
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

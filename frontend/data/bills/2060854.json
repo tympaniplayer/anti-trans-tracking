@@ -1,0 +1,181 @@
+{
+  "id": 2060854,
+  "state": "FL",
+  "state_name": "Florida",
+  "bill_number": "S1002",
+  "title": "Child Welfare",
+  "summary": "Revising the definition of the term \"harm\" to provide that exposure of a child to a controlled substance may be established by evidence of acute or chronic use of a controlled substance by a parent to a specified extent; revising the definition of the term \"neglect\" to provide that neglect occurs when there is evidence of acute or chronic use of a controlled substance by a parent to a specified extent, etc.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/FL/bill/S1002/2026",
+  "legiscan_url": "https://legiscan.com/FL/bill/S1002/2026",
+  "state_url": "https://www.flsenate.gov/Session/Bill/2026/1002",
+  "sponsors": [
+    "Children, Families, and Elder Affairs [Sen]",
+    "Don Gaetz (R) [Sen]"
+  ],
+  "introduced_date": "2026-03-05",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-23",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Referred to Children, Families, and Elder Affairs; Judiciary; Rules",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "On Committee agenda-- Children, Families, and Elder Affairs, 01/27/26, 1:00 pm, 301 Senate Building",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "CS by Children, Families, and Elder Affairs; YEAS 5 NAYS 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Original reference(s) removed: Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Remaining references corrected to Appropriations Committee on Health and Human Services; Rules",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Now in Appropriations Committee on Health and Human Services",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "CS by Children, Families, and Elder Affairs read 1st time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "On Committee agenda-- Appropriations Committee on Health and Human Services, 02/12/26, 2:30 pm, 412 Knott Building",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Favorable by Appropriations Committee on Health and Human Services; YEAS 9 NAYS 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Now in Rules",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "On Committee agenda-- Rules, 02/24/26, 12:00 pm, 412 Knott Building",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Favorable by- Rules; YEAS 22 NAYS 1",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Placed on Calendar, on 2nd reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Placed on Special Order Calendar, 03/05/26",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Read 2nd time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Read 3rd time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "CS passed; YEAS 37 NAYS 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "In Messages",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-27",
+      "description": "Senate Children, Families, and Elder Affairs",
+      "yea": 5,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-12",
+      "description": "Senate Appropriations Committee on Health and Human Services",
+      "yea": 9,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-24",
+      "description": "Senate Rules",
+      "yea": 22,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-05",
+      "description": "Senate: Third Reading RCS#16",
+      "yea": 37,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-12-23",
+      "type": "Introduced",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1002/BillText/Filed/HTML",
+      "doc_id": 3293261
+    },
+    {
+      "date": "2026-01-28",
+      "type": "Comm Sub",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1002/BillText/c1/HTML",
+      "doc_id": 3334752
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

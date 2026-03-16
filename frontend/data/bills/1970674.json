@@ -1,0 +1,183 @@
+{
+  "id": 1970674,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A05480",
+  "title": "Protects individuals who provide or receive legally protected health activity, including reproductive health care and gender-affirming care, from criminal or civil liability or professional sanctions imposed by jurisdictions outside the state.",
+  "summary": "Protects individuals who provide or receive legally protected health activity, including reproductive health care and gender-affirming care, from criminal or civil liability or professional sanctions imposed by jurisdictions outside the state.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A05480/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A05480/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A5480",
+  "sponsors": [
+    "Harry Bronson (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Tony Simone (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Maryjane Shimsky (D) [Rep]",
+    "Sarah Clark (D) [Rep]",
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Jennifer Lunsford (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Harvey Epstein (D) [Rep]",
+    "Noah Burroughs (D) [Rep]",
+    "Micah Lasher (D) [Rep]",
+    "Robert Carroll (D) [Rep]",
+    "Gabriella Romero (D) [Rep]",
+    "Demond Meeks (D) [Rep]",
+    "Sarahana Shrestha (D) [Rep]",
+    "Emily Gallagher (D) [Rep]",
+    "Kwani O'Pharrow (D) [Rep]",
+    "Phara Souffrant Forrest (D) [Rep]",
+    "Deborah Glick (D) [Rep]",
+    "Jeffrey Dinowitz (D) [Rep]",
+    "Linda Rosenthal (D) [Rep]",
+    "Emerita Torres (D) [Rep]",
+    "John McDonald (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Christopher Burdick (D) [Rep]",
+    "Phillip Steck (D) [Rep]",
+    "Philip Ramos (D) [Rep]",
+    "Karen McMahon (D) [Rep]",
+    "William Magnarelli (D) [Rep]",
+    "Christopher Eachus (D) [Rep]",
+    "Anna Kelles (D) [Rep]",
+    "Amy Paulin (D) [Rep]",
+    "Alex Bores (D) [Rep]",
+    "Carrie Woerner (D) [Rep]",
+    "Steven Otis (D) [Rep]",
+    "Jonathan Jacobson (D) [Rep]",
+    "Patrick Carroll (D) [Rep]",
+    "David Weprin (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-14",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-14",
+      "action": "referred to judiciary",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "amend and recommit to judiciary",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "print number 5480a",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "amend (t) and recommit to judiciary",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "print number 5480b",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "reported referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "amend and recommit to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "print number 5480c",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "reported referred to rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "reported",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "rules report cal.321",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "ordered to third reading rules cal.321",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "substituted by s4914b",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-20",
+      "description": "Assembly Judiciary Committee: Favorable refer to committee Codes",
+      "yea": 13,
+      "nay": 7,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-28",
+      "description": "Assembly Codes Committee: Favorable refer to committee Rules",
+      "yea": 15,
+      "nay": 6,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-29",
+      "description": "Assembly Rules Committee: Favorable",
+      "yea": 18,
+      "nay": 9,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-14",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A05480&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A05480",
+      "doc_id": 3120854
+    },
+    {
+      "date": "2025-02-14",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A05480&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A05480A",
+      "doc_id": 3130795
+    },
+    {
+      "date": "2025-02-14",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A05480&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A05480B",
+      "doc_id": 3229551
+    },
+    {
+      "date": "2025-02-14",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A05480&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A05480C",
+      "doc_id": 3242145
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

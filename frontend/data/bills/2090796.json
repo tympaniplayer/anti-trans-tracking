@@ -1,0 +1,83 @@
+{
+  "id": 2090796,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "SB2118",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 71, Chapter 5, relative to TennCare.",
+  "summary": "As introduced, prohibits the division from providing coverage or reimbursement for a medical procedure performed on, or administered to, an individual if the performance or administration of the procedure is for the purpose of enabling the individual to identify with, or live as, a purported identity inconsistent with the individual's sex, or treat purported discomfort or distress from a discordance between the individual's sex and asserted identity. - Amends TCA Title 71, Chapter 5.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "drag"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/SB2118/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/SB2118/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB2118&ga=114",
+  "sponsors": [
+    "Adam Lowe (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-22",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-22",
+      "action": "Filed for introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Introduced, Passed on First Consideration",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Passed on Second Consideration, refer to Senate Health and Welfare Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Placed on Senate Health and Welfare Committee calendar for 3/11/2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Action deferred in Senate Health and Welfare Committee to 3/18/2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Placed on Senate Health and Welfare Committee calendar for 3/17/2026",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-22",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB2118.pdf",
+      "doc_id": 3329068
+    },
+    {
+      "date": "2026-02-03",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB2118.pdf",
+      "doc_id": 3345488
+    }
+  ],
+  "committee": {
+    "committee_id": 2648,
+    "chamber": "S",
+    "chamber_id": 90,
+    "name": "Health and Welfare"
+  },
+  "subjects": [
+    "TennCare"
+  ]
+}

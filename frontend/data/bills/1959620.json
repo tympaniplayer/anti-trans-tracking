@@ -1,0 +1,220 @@
+{
+  "id": 1959620,
+  "state": "KS",
+  "state_name": "Kansas",
+  "bill_number": "HB2311",
+  "title": "Prohibiting the secretary from adopting and enforcing policies for placement, custody and appointment of a custodian that may conflict with sincerely held religious or moral beliefs regarding sexual orientation or gender identity and creating a right of action for violations.",
+  "summary": "Prohibiting the secretary from adopting and enforcing policies for placement, custody and appointment of a custodian that may conflict with sincerely held religious or moral beliefs regarding sexual orientation or gender identity and creating a right of action for violations.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "religious_exemptions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KS/bill/HB2311/2025",
+  "legiscan_url": "https://legiscan.com/KS/bill/HB2311/2025",
+  "state_url": "https://kslegislature.gov/li/b2025_26/measures/hb2311/",
+  "sponsors": [
+    "Child Welfare and Foster Care [Rep]"
+  ],
+  "introduced_date": "2025-04-10",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-06",
+      "action": "House Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "House Referred to Committee on Child Welfare and Foster Care",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-17",
+      "action": "House Hearing: Monday, February 17, 2025, 1:30 PM Room 152-S",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "House Committee Report recommending bill be passed by Committee on Child Welfare and Foster Care",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "House Committee of the Whole - Motion to Amend - Offered by Representative Howerton",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "House Committee of the Whole - Amendment by Representative Howerton was adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "House Committee of the Whole - Motion to Amend - Offered by Representative Ruiz, S.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "House Committee of the Whole - Amendment by Representative Ruiz, S. was rejected Yea: 36 Nay: 84",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "House Committee of the Whole - Be passed as amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "House Final Action - Passed as amended; Yea: 86 Nay: 37",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "House Engrossed on Thursday, February 20, 2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Senate Received and Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Senate Referred to Committee on Public Health and Welfare",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Senate Hearing: Wednesday, March 12, 2025, 8:30 AM Room 142-S",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Senate Committee Report recommending bill be passed as amended by Committee on Public Health and Welfare",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Senate Committee of the Whole - Committee Report be adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Senate Committee of the Whole - Be passed as amended",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Senate Emergency Final Action - Passed as amended; Yea: 31 Nay: 9",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "House Concurred with amendments; Yea: 84 Nay: 38",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "House Reengrossed on Wednesday, March 26, 2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "House Enrolled and presented to Governor on Friday, March 28, 2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "House Vetoed by Governor; Returned to House on Thursday, April 3, 2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "House Motion to override veto prevailed; Yea: 87 Nay: 38",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Senate Motion to override veto prevailed; Yea: 31 Nay: 9",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-19",
+      "description": "House Committee of the Whole - Amendment by  Representative Ruiz, S. was rejected - Yea: 36 Nay: 84",
+      "yea": 36,
+      "nay": 84,
+      "passed": 0
+    },
+    {
+      "date": "2025-02-20",
+      "description": "House Final Action - Passed as amended - Yea: 86 Nay: 37",
+      "yea": 86,
+      "nay": 37,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-20",
+      "description": "Senate Emergency Final Action - Passed as amended - Yea: 31 Nay: 9",
+      "yea": 31,
+      "nay": 9,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-24",
+      "description": "House Concurred with amendments - Yea: 84 Nay: 38",
+      "yea": 84,
+      "nay": 38,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-10",
+      "description": "House Motion to override veto prevailed - Yea: 87 Nay: 38",
+      "yea": 87,
+      "nay": 38,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-10",
+      "description": "Senate Motion to override veto prevailed - Yea: 31 Nay: 9",
+      "yea": 31,
+      "nay": 9,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-06",
+      "type": "Introduced",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/hb2311_00_0000.pdf",
+      "doc_id": 3105437
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Amended",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/hb2311_01_0000.pdf",
+      "doc_id": 3131547
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Amended",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/hb2311_02_0000.pdf",
+      "doc_id": 3180729
+    },
+    {
+      "date": "2025-03-27",
+      "type": "Enrolled",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/hb2311_enrolled.pdf",
+      "doc_id": 3193148
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

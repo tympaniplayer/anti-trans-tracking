@@ -1,0 +1,127 @@
+{
+  "id": 2033472,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AR43",
+  "title": "Relative to Lesbian, Gay, Bisexual, Transgender, and Queer (LGBTQ+) Pride Month.",
+  "summary": "Relative to Lesbian, Gay, Bisexual, Transgender, and Queer (LGBTQ+) Pride Month.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AR43/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AR43/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260HR43",
+  "sponsors": [
+    "Chris Ward (D) [Rep]",
+    "Sade Elhawary (D) [Rep]",
+    "Corey Jackson (D) [Rep]",
+    "Alex Lee (D) [Rep]",
+    "Mark Gonzalez (D) [Rep]",
+    "Jose Solache (D) [Rep]",
+    "Rick Zbur (D) [Rep]",
+    "Cecilia Aguiar-Curry (D) [Rep]",
+    "Patrick Ahrens (D) [Rep]",
+    "David Alvarez (D) [Rep]",
+    "Steve Bennett (D) [Rep]",
+    "Marc Berman (D) [Rep]",
+    "Blanca Rubio (D) [Rep]",
+    "Tasha Boerner Horvath (D) [Rep]",
+    "Mia Bonta (D) [Rep]",
+    "Isaac Bryan (D) [Rep]",
+    "Lisa Calderon (D) [Rep]",
+    "Jessica Caloza (D) [Rep]",
+    "Juan Carrillo (D) [Rep]",
+    "Celeste Rodriguez (D) [Rep]",
+    "Damon Connolly (D) [Rep]",
+    "Mike Fong (D) [Rep]",
+    "Jesse Gabriel (D) [Rep]",
+    "Robert Garcia (D) [Rep]",
+    "Mike Gipson (D) [Rep]",
+    "Matt Haney (D) [Rep]",
+    "John Harabedian (D) [Rep]",
+    "Gregg Hart (D) [Rep]",
+    "Jacqui Irwin (D) [Rep]",
+    "Ash Kalra (D) [Rep]",
+    "Maggy Krell (D) [Rep]",
+    "Josh Lowenthal (D) [Rep]",
+    "Tina McKinnor (D) [Rep]",
+    "Michelle Rodriguez (D) [Rep]",
+    "Al Muratsuchi (D) [Rep]",
+    "Stephanie Nguyen (D) [Rep]",
+    "Liz Ortega (D) [Rep]",
+    "Blanca Pacheco (D) [Rep]",
+    "Diane Papan (D) [Rep]",
+    "Darshana Patel (D) [Rep]",
+    "Gail Pellerin (D) [Rep]",
+    "Cottie Petrie-Norris (D) [Rep]",
+    "Sharon Quirk-Silva (D) [Rep]",
+    "James Ramos (D) [Rep]",
+    "Rhodesia Ransom (D) [Rep]",
+    "Robert Rivas (D) [Rep]",
+    "Chris Rogers (D) [Rep]",
+    "Pilar Schiavo (D) [Rep]",
+    "Nick Schultz (D) [Rep]",
+    "LaShae Sharp-Collins (D) [Rep]",
+    "Esmeralda Soria (D) [Rep]",
+    "Catherine Stefani (D) [Rep]",
+    "Avelino Valencia (D) [Rep]",
+    "Buffy Wicks (D) [Rep]",
+    "Lori Wilson (D) [Rep]",
+    "Anamarie Farias (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-23",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-05-22",
+      "action": "Introduced.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Referred to Com. on RLS.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "From committee: Be adopted. Ordered to Third Reading. (Ayes 7. Noes 0.) (June 16).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-23",
+      "action": "Coauthors revised.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-23",
+      "action": "Read. Adopted. (Page 2244.).",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-16",
+      "description": "Be adopted. To third reading",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-05-22",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260HR43#99INT",
+      "doc_id": 3243180
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

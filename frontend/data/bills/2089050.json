@@ -1,0 +1,51 @@
+{
+  "id": 2089050,
+  "state": "NM",
+  "state_name": "New Mexico",
+  "bill_number": "SB45",
+  "title": "Academic Library Management Policies",
+  "summary": "Academic Library Management Policies",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NM/bill/SB45/2026",
+  "legiscan_url": "https://legiscan.com/NM/bill/SB45/2026",
+  "state_url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legtype=B&legno=45&year=26",
+  "sponsors": [
+    "Harold Pope (D) [Sen]",
+    "Antoinette Sedillo Lopez (D) [Sen]",
+    "Kathleen Cates (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-21",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-21",
+      "action": "Sent to SCC - Referrals: SCC/SEC/SJC",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://www.nmlegis.gov/Sessions/26%20Regular/bills/senate/SB0045.pdf",
+      "doc_id": 3326899
+    }
+  ],
+  "committee": {
+    "committee_id": 2183,
+    "chamber": "S",
+    "chamber_id": 72,
+    "name": "Committees"
+  },
+  "subjects": []
+}

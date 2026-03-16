@@ -1,0 +1,72 @@
+{
+  "id": 1891457,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB403",
+  "title": "Relating to housing and placement of inmates and children according to biological sex.",
+  "summary": "Relating to housing and placement of inmates and children according to biological sex.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB403/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB403/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB403",
+  "sponsors": [
+    "Valoree Swanson (R) [Rep]",
+    "Carrie Isaac (R) [Rep]"
+  ],
+  "introduced_date": "2024-11-12",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-12",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "Referred to State Affairs",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-11-12",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00403I.htm",
+      "doc_id": 3026997
+    }
+  ],
+  "committee": {
+    "committee_id": 1895,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "Corrections",
+    "Corrections--Jails & Prisons",
+    "Minors",
+    "Minors--Juvenile Justice",
+    "Women",
+    "FEMALE PRISONER PROTECTION ACT",
+    "CRIMINAL JUSTICE, TEXAS BOARD OF",
+    "CRIMINAL JUSTICE, TEXAS DEPARTMENT OF",
+    "JUVENILE JUSTICE DEPARTMENT, TEXAS",
+    "STATE HEALTH SERVICES, DEPARTMENT OF"
+  ]
+}

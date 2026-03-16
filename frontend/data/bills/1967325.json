@@ -1,0 +1,81 @@
+{
+  "id": 1967325,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A05187",
+  "title": "Designates offenses against law enforcement officers, firefighters and emergency medical services personnel as hate crimes.",
+  "summary": "Designates offenses against law enforcement officers, firefighters and emergency medical services personnel as hate crimes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A05187/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A05187/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A5187",
+  "sponsors": [
+    "Joseph DeStefano (R) [Rep]",
+    "Jarett Gandolfo (R) [Rep]",
+    "Matthew Slater (R) [Rep]",
+    "Karl Brabenec (R) [Rep]",
+    "Keith Brown (R) [Rep]",
+    "Angelo Morinello (R) [Rep]",
+    "Joseph Angelino (R) [Rep]",
+    "Eric Brown (R) [Rep]",
+    "David McDonough (R) [Rep]",
+    "Marianne Buttenschon (D) [Rep]",
+    "John Mikulin (R) [Rep]",
+    "Stephen Hawley (R) [Rep]",
+    "Christopher Tague (R) [Rep]",
+    "John Lemondes (R) [Rep]",
+    "Jodi Giglio (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-12",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-12",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "held for consideration in codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to codes",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-13",
+      "description": "Assembly Codes Committee: Held for Consideration",
+      "yea": 16,
+      "nay": 6,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-12",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A05187&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A05187",
+      "doc_id": 3115943
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

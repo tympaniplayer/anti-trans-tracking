@@ -1,0 +1,259 @@
+{
+  "id": 2049682,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "SB418",
+  "title": "Department of Corrections; requiring certain designation for certain persons. Effective date.",
+  "summary": "Department of Corrections; requiring certain designation for certain persons. Effective date.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/SB418/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/SB418/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=sb418&Session=2600",
+  "sponsors": [
+    "Julie Daniels (R) [Sen]",
+    "Toni Hasenbeck (R) [Rep]",
+    "Cody Maynard (R) [Rep]",
+    "Stacy Jo Adams (R) [Rep]",
+    "Gabe Woolley (R) [Rep]",
+    "David Bullard (R) [Sen]",
+    "Warren Hamilton (R) [Sen]",
+    "Shane Jett (R) [Rep]",
+    "Dusty Deevers (R) [Sen]",
+    "Julie McIntosh (R) [Sen]"
+  ],
+  "introduced_date": "2025-05-14",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Authored by Senator Daniels",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Second Reading referred to Public Safety",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "Reported Do Pass, amended by committee substitute Public Safety committee; CR filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "Coauthored by Senator Jett",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Placed on General Order",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Coauthored by Representative Hasenbeck (principal House author)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "General Order, Considered",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Measure passed: Ayes: 39 Nays: 8",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Referred for engrossment",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Coauthored by Senator McIntosh",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Coauthored by Senator Bullard",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Coauthored by Senator Deevers",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Coauthored by Senator Hamilton",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Engrossed to House",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Second Reading referred to Judiciary and Public Safety Oversight",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Referred to Public Safety",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Policy recommendation to the Judiciary and Public Safety Oversight committee; Do Pass Public Safety",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "CR; Do Pass Judiciary and Public Safety Oversight Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "General Order",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Coauthored by Representative(s) Maynard, Woolley, Adams",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Third Reading, Measure passed: Ayes: 77 Nays: 15",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Signed, returned to Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Referred for enrollment",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Enrolled, to House",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Signed, returned to Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Sent to Governor",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Approved by Governor 05/13/2025",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-11",
+      "description": "Senate: Public Safety Committee: DO PASS AMENDED CS",
+      "yea": 7,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-10",
+      "description": "Senate: THIRD READING",
+      "yea": 39,
+      "nay": 8,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-09",
+      "description": "House: Public Safety Committee: DO PASS",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-17",
+      "description": "House: Judiciary and Public Safety Oversight Committee: DO PASS",
+      "yea": 9,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-07",
+      "description": "House: THIRD READING",
+      "yea": 77,
+      "nay": 15,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-07",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/SB/SB418%20INT.PDF",
+      "doc_id": 3279295
+    },
+    {
+      "date": "2025-02-17",
+      "type": "Comm Sub",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20COMMITTEE%20SUBS/SCS/SB418%20CS.PDF",
+      "doc_id": 3279296
+    },
+    {
+      "date": "2025-04-21",
+      "type": "Amended",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20FLR/HFLR/SB418%20HFLR.PDF",
+      "doc_id": 3279297
+    },
+    {
+      "date": "2025-02-13",
+      "type": "Amended",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20FLR/SFLR/SB418%20SFLR.PDF",
+      "doc_id": 3279298
+    },
+    {
+      "date": "2025-03-11",
+      "type": "Engrossed",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENGR/SB/SB418%20ENGR.PDF",
+      "doc_id": 3279299
+    },
+    {
+      "date": "2025-05-08",
+      "type": "Enrolled",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB418%20ENR.PDF",
+      "doc_id": 3279300
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

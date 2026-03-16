@@ -1,0 +1,111 @@
+{
+  "id": 2047263,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HR0195",
+  "title": "A resolution to oppose the proposed Michigan Health Education Standards Framework and urge the Michigan Department of Education to redraft or the Michigan State Board of Education to reject these standards.",
+  "summary": "A resolution to oppose the proposed Michigan Health Education Standards Framework and urge the Michigan Department of Education to redraft or the Michigan State Board of Education to reject these standards.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HR0195/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HR0195/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HR-0195",
+  "sponsors": [
+    "Gina Johnsen (R) [Rep]",
+    "Ken Borton (R) [Rep]",
+    "David Martin (R) [Rep]",
+    "Joseph Aragona (R) [Rep]",
+    "Jay DeBoyer (R) [Rep]",
+    "Douglas Wozniak (R) [Rep]",
+    "Luke Meerman (R) [Rep]",
+    "Joseph Pavlov (R) [Rep]",
+    "Angela Rigas (R) [Rep]",
+    "Joseph Fox (R) [Rep]",
+    "Cam Cavitt (R) [Rep]",
+    "Brad Paquette (R) [Rep]",
+    "Mike Hoadley (R) [Rep]",
+    "Ann Bollin (R) [Rep]",
+    "Timothy Beson (R) [Rep]",
+    "Nancy DeBoer (R) [Rep]",
+    "Jason Woolford (R) [Rep]",
+    "Steve Carra (R) [Rep]",
+    "Tim Kelly (R) [Rep]",
+    "Phil Green (R) [Rep]",
+    "Rachelle Smit (R) [Rep]",
+    "Gregory Alexander (R) [Rep]",
+    "Matthew Bierlein (R) [Rep]",
+    "William Bruck (R) [Rep]",
+    "Jaime Greene (R) [Rep]",
+    "Josh Schriver (R) [Rep]",
+    "Steve Frisbie (R) [Rep]",
+    "Curtis VanderWall (R) [Rep]",
+    "Parker Fairbairn (R) [Rep]",
+    "Jerry Neyer (R) [Rep]",
+    "Pat Outman (R) [Rep]",
+    "Bradley Slagh (R) [Rep]",
+    "Pauline Wendzel (R) [Rep]",
+    "Donni Steele (R) [Rep]"
+  ],
+  "introduced_date": "2025-11-04",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-10-23",
+      "action": "Introduced By Representative Rep. Gina Johnsen",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "Referred To Committee On Oversight",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-28",
+      "action": "Reported With Recommendation Without Amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-04",
+      "action": "Adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-04",
+      "action": "Roll Call Roll Call #290 Yeas 56 Nays 42 Excused 0 Not Voting 12",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-10-28",
+      "description": "Reported With Recommendation Without Amendment",
+      "yea": 10,
+      "nay": 7,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-10-23",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/resolutionintroduced/House/htm/2025-HIR-0195.htm",
+      "doc_id": 3274505
+    },
+    {
+      "date": "2025-11-04",
+      "type": "Enrolled",
+      "url": "https://legislature.mi.gov/documents/2025-2026/resolutionadopted/House/htm/2025-HAR-0195.htm",
+      "doc_id": 3283111
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

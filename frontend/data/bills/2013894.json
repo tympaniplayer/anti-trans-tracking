@@ -1,0 +1,65 @@
+{
+  "id": 2013894,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR241",
+  "title": "Impeaching John James McConnell Jr., Chief Judge of the United States District Court for the District of Rhode Island, for high crimes and misdemeanors.",
+  "summary": "Impeaching John James McConnell Jr., Chief Judge of the United States District Court for the District of Rhode Island, for high crimes and misdemeanors.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR241/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR241/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/241/all-info",
+  "sponsors": [
+    "Andrew Clyde (R) [Rep]",
+    "Elijah Crane (R) [Rep]",
+    "Brandon Gill (R) [Rep]",
+    "Paul Gosar (R) [Rep]",
+    "Josh Brecheen (R) [Rep]",
+    "Andy Harris (R) [Rep]",
+    "Scott Perry (R) [Rep]",
+    "Cory Mills (R) [Rep]",
+    "Marjorie Greene (R) [Rep]",
+    "Eric Burlison (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-24",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-03-24",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-25",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres241/BILLS-119hres241ih.pdf",
+      "doc_id": 3187380
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Law"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": 2015940,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "SB157",
+  "title": "Prohibiting gender transition medical intervention for individuals under 18 years of age.",
+  "summary": "An Act to amend 441.07 (2), 448.02 (6), 448.02 (9) (intro.) and 448.978 (2) (intro.); to create 146.36, 441.07 (1j), 448.02 (3m) and 448.978 (1v) of the statutes; Relating to: prohibiting gender transition medical intervention for individuals under 18 years of age.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/SB157/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/SB157/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb157",
+  "sponsors": [
+    "Cory Tomczyk (R) [Sen]",
+    "Chris Kapenga (R) [Sen]",
+    "Steve Nass (R) [Sen]",
+    "Romaine Quinn (R) [Sen]",
+    "Eric Wimberger (R) [Sen]",
+    "Scott Allen (R) [Rep]",
+    "Robin Vos (R) [Rep]",
+    "Elijah Behnke (R) [Rep]",
+    "Lindee Brill (R) [Rep]",
+    "Robert Brooks (R) [Rep]",
+    "Calvin Callahan (R) [Rep]",
+    "Barbara Dittrich (R) [Rep]",
+    "Joy Goeben (R) [Rep]",
+    "Chanz Green (R) [Rep]",
+    "Rick Gundrum (R) [Rep]",
+    "Karen Hurd (R) [Rep]",
+    "Brent Jacobson (R) [Rep]",
+    "Dan Knodl (R) [Rep]",
+    "Rob Kreibich (R) [Rep]",
+    "Dave Maxey (R) [Rep]",
+    "David Murphy (R) [Rep]",
+    "Jeffrey Mursau (R) [Rep]",
+    "Amanda Nedweski (R) [Rep]",
+    "Adam Neylon (R) [Rep]",
+    "Jerry O'Connor (R) [Rep]",
+    "William Penterman (R) [Rep]",
+    "David Steffen (R) [Rep]",
+    "Duke Tucker (R) [Rep]",
+    "Ron Tusler (R) [Rep]",
+    "Chuck Wichgers (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-27",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-27",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Read first time and referred to Committee on Government Operations, Labor and Economic Development",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-27",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/SB157.pdf",
+      "doc_id": 3191945
+    }
+  ],
+  "committee": {
+    "committee_id": 5126,
+    "chamber": "S",
+    "chamber_id": 100,
+    "name": "Government Operations, Labor and Economic Development"
+  },
+  "subjects": []
+}

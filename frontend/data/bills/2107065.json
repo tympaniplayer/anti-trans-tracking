@@ -1,0 +1,81 @@
+{
+  "id": 2107065,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB797",
+  "title": "Employment Discrimination - Fire and Rescue Public Safety Employees - Use of Medical Cannabis",
+  "summary": "Prohibiting an employer from taking certain discriminatory employment actions against a fire and rescue public safety employee based on the employee's use of medical cannabis, subject to certain conditions; and requiring an employer to report an incident of a fire and rescue public safety employee reporting for work while impaired by cannabis to the State Emergency Medical Services Board.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB797/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB797/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0797?ys=2026RS",
+  "sponsors": [
+    "Adrian Boafo (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-04",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "action": "First Reading Economic Matters",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Hearing 3/04 at 1:00 p.m.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Hearing canceled",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Hearing 3/11 at 1:00 p.m.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-04",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0797f.pdf",
+      "doc_id": 3348642
+    }
+  ],
+  "committee": {
+    "committee_id": 1923,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Economic Matters"
+  },
+  "subjects": [
+    "Human Relations",
+    "Cannabis",
+    "Public Safety",
+    "Certifications",
+    "Chemical Tests",
+    "Counties",
+    "Discipline",
+    "Discrimination",
+    "Emergency Medical Services",
+    "Fire Protection",
+    "Municipal Corporations",
+    "Public Employees",
+    "Rescue Squads",
+    "State Employees",
+    "Termination of Employment",
+    "Work, Labor, and Employment"
+  ]
+}

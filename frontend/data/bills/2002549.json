@@ -1,0 +1,64 @@
+{
+  "id": 2002549,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H682",
+  "title": "To establish an integrated cultural studies curriculum in our schools",
+  "summary": "For legislation to establish an integrated cultural studies curriculum in schools. Education.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H682/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H682/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H682",
+  "sponsors": [
+    "David Rogers (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-02",
+      "action": "Hearing scheduled for 09/16/2025 from 11:00 AM-5:00 PM in Gardner Auditorium",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-12-18",
+      "action": "Reporting date extended to Wednesday, March 18, 2026",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H682.pdf",
+      "doc_id": 3168602
+    }
+  ],
+  "committee": {
+    "committee_id": 757,
+    "chamber": "J",
+    "chamber_id": 103,
+    "name": "Education"
+  },
+  "subjects": []
+}

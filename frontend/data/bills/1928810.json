@@ -1,0 +1,593 @@
+{
+  "id": 1928810,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB1437",
+  "title": "NON-PROFIT INVESTMENT POOL",
+  "summary": "Amends the Election Code, the Illinois Act on the Aging, the Children and Family Services Act, the Grocery Initiative Act, the Illinois Lottery Law, the Department of Public Health Powers and Duties Law of the Civil Administrative Code of Illinois, the Illinois Power Agency Act, the Illinois Health Facilities Planning Act, the Hydrogen Economy Act, the Community Land Trust Task Force Act, the Community-Based Corrections Task Force Act, the Illinois Procurement Code, the Illinois Income Tax Act, the Counties Code, and the Park Commissioners Land Sale Act. Extends various repeal and reporting dates and other provisions in those Acts, including provisions establishing a tax credit and a mechanics lien demand and referral pilot program and authorizing the sale of property in Rockford and Joliet. Amends the Statute on Statutes. Provides that, if a bill that changes or eliminates the stated repeal date of an Act or an Article or Section of an Act is passed by the General Assembly before or within 7 calendar days after the stated repeal date (rather than if a bill that changes or eliminates the stated repeal date of an Act or an Article or Section of an Act is presented to the Governor before the stated repeal date) and, after the stated repeal date, either the Governor approves the bill, the General Assembly overrides the Governor's veto of the bill, or the bill becomes law because it is not returned by the Governor within 60 calendar days after it is presented to the Governor, then the Act, Article, or Section shall be deemed to remain in full force and effect from the stated repeal date through the date the Governor approves the bill, the General Assembly overrides the Governor's veto of the bill, or the bill becomes law because it is not returned by the Governor within 60 calendar days after it is presented to the Governor. Amends the Election Code. Provides for the continuation, validation, and re-enactment of provisions of the Code concerning the Illinois Elections and Infrastructure Integrity Task Force, which were inadvertently repealed June 1, 2025. Extends the repeal date of those provisions to July 1, 2027. Amends the Criminal Code of 2012. Provides for the continuation, validation, and re-enactment of provisions of the Code concerning the Illinois Street Gang and Racketeer Influenced and Corrupt Organizations Law, which were inadvertently repealed June 1, 2025. Extends the repeal date of those provisions to July 1, 2027. Amends the Eminent Domain Act. Provides for the continuation, validation, and re-enactment of provisions of the Act concerning the quick-take powers of Menard County, which were inadvertently repealed May 31, 2025. Extends the repeal date of those provisions to July 1, 2027. Amends the Election Code. Provides that, in the case of petitions for the office of multi-township assessor, petitions shall be filed with the election authority not more than 141 (currently, 113 days) nor less than 134 days before the consolidated election. Amends the Illinois Municipal Code to make conforming changes. Amends the Downstate Forest Preserve District Act to correct an error. Amends the Park District Code. Provides that, if a district board's membership has been expanded or reduced by referendum or resolution, the additional members will be elected not earlier than 225 days (rather than 197 days) after the referendum or resolution. Amends the School Code. In the Educational Service Regions Article of the School Code, provides that, when a vacancy occurs in the office of regional superintendent of schools and more than 28 months remain in the term and the vacancy occurs at least 130 days before the next general election, appointment to fill the vacancy shall be until the next general election (rather than if more than 28 months remain in that term, the appointment shall be until the next general election). Makes changes to the effective date of Public Act 104-17. Specifies that the amendatory changes to the Prevailing Wage Act made by Public Act 104-17 take effect July 1, 2026. Amends the Metropolitan Transit Authority Act. Provides that, due to the fiscal impacts of the COVID-19 pandemic, the aggregate of all projected fare revenues from specified fares and charges received in fiscal years 2021, 2022, 2023, 2024, 2025, and 2026 (rather than 2021, 2022, 2023, 2024, and 2025) may be less than 50% of the aggregate costs of providing public transportation in those fiscal years. Provides that, due to the fiscal impacts of the COVID-19 pandemic, the aggregate of all projected fare revenues from specified fares and charges received in fiscal years 2021, 2022, 2023, 2024, 2025, and 2026 (rather than 2021, 2022, 2023, 2024, and 2025) may be less than 10% of the aggregate costs of providing ADA paratransit services in those fiscal years. Makes other changes. Effective immediately.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "education",
+    "sports",
+    "bathrooms"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB1437/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB1437/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1437&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Bob Morgan (D) [Rep]",
+    "Justin Slaughter (D) [Rep]",
+    "Barbara Hernandez (D) [Rep]",
+    "Diane Blair-Sherlock (D) [Rep]",
+    "Debbie Meyers-Martin (D) [Rep]",
+    "Suzanne Ness (D) [Rep]",
+    "Nicolle Grasse (D) [Rep]",
+    "Lisa Davis (D) [Rep]",
+    "Yolanda Morris (D) [Rep]",
+    "Marcus Evans (D) [Rep]",
+    "Maura Hirschauer (D) [Rep]",
+    "Sharon Chung (D) [Rep]",
+    "Sue Scherer (D) [Rep]",
+    "Dave Vella (D) [Rep]",
+    "Jaime Andrade (D) [Rep]",
+    "Dagmara Avelar (D) [Rep]",
+    "Elizabeth Hernandez (D) [Rep]",
+    "Stephanie Kifowit (D) [Rep]",
+    "Edgar Gonzalez (D) [Rep]",
+    "LaShawn Ford (D) [Rep]",
+    "William Davis (D) [Rep]",
+    "Joyce Mason (D) [Rep]",
+    "Anna Moeller (D) [Rep]",
+    "Michelle Mussman (D) [Rep]",
+    "Kevin Olickal (D) [Rep]",
+    "Aaron Ortiz (D) [Rep]",
+    "Anne Stava-Murray (D) [Rep]",
+    "Katie Stuart (D) [Rep]",
+    "Ann Williams (D) [Rep]",
+    "Martha Deuter (D) [Rep]",
+    "Thaddeus Jones (D) [Rep]",
+    "William Cunningham (D) [Sen]",
+    "Mattie Hunter (D) [Sen]"
+  ],
+  "introduced_date": "2025-11-21",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-17",
+      "action": "Filed with the Clerk by Rep. Rita Mayfield",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Assigned to State Government Administration Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Added Co-Sponsor Rep. Debbie Meyers-Martin",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Added Co-Sponsor Rep. Suzanne M. Ness",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Added Co-Sponsor Rep. Nicolle Grasse",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Do Pass / Short Debate State Government Administration Committee; 005-003-000",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Placed on Calendar 2nd Reading - Short Debate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Added Co-Sponsor Rep. Lisa Davis",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Added Chief Co-Sponsor Rep. Justin Slaughter",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Added Chief Co-Sponsor Rep. Barbara Hernandez",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Added Co-Sponsor Rep. Yolonda Morris",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Co-Sponsor Rep. Marcus C. Evans, Jr.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Co-Sponsor Rep. Maura Hirschauer",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Co-Sponsor Rep. Sharon Chung",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Co-Sponsor Rep. Sue Scherer",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Co-Sponsor Rep. Dave Vella",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Co-Sponsor Rep. Jaime M. Andrade, Jr.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Co-Sponsor Rep. Dagmara Avelar",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Co-Sponsor Rep. Elizabeth \"Lisa\" Hernandez",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "House Floor Amendment No. 1 Filed with Clerk by Rep. Rita Mayfield",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "House Floor Amendment No. 1 Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Added Chief Co-Sponsor Rep. Diane Blair-Sherlock",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Added Co-Sponsor Rep. Stephanie A. Kifowit",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Added Co-Sponsor Rep. Edgar Gonz\u00e1lez, Jr.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Added Co-Sponsor Rep. La Shawn K. Ford",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Added Co-Sponsor Rep. William \"Will\" Davis",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Added Co-Sponsor Rep. Joyce Mason",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Added Co-Sponsor Rep. Anna Moeller",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Added Co-Sponsor Rep. Michelle Mussman",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Added Co-Sponsor Rep. Kevin John Olickal",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Added Co-Sponsor Rep. Aar\u00f3n M. Ort\u00edz",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Added Co-Sponsor Rep. Anne Stava",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Added Co-Sponsor Rep. Katie Stuart",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Added Co-Sponsor Rep. Ann M. Williams",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "House Floor Amendment No. 1 Rules Refers to State Government Administration Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Second Reading - Short Debate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Added Co-Sponsor Rep. Martha Deuter",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Held on Calendar Order of Second Reading - Short Debate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Added Co-Sponsor Rep. Thaddeus Jones",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "House Floor Amendment No. 1 Recommends Be Adopted State Government Administration Committee; 005-002-000",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "House Floor Amendment No. 1 Adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Placed on Calendar Order of 3rd Reading - Short Debate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Third Reading - Short Debate - Passed 074-038-000",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Arrive in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Placed on Calendar Order of First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Chief Senate Sponsor Sen. Adriane Johnson",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Assigned to Executive",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Alternate Chief Sponsor Changed to Sen. Don Harmon",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-09",
+      "action": "Rule 2-10 Committee Deadline Established As May 23, 2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Senate Committee Amendment No. 1 Filed with Secretary by Sen. Don Harmon",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Senate Committee Amendment No. 1 Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Senate Committee Amendment No. 1 Assignments Refers to Executive",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Senate Committee Amendment No. 1 Adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Do Pass as Amended Executive; 009-004-000",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Placed on Calendar Order of 3rd Reading May 20, 2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Rule 2-10 Third Reading/Passage Deadline Established As June 1, 2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Rule 3-9(a) / Re-referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-14",
+      "action": "Approved for Consideration Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-14",
+      "action": "Placed on Calendar Order of 3rd Reading October 15, 2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-28",
+      "action": "Senate Floor Amendment No. 2 Filed with Secretary by Sen. Bill Cunningham",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-28",
+      "action": "Senate Floor Amendment No. 2 Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-28",
+      "action": "Alternate Chief Sponsor Changed to Sen. Bill Cunningham",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-28",
+      "action": "Senate Floor Amendment No. 2 Be Approved for Consideration Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-29",
+      "action": "Senate Floor Amendment No. 3 Filed with Secretary by Sen. Bill Cunningham",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-29",
+      "action": "Senate Floor Amendment No. 3 Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-29",
+      "action": "Senate Floor Amendment No. 3 Be Approved for Consideration Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Senate Floor Amendment No. 4 Filed with Secretary by Sen. Bill Cunningham",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Senate Floor Amendment No. 4 Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Added as Alternate Chief Co-Sponsor Sen. Mattie Hunter",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Senate Floor Amendment No. 4 Be Approved for Consideration Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Recalled to Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Senate Floor Amendment No. 2 Withdrawn by Sen. Bill Cunningham",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Senate Floor Amendment No. 3 Withdrawn by Sen. Bill Cunningham",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Senate Floor Amendment No. 4 Adopted; Cunningham",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Placed on Calendar Order of 3rd Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "3/5 Vote Required",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Third Reading - Passed; 041-016-000",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Chief Sponsor Changed to Rep. Bob Morgan",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Arrived in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Placed on Calendar Order of Concurrence Senate Amendment(s) 1, 4",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Senate Committee Amendment No. 1 Motion Filed Concur Rep. Bob Morgan",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Senate Floor Amendment No. 4 Motion Filed Concur Rep. Bob Morgan",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Senate Committee Amendment No. 1 Motion to Concur Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Senate Floor Amendment No. 4 Motion to Concur Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Senate Committee Amendment No. 1 Motion to Concur Recommends Be Adopted Rules Committee; 003-002-000",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Senate Floor Amendment No. 4 Motion to Concur Recommends Be Adopted Rules Committee; 003-002-000",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-31",
+      "action": "3/5 Vote Required",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-31",
+      "action": "Senate Committee Amendment No. 1 House Concurs 074-026-000",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-31",
+      "action": "Senate Floor Amendment No. 4 House Concurs 074-026-000",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-31",
+      "action": "House Concurs",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-31",
+      "action": "Passed Both Houses",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-20",
+      "action": "Sent to the Governor",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-21",
+      "action": "Governor Approved",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-21",
+      "action": "Effective Date November 21, 2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-21",
+      "action": "Public Act . . . . . . . . . 104-0434",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-10",
+      "description": "Third Reading in House",
+      "yea": 74,
+      "nay": 38,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-17",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=197273&DocName=10400HB1437&DocNum=1437&DocTypeID=HB&LegID=157483&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3066134
+    },
+    {
+      "date": "2025-04-11",
+      "type": "Engrossed",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=197273&DocName=10400HB1437eng&DocNum=1437&DocTypeID=HB&LegID=157483&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3209670
+    },
+    {
+      "date": "2025-11-04",
+      "type": "Enrolled",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=197273&DocName=10400HB1437enr&DocNum=1437&DocTypeID=HB&LegID=157483&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3283021
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

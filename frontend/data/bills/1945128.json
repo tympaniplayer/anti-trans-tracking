@@ -1,0 +1,166 @@
+{
+  "id": 1945128,
+  "state": "GA",
+  "state_name": "Georgia",
+  "bill_number": "SB39",
+  "title": "Employees' Insurance and Benefits Plans; expenses for gender-affirming care under the state health benefit plan or with any state funds; prohibit coverage",
+  "summary": "A BILL to be entitled an Act to amend Chapter 18 of Title 45, Chapter 4 of Title 49, and Chapter 1 of Title 50 of the Official Code of Georgia Annotated, relating to the employees' insurance and benefits plans, public assistance, and general provisions relative to state government, respectively, so as to prohibit coverage of expenses for gender-affirming care under the state health benefit plan or with any state funds; to provide for definitions; to provide for limited exceptions; to prohibit state healthcare facilities and healthcare providers employed by the state from providing gender-affirming care; to provide for related matters; to provide for legislative findings; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "healthcare",
+    "bathrooms",
+    "definitions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/GA/bill/SB39/2025",
+  "legiscan_url": "https://legiscan.com/GA/bill/SB39/2025",
+  "state_url": "https://www.legis.ga.gov/legislation/69560",
+  "sponsors": [
+    "Blake Tillery (R) [Sen]",
+    "Carden Summers (R) [Sen]",
+    "Randy Robertson (R) [Sen]",
+    "Ben Watson (R) [Sen]",
+    "Larry Walker (R) [Sen]",
+    "John Albers (R) [Sen]",
+    "Frank Ginn (R) [Sen]",
+    "Bill Cowsert (R) [Sen]",
+    "Steve Gooch (R) [Sen]",
+    "John Kennedy (R) [Sen]",
+    "Max Burns (R) [Sen]",
+    "Chuck Hufstetler (R) [Sen]",
+    "Bo Hatchett (R) [Sen]",
+    "Ricky Williams (R) [Sen]",
+    "Chuck Payne (R) [Sen]",
+    "Drew Echols (R) [Sen]",
+    "Brandon Beach (R) [Sen]",
+    "Greg Dolezal (R) [Sen]",
+    "Sam Watson (R) [Sen]",
+    "Clint Dixon (R) [Sen]",
+    "Russ Goodman (R) [Sen]",
+    "Lee Anderson (R) [Sen]",
+    "Marty Harbin (R) [Sen]",
+    "Matt Brass (R) [Sen]",
+    "Brian Strickland (R) [Sen]",
+    "Timothy Bearden (R) [Sen]",
+    "Freddie Sims (D) [Sen]",
+    "Ed Harbison (D) [Sen]",
+    "Brent Cox (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-11",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-28",
+      "action": "Senate Hopper",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-29",
+      "action": "Senate Read and Referred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Senate Committee Favorably Reported By Substitute",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Senate Read Second Time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "Senate Third Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "Senate Passed/Adopted By Substitute",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "House First Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "House Second Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "House Committee Favorably Reported By Substitute",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-04",
+      "action": "House Withdrawn, Recommitted",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-11",
+      "description": "Adoption Of Amendment #2 By The Senator From The 41st: Senate Vote #39",
+      "yea": 19,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2025-02-11",
+      "description": "Motion To Reconsider Amendment #2: Senate Vote #40",
+      "yea": 19,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2025-02-11",
+      "description": "Passage By Substitute: Senate Vote #41",
+      "yea": 33,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-02-11",
+      "description": "Motion To Immediately Transmit: Senate Vote #42",
+      "yea": 32,
+      "nay": 18,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-29",
+      "type": "Introduced",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230415",
+      "doc_id": 3087167
+    },
+    {
+      "date": "2025-02-06",
+      "type": "Comm Sub",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231357",
+      "doc_id": 3103939
+    },
+    {
+      "date": "2025-02-11",
+      "type": "Engrossed",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232109",
+      "doc_id": 3114205
+    },
+    {
+      "date": "2025-04-01",
+      "type": "Comm Sub",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/238630",
+      "doc_id": 3198173
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

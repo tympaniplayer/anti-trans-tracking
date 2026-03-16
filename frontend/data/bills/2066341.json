@@ -1,0 +1,136 @@
+{
+  "id": 2066341,
+  "state": "FL",
+  "state_name": "Florida",
+  "bill_number": "H1091",
+  "title": "Dental Screenings For K-12 Students",
+  "summary": "Authorizes dental screenings provided under school health services program to be conducted after written notice & opportunity for parent or guardian to opt out; clarifies district school board parent notification requirements for dental screenings; & provides that specified parental consent requirements do not apply to certain dental screenings.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/FL/bill/H1091/2026",
+  "legiscan_url": "https://legiscan.com/FL/bill/H1091/2026",
+  "state_url": "https://www.flsenate.gov/Session/Bill/2026/1091",
+  "sponsors": [
+    "Student Academic Success Subcommittee [Rep]",
+    "Kelly Skidmore (D) [Rep]",
+    "Johanna Lopez (D) [Rep]",
+    "Michelle Salzman (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-06",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Referred to Student Academic Success Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Referred to Health Professions & Programs Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Referred to Education & Employment Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Now in Student Academic Success Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "1st Reading (Original Filed Version)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Added to Student Academic Success Subcommittee agenda",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Favorable with CS by Student Academic Success Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Reported out of Student Academic Success Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Laid on Table under Rule 7.18(a)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "CS Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "1st Reading (Committee Substitute 1)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Referred to Health Professions & Programs Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Referred to Education & Employment Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Now in Health Professions & Programs Subcommittee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-05",
+      "description": "House Student Academic Success Subcommittee",
+      "yea": 15,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-06",
+      "type": "Introduced",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1091/BillText/Filed/PDF",
+      "doc_id": 3300790
+    },
+    {
+      "date": "2026-02-05",
+      "type": "Comm Sub",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1091/BillText/c1/PDF",
+      "doc_id": 3350722
+    }
+  ],
+  "committee": {
+    "committee_id": 4980,
+    "chamber": "H",
+    "chamber_id": 27,
+    "name": "Health Professions & Programs Subcommittee"
+  },
+  "subjects": []
+}

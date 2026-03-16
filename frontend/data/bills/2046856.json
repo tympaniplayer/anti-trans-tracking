@@ -1,0 +1,73 @@
+{
+  "id": 2046856,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR818",
+  "title": "Impeaching Deborah Boardman, Judge of the United States District Court for the District of Maryland, for high crimes and misdemeanors.",
+  "summary": "Impeaching Deborah Boardman, Judge of the United States District Court for the District of Maryland, for high crimes and misdemeanors.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR818/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR818/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/818/all-info",
+  "sponsors": [
+    "Chip Roy (R) [Rep]",
+    "Josh Brecheen (R) [Rep]",
+    "Anna Luna (R) [Rep]",
+    "Clay Higgins (R) [Rep]",
+    "Brian Babin (R) [Rep]",
+    "Mary Miller (R) [Rep]",
+    "Ralph Norman (R) [Rep]",
+    "Keith Self (R) [Rep]",
+    "Diana Harshbarger (R) [Rep]",
+    "Lauren Boebert (R) [Rep]",
+    "Michael Cloud (R) [Rep]",
+    "Sheri Biggs (R) [Rep]",
+    "Mark Harris (R) [Rep]",
+    "Scott Perry (R) [Rep]",
+    "Elijah Crane (R) [Rep]",
+    "Brandon Gill (R) [Rep]",
+    "John McGuire (R) [Rep]",
+    "Mike Haridopolos (R) [Rep]"
+  ],
+  "introduced_date": "2025-10-17",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-10-17",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-17",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-29",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres818/BILLS-119hres818ih.pdf",
+      "doc_id": 3281098
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Law"
+  ]
+}

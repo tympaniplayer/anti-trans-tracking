@@ -1,0 +1,56 @@
+{
+  "id": 1916744,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1288",
+  "title": "Concerning environmental leadership through outdoor recreation and climate adaptation investments.",
+  "summary": "Concerning environmental leadership through outdoor recreation and climate adaptation investments.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1288/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1288/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1288&Year=2025&Initiative=false",
+  "sponsors": [
+    "Mary Dye (R) [Rep]",
+    "Mark Klicker (R) [Rep]",
+    "Andrew Barkis (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-14",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-14",
+      "action": "First reading, referred to Environment & Energy.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1288.pdf",
+      "doc_id": 3053799
+    }
+  ],
+  "committee": {
+    "committee_id": 3814,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Environment & Energy"
+  },
+  "subjects": []
+}

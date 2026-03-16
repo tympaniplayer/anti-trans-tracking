@@ -1,0 +1,54 @@
+{
+  "id": 1992503,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S06149",
+  "title": "Establishes a transgender and non-binary peer support grant program which shall grant awards to eligible entities for the purpose of establishing peer-to-peer mental health programs for transgender and non-binary individuals.",
+  "summary": "Establishes a transgender and non-binary peer support grant program which shall grant awards to eligible entities for the purpose of establishing peer-to-peer mental health programs for transgender and non-binary individuals.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S06149/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S06149/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S6149",
+  "sponsors": [
+    "Kevin Parker (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-05",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-05",
+      "action": "REFERRED TO MENTAL HEALTH",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO MENTAL HEALTH",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-05",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S06149&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S06149",
+      "doc_id": 3154669
+    }
+  ],
+  "committee": {
+    "committee_id": 4467,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Mental Health"
+  },
+  "subjects": []
+}

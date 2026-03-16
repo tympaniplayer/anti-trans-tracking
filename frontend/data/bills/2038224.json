@@ -1,0 +1,57 @@
+{
+  "id": 2038224,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB4138",
+  "title": "Restoring Biological Truth in Government Act",
+  "summary": "To prohibit the heads of executive agencies from asking about gender identity on any form or survey, to require executive agencies provide male and female as the only options to respond to questions about sex or gender on any forms or surveys and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB4138/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB4138/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4138/all-info",
+  "sponsors": [
+    "Nancy Mace (R) [Rep]",
+    "Barry Moore (R) [Rep]"
+  ],
+  "introduced_date": "2025-06-25",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-25",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-25",
+      "action": "Referred to the House Committee on Oversight and Government Reform.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-09",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr4138/BILLS-119hr4138ih.pdf",
+      "doc_id": 3261086
+    }
+  ],
+  "committee": {
+    "committee_id": 2311,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Oversight And Government Reform"
+  },
+  "subjects": [
+    "Government operations and politics"
+  ]
+}

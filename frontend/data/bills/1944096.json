@@ -1,0 +1,123 @@
+{
+  "id": 1944096,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "S0268",
+  "title": "Children and Social Media",
+  "summary": "Amend The South Carolina Code Of Laws By Adding Chapter 80 To Title 39 So As To Provide That A Covered Online Service Shall Take Care In The Use Of A Minor's Personal Data And In The Design And Implementation Of The Service To Prevent Harm To Minors, To Provide That The Online Service Must Provide Minors With Easily Accessible Tools To Limit Time Spent On The Service And Protect Personal Data, To Provide Limits On How Much Of A Minor's Data The Service May Collect And Restrict The Use Of Such Data, To Provide That Online Services Must Offer Parents Tools To Help Them Protect Minors Using The Service And To Enable Them To Report Harms To Minors On Online Services, To Provide That Online Services Must Issue A Public Report On The Service's Practices Pertaining To Minors, And To Define Necessary Terms.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/S0268/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/S0268/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0268&session=126&summary=B",
+  "sponsors": [
+    "Sean Bennett (R) [Sen]",
+    "Matthew Leber (R) [Sen]",
+    "Carlisle Kennedy (R) [Sen]"
+  ],
+  "introduced_date": "2025-05-01",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-28",
+      "action": "Introduced and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Referred to Committee on Labor, Commerce and Industry",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Committee report: Favorable with amendment Labor, Commerce and Industry",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Committee Amendment Adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Read second time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Roll call Ayes-43 Nays-0",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Scrivener's error corrected",
+      "chamber": ""
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Read third time and sent to House",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Introduced and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-30",
+      "description": "Senate: 2nd Reading",
+      "yea": 43,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-28",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/268_20250128.htm",
+      "doc_id": 3085762
+    },
+    {
+      "date": "2025-04-24",
+      "type": "Comm Sub",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/268_20250424.htm",
+      "doc_id": 3221055
+    },
+    {
+      "date": "2025-04-30",
+      "type": "Comm Sub",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/268_20250430.htm",
+      "doc_id": 3226086
+    },
+    {
+      "date": "2025-05-01",
+      "type": "Comm Sub",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/268_20250501.htm",
+      "doc_id": 3227033
+    }
+  ],
+  "committee": {
+    "committee_id": 708,
+    "chamber": "H",
+    "chamber_id": 85,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

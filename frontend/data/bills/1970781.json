@@ -1,0 +1,100 @@
+{
+  "id": 1970781,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A05471",
+  "title": "Enacts the \"New York state agency BIPOC asset management and financial institution strategy act\" to ensure the promotion of equity, diversity, and inclusion within the state pension system and the New York city pension system's investments by mandating a minimum allocation of assets to BIPOC asset managers, BIPOC financial institutions, and BIPOC financial or professional service firms; addresses disparities in investment opportunities and fosters economic growth within BIPOC communities, aligning with best practices in investment management and bolstering the financial well-being of New York City and state and residents thereof (Part A); relates to fair investment practices by investment advisers within the state of New York (Part B).",
+  "summary": "Enacts the \"New York state agency BIPOC asset management and financial institution strategy act\" to ensure the promotion of equity, diversity, and inclusion within the state pension system and the New York city pension system's investments by mandating a minimum allocation of assets to BIPOC asset managers, BIPOC financial institutions, and BIPOC financial or professional service firms; addresses disparities in investment opportunities and fosters economic growth within BIPOC communities, aligning with best practices in investment management and bolstering the financial well-being of New York City and state and residents thereof (Part A); relates to fair investment practices by investment advisers within the state of New York (Part B).",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A05471/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A05471/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A5471",
+  "sponsors": [
+    "George Alvarez (D) [Rep]",
+    "Landon Dais (D) [Rep]",
+    "Alicia Hyndman (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "Rodneyse Bichotte Hermelyn (D) [Rep]",
+    "Yudelka Tapia (D) [Rep]",
+    "Manny De Los Santos (D) [Rep]",
+    "Chantel Jackson (D) [Rep]",
+    "Jordan Wright (D) [Rep]",
+    "Alfred Taylor (D) [Rep]",
+    "Catalina Cruz (D) [Rep]",
+    "Steven Raga (D) [Rep]",
+    "Noah Burroughs (D) [Rep]",
+    "Demond Meeks (D) [Rep]",
+    "Maritza Davila (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-14",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-14",
+      "action": "referred to governmental employees",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "amend and recommit to governmental employees",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "print number 5471a",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-11-19",
+      "action": "amend and recommit to governmental employees",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-11-19",
+      "action": "print number 5471b",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to governmental employees",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-14",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A05471&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A05471",
+      "doc_id": 3120948
+    },
+    {
+      "date": "2025-02-14",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A05471&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A05471A",
+      "doc_id": 3218632
+    },
+    {
+      "date": "2025-02-14",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A05471&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A05471B",
+      "doc_id": 3285225
+    }
+  ],
+  "committee": {
+    "committee_id": 367,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Governmental Employees"
+  },
+  "subjects": []
+}

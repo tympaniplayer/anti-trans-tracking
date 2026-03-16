@@ -1,0 +1,65 @@
+{
+  "id": 2045678,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "SB1024",
+  "title": "In assault, further providing for the offense of ethnic intimidation; and, in particular rights and immunities, further prohibiting civil rights violations.",
+  "summary": "An Act amending Titles 18 (Crimes and Offenses) and 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in assault, further providing for the offense of ethnic intimidation; and, in particular rights and immunities, further prohibiting civil rights violations.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/SB1024/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/SB1024/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/sb1024",
+  "sponsors": [
+    "Jay Costa (D) [Sen]",
+    "Steven Santarsiero (D) [Sen]",
+    "Timothy Kearney (D) [Sen]",
+    "Arthur Haywood (D) [Sen]",
+    "Vincent Hughes (D) [Sen]",
+    "Wayne Fontana (D) [Sen]",
+    "Carolyn Comitta (D) [Sen]",
+    "Patty Kim (D) [Sen]",
+    "Judy Schwank (D) [Sen]",
+    "Christine Tartaglione (D) [Sen]",
+    "John Kane (D) [Sen]",
+    "Nick Pisciottano (D) [Sen]",
+    "Amanda Cappelletti (D) [Sen]",
+    "Nikil Saval (D) [Sen]",
+    "Katie Muth (D) [Sen]",
+    "Sharif Street (D) [Sen]",
+    "Maria Collett (D) [Sen]"
+  ],
+  "introduced_date": "2025-10-03",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-10-03",
+      "action": "Referred to Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-03",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB1024/PN1191",
+      "doc_id": 3271712
+    }
+  ],
+  "committee": {
+    "committee_id": 77,
+    "chamber": "S",
+    "chamber_id": 4,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

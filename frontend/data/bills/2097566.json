@@ -1,0 +1,52 @@
+{
+  "id": 2097566,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A3303",
+  "title": "Updates definition of veteran to include discharged LGBTQ veteran; requires DVA develop review process for such veterans.",
+  "summary": "Updates definition of veteran to include discharged LGBTQ veteran; requires DVA develop review process for such veterans.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A3303/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A3303/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A3303",
+  "sponsors": [
+    "William Sampson (D) [Rep]",
+    "Annette Quijano (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Military and Veterans' Affairs Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-07",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A3500/3303_I1.HTM",
+      "doc_id": 3336629
+    }
+  ],
+  "committee": {
+    "committee_id": 865,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Military and Veterans' Affairs"
+  },
+  "subjects": [
+    "Military and Veterans' Affairs"
+  ]
+}

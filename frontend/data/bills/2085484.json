@@ -1,0 +1,100 @@
+{
+  "id": 2085484,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "SB349",
+  "title": "Virginia Residential Landlord and Tenant Act; pre-tenancy fees.",
+  "summary": "Virginia Residential Landlord and Tenant Act; Manufactured Home Lot Rental Act; pre-tenancy fees. Prohibits a landlord from charging or collecting any fee that is not a pre-tenancy fee as described in the bill and limits the charging or collection of such pre-tenancy fees to either prior to or upon the execution of a rental agreement. The bill requires a landlord to, prior to requesting or collecting any payment or information about a prospective tenant and prior to exhibiting the dwelling unit to a prospective tenant, notify the prospective tenant of any pre-tenancy fees in writing or by posting in a manner accessible to a prospective tenant. The bill provides that no landlord shall charge any fee to a prospective tenant prior to exhibiting the dwelling unit to the prospective tenant, unless the prospective tenant agrees to waive such requirement. The bill allows a landlord to collect a pet deposit, defined in the bill as separate from a security deposit, from a tenant if a pet is occupying the dwelling unit. The bill provides that no security deposit or pet deposit may be applied by the landlord toward (i) the cost of professional services or (ii) the cost of materials and labor performed by the landlord or an employee of the landlord, unless such costs are (a) reasonably necessary to return the premises to the same condition as the condition of the premises at the start of the rental agreement, less reasonable wear and tear, and (b) the landlord provides a receipt reflecting such costs to the tenant. The bill also reduces from two months of rent to one month of rent the maximum security deposit amount and decreases from 45 days to 30 days the amount of time after the termination date of the tenancy or the date the tenant vacates the dwelling unit, whichever occurs last, that the landlord shall provide a written notice to the tenant of the itemized charges deducted from the security deposit and applies the same provisions to pet deposits. The bill also provides that nothing shall be construed to allow an owner, manager, or operator of a residential building to charge a tenant for water, sewer, electrical, natural gas, oil, or other utilities if the utility is supplied directly to the tenant. Finally, the bill applies the provisions of law relating to the rental application process and administrative or renewal fees, as amended by this bill, to the Manufactured Home Lot Rental Act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/SB349/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/SB349/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/SB349",
+  "sponsors": [
+    "Schuyler VanValkenburg (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26104785D",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Referred to Committee on General Laws and Technology",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Assigned GL&T sub: Housing",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (SB349)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Senate committee offered",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Continued to next session in General Laws and Technology (15-Y 0-N)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Senate committee offered",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-11",
+      "description": "Continued to next session in General Laws and Technology (15-Y 0-N)",
+      "yea": 15,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-13",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB349/text/SB349",
+      "doc_id": 3322834
+    },
+    {
+      "date": "2026-02-04",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB349/text/SB349SC1",
+      "doc_id": 3348410
+    },
+    {
+      "date": "2026-02-11",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB349/text/SB349SC2",
+      "doc_id": 3359131
+    },
+    {
+      "date": "2026-02-11",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB349/text/SB349SC3",
+      "doc_id": 3359132
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

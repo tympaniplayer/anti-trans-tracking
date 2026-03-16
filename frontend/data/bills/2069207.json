@@ -1,0 +1,74 @@
+{
+  "id": 2069207,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "HB251",
+  "title": "Assault and battery; creates Class 6 felony for serious bodily injury.",
+  "summary": "Assault and battery; serious bodily injury; penalty. Creates a Class 6 felony for any person who commits an assault and battery that results in serious bodily injury, as defined in relevant law, but does not rise to the level of the current offenses of unlawful or malicious wounding. The bill adds such new offense to the list of violent felony offenses for the purposes of the discretionary sentencing guidelines.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/HB251/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/HB251/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/HB251",
+  "sponsors": [
+    "Vivian Watts (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-08",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26102460D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Referred to Committee for Courts of Justice",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-09",
+      "action": "Fiscal Impact statement From VCSC (1/9/2026 11:01 am)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (HB251)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Assigned HCJ sub: Criminal",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Subcommittee recommends continuing to (Voice Vote)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Continued to next session in Courts of Justice (Voice Vote)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-08",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB251/text/HB251",
+      "doc_id": 3303943
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

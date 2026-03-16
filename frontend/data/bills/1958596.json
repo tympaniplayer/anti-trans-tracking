@@ -1,0 +1,150 @@
+{
+  "id": 1958596,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB1028",
+  "title": "Protection of Women in Olympic and Amateur Sports Act of 2026",
+  "summary": "To modify eligibility requirements for amateur sports governing organizations.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB1028/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB1028/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/1028/all-info",
+  "sponsors": [
+    "Greg Steube (R) [Rep]",
+    "Andrew Clyde (R) [Rep]",
+    "Doug LaMalfa (R) [Rep]",
+    "Mike Haridopolos (R) [Rep]",
+    "Nancy Mace (R) [Rep]",
+    "Tim Burchett (R) [Rep]",
+    "Claudia Tenney (R) [Rep]",
+    "Daniel Webster (R) [Rep]",
+    "Troy Nehls (R) [Rep]",
+    "Burgess Owens (R) [Rep]",
+    "Mary Miller (R) [Rep]",
+    "Harriet Hageman (R) [Rep]",
+    "James Baird (R) [Rep]",
+    "Chuck Edwards (R) [Rep]",
+    "Monica De La Cruz (R) [Rep]",
+    "Randy Weber (R) [Rep]",
+    "Ryan Zinke (R) [Rep]",
+    "Russ Fulcher (R) [Rep]",
+    "Brian Babin (R) [Rep]",
+    "Troy Downing (R) [Rep]",
+    "Robert Aderholt (R) [Rep]",
+    "David Kustoff (R) [Rep]",
+    "Vern Buchanan (R) [Rep]",
+    "Andy Biggs (R) [Rep]",
+    "Mark Messmer (R) [Rep]",
+    "Mike Bost (R) [Rep]",
+    "Derrick Van Orden (R) [Rep]",
+    "John Carter (R) [Rep]",
+    "William Timmons (R) [Rep]",
+    "Paul Gosar (R) [Rep]",
+    "Mariannette Miller-Meeks (R) [Rep]",
+    "Ashley Hinson (R) [Rep]",
+    "Gary Palmer (R) [Rep]",
+    "Dusty Johnson (R) [Rep]",
+    "Andrew Ogles (R) [Rep]",
+    "Elijah Crane (R) [Rep]",
+    "Scott Franklin (R) [Rep]",
+    "Gus Bilirakis (R) [Rep]",
+    "John James (R) [Rep]",
+    "Marjorie Greene (R) [Rep]",
+    "Richard McCormick (R) [Rep]",
+    "Wesley Hunt (R) [Rep]",
+    "David Schweikert (R) [Rep]",
+    "Barry Moore (R) [Rep]",
+    "Byron Donalds (R) [Rep]",
+    "Sheri Biggs (R) [Rep]",
+    "Michael Guest (R) [Rep]",
+    "Mark Alford (R) [Rep]",
+    "Pete Stauber (R) [Rep]",
+    "Laurel Lee (R) [Rep]",
+    "Rudolph Yakym III (R) [Rep]",
+    "Keith Self (R) [Rep]",
+    "Adrian Smith (R) [Rep]",
+    "Blake Moore (R) [Rep]",
+    "David Taylor (R) [Rep]",
+    "Eric Burlison (R) [Rep]",
+    "Pat Harrigan (R) [Rep]",
+    "Mike Kelly (R) [Rep]",
+    "Ben Cline (R) [Rep]",
+    "Riley Moore (R) [Rep]",
+    "Roger Williams (R) [Rep]",
+    "Mark Harris (R) [Rep]",
+    "Robert Onder (R) [Rep]",
+    "Tim Moore (R) [Rep]",
+    "Garland Barr (R) [Rep]",
+    "Andy Harris (R) [Rep]",
+    "Russell Fry (R) [Rep]",
+    "John Rutherford (R) [Rep]",
+    "Richard Hudson (R) [Rep]",
+    "Erin Houchin (R) [Rep]",
+    "Brandon Gill (R) [Rep]",
+    "John McGuire (R) [Rep]",
+    "Jeff Van Drew (R) [Rep]",
+    "Jake Ellzey (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-05",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-02-05",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Committee Consideration and Mark-up Session Held",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Ordered to be Reported (Amended) by the Yeas and Nays: 15 - 10.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Reported (Amended) by the Committee on Judiciary. H. Rept. 119-497.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Placed on the Union Calendar, Calendar No. 423.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-05",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr1028/BILLS-119hr1028ih.pdf",
+      "doc_id": 3155516
+    },
+    {
+      "date": "2026-02-17",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr1028/BILLS-119hr1028rh.pdf",
+      "doc_id": 3365857
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Sports and recreation"
+  ]
+}

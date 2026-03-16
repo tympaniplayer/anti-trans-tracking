@@ -1,0 +1,85 @@
+{
+  "id": 2045773,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "CER26-0098",
+  "title": "Domestic Violence Awareness Month Recognition Resolution of 2025",
+  "summary": "Domestic Violence Awareness Month Recognition Resolution of 2025",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/CER26-0098/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/CER26-0098/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/CER26-0098",
+  "sponsors": [
+    "Brooke Pinto (D) [Sen]",
+    "Janeese Lewis George (D) [Sen]",
+    "Charles Allen (D) [Sen]",
+    "Kenyan McDuffie (I) [Sen]",
+    "Wendell Felder (D) [Sen]",
+    "Anita Bonds (D) [Sen]",
+    "Trayon White (D) [Sen]",
+    "Phil Mendelson (D) [Sen]"
+  ],
+  "introduced_date": "2025-10-07",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2025-10-06",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-10-07",
+      "action": "Retained by the Council",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-10-07",
+      "action": "Final Reading, CC",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-10-07",
+      "action": "Approved with Resolution Number ACR26-0096",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-10-31",
+      "action": "Resolution ACR26-0096, Effective from Oct 07, 2025 Published in DC Register Vol 72 and Page 012009",
+      "chamber": "C"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-10-07",
+      "description": "Final Reading, CC",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-10-06",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/60440/Introduction/CER26-0098-Introduction.pdf",
+      "doc_id": 3271903
+    },
+    {
+      "date": "2025-10-07",
+      "type": "Enrolled",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/60440/Meeting1/Enrollment/CER26-0098-Enrollment1.pdf",
+      "doc_id": 3274360
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

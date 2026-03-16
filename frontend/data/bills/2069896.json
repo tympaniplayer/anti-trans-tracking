@@ -1,0 +1,74 @@
+{
+  "id": 2069896,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "HB289",
+  "title": "AN ACT relating to students.",
+  "summary": "Create a new section of KRS Chapter 159 to require a local school district to enroll a student on a part-time basis for courses or programs in a school, subject to standard enrollment policies and procedures; permit part-time enrollment in a local school district to partially satisfy compulsory attendance; prohibit part-time enrollee participation in interscholastic athletics; amend KRS 158.120 to specify that a nonresident pupil policy shall not discriminate on certain factors; prohibit a local school district from charging tuition to a parent or guardian; require school districts to determine and publish nonresident enrollment capacity; require the Kentucky Board of Education to create nonresident pupil enrollment application forms and specify the application process; require reporting by school districts and the Kentucky Department of Education on nonresident enrollment; create a new section of KRS Chapter 158 to define terms; create a formula for distribution of any state appropriated funds to eligible school districts for nonresident students; amend KRS 156.070 and KRS 157.350 to conform; require each school district to report on nonresident pupils and tuition charged during the 2026-2027 school year; require the Kentucky Department of Education to submit a compiled report to the Legislative Research Commission; EFFECTIVE, in part, July 1, 2028.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "sports",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/HB289/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/HB289/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/hb289.html",
+  "sponsors": [
+    "Kimberly Banta (R) [Rep]",
+    "Josh Calloway (R) [Rep]",
+    "Steven Doan (R) [Rep]",
+    "Vanessa Grossl (R) [Rep]",
+    "John Hodgson (R) [Rep]",
+    "T.J. Roberts (R) [Rep]",
+    "James Tipton (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-09",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "action": "introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-09",
+      "action": "to Committee on Committees (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-16",
+      "action": "to Primary and Secondary Education (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb289/orig_bill.pdf",
+      "doc_id": 3304671
+    }
+  ],
+  "committee": {
+    "committee_id": 5121,
+    "chamber": "H",
+    "chamber_id": 43,
+    "name": "Primary and Secondary Education"
+  },
+  "subjects": [
+    "Education, Elementary and Secondary",
+    "Administrative Regulations and Proceedings",
+    "Education, Finance",
+    "Effective Dates, Delayed",
+    "Reports Mandated",
+    "State Agencies"
+  ]
+}

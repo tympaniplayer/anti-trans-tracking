@@ -1,0 +1,68 @@
+{
+  "id": 2027822,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3127",
+  "title": "Fairness to Freedom Act of 2025",
+  "summary": "To establish the right to counsel, at Government expense for those who cannot afford counsel, for people facing removal.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3127/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3127/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3127/all-info",
+  "sponsors": [
+    "Norma Torres (D) [Rep]",
+    "Grace Meng (D) [Rep]",
+    "Pramila Jayapal (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Daniel Goldman (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Mike Quigley (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Andrea Salinas (D) [Rep]",
+    "Jasmine Crockett (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-30",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-04-30",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-10",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3127/BILLS-119hr3127ih.pdf",
+      "doc_id": 3234038
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Immigration"
+  ]
+}

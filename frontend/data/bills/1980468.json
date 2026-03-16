@@ -1,0 +1,157 @@
+{
+  "id": 1980468,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "SB738",
+  "title": "The Reclaim Act.",
+  "summary": "An act to amend Sections 391 and 391.1 of, and to add Section 391.9 to, the Code of Civil Procedure, and to amend Sections 6309, 6320, and 6340 of the Family Code, relating to domestic violence.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/SB738/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/SB738/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB738",
+  "sponsors": [
+    "Susan Rubio (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-21",
+      "action": "Introduced. To Com. on RLS. for assignment. To print.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "From printer. May be acted upon on or after March 24.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Read first time.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Referred to Com. on RLS.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Re-referred to Com. on JUD.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on JUD.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Set for hearing April 22.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-18",
+      "action": "April 22 hearing postponed by committee.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Set for hearing April 29.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "From committee: Do pass as amended and re-refer to Com. on APPR. with recommendation: To consent calendar. (Ayes 13. Noes 0. Page 942.) (April 29).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Read second time and amended. Re-referred to Com. on APPR.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Set for hearing May 12.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "May 12 hearing: Placed on APPR. suspense file.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Set for hearing May 23.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "May 23 hearing: Held in committee and under submission.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-29",
+      "description": "Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations] with the recommendation: To Consent Calendar",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-12",
+      "description": "Placed on suspense file",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-21",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB738#99INT",
+      "doc_id": 3137254
+    },
+    {
+      "date": "2025-03-26",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB738#98AMD",
+      "doc_id": 3191174
+    },
+    {
+      "date": "2025-04-10",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB738#97AMD",
+      "doc_id": 3209315
+    },
+    {
+      "date": "2025-05-01",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB738#96AMD",
+      "doc_id": 3227535
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

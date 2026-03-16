@@ -1,0 +1,81 @@
+{
+  "id": 2101760,
+  "state": "AZ",
+  "state_name": "Arizona",
+  "bill_number": "SB1599",
+  "title": "Textbooks; adverse representation; prohibition",
+  "summary": "Textbooks; adverse representation; prohibition",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AZ/bill/SB1599/2026",
+  "legiscan_url": "https://legiscan.com/AZ/bill/SB1599/2026",
+  "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/85230",
+  "sponsors": [
+    "Lela Alston (D) [Sen]",
+    "Flavio Bravo (D) [Sen]",
+    "Eva Diaz (D) [Sen]",
+    "Rosanna Gabaldon (D) [Sen]",
+    "Catherine Miranda (D) [Sen]",
+    "Analise Ortiz (D) [Sen]",
+    "Kiana Sears (D) [Sen]",
+    "Priya Sundareshan (D) [Sen]",
+    "Janeen Connolly (D) [Rep]",
+    "Mariana Sandoval (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
+  "actions": [
+    {
+      "date": "2026-02-03",
+      "action": "Introduced in Senate and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Assigned to Senate ED Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Assigned to Senate RULES Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Senate read second time",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-29",
+      "type": "Introduced",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/sb1599p.htm",
+      "doc_id": 3341040
+    }
+  ],
+  "committee": {
+    "committee_id": 1107,
+    "chamber": "S",
+    "chamber_id": 16,
+    "name": "Education Accountability and Reform"
+  },
+  "subjects": [
+    "Adverse Representation",
+    "Definition",
+    "Education - Title 15",
+    "Governing Board",
+    "Prohibition",
+    "School Textbooks",
+    "Textbooks"
+  ]
+}

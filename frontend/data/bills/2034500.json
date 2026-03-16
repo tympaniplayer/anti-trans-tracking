@@ -1,0 +1,60 @@
+{
+  "id": 2034500,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4165",
+  "title": "Relative to parent names on birth certificates",
+  "summary": "Relative to parent names on birth certificates. Public Health.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "identity_documents"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4165/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4165/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4165",
+  "sponsors": [
+    "Lindsay Sabadosa (D) [Rep]"
+  ],
+  "introduced_date": "2025-05-29",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-05-29",
+      "action": "Referred to the Joint Committee on Public Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Hearing scheduled for 07/10/2025 from 09:00 AM-01:00 PM in A-1",
+      "chamber": "J"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-29",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4165.pdf",
+      "doc_id": 3248001
+    }
+  ],
+  "committee": {
+    "committee_id": 770,
+    "chamber": "J",
+    "chamber_id": 103,
+    "name": "Public Health"
+  },
+  "subjects": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": 2032683,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A08532",
+  "title": "Prevents housing discrimination based on wage history, medical history, and health conditions.",
+  "summary": "Prevents housing discrimination based on wage history, medical history, and health conditions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A08532/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A08532/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A8532",
+  "sponsors": [
+    "Steven Raga (D) [Rep]"
+  ],
+  "introduced_date": "2025-05-20",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-20",
+      "action": "referred to governmental operations",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to governmental operations",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-20",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08532&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08532",
+      "doc_id": 3240944
+    }
+  ],
+  "committee": {
+    "committee_id": 368,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Governmental Operations"
+  },
+  "subjects": []
+}

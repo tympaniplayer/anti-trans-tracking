@@ -1,0 +1,180 @@
+{
+  "id": 2101231,
+  "state": "OR",
+  "state_name": "Oregon",
+  "bill_number": "SB1532",
+  "title": "Relating to services for vulnerable persons; and declaring an emergency.",
+  "summary": "The Act makes changes to laws about long term care facilities and persons who provide I/DD services. The Act modifies laws about out-of-state placements of children in care and when DHS can find that a person abused a child in care. (Flesch Readability Score: 64.6). Adds requirements for imposing a condition on the license of a residential care facility or long term care facility in response to a preliminary finding or substantiated finding of immediate jeopardy. Directs the Department of Human Services to adopt a model consent form for the use of a video camera or other electronic monitoring device in a resident's room at a residential care facility. Requires the department and the Oregon Health Authority to achieve full compliance with certain provisions of chapter 619, Oregon Laws 2025, no later than January 1, 2027. Requires the department, in setting agency payment rates, to adopt a differentiated rate model for [providers of attendant care services] agencies that employ direct support professionals who reside with their clients. Creates exceptions to certain child placement limitations. Modifies certain provisions regarding the use of restraints on children in care. Declares an emergency, effective on passage.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "bathrooms",
+    "education"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OR/bill/SB1532/2026",
+  "legiscan_url": "https://legiscan.com/OR/bill/SB1532/2026",
+  "state_url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1532",
+  "sponsors": [],
+  "introduced_date": "2026-03-10",
+  "session": "2026 Legislative Measures",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "Introduction and first reading. Referred to President's desk.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Referred to Human Services.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Public Hearing held.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Public Hearing held.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Work Session held.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Work Session held.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Recommendation: Do pass with amendments. (Printed A-Eng.)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Third reading. Carried by Gelser Blouin. Passed. Ayes, 26; Nays, 1--Robinson; Excused, 3--Drazan, Frederick, Linthicum.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "First reading. Referred to Speaker's desk.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Referred to Early Childhood and Human Services.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Public Hearing held.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Work Session held.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Recommendation: Do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Second reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Third reading. Carried by McIntire. Passed. Ayes, 43; Absent, 6--Boshart Davis, Harbick, Osborne, Scharf, Skarlatos, Yunker; Excused, 5--Diehl, Hartman, Levy E, Mannix, Valderrama; Excused for Business of the House, 6--Levy B, Marsh, Nathanson, Reschke, Sosa, Walters.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "President signed.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Speaker signed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Governor signed.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-12",
+      "description": "Senate Committee Do pass with amendments. (Printed A-Eng.)",
+      "yea": 5,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-19",
+      "description": "Senate Third Reading",
+      "yea": 26,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-26",
+      "description": "House Committee Do Pass the A-Eng bill",
+      "yea": 6,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-02",
+      "description": "House Third Reading",
+      "yea": 43,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1532/Introduced",
+      "doc_id": 3340423
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1532/Senate%20Amendments%20to%20Introduced",
+      "doc_id": 3365349
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1532/A-Engrossed",
+      "doc_id": 3365350
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Enrolled",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1532/Enrolled",
+      "doc_id": 3383569
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

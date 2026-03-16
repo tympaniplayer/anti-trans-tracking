@@ -1,0 +1,74 @@
+{
+  "id": 1980585,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "SR22",
+  "title": "Relative to Transgender Day of Visibility.",
+  "summary": "Relative to Transgender Day of Visibility.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/SR22/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/SR22/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SR22",
+  "sponsors": [
+    "Scott Wiener (D) [Sen]",
+    "Christopher Cabaldon (D) [Sen]",
+    "Sabrina Cervantes (D) [Sen]",
+    "John Laird (D) [Sen]",
+    "Caroline Menjivar (D) [Sen]",
+    "Steve Padilla (D) [Sen]",
+    "Sasha Renee Perez (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-24",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-21",
+      "action": "Introduced. Referred to Com. on RLS.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "From committee: Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Read. Adopted. (Ayes 26. Noes 1. Page 508.)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-24",
+      "description": "Senate 3rd Reading SR22 Wiener et al",
+      "yea": 26,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-21",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SR22#99INT",
+      "doc_id": 3137369
+    },
+    {
+      "date": "2025-03-26",
+      "type": "Enrolled",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SR22#98ENR",
+      "doc_id": 3191130
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,221 @@
+{
+  "id": 2049005,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "SB929",
+  "title": "Practice of osteopathic medicine; amending various provisions of the Oklahoma Osteopathic Medicine Act. Emergency.",
+  "summary": "Practice of osteopathic medicine; amending various provisions of the Oklahoma Osteopathic Medicine Act. Emergency.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/SB929/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/SB929/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=sb929&Session=2600",
+  "sponsors": [
+    "John Haste (R) [Sen]",
+    "Carl Newton (R) [Rep]"
+  ],
+  "introduced_date": "2025-05-12",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Authored by Senator Haste",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Second Reading referred to Health and Human Services",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Coauthored by Representative Newton (principal House author)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Reported Do Pass, amended by committee substitute Health and Human Services committee; CR filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Placed on General Order",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "General Order, Considered",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Measure and Emergency passed: Ayes: 47 Nays: 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Referred for engrossment",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Engrossed to House",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Second Reading referred to Health and Human Services Oversight",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Referred to Public Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Policy recommendation to the Health and Human Services Oversight committee; Do Pass Public Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "CR; Do Pass Health and Human Services Oversight Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "General Order",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Third Reading, Measure and Emergency passed: Ayes: 84 Nays: 0",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Signed, returned to Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Referred for enrollment",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "Enrolled, to House",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "Signed, returned to Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "Sent to Governor",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Becomes law without Governor's signature 05/12/2025",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-24",
+      "description": "Senate: Health & Human Services Committee: DO PASS AMENDED CS",
+      "yea": 11,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-05",
+      "description": "Senate: THIRD READING",
+      "yea": 47,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-09",
+      "description": "House: Public Health Committee: DO PASS",
+      "yea": 6,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-14",
+      "description": "House: Health and Human Services Oversight Committee: DO PASS",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-01",
+      "description": "House: THIRD READING",
+      "yea": 84,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/SB/SB929%20INT.PDF",
+      "doc_id": 3277845
+    },
+    {
+      "date": "2025-02-24",
+      "type": "Comm Sub",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20COMMITTEE%20SUBS/SCS/SB929%20CS.PDF",
+      "doc_id": 3277846
+    },
+    {
+      "date": "2025-04-16",
+      "type": "Amended",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20FLR/HFLR/SB929%20HFLR.PDF",
+      "doc_id": 3277847
+    },
+    {
+      "date": "2025-02-25",
+      "type": "Amended",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20FLR/SFLR/SB929%20SFLR.PDF",
+      "doc_id": 3277848
+    },
+    {
+      "date": "2025-03-06",
+      "type": "Engrossed",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENGR/SB/SB929%20ENGR.PDF",
+      "doc_id": 3277849
+    },
+    {
+      "date": "2025-05-05",
+      "type": "Enrolled",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB929%20ENR.PDF",
+      "doc_id": 3277850
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

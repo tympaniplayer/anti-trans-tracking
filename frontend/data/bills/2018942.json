@@ -1,0 +1,52 @@
+{
+  "id": 2018942,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "HF3075",
+  "title": "Subject of a birth record allowed to change, remove, or add sex indicator on birth records.",
+  "summary": "Subject of a birth record allowed to change, remove, or add sex indicator on birth records.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/HF3075/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/HF3075/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3075/",
+  "sponsors": [
+    "Athena Hollins (D) [Rep]",
+    "Brion Curran (D) [Rep]",
+    "Leigh Finke (D) [Rep]",
+    "Alicia Kozlowski (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-02",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-04-02",
+      "action": "Introduction and first reading, referred to Health Finance and Policy",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-01",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3075/versions/0/pdf/",
+      "doc_id": 3198738
+    }
+  ],
+  "committee": {
+    "committee_id": 4302,
+    "chamber": "H",
+    "chamber_id": 55,
+    "name": "Health Finance & Policy"
+  },
+  "subjects": []
+}

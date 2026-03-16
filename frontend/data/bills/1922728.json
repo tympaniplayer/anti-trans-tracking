@@ -1,0 +1,56 @@
+{
+  "id": 1922728,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A02362",
+  "title": "Relates to certain discriminatory practices; relates to the qualification of professionals in education; provides for the tolling of certain statutes of limitations; provides a private cause of action for a person who is qualified for a public contract who has been deprived of equal opportunity to such public contract.",
+  "summary": "Relates to certain discriminatory practices; relates to the qualification of professionals in education; provides for the tolling of certain statutes of limitations; provides a private cause of action for a person who is qualified for a public contract who has been deprived of equal opportunity to such public contract.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A02362/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A02362/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A2362",
+  "sponsors": [
+    "Michaelle Solages (D) [Rep]",
+    "Keith Brown (R) [Rep]",
+    "Philip Ramos (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-16",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-16",
+      "action": "referred to governmental operations",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to governmental operations",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A02362&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A02362",
+      "doc_id": 3061573
+    }
+  ],
+  "committee": {
+    "committee_id": 368,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Governmental Operations"
+  },
+  "subjects": []
+}

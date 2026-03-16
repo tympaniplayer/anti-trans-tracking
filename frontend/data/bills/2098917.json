@@ -1,0 +1,71 @@
+{
+  "id": 2098917,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "H7357",
+  "title": "Creates the reproductive health and gender-affirming healthcare data privacy act.",
+  "summary": "HEALTH AND SAFETY -- REPRODUCTIVE HEALTH AND GENDER-AFFIRMING HEALTHCARE DATA PRIVACY ACT - Creates the reproductive health and gender-affirming healthcare data privacy act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/H7357/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/H7357/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Jason Knight (D) [Rep]",
+    "Jennifer Boylan (D) [Rep]",
+    "Hagan McEntee (D) [Rep]",
+    "June Speakman (D) [Rep]",
+    "Susan Donovan (D) [Rep]",
+    "Lauren Carson (D) [Rep]",
+    "Grace Diaz (D) [Rep]",
+    "Terri-Denise Cortvriend (D) [Rep]",
+    "Tina Spears (D) [Rep]",
+    "Katherine Kazarian (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-28",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-28",
+      "action": "Introduced, referred to House Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Scheduled for hearing and/or consideration (03/10/2026)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Committee recommended measure be held for further study",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-28",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H7357.pdf",
+      "doc_id": 3337998
+    }
+  ],
+  "committee": {
+    "committee_id": 1121,
+    "chamber": "H",
+    "chamber_id": 83,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Health And Safety",
+    "HEALTH AND SAFETY -- REPRODUCTIVE HEALTH AND GENDER-AFFIRMING HEALTHCARE DATA PRIVACY ACT"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1958608,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB1015",
+  "title": "Prison Rape Prevention Act of 2025",
+  "summary": "To amend title 18, United States Code, to provide for certain rules for housing or transportation based on gender and to provide for a limitation on gender-related medical treatment.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "sports"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB1015/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB1015/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/1015/all-info",
+  "sponsors": [
+    "Nancy Mace (R) [Rep]",
+    "Troy Nehls (R) [Rep]",
+    "Byron Donalds (R) [Rep]",
+    "Lauren Boebert (R) [Rep]",
+    "Andy Biggs (R) [Rep]",
+    "Andy Harris (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-05",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-02-05",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-05",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr1015/BILLS-119hr1015ih.pdf",
+      "doc_id": 3153605
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crime and law enforcement"
+  ]
+}

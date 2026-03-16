@@ -1,0 +1,85 @@
+{
+  "id": 1979357,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB3186",
+  "title": "Relating to intercollegiate athletic competitions based on biological sex.",
+  "summary": "Relating to intercollegiate athletic competitions based on biological sex.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB3186/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB3186/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3186",
+  "sponsors": [
+    "Valoree Swanson (R) [Rep]",
+    "Cecil Bell (R) [Rep]",
+    "Briscoe Cain (R) [Rep]",
+    "Pat Curry (R) [Rep]",
+    "Mark Dorazio (R) [Rep]",
+    "Caroline Fairly (R) [Rep]",
+    "Stan Gerdes (R) [Rep]",
+    "Caroline Harris Davila (R) [Rep]",
+    "Richard Hayes (R) [Rep]",
+    "Andy Hopper (R) [Rep]",
+    "Helen Kerwin (R) [Rep]",
+    "Stan Kitzman (R) [Rep]",
+    "Terri Leo-Wilson (R) [Rep]",
+    "Mitch Little (R) [Rep]",
+    "William Metcalf (R) [Rep]",
+    "Brent Money (R) [Rep]",
+    "Katrina Pierson (R) [Rep]",
+    "Joanne Shofner (R) [Rep]",
+    "Shelby Slawson (R) [Rep]",
+    "Steve Toth (R) [Rep]",
+    "Cody Vasut (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-21",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-21",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Referred to Higher Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-21",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB03186I.htm",
+      "doc_id": 3136716
+    }
+  ],
+  "committee": {
+    "committee_id": 1880,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Higher Education"
+  },
+  "subjects": [
+    "Education",
+    "Education--Higher",
+    "Education--Higher--Athletics",
+    "GENDER IDENTITY & EXPRESSION"
+  ]
+}

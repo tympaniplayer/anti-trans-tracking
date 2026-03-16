@@ -1,0 +1,78 @@
+{
+  "id": 1891754,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB991",
+  "title": "Relating to abortion, including civil liability for distribution of abortion-inducing drugs and duties of Internet service providers; creating a criminal offense; authorizing a private civil right of action.",
+  "summary": "Relating to abortion, including civil liability for distribution of abortion-inducing drugs and duties of Internet service providers; creating a criminal offense; authorizing a private civil right of action.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB991/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB991/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB991",
+  "sponsors": [
+    "Steve Toth (R) [Rep]",
+    "Janis Holt (R) [Rep]",
+    "Andy Hopper (R) [Rep]",
+    "J.M. Lozano (R) [Rep]"
+  ],
+  "introduced_date": "2024-11-12",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-12",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Referred to State Affairs",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-11-15",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00991I.htm",
+      "doc_id": 3028192
+    }
+  ],
+  "committee": {
+    "committee_id": 1895,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "Abortion",
+    "Civil Remedies & Liabilities",
+    "Crimes",
+    "Crimes--Against Morals",
+    "Electronic Information Systems",
+    "Political Subdivisions",
+    "Utilities",
+    "Utilities--Telecommunications",
+    "COMPUTERS & SOFTWARE",
+    "EVIDENCE",
+    "INTERNET",
+    "MEDICINE & PRESCRIPTION DRUGS",
+    "POSTAL SERVICE",
+    "ATTORNEY GENERAL",
+    "WOMEN & CHILD SAFETY ACT"
+  ]
+}

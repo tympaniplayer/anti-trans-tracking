@@ -1,0 +1,64 @@
+{
+  "id": 2100409,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HB2513",
+  "title": "Relating To Health Care For Minors.",
+  "summary": "Prohibits medical procedures and the distribution of hormones or puberty blockers for the purpose of allowing a minor to change their sex to correlate with an identified gender. Allows for certain exceptions. Creates both a private and state right of action. Outlines sanctions through the proper licensing authority for violations.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HB2513/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HB2513/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2513&year=2026",
+  "sponsors": [
+    "Garner Shimizu (R) [Rep]",
+    "Diamond Garcia (R) [Rep]",
+    "Chris Muraoka (R) [Rep]",
+    "Elijah Pierick (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-28",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-28",
+      "action": "Introduced and Pass First Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Referred to HLT/HSH, CPC, JHA, referral sheet 6",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-28",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB2513_.HTM",
+      "doc_id": 3339559
+    }
+  ],
+  "committee": {
+    "committee_id": 2042,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Health"
+  },
+  "subjects": [
+    "Minors",
+    "Health Care",
+    "Gender",
+    "Puberty Blockers",
+    "Prohibitions"
+  ]
+}

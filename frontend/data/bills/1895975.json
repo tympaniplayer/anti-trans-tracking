@@ -1,0 +1,66 @@
+{
+  "id": 1895975,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1038",
+  "title": "Prohibiting puberty blocking medications, cross-sex hormones, and gender transition surgeries for minors.",
+  "summary": "Prohibiting puberty blocking medications, cross-sex hormones, and gender transition surgeries for minors.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1038/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1038/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1038&Year=2025&Initiative=false",
+  "sponsors": [
+    "Cyndy Jacobsen (R) [Rep]",
+    "Matt Marshall (R) [Rep]",
+    "Joel McEntire (R) [Rep]",
+    "John Ley (R) [Rep]",
+    "Jim Walsh (R) [Rep]",
+    "Suzanne Schmidt (R) [Rep]",
+    "Carolyn Eslick (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-13",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2024-12-11",
+      "action": "Prefiled for introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading, referred to Health Care & Wellness.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-12-11",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1038.pdf",
+      "doc_id": 3032311
+    }
+  ],
+  "committee": {
+    "committee_id": 937,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Health Care and Wellness"
+  },
+  "subjects": []
+}

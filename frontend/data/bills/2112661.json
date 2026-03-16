@@ -1,0 +1,52 @@
+{
+  "id": 2112661,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB7420",
+  "title": "To amend chapter 55 of title 18, United States Code, to establish a criminal offense for the transportation of a minor for a gender transition procedure.",
+  "summary": "To amend chapter 55 of title 18, United States Code, to establish a criminal offense for the transportation of a minor for a gender transition procedure.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "sports",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB7420/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB7420/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/7420/all-info",
+  "sponsors": [
+    "Dan Crenshaw (R) [Rep]",
+    "Elijah Crane (R) [Rep]",
+    "Russell Fry (R) [Rep]",
+    "Anna Luna (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-09",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-02-09",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

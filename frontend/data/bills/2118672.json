@@ -1,0 +1,59 @@
+{
+  "id": 2118672,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "SB1114",
+  "title": "Data collection: sexual orientation, gender identity, and intersex status: disclosure.",
+  "summary": "An act to amend Sections 44230.6 and 66027 of the Education Code, and to amend Section 8310.8 of the Government Code, relating to data collection.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/SB1114/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/SB1114/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1114",
+  "sponsors": [
+    "Christopher Cabaldon (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-17",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-17",
+      "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "From printer. May be acted upon on or after March 20.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Referred to Coms. on G.O. and P., D.T., & C.P.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-17",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1114#99INT",
+      "doc_id": 3365592
+    }
+  ],
+  "committee": {
+    "committee_id": 479,
+    "chamber": "S",
+    "chamber_id": 20,
+    "name": "Governmental Organization"
+  },
+  "subjects": []
+}

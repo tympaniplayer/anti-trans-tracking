@@ -1,0 +1,242 @@
+{
+  "id": 1936624,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB283",
+  "title": "In-Home Supportive Services Employer-Employee Relations Act.",
+  "summary": "An act to amend Sections 3552, 3555.5, 7926.300, and 11121.1 of, and to add Title 26 (commencing with Section 110000) to, the Government Code, and to amend Sections 12300.4, 12301.24, 12301.6, 12301.61, and 12306.16 of, and to add Sections 12300.8 and 12300.9 to, the Welfare and Institutions Code, relating to in-home supportive services.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB283/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB283/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB283",
+  "sponsors": [
+    "Matt Haney (D) [Rep]",
+    "Isaac Bryan (D) [Rep]",
+    "Tina McKinnor (D) [Rep]",
+    "Esmeralda Soria (D) [Rep]",
+    "Patrick Ahrens (D) [Rep]",
+    "David Alvarez (D) [Rep]",
+    "Joaquin Arambula (D) [Rep]",
+    "Jesse Arreguin (D) [Sen]",
+    "Jasmeet Bains (D) [Rep]",
+    "Steve Bennett (D) [Rep]",
+    "Tasha Boerner Horvath (D) [Rep]",
+    "Mia Bonta (D) [Rep]",
+    "Jessica Caloza (D) [Rep]",
+    "Sabrina Cervantes (D) [Sen]",
+    "Maria Durazo (D) [Sen]",
+    "Sade Elhawary (D) [Rep]",
+    "Heath Flora (R) [Rep]",
+    "Robert Garcia (D) [Rep]",
+    "Mike Gipson (D) [Rep]",
+    "Lena Gonzalez (D) [Sen]",
+    "John Harabedian (D) [Rep]",
+    "Corey Jackson (D) [Rep]",
+    "Jeff Gonzalez (R) [Rep]",
+    "Maggy Krell (D) [Rep]",
+    "Alex Lee (D) [Rep]",
+    "Josh Lowenthal (D) [Rep]",
+    "Mark Gonzalez (D) [Rep]",
+    "Caroline Menjivar (D) [Sen]",
+    "Steve Padilla (D) [Sen]",
+    "Darshana Patel (D) [Rep]",
+    "Sharon Quirk-Silva (D) [Rep]",
+    "James Ramos (D) [Rep]",
+    "Rhodesia Ransom (D) [Rep]",
+    "Laura Richardson (D) [Sen]",
+    "Chris Rogers (D) [Rep]",
+    "Pilar Schiavo (D) [Rep]",
+    "LaShae Sharp-Collins (D) [Rep]",
+    "Avelino Valencia (D) [Rep]",
+    "Greg Wallis (R) [Rep]",
+    "Scott Wiener (D) [Sen]",
+    "Rick Zbur (D) [Rep]",
+    "Anamarie Farias (D) [Rep]"
+  ],
+  "introduced_date": "2025-05-29",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-22",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "From printer. May be heard in committee February 22.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Referred to Com. on P. E. & R.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Coauthors revised.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (March 19). Re-referred to Com. on APPR.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "In committee: Set, first hearing. Referred to suspense file.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Coauthors revised.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "From committee: Do pass. (Ayes 12. Noes 2.) (May 23).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Read third time. Passed. Ordered to the Senate. (Ayes 64. Noes 4. Page 1784.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-11",
+      "action": "Referred to Coms. on L., P.E. & R. and JUD.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on L., P.E. & R.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 4. Noes 1.) (June 18). Re-referred to Com. on JUD.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-02",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 12. Noes 1.) (July 1). Re-referred to Com. on APPR.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-14",
+      "action": "In committee: Referred to APPR. suspense file.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-29",
+      "action": "From committee: Amend, and do pass as amended. (Ayes 5. Noes 2.) (August 29).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-29",
+      "action": "Read second time and amended. Ordered returned to second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-02",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-09",
+      "action": "Ordered to inactive file at the request of Senator Durazo.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-19",
+      "description": "Do pass and be re-referred to the Committee on [Appropriations]",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-23",
+      "description": "Do pass",
+      "yea": 12,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-29",
+      "description": "AB 283 Haney Assembly Third Reading",
+      "yea": 64,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-18",
+      "description": "Do pass, but first be re-referred to the Committee on [Judiciary]",
+      "yea": 4,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-01",
+      "description": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+      "yea": 12,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-14",
+      "description": "Placed on suspense file",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-08-29",
+      "description": "Do pass as amended",
+      "yea": 5,
+      "nay": 2,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-22",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB283#99INT",
+      "doc_id": 3074068
+    },
+    {
+      "date": "2025-06-12",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB283#98AMD",
+      "doc_id": 3255496
+    },
+    {
+      "date": "2025-08-29",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB283#97AMD",
+      "doc_id": 3266888
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

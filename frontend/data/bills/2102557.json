@@ -1,0 +1,66 @@
+{
+  "id": 2102557,
+  "state": "WV",
+  "state_name": "West Virginia",
+  "bill_number": "SB687",
+  "title": "Prohibiting obscene materials in or within 2,500 feet of WV schools",
+  "summary": "The purpose of this bill is to prohibit obscene materials in West Virginia schools.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WV/bill/SB687/2026",
+  "legiscan_url": "https://legiscan.com/WV/bill/SB687/2026",
+  "state_url": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=687&year=2026&sessiontype=RS&btype=bill",
+  "sponsors": [
+    "Mike Azinger (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-30",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-30",
+      "action": "Filed for introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "To Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "Introduced in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "To Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=sb687%20intr.htm&yr=2026&sesstype=RS&i=687",
+      "doc_id": 3342240
+    }
+  ],
+  "committee": {
+    "committee_id": 30,
+    "chamber": "S",
+    "chamber_id": 2,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Education (K12)"
+  ]
+}

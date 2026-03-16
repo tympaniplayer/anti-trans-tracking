@@ -1,0 +1,58 @@
+{
+  "id": 2076945,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S2257",
+  "title": "Requires health insurance and Medicaid coverage for family planning and reproductive health care services; prohibits adverse actions by medical malpractice insurers in relation to performance of legally protected health care services.",
+  "summary": "Requires health insurance and Medicaid coverage for family planning and reproductive health care services; prohibits adverse actions by medical malpractice insurers in relation to performance of legally protected health care services.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "drag"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S2257/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S2257/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S2257",
+  "sponsors": [
+    "Teresa Ruiz (D) [Sen]",
+    "Nicholas Scutari (D) [Sen]",
+    "Andrew Zwicker (D) [Sen]",
+    "Renee Burgess (D) [Sen]",
+    "Vin Gopal (D) [Sen]",
+    "Britnee Timberlake (D) [Sen]",
+    "John McKeon (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Commerce Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-06",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S2500/2257_I1.HTM",
+      "doc_id": 3313952
+    }
+  ],
+  "committee": {
+    "committee_id": 874,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Commerce"
+  },
+  "subjects": [
+    "Commerce"
+  ]
+}

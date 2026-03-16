@@ -1,0 +1,71 @@
+{
+  "id": 2104758,
+  "state": "CO",
+  "state_name": "Colorado",
+  "bill_number": "HB1087",
+  "title": "Safeguard Minors from Sex-Altering Interventions",
+  "summary": "Concerning safeguarding a minor from health-care interventions intended to alter the minor's biological sex.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CO/bill/HB1087/2026",
+  "legiscan_url": "https://legiscan.com/CO/bill/HB1087/2026",
+  "state_url": "https://leg.colorado.gov/bills/HB26-1087",
+  "sponsors": [
+    "Scott Bottoms (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-18",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "Introduced In House - Assigned to Health & Human Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "House Committee on Health & Human Services Postpone Indefinitely",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-18",
+      "description": "House Health &amp; Human Services: Postpone House Bill 26-1087 indefinitely using a reversal of the previous roll call. There was no objection to the use of the reverse roll call, therefore, the bill was postponed indefinitely.",
+      "yea": 7,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-18",
+      "description": "House Health &amp; Human Services: Refer House Bill 26-1087 to the Committee on Finance.",
+      "yea": 5,
+      "nay": 7,
+      "passed": 0
+    }
+  ],
+  "texts": [
+    {
+      "date": "1969-12-31",
+      "type": "Introduced",
+      "url": "https://leg.colorado.gov/bill_files/111152/download",
+      "doc_id": 3344830
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Children & Domestic Matters",
+    "Civil Law",
+    "Crimes, Corrections, & Enforcement",
+    "Health Care & Health Insurance",
+    "Professions & Occupations"
+  ]
+}

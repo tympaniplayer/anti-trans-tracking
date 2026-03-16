@@ -1,0 +1,60 @@
+{
+  "id": 1908918,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB1214",
+  "title": "PROHIBIT SEX-REASSIGN-UNDER 18",
+  "summary": "Amends the Medical Practice Act of 1987. Provides that sex-reassignment procedures are prohibited for patients younger than 18 years of age. Provides that if sex-reassignment procedures are administered or performed on patients 18 years of age or older, consent must be provided as specified. Provides that the Department of Financial and Professional Regulation shall revoke the license of any physician who willfully or actively violates the prohibition on sex-reassignment procedures for patients younger than 18 years of age. Amends the Hospital Licensing Act and the Ambulatory Surgical Treatment Center Act. Adds a failure to comply with the provisions as grounds for fines, license denial, license suspension or revocation, or refusal to renew a hospital or facility's license. Amends the Illinois Administrative Procedure Act to provide for emergency rulemaking.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB1214/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB1214/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1214&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Adam Niemerg (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-09",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-09",
+      "action": "Filed with the Clerk by Rep. Adam M. Niemerg",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-09",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-09",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-09",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=196795&DocName=10400HB1214&DocNum=1214&DocTypeID=HB&LegID=157004&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3045880
+    }
+  ],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
+  "subjects": []
+}

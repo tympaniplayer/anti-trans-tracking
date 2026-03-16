@@ -1,0 +1,59 @@
+{
+  "id": 2116258,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB1876",
+  "title": "Health care coverage: nondiscrimination.",
+  "summary": "An act to add Section 1367.0435 to the Health and Safety Code, and to add Section 10133.135 to the Insurance Code, relating to health care coverage.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB1876/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB1876/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1876",
+  "sponsors": [
+    "Dawn Addis (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-12",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "From printer. May be heard in committee March 15.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Referred to Coms. on HEALTH and JUD.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-12",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1876#99INT",
+      "doc_id": 3361397
+    }
+  ],
+  "committee": {
+    "committee_id": 457,
+    "chamber": "A",
+    "chamber_id": 19,
+    "name": "Health"
+  },
+  "subjects": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": 2002660,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H599",
+  "title": "Relative to LGBTQ+ inclusive curriculum",
+  "summary": "Relative to LGBTQ+ inclusive curriculum in public schools. Education.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H599/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H599/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H599",
+  "sponsors": [
+    "Natalie Higgins (D) [Rep]",
+    "Jack Lewis (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-02",
+      "action": "Hearing scheduled for 09/16/2025 from 11:00 AM-5:00 PM in Gardner Auditorium",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-11-03",
+      "action": "Accompanied a new draft, see H4665",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H599.pdf",
+      "doc_id": 3168716
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

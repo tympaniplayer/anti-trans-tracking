@@ -1,0 +1,60 @@
+{
+  "id": 2103743,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S09091",
+  "title": "Requires the state office for the aging to maintain a public facing state master plan on aging dashboard on the public website of the office, which includes real-time information and updates on each proposal in such master plan including legislative and budgetary progress.",
+  "summary": "Requires the state office for the aging to maintain a public facing state master plan on aging dashboard on the public website of the office, which includes real-time information and updates on each proposal in such master plan including legislative and budgetary progress.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S09091/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S09091/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S9091",
+  "sponsors": [
+    "Cordell Cleare (D) [Sen]",
+    "Robert Rolison (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "REFERRED TO AGING",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "1ST REPORT CAL.495",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "ADVANCED TO THIRD READING",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-02",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S09091&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S09091",
+      "doc_id": 3343532
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

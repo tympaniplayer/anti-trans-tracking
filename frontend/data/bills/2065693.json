@@ -1,0 +1,149 @@
+{
+  "id": 2065693,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AR75",
+  "title": "Relative to National Human Trafficking Awareness Month.",
+  "summary": "Relative to National Human Trafficking Awareness Month.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AR75/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AR75/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260HR75",
+  "sponsors": [
+    "Gail Pellerin (D) [Rep]",
+    "Mia Bonta (D) [Rep]",
+    "Cecilia Aguiar-Curry (D) [Rep]",
+    "Patrick Ahrens (D) [Rep]",
+    "Juan Alanis (R) [Rep]",
+    "David Alvarez (D) [Rep]",
+    "Jasmeet Bains (D) [Rep]",
+    "Rebecca Bauer-Kahan (D) [Rep]",
+    "Steve Bennett (D) [Rep]",
+    "Marc Berman (D) [Rep]",
+    "Blanca Rubio (D) [Rep]",
+    "Tasha Boerner Horvath (D) [Rep]",
+    "Isaac Bryan (D) [Rep]",
+    "Lisa Calderon (D) [Rep]",
+    "Jessica Caloza (D) [Rep]",
+    "Juan Carrillo (D) [Rep]",
+    "Leticia Castillo (R) [Rep]",
+    "Celeste Rodriguez (D) [Rep]",
+    "Phillip Chen (R) [Rep]",
+    "Damon Connolly (D) [Rep]",
+    "Laurie Davies (R) [Rep]",
+    "Carl DeMaio (R) [Rep]",
+    "Diane Dixon (R) [Rep]",
+    "Sade Elhawary (D) [Rep]",
+    "Heath Flora (R) [Rep]",
+    "Mike Fong (D) [Rep]",
+    "Jesse Gabriel (D) [Rep]",
+    "James Gallagher (R) [Rep]",
+    "Mike Gipson (D) [Rep]",
+    "Heather Hadwick (R) [Rep]",
+    "Matt Haney (D) [Rep]",
+    "John Harabedian (D) [Rep]",
+    "Gregg Hart (D) [Rep]",
+    "Josh Hoover (R) [Rep]",
+    "Jacqui Irwin (D) [Rep]",
+    "Corey Jackson (D) [Rep]",
+    "Jeff Gonzalez (R) [Rep]",
+    "Natasha Johnson (R) [Rep]",
+    "Ash Kalra (D) [Rep]",
+    "Maggy Krell (D) [Rep]",
+    "Tom Lackey (R) [Rep]",
+    "Alex Lee (D) [Rep]",
+    "Josh Lowenthal (D) [Rep]",
+    "Alexandra Macedo (R) [Rep]",
+    "Mark Gonzalez (D) [Rep]",
+    "Tina McKinnor (D) [Rep]",
+    "Michelle Rodriguez (D) [Rep]",
+    "Liz Ortega (D) [Rep]",
+    "Blanca Pacheco (D) [Rep]",
+    "Diane Papan (D) [Rep]",
+    "Darshana Patel (D) [Rep]",
+    "Joe Patterson (R) [Rep]",
+    "Cottie Petrie-Norris (D) [Rep]",
+    "Sharon Quirk-Silva (D) [Rep]",
+    "James Ramos (D) [Rep]",
+    "Rhodesia Ransom (D) [Rep]",
+    "Robert Rivas (D) [Rep]",
+    "Chris Rogers (D) [Rep]",
+    "Pilar Schiavo (D) [Rep]",
+    "Nick Schultz (D) [Rep]",
+    "LaShae Sharp-Collins (D) [Rep]",
+    "Jose Solache (D) [Rep]",
+    "Esmeralda Soria (D) [Rep]",
+    "Catherine Stefani (D) [Rep]",
+    "Tri Ta (R) [Rep]",
+    "David Tangipa (R) [Rep]",
+    "Avelino Valencia (D) [Rep]",
+    "Greg Wallis (R) [Rep]",
+    "Chris Ward (D) [Rep]",
+    "Buffy Wicks (D) [Rep]",
+    "Lori Wilson (D) [Rep]",
+    "Rick Zbur (D) [Rep]",
+    "Anamarie Farias (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-20",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-05",
+      "action": "Introduced.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-06",
+      "action": "Introduced measure version corrected.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Referred to Com. on RLS.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "From committee: Be adopted. Ordered to Third Reading. (Ayes 10. Noes 0.) (January 12).",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Coauthors revised.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Read. Adopted. (Page 3973.).",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-12",
+      "description": "Be adopted. To third reading",
+      "yea": 10,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-05",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260HR75#99INT",
+      "doc_id": 3299947
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": 2117535,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "HB3311",
+  "title": "Modifies and establishes provisions relating to school libraries",
+  "summary": "Modifies and establishes provisions relating to school libraries",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/HB3311/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/HB3311/2026",
+  "state_url": "https://house.mo.gov/Bill.aspx?bill=HB3311&year=2026&code=R",
+  "sponsors": [
+    "Wick Thomas (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-16",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-16",
+      "action": "Introduced and Read First Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Read Second Time (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-16",
+      "type": "Introduced",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/7037H.01I.pdf",
+      "doc_id": 3363636
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

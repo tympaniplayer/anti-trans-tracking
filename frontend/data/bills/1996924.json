@@ -1,0 +1,64 @@
+{
+  "id": 1996924,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S1394",
+  "title": "Ensuring efficient and effective implementation of behavioral health reform",
+  "summary": "For legislation to ensure efficient and effective implementation of behavioral health reform. Mental Health, Substance Use and Recovery.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S1394/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S1394/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S1394",
+  "sponsors": [
+    "Julian Cyr (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Mental Health, Substance Use and Recovery",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-31",
+      "action": "Hearing scheduled for 11/10/2025 from 01:00 PM-05:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Bill reported favorably by committee and referred to the Joint Committee on Health Care Financing",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Accompanied a study order, see S2972",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S1394.pdf",
+      "doc_id": 3162068
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

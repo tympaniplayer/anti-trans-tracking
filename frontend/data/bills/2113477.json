@@ -1,0 +1,55 @@
+{
+  "id": 2113477,
+  "state": "CT",
+  "state_name": "Connecticut",
+  "bill_number": "SB00192",
+  "title": "An Act Concerning Patient Protections And Standards Of Care At Connecticut Valley Hospital.",
+  "summary": "To require the Commissioner of Mental Health and Addiction Services to keep persons undergoing psychiatric evaluation at Connecticut Valley Hospital separated according to biological sex at all times.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CT/bill/SB00192/2026",
+  "legiscan_url": "https://legiscan.com/CT/bill/SB00192/2026",
+  "state_url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00192&which_year=2026",
+  "sponsors": [
+    "Public Health Committee [Jnt]",
+    "Craig Fishbein (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-11",
+  "session": "2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-11",
+      "action": "Referred to Joint Committee on Public Health",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Public Hearing 02/18",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-10",
+      "type": "Introduced",
+      "url": "https://www.cga.ct.gov/2026/TOB/S/PDF/2026SB-00192-R00-SB.PDF",
+      "doc_id": 3357192
+    }
+  ],
+  "committee": {
+    "committee_id": 1359,
+    "chamber": "J",
+    "chamber_id": 108,
+    "name": "Public Health"
+  },
+  "subjects": []
+}

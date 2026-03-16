@@ -1,0 +1,131 @@
+{
+  "id": 1948801,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A03862",
+  "title": "Relates to providing information to patients and the public on hospital rule-based exclusions; requires the commissioner of health to collect from each hospital a list of its hospital rule-based exclusions and publish such information on the department's website.",
+  "summary": "Relates to providing information to patients and the public on hospital rule-based exclusions; requires the commissioner of health to collect from each hospital a list of its hospital rule-based exclusions and publish such information on the department's website.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A03862/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A03862/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A3862",
+  "sponsors": [
+    "Nily Rozic (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "Albert Stirpe (D) [Rep]",
+    "Robert Carroll (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Jeffrey Dinowitz (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Jonathan Jacobson (D) [Rep]",
+    "Anna Kelles (D) [Rep]",
+    "Phillip Steck (D) [Rep]",
+    "Deborah Glick (D) [Rep]",
+    "Linda Rosenthal (D) [Rep]",
+    "Didi Barrett (D) [Rep]",
+    "Steven Otis (D) [Rep]",
+    "Grace Lee (D) [Rep]",
+    "Maritza Davila (D) [Rep]",
+    "Yudelka Tapia (D) [Rep]",
+    "Christopher Burdick (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Pamela Hunter (D) [Rep]",
+    "Tony Simone (D) [Rep]",
+    "Michaelle Solages (D) [Rep]",
+    "Emily Gallagher (D) [Rep]",
+    "Steven Raga (D) [Rep]",
+    "Harvey Epstein (D) [Rep]",
+    "Charles Lavine (D) [Rep]",
+    "Brian Cunningham (D) [Rep]",
+    "Alex Bores (D) [Rep]",
+    "Maryjane Shimsky (D) [Rep]",
+    "Carrie Woerner (D) [Rep]",
+    "Angelo Santabarbara (D) [Rep]",
+    "Micah Lasher (D) [Rep]",
+    "Noah Burroughs (D) [Rep]",
+    "John Zaccaro (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-30",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-30",
+      "action": "referred to health",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-19",
+      "action": "reported referred to ways and means",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-06",
+      "action": "reported referred to rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "reported",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "rules report cal.494",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "ordered to third reading rules cal.494",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "substituted by s3486",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-19",
+      "description": "Assembly Health Committee: Favorable refer to committee Ways and Means",
+      "yea": 17,
+      "nay": 7,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-06",
+      "description": "Assembly Ways And Means Committee: Favorable refer to committee Rules",
+      "yea": 25,
+      "nay": 10,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-09",
+      "description": "Assembly Rules Committee: Favorable",
+      "yea": 17,
+      "nay": 8,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-30",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A03862&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A03862",
+      "doc_id": 3091595
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

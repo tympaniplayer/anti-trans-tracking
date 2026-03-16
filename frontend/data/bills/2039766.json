@@ -1,0 +1,111 @@
+{
+  "id": 2039766,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "AB359",
+  "title": "Prohibiting conversion therapy.",
+  "summary": "An Act to amend 448.02 (9) (intro.); to create 51.608, 448.02 (3m), 455.09 (1m) and 457.26 (1m) of the statutes; Relating to: prohibiting conversion therapy.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/AB359/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/AB359/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab359",
+  "sponsors": [
+    "Lee Snodgrass (D) [Rep]",
+    "Angelina Cruz (D) [Rep]",
+    "Greta Neubauer (D) [Rep]",
+    "Christian Phelps (D) [Rep]",
+    "Amaad Rivera-Wagner (D) [Rep]",
+    "Ryan Spaude (D) [Rep]",
+    "Angela Stroud (D) [Rep]",
+    "Randy Udell (D) [Rep]",
+    "Margaret Arney (D) [Rep]",
+    "Ryan Clancy (D) [Rep]",
+    "Clinton Anderson (D) [Rep]",
+    "Deb Andraca (D) [Rep]",
+    "Mike Bare (D) [Rep]",
+    "Brienne Brown (D) [Rep]",
+    "Karen DeSanto (D) [Rep]",
+    "Ben DeSmidt (D) [Rep]",
+    "Jodi Emerson (D) [Rep]",
+    "Joan Fitzgerald (D) [Rep]",
+    "Francesca Hong (D) [Rep]",
+    "Alex Joers (D) [Rep]",
+    "Tara Johnson (D) [Rep]",
+    "Darrin Madison (D) [Rep]",
+    "Renuka Mayadev (D) [Rep]",
+    "Vinnie Miresse (D) [Rep]",
+    "Supreme Omokunde (D) [Rep]",
+    "Lori Palmeri (D) [Rep]",
+    "Pricilla Prado (D) [Rep]",
+    "Ann Roe (D) [Rep]",
+    "Joe Sheehan (D) [Rep]",
+    "Lisa Subeck (D) [Rep]",
+    "Angelito Tenorio (D) [Rep]",
+    "Robyn Vining (D) [Rep]",
+    "Kalan Haywood (D) [Rep]",
+    "Timothy Carpenter (D) [Sen]",
+    "Kristin Dassler-Alfheim (D) [Sen]",
+    "Kelda Roys (D) [Sen]",
+    "Mark Spreitzer (D) [Sen]",
+    "Melissa Ratcliff (D) [Sen]",
+    "Dora Drake (D) [Sen]",
+    "Jodi Habush Sinykin (D) [Sen]",
+    "Dianne Hesselbein (D) [Sen]",
+    "LaTonya Johnson (D) [Sen]",
+    "Sarah Keyeski (D) [Sen]",
+    "Christopher Larson (D) [Sen]",
+    "Brad Pfaff (D) [Sen]",
+    "Jeff Smith (D) [Sen]",
+    "Jamie Wall (D) [Sen]",
+    "Robert Wirch (D) [Sen]"
+  ],
+  "introduced_date": "2025-07-17",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-07-17",
+      "action": "Introduced",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-07-17",
+      "action": "Read first time and referred to Committee on Health, Aging and Long-Term Care",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-07-28",
+      "action": "Representative Kirsch added as a coauthor",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Representative J. Jacobson added as a coauthor",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-17",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AB359.pdf",
+      "doc_id": 3262087
+    }
+  ],
+  "committee": {
+    "committee_id": 4790,
+    "chamber": "A",
+    "chamber_id": 99,
+    "name": "Health, Aging and Long-Term Care"
+  },
+  "subjects": []
+}

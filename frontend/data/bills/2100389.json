@@ -1,0 +1,72 @@
+{
+  "id": 2100389,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB3305",
+  "title": "Relating To Health Care.",
+  "summary": "Establishes a universal, single payer health care system to be known as \"Hawaii Care\", to provide comprehensive health care benefits to all state residents and eventually replace all existing health care plans in the State. Designates the Hawaii Health Authority as the responsible agency for the comprehensive planning, implementation, and administration of Hawaii Care. Requires the Hawaii Health Authority to develop and submit a comprehensive implementation and administration plan to the legislature by a certain date. Establishes the Hawaii Care special fund. Requires the Hawaii Health Authority to adopt rules and submit reports to the Legislature. Requires the Governor to appoint members to the Hawaii Health Authority by 12/31/2026. Requires the Department of Human Services to apply for necessary federal waivers. Takes effect 180 days after the approval of the Hawaii Medicaid State Plan and necessary federal waivers. Appropriates funds.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB3305/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB3305/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3305&year=2026",
+  "sponsors": [
+    "Jarrett Keohokalole (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-30",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-30",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Referred to HHS/CPN, WAM/JDC.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-28",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB3305_.HTM",
+      "doc_id": 3339541
+    }
+  ],
+  "committee": {
+    "committee_id": 4751,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Health and Human Services"
+  },
+  "subjects": [
+    "Hawaii Health Authority",
+    "Hawaii Care",
+    "Universal Health Care",
+    "Single Payer Health Care System",
+    "Hawaii Care Special Fund",
+    "Rules",
+    "Reports",
+    "Governor",
+    "Department of Human Services",
+    "Medicare",
+    "Medicaid",
+    "Appropriation ($)"
+  ]
+}

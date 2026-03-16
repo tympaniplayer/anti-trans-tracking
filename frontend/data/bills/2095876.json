@@ -1,0 +1,53 @@
+{
+  "id": 2095876,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A2085",
+  "title": "Establishes \"Innovation Partnership\"; provides funding for certain nonprofit partnerships to promote certain emerging technology businesses.",
+  "summary": "Establishes \"Innovation Partnership\"; provides funding for certain nonprofit partnerships to promote certain emerging technology businesses.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A2085/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A2085/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A2085",
+  "sponsors": [
+    "Linda Carter (D) [Rep]",
+    "Christopher DePhillips (R) [Rep]",
+    "Christopher Tully (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Science, Innovation and Technology Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-31",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A2500/2085_I1.HTM",
+      "doc_id": 3334914
+    }
+  ],
+  "committee": {
+    "committee_id": 3753,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Science, Innovation and Technology"
+  },
+  "subjects": [
+    "Science, Innovation and Technology"
+  ]
+}

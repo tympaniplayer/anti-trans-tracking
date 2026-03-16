@@ -1,0 +1,55 @@
+{
+  "id": 2132425,
+  "state": "CT",
+  "state_name": "Connecticut",
+  "bill_number": "HB05555",
+  "title": "An Act Expanding The Address Confidentiality Program Of The Secretary Of The State.",
+  "summary": "To expand the address confidentiality program to include applicants who are engaged in the provision, facilitation or promotion of reproductive health care services and gender-affirming health care services and have safety concerns, to expand such program to require persons as well as state agencies to use a program address and to create a process for the shielding of real property records of program participants.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CT/bill/HB05555/2026",
+  "legiscan_url": "https://legiscan.com/CT/bill/HB05555/2026",
+  "state_url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB05555&which_year=2026",
+  "sponsors": [
+    "Government Administration and Elections Committee [Jnt]"
+  ],
+  "introduced_date": "2026-03-12",
+  "session": "2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-03-12",
+      "action": "Referred to Joint Committee on Government Administration and Elections",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Public Hearing 03/18",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-11",
+      "type": "Introduced",
+      "url": "https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05555-R00-HB.PDF",
+      "doc_id": 3391670
+    }
+  ],
+  "committee": {
+    "committee_id": 1348,
+    "chamber": "J",
+    "chamber_id": 108,
+    "name": "Government Administration and Elections"
+  },
+  "subjects": []
+}

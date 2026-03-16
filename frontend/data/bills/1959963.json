@@ -1,0 +1,69 @@
+{
+  "id": 1959963,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB3057",
+  "title": "DEI-EMPLOYMENT-HIGHER ED",
+  "summary": "Creates the Freedom to Train Act. Provides that notwithstanding any other law to the contrary, employers and State-supported institutions of higher learning in this State may establish, maintain, and implement policies, practices, and requirements for the employment and conduct of employees in the workplace that are designed to safeguard employees and applicants for employment from discrimination based on race, creed, color, religion, sex, age, national origin, sexual orientation, or gender identity. Provides that the policies, practices, and requirements may be developed and administered through an office of diversity, equity, and inclusion or another administrative office or program established by the employer or State-supported institution of higher learning. Effective immediately.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB3057/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB3057/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3057&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Sonya Harper (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-06",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-06",
+      "action": "Filed with the Clerk by Rep. Sonya M. Harper",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Assigned to Higher Education Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Rule 19(a) / Re-referred to Rules Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-06",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=201124&DocName=10400HB3057&DocNum=3057&DocTypeID=HB&LegID=161336&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3105783
+    }
+  ],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
+  "subjects": []
+}

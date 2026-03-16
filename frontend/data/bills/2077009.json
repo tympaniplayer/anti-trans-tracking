@@ -1,0 +1,53 @@
+{
+  "id": 2077009,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S813",
+  "title": "Requires public institution of higher education post bias intimidation statistics; requires governing board to adopt bias intimidation policy.",
+  "summary": "Requires public institution of higher education post bias intimidation statistics; requires governing board to adopt bias intimidation policy.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S813/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S813/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S813",
+  "sponsors": [
+    "Robert Singer (R) [Sen]",
+    "Joseph Cryan (D) [Sen]",
+    "James Beach (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Higher Education Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-08",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S1000/813_I1.HTM",
+      "doc_id": 3314014
+    }
+  ],
+  "committee": {
+    "committee_id": 2642,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Higher Eduction"
+  },
+  "subjects": [
+    "Higher Education"
+  ]
+}

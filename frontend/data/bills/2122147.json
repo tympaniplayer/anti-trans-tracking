@@ -1,0 +1,65 @@
+{
+  "id": 2122147,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "K00962",
+  "title": "Memorializing Governor Kathy Hochul to proclaim February 24, 2026, as Domestic Violence Awareness and Prevention Day in the State of New York",
+  "summary": "Memorializing Governor Kathy Hochul to proclaim February 24, 2026, as Domestic Violence Awareness and Prevention Day in the State of New York",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/K00962/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/K00962/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/K962",
+  "sponsors": [
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Christopher Burdick (D) [Rep]",
+    "Marianne Buttenschon (D) [Rep]",
+    "Judy Griffin (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Rebecca Kassay (D) [Rep]",
+    "Paula Kay (D) [Rep]",
+    "Anna Kelles (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Jennifer Lunsford (D) [Rep]",
+    "Donna Lupardo (D) [Rep]",
+    "John McDonald (D) [Rep]",
+    "Stacey Pheffer Amato (D) [Rep]",
+    "Angelo Santabarbara (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Maryjane Shimsky (D) [Rep]",
+    "Jo Simon (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-24",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-23",
+      "action": "referred to calendar",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "adopted",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-24",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=K00962&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#K00962",
+      "doc_id": 3372102
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

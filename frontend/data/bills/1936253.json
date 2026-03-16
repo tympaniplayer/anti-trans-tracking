@@ -1,0 +1,88 @@
+{
+  "id": 1936253,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "B26-0067",
+  "title": "Contract No. CW117574 with Compost Crew, Inc. A Benefit Corporation Approval and Payment Authorization Emergency Act of 2025",
+  "summary": "Contract No. CW117574 with Compost Crew, Inc. A Benefit Corporation Approval and Payment Authorization Emergency Act of 2025",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/B26-0067/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/B26-0067/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/B26-0067",
+  "sponsors": [
+    "Phil Mendelson (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-20",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2025-01-21",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Retained by the Council",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Final Reading, CC",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "Transmitted to Mayor, Response Due on February 26, 2025",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Signed by the Mayor and Enacted with Act Number A26-0010, Expires on May 21, 2025",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Returned from Mayor",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "Act A26-0010 Published in DC Register Vol 72 and Page 002008, Expires on May 21, 2025",
+      "chamber": "C"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-04",
+      "description": "Final Reading, CC",
+      "yea": 12,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-21",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/56950/Introduction/B26-0067-Introduction.pdf",
+      "doc_id": 3073538
+    },
+    {
+      "date": "2025-02-04",
+      "type": "Enrolled",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/56950/Meeting1/Enrollment/B26-0067-Enrollment1.pdf",
+      "doc_id": 3111171
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

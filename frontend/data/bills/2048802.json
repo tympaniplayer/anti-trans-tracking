@@ -1,0 +1,65 @@
+{
+  "id": 2048802,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "SB847",
+  "title": "Schools; prohibiting a school district or charter school from compelling use of certain pronoun; providing for monitoring of compliance. Effective date. Emergency.",
+  "summary": "Schools; prohibiting a school district or charter school from compelling use of certain pronoun; providing for monitoring of compliance. Effective date. Emergency.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/SB847/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/SB847/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=sb847&Session=2600",
+  "sponsors": [
+    "David Bullard (R) [Sen]",
+    "Gabe Woolley (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Authored by Senator Bullard",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Second Reading referred to Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Coauthored by Representative Woolley (principal House author)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/SB/SB847%20INT.PDF",
+      "doc_id": 3277457
+    }
+  ],
+  "committee": {
+    "committee_id": 1225,
+    "chamber": "S",
+    "chamber_id": 80,
+    "name": "Education"
+  },
+  "subjects": []
+}

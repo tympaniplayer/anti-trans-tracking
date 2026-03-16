@@ -1,0 +1,62 @@
+{
+  "id": 2114313,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "H7632",
+  "title": "Requires that any covered entity that develops/provides online services, products, or features that children are reasonably likely to access shall consider the best interest of children when designing/developing such online service, product, or feature.",
+  "summary": "COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS -- AGE-APPROPRIATE DESIGN CODE - Requires that any covered entity that develops/provides online services, products, or features that children are reasonably likely to access shall consider the best interest of children when designing/developing such online service, product, or feature.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/H7632/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/H7632/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Megan Cotter (D) [Rep]",
+    "Tina Spears (D) [Rep]",
+    "Michael Chippendale (R) [Rep]",
+    "Justine Caldwell (D) [Rep]",
+    "June Speakman (D) [Rep]",
+    "Lauren Carson (D) [Rep]",
+    "Joseph McNamara (D) [Rep]",
+    "Michelle McGaw (D) [Rep]",
+    "Earl Read (D) [Rep]",
+    "Thomas Noret (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-11",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-11",
+      "action": "Introduced, referred to House Innovation, Internet, & Technology",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-11",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H7632.pdf",
+      "doc_id": 3358544
+    }
+  ],
+  "committee": {
+    "committee_id": 4434,
+    "chamber": "H",
+    "chamber_id": 83,
+    "name": "Innovation, Internet, & Technology"
+  },
+  "subjects": [
+    "Commercial Law",
+    "COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS",
+    "COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS -- AGE-APPROPRIATE DESIGN CODE"
+  ]
+}

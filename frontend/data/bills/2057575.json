@@ -1,0 +1,172 @@
+{
+  "id": 2057575,
+  "state": "AZ",
+  "state_name": "Arizona",
+  "bill_number": "SB1015",
+  "title": "Gender transition procedures; provider liability",
+  "summary": "Gender transition procedures; provider liability",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AZ/bill/SB1015/2026",
+  "legiscan_url": "https://legiscan.com/AZ/bill/SB1015/2026",
+  "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/83590",
+  "sponsors": [
+    "Janae Shamp (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-23",
+  "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
+  "actions": [
+    {
+      "date": "2025-12-09",
+      "action": "Prefile",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Introduced in Senate and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Assigned to Senate JUDE Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Assigned to Senate RULES Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Senate read second time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Senate JUDE Committee action: Do Pass, voting: (4-3-0-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Senate RULES Committee action: Proper For Consideration, voting: (0-0-0-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Senate consent calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Senate majority caucus: Do pass",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Senate minority caucus: Do pass",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Senate Committee of the Whole action: Do Pass",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Senate third reading PASSED voting: (16-11-3-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Transmit to House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Introduced in House and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Assigned to House GOV Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Assigned to House RULES Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "House read second time",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-21",
+      "description": "Senate Judiciary and Elections Committee Action (DP)",
+      "yea": 4,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-26",
+      "description": "Senate Rules Committee Action (PFC)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-23",
+      "description": "Senate - Committee of the Whole (DP)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-23",
+      "description": "Senate - Third Reading",
+      "yea": 16,
+      "nay": 11,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-12-09",
+      "type": "Introduced",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/sb1015p.htm",
+      "doc_id": 3289260
+    },
+    {
+      "date": "2026-02-23",
+      "type": "Engrossed",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/sb1015s.htm",
+      "doc_id": 3372255
+    }
+  ],
+  "committee": {
+    "committee_id": 1095,
+    "chamber": "H",
+    "chamber_id": 15,
+    "name": "Government"
+  },
+  "subjects": [
+    "Courts And Civil Proceedings - Title 12",
+    "Gender Detransition Procedures",
+    "Gender Transition Procedures",
+    "Health Care Actions",
+    "Liability",
+    "Provider Liability",
+    "Waiver Of Liability Prohibited"
+  ]
+}

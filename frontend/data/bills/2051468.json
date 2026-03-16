@@ -1,0 +1,59 @@
+{
+  "id": 2051468,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4665",
+  "title": "Relative to LGBTQ+ inclusive framework",
+  "summary": "Relative to LGBTQ+ inclusive framework",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4665/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4665/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4665",
+  "sponsors": [
+    "Committee on Education [Jnt]"
+  ],
+  "introduced_date": "2025-11-03",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-11-03",
+      "action": "Reported from the committee on Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-03",
+      "action": "New draft of H599",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-03",
+      "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-03",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4665.pdf",
+      "doc_id": 3282947
+    }
+  ],
+  "committee": {
+    "committee_id": 737,
+    "chamber": "H",
+    "chamber_id": 51,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

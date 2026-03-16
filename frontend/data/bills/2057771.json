@@ -1,0 +1,68 @@
+{
+  "id": 2057771,
+  "state": "NH",
+  "state_name": "New Hampshire",
+  "bill_number": "HB1650",
+  "title": "Relative to an age-appropriate design code.",
+  "summary": "Relative to an age-appropriate design code.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NH/bill/HB1650/2026",
+  "legiscan_url": "https://legiscan.com/NH/bill/HB1650/2026",
+  "state_url": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=3111&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1650",
+  "sponsors": [
+    "Melissa Litchfield (R) [Rep]",
+    "Brian Nadeau (R) [Rep]",
+    "James Thibault (R) [Rep]",
+    "Laurence  Miner (R) [Rep]",
+    "Paul Terry (R) [Rep]"
+  ],
+  "introduced_date": "2025-12-10",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-10",
+      "action": "Introduced 01/07/2026 and referred to Commerce and Consumer Affairs",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Public Hearing: 01/29/2026 11:30 am GP 229",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Full Committee Work Session: 02/18/2026 02:00 pm GP 229",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Committee Report: Inexpedient to Legislate 03/03/2026 (Vote 13-0; Consent Calendar)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 03/11/2026 House Journal  7",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&id=2323&txtFormat=html",
+      "doc_id": 3290334
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

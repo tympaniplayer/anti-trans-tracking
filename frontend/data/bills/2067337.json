@@ -1,0 +1,104 @@
+{
+  "id": 2067337,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "HB2848",
+  "title": "Establishes the offense of masked intimidation",
+  "summary": "Establishes the offense of masked intimidation",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/HB2848/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/HB2848/2026",
+  "state_url": "https://house.mo.gov/Bill.aspx?bill=HB2848&year=2026&code=R",
+  "sponsors": [
+    "David Dolan (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "action": "Introduced and Read First Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Read Second Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Referred: Judiciary(H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Public Hearing Completed (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Executive Session Completed (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Voted Do Pass (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Reported Do Pass (H) - AYES: 9 NOES: 0 PRESENT: 0",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Referred: Rules - Legislative(H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Executive Session Completed (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Voted Do Pass (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Reported Do Pass (H) - AYES: 12 NOES: 0 PRESENT: 0",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Placed on the Informal Perfection Calendar (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Placed Back on Formal Perfection Calendar (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-07",
+      "type": "Introduced",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/6526H.01I.pdf",
+      "doc_id": 3301851
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

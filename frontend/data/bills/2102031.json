@@ -1,0 +1,81 @@
+{
+  "id": 2102031,
+  "state": "AZ",
+  "state_name": "Arizona",
+  "bill_number": "SB1612",
+  "title": "Biological sex; team designations; repeal",
+  "summary": "Biological sex; team designations; repeal",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AZ/bill/SB1612/2026",
+  "legiscan_url": "https://legiscan.com/AZ/bill/SB1612/2026",
+  "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/85243",
+  "sponsors": [
+    "Lela Alston (D) [Sen]",
+    "Flavio Bravo (D) [Sen]",
+    "Eva Diaz (D) [Sen]",
+    "Rosanna Gabaldon (D) [Sen]",
+    "Lauren Kuby (D) [Sen]",
+    "Catherine Miranda (D) [Sen]",
+    "Analise Ortiz (D) [Sen]",
+    "Priya Sundareshan (D) [Sen]",
+    "Janeen Connolly (D) [Rep]",
+    "Mariana Sandoval (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
+  "actions": [
+    {
+      "date": "2026-02-03",
+      "action": "Introduced in Senate and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Assigned to Senate ED Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Assigned to Senate RULES Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Senate read second time",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-29",
+      "type": "Introduced",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/sb1612p.htm",
+      "doc_id": 3341460
+    }
+  ],
+  "committee": {
+    "committee_id": 1107,
+    "chamber": "S",
+    "chamber_id": 16,
+    "name": "Education Accountability and Reform"
+  },
+  "subjects": [
+    "Athletics",
+    "Biological Sex",
+    "Education - Title 15",
+    "Repeal",
+    "Repealing",
+    "Team Designations"
+  ]
+}

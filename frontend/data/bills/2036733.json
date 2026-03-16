@@ -1,0 +1,73 @@
+{
+  "id": 2036733,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3856",
+  "title": "Runaway and Homeless Youth and Trafficking Prevention Act of 2025",
+  "summary": "To reauthorize the Runaway and Homeless Youth Act, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3856/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3856/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3856/all-info",
+  "sponsors": [
+    "Suzanne Bonamici (D) [Rep]",
+    "Don Bacon (R) [Rep]",
+    "Morgan McGarvey (D) [Rep]",
+    "Chrissy Houlahan (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Jim Costa (D) [Rep]",
+    "Ro Khanna (D) [Rep]",
+    "Nanette Barragan (D) [Rep]",
+    "Debbie Dingell (D) [Rep]",
+    "Ted Lieu (D) [Rep]",
+    "Zachary Nunn (R) [Rep]",
+    "Gwen Moore (D) [Rep]",
+    "Brian Fitzpatrick (R) [Rep]",
+    "Michael Lawler (R) [Rep]",
+    "Scott Peters (D) [Rep]",
+    "Janice Schakowsky (D) [Rep]",
+    "Mike Quigley (D) [Rep]",
+    "Eugene Vindman (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-10",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-10",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-10",
+      "action": "Referred to the House Committee on Education and Workforce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-17",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3856/BILLS-119hr3856ih.pdf",
+      "doc_id": 3256281
+    }
+  ],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": [
+    "Families"
+  ]
+}

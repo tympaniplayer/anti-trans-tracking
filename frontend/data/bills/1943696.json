@@ -1,0 +1,57 @@
+{
+  "id": 1943696,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1659",
+  "title": "Expanding the early childhood court program.",
+  "summary": "Expanding the early childhood court program.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1659/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1659/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1659&Year=2025&Initiative=false",
+  "sponsors": [
+    "Joe Timmons (D) [Rep]",
+    "Julia Reed (D) [Rep]",
+    "Alex Ramel (D) [Rep]",
+    "Roger Goodman (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-28",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-28",
+      "action": "First reading, referred to Early Learning & Human Services.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1659.pdf",
+      "doc_id": 3085133
+    }
+  ],
+  "committee": {
+    "committee_id": 1713,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Early Learning & Human Services"
+  },
+  "subjects": []
+}

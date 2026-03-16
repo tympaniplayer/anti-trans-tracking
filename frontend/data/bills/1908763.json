@@ -1,0 +1,70 @@
+{
+  "id": 1908763,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A01465",
+  "title": "Relates to certain prostitution offenses and fines relating thereto; relates to motions to vacate judgment and motions for new sentencing; relates to investigation into acts alleged to be the unauthorized practice of massage therapy by potential victims of human trafficking; prohibits the possession of reproductive or sexual health devices from being permitted in specified criminal or civil proceedings as evidence of prostitution; relates to services for exploited individuals, services for victims of human trafficking and the interagency task force on human trafficking; establishes the victims of sexual exploitation fund; makes conforming changes; repeals provisions relating to prostitution, prostitution in a school zone, defense against patronizing a person for prostitution and a motion to dismiss information, simplified information, prosecutor's information or misdemeanor complaint.",
+  "summary": "Relates to certain prostitution offenses and fines relating thereto; relates to motions to vacate judgment and motions for new sentencing; relates to investigation into acts alleged to be the unauthorized practice of massage therapy by potential victims of human trafficking; prohibits the possession of reproductive or sexual health devices from being permitted in specified criminal or civil proceedings as evidence of prostitution; relates to services for exploited individuals, services for victims of human trafficking and the interagency task force on human trafficking; establishes the victims of sexual exploitation fund; makes conforming changes; repeals provisions relating to prostitution, prostitution in a school zone, defense against patronizing a person for prostitution and a motion to dismiss information, simplified information, prosecutor's information or misdemeanor complaint.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A01465/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A01465/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A1465",
+  "sponsors": [
+    "Pamela Hunter (D) [Rep]",
+    "Amy Paulin (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Rodneyse Bichotte Hermelyn (D) [Rep]",
+    "Christopher Burdick (D) [Rep]",
+    "Maritza Davila (D) [Rep]",
+    "Alicia Hyndman (D) [Rep]",
+    "Crystal Peoples-Stokes (D) [Rep]",
+    "Sarah Clark (D) [Rep]",
+    "Demond Meeks (D) [Rep]",
+    "Maryjane Shimsky (D) [Rep]",
+    "Michael Novakhov (R) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Charles Lavine (D) [Rep]",
+    "Noah Burroughs (D) [Rep]",
+    "Alfred Taylor (D) [Rep]",
+    "Yudelka Tapia (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-09",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-09",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to codes",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-09",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A01465&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A01465",
+      "doc_id": 3045736
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

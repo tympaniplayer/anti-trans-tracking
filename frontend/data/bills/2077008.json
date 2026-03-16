@@ -1,0 +1,51 @@
+{
+  "id": 2077008,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S2801",
+  "title": "Requires law enforcement agencies to establish review council in internal affairs unit to investigate law enforcement officers who participate in hate groups.",
+  "summary": "Requires law enforcement agencies to establish review council in internal affairs unit to investigate law enforcement officers who participate in hate groups.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S2801/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S2801/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S2801",
+  "sponsors": [
+    "Angela Mcknight (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-07",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S3000/2801_I1.HTM",
+      "doc_id": 3314013
+    }
+  ],
+  "committee": {
+    "committee_id": 882,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Law and Public Safety"
+  },
+  "subjects": [
+    "Law and Public Safety"
+  ]
+}

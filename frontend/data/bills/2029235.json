@@ -1,0 +1,65 @@
+{
+  "id": 2029235,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "SB0289",
+  "title": "Health: other; gender reassignment procedures or treatment for minors; prohibit. Creates new act.",
+  "summary": "Health: other; gender reassignment procedures or treatment for minors; prohibit. Creates new act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/SB0289/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/SB0289/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0289",
+  "sponsors": [
+    "Thomas Albert (R) [Sen]",
+    "Kevin Daley (R) [Sen]",
+    "Ed McBroom (R) [Sen]",
+    "Dan Lauwers (R) [Sen]",
+    "Michele Hoitenga (R) [Sen]",
+    "Ricky Outman (R) [Sen]",
+    "Lana Theis (R) [Sen]",
+    "Jonathan Lindsey (R) [Sen]"
+  ],
+  "introduced_date": "2025-05-07",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-05-07",
+      "action": "Introduced By Senator Thomas Albert",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-07",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/htm/2025-SIB-0289.htm",
+      "doc_id": 3231146
+    }
+  ],
+  "committee": {
+    "committee_id": 838,
+    "chamber": "S",
+    "chamber_id": 54,
+    "name": "Government Operations"
+  },
+  "subjects": [
+    "Health: other",
+    "Health: children"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 2110381,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "S2432",
+  "title": "Grants automatic admission to state public institutions for qualified Eagle Scout and Gold award recipients from the Girl Scouts.",
+  "summary": "EDUCATION -- GUARANTEED ADMISSION FOR EAGLE SCOUT AND GOLD AWARD RECIPIENTS - Grants automatic admission to state public institutions for qualified Eagle Scout and Gold award recipients from the Girl Scouts.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/S2432/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/S2432/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "David Tikoian (D) [Sen]",
+    "Andrew Dimitri (D) [Sen]",
+    "Jonathon Acosta (D) [Sen]",
+    "Walter Felag (D) [Sen]",
+    "Matthew LaMountain (D) [Sen]",
+    "Samuel Zurier (D) [Sen]",
+    "Todd Patalano (D) [Sen]",
+    "Lori Urso (D) [Sen]",
+    "Frank Ciccone (D) [Sen]",
+    "Louis Dipalma (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-06",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "action": "Introduced, referred to Senate Education",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/SenateText26/S2432.pdf",
+      "doc_id": 3351235
+    }
+  ],
+  "committee": {
+    "committee_id": 1134,
+    "chamber": "S",
+    "chamber_id": 84,
+    "name": "Education"
+  },
+  "subjects": [
+    "Education",
+    "EDUCATION -- GUARANTEED ADMISSION FOR EAGLE SCOUT AND GOLD AWARD RECIPIENTS"
+  ]
+}

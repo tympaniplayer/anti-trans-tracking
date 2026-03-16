@@ -1,0 +1,72 @@
+{
+  "id": 2062491,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB1179",
+  "title": "Relating To Health Care.",
+  "summary": "Requires the Hawaii Health Authority to develop a comprehensive plan for the establishment of a universal, single payer health care system to replace all other health care coverage in the State, including Medicare, Medicaid, and the Prepaid Health Care Act. Establishes a universal, single payer health care system to be known as the Malama Care program under the Hawaii Health Authority to take effect one hundred eighty days after the approval of waivers from certain provisions of the Patient Protection and Affordable Care Act of 2010 and the State's Medicaid plan. Appropriates funds.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB1179/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB1179/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1179&year=2026",
+  "sponsors": [
+    "Mike Gabbard (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-17",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-17",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-27",
+      "action": "Referred to CPN/HHS, WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-18",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB1179_.HTM",
+      "doc_id": 3295713
+    }
+  ],
+  "committee": {
+    "committee_id": 2054,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Commerce and Consumer Protection"
+  },
+  "subjects": [
+    "Malama Care",
+    "Universal Health Care",
+    "Hawaii Health Authority",
+    "Single Payer Health Care System",
+    "Medicare",
+    "Medicaid",
+    "Prepaid Health Care Act"
+  ]
+}

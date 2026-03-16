@@ -1,0 +1,173 @@
+{
+  "id": 1973283,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "S0071",
+  "title": "An act relating to consumer data privacy and online surveillance",
+  "summary": "An act relating to consumer data privacy and online surveillance",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/S0071/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/S0071/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/S.71",
+  "sponsors": [
+    "Alison Clarkson (D) [Sen]",
+    "Wendy Harrison (D) [Sen]",
+    "Nader Hashim (D) [Sen]",
+    "Joseph Major (D) [Sen]",
+    "Tanya Vyhovsky (D) [Sen]",
+    "Rebecca White (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-27",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-02-18",
+      "action": "Read 1st time & referred to Committee on Economic Development, Housing and General Affairs",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Committee on Economic Development, Housing and General Affairs relieved; bill committed to Committee on Institutions on motion of Senator Clarkson",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Entered on Notice Calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Favorable report with recommendation of amendment by Committee on Institutions",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "New Business/Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Favorable report with recommendation of amendment by Committee on Institutions",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Unfinished Business/Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Favorable report with recommendation of amendment by Committee on Institutions",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Unfinished Business/Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Favorable report with recommendation of amendment by Committee on Institutions",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Unfinished Business/Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Favorable report with proposal of amendment by Committee on Institutions",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Unfinished Business/Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Favorable report with recommendation of amendment by Committee on Institutions",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Read 2nd time, reported favorably with recommendation of amendment by Senator Plunkett for Committee on Institutions",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Roll Call, Requested by Sen. Beck",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Recommendation of amendment by Committee on Institutions agreed to on roll call, requested by Senator Beck, Passed -- Needed 15 of 29 to Pass -- Yeas = 29, Nays = 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "3rd reading ordered",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "New Business/Third Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Read 3rd time & passed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Read first time and referred to the Committee on Commerce and Economic Development",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-26",
+      "description": "Recommendation of amendment by Committee on Institutions agreed to on roll call, requested by Senator Beck, Passed -- Needed 15 of 29 to Pass -- Yeas = 29, Nays = 0",
+      "yea": 29,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-14",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0071/S-0071%20As%20Introduced.pdf",
+      "doc_id": 3127662
+    },
+    {
+      "date": "2025-03-31",
+      "type": "Engrossed",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0071/S-0071%20As%20passed%20by%20the%20Senate%20Official.pdf",
+      "doc_id": 3195207
+    }
+  ],
+  "committee": {
+    "committee_id": 782,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "Commerce and Economic Development"
+  },
+  "subjects": []
+}

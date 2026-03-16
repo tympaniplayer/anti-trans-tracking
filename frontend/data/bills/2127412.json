@@ -1,0 +1,54 @@
+{
+  "id": 2127412,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "PR26-0556",
+  "title": "Board of Nursing Dr. Tyris Ford Confirmation Resolution of 2026",
+  "summary": "Board of Nursing Dr. Tyris Ford Confirmation Resolution of 2026",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/PR26-0556/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/PR26-0556/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/PR26-0556",
+  "sponsors": [
+    "Phil Mendelson (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-24",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2026-02-24",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Referred to Committee on Health",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Notice of Intent to Act on PR26-0556 Published in the DC Register",
+      "chamber": "C"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-24",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/61326/Introduction/PR26-0556-Introduction.pdf",
+      "doc_id": 3381019
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

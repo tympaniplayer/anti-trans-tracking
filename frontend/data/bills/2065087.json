@@ -1,0 +1,155 @@
+{
+  "id": 2065087,
+  "state": "IN",
+  "state_name": "Indiana",
+  "bill_number": "SB0182",
+  "title": "Gender issues.",
+  "summary": "Gender issues. Defines \"female\", \"male\", \"gender\", and \"sex\" for all Indiana statutes. Provides that the department of correction shall assign an offender, including a delinquent offender, to a facility or program that is based on the offender's sex. States that a local health officer shall mark the sex of an individual as male or female on a birth certificate. Provides that the Indiana department of health may make an addition to a birth certificate, for purposes of paternity, in certain situations. Provides the circumstances for when the sex designation on a birth certificate can be amended. Requires public schools, including charter schools, and state educational institutions to designate a multiple occupancy restroom or changing area as follows: (1) For the exclusive use of the male sex. (2) For the exclusive use of the female sex. Provides, with exceptions, that an individual shall only use a multiple occupancy restroom or changing area that is designated for the sex that is the individual's sex. Establishes a civil action for a violation of these provisions. Prohibits public schools, including charter schools, and state educational institutions from requiring a student to share sleeping quarters with a member of the opposite sex, unless the individual who is a member of the opposite sex is a family member. Establishes a civil action for a violation of these provisions.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "bathrooms",
+    "education",
+    "identity_documents",
+    "definitions"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IN/bill/SB0182/2026",
+  "legiscan_url": "https://legiscan.com/IN/bill/SB0182/2026",
+  "state_url": "https://iga.in.gov/legislative/2026/bills/senate/182/details",
+  "sponsors": [
+    "Elizabeth Brown (R) [Sen]",
+    "Tyler Johnson (R) [Sen]",
+    "Chris Garten (R) [Sen]",
+    "Gary Byrne (R) [Sen]",
+    "Michael Young (R) [Sen]",
+    "Martin Carbaugh (R) [Rep]",
+    "Julie McGuire (R) [Rep]",
+    "David Abbott (R) [Rep]",
+    "Tony Isa (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-28",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-05",
+      "action": "Authored by Senator Brown L",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-05",
+      "action": "First reading: referred to Committee on Health and Provider Services",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-06",
+      "action": "Senator Johnson T added as second author",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Committee report: amend do pass, adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Senator Garten added as third author",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Second reading: amended, ordered engrossed",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Amendment #2 (Deery) prevailed; voice vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Senator Byrne added as coauthor",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Third reading: passed; Roll Call 101: yeas 37, nays 8",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "House sponsor: Representative Carbaugh",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Cosponsor: Representative McGuire",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Senator Young M added as coauthor",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Referred to the House",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "First reading: referred to Committee on Public Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Representative Abbott added as cosponsor",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Representative Isa added as cosponsor",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-27",
+      "description": "Senate - Third reading",
+      "yea": 37,
+      "nay": 8,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-05",
+      "type": "Introduced",
+      "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0182/SB0182.01.INTR.pdf",
+      "doc_id": 3299429
+    },
+    {
+      "date": "2026-01-22",
+      "type": "Comm Sub",
+      "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0182/SB0182.02.COMS.pdf",
+      "doc_id": 3329391
+    },
+    {
+      "date": "2026-01-26",
+      "type": "Engrossed",
+      "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0182/SB0182.03.ENGS.pdf",
+      "doc_id": 3332699
+    }
+  ],
+  "committee": {
+    "committee_id": 1300,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Public Health"
+  },
+  "subjects": []
+}

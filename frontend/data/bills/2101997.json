@@ -1,0 +1,52 @@
+{
+  "id": 2101997,
+  "state": "NM",
+  "state_name": "New Mexico",
+  "bill_number": "HB244",
+  "title": "Hospital Price Transparency Act",
+  "summary": "Hospital Price Transparency Act",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NM/bill/HB244/2026",
+  "legiscan_url": "https://legiscan.com/NM/bill/HB244/2026",
+  "state_url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=244&year=26",
+  "sponsors": [
+    "Alan Martinez (R) [Rep]",
+    "Reena Szczepanski (D) [Rep]",
+    "Michelle Paulene Abeyta (D) [Rep]",
+    "Joshua Hernandez (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-29",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "action": "Not Printed",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-29",
+      "type": "Introduced",
+      "url": "https://www.nmlegis.gov/Sessions/26%20Regular/bills/house/HB0244.pdf",
+      "doc_id": 3341426
+    }
+  ],
+  "committee": {
+    "committee_id": 2179,
+    "chamber": "H",
+    "chamber_id": 71,
+    "name": "Rules & Order of Business"
+  },
+  "subjects": []
+}

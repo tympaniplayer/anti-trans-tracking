@@ -1,0 +1,54 @@
+{
+  "id": 2132440,
+  "state": "CT",
+  "state_name": "Connecticut",
+  "bill_number": "HB05562",
+  "title": "An Act Concerning Various Revisions To Human Services Statutes.",
+  "summary": "To make technical and other changes to statutes concerning human services.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CT/bill/HB05562/2026",
+  "legiscan_url": "https://legiscan.com/CT/bill/HB05562/2026",
+  "state_url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB05562&which_year=2026",
+  "sponsors": [
+    "Human Services Committee [Jnt]"
+  ],
+  "introduced_date": "2026-03-12",
+  "session": "2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-03-12",
+      "action": "Referred to Joint Committee on Human Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Public Hearing 03/17",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-11",
+      "type": "Introduced",
+      "url": "https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05562-R00-HB.PDF",
+      "doc_id": 3391685
+    }
+  ],
+  "committee": {
+    "committee_id": 1351,
+    "chamber": "J",
+    "chamber_id": 108,
+    "name": "Human Services"
+  },
+  "subjects": []
+}

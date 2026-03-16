@@ -1,0 +1,58 @@
+{
+  "id": 2116518,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB7524",
+  "title": "Older Workers\u2019 Bureau Act",
+  "summary": "To establish in the Department of Labor an Older Workers' Bureau, to establish a data hub and a technical assistance center at the Department of Labor related to employment of older workers and the effect of older employment on retirement security, to establish grant programs related to the employment of older workers, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB7524/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB7524/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/7524/all-info",
+  "sponsors": [
+    "Don Beyer (D) [Rep]",
+    "Suzanne Bonamici (D) [Rep]",
+    "Sylvia Garcia (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-12",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-02-12",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Referred to the House Committee on Education and Workforce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-20",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr7524/BILLS-119hr7524ih.pdf",
+      "doc_id": 3369985
+    }
+  ],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": [
+    "Labor and employment"
+  ]
+}

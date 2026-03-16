@@ -1,0 +1,52 @@
+{
+  "id": 2035541,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "K00673",
+  "title": "Memorializing Governor Kathy Hochul to proclaim October, 2025, as Filipino American History Month in the State of New York",
+  "summary": "Memorializing Governor Kathy Hochul to proclaim October, 2025, as Filipino American History Month in the State of New York",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/K00673/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/K00673/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/K673",
+  "sponsors": [
+    "Steven Raga (D) [Rep]",
+    "Marianne Buttenschon (D) [Rep]",
+    "Judy Griffin (D) [Rep]",
+    "Angelo Santabarbara (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-05",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-06-04",
+      "action": "referred to calendar",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-05",
+      "action": "adopted",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "1587-10-18",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=K00673&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#K00673",
+      "doc_id": 3251815
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

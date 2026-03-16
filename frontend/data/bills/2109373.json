@@ -1,0 +1,64 @@
+{
+  "id": 2109373,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB5221",
+  "title": "CONSUMER DATA PRIVACY ACT",
+  "summary": "Creates the Consumer Data Privacy Act. Sets forth provisions concerning agreements between personal data processors and controllers. Provides for consumer personal data rights, including the right to opt out of the processing of personal data concerning the consumer for purposes of targeted advertising, the sale of personal data, or profiling in furtherance of automated decisions that produce legal effects. Sets forth provisions concerning the responsibilities of controllers; requirements for small businesses; and data privacy and protection assessments. Provides for civil penalties. Preempts home rule. Amends the Freedom of Information Act to make a conforming change. Effective January 1, 2027.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB5221/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB5221/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5221&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Edgar Gonzalez (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "Filed with the Clerk by Rep. Edgar Gonz\u00e1lez, Jr.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Assigned to Cybersecurity, Data Analytics, & IT Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-05",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=208240&DocName=10400HB5221&DocNum=5221&DocTypeID=HB&LegID=166894&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3354921
+    }
+  ],
+  "committee": {
+    "committee_id": 3630,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Cybersecurity, Data Analytics, & IT"
+  },
+  "subjects": []
+}

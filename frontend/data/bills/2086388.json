@@ -1,0 +1,250 @@
+{
+  "id": 2086388,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "SB637",
+  "title": "Virginia Human Rights Act; nondiscrimination, procedures for charge of unlawful discrimination.",
+  "summary": "Virginia Human Rights Act; definition of employer; statute of limitations. Provides that, for the purposes of nondiscrimination in places of public accommodation and nondiscrimination in employment under the Virginia Human Rights Act, such provisions shall be governed by the statute of limitations of two years in current law for causes of action for failure to provide reasonable accommodations under the Virginia Human Rights Act. The bill also amends the definition of\u00a0\"employer\" for purposes of nondiscrimination in employment by\u00a0reducing from 15 to\u00a0five\u00a0the number of employees for each working day in each of 20 or more calendar weeks in the current or preceding calendar year. Under current law, \"employer\" also includes a person employing one or more domestic workers.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/SB637/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/SB637/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/SB637",
+  "sponsors": [
+    "Adam Ebbin (D) [Sen]",
+    "Jennifer Boysko (D) [Sen]",
+    "Amy Laufer (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-10",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26105279D",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Referred to Committee on General Laws and Technology",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Reported from General Laws and Technology with amendment and rereferred to Finance and Appropriations (9-Y 6-N)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Reported from Finance and Appropriations with substitute (10-Y 5-N)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Committee substitute printed 26107345D-S1",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Rules suspended",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Constitutional reading dispensed (on 1st reading) (40-Y 0-N 0-A)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Passed by for the day (Voice Vote)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Passed by for the day",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Read second time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "General Laws and Technology Amendment rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Finance and Appropriations Substitute agreed to",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Engrossed by Senate - committee substitute (Voice Vote)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Read third time and passed Senate (21-Y 19-N 0-A)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Placed on Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Referred to Committee on Labor and Commerce",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Assigned HCL sub: Subcommittee #2",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Subcommittee recommends reporting (4-Y 2-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Reported from Labor and Commerce with substitute (15-Y 7-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Committee substitute printed 26108737D-H1",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Read second time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Read third time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "committee substitute agreed to",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Engrossed by House - committee substitute",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Passed House with substitute (62-Y 35-N 0-A)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "House substitute agreed to by Senate (21-Y 19-N 0-A)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (SB637)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-28",
+      "description": "Reported from General Laws and Technology with amendment and rereferred to Finance and Appropriations (9-Y 6-N)",
+      "yea": 9,
+      "nay": 6,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-05",
+      "description": "Reported from Finance and Appropriations with substitute (10-Y 5-N)",
+      "yea": 10,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-09",
+      "description": "Constitutional reading dispensed (on 1st reading) (40-Y 0-N 0-A)",
+      "yea": 40,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-11",
+      "description": "Read third time and passed Senate (21-Y 19-N 0-A)",
+      "yea": 21,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-26",
+      "description": "Subcommittee recommends reporting (4-Y 2-N)",
+      "yea": 4,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-03",
+      "description": "Reported from Labor and Commerce with substitute (15-Y 7-N)",
+      "yea": 15,
+      "nay": 7,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "Passed House with substitute (62-Y 35-N 0-A)",
+      "yea": 62,
+      "nay": 35,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-10",
+      "description": "House substitute agreed to by Senate (21-Y 19-N 0-A)",
+      "yea": 21,
+      "nay": 19,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB637/text/SB637",
+      "doc_id": 3323770
+    },
+    {
+      "date": "2026-02-09",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB637/text/SB637S1",
+      "doc_id": 3353029
+    },
+    {
+      "date": "2026-03-03",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB637/text/SB637H1",
+      "doc_id": 3383374
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

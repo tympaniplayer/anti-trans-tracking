@@ -1,0 +1,177 @@
+{
+  "id": 2060121,
+  "state": "AZ",
+  "state_name": "Arizona",
+  "bill_number": "HCR2003",
+  "title": "Interscholastic; intramural athletics; biological sex",
+  "summary": "Interscholastic; intramural athletics; biological sex",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "sports",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AZ/bill/HCR2003/2026",
+  "legiscan_url": "https://legiscan.com/AZ/bill/HCR2003/2026",
+  "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/83656",
+  "sponsors": [
+    "Selina Bliss (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-23",
+  "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
+  "actions": [
+    {
+      "date": "2025-12-18",
+      "action": "Prefile",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Introduced in House and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Assigned to House ED Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Assigned to House RULES Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "House read second time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "House ED Committee action: Do Pass, voting: (7-5-0-0-0-0)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "House RULES Committee action: constitutional and in proper form, voting: (8-0-0-0-0-0)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "House consent calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "House majority caucus: Do pass",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "House minority caucus: Do pass",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "House Committee of the Whole action: Do Pass",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "House third reading PASSED voting: (32-25-3-0)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Transmit to Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Introduced in Senate and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Assigned to Senate ED Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Assigned to Senate RULES Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Senate read second time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Senate ED Committee action: Do Pass, voting: (4-3-0-0)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-20",
+      "description": "House Education Committee Action (DP)",
+      "yea": 7,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-02",
+      "description": "House Rules Committee Action (C&P)",
+      "yea": 8,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-17",
+      "description": "House - Committee of the Whole (DP)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-23",
+      "description": "House - Third Reading",
+      "yea": 32,
+      "nay": 25,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-11",
+      "description": "Senate Education Committee Action (DP)",
+      "yea": 4,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-12-18",
+      "type": "Introduced",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/hcr2003p.htm",
+      "doc_id": 3292186
+    },
+    {
+      "date": "2026-02-17",
+      "type": "Engrossed",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/hcr2003h.htm",
+      "doc_id": 3365803
+    }
+  ],
+  "committee": {
+    "committee_id": 1114,
+    "chamber": "S",
+    "chamber_id": 16,
+    "name": "Rules"
+  },
+  "subjects": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": 2106371,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB4922",
+  "title": "EMERGING FARMER GRANT PROGRAM",
+  "summary": "Creates the Emerging and Socially Disadvantaged Farmers Infrastructure and Market Access Grant Program. Provides that the Department of Agriculture shall administer grants to eligible applicants to increase agricultural production, strengthen farm viability, and expand market access. Defines \"emerging farmer,\" \"socially disadvantaged farmer,\" and related terms. Specifies allowable uses of grant funds, priorities for awards, and reporting requirements. Effective July 1, 2026.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB4922/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB4922/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4922&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Sonya Harper (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-03",
+      "action": "Filed with the Clerk by Rep. Sonya M. Harper",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Assigned to Agriculture & Conservation Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-03",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=207606&DocName=10400HB4922&DocNum=4922&DocTypeID=HB&LegID=166260&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3354616
+    }
+  ],
+  "committee": {
+    "committee_id": 175,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Agriculture & Conservation"
+  },
+  "subjects": []
+}

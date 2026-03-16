@@ -1,0 +1,109 @@
+{
+  "id": 2034929,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB300",
+  "title": "Further providing for the title of the act, for findings and declaration of policy, for right to freedom from discrimination in employment, housing and public accommodation, for definitions, for unlawful discriminatory practices and for prohibition of certain real estate practices; providing for protection of religious exercise; and further providing for powers and duties of the commission and for construction and exclusiveness of remedy.",
+  "summary": "An Act amending the act of October 27, 1955 (P.L.744, No.222), known as the Pennsylvania Human Relations Act, further providing for the title of the act, for findings and declaration of policy, for right to freedom from discrimination in employment, housing and public accommodation, for definitions, for unlawful discriminatory practices and for prohibition of certain real estate practices; providing for protection of religious exercise; and further providing for powers and duties of the commission and for construction and exclusiveness of remedy.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "religious_exemptions",
+    "definitions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB300/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB300/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb300",
+  "sponsors": [
+    "Malcolm Kenyatta (D) [Rep]",
+    "Jessica Benham (D) [Rep]",
+    "Dan Frankel (D) [Rep]",
+    "Ismail Smith-Wade-El (D) [Rep]",
+    "La'Tasha Mayes (D) [Rep]",
+    "Gregory Scott (D) [Rep]",
+    "Abigail Salisbury (D) [Rep]",
+    "Andre Carroll (D) [Rep]",
+    "Elizabeth Fiedler (D) [Rep]",
+    "Christopher Rabb (D) [Rep]",
+    "Benjamin Waxman (D) [Rep]",
+    "Emily Kinkead (D) [Rep]",
+    "Stephen Samuelson (D) [Rep]",
+    "Timothy Brennan (D) [Rep]",
+    "Liz Hanbidge (D) [Rep]",
+    "Carol Hill-Evans (D) [Rep]",
+    "Robert Freeman (D) [Rep]",
+    "Arvind Venkat (D) [Rep]",
+    "Tarah Probst (D) [Rep]",
+    "Christopher Pielli (D) [Rep]",
+    "Michael Schlossberg (D) [Rep]",
+    "Johanny Cepeda-Freytiz (D) [Rep]",
+    "Lisa Borowski (D) [Rep]",
+    "Tarik Khan (D) [Rep]",
+    "Nikki Rivera (D) [Rep]",
+    "Joseph Webster (D) [Rep]",
+    "Jeanne McNeill (D) [Rep]",
+    "John Inglis (D) [Rep]",
+    "Steven Malagari (D) [Rep]",
+    "Ben Sanchez (D) [Rep]",
+    "Lindsay Powell (D) [Rep]",
+    "Danielle Otten (D) [Rep]",
+    "Rick Krajewski (D) [Rep]",
+    "Tina Davis (D) [Rep]",
+    "Danilo Burgos (D) [Rep]",
+    "Melissa Shusterman (D) [Rep]",
+    "Justin Fleming (D) [Rep]",
+    "Peter Schweyer (D) [Rep]",
+    "Jennifer O'Mara (D) [Rep]",
+    "Joseph Hohenstein (D) [Rep]",
+    "Kristine Howard (D) [Rep]",
+    "Mandy Steele (D) [Rep]",
+    "Perry Warren (D) [Rep]",
+    "Paul Takac (D) [Rep]",
+    "Timothy Briggs (D) [Rep]",
+    "Joseph Ciresi (D) [Rep]",
+    "Heather Boyd (D) [Rep]",
+    "Nancy Guenst (D) [Rep]",
+    "Melissa Cerrato (D) [Rep]",
+    "Mary Isaacson (D) [Rep]",
+    "Joshua Siegel (D) [Rep]",
+    "Mary Jo Daley (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-02",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-06-02",
+      "action": "Referred to Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-10",
+      "description": "House Judiciary: PN1797, Report Bill As Committed",
+      "yea": 14,
+      "nay": 12,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB0300/PN1797",
+      "doc_id": 3250488
+    }
+  ],
+  "committee": {
+    "committee_id": 53,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

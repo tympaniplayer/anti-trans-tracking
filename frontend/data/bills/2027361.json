@@ -1,0 +1,56 @@
+{
+  "id": 2027361,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3086",
+  "title": "Restoring Fair Housing Protections Eliminated by Trump Act of 2025",
+  "summary": "To restore the fair housing mission of the Department of Housing and Urban Development, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3086/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3086/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3086/all-info",
+  "sponsors": [
+    "Maxine Waters (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-29",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-04-29",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Referred to the Committee on the Judiciary, and in addition to the Committee on Financial Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-13",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3086/BILLS-119hr3086ih.pdf",
+      "doc_id": 3235363
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Housing and community development"
+  ]
+}

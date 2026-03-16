@@ -1,0 +1,77 @@
+{
+  "id": 1964912,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S04669",
+  "title": "Enacts the \"assuring college campus and educational safety and support (ACCESS) act\" relating to harassment of students and applicants at educational institutions; describes the circumstances under which harassment at educational institutions is an unlawful discriminatory practice; describes the circumstances under which an educational institution is deemed to have permitted harassment; describes additional circumstances under which a college or university is deemed to have permitted harassment.",
+  "summary": "Enacts the \"assuring college campus and educational safety and support (ACCESS) act\" relating to harassment of students and applicants at educational institutions; describes the circumstances under which harassment at educational institutions is an unlawful discriminatory practice; describes the circumstances under which an educational institution is deemed to have permitted harassment; describes additional circumstances under which a college or university is deemed to have permitted harassment.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S04669/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S04669/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S4669",
+  "sponsors": [
+    "Leroy Comrie (D) [Sen]",
+    "Toby Stavisky (D) [Sen]",
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Dean Murray (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-11",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-11",
+      "action": "REFERRED TO HIGHER EDUCATION",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "1ST REPORT CAL.901",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "ADVANCED TO THIRD READING",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "COMMITTED TO RULES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO HIGHER EDUCATION",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-11",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S04669&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S04669",
+      "doc_id": 3112454
+    }
+  ],
+  "committee": {
+    "committee_id": 430,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Higher Education"
+  },
+  "subjects": []
+}

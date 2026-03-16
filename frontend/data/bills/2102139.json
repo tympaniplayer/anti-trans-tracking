@@ -1,0 +1,64 @@
+{
+  "id": 2102139,
+  "state": "NM",
+  "state_name": "New Mexico",
+  "bill_number": "HB233",
+  "title": "Protection Of Women's Sports Act",
+  "summary": "Protection Of Women's Sports Act",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NM/bill/HB233/2026",
+  "legiscan_url": "https://legiscan.com/NM/bill/HB233/2026",
+  "state_url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=233&year=26",
+  "sponsors": [
+    "Andrea Reeb (R) [Rep]",
+    "Jenifer Jones (R) [Rep]",
+    "Cathrynn Brown (R) [Rep]",
+    "Rodney Montoya (R) [Rep]",
+    "Rebecca Dow (R) [Rep]",
+    "Gail Armstrong (R) [Rep]",
+    "Nicole Chavez (R) [Rep]",
+    "Mark Duncan (R) [Rep]",
+    "William Hall (R) [Rep]",
+    "Jonathan Henry (R) [Rep]",
+    "Alan Martinez (R) [Rep]",
+    "Angelita Mejia (R) [Rep]",
+    "Mark Murphy (R) [Rep]",
+    "Randall Pettigrew (R) [Rep]",
+    "Luis Terrazas (R) [Rep]",
+    "Martin Zamora (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-29",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "action": "Not Printed",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-29",
+      "type": "Introduced",
+      "url": "https://www.nmlegis.gov/Sessions/26%20Regular/bills/house/HB0233.pdf",
+      "doc_id": 3341570
+    }
+  ],
+  "committee": {
+    "committee_id": 2179,
+    "chamber": "H",
+    "chamber_id": 71,
+    "name": "Rules & Order of Business"
+  },
+  "subjects": []
+}

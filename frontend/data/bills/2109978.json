@@ -1,0 +1,65 @@
+{
+  "id": 2109978,
+  "state": "GA",
+  "state_name": "Georgia",
+  "bill_number": "HB1210",
+  "title": "Courts; protections for children who adopt an identity that differs from their sex; provide",
+  "summary": "A BILL to be entitled an Act to amend Part 1 of Article 3 of Chapter 11 of Title 15 of the O.C.G.A., relating to general provisions relative to dependency proceedings, so as to provide for protections for children who adopt an identity that differs from their sex; to provide for definitions; to amend Chapter 15 of Title 19 of the O.C.G.A., relating to child abuse, so as to provide for protections for children who adopt an identity that differs from their sex; to provide for definitions; to amend Title 49 of the O.C.G.A., relating to social services, so as to provide for the right to exercise religious beliefs or other strongly held beliefs of certain caregivers; to provide for certification; to amend Chapter 1 of Title 50 of the O.C.G.A., relating to general provisions relative to state government, so as to provide limitations for state employees and contractors regarding a parent-child relationship; to provide for related matters; to provide for severability; to repeal conflicting laws; and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "religious_exemptions",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/GA/bill/HB1210/2025",
+  "legiscan_url": "https://legiscan.com/GA/bill/HB1210/2025",
+  "state_url": "https://www.legis.ga.gov/legislation/72886",
+  "sponsors": [
+    "Noelle Kahaian (R) [Rep]",
+    "Charlice Byrd (R) [Rep]",
+    "Emory Dunahoo (R) [Rep]",
+    "Dale Washburn (R) [Rep]",
+    "Josh Bonner (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "House Hopper",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "House First Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "House Second Readers",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/241647",
+      "doc_id": 3350784
+    }
+  ],
+  "committee": {
+    "committee_id": 5130,
+    "chamber": "H",
+    "chamber_id": 29,
+    "name": "Judiciary Juvenile"
+  },
+  "subjects": []
+}

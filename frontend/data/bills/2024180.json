@@ -1,0 +1,66 @@
+{
+  "id": 2024180,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB1252",
+  "title": "Further providing for prohibited activities.",
+  "summary": "An Act amending the act of December 16, 1992 (P.L.1144, No.150), known as the Credit Services Act, further providing for prohibited activities.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB1252/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB1252/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb1252",
+  "sponsors": [
+    "Liz Hanbidge (D) [Rep]",
+    "Maureen Madden (D) [Rep]",
+    "Mary Isaacson (D) [Rep]",
+    "Benjamin Waxman (D) [Rep]",
+    "Christopher Pielli (D) [Rep]",
+    "Johanny Cepeda-Freytiz (D) [Rep]",
+    "Carol Hill-Evans (D) [Rep]",
+    "Tarik Khan (D) [Rep]",
+    "Danielle Otten (D) [Rep]",
+    "John Inglis (D) [Rep]",
+    "Melissa Shusterman (D) [Rep]",
+    "Ben Sanchez (D) [Rep]",
+    "Joseph Hohenstein (D) [Rep]",
+    "Nikki Rivera (D) [Rep]",
+    "Michael Schlossberg (D) [Rep]",
+    "Jennifer O'Mara (D) [Rep]",
+    "Joseph Ciresi (D) [Rep]",
+    "Perry Warren (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-17",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-04-17",
+      "action": "Referred to State Government",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1252/PN1398",
+      "doc_id": 3215800
+    }
+  ],
+  "committee": {
+    "committee_id": 59,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "State Government"
+  },
+  "subjects": []
+}

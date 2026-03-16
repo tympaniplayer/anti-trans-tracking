@@ -1,0 +1,95 @@
+{
+  "id": 2011562,
+  "state": "NC",
+  "state_name": "North Carolina",
+  "bill_number": "S358",
+  "title": "Hate Crimes Prevention Act",
+  "summary": "Hate Crimes Prevention Act",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NC/bill/S358/2025",
+  "legiscan_url": "https://legiscan.com/NC/bill/S358/2025",
+  "state_url": "https://www.ncleg.gov/BillLookUp/2025/S358",
+  "sponsors": [
+    "Jay Chaudhuri (D) [Sen]",
+    "Mujtaba Mohammed (D) [Sen]",
+    "Sophia Chitlik (D) [Sen]",
+    "Val Applewhite (D) [Sen]",
+    "Lisa Grafstein (D) [Sen]",
+    "Paul Lowe (D) [Sen]",
+    "Natalie Murdock (D) [Sen]",
+    "Gladys Robinson (D) [Sen]",
+    "DeAndrea Salvador (D) [Sen]",
+    "Kandie Smith (D) [Sen]",
+    "Caleb Theodros (D) [Sen]",
+    "Joyce Waddell (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-20",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-03-20",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Passed 1st Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Ref To Com On Rules and Operations of the Senate",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-20",
+      "type": "Introduced",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S358v0.pdf",
+      "doc_id": 3182625
+    },
+    {
+      "date": "2025-03-24",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S358v1.pdf",
+      "doc_id": 3186286
+    }
+  ],
+  "committee": {
+    "committee_id": 698,
+    "chamber": "S",
+    "chamber_id": 76,
+    "name": "Rules and Operations of the Senate"
+  },
+  "subjects": [
+    "Attorneys",
+    "Courts",
+    "Crimes",
+    "Criminal Procedure",
+    "Data & Records Systems",
+    "Discrimination",
+    "Education",
+    "Information Technology",
+    "Law Enforcement",
+    "Minorities",
+    "Professional Education",
+    "Public",
+    "Reporting",
+    "Sbi",
+    "Sentencing",
+    "District Attorneys",
+    "Records",
+    "Public Safety Dept."
+  ]
+}

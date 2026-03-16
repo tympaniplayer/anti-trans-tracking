@@ -1,0 +1,75 @@
+{
+  "id": 2070530,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "SB50",
+  "title": "Education - Interscholastic and Intramural Junior Varsity and Varsity Teams and Sports - Designation (Fairness in Girls' Sports Act)",
+  "summary": "Requiring certain interscholastic and intramural junior varsity and varsity athletic teams or sports sponsored by certain schools to be expressly designated in a certain manner; prohibiting certain interscholastic and intramural junior varsity and varsity athletic teams or sports from including certain students; prohibiting certain entities from taking certain adverse actions against a school under certain circumstances; etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "education"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/SB50/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/SB50/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0050?ys=2026RS",
+  "sponsors": [
+    "Mary Carozza (R) [Sen]",
+    "Ron Watson (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-10-08",
+      "action": "Pre-filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "First Reading Education, Energy, and the Environment",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Hearing 2/18 at 1:00 p.m.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-10",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/sb/sb0050f.pdf",
+      "doc_id": 3305351
+    }
+  ],
+  "committee": {
+    "committee_id": 4685,
+    "chamber": "S",
+    "chamber_id": 50,
+    "name": "Education, Energy, and the Environment"
+  },
+  "subjects": [
+    "Primary and Secondary Education",
+    "Human Relations",
+    "Civil Actions",
+    "Classifications and Designations",
+    "complaints",
+    "Education",
+    "Gender",
+    "Gender Identity and Expression",
+    "Private Schools",
+    "Public Schools",
+    "Secondary Schools",
+    "Sports and Recreation",
+    "Students"
+  ]
+}

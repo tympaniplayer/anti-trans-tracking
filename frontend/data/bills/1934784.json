@@ -1,0 +1,137 @@
+{
+  "id": 1934784,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S02666",
+  "title": "Relates to the provision of breast pumps and related collection and storage materials to certain incarcerated nursing birth parents who are confined in or committed to an institution or local correctional facility with or without their child subject to specific time limitations; requires institutions and local correctional facilities to provide pumps and related materials to such incarcerated birth parents, but not beyond the date such child reaches twenty-four months of age except in limited circumstances related to parole; allows children to remain with their incarcerated birth parents in a correctional institution until twenty-four months of age, or longer in certain cases related to parole; requires the commissioner of corrections and community supervision to issue an annual report on data relating to incarcerated birth parents.",
+  "summary": "Relates to the provision of breast pumps and related collection and storage materials to certain incarcerated nursing birth parents who are confined in or committed to an institution or local correctional facility with or without their child subject to specific time limitations; requires institutions and local correctional facilities to provide pumps and related materials to such incarcerated birth parents, but not beyond the date such child reaches twenty-four months of age except in limited circumstances related to parole; allows children to remain with their incarcerated birth parents in a correctional institution until twenty-four months of age, or longer in certain cases related to parole; requires the commissioner of corrections and community supervision to issue an annual report on data relating to incarcerated birth parents.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education",
+    "bathrooms"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S02666/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S02666/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S2666",
+  "sponsors": [
+    "Julia Salazar (D) [Sen]",
+    "Peter Harckham (D) [Sen]",
+    "Michelle Hinchey (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "James Skoufis (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-11",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-22",
+      "action": "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "1ST REPORT CAL.383",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "ADVANCED TO THIRD READING",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "AMENDED ON THIRD READING 2666A",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-11",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-11",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-11",
+      "action": "referred to correction",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "died in assembly",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "returned to senate",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "REPORTED AND COMMITTED TO FINANCE",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-25",
+      "description": "Senate Crime Victims, Crime And Correction Committee Vote",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-11",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 45,
+      "nay": 14,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-04",
+      "description": "Senate Crime Victims, Crime And Correction Committee Vote",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-22",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S02666&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S02666",
+      "doc_id": 3072088
+    },
+    {
+      "date": "2025-01-22",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S02666&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S02666A",
+      "doc_id": 3228872
+    }
+  ],
+  "committee": {
+    "committee_id": 428,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Finance"
+  },
+  "subjects": []
+}

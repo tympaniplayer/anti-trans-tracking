@@ -1,0 +1,148 @@
+{
+  "id": 1918814,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1322",
+  "title": "Improving outcomes for individuals adjudicated of juvenile offenses by increasing opportunities for community placement options and refining procedural requirements.",
+  "summary": "Improving outcomes for individuals adjudicated of juvenile offenses by increasing opportunities for community placement options and refining procedural requirements.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1322/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1322/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1322&Year=2025&Initiative=false",
+  "sponsors": [
+    "Roger Goodman (D) [Rep]",
+    "Julio Cortes (D) [Rep]",
+    "Tarra Simmons (D) [Rep]",
+    "Julia Reed (D) [Rep]",
+    "Timm Ormsby (D) [Rep]",
+    "Osman Salahuddin (D) [Rep]",
+    "Greg Nance (D) [Rep]",
+    "Beth Doglio (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-15",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-15",
+      "action": "First reading, referred to Early Learning & Human Services.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Public hearing in the House Committee on Early Learning & Human Services at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Executive action taken in the House Committee on Early Learning & Human Services at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "ELHS - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Minority; do not pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-21",
+      "action": "Referred to Appropriations.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Public hearing in the House Committee on Appropriations at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Executive action taken in the House Committee on Appropriations at 9:00 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "APP - Majority; 2nd substitute bill be substituted, do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Minority; do not pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "Referred to Rules 2 Review.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Rules Committee relieved of further consideration.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Referred to Early Learning & Human Services.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-19",
+      "description": "House Committee on Early Learning & Human Services: 1st substitute bill be substituted, do pass",
+      "yea": 7,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2025-02-27",
+      "description": "House Committee on Appropriations: 2nd substitute bill be substituted, do pass",
+      "yea": 18,
+      "nay": 13,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1322.pdf",
+      "doc_id": 3055796
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1322-S.pdf",
+      "doc_id": 3133993
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1322-S2.pdf",
+      "doc_id": 3150541
+    }
+  ],
+  "committee": {
+    "committee_id": 1713,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Early Learning & Human Services"
+  },
+  "subjects": []
+}

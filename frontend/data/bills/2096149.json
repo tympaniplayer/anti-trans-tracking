@@ -1,0 +1,55 @@
+{
+  "id": 2096149,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A3323",
+  "title": "Establishes certain protections for persons providing, receiving, and allowing children to receive gender-affirming health care.",
+  "summary": "Establishes certain protections for persons providing, receiving, and allowing children to receive gender-affirming health care.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A3323/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A3323/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A3323",
+  "sponsors": [
+    "Katie Brennan (D) [Rep]",
+    "Ravi Bhalla (D) [Rep]",
+    "Verlina Reynolds-Jackson (D) [Rep]",
+    "Shanique Speight (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Health Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-13",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A3500/3323_I1.HTM",
+      "doc_id": 3335184
+    }
+  ],
+  "committee": {
+    "committee_id": 4191,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Health"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

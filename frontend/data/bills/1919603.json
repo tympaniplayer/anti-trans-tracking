@@ -1,0 +1,54 @@
+{
+  "id": 1919603,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "J00215",
+  "title": "Memorializing Governor Kathy Hochul to proclaim November 20, 2025, as Transgender Day of Remembrance in the State of New York",
+  "summary": "Memorializing Governor Kathy Hochul to proclaim November 20, 2025, as Transgender Day of Remembrance in the State of New York",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/J00215/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/J00215/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/J215",
+  "sponsors": [
+    "Kevin Parker (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-22",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-15",
+      "action": "REFERRED TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-22",
+      "action": "REPORTED TO CALENDAR FOR CONSIDERATION",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-22",
+      "action": "ADOPTED",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-20",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=J00215&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#J00215",
+      "doc_id": 3056775
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

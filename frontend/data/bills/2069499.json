@@ -1,0 +1,192 @@
+{
+  "id": 2069499,
+  "state": "FL",
+  "state_name": "Florida",
+  "bill_number": "S1566",
+  "title": "Local Government Finances",
+  "summary": "Citing this act as the \"Local Government Financial Transparency and Accountability Act\"; revising the timeframe during which tentative budgets, and the length of time for which final budgets, must be posted on county websites; requiring counties to prepare certain quarterly compensation summaries; revising the length of time for which a public hearing for an amendment to a county budget must be advertised; specifying requirements applicable to local governments and special districts for impact fees adopted or increased after a specified date, etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/FL/bill/S1566/2026",
+  "legiscan_url": "https://legiscan.com/FL/bill/S1566/2026",
+  "state_url": "https://www.flsenate.gov/Session/Bill/2026/1566",
+  "sponsors": [
+    "Rules [Sen]",
+    "Appropriations Committee on Agriculture, Environment, and General Government [Sen]",
+    "Community Affairs [Sen]",
+    "Nick DiCeglie (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-09",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-16",
+      "action": "Referred to Community Affairs; Appropriations Committee on Agriculture, Environment, and General Government; Rules",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "On Committee agenda-- Community Affairs, 02/10/26, 3:00 pm, 37 Senate Building",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "CS by Community Affairs; YEAS 7 NAYS 1",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Now in Appropriations Committee on Agriculture, Environment, and General Government",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "CS by Community Affairs read 1st time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "On Committee agenda-- Appropriations Committee on Agriculture, Environment, and General Government, 02/25/26, 1:30 pm, 412 Knott Building",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "CS/CS by Appropriations Committee on Agriculture, Environment, and General Government; YEAS 6 NAYS 2",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Now in Rules",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "On Committee agenda-- Rules, 03/03/26, 9:00 am, 412 Knott Building",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "CS/CS by Appropriations Committee on Agriculture, Environment, and General Government read 1st time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "CS/CS/CS by- Rules; YEAS 21 NAYS 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Pending reference review -under Rule 4.7(2) - (Committee Substitute)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Placed on Calendar, on 2nd reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Placed on Special Order Calendar, 03/06/26",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "CS/CS/CS by Rules read 1st time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Read 2nd time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Substituted CS/CS/HB 1329",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Laid on Table, refer to CS/CS/HB 1329",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-10",
+      "description": "Senate Community Affairs",
+      "yea": 7,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-25",
+      "description": "Senate Appropriations Committee on Agriculture, Environment, and General Government",
+      "yea": 6,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-03",
+      "description": "Senate Rules",
+      "yea": 21,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-09",
+      "type": "Introduced",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1566/BillText/Filed/HTML",
+      "doc_id": 3304220
+    },
+    {
+      "date": "2026-02-12",
+      "type": "Comm Sub",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1566/BillText/c1/HTML",
+      "doc_id": 3360544
+    },
+    {
+      "date": "2026-02-26",
+      "type": "Comm Sub",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1566/BillText/c2/HTML",
+      "doc_id": 3378130
+    },
+    {
+      "date": "2026-03-04",
+      "type": "Comm Sub",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1566/BillText/c3/HTML",
+      "doc_id": 3384987
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": 2099142,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A673",
+  "title": "\"Fairness in Women's Sports Act.\"",
+  "summary": "\"Fairness in Women's Sports Act.\"",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A673/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A673/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A673",
+  "sponsors": [
+    "Gregory McGuckin (R) [Rep]",
+    "Paul Kanitra (R) [Rep]",
+    "Dawn Fantasia (R) [Rep]",
+    "Gerard Scharfenberger (R) [Rep]",
+    "Erik Peterson (R) [Rep]",
+    "Robert Auth (R) [Rep]",
+    "Michael Inganamort (R) [Rep]",
+    "Sean Kean (R) [Rep]",
+    "Victoria Flynn (R) [Rep]",
+    "John Azzariti (R) [Rep]",
+    "Gregory Myhre (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Education Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-01",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A1000/673_I1.HTM",
+      "doc_id": 3338226
+    }
+  ],
+  "committee": {
+    "committee_id": 854,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Education"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

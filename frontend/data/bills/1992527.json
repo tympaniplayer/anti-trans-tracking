@@ -1,0 +1,60 @@
+{
+  "id": 1992527,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A06495",
+  "title": "Enacts the \"Tevyan Rowe child and young teen mental health community safety act\"; directs boards of education to create policies, procedures, and guidelines for at-risk children and young teens who have demonstrated suicidal ideation, been victims of harassment or bullying, and/or who have eloped from school property; establishes a commission to evaluate the safety and security of children in primary and secondary public and private schools in this state.",
+  "summary": "Enacts the \"Tevyan Rowe child and young teen mental health community safety act\"; directs boards of education to create policies, procedures, and guidelines for at-risk children and young teens who have demonstrated suicidal ideation, been victims of harassment or bullying, and/or who have eloped from school property; establishes a commission to evaluate the safety and security of children in primary and secondary public and private schools in this state.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A06495/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A06495/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A6495",
+  "sponsors": [
+    "Harry Bronson (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Harvey Epstein (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Maritza Davila (D) [Rep]",
+    "Deborah Glick (D) [Rep]",
+    "William Colton (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-05",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-05",
+      "action": "referred to education",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to education",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-05",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06495&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06495",
+      "doc_id": 3154692
+    }
+  ],
+  "committee": {
+    "committee_id": 362,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Education"
+  },
+  "subjects": []
+}

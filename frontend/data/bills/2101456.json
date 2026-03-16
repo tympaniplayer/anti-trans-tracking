@@ -1,0 +1,62 @@
+{
+  "id": 2101456,
+  "state": "OR",
+  "state_name": "Oregon",
+  "bill_number": "SB1555",
+  "title": "Relating to the constitutional requirements for public education appropriations; declaring an emergency.",
+  "summary": "Changes the method that is used to prepare a report on the amount of state money that is used to fund public education. (Flesch Readability Score: 62.1). Directs the Joint Interim Committee on Ways and Means to use a cost model for the purpose of calculating the sum of moneys sufficient to meet the state's system of public education quality goals. Modifies the public education quality goals for the purpose of the cost model and makes related changes specifying when a school district is a standard school district. Abolishes a joint committee related to the appropriation of moneys for public education. Abolishes the Quality Education Commission. Declares an emergency, effective on passage.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OR/bill/SB1555/2026",
+  "legiscan_url": "https://legiscan.com/OR/bill/SB1555/2026",
+  "state_url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1555",
+  "sponsors": [],
+  "introduced_date": "2026-03-06",
+  "session": "2026 Legislative Measures",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "Introduction and first reading. Referred to President's desk.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Referred to Education.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Public Hearing held.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Work Session held.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "In committee upon adjournment.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1555/Introduced",
+      "doc_id": 3340638
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

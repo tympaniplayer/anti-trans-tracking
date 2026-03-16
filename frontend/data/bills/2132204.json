@@ -1,0 +1,61 @@
+{
+  "id": 2132204,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "H8274",
+  "title": "Amends the Rhode Island Fair Housing Practices Act to clarify housing-status enforcement, ban discriminatory housing notices, aligns state law with federal standards and removes a ban on public discussion of fair housing cases.",
+  "summary": "PROPERTY -- RHODE ISLAND FAIR HOUSING PRACTICE ACT - Amends the Rhode Island Fair Housing Practices Act to clarify housing-status enforcement, ban discriminatory housing notices, aligns state law with federal standards and removes a ban on public discussion of fair housing cases.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/H8274/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/H8274/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Edith Ajello (D) [Rep]",
+    "David Morales (D) [Rep]",
+    "Teresa Tanzi (D) [Rep]",
+    "Katherine Kazarian (D) [Rep]",
+    "Michelle McGaw (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-11",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-11",
+      "action": "Introduced, referred to House Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Scheduled for hearing and/or consideration (03/18/2026)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-11",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H8274.pdf",
+      "doc_id": 3390985
+    }
+  ],
+  "committee": {
+    "committee_id": 1121,
+    "chamber": "H",
+    "chamber_id": 83,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Property",
+    "PROPERTY -- RHODE ISLAND FAIR HOUSING PRACTICE ACT"
+  ]
+}

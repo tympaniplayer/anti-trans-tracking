@@ -1,0 +1,56 @@
+{
+  "id": 2072928,
+  "state": "AL",
+  "state_name": "Alabama",
+  "bill_number": "HR7",
+  "title": "U.S. Supreme Court and Congress to Safeguard Fairness and Safety in Women's Sports, urging",
+  "summary": "U.S. Supreme Court and Congress to Safeguard Fairness and Safety in Women's Sports, urging",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AL/bill/HR7/2026",
+  "legiscan_url": "https://legiscan.com/AL/bill/HR7/2026",
+  "state_url": "https://alison.legislature.state.al.us/bill-search",
+  "sponsors": [
+    "Susan DuBose (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Read for the first time and referred to the House Committee on Rules",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Pending House Rules",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-13",
+      "type": "Introduced",
+      "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HR7-int.pdf",
+      "doc_id": 3308220
+    }
+  ],
+  "committee": {
+    "committee_id": 984,
+    "chamber": "H",
+    "chamber_id": 11,
+    "name": "Rules"
+  },
+  "subjects": [
+    "Resolutions"
+  ]
+}

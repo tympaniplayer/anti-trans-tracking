@@ -1,0 +1,49 @@
+{
+  "id": 1954125,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0149",
+  "title": "An act relating to expanding equal pay protections",
+  "summary": "An act relating to expanding equal pay protections",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0149/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0149/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.149",
+  "sponsors": [
+    "Thomas Stevens (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-05",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-02-05",
+      "action": "Read first time and referred to the Committee on General and Housing",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-04",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0149/H-0149%20As%20Introduced.pdf",
+      "doc_id": 3098473
+    }
+  ],
+  "committee": {
+    "committee_id": 4666,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "General and Housing"
+  },
+  "subjects": []
+}

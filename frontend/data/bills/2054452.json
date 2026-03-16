@@ -1,0 +1,111 @@
+{
+  "id": 2054452,
+  "state": "NH",
+  "state_name": "New Hampshire",
+  "bill_number": "HB1299",
+  "title": "Permitting classification of individuals based on biological sex under certain limited circumstances and establishing that certain biological sex distinctions do not qualify as discrimination.",
+  "summary": "Permitting classification of individuals based on biological sex under certain limited circumstances and establishing that certain biological sex distinctions do not qualify as discrimination.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NH/bill/HB1299/2026",
+  "legiscan_url": "https://legiscan.com/NH/bill/HB1299/2026",
+  "state_url": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2833&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1299",
+  "sponsors": [
+    "Jim Kofalt (R) [Rep]",
+    "Joe Alexander (R) [Rep]",
+    "Sayra Devito (R) [Rep]",
+    "Kristin Noble (R) [Rep]",
+    "Jeanine Notter (R) [Rep]",
+    "Vanessa Sheehan (R) [Rep]",
+    "Shane Sirois (R) [Rep]",
+    "Kevin Avard (R) [Sen]",
+    "Daniel Innis (R) [Sen]",
+    "Victoria Sullivan (R) [Sen]",
+    "Ruth Ward (R) [Sen]"
+  ],
+  "introduced_date": "2025-12-01",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Introduced 01/07/2026 and referred to Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Public Hearing: 02/20/2026 10:30 am GP 231",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Executive Session: 02/20/2026 10:30 am GP 231",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Majority Committee Report: Ought to Pass with Amendment # 2026-0854h 02/20/2026 (Vote 10-7; Regular Calendar) House Calendar 10 P. 56",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Minority Committee Report: Inexpedient to Legislate",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Indefinitely Postpone (Rep. Foss): Motion Failed Regular Calendar 156-171 03/11/2026 House Journal  7",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Amendment # 2026-0854h: Amendment Adopted DV 176-156 03/11/2026 House Journal  7",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Ought to Pass with Amendment 2026-0854h: Motion Adopted Regular Calendar 176-155 03/11/2026 House Journal  7",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-11",
+      "description": "Indefinitely Postpone",
+      "yea": 156,
+      "nay": 171,
+      "passed": 0
+    },
+    {
+      "date": "2026-03-11",
+      "description": "Adopt Amendment",
+      "yea": 176,
+      "nay": 156,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-11",
+      "description": "OTPA",
+      "yea": 176,
+      "nay": 155,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&id=2042&txtFormat=html",
+      "doc_id": 3286942
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

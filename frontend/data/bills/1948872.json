@@ -1,0 +1,49 @@
+{
+  "id": 1948872,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S03869",
+  "title": "Creates the office of emerging technology; provides for its functions and duties; requires the office to submit a report to the governor and the legislature.",
+  "summary": "Creates the office of emerging technology; provides for its functions and duties; requires the office to submit a report to the governor and the legislature.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S03869/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S03869/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S3869",
+  "sponsors": [
+    "Brad Hoylman-Sigal (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-30",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-30",
+      "action": "REFERRED TO INTERNET AND TECHNOLOGY",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-30",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S03869&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S03869",
+      "doc_id": 3091660
+    }
+  ],
+  "committee": {
+    "committee_id": 3936,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Internet and Technology"
+  },
+  "subjects": []
+}

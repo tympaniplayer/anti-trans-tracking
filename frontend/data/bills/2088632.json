@@ -1,0 +1,67 @@
+{
+  "id": 2088632,
+  "state": "MS",
+  "state_name": "Mississippi",
+  "bill_number": "HB1389",
+  "title": "Midwifery; provide for licensure and regualtion of by health department.",
+  "summary": "An Act To Provide For The Licensure And Regulation Of Professional Midwifery; To Provide Definitions For The Purpose Of The Act; To Provide Exceptions To The Applicability Of The Act; To Provide The Scope Of Practice For Licensed Midwives; To Provide Mandatory Procedures For Licensed Midwives; To Prohibit Licensed Midwives From Certain Actions; To Provide That The State Department Of Health Shall Administer Licensure And Regulation Of Licensed Midwives Under Rules Promulgated By The State Board Of Health And To Provide Powers And Duties For Implementation; To Require The State Board Of Health To Promulgate Rules Not Later Than July 1, 2027; To Require A License Issued By The Department To Practice Professional Midwifery; To Provide For The Issuance Of Temporary Permits To Practice Pending Qualification For Licensure; To Provide Exemptions From Licensure For Certain Persons; To Provide For The Confidentiality Of Information Maintained By The Department; To Provide Immunity For Certain Actions; To Provide Penalties For Violations Of This Act; To Prohibit Terminology In Any Health Coverage Plan, Policy Or Contract That Is Discriminatory Against Professional Midwifery; To Require Health Coverage Plans That Provide Maternity Benefits To Provide Coverage For Services Rendered By A Licensed Midwife; To Provide Whenever A Health Coverage Plan Provides For Reimbursement Of Any Services That Are Within The Lawful Scope Of Practice Of Licensed Midwives, The Person Entitled To Benefits Under The Plan Shall Be Entitled To Reimbursement For The Services, Whether The Services Are Performed By A Physician Or A Licensed Midwife; To Require The State Department Of Health To Develop And Institute A Safe Perinatal Transfer Certification For The Facilities That It Regulates; To Amend Section 73-25-33, Mississippi Code Of 1972, To Clarify That The Practice Of Midwifery Is Not Considered To Be The Practice Of Medicine; And For Related Purposes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "bathrooms",
+    "religious_exemptions",
+    "definitions"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MS/bill/HB1389/2026",
+  "legiscan_url": "https://legiscan.com/MS/bill/HB1389/2026",
+  "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1389.xml",
+  "sponsors": [
+    "Dana Underwood McLean (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-12",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-16",
+      "action": "Referred To Public Health and Human Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Title Suff Do Pass Comm Sub",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Read the Third Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Died On Calendar",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1389IN.htm",
+      "doc_id": 3326366
+    },
+    {
+      "date": "2026-02-03",
+      "type": "Comm Sub",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1389CS.htm",
+      "doc_id": 3346749
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

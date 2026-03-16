@@ -1,0 +1,68 @@
+{
+  "id": 2095187,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB3243",
+  "title": "Relating To Health Care.",
+  "summary": "Establishes a Health Care for All Hawaii Board to design and recommend the Health Care for All Hawaii plan that is publicly funded and available to every resident of the State. Establishes values and principles for the board in developing its plan, designates the scope of the plan, requires the board to establish an advisory committee to provide consumer perspective input, and requires the board to submit the plan to the Legislature. Appropriates funds. Repeals 6/30/2027.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB3243/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB3243/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3243&year=2026",
+  "sponsors": [
+    "Angus McKelvey (D) [Sen]",
+    "Karl Rhoads (D) [Sen]",
+    "Joy San Buenaventura (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-28",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-28",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Referred to HHS/CPN, WAM.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-27",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB3243_.HTM",
+      "doc_id": 3334126
+    }
+  ],
+  "committee": {
+    "committee_id": 4751,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Health and Human Services"
+  },
+  "subjects": [
+    "Health Care for All Hawaii Board",
+    "Health Care for All Hawaii Plan",
+    "Advisory Committee",
+    "Recommendations",
+    "Report",
+    "Appropriation ($)"
+  ]
+}

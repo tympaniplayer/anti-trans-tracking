@@ -1,0 +1,180 @@
+{
+  "id": 1980142,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB1245",
+  "title": "State contracts: certification process: forced labor and human trafficking.",
+  "summary": "An act to amend Section 6108 of the Public Contract Code, relating to public contracts.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB1245/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB1245/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1245",
+  "sponsors": [
+    "Catherine Stefani (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-29",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-21",
+      "action": "Introduced. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-22",
+      "action": "From printer. May be heard in committee March 24.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Read first time.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Referred to Coms. on P. & C.P. and JUD.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "In committee: Hearing postponed by committee.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-12-17",
+      "action": "Pending re-refer to Com. on G.O. pursuant to Assembly Rule 56.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-05",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on P. & C.P. Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-05",
+      "action": "Re-referred to Com. on P. & C.P.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-05",
+      "action": "Re-referred to Coms. on G.O. and L. & E. pursuant to Assembly Rule 96.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "From committee: Do pass and re-refer to Com. on L. & E. with recommendation: To Consent Calendar. (Ayes 17. Noes 0.) (January 7). Re-referred to Com. on L. & E.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 7. Noes 0.) (January 13). Re-referred to Com. on APPR.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Assembly Rule 63 suspended. (Page 3806.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "In committee: Set, first hearing. Referred to suspense file.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "From committee: Amend, and do pass as amended. (Ayes 11. Noes 0.) (January 22).",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Read second time and amended. Ordered returned to second reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Read third time. Passed. Ordered to the Senate. (Ayes 75. Noes 0. Page 3878.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-07",
+      "description": "Do pass and be re-referred to the Committee on [Labor and Employment] with recommendation: To Consent Calendar",
+      "yea": 17,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-13",
+      "description": "Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-22",
+      "description": "Do pass as amended",
+      "yea": 11,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-29",
+      "description": "AB 1245 Stefani Assembly Third Reading",
+      "yea": 75,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-21",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1245#99INT",
+      "doc_id": 3136933
+    },
+    {
+      "date": "2026-01-05",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1245#98AMD",
+      "doc_id": 3300020
+    },
+    {
+      "date": "2026-01-22",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1245#97AMD",
+      "doc_id": 3329728
+    }
+  ],
+  "committee": {
+    "committee_id": 489,
+    "chamber": "S",
+    "chamber_id": 20,
+    "name": "Rules"
+  },
+  "subjects": []
+}

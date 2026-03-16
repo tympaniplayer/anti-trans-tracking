@@ -1,0 +1,59 @@
+{
+  "id": 2003151,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H2467",
+  "title": "To study the decriminalization of sex work",
+  "summary": "For legislation to establish an interagency committee to study decriminalizing sex work. Public Health.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H2467/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H2467/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H2467",
+  "sponsors": [
+    "Meghan Kilcoyne (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Public Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Hearing scheduled for 07/10/2025 from 09:00 AM-01:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-20",
+      "action": "Accompanied a new draft, see H4610",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H2467.pdf",
+      "doc_id": 3169226
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

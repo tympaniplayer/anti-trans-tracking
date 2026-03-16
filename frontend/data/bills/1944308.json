@@ -1,0 +1,101 @@
+{
+  "id": 1944308,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A03475",
+  "title": "Prohibits police officers from using bias-based profiling; requires that a procedure be established for the taking and review of complaints against police officers for bias-based profiling; allows an action for injunctive relief and/or damages to be brought against a law enforcement agency, any agent of a law enforcement agency and the supervisor of an agent.",
+  "summary": "Prohibits police officers from using bias-based profiling; requires that a procedure be established for the taking and review of complaints against police officers for bias-based profiling; allows an action for injunctive relief and/or damages to be brought against a law enforcement agency, any agent of a law enforcement agency and the supervisor of an agent.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A03475/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A03475/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A3475",
+  "sponsors": [
+    "Rodneyse Bichotte Hermelyn (D) [Rep]",
+    "Crystal Peoples-Stokes (D) [Rep]",
+    "Latrice Walker (D) [Rep]",
+    "Vivian Cook (D) [Rep]",
+    "Jeffrey Dinowitz (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Linda Rosenthal (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "Didi Barrett (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Nily Rozic (D) [Rep]",
+    "Harvey Epstein (D) [Rep]",
+    "William Colton (D) [Rep]",
+    "Pamela Hunter (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Deborah Glick (D) [Rep]",
+    "Alfred Taylor (D) [Rep]",
+    "Clyde Vanel (D) [Rep]",
+    "Steven Otis (D) [Rep]",
+    "Harry Bronson (D) [Rep]",
+    "Robert Carroll (D) [Rep]",
+    "Catalina Cruz (D) [Rep]",
+    "Alicia Hyndman (D) [Rep]",
+    "Jonathan Jacobson (D) [Rep]",
+    "Philip Ramos (D) [Rep]",
+    "Phillip Steck (D) [Rep]",
+    "Ron Kim (D) [Rep]",
+    "Stefani Zinerman (D) [Rep]",
+    "Chantel Jackson (D) [Rep]",
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Charles Lavine (D) [Rep]",
+    "Anna Kelles (D) [Rep]",
+    "Eddie Gibbs (D) [Rep]",
+    "Maritza Davila (D) [Rep]",
+    "George Alvarez (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-28",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-28",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "reported referred to ways and means",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to ways and means",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-04",
+      "description": "Assembly Codes Committee: Favorable refer to committee Ways and Means",
+      "yea": 14,
+      "nay": 6,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-28",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A03475&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A03475",
+      "doc_id": 3085971
+    }
+  ],
+  "committee": {
+    "committee_id": 387,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

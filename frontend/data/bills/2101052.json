@@ -1,0 +1,164 @@
+{
+  "id": 2101052,
+  "state": "OR",
+  "state_name": "Oregon",
+  "bill_number": "SB1547",
+  "title": "Relating to licensed behavioral health and wellness practitioners; and prescribing an effective date.",
+  "summary": "The Act makes a new profession called a licensed behavioral health and wellness practitioner. The Act says what the licensee can do. The Act also says that the licensee has to report some kinds of abuse. (Flesch Readability Score: 67.7). Authorizes the Oregon Board of Psychology to issue a license to practice behavioral health promotion, prevention and brief intervention to a qualified applicant. Defines the \"practice of behavioral health promotion, prevention and brief intervention\" and \"licensed behavioral health and wellness practitioner.\" Prohibits a person from using the title \"licensed behavioral health and wellness practitioner\" without a license. Creates a licensed behavioral health and wellness practitioner-client privilege for certain communications. Requires a licensed behavioral health and wellness practitioner to report certain types of abuse. Takes effect on the 91st day following adjournment sine die.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OR/bill/SB1547/2026",
+  "legiscan_url": "https://legiscan.com/OR/bill/SB1547/2026",
+  "state_url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1547",
+  "sponsors": [],
+  "introduced_date": "2026-03-05",
+  "session": "2026 Legislative Measures",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "Introduction and first reading. Referred to President's desk.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Referred to Early Childhood and Behavioral Health.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Public Hearing and Work Session held.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Recommendation: Do pass with amendments. (Printed A-Eng.)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Third reading. Carried by Reynolds. Passed. Ayes, 27; Nays, 2--Hayden, Robinson; Excused, 1--Gorsek.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "First reading. Referred to Speaker's desk.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Referred to Behavioral Health.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Public Hearing cancelled.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Public Hearing and Work Session held.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Recommendation: Do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Second reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Third reading. Carried by Isadore. Passed. Ayes, 52; Nays, 2--Skarlatos, Yunker; Excused, 4--Hartman, Lively, Scharf, Valderrama; Excused for Business of the House, 2--Boshart Davis, Harbick.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "President signed.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Speaker signed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Governor signed.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-05",
+      "description": "Senate Committee Do pass with amendments. (Printed A-Eng.)",
+      "yea": 5,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-11",
+      "description": "Senate Third Reading",
+      "yea": 27,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-19",
+      "description": "House Committee Do Pass the A-Eng bill",
+      "yea": 8,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-25",
+      "description": "House Third Reading",
+      "yea": 52,
+      "nay": 2,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1547/Introduced",
+      "doc_id": 3340253
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1547/Senate%20Amendments%20to%20Introduced",
+      "doc_id": 3353630
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1547/A-Engrossed",
+      "doc_id": 3353631
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Enrolled",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1547/Enrolled",
+      "doc_id": 3378814
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

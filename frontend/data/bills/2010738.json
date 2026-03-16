@@ -1,0 +1,56 @@
+{
+  "id": 2010738,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S06637",
+  "title": "Establishes certain rights and remedies for employees who are wrongfully discharged; establishes remedies for wrongful discharge; allows an employee or employer to make a written offer to arbitrate a dispute covered under this act; defines terms.",
+  "summary": "Establishes certain rights and remedies for employees who are wrongfully discharged; establishes remedies for wrongful discharge; allows an employee or employer to make a written offer to arbitrate a dispute covered under this act; defines terms.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S06637/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S06637/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S6637",
+  "sponsors": [
+    "Robert Jackson (D) [Sen]",
+    "Leroy Comrie (D) [Sen]",
+    "Julia Salazar (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-19",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-19",
+      "action": "REFERRED TO LABOR",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO LABOR",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-19",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S06637&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S06637",
+      "doc_id": 3180978
+    }
+  ],
+  "committee": {
+    "committee_id": 435,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Labor"
+  },
+  "subjects": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": 2108433,
+  "state": "CO",
+  "state_name": "Colorado",
+  "bill_number": "HB1148",
+  "title": "Protections for Youth on Social Media",
+  "summary": "Concerning protections for minors who access certain social media.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CO/bill/HB1148/2026",
+  "legiscan_url": "https://legiscan.com/CO/bill/HB1148/2026",
+  "state_url": "https://leg.colorado.gov/bills/HB26-1148",
+  "sponsors": [
+    "Jenny Willford (D) [Rep]",
+    "Yara Zokaie (D) [Rep]",
+    "Dylan Roberts (D) [Sen]",
+    "Michael Weissman (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-04",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "action": "Introduced In House - Assigned to Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "1969-12-31",
+      "type": "Introduced",
+      "url": "https://leg.colorado.gov/bill_files/111319/download",
+      "doc_id": 3349429
+    }
+  ],
+  "committee": {
+    "committee_id": 907,
+    "chamber": "H",
+    "chamber_id": 21,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Children & Domestic Matters"
+  ]
+}

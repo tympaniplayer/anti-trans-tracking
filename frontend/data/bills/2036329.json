@@ -1,0 +1,82 @@
+{
+  "id": 2036329,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A08841",
+  "title": "Establishes a gender-affirming care access program to provide support and increase access to gender-affirming care including certain medical and surgical care.",
+  "summary": "Establishes a gender-affirming care access program to provide support and increase access to gender-affirming care including certain medical and surgical care.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A08841/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A08841/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A8841",
+  "sponsors": [
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Anna Kelles (D) [Rep]",
+    "Emily Gallagher (D) [Rep]",
+    "Jeffrey Dinowitz (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Tony Simone (D) [Rep]",
+    "Jordan Wright (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Claire Valdez (D) [Rep]",
+    "Grace Lee (D) [Rep]",
+    "Sarahana Shrestha (D) [Rep]",
+    "Linda Rosenthal (D) [Rep]",
+    "Marcela Mitaynes (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-09",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-06-09",
+      "action": "referred to health",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to health",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "amend (t) and recommit to health",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "print number 8841a",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-09",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08841&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08841",
+      "doc_id": 3253503
+    },
+    {
+      "date": "2025-06-09",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08841&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08841A",
+      "doc_id": 3387622
+    }
+  ],
+  "committee": {
+    "committee_id": 369,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Health"
+  },
+  "subjects": []
+}

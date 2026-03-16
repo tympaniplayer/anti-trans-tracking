@@ -1,0 +1,198 @@
+{
+  "id": 1907834,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5179",
+  "title": "Revised for 2nd substitute: Establishing a complaint process to address willful noncompliance with certain state education laws.",
+  "summary": "Revised for 2nd substitute: Establishing a complaint process to address willful noncompliance with certain state education laws.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5179/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5179/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5179&Year=2025&Initiative=false",
+  "sponsors": [
+    "Claire Wilson (D) [Sen]",
+    "Liz Lovelett (D) [Sen]",
+    "Adrian Cortes (D) [Sen]",
+    "Manka Dhingra (D) [Sen]",
+    "Noel Frame (D) [Sen]",
+    "Robert Hasegawa (D) [Sen]",
+    "Marko Liias (D) [Sen]",
+    "John Lovick (D) [Sen]",
+    "T'wina Nobles (D) [Sen]",
+    "Yasmin Trudeau (D) [Sen]",
+    "Lisa Wellman (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-10",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "Prefiled for introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading, referred to Early Learning & K-12 Education.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Public hearing in the Senate Committee on Early Learning & K-12 Education at 8:00 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Executive action taken in the Senate Committee on Early Learning & K-12 Education at 10:30 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "EDU - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Minority; do not pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Minority; without recommendation.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "And refer to Ways & Means.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Referred to Ways & Means.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-17",
+      "action": "Public hearing in the Senate Committee on Ways & Means at 4:00 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "Executive action taken in the Senate Committee on Ways & Means at 1:30 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "WM - Majority; 2nd substitute bill be substituted, do pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "Minority; do not pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "Passed to Rules Committee for second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Placed on second reading by Rules Committee.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "2nd substitute bill substituted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "First reading, referred to Education.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Public hearing in the House Committee on Education at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-27",
+      "action": "By resolution, returned to Senate Rules Committee for third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Senate Rules \"X\" file.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-06",
+      "description": "Senate Committee on Early Learning & K-12 Education: 1st substitute bill be substituted, do pass",
+      "yea": 6,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-02-28",
+      "description": "Senate Committee on Ways & Means: 2nd substitute bill be substituted, do pass",
+      "yea": 15,
+      "nay": 9,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-10",
+      "description": "Senate 3rd Reading & Final Passage",
+      "yea": 30,
+      "nay": 19,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5179.pdf",
+      "doc_id": 3043530
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5179-S.pdf",
+      "doc_id": 3106356
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5179-S2.pdf",
+      "doc_id": 3149194
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

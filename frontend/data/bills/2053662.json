@@ -1,0 +1,66 @@
+{
+  "id": 2053662,
+  "state": "NH",
+  "state_name": "New Hampshire",
+  "bill_number": "SB459",
+  "title": "Relative to biological sex in student athletics and prisons.",
+  "summary": "Relative to biological sex in student athletics and prisons.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "education",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NH/bill/SB459/2026",
+  "legiscan_url": "https://legiscan.com/NH/bill/SB459/2026",
+  "state_url": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2222&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=SB459",
+  "sponsors": [
+    "William Gannon (R) [Sen]",
+    "Victoria Sullivan (R) [Sen]",
+    "Howard Pearl (R) [Sen]",
+    "Daryl Abbas (R) [Sen]",
+    "Tim McGough (R) [Sen]",
+    "Keith Murphy (R) [Sen]",
+    "Daniel Innis (R) [Sen]",
+    "JD Bernardy (R) [Rep]",
+    "Melissa Litchfield (R) [Rep]",
+    "Mark Pearson (R) [Rep]",
+    "Lilli Walsh (R) [Rep]"
+  ],
+  "introduced_date": "2025-11-21",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-11-21",
+      "action": "Introduced 01/07/2026 and Referred to Judiciary; Senate Journal 1",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Hearing: 02/11/2026, Room 103, State House, 01:20 pm; Senate Calendar  5",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&id=1421&txtFormat=html",
+      "doc_id": 3285509
+    }
+  ],
+  "committee": {
+    "committee_id": 1273,
+    "chamber": "S",
+    "chamber_id": 68,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

@@ -1,0 +1,172 @@
+{
+  "id": 2064805,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5956",
+  "title": "Addressing artificial intelligence, student discipline, and surveillance in public schools.",
+  "summary": "Addressing artificial intelligence, student discipline, and surveillance in public schools.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5956/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5956/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5956&Year=2025&Initiative=false",
+  "sponsors": [
+    "T'wina Nobles (D) [Sen]",
+    "Lisa Wellman (D) [Sen]",
+    "Mike Chapman (D) [Sen]",
+    "Noel Frame (D) [Sen]",
+    "Robert Hasegawa (D) [Sen]",
+    "Tina Orwall (D) [Sen]",
+    "Jesse Salomon (D) [Sen]",
+    "Sharon Shewmake (D) [Sen]",
+    "Vandana Slatter (D) [Sen]",
+    "Javier Valdez (D) [Sen]",
+    "Claire Wilson (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-10",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-31",
+      "action": "Prefiled for introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "First reading, referred to Early Learning & K-12 Education.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Public hearing in the Senate Committee on Early Learning & K-12 Education at 10:30 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Executive action taken in the Senate Committee on Early Learning & K-12 Education at 10:30 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "EDU - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Minority; without recommendation.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Passed to Rules Committee for second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Placed on second reading by Rules Committee.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "1st substitute bill substituted",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Third reading, passed; yeas, 35; nays, 13; absent, 0; excused, 1.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "First reading, referred to Education.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Public hearing in the House Committee on Education at 10:30 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Executive action taken in the House Committee on Education at 4:00 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "ED - Majority; do pass with amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Minority; do not pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Minority; without recommendation.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Referred to Rules 2 Review.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-22",
+      "description": "Senate Committee on Early Learning & K-12 Education: 1st substitute bill be substituted, do pass",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-10",
+      "description": "Senate 3rd Reading & Final Passage",
+      "yea": 35,
+      "nay": 13,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-24",
+      "description": "House Committee on Education: do pass with amendment(s)",
+      "yea": 10,
+      "nay": 6,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5956.pdf",
+      "doc_id": 3298868
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5956-S.pdf",
+      "doc_id": 3329766
+    }
+  ],
+  "committee": {
+    "committee_id": 943,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Rules"
+  },
+  "subjects": []
+}

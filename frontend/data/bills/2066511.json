@@ -1,0 +1,49 @@
+{
+  "id": 2066511,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S08668",
+  "title": "Establishes a home care services bill of rights for patients of home care services agencies and certified home health agencies; requires training for staff and contractors of such agencies to eliminate certain discriminations; makes related provisions.",
+  "summary": "Establishes a home care services bill of rights for patients of home care services agencies and certified home health agencies; requires training for staff and contractors of such agencies to eliminate certain discriminations; makes related provisions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S08668/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S08668/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S8668",
+  "sponsors": [
+    "Cordell Cleare (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO HEALTH",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-07",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S08668&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S08668",
+      "doc_id": 3301086
+    }
+  ],
+  "committee": {
+    "committee_id": 429,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Health"
+  },
+  "subjects": []
+}

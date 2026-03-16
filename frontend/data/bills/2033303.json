@@ -1,0 +1,72 @@
+{
+  "id": 2033303,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SR240",
+  "title": "A resolution affirming that diversity, equity, inclusion, and accessibility are fundamental values of the United States and emphasizing the ongoing need to address discrimination and inequality in the workplace, pre-K through 12th grade and higher education systems, government programs, the military, and our society.",
+  "summary": "A resolution affirming that diversity, equity, inclusion, and accessibility are fundamental values of the United States and emphasizing the ongoing need to address discrimination and inequality in the workplace, pre-K through 12th grade and higher education systems, government programs, the military, and our society.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SR240/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SR240/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/240/all-info",
+  "sponsors": [
+    "Mazie Hirono (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Sheldon Whitehouse (D) [Sen]",
+    "Amy Klobuchar (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "Andy Kim (D) [Sen]",
+    "Raphael Warnock (D) [Sen]",
+    "Jeanne Shaheen (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Tim Kaine (D) [Sen]",
+    "Lisa Rochester (D) [Sen]",
+    "John Fetterman (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-21",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-05-21",
+      "action": "Referred to the Committee on the Judiciary. (text: CR S3062-3064)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-23",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/sres240/BILLS-119sres240is.pdf",
+      "doc_id": 3244412
+    }
+  ],
+  "committee": {
+    "committee_id": 2330,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

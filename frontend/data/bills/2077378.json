@@ -1,0 +1,51 @@
+{
+  "id": 2077378,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S947",
+  "title": "Permits county sheriffs to certify that law enforcement officer meets certain criteria for renewal of law enforcement license.",
+  "summary": "Permits county sheriffs to certify that law enforcement officer meets certain criteria for renewal of law enforcement license.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S947/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S947/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S947",
+  "sponsors": [
+    "Michael Testa (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Law and Public Safety Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-22",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S1000/947_I1.HTM",
+      "doc_id": 3314381
+    }
+  ],
+  "committee": {
+    "committee_id": 882,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Law and Public Safety"
+  },
+  "subjects": [
+    "Law and Public Safety"
+  ]
+}

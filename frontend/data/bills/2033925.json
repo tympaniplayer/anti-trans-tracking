@@ -1,0 +1,119 @@
+{
+  "id": 2033925,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S2522",
+  "title": "Strengthening health care protections in the Commonwealth",
+  "summary": "For legislation to strengthen health care protections in the Commonwealth. Health Care Financing.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S2522/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S2522/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S2522",
+  "sponsors": [
+    "Cindy Friedman (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-14",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-04-14",
+      "action": "Senate Rule 20 and Joint Rule 12 suspended",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Referred to the Joint Committee on Health Care Financing",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Rules suspended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "House NON-concurred in the reference",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Referred to the Joint Committee on the Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Rules suspended",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Senate receded from its referral to the committee on Health Care Financing",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Senate concurs in the reference to the committee on The Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Hearing scheduled for 06/03/2025 from 01:00 PM-05:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Committee recommended ought to pass with an amendment, substituting a new draft, see S2538",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Order relative to subject matter adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Placed in the Orders of the Day for Thursday, June 26, 2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Read second",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "New draft substituted, see S2538",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-20",
+      "action": "Hearing scheduled for 06/03/2025 from 01:00 PM-09:00 PM in A-2",
+      "chamber": "J"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-14",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S2522.pdf",
+      "doc_id": 3246110
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

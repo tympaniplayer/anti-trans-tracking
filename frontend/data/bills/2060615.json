@@ -1,0 +1,97 @@
+{
+  "id": 2060615,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "PR26-0494",
+  "title": "Collective Bargaining Agreement between the University of the District of Columbia and the Service Employees International Union (SEIU) Local 500, CtW Approval Resolution of 2025",
+  "summary": "Collective Bargaining Agreement between the University of the District of Columbia and the Service Employees International Union (SEIU) Local 500, CtW Approval Resolution of 2025",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/PR26-0494/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/PR26-0494/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/PR26-0494",
+  "sponsors": [
+    "Phil Mendelson (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-06",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2025-12-18",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-12-23",
+      "action": "Notice of Public Hearing Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "Notice of Intent to Act on PR26-0494 Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-12-30",
+      "action": "Notice of Public Hearing Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-01-02",
+      "action": "Notice of Public Hearing Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-01-05",
+      "action": "Roundtable Hearing Held",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-01-06",
+      "action": "Retained by the Council",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-01-06",
+      "action": "Final Reading",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-01-06",
+      "action": "Approved with Resolution Number R26-0300",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-01-16",
+      "action": "Resolution R26-0300, Effective from Jan 06, 2026 Published in DC Register Vol 73 and Page 000459",
+      "chamber": "C"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-06",
+      "description": "Final Reading",
+      "yea": 12,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-12-18",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/61032/Introduction/PR26-0494-Introduction.pdf",
+      "doc_id": 3293019
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

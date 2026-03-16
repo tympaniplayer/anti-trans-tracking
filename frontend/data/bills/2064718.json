@@ -1,0 +1,86 @@
+{
+  "id": 2064718,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "AJR123",
+  "title": "Proclaiming November 20 in 2025 and 2026 as Wisconsin\u2019s Transgender Day of Remembrance.",
+  "summary": "Relating to: proclaiming November 20 in 2025 and 2026 as Wisconsin\u2019s Transgender Day of Remembrance.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/AJR123/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/AJR123/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr123",
+  "sponsors": [
+    "Lee Snodgrass (D) [Rep]",
+    "Greta Neubauer (D) [Rep]",
+    "Angelina Cruz (D) [Rep]",
+    "Christian Phelps (D) [Rep]",
+    "Amaad Rivera-Wagner (D) [Rep]",
+    "Angela Stroud (D) [Rep]",
+    "Randy Udell (D) [Rep]",
+    "Ryan Clancy (D) [Rep]",
+    "Margaret Arney (D) [Rep]",
+    "Mike Bare (D) [Rep]",
+    "Supreme Omokunde (D) [Rep]",
+    "Lisa Subeck (D) [Rep]",
+    "Clinton Anderson (D) [Rep]",
+    "Alex Joers (D) [Rep]",
+    "Lori Palmeri (D) [Rep]",
+    "Darrin Madison (D) [Rep]",
+    "Pricilla Prado (D) [Rep]",
+    "Ann Roe (D) [Rep]",
+    "Maureen McCarville (D) [Rep]",
+    "Robyn Vining (D) [Rep]",
+    "Ben DeSmidt (D) [Rep]",
+    "Brienne Brown (D) [Rep]",
+    "Jodi Emerson (D) [Rep]",
+    "Vinnie Miresse (D) [Rep]",
+    "Christine Sinicki (D) [Rep]",
+    "Deb Andraca (D) [Rep]",
+    "Melissa Ratcliff (D) [Sen]",
+    "Mark Spreitzer (D) [Sen]",
+    "Timothy Carpenter (D) [Sen]",
+    "Kelda Roys (D) [Sen]",
+    "Kristin Dassler-Alfheim (D) [Sen]",
+    "Christopher Larson (D) [Sen]",
+    "Dora Drake (D) [Sen]"
+  ],
+  "introduced_date": "2025-12-17",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-17",
+      "action": "Introduced",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-12-17",
+      "action": "Read and referred to Committee on Rules",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-17",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AJR123.pdf",
+      "doc_id": 3298789
+    }
+  ],
+  "committee": {
+    "committee_id": 1049,
+    "chamber": "A",
+    "chamber_id": 99,
+    "name": "Rules"
+  },
+  "subjects": []
+}

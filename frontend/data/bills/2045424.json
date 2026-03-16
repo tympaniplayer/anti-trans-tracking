@@ -1,0 +1,88 @@
+{
+  "id": 2045424,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB5635",
+  "title": "Veterans Healthcare Equality Act of 2025",
+  "summary": "To amend title 38, United States Code, to prohibit discrimination on the basis of gender identity in connection with the furnishing of health care under laws administered by the Secretary of Veterans Affairs, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB5635/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB5635/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/5635/all-info",
+  "sponsors": [
+    "Timothy Kennedy (D) [Rep]",
+    "Mark Takano (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Becca Balint (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Yassamin Ansari (D) [Rep]",
+    "Nydia Velazquez (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Paul Tonko (D) [Rep]",
+    "Raja Krishnamoorthi (D) [Rep]",
+    "Nikema Williams (D) [Rep]",
+    "James Walkinshaw (D) [Rep]",
+    "Julia Brownley (D) [Rep]",
+    "Alexandria Ocasio-Cortez (D) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "Angela Craig (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Lateefah Simon (D) [Rep]",
+    "Lauren Underwood (D) [Rep]",
+    "Kevin Mullin (D) [Rep]",
+    "Christopher Pappas (D) [Rep]",
+    "Morgan McGarvey (D) [Rep]",
+    "Maxine Dexter (D) [Rep]",
+    "Sarah McBride (D) [Rep]",
+    "Sheila Cherfilus-McCormick (D) [Rep]",
+    "Emily Randall (D) [Rep]",
+    "Maxine Waters (D) [Rep]",
+    "Sylvia Garcia (D) [Rep]"
+  ],
+  "introduced_date": "2025-09-30",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-09-30",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-30",
+      "action": "Referred to the House Committee on Veterans' Affairs.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-15",
+      "action": "Referred to the Subcommittee on Health.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-04",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr5635/BILLS-119hr5635ih.pdf",
+      "doc_id": 3271859
+    }
+  ],
+  "committee": {
+    "committee_id": 2355,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Subcommittee on Health"
+  },
+  "subjects": [
+    "Armed forces and national security"
+  ]
+}

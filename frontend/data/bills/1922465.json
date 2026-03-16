@@ -1,0 +1,70 @@
+{
+  "id": 1922465,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR47",
+  "title": "Concerning the National Collegiate Athletic Association policy for eligibility in women's sports.",
+  "summary": "Concerning the National Collegiate Athletic Association policy for eligibility in women's sports.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR47/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR47/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/47/all-info",
+  "sponsors": [
+    "Greg Steube (R) [Rep]",
+    "Harriet Hageman (R) [Rep]",
+    "Riley Moore (R) [Rep]",
+    "Lauren Boebert (R) [Rep]",
+    "Daniel Webster (R) [Rep]",
+    "Burgess Owens (R) [Rep]",
+    "Mary Miller (R) [Rep]",
+    "Claudia Tenney (R) [Rep]",
+    "Vern Buchanan (R) [Rep]",
+    "Richard McCormick (R) [Rep]",
+    "Jake Ellzey (R) [Rep]",
+    "Ralph Norman (R) [Rep]",
+    "Michael Guest (R) [Rep]",
+    "Pete Stauber (R) [Rep]",
+    "Nancy Mace (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-15",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-01-15",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "Referred to the House Committee on Education and Workforce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres47/BILLS-119hres47ih.pdf",
+      "doc_id": 3059630
+    }
+  ],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": [
+    "Sports and recreation"
+  ]
+}

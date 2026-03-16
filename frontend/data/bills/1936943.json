@@ -1,0 +1,54 @@
+{
+  "id": 1936943,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S03057",
+  "title": "Relates to the scope of responsibilities of the office of addiction services and supports; defines addiction professional.",
+  "summary": "Relates to the scope of responsibilities of the office of addiction services and supports; defines addiction professional.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S03057/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S03057/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S3057",
+  "sponsors": [
+    "Nathalia Fernandez (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-23",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-23",
+      "action": "REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO ALCOHOLISM AND SUBSTANCE USE DISORDERS",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-23",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S03057&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S03057",
+      "doc_id": 3074367
+    }
+  ],
+  "committee": {
+    "committee_id": 4810,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Alcoholism and Substance Use Disorders"
+  },
+  "subjects": []
+}

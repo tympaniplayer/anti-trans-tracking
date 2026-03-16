@@ -1,0 +1,61 @@
+{
+  "id": 1901533,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5136",
+  "title": "Protecting the rights of parents and guardians by using students' given names in public schools.",
+  "summary": "Protecting the rights of parents and guardians by using students' given names in public schools.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5136/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5136/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5136&Year=2025&Initiative=false",
+  "sponsors": [
+    "James McCune (R) [Sen]",
+    "Phil Fortunato (R) [Sen]",
+    "Jeff Wilson (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-13",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-03",
+      "action": "Prefiled for introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading, referred to Early Learning & K-12 Education.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-03",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5136.pdf",
+      "doc_id": 3038663
+    }
+  ],
+  "committee": {
+    "committee_id": 949,
+    "chamber": "S",
+    "chamber_id": 98,
+    "name": "Early Learning & K-12 Education"
+  },
+  "subjects": []
+}

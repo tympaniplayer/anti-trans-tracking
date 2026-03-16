@@ -1,0 +1,69 @@
+{
+  "id": 1997153,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S1393",
+  "title": "Relative to preventing overdose deaths and increasing access to treatment",
+  "summary": "For legislation relative to preventing overdose deaths and increasing access to treatment. Mental Health, Substance Use and Recovery.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S1393/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S1393/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S1393",
+  "sponsors": [
+    "Julian Cyr (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Mental Health, Substance Use and Recovery",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-07",
+      "action": "Hearing scheduled for 09/15/2025 from 11:00 AM-05:00 PM in Gardner Auditorium",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Bill reported favorably by committee and referred to the Joint Committee on Health Care Financing",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Committee recommended ought to pass and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S1393.pdf",
+      "doc_id": 3162325
+    }
+  ],
+  "committee": {
+    "committee_id": 746,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

@@ -1,0 +1,68 @@
+{
+  "id": 2108471,
+  "state": "WV",
+  "state_name": "West Virginia",
+  "bill_number": "SB775",
+  "title": "Prohibiting state entities from engaging in activity related to sexual orientation",
+  "summary": "The purpose of this bill is to prohibit state government entities from promoting or facilitating discussions, policies, programs, or medical procedures related to sexual orientation or gender transitioning; defining terms; prohibiting use of state funds for such purposes; establishing enforcement mechanisms; and providing for penalties.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WV/bill/SB775/2026",
+  "legiscan_url": "https://legiscan.com/WV/bill/SB775/2026",
+  "state_url": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=775&year=2026&sessiontype=RS&btype=bill",
+  "sponsors": [
+    "Mark Maynard (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "Filed for introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "To Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Introduced in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "To Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=sb775%20intr.htm&yr=2026&sesstype=RS&i=775",
+      "doc_id": 3349507
+    }
+  ],
+  "committee": {
+    "committee_id": 30,
+    "chamber": "S",
+    "chamber_id": 2,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Legislature",
+    "State Personnel"
+  ]
+}

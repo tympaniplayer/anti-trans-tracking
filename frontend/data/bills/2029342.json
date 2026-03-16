@@ -1,0 +1,151 @@
+{
+  "id": 2029342,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB4469",
+  "title": "Civil rights: sex discrimination and harassment; basing an individual's eligibility to participate in athletics on the individual's biological sex; provide an exemption to allow certain K-12 educational institutions to do. Amends 1976 PA 453 (MCL 37.2101 - 37.2804) by adding sec. 405.",
+  "summary": "Civil rights: sex discrimination and harassment; basing an individual's eligibility to participate in athletics on the individual's biological sex; provide an exemption to allow certain K-12 educational institutions to do. Amends 1976 PA 453 (MCL 37.2101 - 37.2804) by adding sec. 405.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "sports",
+    "religious_exemptions",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB4469/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB4469/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4469",
+  "sponsors": [
+    "Rylee Linting (R) [Rep]",
+    "Alicia St. Germaine (R) [Rep]",
+    "Jamie Thompson (R) [Rep]",
+    "David Prestin (R) [Rep]",
+    "Angela Rigas (R) [Rep]",
+    "James DeSana (R) [Rep]",
+    "Jaime Greene (R) [Rep]",
+    "Jennifer Wortz (R) [Rep]",
+    "Matthew Maddock (R) [Rep]",
+    "Gregory Alexander (R) [Rep]",
+    "Mike Hoadley (R) [Rep]",
+    "Joseph Pavlov (R) [Rep]",
+    "Pat Outman (R) [Rep]",
+    "Jerry Neyer (R) [Rep]",
+    "Bill Schuette (R) [Rep]",
+    "Jason Woolford (R) [Rep]",
+    "Ron Robinson (R) [Rep]",
+    "William Bruck (R) [Rep]"
+  ],
+  "introduced_date": "2025-05-22",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-05-07",
+      "action": "Introduced By Representative Rep. Rylee Linting",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Bill Electronically Reproduced 05/07/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Reported With Recommendation Without Amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Referred To Second Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Read A Second Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Placed On Third Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Read A Third Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Passed; Given Immediate Effect Roll Call #132 Yeas 59 Nays 45 Excused 0 Not Voting 6",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Transmitted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Passed By House With Immediate Effect",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-15",
+      "description": "Reported With Recommendation Without Amendment",
+      "yea": 3,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-22",
+      "description": "House Third Reading: Given Immediate Effect Roll Call #132",
+      "yea": 59,
+      "nay": 45,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-05-07",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4469.htm",
+      "doc_id": 3231386
+    },
+    {
+      "date": "2025-05-22",
+      "type": "Engrossed",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2025-HEBH-4469.htm",
+      "doc_id": 3242648
+    }
+  ],
+  "committee": {
+    "committee_id": 838,
+    "chamber": "S",
+    "chamber_id": 54,
+    "name": "Government Operations"
+  },
+  "subjects": [
+    "Civil rights: sex discrimination and harassment"
+  ]
+}

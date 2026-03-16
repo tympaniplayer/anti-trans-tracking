@@ -1,0 +1,86 @@
+{
+  "id": 2108635,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR1039",
+  "title": "Supporting the goals and ideals of \"National Black HIV/AIDS Awareness Day\".",
+  "summary": "Supporting the goals and ideals of \"National Black HIV/AIDS Awareness Day\".",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR1039/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR1039/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/1039/all-info",
+  "sponsors": [
+    "Maxine Waters (D) [Rep]",
+    "Mark Pocan (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Robert Garcia (D) [Rep]",
+    "Steve Cohen (D) [Rep]",
+    "Danny Davis (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Nikema Williams (D) [Rep]",
+    "Kweisi Mfume (D) [Rep]",
+    "Troy Carter (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Andre Carson (D) [Rep]",
+    "Lateefah Simon (D) [Rep]",
+    "Raja Krishnamoorthi (D) [Rep]",
+    "Yvette Clarke (D) [Rep]",
+    "Nanette Barragan (D) [Rep]",
+    "LaMonica McIver (D) [Rep]",
+    "Terri Sewell (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Jennifer McClellan (D) [Rep]",
+    "Emanuel Cleaver (D) [Rep]",
+    "Robin Kelly (D) [Rep]",
+    "Bennie Thompson (D) [Rep]",
+    "Wesley Bell (D) [Rep]",
+    "Frederica Wilson (D) [Rep]",
+    "Sydney Kamlager-Dove (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Adelita Grijalva (D) [Rep]",
+    "Laura Friedman (D) [Rep]",
+    "Mark Takano (D) [Rep]",
+    "Greg Landsman (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-04",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-05",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres1039/BILLS-119hres1039ih.pdf",
+      "doc_id": 3349607
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

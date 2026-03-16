@@ -1,0 +1,81 @@
+{
+  "id": 2087387,
+  "state": "AL",
+  "state_name": "Alabama",
+  "bill_number": "HB295",
+  "title": "Alabama Office of Minority Affairs; renamed to the Alabama Office of Civic Engagement",
+  "summary": "Alabama Office of Minority Affairs; renamed to the Alabama Office of Civic Engagement",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AL/bill/HB295/2026",
+  "legiscan_url": "https://legiscan.com/AL/bill/HB295/2026",
+  "state_url": "https://alison.legislature.state.al.us/bill-search",
+  "sponsors": [
+    "Laura Hall (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-20",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-20",
+      "action": "Read for the first time and referred to the House Committee on State Government",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Pending House State Government",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Reported Out of Committee House of Origin",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Read for the Second Time and placed on the Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Third Reading in House of Origin",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-26",
+      "description": "HBIR: Passed by House of Origin",
+      "yea": 99,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-26",
+      "description": "Third Reading in House of Origin",
+      "yea": 99,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-20",
+      "type": "Introduced",
+      "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB295-int.pdf",
+      "doc_id": 3324847
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "State Government"
+  ]
+}

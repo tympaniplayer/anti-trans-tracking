@@ -1,0 +1,51 @@
+{
+  "id": 2075825,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S371",
+  "title": "Establishes \"The CAMPUS Act: Combating Antisemitism to Mitigate Prejudice in Universities and Schools\"; addresses instruction on antisemitism and antisemitic harassment, intimidation, and bullying in public schools.",
+  "summary": "Establishes \"The CAMPUS Act: Combating Antisemitism to Mitigate Prejudice in Universities and Schools\"; addresses instruction on antisemitism and antisemitic harassment, intimidation, and bullying in public schools.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S371/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S371/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S371",
+  "sponsors": [
+    "Douglas Steinhardt (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Education Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-02",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S0500/371_I1.HTM",
+      "doc_id": 3312847
+    }
+  ],
+  "committee": {
+    "committee_id": 877,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Education"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

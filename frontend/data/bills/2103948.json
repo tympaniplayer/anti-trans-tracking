@@ -1,0 +1,93 @@
+{
+  "id": 2103948,
+  "state": "AZ",
+  "state_name": "Arizona",
+  "bill_number": "SB1753",
+  "title": "Employment; housing; public accommodations; antidiscrimination",
+  "summary": "Employment; housing; public accommodations; antidiscrimination",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AZ/bill/SB1753/2026",
+  "legiscan_url": "https://legiscan.com/AZ/bill/SB1753/2026",
+  "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/85418",
+  "sponsors": [
+    "Lela Alston (D) [Sen]",
+    "Flavio Bravo (D) [Sen]",
+    "Eva Diaz (D) [Sen]",
+    "Theresa Hatathlie (D) [Sen]",
+    "Lauren Kuby (D) [Sen]",
+    "Catherine Miranda (D) [Sen]",
+    "Kiana Sears (D) [Sen]",
+    "Priya Sundareshan (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "Introduced in Senate and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Assigned to Senate GOV Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Assigned to Senate RULES Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Senate read second time",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-02",
+      "type": "Introduced",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/sb1753p.htm",
+      "doc_id": 3343856
+    }
+  ],
+  "committee": {
+    "committee_id": 1109,
+    "chamber": "S",
+    "chamber_id": 16,
+    "name": "Government Institutions"
+  },
+  "subjects": [
+    "Antidiscrimination",
+    "Changing Stations",
+    "Civil Rights",
+    "Definitions",
+    "Discrimination",
+    "Education - Title 15",
+    "Employment",
+    "Exceptions",
+    "Gender Identity",
+    "Gender-neutral Restrooms",
+    "Housing",
+    "Powers And Duties",
+    "Prohibition",
+    "Public Accommodations",
+    "Public Buildings",
+    "Public Educational Institutions",
+    "Public Monies",
+    "Rules",
+    "Sexual Orientation",
+    "State Government - Title 41",
+    "Statewide Nondiscrimination Act"
+  ]
+}

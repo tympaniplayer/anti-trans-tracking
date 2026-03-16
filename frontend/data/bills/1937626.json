@@ -1,0 +1,69 @@
+{
+  "id": 1937626,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "B26-0068",
+  "title": "Universal Out of School Time Amendment Act of 2025",
+  "summary": "As introduced, Bill 26-68 would require the Office and Commission to develop, fund and implement a plan to guarantee universal access to out-of-school-time programming for all youth enrolled in a public school in the District by 2036.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/B26-0068/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/B26-0068/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/B26-0068",
+  "sponsors": [
+    "Matthew Frumin (D) [Sen]",
+    "Robert White (D) [Sen]",
+    "Brooke Pinto (D) [Sen]",
+    "Janeese Lewis George (D) [Sen]",
+    "Charles Allen (D) [Sen]",
+    "Wendell Felder (D) [Sen]",
+    "Brianne Nadeau (D) [Sen]",
+    "Trayon White (D) [Sen]",
+    "Zachary Parker (D) [Sen]",
+    "Kenyan McDuffie (I) [Sen]",
+    "Anita Bonds (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-22",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2025-01-22",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-01-31",
+      "action": "Notice of Intent to Act on B26-0068 Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Referred to Committee on Committee of the Whole",
+      "chamber": "C"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-22",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/56955/Introduction/B26-0068-Introduction.pdf",
+      "doc_id": 3075074
+    }
+  ],
+  "committee": {
+    "committee_id": 2741,
+    "chamber": "C",
+    "chamber_id": 116,
+    "name": "Committee of the Whole"
+  },
+  "subjects": []
+}

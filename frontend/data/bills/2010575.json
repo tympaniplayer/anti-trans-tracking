@@ -1,0 +1,64 @@
+{
+  "id": 2010575,
+  "state": "GA",
+  "state_name": "Georgia",
+  "bill_number": "SB341",
+  "title": "\"Freedom of Speech and Belief Act\"; enact",
+  "summary": "A BILL to be entitled an Act to amend Article 15 of Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to deceptive or unfair practices, so as to protect the exercise of constitutional rights; to prohibit discrimination in the provision of essential services; to provide for public and private enforcement; to provide for definitions; to provide a short title; to provide legislative findings and declarations; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/GA/bill/SB341/2025",
+  "legiscan_url": "https://legiscan.com/GA/bill/SB341/2025",
+  "state_url": "https://www.legis.ga.gov/legislation/71416",
+  "sponsors": [
+    "Blake Tillery (R) [Sen]",
+    "Greg Dolezal (R) [Sen]",
+    "Bo Hatchett (R) [Sen]",
+    "Timothy Bearden (R) [Sen]",
+    "Colton Moore (R) [Sen]",
+    "Brian Strickland (R) [Sen]",
+    "Steve Gooch (R) [Sen]",
+    "Brandon Beach (R) [Sen]",
+    "Chuck Hufstetler (R) [Sen]",
+    "Ben Watson (R) [Sen]",
+    "Ed Setzler (R) [Sen]"
+  ],
+  "introduced_date": "2025-03-18",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-18",
+      "action": "Senate Hopper",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Senate Read and Referred",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-19",
+      "type": "Introduced",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/236281",
+      "doc_id": 3180616
+    }
+  ],
+  "committee": {
+    "committee_id": 608,
+    "chamber": "S",
+    "chamber_id": 30,
+    "name": "Banking and Financial Institutions"
+  },
+  "subjects": []
+}

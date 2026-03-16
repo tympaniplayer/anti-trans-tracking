@@ -1,0 +1,72 @@
+{
+  "id": 2092174,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "SB826",
+  "title": "Marijuana; creates framework for retail sales.",
+  "summary": "Taxation, revenues, and cannabis. Creates a regulatory framework for retail marijuana sales in the Commonwealth, upon which a 12.875 percent marijuana tax, a 1.125 percent sales tax, and a three percent mandatory local tax are imposed under the renamed Virginia Alcoholic Beverage and Cannabis Control Authority. This bill was incorporated into SB 542.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/SB826/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/SB826/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/SB826",
+  "sponsors": [
+    "Louise Lucas (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Presented and ordered printed 26101012D",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Referred to Committee on Finance and Appropriations",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Fiscal Impact statement From VCSC (1/26/2026 11:16 am)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (SB826)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Incorporated by Finance and Appropriations (SB542-Aird) (15-Y 0-N)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-12",
+      "description": "Incorporated by Finance and Appropriations (SB542-Aird) (15-Y 0-N)",
+      "yea": 15,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-23",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB826/text/SB826",
+      "doc_id": 3330748
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

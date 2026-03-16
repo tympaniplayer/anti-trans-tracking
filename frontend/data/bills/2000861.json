@@ -1,0 +1,74 @@
+{
+  "id": 2000861,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H2070",
+  "title": "Establishing a special commission on paid family and medical leave for public employees",
+  "summary": "Relative to paid family and medical leave for public employees. Labor and Workforce Development.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H2070/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H2070/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H2070",
+  "sponsors": [
+    "Natalie Blais (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Labor and Workforce Development",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-10",
+      "action": "Hearing scheduled for 07/22/2025 from 10:00 AM-01:00 PM in B-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-29",
+      "action": "Bill reported favorably by committee and referred to the Joint Committee on Rules of the two branches, acting concurrently",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-20",
+      "action": "Discharged to the committee on House Rules",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Committee recommended ought to pass and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H2070.pdf",
+      "doc_id": 3166837
+    }
+  ],
+  "committee": {
+    "committee_id": 737,
+    "chamber": "H",
+    "chamber_id": 51,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

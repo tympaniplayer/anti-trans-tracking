@@ -1,0 +1,86 @@
+{
+  "id": 2071489,
+  "state": "AZ",
+  "state_name": "Arizona",
+  "bill_number": "HB2217",
+  "title": "Antidiscrimination; employment; housing; public accommodations",
+  "summary": "Antidiscrimination; employment; housing; public accommodations",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AZ/bill/HB2217/2026",
+  "legiscan_url": "https://legiscan.com/AZ/bill/HB2217/2026",
+  "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/83917",
+  "sponsors": [
+    "Brian Garcia (D) [Rep]",
+    "Patricia Contreras (D) [Rep]",
+    "Mariana Sandoval (D) [Rep]",
+    "Stephanie Simacek (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-15",
+  "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
+  "actions": [
+    {
+      "date": "2026-01-12",
+      "action": "Prefile",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Introduced in House and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Assigned to House COM Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Assigned to House JUD Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Assigned to House RULES Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "House read second time",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-12",
+      "type": "Introduced",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/hb2217p.htm",
+      "doc_id": 3306239
+    }
+  ],
+  "committee": {
+    "committee_id": 1092,
+    "chamber": "H",
+    "chamber_id": 15,
+    "name": "Commerce"
+  },
+  "subjects": [
+    "Antidiscrimination",
+    "Civil Rights",
+    "Employment",
+    "Gender Expression",
+    "Gender Identity",
+    "Housing",
+    "Public Accommodations",
+    "State Government - Title 41"
+  ]
+}

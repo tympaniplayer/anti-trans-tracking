@@ -1,0 +1,134 @@
+{
+  "id": 2095079,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HB2448",
+  "title": "Relating To Female Genital Mutilation.",
+  "summary": "Establishes the offense of prohibited acts of female genital mutilation of a minor and civil remedies for victims of acts punishable under that offense. Effective 7/1/3000. (HD1)",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HB2448/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HB2448/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2448&year=2026",
+  "sponsors": [
+    "Linda Ichiyama (D) [Rep]",
+    "Terez Amato (D) [Rep]",
+    "Della au Belatti (D) [Rep]",
+    "Elle Cochran (D) [Rep]",
+    "Luke Evslin (D) [Rep]",
+    "Mark Hashem (D) [Rep]",
+    "Greggor Ilagan (D) [Rep]",
+    "Kim Iwamoto (D) [Rep]",
+    "Kirstin Kahaloa (D) [Rep]",
+    "Sue Keohokapu-Lee Loy (D) [Rep]",
+    "Darius Kila (D) [Rep]",
+    "Matthias Kusch (D) [Rep]",
+    "Trish La Chica (D) [Rep]",
+    "Nicole Lowen (D) [Rep]",
+    "Lisa Marten (D) [Rep]",
+    "Tyson Miyake (D) [Rep]",
+    "Daynette Morikawa (D) [Rep]",
+    "Ikaika Olds (D) [Rep]",
+    "Mahina Poepoe (D) [Rep]",
+    "Julie Reyes Oda (R) [Rep]",
+    "Jackson Sayama (D) [Rep]",
+    "Kanani Souza (R) [Rep]",
+    "Gregg Takayama (D) [Rep]",
+    "Jenna Takenouchi (D) [Rep]",
+    "Adrian Tam (D) [Rep]",
+    "Shirley Ann Templo (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-10",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-27",
+      "action": "Pending introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Introduced and Pass First Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Referred to JHA, referral sheet 6",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Bill scheduled to be heard by JHA on Tuesday, 02-10-26 2:00PM in House conference room 325 VIA VIDEOCONFERENCE.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "The committee on JHA recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 9 Ayes: Representative(s) Tarnas, Poepoe, Belatti, Cochran, Hashem, Kahaloa, Sayama, Takayama, Shimizu; Ayes with reservations: none; 1 Noes: Representative(s) Garcia; and Excused: none.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Reported from JHA (Stand. Com. Rep. No. 910-26) as amended in HD 1, recommending passage on Second Reading and placement on the calendar for Third Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Passed Second Reading as amended in HD 1; placed on the calendar for Third Reading with Representative(s) Muraoka voting aye with reservations; Representative(s) Alcos, Garcia, Pierick voting no (3) and Representative(s) Perruso excused (1).",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Passed Third Reading with none voting aye with reservations; Representative(s) Alcos, Garcia, Pierick, Shimizu voting no (4) and none excused (0). Transmitted to Senate.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Received from House (Hse. Com. No. 422).",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Referred to HHS, JDC.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-27",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB2448_.HTM",
+      "doc_id": 3334391
+    },
+    {
+      "date": "2026-03-05",
+      "type": "Amended",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB2448_HD1_.HTM",
+      "doc_id": 3385431
+    }
+  ],
+  "committee": {
+    "committee_id": 4751,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Health and Human Services"
+  },
+  "subjects": [
+    "Civil Remedies",
+    "Offense of Prohibited Acts of Female Genital Mutilation of a Minor",
+    "Crime"
+  ]
+}

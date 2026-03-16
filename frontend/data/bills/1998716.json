@@ -1,0 +1,69 @@
+{
+  "id": 1998716,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S681",
+  "title": "Relative to trans-inclusive health care access",
+  "summary": "For legislation relative to trans-inclusive health care access. Financial Services.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S681/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S681/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S681",
+  "sponsors": [
+    "Joanne Comerford (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Financial Services",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-02",
+      "action": "Hearing scheduled for 10/14/2025 from 10:30 AM-01:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Bill reported favorably by committee and referred to the Joint Committee on Health Care Financing",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Committee recommended ought to pass and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S681.pdf",
+      "doc_id": 3163984
+    }
+  ],
+  "committee": {
+    "committee_id": 746,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

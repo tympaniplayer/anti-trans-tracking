@@ -1,0 +1,56 @@
+{
+  "id": 2129266,
+  "state": "CT",
+  "state_name": "Connecticut",
+  "bill_number": "HB05477",
+  "title": "An Act Concerning The Well-being Of Employees Of The Department Of Correction And Persons Who Are Incarcerated In Correctional Institutions.",
+  "summary": "To institute various measures in correctional institutions concerning the reporting and investigation of sexual abuse incidents, including establishing a hotline for the reporting of such incidents, requiring additional training for correctional officers, modifying the crimes of sexual assault in the second and fourth degree, requiring the Department of Correction to submit additional legislative reports and penalizing Department of Correction employee failure to intervene or report sexual abuse, sexual assault or sexual contact.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CT/bill/HB05477/2026",
+  "legiscan_url": "https://legiscan.com/CT/bill/HB05477/2026",
+  "state_url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB05477&which_year=2026",
+  "sponsors": [
+    "Government Oversight Committee [Jnt]",
+    "Lucy Dathan (D) [Rep]",
+    "Geraldo Reyes (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-05",
+  "session": "2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-03-05",
+      "action": "Referred to Joint Committee on Government Oversight",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Public Hearing 03/10",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-04",
+      "type": "Introduced",
+      "url": "https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05477-R00-HB.PDF",
+      "doc_id": 3384664
+    }
+  ],
+  "committee": {
+    "committee_id": 4992,
+    "chamber": "J",
+    "chamber_id": 108,
+    "name": "Government Oversight"
+  },
+  "subjects": []
+}

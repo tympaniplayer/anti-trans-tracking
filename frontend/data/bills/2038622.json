@@ -1,0 +1,77 @@
+{
+  "id": 2038622,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB1677",
+  "title": "Prohibiting governmental action against parents, legal custodians and legal guardians of minors in the provision of certain information and services to minors; and providing for certain protection from child abuse claims.",
+  "summary": "An Act prohibiting governmental action against parents, legal custodians and legal guardians of minors in the provision of certain information and services to minors; and providing for certain protection from child abuse claims.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB1677/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB1677/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb1677",
+  "sponsors": [
+    "Dan Frankel (D) [Rep]",
+    "La'Tasha Mayes (D) [Rep]",
+    "Ben Sanchez (D) [Rep]",
+    "Benjamin Waxman (D) [Rep]",
+    "Nancy Guenst (D) [Rep]",
+    "Rick Krajewski (D) [Rep]",
+    "Christopher Pielli (D) [Rep]",
+    "Steven Malagari (D) [Rep]",
+    "Joe McAndrew (D) [Rep]",
+    "Melissa Cerrato (D) [Rep]",
+    "Emily Kinkead (D) [Rep]",
+    "Michael Schlossberg (D) [Rep]",
+    "Nikki Rivera (D) [Rep]",
+    "Kristine Howard (D) [Rep]",
+    "Elizabeth Fiedler (D) [Rep]",
+    "Abigail Salisbury (D) [Rep]",
+    "Johanny Cepeda-Freytiz (D) [Rep]",
+    "Melissa Shusterman (D) [Rep]",
+    "Maureen Madden (D) [Rep]",
+    "Lisa Borowski (D) [Rep]",
+    "Paul Takac (D) [Rep]",
+    "Heather Boyd (D) [Rep]",
+    "Peter Schweyer (D) [Rep]",
+    "Joseph Hohenstein (D) [Rep]",
+    "Ismail Smith-Wade-El (D) [Rep]",
+    "Malcolm Kenyatta (D) [Rep]",
+    "Mary Jo Daley (D) [Rep]",
+    "Tarik Khan (D) [Rep]",
+    "Roni Green (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-30",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-06-30",
+      "action": "Referred to Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1677/PN2049",
+      "doc_id": 3259762
+    }
+  ],
+  "committee": {
+    "committee_id": 53,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

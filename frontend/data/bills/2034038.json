@@ -1,0 +1,143 @@
+{
+  "id": 2034038,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "B26-0264",
+  "title": "Fiscal Year 2025 Revised Local Budget Temporary Act of 2025",
+  "summary": "Fiscal Year 2025 Revised Local Budget Temporary Act of 2025",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/B26-0264/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/B26-0264/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/B26-0264",
+  "sponsors": [
+    "Phil Mendelson (D) [Sen]"
+  ],
+  "introduced_date": "2025-12-19",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2025-05-23",
+      "action": "Notice of Public Hearing Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Retained by the Council",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Public Hearing Held",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-07-28",
+      "action": "Amendment in the Nature of a Substitute (Mendelson)",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-07-28",
+      "action": "First Reading",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-08-08",
+      "action": "Notice of Intent to Act on B26-0264 Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-09-17",
+      "action": "Final Reading, CC",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Transmitted to Mayor, Response Due on October 23, 2025",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-10-16",
+      "action": "Signed by the Mayor and Enacted with Act Number A26-0157",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-10-17",
+      "action": "Returned from Mayor",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-10-28",
+      "action": "Transmitted to Congress",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-11-07",
+      "action": "Act A26-0157 Published in DC Register Vol 72 and Page 012372",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-12-19",
+      "action": "Law L26-0056, Effective from Dec 11, 2025 Published in DC Register Vol 72 and Page 013997, Expires on Jul 24, 2026",
+      "chamber": "C"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-07-28",
+      "description": "Final Reading",
+      "yea": 11,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-28",
+      "description": "First Reading",
+      "yea": 11,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-17",
+      "description": "Final Reading, CC",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-05-27",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/57787/Introduction/B26-0264-Introduction.pdf",
+      "doc_id": 3246355
+    },
+    {
+      "date": "2025-07-28",
+      "type": "Engrossed",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/57787/Meeting1/Engrossment/B26-0264-Engrossment2.pdf",
+      "doc_id": 3269385
+    },
+    {
+      "date": "2025-09-17",
+      "type": "Enrolled",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/57787/Meeting2/Enrollment/B26-0264-Enrollment1.pdf",
+      "doc_id": 3272319
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

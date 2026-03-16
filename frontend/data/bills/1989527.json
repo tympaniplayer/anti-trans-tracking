@@ -1,0 +1,54 @@
+{
+  "id": 1989527,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "PR26-0099",
+  "title": "Interstate Medical Licensure Compact Commission Harry Barbee Confirmation Resolution of 2025",
+  "summary": "Interstate Medical Licensure Compact Commission Harry Barbee Confirmation Resolution of 2025",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/PR26-0099/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/PR26-0099/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/PR26-0099",
+  "sponsors": [
+    "Phil Mendelson (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-28",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2025-02-28",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Referred to Committee on Health",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-03-07",
+      "action": "Notice of Intent to Act on PR26-0099 Published in the DC Register",
+      "chamber": "C"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-28",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/57254/Introduction/PR26-0099-Introduction.pdf",
+      "doc_id": 3149766
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

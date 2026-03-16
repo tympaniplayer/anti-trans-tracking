@@ -1,0 +1,64 @@
+{
+  "id": 1949405,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB2291",
+  "title": "Relating to the required inclusion of a person's sex on a birth certificate and prohibited change of sex on the birth certificate of certain persons.",
+  "summary": "Relating to the required inclusion of a person's sex on a birth certificate and prohibited change of sex on the birth certificate of certain persons.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "identity_documents"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB2291/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB2291/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2291",
+  "sponsors": [
+    "David Lowe (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-30",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-30",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Referred to Public Health",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-30",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB02291I.htm",
+      "doc_id": 3092382
+    }
+  ],
+  "committee": {
+    "committee_id": 1892,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Public Health"
+  },
+  "subjects": [
+    "Health",
+    "Health--General",
+    "BIRTH & DEATH CERTIFICATES",
+    "HEALTH & HUMAN SERVICES COMMISSION"
+  ]
+}

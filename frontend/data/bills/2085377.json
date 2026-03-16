@@ -1,0 +1,63 @@
+{
+  "id": 2085377,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB2381",
+  "title": "Relating To Corrections.",
+  "summary": "Extends the effective date of restrictions on the use of restrictive housing in correctional facilities to 7/1/2027. Extends the establishment of the Restrictive Housing Legislative Working Group to 8/1/2026. Extends the date that the Department of Corrections and Rehabilitation may implement recommendations of the working group to 12/1/2028. Amends procedures for restrictive housing. Amends circumstances under which restrictive housing may be used. Repeals requirements for the Department of Corrections and Rehabilitation to post quarterly reports on the Department's website, update its policy and procedures manual in compliance with the restrictive housing restrictions, and report to the Hawaii Correctional System Oversight Commission. Repeals requirements for the Hawaii Correctional System Oversight Commission to review and monitor housing placements. Repeals the requirement that the Restrictive Housing Working Group make recommendations to the Legislature by 1/1/2027.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB2381/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB2381/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2381&year=2026",
+  "sponsors": [
+    "Carol Fukunaga (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-21",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-16",
+      "action": "Pending Introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Introduced and passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Referred to PSM, JDC/WAM.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-16",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB2381_.HTM",
+      "doc_id": 3325143
+    }
+  ],
+  "committee": {
+    "committee_id": 2793,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Public Safety, Intergovernmental and Military Affairs"
+  },
+  "subjects": [
+    "Corrections",
+    "Restrictive Housing Requirements",
+    "Working Group"
+  ]
+}

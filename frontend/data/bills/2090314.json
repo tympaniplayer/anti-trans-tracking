@@ -1,0 +1,90 @@
+{
+  "id": 2090314,
+  "state": "AZ",
+  "state_name": "Arizona",
+  "bill_number": "SB1355",
+  "title": "Antidiscrimination; employment; housing; public accommodations.",
+  "summary": "Antidiscrimination; employment; housing; public accommodations.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AZ/bill/SB1355/2026",
+  "legiscan_url": "https://legiscan.com/AZ/bill/SB1355/2026",
+  "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/84915",
+  "sponsors": [
+    "Lauren Kuby (D) [Sen]",
+    "Lela Alston (D) [Sen]",
+    "Rosanna Gabaldon (D) [Sen]",
+    "Theresa Hatathlie (D) [Sen]",
+    "Catherine Miranda (D) [Sen]",
+    "Brian Garcia (D) [Rep]",
+    "Nancy Gutierrez (D) [Rep]",
+    "Aaron Marquez (D) [Rep]",
+    "Mariana Sandoval (D) [Rep]",
+    "Stephanie Stahl Hamilton (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-26",
+  "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
+  "actions": [
+    {
+      "date": "2026-01-26",
+      "action": "Introduced in Senate and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Assigned to Senate GOV Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Assigned to Senate RULES Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Senate read second time",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-22",
+      "type": "Introduced",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/sb1355p.htm",
+      "doc_id": 3328466
+    }
+  ],
+  "committee": {
+    "committee_id": 1109,
+    "chamber": "S",
+    "chamber_id": 16,
+    "name": "Government Institutions"
+  },
+  "subjects": [
+    "Antidiscrimination",
+    "Changing Stations",
+    "Civil Rights",
+    "Definition",
+    "Definitions",
+    "Discrimination",
+    "Employment",
+    "Gender Expression",
+    "Gender Identity",
+    "Gender-neutral Restrooms",
+    "Housing",
+    "Public Accommodations",
+    "Public Buildings",
+    "Sexual Orientation",
+    "State Government - Title 41",
+    "Unlawful Practices"
+  ]
+}

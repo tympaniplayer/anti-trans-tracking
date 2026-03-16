@@ -1,0 +1,364 @@
+{
+  "id": 1895182,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "H3431",
+  "title": "South Carolina Social Media Regulation Act",
+  "summary": "Amend The South Carolina Code Of Laws By Adding Chapter 80 To Title 39 So As To Provide That A Covered Online Service Shall Exercise Reasonable Care In The Use Of Minors' Personal Data, To Provide For Certain Requirements For Covered Online Services, To Restrict The Amount Of Personal Data Of A Minor That May Be Collected, To Provide For Parental Controls, To Provide For An Annual Report, And To Provide For Enforcement. - Ratified Title",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/H3431/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/H3431/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3431&session=126&summary=B",
+  "sponsors": [
+    "Weston Newton (R) [Rep]",
+    "Christopher Wooten (R) [Rep]",
+    "Thomas Pope (R) [Rep]",
+    "David Martin (R) [Rep]",
+    "Fawn Pedalino (R) [Rep]",
+    "John Mccravy (R) [Rep]",
+    "Beth Bernstein (D) [Rep]",
+    "Brandon Guffey (R) [Rep]",
+    "Jerry Govan (D) [Rep]",
+    "Travis Moore (R) [Rep]",
+    "Shannon Erickson (R) [Rep]",
+    "Jeffrey Bradley (R) [Rep]",
+    "Robby Robbins (R) [Rep]",
+    "Paula Rawl Calhoon (R) [Rep]",
+    "Marvin Smith (R) [Rep]",
+    "Heather Crawford (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-06",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2024-12-05",
+      "action": "Prefiled",
+      "chamber": "H"
+    },
+    {
+      "date": "2024-12-05",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Introduced and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-29",
+      "action": "Member(s) request name added as sponsor: Bernstein, Guffey, Govan",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Member(s) request name added as sponsor: T.Moore, Erickson, Bradley",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "Member(s) request name added as sponsor: Robbins",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Committee report: Favorable with amendment Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Member(s) request name added as sponsor: Oremus, Hartz, Calhoon, M.M.Smith",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Scrivener's error corrected",
+      "chamber": ""
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Member(s) request name removed as sponsor: Oremus",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Member(s) request name removed as sponsor: Hartz",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Requests for debate-Rep(s). Bamberg, Cromer, Gilreath, Edgerton, Magnuson, Morgan, King, Hart, Gilliaard, Rivers, White",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Member(s) request name added as sponsor: Crawford",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Read second time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Roll call Yeas-90 Nays-17",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Read third time and sent to Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Roll call Yeas-89 Nays-14",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-21",
+      "action": "Scrivener's error corrected",
+      "chamber": ""
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Introduced and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Referred to Committee on Labor, Commerce and Industry",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Committee report: Favorable with amendment Labor, Commerce and Industry",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Committee Amendment Adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Amended",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Read second time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Roll call Ayes-39 Nays-0",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "Scrivener's error corrected",
+      "chamber": ""
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Amended",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Read third time and returned to House with amendments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Roll call Ayes-45 Nays-0",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Scrivener's error corrected",
+      "chamber": ""
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Senate amendment amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Returned to Senate with amendments",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Roll call Yeas-112 Nays-0",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Concurred in House amendment and enrolled",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Ratified R 100",
+      "chamber": ""
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Signed By Governor",
+      "chamber": ""
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Effective date 02/05/26",
+      "chamber": ""
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Act No. 96",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-19",
+      "description": "House: Table Amendment 2 Amendment Number 2",
+      "yea": 91,
+      "nay": 15,
+      "passed": 1
+    },
+    {
+      "date": "2025-02-19",
+      "description": "House: Table Amendment 3 Amendment Number 3",
+      "yea": 72,
+      "nay": 30,
+      "passed": 1
+    },
+    {
+      "date": "2025-02-19",
+      "description": "House: Passage Of Bill",
+      "yea": 90,
+      "nay": 17,
+      "passed": 1
+    },
+    {
+      "date": "2025-02-20",
+      "description": "House: Passage Of Bill",
+      "yea": 89,
+      "nay": 14,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-01",
+      "description": "Senate: 2nd Reading",
+      "yea": 39,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-06",
+      "description": "Senate: 3rd Reading",
+      "yea": 45,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-14",
+      "description": "House: Adopt Amendment 1a Amendment Number 1a",
+      "yea": 112,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2024-12-05",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3431_20241205.htm",
+      "doc_id": 3031277
+    },
+    {
+      "date": "2025-02-13",
+      "type": "Comm Sub",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3431_20250213.htm",
+      "doc_id": 3118234
+    },
+    {
+      "date": "2025-02-18",
+      "type": "Comm Sub",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3431_20250218.htm",
+      "doc_id": 3128599
+    },
+    {
+      "date": "2025-02-19",
+      "type": "Amended",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3431_20250219.htm",
+      "doc_id": 3131365
+    },
+    {
+      "date": "2025-02-21",
+      "type": "Amended",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3431_20250221.htm",
+      "doc_id": 3135711
+    },
+    {
+      "date": "2025-04-24",
+      "type": "Comm Sub",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3431_20250424.htm",
+      "doc_id": 3221102
+    },
+    {
+      "date": "2025-05-01",
+      "type": "Comm Sub",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3431_20250501.htm",
+      "doc_id": 3226750
+    },
+    {
+      "date": "2025-05-05",
+      "type": "Comm Sub",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3431_20250505.htm",
+      "doc_id": 3228900
+    },
+    {
+      "date": "2025-05-06",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3431_20250506.htm",
+      "doc_id": 3230432
+    },
+    {
+      "date": "2025-05-12",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3431_20250512.htm",
+      "doc_id": 3234713
+    },
+    {
+      "date": "2026-01-14",
+      "type": "Amended",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3431_20260114.htm",
+      "doc_id": 3316633
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

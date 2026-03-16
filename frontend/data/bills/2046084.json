@@ -1,0 +1,52 @@
+{
+  "id": 2046084,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB2985",
+  "title": "Preventing Violence Against Female Inmates Act of 2025",
+  "summary": "A bill to secure the dignity and safety of incarcerated women.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB2985/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB2985/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2985/all-info",
+  "sponsors": [
+    "Tom Cotton (R) [Sen]",
+    "Shelley Capito (R) [Sen]"
+  ],
+  "introduced_date": "2025-10-08",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-10-08",
+      "action": "Read twice and referred to the Committee on the Judiciary.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-22",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s2985/BILLS-119s2985is.pdf",
+      "doc_id": 3274451
+    }
+  ],
+  "committee": {
+    "committee_id": 2330,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crime and law enforcement"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1970524,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB1282",
+  "title": "Eliminate DEI in Colleges Act",
+  "summary": "To prohibit Federal funding for institutions of higher education that carry out diversity, equity, and inclusion initiatives, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB1282/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB1282/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/1282/all-info",
+  "sponsors": [
+    "Gus Bilirakis (R) [Rep]",
+    "James Baird (R) [Rep]",
+    "Garland Barr (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-13",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-02-13",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Referred to the House Committee on Education and Workforce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-14",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr1282/BILLS-119hr1282ih.pdf",
+      "doc_id": 3174717
+    }
+  ],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

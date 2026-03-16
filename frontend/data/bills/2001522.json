@@ -1,0 +1,79 @@
+{
+  "id": 2001522,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H1235",
+  "title": "Updating the mandated benefit review process",
+  "summary": "Relative to the mandated benefit review process. Financial Services.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H1235/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H1235/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H1235",
+  "sponsors": [
+    "John Lawn (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Financial Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-19",
+      "action": "Hearing scheduled for 10/01/2025 from 10:30 AM-01:00 PM in B-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-09-25",
+      "action": "Hearing rescheduled to 10/01/2025 from 10:30 AM-01:00 PM in A-1 and Virtual Hearing location changed",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-09-29",
+      "action": "Hearing rescheduled to 10/01/2025 from 10:30 AM-01:00 PM in B-1 and Virtual Hearing location changed",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-01",
+      "action": "Hearing rescheduled to 10/01/2025 from 10:30 AM-11:20 PM in B-1 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-01",
+      "action": "Hearing scheduled for 10/01/2025 from 10:30 AM-01:00 PM in B-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Accompanied a new draft, see H4947",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H1235.pdf",
+      "doc_id": 3167510
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

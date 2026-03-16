@@ -1,0 +1,52 @@
+{
+  "id": 2099716,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A813",
+  "title": "Requires DMVA assist discharged service members who have diagnosed service-connected mental health condition with petitions to change discharge designation.",
+  "summary": "Requires DMVA assist discharged service members who have diagnosed service-connected mental health condition with petitions to change discharge designation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A813/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A813/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A813",
+  "sponsors": [
+    "Gerard Scharfenberger (R) [Rep]",
+    "Victoria Flynn (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Military and Veterans' Affairs Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-12",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A1000/813_I1.HTM",
+      "doc_id": 3338802
+    }
+  ],
+  "committee": {
+    "committee_id": 865,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Military and Veterans' Affairs"
+  },
+  "subjects": [
+    "Military and Veterans' Affairs"
+  ]
+}

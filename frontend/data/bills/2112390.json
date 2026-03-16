@@ -1,0 +1,59 @@
+{
+  "id": 2112390,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB1784",
+  "title": "Postsecondary education: nondiscrimination: pregnancy or pregnancy-related issues.",
+  "summary": "An act to amend Sections 66251, 66260.7, and 66281.7 of the Education Code, relating to postsecondary education.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB1784/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB1784/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1784",
+  "sponsors": [
+    "Gail Pellerin (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-09",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-09",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "From printer. May be heard in committee March 12.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Referred to Coms. on HIGHER ED. and JUD.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-09",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1784#99INT",
+      "doc_id": 3353834
+    }
+  ],
+  "committee": {
+    "committee_id": 458,
+    "chamber": "A",
+    "chamber_id": 19,
+    "name": "Higher Education"
+  },
+  "subjects": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2038461,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB4161",
+  "title": "Fair Calculations in Civil Damages Act of 2025",
+  "summary": "To prohibit a court from awarding damages based on race, ethnicity, gender, or actual or perceived sexual orientation, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB4161/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB4161/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4161/all-info",
+  "sponsors": [
+    "Sean Casten (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Andre Carson (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-26",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-26",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-08",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr4161/BILLS-119hr4161ih.pdf",
+      "doc_id": 3260833
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

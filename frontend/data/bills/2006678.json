@@ -1,0 +1,71 @@
+{
+  "id": 2006678,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB5135",
+  "title": "Relating to prohibition of discrimination by governmental entities based on immutable characteristics.",
+  "summary": "Relating to prohibition of discrimination by governmental entities based on immutable characteristics.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB5135/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB5135/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB5135",
+  "sponsors": [
+    "Stan Gerdes (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-13",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-13",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Referred to State Affairs",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-17",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB05135I.htm",
+      "doc_id": 3177520
+    }
+  ],
+  "committee": {
+    "committee_id": 1895,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "Courts",
+    "Courts--General",
+    "Human Relations",
+    "Legislature",
+    "Political Subdivisions",
+    "Purchasing",
+    "Purchasing--General",
+    "State Agencies, Boards & Commissions",
+    "DISCRIMINATION",
+    "ATTORNEY GENERAL",
+    "COMPTROLLER OF PUBLIC ACCOUNTS"
+  ]
+}

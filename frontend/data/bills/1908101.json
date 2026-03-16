@@ -1,0 +1,186 @@
+{
+  "id": 1908101,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB116",
+  "title": "Health omnibus trailer bill.",
+  "summary": "An act to amend Sections 1276.4, 1276.66, 1280.15, 1280.19, 1342.2, 1374.55, 1385.002, 1385.004, 1385.006, 1417.2, 1418.22, 120956, 120960, 127672, 127672.9, 127825, and 150900 of, to amend the heading of Article 6.1 (commencing with Section 1385.001) of Chapter 2.2 of Division 2 of, to amend and repeal Sections 1265.9 and 1385.005 of, to add Sections 1356.3, 1385.008, 1385.009, 1385.0010, 1385.0011, 1385.0012, 1385.0013, 1385.0014, 1385.0015, 1385.0016, 1385.0017, 1385.0018, 1385.0019, 1385.0020, 1385.0021, 1385.0022, 1385.0023, 1385.0024, 1385.0025, 1385.026, and 127673.05 to, and to repeal and add Sections 1385.001 and 127697 of, the Health and Safety Code, to amend Section 10119.6 of, and to add Section 10125.2 to, the Insurance Code, to amend Section 1026 of the Penal Code, and to amend Sections 5961.2, 14006, 14006.01, 14006.15, 14006.2, 14006.5, 14006.6, 14007.5, 14007.65, 14007.8, 14015, 14126.033, 14132, 14132.36, 14132.171, 14165.57, 14184.200, 14197.7, and 14199.128 of, to amend and repeal Sections 14000, 14005.11, 14005.20, 14005.40, 14005.401, 14006.3, 14006.4, 14007.9, 14009.6, 14009.7, 14011, 14013.3, 14051, 14051.5, 14105.33, 14126.024, 14133.85, 14148.5, and 14166.17 of, to amend, repeal, and add Sections 14005.62, 14105.436, and 14132.100 of, to add Sections 14107.115 and 14132.994 to, to repeal Section 14006.1 of, to repeal Chapter 16.5 (commencing with Section 18998) of Part 6 of Division 9 of, and to repeal and add Section 14105.38 of, the Welfare and Institutions Code, and to amend Section 83 of Chapter 40 of the Statutes of 2024, relating to health, and making an appropriation therefor, to take effect immediately, bill related to the budget.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB116/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB116/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB116",
+  "sponsors": [
+    "Budget [Rep]"
+  ],
+  "introduced_date": "2025-06-30",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-01-09",
+      "action": "From printer. May be heard in committee February 8.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Referred to Com. on BUDGET.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Withdrawn from committee.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Ordered to second reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "(Ayes 53. Noes 17. Page 643.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Read third time. Passed. Ordered to the Senate. (Ayes 53. Noes 17. Page 721.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Referred to Com. on B. & F. R.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on B. & F. R.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-25",
+      "action": "From committee: Do pass. (Ayes 11. Noes 6.) (June 25).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-27",
+      "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 25. Noes 10. Page 1804.).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-27",
+      "action": "In Assembly. Concurrence in Senate amendments pending.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-27",
+      "action": "Assembly Rule 63 suspended. (Ayes 54. Noes 19. Page 2329.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-27",
+      "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 58. Noes 15. Page 2332.).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-27",
+      "action": "Enrolled and presented to the Governor at 3:15 p.m.",
+      "chamber": ""
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Approved by the Governor.",
+      "chamber": ""
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Chaptered by Secretary of State - Chapter 21, Statutes of 2025.",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-20",
+      "description": "AB 116 Gabriel Assembly Third Reading",
+      "yea": 53,
+      "nay": 17,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-25",
+      "description": "Do pass",
+      "yea": 11,
+      "nay": 6,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-27",
+      "description": "Assembly 3rd Reading AB116 BUDGET (Gabriel) By Wiener",
+      "yea": 25,
+      "nay": 10,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-27",
+      "description": "AB 116 BUDGET Concurrence in Senate Amendments By GABRIEL",
+      "yea": 58,
+      "nay": 15,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB116#99INT",
+      "doc_id": 3043997
+    },
+    {
+      "date": "2025-06-24",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB116#98AMD",
+      "doc_id": 3258321
+    },
+    {
+      "date": "2025-06-27",
+      "type": "Enrolled",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB116#97ENR",
+      "doc_id": 3259528
+    },
+    {
+      "date": "2025-06-30",
+      "type": "Chaptered",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB116#96CHP",
+      "doc_id": 3260237
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": 2069294,
+  "state": "MS",
+  "state_name": "Mississippi",
+  "bill_number": "HB370",
+  "title": "Racial Profiling Prevention Act; create.",
+  "summary": "An Act To Create The \"racial Profiling Prevention Act\"; To Define Certain Terms; To Prohibit Law Enforcement Officers From Engaging In Racial Profiling; To Require Law Enforcement Agencies To Develop Policies Prohibiting Traffic Stops Motivated By A Motor Vehicle Operator's Personal Characteristics; To Require Law Enforcement Agencies To Collect Certain Information Relating To Traffic Stops And To Submit Copies Of Complaints Alleging Racial Profiling To The Local District Attorney; To Require The Information Regarding Traffic Stops And Complaints Alleging Racial Profiling To Be Compiled Into A Report For The Governor And Legislature By The Attorney General; To Require The Attorney General To Prepare Forms For The Submission Of These Reports From Law Enforcement Agencies; And For Related Purposes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MS/bill/HB370/2026",
+  "legiscan_url": "https://legiscan.com/MS/bill/HB370/2026",
+  "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0370.xml",
+  "sponsors": [
+    "Solomon Osborne (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "action": "Referred To Judiciary B",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Died In Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-09",
+      "type": "Introduced",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/HB/0300-0399/HB0370IN.htm",
+      "doc_id": 3304017
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

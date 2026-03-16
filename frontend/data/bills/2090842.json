@@ -1,0 +1,65 @@
+{
+  "id": 2090842,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "HB479",
+  "title": "AN ACT relating to hate crimes.",
+  "summary": "Repeal and reenact KRS 532.031 to define \"gender identity or expression\"; list the actions that qualify as hate crimes; list the actual or perceived characteristics a person must have in order to qualify as a victim of a hate crime; outline penalties for a person guilty of a hate crime; set forth criteria for seeking an enhanced sentence; amend KRS 15.334 and to add characteristics of a victim to be considered when determining the cause of a crime; add a requirement that officers receive training on hate crimes; create a new section of KRS Chapter 411 to permit a civil action where the victim of a hate crime suffers damages regardless of the outcome of any criminal proceeding; establish recovery for the victim; amend KRS 17.1523 to add characteristics of a victim to be considered when determining the cause of a crime; amend KRS 15.440 to require that a unit of government shall possess a written policy and procedures manual related to hate crimes in order to receive funds from the Law Enforcement Foundation Program fund; repeal KRS 49.320, relating to victim of hate crime deemed victim of criminally injurious conduct.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/HB479/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/HB479/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/hb479.html",
+  "sponsors": [
+    "Daniel Grossberg (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-22",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-22",
+      "action": "introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "to Committee on Committees (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "to Judiciary (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb479/orig_bill.pdf",
+      "doc_id": 3329101
+    }
+  ],
+  "committee": {
+    "committee_id": 327,
+    "chamber": "H",
+    "chamber_id": 43,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil Actions",
+    "Crime Victims",
+    "Crimes and Punishments",
+    "Peace Officers and Law Enforcement",
+    "Corrections Impact"
+  ]
+}

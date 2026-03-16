@@ -1,0 +1,59 @@
+{
+  "id": 2013506,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "HF2685",
+  "title": "Athletic team designations based on biological sex at birth required.",
+  "summary": "Athletic team designations based on biological sex at birth required.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/HF2685/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/HF2685/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2685/",
+  "sponsors": [
+    "Krista Knudsen (R) [Rep]",
+    "Ben Bakeberg (R) [Rep]",
+    "Marj Fogelman (R) [Rep]",
+    "Pam Altendorf (R) [Rep]",
+    "Natalie Zeleznikar (R) [Rep]",
+    "Cal Warwas (R) [Rep]",
+    "Drew Roach (R) [Rep]",
+    "Scott Van Binsbergen (R) [Rep]",
+    "Kristin Robbins (R) [Rep]",
+    "Peggy Scott (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-24",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-03-24",
+      "action": "Introduction and first reading, referred to Education Policy",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-24",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2685/versions/0/pdf/",
+      "doc_id": 3186198
+    }
+  ],
+  "committee": {
+    "committee_id": 2699,
+    "chamber": "H",
+    "chamber_id": 55,
+    "name": "Education Policy"
+  },
+  "subjects": []
+}

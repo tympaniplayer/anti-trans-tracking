@@ -1,0 +1,162 @@
+{
+  "id": 2008388,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A06869",
+  "title": "Prohibits discriminatory practices by real estate appraisers; furthers fair housing compliance.",
+  "summary": "Prohibits discriminatory practices by real estate appraisers; furthers fair housing compliance.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A06869/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A06869/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A6869",
+  "sponsors": [
+    "George Alvarez (D) [Rep]"
+  ],
+  "introduced_date": "2025-10-16",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-14",
+      "action": "referred to governmental operations",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "reported referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "reported referred to ways and means",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "reported referred to rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "reported",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "rules report cal.133",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "ordered to third reading rules cal.133",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "passed assembly",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "delivered to senate",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "SUBSTITUTED FOR S7320",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "3RD READING CAL.691",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "RETURNED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-09",
+      "action": "delivered to governor",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-10-16",
+      "action": "signed chap.435",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-18",
+      "description": "Assembly Governmental Operations Committee: Favorable refer to committee Codes",
+      "yea": 14,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-25",
+      "description": "Assembly Codes Committee: Favorable refer to committee Ways and Means",
+      "yea": 21,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-01",
+      "description": "Assembly Rules Committee: Favorable",
+      "yea": 30,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-01",
+      "description": "Assembly Ways And Means Committee: Favorable refer to committee Rules",
+      "yea": 33,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-02",
+      "description": "Assembly Floor Vote - Final Passage",
+      "yea": 146,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-30",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 60,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-03-14",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06869&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06869",
+      "doc_id": 3176133
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

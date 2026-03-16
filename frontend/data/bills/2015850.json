@@ -1,0 +1,84 @@
+{
+  "id": 2015850,
+  "state": "DE",
+  "state_name": "Delaware",
+  "bill_number": "HCR22",
+  "title": "Recognizing March 31st As International Transgender Day Of Visibility In The State Of Delaware.",
+  "summary": "Recognizing March 31st As International Transgender Day Of Visibility In The State Of Delaware.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DE/bill/HCR22/2025",
+  "legiscan_url": "https://legiscan.com/DE/bill/HCR22/2025",
+  "state_url": "https://legis.delaware.gov/BillDetail?LegislationId=142005",
+  "sponsors": [
+    "DeShanna Neal (D) [Rep]",
+    "Eric Morrison (D) [Rep]",
+    "Daniel Cruce (D) [Sen]",
+    "Claire Snyder-Hall (D) [Rep]",
+    "Mara Gorman (D) [Rep]",
+    "Melanie Ross Levin (D) [Rep]",
+    "Marie Pinkney (D) [Sen]",
+    "Stephanie Hansen (D) [Sen]",
+    "Kyra Hoffner (D) [Sen]",
+    "Russ Huxtable (D) [Sen]",
+    "Elizabeth Lockman (D) [Sen]",
+    "Charles Paradee (D) [Sen]",
+    "Raymond Seigfried (D) [Sen]",
+    "David Sokola (D) [Sen]",
+    "Laura Sturgeon (D) [Sen]",
+    "Bryan Townsend (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-27",
+  "session": "153rd General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-27",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Passed In House by Voice Vote",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Passed By Senate. Votes: 15 YES 1 NO 1 NOT VOTING 4 ABSENT",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-27",
+      "description": "House Third Reading",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-27",
+      "description": "Senate Third Reading",
+      "yea": 15,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Draft",
+      "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142005&legislationTypeId=3&docTypeId=2&legislationName=HCR22",
+      "doc_id": 3191860
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

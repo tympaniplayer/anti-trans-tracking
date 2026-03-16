@@ -1,0 +1,59 @@
+{
+  "id": 2042869,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4407",
+  "title": "Relative to college in high school",
+  "summary": "Relative to college in high school",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4407/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4407/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4407",
+  "sponsors": [
+    "Joint Committee on Higher Education [Jnt]"
+  ],
+  "introduced_date": "2025-08-28",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-08-28",
+      "action": "Reported from the committee on Higher Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-28",
+      "action": "New draft of H1430, H1432, H1435, H1441 and H1455",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-28",
+      "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-08-28",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4407.pdf",
+      "doc_id": 3266673
+    }
+  ],
+  "committee": {
+    "committee_id": 737,
+    "chamber": "H",
+    "chamber_id": 51,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

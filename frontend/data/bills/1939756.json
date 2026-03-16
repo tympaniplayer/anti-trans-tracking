@@ -1,0 +1,97 @@
+{
+  "id": 1939756,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "HB12",
+  "title": "Enact the Jeff, Dave, and Angie Patient Right to Try Act",
+  "summary": "To enact section 3792.08 of the Revised Code regarding prescribing, dispensing, and administering drugs and to name this act the Jeff, Dave, and Angie Patient Right to Try Act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/HB12/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/HB12/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/hb12",
+  "sponsors": [
+    "Jennifer Gross (R) [Rep]",
+    "D. J. Swearingen (R) [Rep]",
+    "Tim Barhorst (R) [Rep]",
+    "Thaddeus Claggett (R) [Rep]",
+    "Gary Click (R) [Rep]",
+    "Rodney Creech (R) [Rep]",
+    "Levi Dean (R) [Rep]",
+    "Kellie Deeter (R) [Rep]",
+    "Steve Demetriou (R) [Rep]",
+    "Ron Ferguson (R) [Rep]",
+    "Tex Fischer (R) [Rep]",
+    "Sarah Fowler Arthur (R) [Rep]",
+    "Thomas Hall (R) [Rep]",
+    "Mark Hiner (R) [Rep]",
+    "Adam Holmes (R) [Rep]",
+    "Marilyn John (R) [Rep]",
+    "Mark Johnson (R) [Rep]",
+    "Angela King (R) [Rep]",
+    "Roy Klopfenstein (R) [Rep]",
+    "Beth Lear (R) [Rep]",
+    "Brian Lorenz (R) [Rep]",
+    "Adam Mathews (R) [Rep]",
+    "Ty Mathews (R) [Rep]",
+    "Riordan McClain (R) [Rep]",
+    "Kevin Miller (R) [Rep]",
+    "Melanie Miller (R) [Rep]",
+    "Diane Mullins (R) [Rep]",
+    "Johnathan Newman (R) [Rep]",
+    "Justin Pizzulli (R) [Rep]",
+    "Sharon Ray (R) [Rep]",
+    "Tracy Richardson (R) [Rep]",
+    "Jodi Salvo (R) [Rep]",
+    "Jean Schmidt (R) [Rep]",
+    "Jason Stephens (R) [Rep]",
+    "Michelle Teska (R) [Rep]",
+    "Cecil Thomas (D) [Rep]",
+    "David Thomas (R) [Rep]",
+    "Josh Williams (R) [Rep]",
+    "Bernard Willis (R) [Rep]",
+    "Heidi Workman (R) [Rep]",
+    "Tom Young (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-23",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-23",
+      "action": "Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Referred to committee: Health",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb12/00_IN/pdf/",
+      "doc_id": 3079114
+    }
+  ],
+  "committee": {
+    "committee_id": 102,
+    "chamber": "H",
+    "chamber_id": 5,
+    "name": "Health"
+  },
+  "subjects": [
+    "Health and Human Services : Health Care",
+    "House Health Committee"
+  ]
+}

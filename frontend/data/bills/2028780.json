@@ -1,0 +1,59 @@
+{
+  "id": 2028780,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3205",
+  "title": "No Subsidies for Gender Transition Procedures Act",
+  "summary": "To deny tax deductions and other Federal funding for the costs of gender transition procedures.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3205/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3205/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3205/all-info",
+  "sponsors": [
+    "Claudia Tenney (R) [Rep]",
+    "Dan Crenshaw (R) [Rep]",
+    "Chip Roy (R) [Rep]",
+    "Greg Steube (R) [Rep]"
+  ],
+  "introduced_date": "2025-05-05",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-05-05",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-30",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3205/BILLS-119hr3205ih.pdf",
+      "doc_id": 3259740
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1994354,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR199",
+  "title": "Condemning woke foreign aid programs.",
+  "summary": "Condemning woke foreign aid programs.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR199/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR199/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/199/all-info",
+  "sponsors": [
+    "Tim Burchett (R) [Rep]",
+    "Brandon Gill (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-06",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-03-06",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Referred to the House Committee on Foreign Affairs.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-07",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres199/BILLS-119hres199ih.pdf",
+      "doc_id": 3157975
+    }
+  ],
+  "committee": {
+    "committee_id": 2305,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Foreign Affairs"
+  },
+  "subjects": [
+    "International affairs"
+  ]
+}

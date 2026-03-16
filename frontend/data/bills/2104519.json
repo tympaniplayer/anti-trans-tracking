@@ -1,0 +1,59 @@
+{
+  "id": 2104519,
+  "state": "CO",
+  "state_name": "Colorado",
+  "bill_number": "HB1083",
+  "title": "Protect Female Sports Act",
+  "summary": "Concerning protecting female sports.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CO/bill/HB1083/2026",
+  "legiscan_url": "https://legiscan.com/CO/bill/HB1083/2026",
+  "state_url": "https://leg.colorado.gov/bills/HB26-1083",
+  "sponsors": [
+    "Scott Bottoms (R) [Rep]"
+  ],
+  "introduced_date": "2026-03-09",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "Introduced In House - Assigned to State, Civic, Military, & Veterans Affairs",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "House Committee on State, Civic, Military, & Veterans Affairs Postpone Indefinitely",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-09",
+      "description": "House State, Civic, Military, &amp; Veterans Affairs: Postpone House Bill 26-1083 indefinitely using a reversal of the previous roll call. There was no objection to the use of the reverse roll call, therefore, the bill was postponed indefinitely.",
+      "yea": 8,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "1969-12-31",
+      "type": "Introduced",
+      "url": "https://leg.colorado.gov/bill_files/111132/download",
+      "doc_id": 3344562
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Education & School Finance (Pre & K-12)"
+  ]
+}

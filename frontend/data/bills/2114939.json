@@ -1,0 +1,65 @@
+{
+  "id": 2114939,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SR604",
+  "title": "A resolution recognizing that it is the duty of the Federal Government to develop and implement a Transgender Bill of Rights to protect and codify the rights of transgender and nonbinary people under the law and ensure their access to medical care, shelter, safety, and economic security.",
+  "summary": "A resolution recognizing that it is the duty of the Federal Government to develop and implement a Transgender Bill of Rights to protect and codify the rights of transgender and nonbinary people under the law and ensure their access to medical care, shelter, safety, and economic security.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "definitions"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SR604/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SR604/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/604/all-info",
+  "sponsors": [
+    "Edward Markey (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Peter Welch (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-11",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-02-11",
+      "action": "Submitted in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Referred to the Committee on the Judiciary. (text: CR S580-581)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-12",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/sres604/BILLS-119sres604is.pdf",
+      "doc_id": 3361617
+    }
+  ],
+  "committee": {
+    "committee_id": 2330,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

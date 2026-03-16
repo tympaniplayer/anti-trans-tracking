@@ -1,0 +1,94 @@
+{
+  "id": 1987761,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB1725",
+  "title": "Relating to the establishment of the office of community violence intervention and prevention within the Department of State Health Services and a grant program for violence intervention and prevention services.",
+  "summary": "Relating to the establishment of the office of community violence intervention and prevention within the Department of State Health Services and a grant program for violence intervention and prevention services.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB1725/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB1725/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1725",
+  "sponsors": [
+    "Borris Miles (D) [Sen]",
+    "Molly Cook (D) [Sen]",
+    "Sarah Eckhardt (D) [Sen]",
+    "Roland Gutierrez (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Referred to Health & Human Services",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Co-author authorized",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Co-author authorized",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Co-author authorized",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB01725I.htm",
+      "doc_id": 3146714
+    }
+  ],
+  "committee": {
+    "committee_id": 1911,
+    "chamber": "S",
+    "chamber_id": 92,
+    "name": "Health & Human Services"
+  },
+  "subjects": [
+    "Crime Prevention",
+    "Health",
+    "Health--General",
+    "Mental Health & Substance Abuse",
+    "State Agencies, Boards & Commissions",
+    "State Agencies, Boards & Commissions--Newly Proposed",
+    "State Finances",
+    "State Finances--Management & Control",
+    "COMMUNITY VIOLENCE INTERVENTION & PREVENTION, OFFICE OF",
+    "HEALTH & HUMAN SERVICES COMMISSION",
+    "STATE HEALTH SERVICES, DEPARTMENT OF"
+  ]
+}

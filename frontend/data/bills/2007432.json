@@ -1,0 +1,68 @@
+{
+  "id": 2007432,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB922",
+  "title": "In casualty insurance, providing for fertility preservation coverage.",
+  "summary": "An Act amending the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, in casualty insurance, providing for fertility preservation coverage.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB922/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB922/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb922",
+  "sponsors": [
+    "La'Tasha Mayes (D) [Rep]",
+    "Jennifer O'Mara (D) [Rep]",
+    "Steven Malagari (D) [Rep]",
+    "Jose Giral (D) [Rep]",
+    "Benjamin Waxman (D) [Rep]",
+    "Maureen Madden (D) [Rep]",
+    "Aerion Abney (D) [Rep]",
+    "Melissa Cerrato (D) [Rep]",
+    "Robert Freeman (D) [Rep]",
+    "Liz Hanbidge (D) [Rep]",
+    "Malcolm Kenyatta (D) [Rep]",
+    "Michael Schlossberg (D) [Rep]",
+    "Joseph Hohenstein (D) [Rep]",
+    "Danielle Otten (D) [Rep]",
+    "Ben Sanchez (D) [Rep]",
+    "John Inglis (D) [Rep]",
+    "Christopher Rabb (D) [Rep]",
+    "Roni Green (D) [Rep]",
+    "Tarik Khan (D) [Rep]",
+    "Christina Sappey (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-17",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-17",
+      "action": "Referred to Insurance",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB0922/PN0971",
+      "doc_id": 3178637
+    }
+  ],
+  "committee": {
+    "committee_id": 51,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "Insurance"
+  },
+  "subjects": []
+}

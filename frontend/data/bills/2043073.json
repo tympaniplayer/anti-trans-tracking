@@ -1,0 +1,183 @@
+{
+  "id": 2043073,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "HB434",
+  "title": "Exempt military driver's license applicants from driver's ed",
+  "summary": "To amend sections 122.09, 122.636, 123.282, 123.283, 126.67, 319.304, 1901.26, 1907.24, 2303.201, 2501.16, 4507.21, 4513.60, 4513.61, 4513.66, 5101.98, 5119.89, and 5747.01 and to enact section 5101.546 of the Revised Code and to amend Sections 209.30, 221.10, 221.30, 221.40, 229.40, 237.10, 265.10, 265.110, 265.215, 291.20, 307.10, 307.70, 317.10, 317.20, 381.410, 423.10, 423.220, and 755.20 of H.B. 96 of the 136th General Assembly and Sections 221.15 as subsequently amended, 357.10, 363.10 as subsequently amended, 387.10 as subsequently amended, and 387.13 as subsequently amended of H.B. 2 of the 135th General Assembly to make corrections related to the transportation and main operating budgets, to make appropriations, and to declare an emergency.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/HB434/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/HB434/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/hb434",
+  "sponsors": [
+    "Bernard Willis (R) [Rep]",
+    "Brian Lampton (R) [Rep]",
+    "Andrew Brenner (R) [Sen]",
+    "Jerry Cirino (R) [Sen]",
+    "Terry Johnson (R) [Sen]",
+    "Al Landis (R) [Sen]",
+    "Thomas Patton (R) [Sen]",
+    "Bill Reineke (R) [Sen]",
+    "Michele Reynolds (R) [Sen]",
+    "Kristina Roegner (R) [Sen]",
+    "Timothy Schaffer (R) [Sen]",
+    "Jane Timken (R) [Sen]"
+  ],
+  "introduced_date": "2025-11-25",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2025-09-03",
+      "action": "Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "Referred to committee: Transportation",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Reported - Amended: Transportation",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Passed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-14",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-15",
+      "action": "Referred to committee: Finance",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-29",
+      "action": "Reported - Substitute: Finance",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-29",
+      "action": "Passed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-05",
+      "action": "Concurred in Senate amendments",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-18",
+      "action": "Sent To The Governor",
+      "chamber": ""
+    },
+    {
+      "date": "2025-11-25",
+      "action": "Signed By The Governor",
+      "chamber": ""
+    },
+    {
+      "date": "2025-11-25",
+      "action": "Effective Emergency Act; Appropriations effective 11/25/25; Amendments to R.C. 2303.201 effective March 30, 2026",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-10-08",
+      "description": "House Favorable Passage",
+      "yea": 11,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-08",
+      "description": "House Passed",
+      "yea": 96,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-29",
+      "description": "Senate Favorable Passage",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-29",
+      "description": "Senate Passed",
+      "yea": 31,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-11-05",
+      "description": "House Passed",
+      "yea": 88,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb434/00_IN/pdf/",
+      "doc_id": 3267283
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb434/01_RH/pdf/",
+      "doc_id": 3272363
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb434/02_PH/pdf/",
+      "doc_id": 3272433
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb434/03_RS/pdf/",
+      "doc_id": 3281325
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb434/04_PS/pdf/",
+      "doc_id": 3281326
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Enrolled",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb434/05_EN/pdf/",
+      "doc_id": 3283777
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Public Safety",
+    "Transportation",
+    "Transportation : Drivers' Licenses",
+    "Transportation : Motor Vehicles",
+    "House Transportation Committee",
+    "Senate Finance Committee"
+  ]
+}

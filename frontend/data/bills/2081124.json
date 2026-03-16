@@ -1,0 +1,67 @@
+{
+  "id": 2081124,
+  "state": "WV",
+  "state_name": "West Virginia",
+  "bill_number": "HB4356",
+  "title": "Relating to permitting persons to refuse to participate in a irreversible transition surgery",
+  "summary": "The purpose of this bill is to prohibit the requiring of the performance or assistance of an irreversible gender reassignment surgery.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "drag"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WV/bill/HB4356/2026",
+  "legiscan_url": "https://legiscan.com/WV/bill/HB4356/2026",
+  "state_url": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4356&year=2026&sessiontype=RS&btype=bill",
+  "sponsors": [
+    "Adam Burkhammer (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-15",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-15",
+      "action": "Filed for introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "To Health and Human Resources",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "To House Health and Human Resources",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb4356%20intr.htm&yr=2026&sesstype=RS&i=4356",
+      "doc_id": 3318265
+    }
+  ],
+  "committee": {
+    "committee_id": 8,
+    "chamber": "H",
+    "chamber_id": 1,
+    "name": "Health & Human Resources"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

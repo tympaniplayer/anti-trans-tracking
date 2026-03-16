@@ -1,0 +1,59 @@
+{
+  "id": 1982092,
+  "state": "GA",
+  "state_name": "Georgia",
+  "bill_number": "SB248",
+  "title": "Georgia Council on Library Materials Standards; establish and provide",
+  "summary": "A BILL to be entitled an Act to amend Title 20 of the Official Code of Georgia Annotated, relating to education, so as to establish and provide for the Georgia Council on Library Materials Standards; to provide for definitions, including definitions for the terms \"harmful to minors,\" \"restricted materials,\" and \"sexually explicit materials\"; to require the Georgia Council on Library Materials Standards to establish standards for the designation of restricted materials by local boards of education, standards for the use and restriction of instructional materials, and standards for the use and restriction of public school library collection materials; to provide for definitions; to provide for short titles; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/GA/bill/SB248/2025",
+  "legiscan_url": "https://legiscan.com/GA/bill/SB248/2025",
+  "state_url": "https://www.legis.ga.gov/legislation/70774",
+  "sponsors": [
+    "Clint Dixon (R) [Sen]",
+    "Jason Anavitarte (R) [Sen]",
+    "Marty Harbin (R) [Sen]",
+    "Chuck Payne (R) [Sen]",
+    "Billy Hickman (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-24",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-24",
+      "action": "Senate Hopper",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Senate Read and Referred",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-25",
+      "type": "Introduced",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233726",
+      "doc_id": 3139421
+    }
+  ],
+  "committee": {
+    "committee_id": 610,
+    "chamber": "S",
+    "chamber_id": 30,
+    "name": "Education and Youth"
+  },
+  "subjects": []
+}

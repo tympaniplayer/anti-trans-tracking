@@ -1,0 +1,84 @@
+{
+  "id": 1998414,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S473",
+  "title": "Relative to the commission on LGBTQ aging",
+  "summary": "For legislation relative to the commission on LGBTQ aging. Elder Affairs.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S473/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S473/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S473",
+  "sponsors": [
+    "Patricia Jehlen (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Elder Affairs",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Hearing scheduled for 04/14/2025 from 10:00 AM-01:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-27",
+      "action": "Referred, pursuant to an order adopted by the two branches, to the committee on Aging and Independence",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-07-21",
+      "action": "Bill reported favorably by committee as changed, and referred to the committee on Senate Rules",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-10",
+      "action": "Committee reported that the matter be placed in the Orders of the Day for Thursday, November 13, 2025 with an amendment, substituting therefor a new draft, see S2711",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-13",
+      "action": "Read second",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-13",
+      "action": "New draft substituted, see S2711",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-13",
+      "action": "Committee recommended ought to pass with an amendment, substituting therefor a new draft, see S2711",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-10",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S473.pdf",
+      "doc_id": 3163673
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

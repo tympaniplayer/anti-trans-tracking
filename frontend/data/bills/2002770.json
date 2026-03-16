@@ -1,0 +1,59 @@
+{
+  "id": 2002770,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H262",
+  "title": "Enhancing child welfare protections",
+  "summary": "Relative to enhancing child welfare protections. Children, Families and Persons with Disabilities.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H262/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H262/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H262",
+  "sponsors": [
+    "Jay Livingstone (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Children, Families and Persons with Disabilities",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Hearing scheduled for 05/13/2025 from 01:00 PM-05:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-08-28",
+      "action": "Accompanied a new draft, see H4416",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H262.pdf",
+      "doc_id": 3168832
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

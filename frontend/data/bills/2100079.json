@@ -1,0 +1,53 @@
+{
+  "id": 2100079,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A1605",
+  "title": "Prohibits board of education from providing instruction in family life education, sex education, sexual health, sexual orientation, or gender identity to students in preschool through grade four.",
+  "summary": "Prohibits board of education from providing instruction in family life education, sex education, sexual health, sexual orientation, or gender identity to students in preschool through grade four.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A1605/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A1605/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A1605",
+  "sponsors": [
+    "Sean Kean (R) [Rep]",
+    "Christopher DePhillips (R) [Rep]",
+    "Jay Webber (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Education Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-23",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A2000/1605_I1.HTM",
+      "doc_id": 3339169
+    }
+  ],
+  "committee": {
+    "committee_id": 854,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Education"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

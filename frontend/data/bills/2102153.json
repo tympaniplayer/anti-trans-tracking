@@ -1,0 +1,66 @@
+{
+  "id": 2102153,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB3105",
+  "title": "CONVERSION THERAPY-NO FUNDING",
+  "summary": "Amends the State Finance Act. Provides that the State shall not expend or invest any public funds in any organization, nonprofit organization, religious organization, or any other entity to be used for conversion therapy. Provides that the State shall not enter into any contract for the provision of conversion therapy. Provides that any contract entered into or renewed after the effective date of the amendatory Act that is used or will be used for conversion therapy shall be void and unenforceable as contrary to public policy. Defines \"conversion therapy\".",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "religious_exemptions",
+    "definitions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB3105/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB3105/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3105&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "Mary Edly-Allen (D) [Sen]",
+    "Rachel Ventura (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-29",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "action": "Filed with Secretary by Sen. Mary Edly-Allen",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Added as Co-Sponsor Sen. Rachel Ventura",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-29",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=207060&DocName=10400SB3105&DocNum=3105&DocTypeID=SB&LegID=165713&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3341584
+    }
+  ],
+  "committee": {
+    "committee_id": 254,
+    "chamber": "S",
+    "chamber_id": 36,
+    "name": "Assignments"
+  },
+  "subjects": []
+}

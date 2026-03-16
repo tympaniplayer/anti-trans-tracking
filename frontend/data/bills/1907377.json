@@ -1,0 +1,58 @@
+{
+  "id": 1907377,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "SB0009",
+  "title": "Education: facilities; requirements concerning restrooms and other certain areas in public schools; modify. Amends 1976 PA 451 (MCL 380.1 - 380.1852) by adding sec. 1146a.",
+  "summary": "Education: facilities; requirements concerning restrooms and other certain areas in public schools; modify. Amends 1976 PA 451 (MCL 380.1 - 380.1852) by adding sec. 1146a.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms",
+    "education"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/SB0009/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/SB0009/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0009",
+  "sponsors": [
+    "Joseph Bellino (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-08",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "Introduced By Senator Joseph Bellino",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-08",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/htm/2025-SIB-0009.htm",
+      "doc_id": 3043003
+    }
+  ],
+  "committee": {
+    "committee_id": 838,
+    "chamber": "S",
+    "chamber_id": 54,
+    "name": "Government Operations"
+  },
+  "subjects": [
+    "Education: facilities",
+    "Education: other"
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "id": 1937139,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "SB1",
+  "title": "Enact Advance Ohio Higher Education Act",
+  "summary": "To amend sections 3335.02, 3335.09, 3337.01, 3339.01, 3341.02, 3343.02, 3344.01, 3345.45, 3350.10, 3352.01, 3356.01, 3359.01, 3361.01, 3362.01, 3364.01, 4117.14, and 4117.15; to enact new section 3333.045 and sections 3345.029, 3345.0216, 3345.0217, 3345.0218, 3345.0219, 3345.382, 3345.451, 3345.452, 3345.453, 3345.454, 3345.455, 3345.456, 3345.591, 3345.80, and 3345.88; and to repeal section 3333.045 of the Revised Code to enact the Advance Ohio Higher Education Act regarding the operation of state institutions of higher education.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/SB1/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/SB1/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/sb1",
+  "sponsors": [
+    "Jerry Cirino (R) [Sen]",
+    "Andrew Brenner (R) [Sen]",
+    "Brian Chavez (R) [Sen]",
+    "Alessandro Cutrona (R) [Sen]",
+    "Stephen Huffman (R) [Sen]",
+    "Terry Johnson (R) [Sen]",
+    "Kyle Koehler (R) [Sen]",
+    "George Lang (R) [Sen]",
+    "Susan Manchester (R) [Sen]",
+    "Sandra O'Brien (R) [Sen]",
+    "Bill Reineke (R) [Sen]",
+    "Kristina Roegner (R) [Sen]",
+    "Mark Romanchuk (R) [Sen]",
+    "Timothy Schaffer (R) [Sen]",
+    "Jane Timken (R) [Sen]",
+    "Shane Wilkin (R) [Sen]"
+  ],
+  "introduced_date": "2025-06-27",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-22",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-29",
+      "action": "Referred to committee: Higher Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Reported - Substitute: Higher Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Passed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Referred to committee: Workforce and Higher Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Reported - Substitute: Workforce and Higher Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Passed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Concurred in House amendments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Sent To The Governor",
+      "chamber": ""
+    },
+    {
+      "date": "2025-03-28",
+      "action": "Signed By The Governor",
+      "chamber": ""
+    },
+    {
+      "date": "2025-06-27",
+      "action": "Effective ",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-12",
+      "description": "Senate Favorable Passage",
+      "yea": 5,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-02-12",
+      "description": "Senate Passed",
+      "yea": 21,
+      "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-19",
+      "description": "House Favorable Passage",
+      "yea": 9,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-19",
+      "description": "House Passed",
+      "yea": 59,
+      "nay": 34,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-26",
+      "description": "Senate Passed",
+      "yea": 20,
+      "nay": 11,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb1/00_IN/pdf/",
+      "doc_id": 3078489
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb1/01_RS/pdf/",
+      "doc_id": 3115570
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb1/02_PS/pdf/",
+      "doc_id": 3116872
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb1/03_RH/pdf/",
+      "doc_id": 3181280
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb1/04_PH/pdf/",
+      "doc_id": 3182144
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Enrolled",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb1/05_EN/pdf/",
+      "doc_id": 3190862
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Education",
+    "Education : Higher Education",
+    "House Workforce and Higher Education Committee",
+    "Senate Higher Education Committee"
+  ]
+}

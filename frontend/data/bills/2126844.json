@@ -1,0 +1,59 @@
+{
+  "id": 2126844,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "S2666",
+  "title": "Requires Medicaid to provide coverage for fertility medication, care, and services, for at least 3 cycles of fertility treatment, and intrauterine insemination.",
+  "summary": "STATE AFFAIRS AND GOVERNMENT -- THE RHODE ISLAND MEDICAID REFORM ACT OF 2008 - Requires Medicaid to provide coverage for fertility medication, care, and services, for at least 3 cycles of fertility treatment, and intrauterine insemination.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/S2666/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/S2666/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Tiara Mack (D) [Sen]",
+    "Alana DiMario (D) [Sen]",
+    "Victoria Gu (D) [Sen]",
+    "Melissa Murray (D) [Sen]",
+    "Meghan Kallman (D) [Sen]",
+    "Pamela Lauria (D) [Sen]",
+    "Linda Ujifusa (D) [Sen]",
+    "Bridget Valverde (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-27",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "action": "Introduced, referred to Senate Finance",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-27",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/SenateText26/S2666.pdf",
+      "doc_id": 3379692
+    }
+  ],
+  "committee": {
+    "committee_id": 1136,
+    "chamber": "S",
+    "chamber_id": 84,
+    "name": "Finance"
+  },
+  "subjects": [
+    "State Affairs And Government",
+    "STATE AFFAIRS AND GOVERNMENT -- THE RHODE ISLAND MEDICAID REFORM ACT OF 2008"
+  ]
+}

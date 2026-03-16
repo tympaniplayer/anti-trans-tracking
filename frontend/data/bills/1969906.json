@@ -1,0 +1,61 @@
+{
+  "id": 1969906,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "HF420",
+  "title": "Program for beverage container recycling refunds established, civil and criminal penalties provided, reports required, and money appropriated.",
+  "summary": "Program for beverage container recycling refunds established, civil and criminal penalties provided, reports required, and money appropriated.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/HF420/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/HF420/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/420/",
+  "sponsors": [
+    "Sydney Jordan (D) [Rep]",
+    "Kari Rehrauer (D) [Rep]",
+    "Larry Kraft (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-13",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-02-13",
+      "action": "Introduction and first reading, referred to Environment and Natural Resources Finance and Policy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Author added Rehrauer",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Author added Kraft",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-11",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/420/versions/0/pdf/",
+      "doc_id": 3119265
+    }
+  ],
+  "committee": {
+    "committee_id": 4301,
+    "chamber": "H",
+    "chamber_id": 55,
+    "name": "Environment and Natural Resources Finance & Policy"
+  },
+  "subjects": []
+}

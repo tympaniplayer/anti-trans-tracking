@@ -1,0 +1,67 @@
+{
+  "id": 2022036,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB2738",
+  "title": "Ending PUSHOUT Act of 2025 Ending Punitive, Unfair, School-based Harm that is Overt and Unresponsive to Trauma Act of 2025",
+  "summary": "To reduce exclusionary discipline practices in schools, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB2738/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB2738/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/2738/all-info",
+  "sponsors": [
+    "Ayanna Pressley (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Ilhan Omar (D) [Rep]",
+    "Joyce Beatty (D) [Rep]",
+    "Greg Casar (D) [Rep]",
+    "Mark DeSaulnier (D) [Rep]",
+    "Summer Lee (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Alexandria Ocasio-Cortez (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-08",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-04-08",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Referred to the House Committee on Education and Workforce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-19",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr2738/BILLS-119hr2738ih.pdf",
+      "doc_id": 3216151
+    }
+  ],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

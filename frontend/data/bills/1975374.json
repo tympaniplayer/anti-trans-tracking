@@ -1,0 +1,105 @@
+{
+  "id": 1975374,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0293",
+  "title": "An act relating to health equity data reporting and registry disclosure requirements",
+  "summary": "An act relating to health equity data reporting and registry disclosure requirements",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0293/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0293/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.293",
+  "sponsors": [
+    "Eric Maguire (R) [Rep]"
+  ],
+  "introduced_date": "2025-04-15",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-02-20",
+      "action": "Read first time and referred to the Committee on Human Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Notice Calendar: Favorable with Amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Action Calendar: Favorable with Amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Read second time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Rep. Eastes of Guilford reported for the Committee on Human Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Report of Committee on Human Services agreed to",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Third Reading ordered",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Action Calendar: Third Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Read third time and passed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Read 1st time & referred to Committee on Rules",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-06",
+      "action": "Referred to Committee on Health and Welfare per Temporary Senate Rule 44A",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-19",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0293/H-0293%20As%20Introduced.pdf",
+      "doc_id": 3130510
+    },
+    {
+      "date": "2025-04-16",
+      "type": "Engrossed",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0293/H-0293%20As%20passed%20by%20the%20House%20Official.pdf",
+      "doc_id": 3214055
+    }
+  ],
+  "committee": {
+    "committee_id": 800,
+    "chamber": "S",
+    "chamber_id": 96,
+    "name": "Health and Welfare"
+  },
+  "subjects": []
+}

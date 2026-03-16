@@ -1,0 +1,79 @@
+{
+  "id": 2073586,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "HB334",
+  "title": "AN ACT relating to sex-based classifications.",
+  "summary": "Create new sections of KRS Chapter 61 to define \"boy,\" \"equal,\" \"female,\" \"girl,\" \"male,\" \"man,\" \"sex,\" and \"woman\"; prohibit any state or local law, regulation, ordinance, or policy from treating males or females unfairly from similiarly situated members of the opposite sex, but permit separation of the sexes if in the interest of maintaining safety, privacy, and fairness; provide a non-exhaustive list of examples of areas in which public entities may distinguish between the sexes; require any public school, public school district, state agency, department, local government, special district or any political subdivision of those entities that collects vital statistics to identify each person as either male or female; provide that the Act may be cited as the Kentucky Women's Bill of Rights.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/HB334/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/HB334/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/hb334.html",
+  "sponsors": [
+    "Candy Massaroni (R) [Rep]",
+    "Kimberly Banta (R) [Rep]",
+    "Emily Callaway (R) [Rep]",
+    "Steven Doan (R) [Rep]",
+    "Savannah Maddox (R) [Rep]",
+    "Jason Nemes (R) [Rep]",
+    "Felicia Rabourn (R) [Rep]",
+    "T.J. Roberts (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "to Committee on Committees (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "to State Government (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb334/orig_bill.pdf",
+      "doc_id": 3310384
+    }
+  ],
+  "committee": {
+    "committee_id": 333,
+    "chamber": "H",
+    "chamber_id": 43,
+    "name": "State Government"
+  },
+  "subjects": [
+    "Children and Minors",
+    "Civil Rights",
+    "Education, Elementary and Secondary",
+    "Education, Higher",
+    "Local Government",
+    "Men",
+    "Short Titles and Popular Names",
+    "State Agencies",
+    "Women",
+    "Corrections Impact",
+    "Local Mandate"
+  ]
+}

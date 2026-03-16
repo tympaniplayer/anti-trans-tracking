@@ -1,0 +1,69 @@
+{
+  "id": 1892066,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB366",
+  "title": "Relating to the consideration of ownership interests of certain persons in determining whether a business is a historically underutilized business for purposes of state contracting.",
+  "summary": "Relating to the consideration of ownership interests of certain persons in determining whether a business is a historically underutilized business for purposes of state contracting.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB366/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB366/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB366",
+  "sponsors": [
+    "Sarah Eckhardt (D) [Sen]"
+  ],
+  "introduced_date": "2024-11-14",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-14",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2024-11-14",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Referred to Business & Commerce",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-11-14",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00366I.htm",
+      "doc_id": 3027671
+    }
+  ],
+  "committee": {
+    "committee_id": 1904,
+    "chamber": "S",
+    "chamber_id": 92,
+    "name": "Business & Commerce"
+  },
+  "subjects": [
+    "Purchasing",
+    "Purchasing--State",
+    "HISTORICALLY UNDERUTILIZED BUSINESSES",
+    "COMPTROLLER OF PUBLIC ACCOUNTS"
+  ]
+}

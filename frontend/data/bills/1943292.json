@@ -1,0 +1,128 @@
+{
+  "id": 1943292,
+  "state": "GA",
+  "state_name": "Georgia",
+  "bill_number": "SB27",
+  "title": "Stalking; offense of doxxing; penalties; protective order; provide",
+  "summary": "A BILL to be entitled an Act to amend Article 7 of Chapter 5 of Title 16 of the Official Georgia Code Annotated, relating to stalking, so as to provide for the offense of doxxing; to provide for penalties; to provide for a protective order; to provide for a civil action; to provide for venue; to provide for definitions; to provide for statutory construction; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/GA/bill/SB27/2025",
+  "legiscan_url": "https://legiscan.com/GA/bill/SB27/2025",
+  "state_url": "https://www.legis.ga.gov/legislation/69508",
+  "sponsors": [
+    "John Albers (R) [Sen]",
+    "Randy Robertson (R) [Sen]",
+    "Ricky Williams (R) [Sen]",
+    "Mike Hodges (R) [Sen]",
+    "Ben Watson (R) [Sen]",
+    "Kay Kirkpatrick (R) [Sen]",
+    "Timothy Bearden (R) [Sen]",
+    "Matt Brass (R) [Sen]",
+    "Jason Anavitarte (R) [Sen]",
+    "Blake Tillery (R) [Sen]",
+    "Carden Summers (R) [Sen]",
+    "Brian Strickland (R) [Sen]",
+    "Sonya Halpern (D) [Sen]",
+    "Brad Thomas (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-06",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-27",
+      "action": "Senate Hopper",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Senate Read and Referred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Senate Committee Favorably Reported By Substitute",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Senate Read Second Time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Senate Third Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Senate Passed/Adopted By Substitute",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "House First Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "House Second Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "House Committee Favorably Reported By Substitute",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-04",
+      "action": "House Withdrawn, Recommitted",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-06",
+      "description": "Passage By Substitute: Senate Vote #193",
+      "yea": 52,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-28",
+      "type": "Introduced",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230279",
+      "doc_id": 3084579
+    },
+    {
+      "date": "2025-03-03",
+      "type": "Comm Sub",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234799",
+      "doc_id": 3151131
+    },
+    {
+      "date": "2025-03-06",
+      "type": "Engrossed",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235564",
+      "doc_id": 3157845
+    },
+    {
+      "date": "2025-03-26",
+      "type": "Comm Sub",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237460",
+      "doc_id": 3191266
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

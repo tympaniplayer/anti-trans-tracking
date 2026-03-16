@@ -1,0 +1,87 @@
+{
+  "id": 2023325,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A07855",
+  "title": "Establishes the crimes of unlawful dissemination or publication of intimate images in the first, second, and third degree; defines terms and clarifies application of provisions relating to such crimes; extends the statute of limitations for such crimes; repeals provisions relating thereto.",
+  "summary": "Establishes the crimes of unlawful dissemination or publication of intimate images in the first, second, and third degree; defines terms and clarifies application of provisions relating to such crimes; extends the statute of limitations for such crimes; repeals provisions relating thereto.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A07855/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A07855/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A7855",
+  "sponsors": [
+    "Alex Bores (D) [Rep]",
+    "Amy Paulin (D) [Rep]",
+    "Emerita Torres (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Karl Brabenec (R) [Rep]",
+    "Didi Barrett (D) [Rep]",
+    "Steven Raga (D) [Rep]",
+    "Carrie Woerner (D) [Rep]",
+    "William Conrad (D) [Rep]",
+    "Scott Gray (R) [Rep]",
+    "Anil Beephan (R) [Rep]",
+    "Phillip Steck (D) [Rep]",
+    "Aron Wieder (D) [Rep]",
+    "Charles Lavine (D) [Rep]",
+    "Albert Stirpe (D) [Rep]",
+    "Micah Lasher (D) [Rep]",
+    "Christopher Eachus (D) [Rep]",
+    "Kalman Yeger (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-11",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-04-11",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "amend and recommit to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "print number 7855a",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to codes",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-11",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A07855&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A07855",
+      "doc_id": 3209955
+    },
+    {
+      "date": "2025-04-11",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A07855&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A07855A",
+      "doc_id": 3253447
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

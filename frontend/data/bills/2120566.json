@@ -1,0 +1,52 @@
+{
+  "id": 2120566,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A4487",
+  "title": "Prohibits workplace discrimination based on menstruation, perimenopause, and menopause.",
+  "summary": "Prohibits workplace discrimination based on menstruation, perimenopause, and menopause.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A4487/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A4487/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A4487",
+  "sponsors": [
+    "Luanne Peterpaul (D) [Rep]",
+    "Vincent Kearney (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-24",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-24",
+      "action": "Introduced, Referred to Assembly Labor Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-25",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A4500/4487_I1.HTM",
+      "doc_id": 3375101
+    }
+  ],
+  "committee": {
+    "committee_id": 863,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Labor"
+  },
+  "subjects": [
+    "Labor"
+  ]
+}

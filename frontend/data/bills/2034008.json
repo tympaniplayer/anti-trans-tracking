@@ -1,0 +1,132 @@
+{
+  "id": 2034008,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "B26-0263",
+  "title": "Fiscal Year 2025 Revised Local Budget Emergency Act of 2025",
+  "summary": "Fiscal Year 2025 Revised Local Budget Emergency Act of 2025",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/B26-0263/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/B26-0263/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/B26-0263",
+  "sponsors": [
+    "Phil Mendelson (D) [Sen]"
+  ],
+  "introduced_date": "2025-08-18",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2025-05-23",
+      "action": "Notice of Public Hearing Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Retained by the Council",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "Notice of Public Hearing Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "Roundtable Hearing Held",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Public Hearing Held",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-07-28",
+      "action": "Final Reading",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-07-28",
+      "action": "Amendment in the Nature of a Substitute (Mendelson)",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-07-28",
+      "action": "Amendment (Nadeau)",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-08-04",
+      "action": "Transmitted to Mayor, Response Due on August 18, 2025",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-08-18",
+      "action": "Signed by the Mayor and Enacted with Act Number A26-0142, Expires on Nov 16, 2025",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-08-18",
+      "action": "Returned from Mayor",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-08-22",
+      "action": "Act A26-0142 Published in DC Register Vol 72 and Page 009130, Expires on Nov 16, 2025",
+      "chamber": "C"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-07-28",
+      "description": "Final Reading",
+      "yea": 12,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-28",
+      "description": "Amendment (Nadeau)",
+      "yea": 12,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-28",
+      "description": "Amendment (Nadeau)",
+      "yea": 12,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-05-27",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/57786/Introduction/B26-0263-Introduction.pdf",
+      "doc_id": 3246322
+    },
+    {
+      "date": "2025-07-28",
+      "type": "Enrolled",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/57786/Meeting1/Enrollment/B26-0263-Enrollment2.pdf",
+      "doc_id": 3263777
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,95 @@
+{
+  "id": 1957343,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "SB0936",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 1; Title 3; Title 4; Title 5; Title 6; Title 7 and Title 8, relative to biological sex.",
+  "summary": "As introduced, declares that the policy of this state is that there are only two sexes, a biological male and a biological female. - Amends TCA Title 1; Title 3; Title 4; Title 5; Title 6; Title 7 and Title 8.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/SB0936/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/SB0936/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB0936&ga=114",
+  "sponsors": [
+    "Paul Rose (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-05",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-05",
+      "action": "Filed for introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Introduced, Passed on First Consideration",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Passed on Second Consideration, refer to Senate Judiciary Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Placed on Senate Judiciary Committee calendar for 3/18/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Action deferred in Senate Judiciary Committee to 3/18/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Placed on Senate Judiciary Committee calendar for 3/18/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 7, Nays 1 PNV 0",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-18",
+      "description": "SENATE JUDICIARY COMMITTEE: Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 7, Nays 1 PNV 0",
+      "yea": 7,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-05",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0936.pdf",
+      "doc_id": 3102284
+    },
+    {
+      "date": "2025-02-06",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0936.pdf",
+      "doc_id": 3106403
+    }
+  ],
+  "committee": {
+    "committee_id": 2502,
+    "chamber": "S",
+    "chamber_id": 90,
+    "name": "Calendar"
+  },
+  "subjects": [
+    "State Government"
+  ]
+}

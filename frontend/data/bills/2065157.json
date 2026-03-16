@@ -1,0 +1,135 @@
+{
+  "id": 2065157,
+  "state": "FL",
+  "state_name": "Florida",
+  "bill_number": "H0949",
+  "title": "Child Welfare",
+  "summary": "Revises definition of term \"harm\" to provide that exposure of child to controlled substance may be established by evidence of acute or chronic use of controlled substance by parent to specified extent; revises definition of term \"neglect\" to provide that neglect occurs when there is evidence of acute or chronic use of controlled substance by parent to specified extent.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/FL/bill/H0949/2026",
+  "legiscan_url": "https://legiscan.com/FL/bill/H0949/2026",
+  "state_url": "https://www.flsenate.gov/Session/Bill/2026/949",
+  "sponsors": [
+    "Civil Justice & Claims Subcommittee [Rep]",
+    "Michelle Salzman (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-05",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-05",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Referred to Civil Justice & Claims Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Referred to Human Services Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Referred to Judiciary Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Now in Civil Justice & Claims Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "1st Reading (Original Filed Version)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "PCS added to Civil Justice & Claims Subcommittee agenda",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Favorable with CS by Civil Justice & Claims Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Reported out of Civil Justice & Claims Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Laid on Table under Rule 7.18(a)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "CS Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "1st Reading (Committee Substitute 1)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Referred to Health & Human Services Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Referred to Judiciary Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Now in Health & Human Services Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-11",
+      "description": "House Civil Justice & Claims Subcommittee",
+      "yea": 15,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-05",
+      "type": "Introduced",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/949/BillText/Filed/PDF",
+      "doc_id": 3299495
+    },
+    {
+      "date": "2026-02-11",
+      "type": "Comm Sub",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/949/BillText/c1/PDF",
+      "doc_id": 3358847
+    }
+  ],
+  "committee": {
+    "committee_id": 2415,
+    "chamber": "H",
+    "chamber_id": 27,
+    "name": "Health And Human Services"
+  },
+  "subjects": []
+}

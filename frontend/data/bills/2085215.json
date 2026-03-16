@@ -1,0 +1,92 @@
+{
+  "id": 2085215,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "SB1741",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 49, relative to public institutions of higher education.",
+  "summary": "As introduced, enacts the \"Charlie Kirk Act.\" - Amends TCA Title 49.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/SB1741/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/SB1741/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB1741&ga=114",
+  "sponsors": [
+    "Paul Rose (R) [Sen]",
+    "Rusty Crowe (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-16",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-16",
+      "action": "Filed for introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Introduced, Passed on First Consideration",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Passed on Second Consideration, refer to Senate Education Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Sponsor(s) Added.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Placed on Senate Education Committee calendar for 3/4/2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Reset on Final calendar of Senate Education Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Placed on Senate Education Committee calendar for 3/11/2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Action deferred in Senate Education Committee to 3/18/2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Placed on Senate Education Committee calendar for 3/18/2026",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-16",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1741.pdf",
+      "doc_id": 3322507
+    }
+  ],
+  "committee": {
+    "committee_id": 2494,
+    "chamber": "S",
+    "chamber_id": 90,
+    "name": "Education"
+  },
+  "subjects": [
+    "Education, Higher"
+  ]
+}

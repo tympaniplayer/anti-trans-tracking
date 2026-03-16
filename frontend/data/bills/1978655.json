@@ -1,0 +1,140 @@
+{
+  "id": 1978655,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB1120",
+  "title": "Foster care: rights of foster youth.",
+  "summary": "An act to amend Section 16001.9 of the Welfare and Institutions Code, relating to foster care.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB1120/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB1120/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1120",
+  "sponsors": [
+    "Sade Elhawary (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-03",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-20",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-21",
+      "action": "From printer. May be heard in committee March 23.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Referred to Com. on HUM. S.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 6. Noes 0.) (April 8). Re-referred to Com. on APPR.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "In committee: Set, first hearing. Referred to suspense file.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "From committee: Do pass. (Ayes 14. Noes 0.) (May 23).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Read third time. Passed. Ordered to the Senate. (Ayes 79. Noes 0. Page 1987.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Referred to Com. on HUMAN S.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 5. Noes 0.) (June 30). Re-referred to Com. on APPR.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-14",
+      "action": "In committee: Referred to APPR. suspense file.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-29",
+      "action": "In committee: Held under submission.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-08",
+      "description": "Do pass and be re-referred to the Committee on [Appropriations] with recommendation: To Consent Calendar",
+      "yea": 6,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-23",
+      "description": "Do pass",
+      "yea": 14,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-03",
+      "description": "AB 1120 Elhawary Assembly Third Reading",
+      "yea": 79,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-30",
+      "description": "Do pass, but first be re-referred to the Committee on [Appropriations] with the recommendation: To Consent Calendar",
+      "yea": 5,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-14",
+      "description": "Placed on suspense file",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-20",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1120#99INT",
+      "doc_id": 3134820
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

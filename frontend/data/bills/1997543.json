@@ -1,0 +1,64 @@
+{
+  "id": 1997543,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S965",
+  "title": "Promoting fair and affordable housing",
+  "summary": "For legislation to promote fair housing by preventing discrimination against affordable housing. Housing.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S965/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S965/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S965",
+  "sponsors": [
+    "Julian Cyr (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Housing",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Hearing scheduled for 06/25/2025 from 01:00 PM-05:00 PM in B-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Reporting date extended to Friday February 27, 2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Accompanied a new draft, see S2980",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S965.pdf",
+      "doc_id": 3162769
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

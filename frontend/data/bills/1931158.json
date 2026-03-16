@@ -1,0 +1,60 @@
+{
+  "id": 1931158,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0060",
+  "title": "An act relating to prohibiting discrimination based on immunization status",
+  "summary": "An act relating to prohibiting discrimination based on immunization status",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0060/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0060/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.60",
+  "sponsors": [
+    "Mark Higley (R) [Rep]",
+    "Gregory Burtt (R) [Rep]",
+    "James Casey (R) [Rep]",
+    "Voranus Coffin IV (R) [Rep]",
+    "Joshua Dobrovich (R) [Rep]",
+    "Leland Morgan (R) [Rep]",
+    "Todd Nielsen (R) [Rep]",
+    "Thomas Oliver (R) [Rep]",
+    "Joseph Parsons (R) [Rep]",
+    "Debra Powers (R) [Rep]",
+    "Michael Southworth (R) [Rep]",
+    "Michael Tagliavia (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-22",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-01-22",
+      "action": "Read first time and referred to the Committee on General and Housing",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-21",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0060/H-0060%20As%20Introduced.pdf",
+      "doc_id": 3068815
+    }
+  ],
+  "committee": {
+    "committee_id": 4666,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "General and Housing"
+  },
+  "subjects": []
+}

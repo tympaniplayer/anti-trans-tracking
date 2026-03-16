@@ -1,0 +1,54 @@
+{
+  "id": 2058001,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A09305",
+  "title": "Relates to motivating factors behind unlawful discriminatory practices in employment practices; clarifies the reasonable accommodation process under the state's human rights law.",
+  "summary": "Relates to motivating factors behind unlawful discriminatory practices in employment practices; clarifies the reasonable accommodation process under the state's human rights law.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A09305/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A09305/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A9305",
+  "sponsors": [
+    "Phillip Steck (D) [Rep]"
+  ],
+  "introduced_date": "2025-12-10",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-12-10",
+      "action": "referred to governmental operations",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to governmental operations",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-10",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A09305&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A09305",
+      "doc_id": 3289626
+    }
+  ],
+  "committee": {
+    "committee_id": 368,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Governmental Operations"
+  },
+  "subjects": []
+}

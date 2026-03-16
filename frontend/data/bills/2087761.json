@@ -1,0 +1,51 @@
+{
+  "id": 2087761,
+  "state": "MS",
+  "state_name": "Mississippi",
+  "bill_number": "HB1309",
+  "title": "Gender dysmorphia; require school personnel to notify parents of students who request to be referred to as different gender.",
+  "summary": "An Act To Require School Administrators, Teachers, Counselors Or Other Personnel Of The School To Provide Written Notification To The Parent Or Legal Guardian Of Any Student Publicly Identifying At School As A Gender Or Pronoun That Does Not Align With The Child's Sex On Their Birth Certificate, Sex Assigned At Birth Or Using Sex-segregated School Programs And Activities Or School Facilities That Do Not Align With The Child's Sex Assignment At Birth, Within Seven Days Of Becoming Aware Of Such Conduct Or Request By The Affected Student; To Provide That No School Personnel Shall Be Disciplined Or Suffer Any Unlawful Reprisal For Refusing To Acknowledge A Student By A Preferred Gender, Or Pronoun That Is Inconsistent With The Child's Sex Assignment At Birth; To Provide That No Notice Shall Be Made To Parents Or Guardians For Communications Made Confidentially To School Counselors, Administrators, Teachers And Other Personnel Of The School; To Prescribe The Legislative Intent; And For Related Purposes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "education",
+    "bathrooms",
+    "identity_documents"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MS/bill/HB1309/2026",
+  "legiscan_url": "https://legiscan.com/MS/bill/HB1309/2026",
+  "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1309.xml",
+  "sponsors": [
+    "Charles Blackwell (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-19",
+      "action": "Referred To Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Died In Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1309IN.htm",
+      "doc_id": 3325413
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

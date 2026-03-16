@@ -1,0 +1,90 @@
+{
+  "id": 2007215,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB2768",
+  "title": "Relating to certain health care services, increasing access to health care, and repealing or replacing medically unnecessary and outdated health care restrictions.",
+  "summary": "Relating to certain health care services, increasing access to health care, and repealing or replacing medically unnecessary and outdated health care restrictions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB2768/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB2768/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2768",
+  "sponsors": [
+    "Molly Cook (D) [Sen]",
+    "Sarah Eckhardt (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-14",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-14",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Referred to Health & Human Services",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-14",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB02768I.htm",
+      "doc_id": 3176282
+    }
+  ],
+  "committee": {
+    "committee_id": 1911,
+    "chamber": "S",
+    "chamber_id": 92,
+    "name": "Health & Human Services"
+  },
+  "subjects": [
+    "Abortion",
+    "Health",
+    "Health--Children's Insurance",
+    "Health--General",
+    "Health--Other Diseases & Medical Conditions",
+    "Hospitals",
+    "Human Services",
+    "Human Services--Medical Assistance",
+    "Insurance",
+    "Insurance--Health & Accident",
+    "Minors",
+    "Minors--Health & Safety",
+    "HEALTH FREEDOM FOR TEXANS ACT",
+    "FAMILY PLANNING & BIRTH CONTROL",
+    "HUMAN TRAFFICKING",
+    "INFORMED CONSENT",
+    "INTERNET",
+    "MEDICINE & PRESCRIPTION DRUGS",
+    "PARENTAL CONSENT",
+    "PHYSICIANS",
+    "PREGNANCY & CHILDBIRTH",
+    "SIGNS",
+    "HEALTH & HUMAN SERVICES COMMISSION",
+    "STATE HEALTH SERVICES, DEPARTMENT OF"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": 1984997,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "S0091",
+  "title": "An act relating to tenant rights",
+  "summary": "An act relating to tenant rights",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/S0091/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/S0091/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/S.91",
+  "sponsors": [
+    "Tanya Vyhovsky (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-26",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-02-26",
+      "action": "Read 1st time & referred to Committee on Economic Development, Housing and General Affairs",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-25",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0091/S-0091%20As%20Introduced.pdf",
+      "doc_id": 3143114
+    }
+  ],
+  "committee": {
+    "committee_id": 796,
+    "chamber": "S",
+    "chamber_id": 96,
+    "name": "Economic Development, Housing and General Affairs"
+  },
+  "subjects": []
+}

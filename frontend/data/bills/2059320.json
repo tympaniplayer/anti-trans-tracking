@@ -1,0 +1,81 @@
+{
+  "id": 2059320,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB5363",
+  "title": "Education: curriculum; parental opt-out option for instruction in sex education; require. Amends sec. 1507 of 1976 PA 451 (MCL 380.1507).",
+  "summary": "Education: curriculum; parental opt-out option for instruction in sex education; require. Amends sec. 1507 of 1976 PA 451 (MCL 380.1507).",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB5363/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB5363/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-5363",
+  "sponsors": [
+    "Jamie Thompson (R) [Rep]",
+    "Gina Johnsen (R) [Rep]",
+    "Matthew Maddock (R) [Rep]",
+    "Gregory Alexander (R) [Rep]",
+    "Jennifer Wortz (R) [Rep]",
+    "Rylee Linting (R) [Rep]",
+    "Tom Kunse (R) [Rep]",
+    "Luke Meerman (R) [Rep]",
+    "Jay DeBoyer (R) [Rep]",
+    "James DeSana (R) [Rep]",
+    "Cam Cavitt (R) [Rep]",
+    "Gregory Markkanen (R) [Rep]",
+    "Douglas Wozniak (R) [Rep]",
+    "Steve Carra (R) [Rep]",
+    "Alicia St. Germaine (R) [Rep]",
+    "Joseph Pavlov (R) [Rep]"
+  ],
+  "introduced_date": "2025-12-16",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-12-16",
+      "action": "Introduced By Representative Rep. Jamie Thompson",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-16",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-16",
+      "action": "Referred To Committee On Education And Workforce",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-17",
+      "action": "Bill Electronically Reproduced 12/16/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-16",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-5363.htm",
+      "doc_id": 3291252
+    }
+  ],
+  "committee": {
+    "committee_id": 5044,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Education And Workforce"
+  },
+  "subjects": [
+    "Education: curriculum"
+  ]
+}

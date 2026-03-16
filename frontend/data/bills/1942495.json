@@ -1,0 +1,57 @@
+{
+  "id": 1942495,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S03453",
+  "title": "Relates to enhancing penalties and protecting victims of crimes of domestic violence.",
+  "summary": "Relates to enhancing penalties and protecting victims of crimes of domestic violence.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S03453/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S03453/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S3453",
+  "sponsors": [
+    "Pamela Helming (R) [Sen]",
+    "Peter Oberacker (R) [Sen]",
+    "Anthony Palumbo (R) [Sen]",
+    "Steven Rhoads (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-27",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-27",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-27",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S03453&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S03453",
+      "doc_id": 3083573
+    }
+  ],
+  "committee": {
+    "committee_id": 417,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Codes"
+  },
+  "subjects": []
+}

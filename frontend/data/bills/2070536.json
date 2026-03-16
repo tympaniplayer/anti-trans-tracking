@@ -1,0 +1,97 @@
+{
+  "id": 2070536,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB264",
+  "title": "Maryland Data Privacy and Protection Act of 2026",
+  "summary": "Limiting the personal information that may be collected, maintained, processed, and retained by units of State government under certain circumstances; requiring certain personal information to be deleted or de-identified under certain circumstances; requiring each unit to post a certain privacy notice on its Internet website and establishing certain requirements for privacy notices and privacy policies; requiring each unit of State government to designate a Privacy Officer; etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB264/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB264/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0264?ys=2026RS",
+  "sponsors": [
+    "Government, Labor, and Elections [Rep]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-10-01",
+      "action": "Pre-filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "First Reading Government, Labor, and Elections",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Hearing 2/10 at 1:00 p.m.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-12",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0264f.pdf",
+      "doc_id": 3305779
+    }
+  ],
+  "committee": {
+    "committee_id": 5240,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Government, Labor, and Elections"
+  },
+  "subjects": [
+    "Cybersecurity",
+    "Administrative Agencies",
+    "Applicants and Applications",
+    "Attorney General",
+    "Biometrics",
+    "Certifications",
+    "Contracts",
+    "Data",
+    "Disabilities",
+    "Electronic Government",
+    "Equipment",
+    "Ethnic Affairs",
+    "Gender",
+    "General Services, Department of",
+    "Genetics",
+    "Health",
+    "Identification",
+    "Immigrants and Citizenship",
+    "Information Technology",
+    "Information Technology, Department of",
+    "Licenses",
+    "Mental and Behavioral Health",
+    "Minors",
+    "Notices",
+    "Personal Identifying Information",
+    "Privacy",
+    "Public Information",
+    "Public Officials",
+    "Racial Matters",
+    "Records",
+    "Religion",
+    "Reports",
+    "Rules and Regulations",
+    "Sexual Orientation",
+    "Standards and Best Practices",
+    "Substance Abuse",
+    "Work, Labor, and Employment"
+  ]
+}

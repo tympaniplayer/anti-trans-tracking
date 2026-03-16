@@ -1,0 +1,144 @@
+{
+  "id": 2024398,
+  "state": "ME",
+  "state_name": "Maine",
+  "bill_number": "LD1704",
+  "title": "An Act to Prohibit a School Administrative Unit from Adopting a Policy That Allows a Student to Use a Restroom Designated for Use by the Opposite Sex",
+  "summary": "An Act to Prohibit a School Administrative Unit from Adopting a Policy That Allows a Student to Use a Restroom Designated for Use by the Opposite Sex",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "education",
+    "bathrooms"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ME/bill/LD1704/2025",
+  "legiscan_url": "https://legiscan.com/ME/bill/LD1704/2025",
+  "state_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1704&snum=132",
+  "sponsors": [
+    "Katrina Smith (R) [Rep]",
+    "Richard Bradstreet (R) [Sen]",
+    "Alicia Collins (R) [Rep]",
+    "Gary Drinkwater (R) [Rep]",
+    "John Eder (R) [Rep]",
+    "Reagan Paul (R) [Rep]",
+    "Michael Soboleski (R) [Rep]"
+  ],
+  "introduced_date": "2025-06-13",
+  "session": "132nd Legislature",
+  "actions": [
+    {
+      "date": "2025-04-17",
+      "action": "Committee on EDUCATION AND CULTURAL AFFAIRS suggested and ordered printed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "On motion of Representative MURPHY of Scarborough, the Bill was REFERRED to the Committee on JUDICIARY.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "The Bill was REFERRED to the Committee on JUDICIARY.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "In concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Work Session Held",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Voted: Divided Report",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "Reported Out: ONTP/OTP-AM",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Reports READ.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "On motion of Representative KUHN of Falmouth, the Majority Ought Not to Pass Report was ACCEPTED.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "ROLL CALL NO. 479 (Yeas 74 - Nays 72 - Absent 3 - Excused 2)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Reports Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "On motion by Senator CARNEY of Cumberland the Majority Ought Not to Pass Report ACCEPTED. in concurrence PREVAILED",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Roll Call Ordered Roll Call Number 547 Yeas 20 - Nays 12 - Excused 3 - Absent 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Placed in Legislative Files (DEAD).",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-13",
+      "description": "Acc Maj Ought Not To Pass Rep RC #479",
+      "yea": 74,
+      "nay": 72,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-13",
+      "description": "Accept Majority Ought Not To Pass Report RC #547",
+      "yea": 20,
+      "nay": 12,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1139&item=1&snum=132",
+      "doc_id": 3213658
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "School Facilities",
+    "Buildings"
+  ]
+}

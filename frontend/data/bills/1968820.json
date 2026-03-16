@@ -1,0 +1,54 @@
+{
+  "id": 1968820,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S04813",
+  "title": "Establishes the crimes of aggravated threat of mass harm in the first degree and aggravated threat of mass harm in the second degree; makes such crimes hate crimes.",
+  "summary": "Establishes the crimes of aggravated threat of mass harm in the first degree and aggravated threat of mass harm in the second degree; makes such crimes hate crimes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S04813/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S04813/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S4813",
+  "sponsors": [
+    "Christopher Ryan (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-13",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-13",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-13",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S04813&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S04813",
+      "doc_id": 3118040
+    }
+  ],
+  "committee": {
+    "committee_id": 417,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Codes"
+  },
+  "subjects": []
+}

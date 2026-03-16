@@ -1,0 +1,188 @@
+{
+  "id": 1909086,
+  "state": "ND",
+  "state_name": "North Dakota",
+  "bill_number": "HB1181",
+  "title": "Gender usage in the North Dakota Century Code.",
+  "summary": "AN ACT to amend and reenact section 1-01-34 of the North Dakota Century Code, relating to gender usage in the North Dakota Century Code.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ND/bill/HB1181/2025",
+  "legiscan_url": "https://legiscan.com/ND/bill/HB1181/2025",
+  "state_url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo1181.html",
+  "sponsors": [
+    "SuAnn Olson (R) [Rep]",
+    "Karen Anderson (R) [Rep]",
+    "Nels Christianson (R) [Rep]",
+    "Donna Henderson (R) [Rep]",
+    "Ben Koppelman (R) [Rep]",
+    "Desiree Morton (R) [Rep]",
+    "Bill Tveit (R) [Rep]",
+    "Jose Castaneda (R) [Sen]",
+    "Desiree Van Oosting (R) [Sen]"
+  ],
+  "introduced_date": "2025-04-24",
+  "session": "69th Legislative Assembly",
+  "actions": [
+    {
+      "date": "2025-01-07",
+      "action": "Introduced, first reading, referred to Human Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Committee Hearing 09:00 (Human Services)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Reported back amended, do pass, amendment placed on calendar 11 2 0",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Amendment adopted, placed on calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Second reading, passed, yeas 74 nays 13",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-21",
+      "action": "Received from House",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Introduced, first reading, referred to Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Committee Hearing 09:00 (Education)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Reported back amended, do pass, amendment placed on calendar 5 1 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Amendment adopted, placed on calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Second reading, passed as amended, yeas 41 nays 6",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Returned to House (12)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Second reading, passed, yeas 79 nays 11",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-21",
+      "action": "Signed by President",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Signed by Speaker",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Sent to Governor",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Signed by Governor 04/23",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-25",
+      "action": "Filed with Secretary Of State 04/23",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-20",
+      "description": "House Second reading",
+      "yea": 74,
+      "nay": 13,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-10",
+      "description": "Senate Second reading",
+      "yea": 41,
+      "nay": 6,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-17",
+      "description": "House Second reading",
+      "yea": 79,
+      "nay": 11,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-09",
+      "type": "Introduced",
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0497-01000.pdf",
+      "doc_id": 3046034
+    },
+    {
+      "date": "2025-02-18",
+      "type": "Engrossed",
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0497-02000.pdf",
+      "doc_id": 3128434
+    },
+    {
+      "date": "2025-04-09",
+      "type": "Comm Sub",
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0497-02001m.pdf",
+      "doc_id": 3206541
+    },
+    {
+      "date": "2025-04-09",
+      "type": "Amended",
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0497-03000.pdf",
+      "doc_id": 3206542
+    },
+    {
+      "date": "2025-04-21",
+      "type": "Enrolled",
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0497-04000.pdf",
+      "doc_id": 3217126
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,92 @@
+{
+  "id": 1970675,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S04908",
+  "title": "Relates to the creation of an innovative housing initiative for persons with a developmental disability who wish and are able to safely reside in such a setting; directs the division of housing and community renewal to establish guidelines for the dissemination of disclosure materials for the offer and sale of interests in residential environments formed under the innovative housing initiative; creates an exemption from certain filing requirements for residential environments that are formed as cooperative interests in realty for persons receiving services under the innovative housing initiative.",
+  "summary": "Relates to the creation of an innovative housing initiative for persons with a developmental disability who wish and are able to safely reside in such a setting; directs the division of housing and community renewal to establish guidelines for the dissemination of disclosure materials for the offer and sale of interests in residential environments formed under the innovative housing initiative; creates an exemption from certain filing requirements for residential environments that are formed as cooperative interests in realty for persons receiving services under the innovative housing initiative.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "religious_exemptions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S04908/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S04908/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S4908",
+  "sponsors": [
+    "Patricia Fahy (D) [Sen]",
+    "Joseph Addabbo (D) [Sen]",
+    "Jacob Ashby (R) [Sen]",
+    "Cordell Cleare (D) [Sen]",
+    "Kristen Gonzalez (D) [Sen]",
+    "Shelley Mayer (D) [Sen]",
+    "Anthony Palumbo (R) [Sen]",
+    "Steven Rhoads (R) [Sen]",
+    "Christopher Ryan (D) [Sen]",
+    "James Skoufis (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-14",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-14",
+      "action": "REFERRED TO DISABILITIES",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "AMEND (T) AND RECOMMIT TO DISABILITIES",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "PRINT NUMBER 4908A",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "REPORTED AND COMMITTED TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO DISABILITIES",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-29",
+      "description": "Senate Disabilities Committee Vote",
+      "yea": 6,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-14",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S04908&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S04908",
+      "doc_id": 3120855
+    },
+    {
+      "date": "2025-02-14",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S04908&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S04908A",
+      "doc_id": 3214650
+    }
+  ],
+  "committee": {
+    "committee_id": 4465,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Disabilities"
+  },
+  "subjects": []
+}

@@ -1,0 +1,102 @@
+{
+  "id": 2015234,
+  "state": "NC",
+  "state_name": "North Carolina",
+  "bill_number": "H538",
+  "title": "Equality for All",
+  "summary": "Equality for All",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NC/bill/H538/2025",
+  "legiscan_url": "https://legiscan.com/NC/bill/H538/2025",
+  "state_url": "https://www.ncleg.gov/BillLookUp/2025/H538",
+  "sponsors": [
+    "Allison Dahle (D) [Rep]",
+    "Deb Butler (D) [Rep]",
+    "Mary Harrison (D) [Rep]",
+    "Eric Ager (D) [Rep]",
+    "Cynthia Ball (D) [Rep]",
+    "Mary Belk (D) [Rep]",
+    "Maria Cervania (D) [Rep]",
+    "Aisha Dew (D) [Rep]",
+    "Marcia Morey (D) [Rep]",
+    "Lindsey Prather (D) [Rep]",
+    "Julie von Haefen (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-26",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-03-26",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Passed 1st Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Ref To Com On Rules, Calendar, and Operations of the House",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-26",
+      "type": "Introduced",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H538v0.pdf",
+      "doc_id": 3190104
+    },
+    {
+      "date": "2025-03-27",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H538v1.pdf",
+      "doc_id": 3191708
+    }
+  ],
+  "committee": {
+    "committee_id": 673,
+    "chamber": "H",
+    "chamber_id": 75,
+    "name": "Rules, Calendar, and Operations of the House"
+  },
+  "subjects": [
+    "Aging",
+    "Armed Forces",
+    "Biotechnology",
+    "Charter Schools",
+    "Courts",
+    "Disabled Persons",
+    "Discrimination",
+    "Education",
+    "Elementary Education",
+    "Employment",
+    "Financial Services",
+    "Genetics",
+    "Lgbtq & Gender Issues",
+    "Housing",
+    "Insurance",
+    "Juries",
+    "Local Government",
+    "Minorities",
+    "Personnel",
+    "Public",
+    "Stem",
+    "Secondary Education",
+    "Social Services",
+    "Tribes & Tribal Government",
+    "Veterans",
+    "Women"
+  ]
+}

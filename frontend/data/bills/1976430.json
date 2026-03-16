@@ -1,0 +1,249 @@
+{
+  "id": 1976430,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB843",
+  "title": "Health care coverage: language access.",
+  "summary": "An act to amend Sections 1367.04, 1367.041, 1367.042, and 1367.07 of, and to add Section 1367.071 to, the Health and Safety Code, and to amend Sections 10133.8, 10133.9, 10133.10, and 10133.11 of, and to add Section 10133.91 to, the Insurance Code, relating to health care coverage.",
+  "status": "vetoed",
+  "status_label": "Vetoed",
+  "status_code": 5,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB843/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB843/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB843",
+  "sponsors": [
+    "Robert Garcia (D) [Rep]"
+  ],
+  "introduced_date": "2025-10-01",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-19",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "From printer. May be heard in committee March 22.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Referred to Com. on HEALTH.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 13. Noes 0.) (March 25). Re-referred to Com. on APPR.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "In committee: Hearing postponed by committee.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "In committee: Set, first hearing. Referred to suspense file.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "From committee: Do pass. (Ayes 12. Noes 0.) (May 23).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Read third time. Passed. Ordered to the Senate. (Ayes 66. Noes 1. Page 1857.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-11",
+      "action": "Referred to Coms. on HEALTH and JUD.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-03",
+      "action": "From committee: Amend, and do pass as amended and re-refer to Com. on JUD. (Ayes 11. Noes 0.) (July 2).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-07",
+      "action": "Read second time and amended. Re-referred to Com. on JUD.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-08",
+      "action": "Withdrawn from committee.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-08",
+      "action": "Re-referred to Com. on APPR.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-18",
+      "action": "In committee: Referred to suspense file.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-29",
+      "action": "From committee: Do pass. (Ayes 5. Noes 0.) (August 29).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-29",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-05",
+      "action": "Read third time and amended. Ordered to second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-08",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-09",
+      "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 34. Noes 1. Page 2656.).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-09",
+      "action": "In Assembly. Concurrence in Senate amendments pending.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-10",
+      "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 66. Noes 1. Page 3228.).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-22",
+      "action": "Enrolled and presented to the Governor at 3 p.m.",
+      "chamber": ""
+    },
+    {
+      "date": "2025-10-01",
+      "action": "Vetoed by Governor.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-10-01",
+      "action": "Consideration of Governor's veto pending.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Consideration of Governor's veto stricken from file.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-25",
+      "description": "Do pass and be re-referred to the Committee on [Appropriations]",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-23",
+      "description": "Do pass",
+      "yea": 12,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-02",
+      "description": "AB 843 Garcia Assembly Third Reading",
+      "yea": 66,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-02",
+      "description": "Do pass as amended, but first amend, and re-refer to the Committee on [Judiciary]",
+      "yea": 11,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-08-18",
+      "description": "Placed on suspense file",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-08-29",
+      "description": "Do pass",
+      "yea": 5,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-09",
+      "description": "Assembly 3rd Reading AB843 Garcia By Menjivar",
+      "yea": 34,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-10",
+      "description": "AB 843 Garcia Concurrence in Senate Amendments",
+      "yea": 66,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-19",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB843#99INT",
+      "doc_id": 3131861
+    },
+    {
+      "date": "2025-07-07",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB843#98AMD",
+      "doc_id": 3260731
+    },
+    {
+      "date": "2025-09-05",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB843#97AMD",
+      "doc_id": 3267906
+    },
+    {
+      "date": "2025-09-12",
+      "type": "Enrolled",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB843#96ENR",
+      "doc_id": 3269102
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

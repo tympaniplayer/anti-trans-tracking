@@ -1,0 +1,173 @@
+{
+  "id": 2111278,
+  "state": "CO",
+  "state_name": "Colorado",
+  "bill_number": "HB1151",
+  "title": "Department of Corrections Supplemental",
+  "summary": "Concerning a supplemental appropriation to the department of corrections.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CO/bill/HB1151/2026",
+  "legiscan_url": "https://legiscan.com/CO/bill/HB1151/2026",
+  "state_url": "https://leg.colorado.gov/bills/HB26-1151",
+  "sponsors": [
+    "Emily Sirota (D) [Rep]",
+    "Jeff Bridges (D) [Sen]",
+    "Kyle Brown (D) [Rep]",
+    "Rick Taggart (R) [Rep]",
+    "Judith Amabile (D) [Sen]",
+    "Barbara Kirkmeyer (R) [Sen]",
+    "Sean Camacho (D) [Rep]",
+    "Monica Duran (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-27",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "action": "Introduced In House - Assigned to Appropriations",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "House Committee on Appropriations Refer Unamended to House Committee of the Whole",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "House Second Reading Special Order - Passed - No Amendments",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "House Third Reading Passed - No Amendments",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Introduced In Senate - Assigned to Appropriations",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Senate Committee on Appropriations Refer Unamended to Senate Committee of the Whole",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Senate Second Reading Special Order - Passed - No Amendments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Senate Third Reading Passed - No Amendments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Signed by the Speaker of the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Signed by the President of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Sent to the Governor",
+      "chamber": ""
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Governor Signed",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-10",
+      "description": "House Appropriations: Refer House Bill 26-1151 to the Committee of the Whole.",
+      "yea": 8,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-12",
+      "description": "House: Third Reading Bill",
+      "yea": 46,
+      "nay": 17,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-18",
+      "description": "Senate Appropriations: Refer House Bill 26-1151 to the Committee of the Whole.",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-20",
+      "description": "Senate: Third Reading Bill",
+      "yea": 32,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "1969-12-31",
+      "type": "Introduced",
+      "url": "https://leg.colorado.gov/bill_files/111468/download",
+      "doc_id": 3352300
+    },
+    {
+      "date": "1969-12-31",
+      "type": "Engrossed",
+      "url": "https://leg.colorado.gov/bill_files/111747/download",
+      "doc_id": 3359207
+    },
+    {
+      "date": "1969-12-31",
+      "type": "Engrossed",
+      "url": "https://leg.colorado.gov/bill_files/111882/download",
+      "doc_id": 3360596
+    },
+    {
+      "date": "1969-12-31",
+      "type": "Amended",
+      "url": "https://leg.colorado.gov/bill_files/112274/download",
+      "doc_id": 3368547
+    },
+    {
+      "date": "1969-12-31",
+      "type": "Amended",
+      "url": "https://leg.colorado.gov/bill_files/112431/download",
+      "doc_id": 3370297
+    },
+    {
+      "date": "1969-12-31",
+      "type": "Enrolled",
+      "url": "https://leg.colorado.gov/bill_files/112596/download",
+      "doc_id": 3375899
+    },
+    {
+      "date": "1969-12-31",
+      "type": "Chaptered",
+      "url": "https://leg.colorado.gov/bill_files/112721/download",
+      "doc_id": 3385321
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "State Revenue & Budget"
+  ]
+}

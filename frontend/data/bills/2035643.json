@@ -1,0 +1,70 @@
+{
+  "id": 2035643,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB1957",
+  "title": "No Place for LGBTQ+ Hate Act",
+  "summary": "A bill to repeal certain executive orders targeting LGBTQI+ individuals.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB1957/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB1957/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1957/all-info",
+  "sponsors": [
+    "Jeff Merkley (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Michael Bennet (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Andy Kim (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Christopher Murphy (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Kirsten Gillibrand (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-04",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-04",
+      "action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-09",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s1957/BILLS-119s1957is.pdf",
+      "doc_id": 3253631
+    }
+  ],
+  "committee": {
+    "committee_id": 2329,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Homeland Security And Governmental Affairs"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

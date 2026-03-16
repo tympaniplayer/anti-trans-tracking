@@ -1,0 +1,56 @@
+{
+  "id": 1900607,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A00257",
+  "title": "Restricts the disclosure of personal information by businesses; provides that a business that retains a customer's personal information shall make available to the customer free of charge access to, or copies of, all of the customer's personal information retained by the business.",
+  "summary": "Restricts the disclosure of personal information by businesses; provides that a business that retains a customer's personal information shall make available to the customer free of charge access to, or copies of, all of the customer's personal information retained by the business.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A00257/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A00257/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A257",
+  "sponsors": [
+    "Nily Rozic (D) [Rep]",
+    "Jeffrey Dinowitz (D) [Rep]",
+    "David Weprin (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-08",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "referred to consumer affairs and protection",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to consumer affairs and protection",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A00257&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A00257",
+      "doc_id": 3037146
+    }
+  ],
+  "committee": {
+    "committee_id": 358,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Consumer Affairs and Protection"
+  },
+  "subjects": []
+}

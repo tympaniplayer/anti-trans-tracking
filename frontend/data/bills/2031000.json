@@ -1,0 +1,74 @@
+{
+  "id": 2031000,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A08396",
+  "title": "Enacts the student suicide prevention act; requires the governing board or body of every local educational agency serving students in grades seven to twelve, to adopt policies, procedures and guidelines on student suicide prevention, intervention and postvention for students in such grades.",
+  "summary": "Enacts the student suicide prevention act; requires the governing board or body of every local educational agency serving students in grades seven to twelve, to adopt policies, procedures and guidelines on student suicide prevention, intervention and postvention for students in such grades.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A08396/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A08396/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A8396",
+  "sponsors": [
+    "Carrie Woerner (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Nily Rozic (D) [Rep]",
+    "Maryjane Shimsky (D) [Rep]",
+    "Emerita Torres (D) [Rep]"
+  ],
+  "introduced_date": "2025-05-13",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-13",
+      "action": "referred to education",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to education",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "amend and recommit to education",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "print number 8396a",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-13",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08396&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08396",
+      "doc_id": 3236269
+    },
+    {
+      "date": "2025-05-13",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08396&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08396A",
+      "doc_id": 3352715
+    }
+  ],
+  "committee": {
+    "committee_id": 362,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Education"
+  },
+  "subjects": []
+}

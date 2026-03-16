@@ -1,0 +1,135 @@
+{
+  "id": 1950031,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB2381",
+  "title": "SCH CD-SCH BD-LGBTQ+ TRAINING",
+  "summary": "Amends the School Boards Article of the School Code. Includes LGBTQ+ inclusivity in the topics covered in the required 4-hour training for every voting member of a school board of a school district. Lists information that must be included in the LGBTQ+ inclusivity training. Requires the State Board of Education to develop a training program in collaboration with individuals or organizations that affirm LGBTQ+ people and have recognized expertise in supporting LGBTQ+ young people or adopt a training program previously developed by such individuals or organizations.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB2381/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB2381/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2381&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Laura Faver Dias (D) [Rep]",
+    "Marcus Evans (D) [Rep]",
+    "Maura Hirschauer (D) [Rep]",
+    "Lilian Jimenez (D) [Rep]",
+    "Joyce Mason (D) [Rep]",
+    "Yolanda Morris (D) [Rep]",
+    "Kelly Cassidy (D) [Rep]",
+    "Janet Yang Rohr (D) [Rep]",
+    "Kevin Olickal (D) [Rep]",
+    "Nabeela Syed (D) [Rep]",
+    "Anne Stava-Murray (D) [Rep]",
+    "Maurice West (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-31",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-31",
+      "action": "Filed with the Clerk by Rep. Laura Faver Dias",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Assigned to Education Policy Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Added Co-Sponsor Rep. Marcus C. Evans, Jr.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Added Co-Sponsor Rep. Maura Hirschauer",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Added Co-Sponsor Rep. Lilian Jim\u00e9nez",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Added Co-Sponsor Rep. Joyce Mason",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Added Co-Sponsor Rep. Yolonda Morris",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Added Co-Sponsor Rep. Kelly M. Cassidy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Added Co-Sponsor Rep. Janet Yang Rohr",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Added Co-Sponsor Rep. Kevin John Olickal",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Added Co-Sponsor Rep. Nabeela Syed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Added Co-Sponsor Rep. Anne Stava",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Added Co-Sponsor Rep. Maurice A. West, II",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Rule 19(a) / Re-referred to Rules Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-31",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=199883&DocName=10400HB2381&DocNum=2381&DocTypeID=HB&LegID=160095&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3093187
+    }
+  ],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
+  "subjects": []
+}

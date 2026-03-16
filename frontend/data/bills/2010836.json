@@ -1,0 +1,129 @@
+{
+  "id": 2010836,
+  "state": "NC",
+  "state_name": "North Carolina",
+  "bill_number": "H462",
+  "title": "Personal Data Privacy/Social Media Safety",
+  "summary": "Personal Data Privacy/Social Media Safety",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NC/bill/H462/2025",
+  "legiscan_url": "https://legiscan.com/NC/bill/H462/2025",
+  "state_url": "https://www.ncleg.gov/BillLookUp/2025/H462",
+  "sponsors": [
+    "Terry Brown (D) [Rep]",
+    "Allen Chesser (R) [Rep]",
+    "Neal Jackson (R) [Rep]",
+    "Tim Longest (D) [Rep]",
+    "Eric Ager (D) [Rep]",
+    "Vernetta Alston (D) [Rep]",
+    "Amber Baker (D) [Rep]",
+    "Cynthia Ball (D) [Rep]",
+    "Mary Belk (D) [Rep]",
+    "Gloristine Brown (D) [Rep]",
+    "Tracy Clark (D) [Rep]",
+    "Mike Colvin (D) [Rep]",
+    "Carla Cunningham (D) [Rep]",
+    "Allison Dahle (D) [Rep]",
+    "Mary Harrison (D) [Rep]",
+    "Zack Forde-Hawkins (D) [Rep]",
+    "Frances Jackson (D) [Rep]",
+    "Monika Johnson-Hostler (D) [Rep]",
+    "Carolyn Logan (D) [Rep]",
+    "Jordan Lopez (D) [Rep]",
+    "Nasif Majeed (D) [Rep]",
+    "Ray Pickett (R) [Rep]",
+    "Garland Pierce (D) [Rep]",
+    "Lindsey Prather (D) [Rep]",
+    "James Roberson (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-19",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-03-19",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Passed 1st Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Ref to the Com on Judiciary 2, if favorable, Commerce and Economic Development, if favorable, Rules, Calendar, and Operations of the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Withdrawn From Com",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Re-ref to the Com on Judiciary 3, if favorable, Commerce and Economic Development, if favorable, Rules, Calendar, and Operations of the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Reptd Fav Com Substitute",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Re-ref Com On Commerce and Economic Development",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-19",
+      "type": "Introduced",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H462v0.pdf",
+      "doc_id": 3181074
+    },
+    {
+      "date": "2025-03-20",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H462v1.pdf",
+      "doc_id": 3182737
+    },
+    {
+      "date": "2025-04-29",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H462v2.pdf",
+      "doc_id": 3224121
+    }
+  ],
+  "committee": {
+    "committee_id": 5098,
+    "chamber": "H",
+    "chamber_id": 75,
+    "name": "Commerce and Economic Development"
+  },
+  "subjects": [
+    "Commerce",
+    "Consumer Protection",
+    "Data & Records Systems",
+    "Id Systems",
+    "Information Technology",
+    "Internet",
+    "Media",
+    "Minors",
+    "Privacy",
+    "Public",
+    "Teleservices",
+    "Records",
+    "Social Media"
+  ]
+}

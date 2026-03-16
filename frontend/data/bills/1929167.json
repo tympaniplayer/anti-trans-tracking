@@ -1,0 +1,66 @@
+{
+  "id": 1929167,
+  "state": "GA",
+  "state_name": "Georgia",
+  "bill_number": "HB104",
+  "title": "Equal Athletic Opportunities Act; enact",
+  "summary": "A BILL to be entitled an Act to amend Article 6 of Chapter 2 of Title 20 of the Official Code of Georgia Annotated, the \"Quality Basic Education Act,\" so as to enact the \"Equal Athletic Opportunities Act\"; to provide generally for student participation in interscholastic athletic activities and events; to generally prohibit discrimination on the basis of sex in such activities and events; to promote fair and safe competition; to provide for the use of student eligibility rules, standards, and classifications; to provide for exceptions to general provisions; to provide for specific designations; to prohibit male students from participating in athletic activities and events designated for female students and vice versa; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "education",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/GA/bill/HB104/2025",
+  "legiscan_url": "https://legiscan.com/GA/bill/HB104/2025",
+  "state_url": "https://www.legis.ga.gov/legislation/69456",
+  "sponsors": [
+    "Brent Cox (R) [Rep]",
+    "Rick Jasperse (R) [Rep]",
+    "Carter Barrett (R) [Rep]",
+    "Charles Cannon (R) [Rep]",
+    "Chris Erwin (R) [Rep]",
+    "Mitchell Horner (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-17",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-17",
+      "action": "House Hopper",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-27",
+      "action": "House First Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "House Second Readers",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-18",
+      "type": "Introduced",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230199",
+      "doc_id": 3066509
+    }
+  ],
+  "committee": {
+    "committee_id": 574,
+    "chamber": "H",
+    "chamber_id": 29,
+    "name": "Education"
+  },
+  "subjects": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": 2090020,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB4544",
+  "title": "ALGORITHMIC PRICING",
+  "summary": "Creates the Preventing Algorithmic Pricing Discrimination Act. Requires any person who knowingly advertises, promotes, labels, or publishes a statement, display, image, offer, or announcement of personalized algorithmic pricing using consumer data specific to a particular individual must disclose that this price was set by an algorithm using the individual's personal data. Prohibits the use of algorithmic pricing under certain conditions. Provides that if there is a violation of the Act, the Attorney General may file a civil action requesting that an injunction be issued against the defendant to enjoin and restrain the continuance of the violation. Provides that notice must be given to the defendant of not less than 5 days, and the court may issue an injunction enjoining and restraining any further violation without requiring proof that any person has, in fact, been injured or damaged. Authorizes the court to impose a civil penalty of not more than $1,000 for each violation. Exempts any insurer licensed, regulated, or otherwise authorized to do business in the State or any excess lines insurer, including any persons, agents, or affiliates acting on behalf of the insurer. Exempts financial services, including, but not limited to, financial institutions, financial institution affiliates, broker-dealers, registered investment advisors, and entities that provide consumer credit products such as credit cards, personal loans, and mortgages. Amends the Consumer Fraud and Deceptive Business Practices Act. Makes a violation of the Preventing Algorithmic Pricing Discrimination Act an unlawful practice under the Consumer Fraud and Deceptive Business Practices Act. Defines terms. Limits home rule.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB4544/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB4544/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4544&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Eva Dina Delgado (D) [Rep]",
+    "Michael Crawford (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-22",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-22",
+      "action": "Filed with the Clerk by Rep. Eva-Dina Delgado",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Added Co-Sponsor Rep. Michael Crawford",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-22",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=206729&DocName=10400HB4544&DocNum=4544&DocTypeID=HB&LegID=165382&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3328023
+    }
+  ],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
+  "subjects": []
+}

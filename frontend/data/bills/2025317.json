@@ -1,0 +1,62 @@
+{
+  "id": 2025317,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "SB646",
+  "title": "In additional special funds and restricted accounts, establishing the Survivor-Centered, Accessible, Fair and Empowering Housing Trust Fund; and making an interfund transfer.",
+  "summary": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in additional special funds and restricted accounts, establishing the Survivor-Centered, Accessible, Fair and Empowering Housing Trust Fund; and making an interfund transfer.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/SB646/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/SB646/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/sb646",
+  "sponsors": [
+    "Vincent Hughes (D) [Sen]",
+    "Nikil Saval (D) [Sen]",
+    "Steven Santarsiero (D) [Sen]",
+    "Christine Tartaglione (D) [Sen]",
+    "Wayne Fontana (D) [Sen]",
+    "Arthur Haywood (D) [Sen]",
+    "Carolyn Comitta (D) [Sen]",
+    "Jay Costa (D) [Sen]",
+    "Amanda Cappelletti (D) [Sen]",
+    "Sharif Street (D) [Sen]",
+    "Judy Schwank (D) [Sen]",
+    "John Kane (D) [Sen]",
+    "Katie Muth (D) [Sen]",
+    "Maria Collett (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-21",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-04-21",
+      "action": "Referred to Urban Affairs & Housing",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB0646/PN0658",
+      "doc_id": 3216675
+    }
+  ],
+  "committee": {
+    "committee_id": 86,
+    "chamber": "S",
+    "chamber_id": 4,
+    "name": "Urban Affairs & Housing"
+  },
+  "subjects": []
+}

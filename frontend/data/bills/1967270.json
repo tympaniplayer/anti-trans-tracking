@@ -1,0 +1,54 @@
+{
+  "id": 1967270,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB599",
+  "title": "In assault, providing for the offense of masked intimidation; and imposing penalties.",
+  "summary": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in assault, providing for the offense of masked intimidation; and imposing penalties.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB599/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB599/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb599",
+  "sponsors": [
+    "Seth Grove (R) [Rep]",
+    "Robert Kauffman (R) [Rep]",
+    "Brian Smith (R) [Rep]",
+    "Andrew Kuzma (R) [Rep]",
+    "Milou Mackenzie (R) [Rep]",
+    "Ryan Warner (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-12",
+      "action": "Referred to Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB0599/PN0607",
+      "doc_id": 3118735
+    }
+  ],
+  "committee": {
+    "committee_id": 53,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

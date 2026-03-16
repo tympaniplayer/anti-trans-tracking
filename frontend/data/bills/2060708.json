@@ -1,0 +1,62 @@
+{
+  "id": 2060708,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB2181",
+  "title": "Paying for response activities for the December 2025 significant atmospheric river and winter event.",
+  "summary": "Paying for response activities for the December 2025 significant atmospheric river and winter event.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB2181/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB2181/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=2181&Year=2025&Initiative=false",
+  "sponsors": [
+    "Andrew Barkis (R) [Rep]",
+    "Sam Low (R) [Rep]",
+    "John Ley (R) [Rep]",
+    "Suzanne Schmidt (R) [Rep]",
+    "April Connors (R) [Rep]",
+    "Mark Klicker (R) [Rep]",
+    "Sharon Wylie (D) [Rep]",
+    "Kristine Reeves (D) [Rep]",
+    "Matt Marshall (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-22",
+      "action": "Prefiled for introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "First reading, referred to Appropriations.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2181.pdf",
+      "doc_id": 3293108
+    }
+  ],
+  "committee": {
+    "committee_id": 2759,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Appropriations"
+  },
+  "subjects": []
+}

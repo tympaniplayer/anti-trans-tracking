@@ -1,0 +1,49 @@
+{
+  "id": 2103724,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A10111",
+  "title": "Allows certain tenants to submit emergency housing transfer requests to the appropriate public housing agency; provides for support for survivors of domestic violence; provides for the creation of a centralized emergency housing transfer platform; makes related provisions.",
+  "summary": "Allows certain tenants to submit emergency housing transfer requests to the appropriate public housing agency; provides for support for survivors of domestic violence; provides for the creation of a centralized emergency housing transfer platform; makes related provisions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A10111/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A10111/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A10111",
+  "sponsors": [
+    "Yudelka Tapia (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "referred to housing",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-02",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A10111&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A10111",
+      "doc_id": 3344259
+    }
+  ],
+  "committee": {
+    "committee_id": 371,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Housing"
+  },
+  "subjects": []
+}

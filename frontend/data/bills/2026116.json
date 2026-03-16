@@ -1,0 +1,95 @@
+{
+  "id": 2026116,
+  "state": "ME",
+  "state_name": "Maine",
+  "bill_number": "LD1772",
+  "title": "An Act to Implement the Recommendations of the Blue Ribbon Commission to Design a Plan for Sustained Investment in Preventing Disease and Improving the Health of Maine Communities",
+  "summary": "An Act to Implement the Recommendations of the Blue Ribbon Commission to Design a Plan for Sustained Investment in Preventing Disease and Improving the Health of Maine Communities",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ME/bill/LD1772/2025",
+  "legiscan_url": "https://legiscan.com/ME/bill/LD1772/2025",
+  "state_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1772&snum=132",
+  "sponsors": [
+    "Richard Bennett (R) [Sen]",
+    "John Ducharme (R) [Rep]",
+    "Anne Graham (D) [Rep]",
+    "Margaret Rotundo (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-24",
+  "session": "132nd Legislature",
+  "actions": [
+    {
+      "date": "2025-04-24",
+      "action": "Committee on HEALTH AND HUMAN SERVICES suggested and ordered printed REFERENCE to the Committee on HEALTH AND HUMAN SERVICES Ordered sent down forthwith for concurrence",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "The Bill was REFERRED to the Committee on HEALTH AND HUMAN SERVICES.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "In concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Work Session Held: TABLED",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Carry Over Requested",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-05-19",
+      "action": "Carry Over Approved",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-25",
+      "action": "CARRIED OVER, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Work Session Held",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Voted: OTP-AM",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Reported Out: OTP-AM",
+      "chamber": "J"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0690&item=1&snum=132",
+      "doc_id": 3219405
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Public Health",
+    "Disease Control"
+  ]
+}

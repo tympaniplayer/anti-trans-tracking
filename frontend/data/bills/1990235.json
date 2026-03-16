@@ -1,0 +1,81 @@
+{
+  "id": 1990235,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SJR8204",
+  "title": "Amending the Constitution to address reproductive freedom and gender-affirming care.",
+  "summary": "Amending the Constitution to address reproductive freedom and gender-affirming care.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SJR8204/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SJR8204/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=8204&Year=2025&Initiative=false",
+  "sponsors": [
+    "Vandana Slatter (D) [Sen]",
+    "Deborah Krishnadasan (D) [Sen]",
+    "Annette Cleveland (D) [Sen]",
+    "Manka Dhingra (D) [Sen]",
+    "Rebecca Saldana (D) [Sen]",
+    "Emily Alvarado (D) [Sen]",
+    "Javier Valdez (D) [Sen]",
+    "Jamie Pedersen (D) [Sen]",
+    "Jesse Salomon (D) [Sen]",
+    "Adrian Cortes (D) [Sen]",
+    "Tina Orwall (D) [Sen]",
+    "Steven Conway (D) [Sen]",
+    "Liz Lovelett (D) [Sen]",
+    "T'wina Nobles (D) [Sen]",
+    "Sharon Shewmake (D) [Sen]",
+    "John Lovick (D) [Sen]",
+    "Marcus Riccelli (D) [Sen]",
+    "Bill Ramos (D) [Sen]",
+    "Robert Hasegawa (D) [Sen]",
+    "Noel Frame (D) [Sen]",
+    "Marko Liias (D) [Sen]",
+    "Claire Wilson (D) [Sen]",
+    "Derek Stanford (D) [Sen]",
+    "Claudia Kauffman (D) [Sen]",
+    "June Robinson (D) [Sen]",
+    "Jessica Bateman (D) [Sen]",
+    "Mike Chapman (D) [Sen]",
+    "Yasmin Trudeau (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-04",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-04",
+      "action": "First reading, referred to Health & Long-Term Care.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Joint%20Resolutions/8204.pdf",
+      "doc_id": 3150702
+    }
+  ],
+  "committee": {
+    "committee_id": 954,
+    "chamber": "S",
+    "chamber_id": 98,
+    "name": "Health & Long-term Care"
+  },
+  "subjects": []
+}

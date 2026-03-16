@@ -1,0 +1,107 @@
+{
+  "id": 2091101,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB2540",
+  "title": "Relating To Youth Penalties.",
+  "summary": "Prohibits the assessment of any fees, fines, or court costs against a person who was adjudicated for an offense committed during the person's minority, or against the person's parent or guardian, and discharges all related debt obligations assessed before the effective date of the Act. Encourages the use of community service and other programs that employ aina-based principles. Repeals certain penalties imposed on parents, guardians, or other persons associated with unaccompanied children in streets and unmarried minors in dance halls. Effective 7/1/2027. (SD1)",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB2540/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB2540/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2540&year=2026",
+  "sponsors": [
+    "Ronald Kouchi (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Referred to HHS, JDC.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "The committee(s) on HHS has scheduled a public hearing on 02-11-26 1:00PM; Conference Room 225 &amp; Videoconference.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "The committee(s) on HHS deferred the measure until 02-13-26 1:05PM; Conference Room 225 &amp; Videoconference.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "The committee(s) on HHS recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in HHS were as follows: 5 Aye(s): Senator(s) San Buenaventura, McKelvey, Kanuha, Keohokalole, Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Reported from HHS (Stand. Com. Rep. No. 2353) with recommendation of passage on Second Reading, as amended (SD 1) and referral to JDC.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to JDC.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-13",
+      "description": "Senate Health and Human Services: Passed, With Amendments",
+      "yea": 5,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-22",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB2540_.HTM",
+      "doc_id": 3329295
+    },
+    {
+      "date": "2026-02-17",
+      "type": "Amended",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB2540_SD1_.HTM",
+      "doc_id": 3365668
+    }
+  ],
+  "committee": {
+    "committee_id": 3756,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Juvenile Justice",
+    "Minors",
+    "Fees",
+    "Fines",
+    "Court Costs",
+    "Penalties",
+    "Prohibited",
+    "Community Service"
+  ]
+}

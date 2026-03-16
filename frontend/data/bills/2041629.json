@@ -1,0 +1,62 @@
+{
+  "id": 2041629,
+  "state": "AL",
+  "state_name": "Alabama",
+  "bill_number": "HB23",
+  "title": "Public preK-12 education; discussions of gender identity prohibited, employees prohibited from displaying flags or insignia relating to sexual orientation or gender identity and from referring to students by pronouns inconsistent with student's biological sex",
+  "summary": "Public preK-12 education; discussions of gender identity prohibited, employees prohibited from displaying flags or insignia relating to sexual orientation or gender identity and from referring to students by pronouns inconsistent with student's biological sex",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AL/bill/HB23/2026",
+  "legiscan_url": "https://legiscan.com/AL/bill/HB23/2026",
+  "state_url": "https://alison.legislature.state.al.us/bill-search",
+  "sponsors": [
+    "Mack Butler (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-08-11",
+      "action": "Prefiled",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Read for the first time and referred to the House Committee on Education Policy",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Pending House Education Policy",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-08-11",
+      "type": "Introduced",
+      "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/HB23-int.pdf",
+      "doc_id": 3264696
+    }
+  ],
+  "committee": {
+    "committee_id": 971,
+    "chamber": "H",
+    "chamber_id": 11,
+    "name": "Education Policy"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

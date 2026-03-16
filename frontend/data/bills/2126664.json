@@ -1,0 +1,54 @@
+{
+  "id": 2126664,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "H8182",
+  "title": "Requires Medicaid to provide coverage for fertility medication, care, and services, for at least 3 cycles of fertility treatment, and intrauterine insemination.",
+  "summary": "STATE AFFAIRS AND GOVERNMENT -- THE RHODE ISLAND MEDICAID REFORM ACT OF 2008 - Requires Medicaid to provide coverage for fertility medication, care, and services, for at least 3 cycles of fertility treatment, and intrauterine insemination.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/H8182/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/H8182/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Karen Alzate (D) [Rep]",
+    "Julie Casimiro (D) [Rep]",
+    "Jennifer Stewart (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-27",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "action": "Introduced, referred to House Finance",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-27",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H8182.pdf",
+      "doc_id": 3380610
+    }
+  ],
+  "committee": {
+    "committee_id": 1119,
+    "chamber": "H",
+    "chamber_id": 83,
+    "name": "Finance"
+  },
+  "subjects": [
+    "State Affairs And Government",
+    "STATE AFFAIRS AND GOVERNMENT -- THE RHODE ISLAND MEDICAID REFORM ACT OF 2008"
+  ]
+}

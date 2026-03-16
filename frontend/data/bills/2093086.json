@@ -1,0 +1,63 @@
+{
+  "id": 2093086,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB3023",
+  "title": "Relating To Preferred Names.",
+  "summary": "Requires the Department of Education to implement a process to allow students to use preferred names to strengthen inclusivity in public schools.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB3023/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB3023/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3023&year=2026",
+  "sponsors": [
+    "Chris Lee (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "Referred to EDU, WAM.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-24",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB3023_.HTM",
+      "doc_id": 3331716
+    }
+  ],
+  "committee": {
+    "committee_id": 2056,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Education"
+  },
+  "subjects": [
+    "DOE",
+    "Public Schools",
+    "Preferred Names"
+  ]
+}

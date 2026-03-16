@@ -1,0 +1,55 @@
+{
+  "id": 2056116,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB3308",
+  "title": "Artificial Intelligence Civil Rights Act of 2025",
+  "summary": "A bill to establish protections for individual rights with respect to computational algorithms, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB3308/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB3308/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3308/all-info",
+  "sponsors": [
+    "Edward Markey (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Mazie Hirono (D) [Sen]"
+  ],
+  "introduced_date": "2025-12-02",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-12-02",
+      "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-23",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s3308/BILLS-119s3308is.pdf",
+      "doc_id": 3293457
+    }
+  ],
+  "committee": {
+    "committee_id": 2323,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Commerce, Science, And Transportation"
+  },
+  "subjects": [
+    "Science, technology, communications"
+  ]
+}

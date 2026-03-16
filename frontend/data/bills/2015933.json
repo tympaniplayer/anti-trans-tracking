@@ -1,0 +1,58 @@
+{
+  "id": 2015933,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S06983",
+  "title": "Establishes the New York dignity in pregnancy and childbirth act to require hospitals and other facilities that provide perinatal care to implement an evidence-based implicit bias program for all health care providers involved in the perinatal care of patients within those facilities; requires hospitals to provide expectant birthing parents with written information regarding certain patient rights; requires information related to pregnancy, if known, to be included on death certificates.",
+  "summary": "Establishes the New York dignity in pregnancy and childbirth act to require hospitals and other facilities that provide perinatal care to implement an evidence-based implicit bias program for all health care providers involved in the perinatal care of patients within those facilities; requires hospitals to provide expectant birthing parents with written information regarding certain patient rights; requires information related to pregnancy, if known, to be included on death certificates.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S06983/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S06983/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S6983",
+  "sponsors": [
+    "Jabari Brisport (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "Julia Salazar (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-27",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-27",
+      "action": "REFERRED TO WOMEN'S ISSUES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO WOMEN'S ISSUES",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-27",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S06983&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S06983",
+      "doc_id": 3191937
+    }
+  ],
+  "committee": {
+    "committee_id": 3937,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Women's Issues"
+  },
+  "subjects": []
+}

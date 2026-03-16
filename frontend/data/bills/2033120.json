@@ -1,0 +1,74 @@
+{
+  "id": 2033120,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "HB300",
+  "title": "Prohibit conversion therapy for minors by certain professionals",
+  "summary": "To enact sections 4723.95, 4731.45, 4732.34, 4743.12, 4757.46, and 4758.73 of the Revised Code to prohibit certain licensed health care professionals from engaging in conversion therapy for minor patients.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/HB300/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/HB300/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/hb300",
+  "sponsors": [
+    "Karen Brownlee (D) [Rep]",
+    "Crystal Lett (D) [Rep]",
+    "Munira Abdullahi (D) [Rep]",
+    "Juanita Brent (D) [Rep]",
+    "Michele Grim (D) [Rep]",
+    "Lauren McNally (D) [Rep]",
+    "Beryl Brown Piccolantonio (D) [Rep]",
+    "Tristan Rader (D) [Rep]",
+    "Allison Russo (D) [Rep]",
+    "Mark Sigrist (D) [Rep]",
+    "Veronica Sims (D) [Rep]",
+    "Anita Somani (D) [Rep]",
+    "Eric Synenberg (D) [Rep]",
+    "Terrence Upchurch (D) [Rep]",
+    "Erika White (D) [Rep]"
+  ],
+  "introduced_date": "2025-05-21",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-21",
+      "action": "Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Referred to committee: Health",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb300/00_IN/pdf/",
+      "doc_id": 3242554
+    }
+  ],
+  "committee": {
+    "committee_id": 102,
+    "chamber": "H",
+    "chamber_id": 5,
+    "name": "Health"
+  },
+  "subjects": [
+    "Health and Human Services : Health Care",
+    "Health and Human Services : Mental Health and Disabilities",
+    "Occupational Licensing and Regulation",
+    "House Health Committee"
+  ]
+}

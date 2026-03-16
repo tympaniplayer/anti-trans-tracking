@@ -1,0 +1,173 @@
+{
+  "id": 2025948,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S07599",
+  "title": "Regulates automated decision-making by government agencies; requires agencies to conduct impact assessments; requires disclosure of automated decision-making tools utilized by governmental agencies.",
+  "summary": "Regulates automated decision-making by government agencies; requires agencies to conduct impact assessments; requires disclosure of automated decision-making tools utilized by governmental agencies.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S07599/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S07599/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S7599",
+  "sponsors": [
+    "Kristen Gonzalez (D) [Sen]",
+    "Cordell Cleare (D) [Sen]",
+    "Andrew Gounardes (D) [Sen]",
+    "Peter Harckham (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "John Liu (D) [Sen]",
+    "Roxanne Persaud (D) [Sen]",
+    "Julia Salazar (D) [Sen]",
+    "James Sanders (D) [Sen]",
+    "Lea Webb (D) [Sen]"
+  ],
+  "introduced_date": "2025-12-19",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-04-23",
+      "action": "REFERRED TO INTERNET AND TECHNOLOGY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "1ST REPORT CAL.1510",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-30",
+      "action": "AMENDED (T) 7599A",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "AMENDED 7599B",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-05",
+      "action": "ADVANCED TO THIRD READING",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "AMENDED ON THIRD READING 7599C",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "referred to science and technology",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "substituted for a8295d",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "ordered to third reading rules cal.406",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "passed assembly",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "returned to senate",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "DELIVERED TO GOVERNOR",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-19",
+      "action": "SIGNED CHAP.711",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-19",
+      "action": "APPROVAL MEMO.86",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-27",
+      "description": "Senate Internet And Technology Committee Vote",
+      "yea": 6,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-12",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 59,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-16",
+      "description": "Assembly Floor Vote - Final Passage",
+      "yea": 143,
+      "nay": 2,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-04-23",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S07599&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S07599",
+      "doc_id": 3219051
+    },
+    {
+      "date": "2025-04-23",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S07599&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S07599A",
+      "doc_id": 3248656
+    },
+    {
+      "date": "2025-04-23",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S07599&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S07599B",
+      "doc_id": 3251835
+    },
+    {
+      "date": "2025-04-23",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S07599&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S07599C",
+      "doc_id": 3253749
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

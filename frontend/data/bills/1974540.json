@@ -1,0 +1,90 @@
+{
+  "id": 1974540,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "SB430",
+  "title": "Local agencies: automated decision systems.",
+  "summary": "An act to add Chapter 5.7 (commencing with Section 51020) to Part 1 of Division 1 of Title 5 of the Government Code, relating to automated decision systems.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/SB430/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/SB430/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB430",
+  "sponsors": [
+    "Christopher Cabaldon (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-18",
+      "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "From printer. May be acted upon on or after March 21.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Referred to Com. on RLS.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-05",
+      "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-05",
+      "action": "Re-referred to Coms. on JUD. and L. GOV.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-06",
+      "action": "Set for hearing January 13.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Set for hearing January 14 in L. GOV. pending receipt.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "January 13 set for first hearing canceled at the request of author.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-18",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB430#99INT",
+      "doc_id": 3129438
+    },
+    {
+      "date": "2026-01-05",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB430#98AMD",
+      "doc_id": 3300006
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": 1988341,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB774",
+  "title": "WHO is Accountable Act",
+  "summary": "A bill to prohibit the use of funds to seek membership in the World Health Organization or to provide assessed or voluntary contributions to the World Health Organization until certain conditions have been met.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB774/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB774/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/774/all-info",
+  "sponsors": [
+    "Marsha Blackburn (R) [Sen]",
+    "John Barrasso (R) [Sen]",
+    "Rick Scott (R) [Sen]",
+    "Ted Cruz (R) [Sen]",
+    "Joni Ernst (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Read twice and referred to the Committee on Foreign Relations.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-21",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s774/BILLS-119s774is.pdf",
+      "doc_id": 3185243
+    }
+  ],
+  "committee": {
+    "committee_id": 2327,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Foreign Relations"
+  },
+  "subjects": [
+    "International affairs"
+  ]
+}

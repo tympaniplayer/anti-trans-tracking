@@ -1,0 +1,62 @@
+{
+  "id": 2118141,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "HB700",
+  "title": "Regards Ohio Access to Justice Foundation, use of state funds",
+  "summary": "To amend sections 117.01, 120.521, and 120.54 and to enact sections 9.631 and 3129.07 of the Revised Code to modify the membership of the board of directors of the Ohio Access to Justice Foundation and to prohibit the use of state funds for certain purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/HB700/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/HB700/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/hb700",
+  "sponsors": [
+    "Josh Williams (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-17",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-17",
+      "action": "Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Referred to committee: General Government",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb700/00_IN/pdf/",
+      "doc_id": 3364688
+    }
+  ],
+  "committee": {
+    "committee_id": 5075,
+    "chamber": "H",
+    "chamber_id": 5,
+    "name": "General Government"
+  },
+  "subjects": [
+    "Courts and Civil Law : Civil Law",
+    "Finance and Appropriations",
+    "Health and Human Services",
+    "Health and Human Services : Public Assistance",
+    "Immigration",
+    "State and Local Government : State Government",
+    "House General Government Committee"
+  ]
+}

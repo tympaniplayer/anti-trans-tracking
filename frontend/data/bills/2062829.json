@@ -1,0 +1,75 @@
+{
+  "id": 2062829,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB718",
+  "title": "Relating To Equity.",
+  "summary": "Requires all places of public accommodation and public entity constructions constructed after 7/31/2026, to provide universal changing accommodations that are equally accessible regardless of gender.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB718/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB718/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=718&year=2026",
+  "sponsors": [
+    "Henry Aquino (D) [Sen]",
+    "Stanley Chang (D) [Sen]",
+    "Kurt Fevella (R) [Sen]",
+    "Carol Fukunaga (D) [Sen]",
+    "Troy Hashimoto (D) [Sen]",
+    "Michelle Kidani (D) [Sen]",
+    "Karl Rhoads (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-17",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-17",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "Referred to HHS/GVO, CPN/WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-17",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB718_.HTM",
+      "doc_id": 3296242
+    }
+  ],
+  "committee": {
+    "committee_id": 4751,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Health and Human Services"
+  },
+  "subjects": [
+    "Equity",
+    "Universal Changing Accommodations",
+    "Public Accommodation",
+    "Public Entity Construction"
+  ]
+}

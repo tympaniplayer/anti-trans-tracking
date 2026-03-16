@@ -1,0 +1,209 @@
+{
+  "id": 1907733,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5181",
+  "title": "Amending the parents rights initiative to bring it into alignment with existing law.",
+  "summary": "Amending the parents rights initiative to bring it into alignment with existing law.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5181/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5181/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5181&Year=2025&Initiative=false",
+  "sponsors": [
+    "Claire Wilson (D) [Sen]",
+    "Jamie Pedersen (D) [Sen]",
+    "Manka Dhingra (D) [Sen]",
+    "Noel Frame (D) [Sen]",
+    "Marko Liias (D) [Sen]",
+    "John Lovick (D) [Sen]",
+    "T'wina Nobles (D) [Sen]",
+    "Derek Stanford (D) [Sen]",
+    "Yasmin Trudeau (D) [Sen]",
+    "Lisa Wellman (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-05",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "Prefiled for introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading, referred to Early Learning & K-12 Education.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Public hearing in the Senate Committee on Early Learning & K-12 Education at 8:00 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "Executive action taken in the Senate Committee on Early Learning & K-12 Education at 10:30 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "EDU - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "Minority; do not pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-24",
+      "action": "Passed to Rules Committee for second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-29",
+      "action": "Placed on second reading by Rules Committee.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "1st substitute bill substituted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Floor amendment",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "First reading, referred to Education.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Public hearing in the House Committee on Education at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Executive action taken in the House Committee on Education at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "ED - Majority; do pass with amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Minority; do not pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Referred to Rules 2 Review.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Rules Committee relieved of further consideration. Placed on second reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Committee amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Third reading, passed; yeas, 56; nays, 39; absent, 0; excused, 3.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-27",
+      "action": "Returned to Senate Rules 3.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Senate Rules \"X\" file.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-01-23",
+      "description": "Senate Committee on Early Learning & K-12 Education: 1st substitute bill be substituted, do pass",
+      "yea": 6,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2025-02-05",
+      "description": "Senate 3rd Reading & Final Passage",
+      "yea": 30,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-31",
+      "description": "House Committee on Education: do pass with amendment(s)",
+      "yea": 11,
+      "nay": 8,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-14",
+      "description": "House Motion to Place Measure on Final Passage as Amended by the House",
+      "yea": 57,
+      "nay": 38,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5181.pdf",
+      "doc_id": 3043430
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5181-S.pdf",
+      "doc_id": 3078034
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5181-S.E.pdf",
+      "doc_id": 3103570
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

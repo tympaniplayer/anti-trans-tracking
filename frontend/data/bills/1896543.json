@@ -1,0 +1,234 @@
+{
+  "id": 1896543,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5023",
+  "title": "Providing labor market protections for domestic workers.",
+  "summary": "Providing labor market protections for domestic workers.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5023/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5023/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5023&Year=2025&Initiative=false",
+  "sponsors": [
+    "Rebecca Saldana (D) [Sen]",
+    "Yasmin Trudeau (D) [Sen]",
+    "Steven Conway (D) [Sen]",
+    "Noel Frame (D) [Sen]",
+    "T'wina Nobles (D) [Sen]",
+    "Jesse Salomon (D) [Sen]",
+    "Derek Stanford (D) [Sen]",
+    "Javier Valdez (D) [Sen]",
+    "Lisa Wellman (D) [Sen]",
+    "Claire Wilson (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-05",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2024-12-10",
+      "action": "Prefiled for introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading, referred to Labor & Commerce.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-20",
+      "action": "Public hearing in the Senate Committee on Labor & Commerce at 10:30 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Executive session scheduled, but no action was taken in the Senate Committee on Labor & Commerce at 8:00 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-14",
+      "action": "Executive action taken in the Senate Committee on Labor & Commerce at 8:00 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-14",
+      "action": "LC - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Minority; do not pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Passed to Rules Committee for second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Placed on second reading by Rules Committee.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "1st substitute bill substituted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Floor amendment",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Third reading, passed; yeas, 29; nays, 20; absent, 0; excused, 0.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-07",
+      "action": "First reading, referred to Labor & Workplace Standards.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Public hearing in the House Committee on Labor & Workplace Standards at 10:30 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "Executive action taken in the House Committee on Labor & Workplace Standards at 10:30 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "LAWS - Majority; do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "Minority; do not pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Referred to Appropriations.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-05",
+      "action": "Public hearing in the House Committee on Appropriations at 9:00 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Executive action taken in the House Committee on Appropriations at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "APP - Majority; do pass with amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Minority; do not pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Minority; without recommendation.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Referred to Rules 2 Review.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Rules Committee relieved of further consideration. Placed on second reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-27",
+      "action": "By resolution, returned to Senate Rules Committee for third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Senate Rules \"X\" file.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-14",
+      "description": "Senate Committee on Labor & Commerce: 1st substitute bill be substituted, do pass",
+      "yea": 5,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-05",
+      "description": "Senate 3rd Reading & Final Passage",
+      "yea": 29,
+      "nay": 20,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-28",
+      "description": "House Committee on Labor & Workplace Standards: do pass",
+      "yea": 6,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-07",
+      "description": "House Committee on Appropriations: do pass with amendment(s)",
+      "yea": 19,
+      "nay": 9,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2024-12-12",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5023.pdf",
+      "doc_id": 3032971
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5023-S.pdf",
+      "doc_id": 3127987
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5023-S.E.pdf",
+      "doc_id": 3155548
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

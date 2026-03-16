@@ -1,0 +1,75 @@
+{
+  "id": 2026319,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB1315",
+  "title": "In judicial change of name, further providing for court approval required for change of name.",
+  "summary": "An Act amending Title 54 (Names) of the Pennsylvania Consolidated Statutes, in judicial change of name, further providing for court approval required for change of name.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB1315/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB1315/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb1315",
+  "sponsors": [
+    "Ben Sanchez (D) [Rep]",
+    "Nancy Guenst (D) [Rep]",
+    "Carol Hill-Evans (D) [Rep]",
+    "Joshua Siegel (D) [Rep]",
+    "Benjamin Waxman (D) [Rep]",
+    "Joseph Hohenstein (D) [Rep]",
+    "Christopher Rabb (D) [Rep]",
+    "Dan Frankel (D) [Rep]",
+    "Johanny Cepeda-Freytiz (D) [Rep]",
+    "Tarik Khan (D) [Rep]",
+    "Dan Williams (D) [Rep]",
+    "La'Tasha Mayes (D) [Rep]",
+    "David Delloso (D) [Rep]",
+    "Nikki Rivera (D) [Rep]",
+    "Steven Malagari (D) [Rep]",
+    "Lisa Borowski (D) [Rep]",
+    "Justin Fleming (D) [Rep]",
+    "Emily Kinkead (D) [Rep]",
+    "Mary Jo Daley (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-28",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-04-28",
+      "action": "Referred to Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-10",
+      "description": "House Judiciary: PN1508, Report Bill As Committed",
+      "yea": 14,
+      "nay": 12,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1315/PN1508",
+      "doc_id": 3223414
+    }
+  ],
+  "committee": {
+    "committee_id": 53,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

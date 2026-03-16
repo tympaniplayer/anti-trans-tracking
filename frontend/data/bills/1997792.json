@@ -1,0 +1,74 @@
+{
+  "id": 1997792,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S1056",
+  "title": "To amend the definition of hate crime",
+  "summary": "For legislation to amend the definition of hate crime. The Judiciary.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S1056/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S1056/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S1056",
+  "sponsors": [
+    "Cynthia Creem (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on The Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-14",
+      "action": "Hearing scheduled for 11/25/2025 from 10:00 AM-05:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-11-25",
+      "action": "Hearing rescheduled to 11/25/2025 from 10:00 AM-04:00 PM in A-2 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-11-26",
+      "action": "Hearing rescheduled to 11/25/2025 from 10:00 AM-05:00 PM in A-2 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S1056.pdf",
+      "doc_id": 3163024
+    }
+  ],
+  "committee": {
+    "committee_id": 746,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

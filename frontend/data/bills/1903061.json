@@ -1,0 +1,64 @@
+{
+  "id": 1903061,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A00725",
+  "title": "Requires every physician, physician assistant, specialist assistant, registered nurse and licensed practical nurse to complete course work or training regarding human immunodeficiency virus and sexually transmitted infections testing and the elements of sexual health including sexual orientation and gender identity.",
+  "summary": "Requires every physician, physician assistant, specialist assistant, registered nurse and licensed practical nurse to complete course work or training regarding human immunodeficiency virus and sexually transmitted infections testing and the elements of sexual health including sexual orientation and gender identity.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A00725/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A00725/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A725",
+  "sponsors": [
+    "Linda Rosenthal (D) [Rep]",
+    "Emily Gallagher (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Chantel Jackson (D) [Rep]",
+    "Christopher Burdick (D) [Rep]",
+    "Phara Souffrant Forrest (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Sarah Clark (D) [Rep]",
+    "Jennifer Lunsford (D) [Rep]",
+    "Steven Raga (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-08",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "referred to higher education",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to higher education",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A00725&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A00725",
+      "doc_id": 3039746
+    }
+  ],
+  "committee": {
+    "committee_id": 370,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Higher Education"
+  },
+  "subjects": []
+}

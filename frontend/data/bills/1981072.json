@@ -1,0 +1,69 @@
+{
+  "id": 1981072,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A05859",
+  "title": "Enacts the \"assuring college campus and educational safety and support (ACCESS) act\" relating to harassment of students and applicants at educational institutions; describes the circumstances under which harassment at educational institutions is an unlawful discriminatory practice; describes the circumstances under which an educational institution is deemed to have permitted harassment; describes additional circumstances under which a college or university is deemed to have permitted harassment.",
+  "summary": "Enacts the \"assuring college campus and educational safety and support (ACCESS) act\" relating to harassment of students and applicants at educational institutions; describes the circumstances under which harassment at educational institutions is an unlawful discriminatory practice; describes the circumstances under which an educational institution is deemed to have permitted harassment; describes additional circumstances under which a college or university is deemed to have permitted harassment.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A05859/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A05859/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A5859",
+  "sponsors": [
+    "Micah Lasher (D) [Rep]",
+    "Nily Rozic (D) [Rep]",
+    "William Colton (D) [Rep]",
+    "Brian Cunningham (D) [Rep]",
+    "Jeffrey Dinowitz (D) [Rep]",
+    "Simcha Eichenstein (D) [Rep]",
+    "Deborah Glick (D) [Rep]",
+    "Charles Lavine (D) [Rep]",
+    "Nader Sayegh (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "John Zaccaro (D) [Rep]",
+    "Edward Braunstein (D) [Rep]",
+    "Phillip Steck (D) [Rep]",
+    "Steve Stern (D) [Rep]",
+    "Sam Berger (D) [Rep]",
+    "Matthew Slater (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-24",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-24",
+      "action": "referred to governmental operations",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to governmental operations",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-24",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A05859&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A05859",
+      "doc_id": 3138139
+    }
+  ],
+  "committee": {
+    "committee_id": 368,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Governmental Operations"
+  },
+  "subjects": []
+}

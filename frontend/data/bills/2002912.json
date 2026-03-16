@@ -1,0 +1,60 @@
+{
+  "id": 2002912,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H1455",
+  "title": "Relative to college in high school",
+  "summary": "Relative high schools providing and funding college programs. Higher Education.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H1455/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H1455/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H1455",
+  "sponsors": [
+    "Jeffrey Roy (D) [Rep]",
+    "Kate Lipper-Garabedian (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Higher Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Hearing scheduled for 05/05/2025 from 01:00 PM-05:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-08-28",
+      "action": "Accompanied a new draft, see H4407",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H1455.pdf",
+      "doc_id": 3168978
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

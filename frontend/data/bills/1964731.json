@@ -1,0 +1,101 @@
+{
+  "id": 1964731,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "SB311",
+  "title": "Correctional facilities: women\u2019s prisons.",
+  "summary": "An act to add Section 3327 to the Penal Code, relating to correctional facilities.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/SB311/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/SB311/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB311",
+  "sponsors": [
+    "Shannon Grove (R) [Sen]",
+    "Megan Dahle (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-10",
+      "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "From printer. May be acted upon on or after March 13.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Referred to Com. on RLS.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Re-referred to Com. on PUB. S.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Set for hearing April 29.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "April 29 set for first hearing. Failed passage in committee. (Ayes 1. Noes 4. Page 944.) Reconsideration granted.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-29",
+      "description": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+      "yea": 1,
+      "nay": 4,
+      "passed": 0
+    },
+    {
+      "date": "2025-04-29",
+      "description": "[First] hearing set for [04-30-2025]: Failed passage in Committee. Reconsideration granted",
+      "yea": 6,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-10",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB311#99INT",
+      "doc_id": 3111970
+    },
+    {
+      "date": "2025-03-26",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB311#98AMD",
+      "doc_id": 3191092
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,129 @@
+{
+  "id": 2129347,
+  "state": "ID",
+  "state_name": "Idaho",
+  "bill_number": "H0822",
+  "title": "Adds to existing law to establish the Pediatric Secretive Transitions Parental Rights Act.",
+  "summary": "PEDIATRIC SECRETIVE TRANSITIONS PARENTAL RIGHTS ACT -- Adds to existing law to establish the Pediatric Secretive Transitions Parental Rights Act.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ID/bill/H0822/2026",
+  "legiscan_url": "https://legiscan.com/ID/bill/H0822/2026",
+  "state_url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0822/",
+  "sponsors": [
+    "Ways and Means Committee [Rep]",
+    "Cindy Carlson (R) [Sen]",
+    "Barbara Ehardt (R) [Rep]",
+    "Ben Toews (R) [Sen]",
+    "Brandon Mitchell (R) [Rep]",
+    "Tammy Nichols (R) [Sen]",
+    "Vito Barbieri (R) [Rep]",
+    "Scott Grow (R) [Sen]",
+    "Joe Alfieri (R) [Rep]",
+    "Lori Den Hartog (R) [Sen]",
+    "Don Hall (R) [Rep]",
+    "Tanya Burgoyne (R) [Rep]",
+    "Faye Thompson (R) [Rep]",
+    "Jason Monks (R) [Rep]",
+    "Steve Tanner (R) [Rep]",
+    "Elaine Price (R) [Rep]",
+    "Jeff Cornilles (R) [Rep]",
+    "Charlie Shepherd (R) [Rep]",
+    "Ron Mendive (R) [Rep]",
+    "Douglas Pickett (R) [Rep]",
+    "John Shirts (R) [Rep]",
+    "Judy Boyle (R) [Rep]",
+    "Mike Pohanka (R) [Rep]",
+    "Chris Bruce (R) [Rep]",
+    "Heather Scott (R) [Rep]",
+    "Rob Beiswenger (R) [Rep]",
+    "Jaron Crane (R) [Rep]",
+    "Brent Crane (R) [Rep]",
+    "Cornel Rasor (R) [Rep]",
+    "Clint Hostetler (R) [Rep]",
+    "Tony Wisniewski (R) [Rep]"
+  ],
+  "introduced_date": "2026-03-11",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "action": "Introduced, read first time, referred to JRA for Printing",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Reported Printed and Referred to Judiciary, Rules & Administration",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Reported out of Committee with Do Pass Recommendation, Filed for Second Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Read second time; Filed for Third Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Read Third Time in Full -- PASSED 59-9-2",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Title apvd",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "to Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Received from the House passed; filed for first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Introduced, read first time; referred to: Judiciary & Rules",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-11",
+      "description": "House Third Reading",
+      "yea": 59,
+      "nay": 9,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0822.pdf",
+      "doc_id": 3384745
+    }
+  ],
+  "committee": {
+    "committee_id": 1537,
+    "chamber": "S",
+    "chamber_id": 34,
+    "name": "Judiciary and Rules"
+  },
+  "subjects": [
+    "PEDIATRIC SECRETIVE TRANSITIONS PARENTAL RIGHTS ACT"
+  ]
+}

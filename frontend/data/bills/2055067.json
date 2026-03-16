@@ -1,0 +1,107 @@
+{
+  "id": 2055067,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "HB2034",
+  "title": "Creates provisions relating to insurance coverage of orthotic, prosthetic, and assistive devices",
+  "summary": "Creates provisions relating to insurance coverage of orthotic, prosthetic, and assistive devices",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/HB2034/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/HB2034/2026",
+  "state_url": "https://house.mo.gov/Bill.aspx?bill=HB2034&year=2026&code=R",
+  "sponsors": [
+    "Carolyn Caton (R) [Rep]",
+    "Pattie Mansur (D) [Rep]",
+    "Renee Reuter (R) [Rep]",
+    "Ron Fowler (R) [Rep]",
+    "Donna Barnes (D) [Rep]",
+    "Lane Roberts (R) [Rep]",
+    "Brian Seitz (R) [Rep]",
+    "George Hruza (R) [Rep]",
+    "Marla Smith (D) [Rep]",
+    "Kemp Strickler (D) [Rep]",
+    "Dave Griffith (R) [Rep]",
+    "Kent Haden (R) [Rep]",
+    "Burt Whaley (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Prefiled (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Read First Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Read Second Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Referred: Health and Mental Health(H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Public Hearing Completed (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Executive Session Completed (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "HCS Voted Do Pass (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "HCS Reported Do Pass (H) - AYES: 15 NOES: 0 PRESENT: 0",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Referred: Rules - Legislative(H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-02",
+      "type": "Introduced",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/3872H.01I.pdf",
+      "doc_id": 3287736
+    },
+    {
+      "date": "2026-03-05",
+      "type": "Comm Sub",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/3872H.03C.pdf",
+      "doc_id": 3386167
+    }
+  ],
+  "committee": {
+    "committee_id": 5132,
+    "chamber": "H",
+    "chamber_id": 59,
+    "name": "Rules - Legislative"
+  },
+  "subjects": []
+}

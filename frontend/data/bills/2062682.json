@@ -1,0 +1,71 @@
+{
+  "id": 2062682,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB1224",
+  "title": "Relating To Insurance.",
+  "summary": "Prohibits health insurers, mutual benefit societies, and health maintenance organizations from arbitrarily denying coverage requests for gender affirming health care services when the requested service is known to be considered a standard of care and for which scientific evidence exists that supports the service. Increases transparency of insurance carrier medical necessity reviews and requirements when coverage is denied.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB1224/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB1224/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1224&year=2026",
+  "sponsors": [
+    "Karl Rhoads (D) [Sen]",
+    "Stanley Chang (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-21",
+      "action": "Pending Introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "Introduced and passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-27",
+      "action": "Referred to CPN/HHS, WAM/JDC.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-21",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB1224_.HTM",
+      "doc_id": 3296026
+    }
+  ],
+  "committee": {
+    "committee_id": 2054,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Commerce and Consumer Protection"
+  },
+  "subjects": [
+    "Gender Affirming Treatment Act",
+    "Insurance",
+    "Nondiscrimination",
+    "Transgender",
+    "Gender Affirming Care Services"
+  ]
+}

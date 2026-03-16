@@ -1,0 +1,57 @@
+{
+  "id": 2121380,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF3811",
+  "title": "Gender identity public school classroom instruction prohibition and firearm safety, trap shooting, archery, hunting, and angling in school physical education course and appropriation",
+  "summary": "Gender identity public school classroom instruction prohibition and firearm safety, trap shooting, archery, hunting, and angling in school physical education course and appropriation",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF3811/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF3811/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3811/",
+  "sponsors": [
+    "Bill Lieske (R) [Sen]",
+    "Cal Bahr (R) [Sen]",
+    "Michael Holmstrom (R) [Sen]",
+    "Nathan Wesenberg (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-23",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2026-02-23",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Referred to Education Policy",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-20",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/3811/versions/0/pdf/",
+      "doc_id": 3370773
+    }
+  ],
+  "committee": {
+    "committee_id": 4667,
+    "chamber": "S",
+    "chamber_id": 56,
+    "name": "Education Policy"
+  },
+  "subjects": []
+}

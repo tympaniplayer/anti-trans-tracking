@@ -1,0 +1,74 @@
+{
+  "id": 1948330,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S03888",
+  "title": "Relates to the determination of damages in a civil action arising from personal injury or wrongful death; provides that damages shall not be reduced because of age, race, creed, color, national origin, citizenship or immigration status, sexual orientation, gender identity or expression, military status, sex, disability, predisposing genetic characteristics, familial status, marital status, or status as a victim of domestic violence; provides that damages shall not be based on statistical tables unless agreed to by all parties.",
+  "summary": "Relates to the determination of damages in a civil action arising from personal injury or wrongful death; provides that damages shall not be reduced because of age, race, creed, color, national origin, citizenship or immigration status, sexual orientation, gender identity or expression, military status, sex, disability, predisposing genetic characteristics, familial status, marital status, or status as a victim of domestic violence; provides that damages shall not be based on statistical tables unless agreed to by all parties.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S03888/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S03888/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S3888",
+  "sponsors": [
+    "Nathalia Fernandez (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-30",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-30",
+      "action": "REFERRED TO JUDICIARY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "1ST REPORT CAL.991",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "ADVANCED TO THIRD READING",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "COMMITTED TO RULES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO JUDICIARY",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-30",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S03888&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S03888",
+      "doc_id": 3091176
+    }
+  ],
+  "committee": {
+    "committee_id": 434,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

@@ -1,0 +1,225 @@
+{
+  "id": 1976069,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF1740",
+  "title": "Omnibus Education policy provisions",
+  "summary": "Omnibus Education policy provisions",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF1740/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF1740/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1740/",
+  "sponsors": [
+    "Steve Cwodzinski (D) [Sen]",
+    "Mary Kunesh-Podein (D) [Sen]",
+    "Sydney Jordan (D) [Rep]",
+    "Peggy Bennett (R) [Rep]"
+  ],
+  "introduced_date": "2025-04-25",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-02-20",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Referred to Education Policy",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Comm report: To pass as amended",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Second reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Author added Kunesh",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Special Order: Amended",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Third reading Passed as amended",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-25",
+      "action": "Received from Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-25",
+      "action": "Senate file first reading, referred for comparison HF1306",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Bills not identical, SF substituted on General Register",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Second reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "House rule 1.21, placed on Calendar for the Day Monday, May 5, 2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "Motion to lay on the table",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "Motion prevailed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Motion to take from table",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Motion prevailed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Third reading as amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Bill was passed as amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-17",
+      "action": "Senate refuses to concur, conference committee of 5 requested",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-17",
+      "action": "Senate conferees Cwodzinski; Kunesh; Maye Quade; Gustafson; Coleman",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-17",
+      "action": "House accedes, conference committee of 4 to be appointed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-17",
+      "action": "House conferees Jordan, Hill, Bennett, Lawrence",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-17",
+      "action": "Returned from House with amendment",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-17",
+      "action": "Senate not concur, conference committee of 5 requested",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-17",
+      "action": "Senate conferees Cwodzinski; Kunesh; Maye Quade; Gustafson; Coleman",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-18",
+      "action": "House conferees Jordan; Hill; Bennett; Lawrence",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-24",
+      "description": "Senate: Third reading Passed as amended",
+      "yea": 39,
+      "nay": 26,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-16",
+      "description": "House: Youakim - Amendment - S1740A1",
+      "yea": 84,
+      "nay": 46,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-16",
+      "description": "House: Bakeberg - Amendment - S1740A3",
+      "yea": 67,
+      "nay": 67,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-16",
+      "description": "House: Bakeberg - Amendment - S1740A4",
+      "yea": 67,
+      "nay": 67,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-16",
+      "description": "House: S.F. NO. 1740",
+      "yea": 131,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-19",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1740/versions/0/pdf/",
+      "doc_id": 3131336
+    },
+    {
+      "date": "2025-04-07",
+      "type": "Engrossed",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1740/versions/1/pdf/",
+      "doc_id": 3203643
+    },
+    {
+      "date": "2025-04-25",
+      "type": "Engrossed",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1740/versions/2/pdf/",
+      "doc_id": 3222037
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

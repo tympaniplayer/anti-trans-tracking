@@ -1,0 +1,60 @@
+{
+  "id": 2049258,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "SB211",
+  "title": "Child care; requiring child care facilities to ensure absence of certain content in specified materials; providing for corrective and administrative action. Effective date.",
+  "summary": "Child care; requiring child care facilities to ensure absence of certain content in specified materials; providing for corrective and administrative action. Effective date.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms",
+    "education"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/SB211/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/SB211/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=sb211&Session=2600",
+  "sponsors": [
+    "Tom Woods (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Authored by Senator Woods",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Second Reading referred to Health and Human Services",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-12-30",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/SB/SB211%20INT.PDF",
+      "doc_id": 3278403
+    }
+  ],
+  "committee": {
+    "committee_id": 1229,
+    "chamber": "S",
+    "chamber_id": 80,
+    "name": "Health and Human Services"
+  },
+  "subjects": []
+}

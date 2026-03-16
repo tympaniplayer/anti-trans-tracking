@@ -1,0 +1,59 @@
+{
+  "id": 2129010,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "S2766",
+  "title": "Requires any entity that knowingly collects, shares or sells to third parties the personal data of a consumer to register with the department of business regulations and permits for the consumer to request deletion of the personal data.",
+  "summary": "COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS -- RHODE ISLAND DELETE ACT - Requires any entity that knowingly collects, shares or sells to third parties the personal data of a consumer to register with the department of business regulations and permits for the consumer to request deletion of the personal data.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/S2766/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/S2766/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Victoria Gu (D) [Sen]",
+    "Louis Dipalma (D) [Sen]",
+    "Lori Urso (D) [Sen]",
+    "Lammis Vargas (D) [Sen]",
+    "Samuel Zurier (D) [Sen]",
+    "Thomas Paolino (R) [Sen]",
+    "John Burke (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-04",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "action": "Introduced, referred to Senate Commerce",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-04",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/SenateText26/S2766.pdf",
+      "doc_id": 3384252
+    }
+  ],
+  "committee": {
+    "committee_id": 3027,
+    "chamber": "S",
+    "chamber_id": 84,
+    "name": "Commerce"
+  },
+  "subjects": [
+    "Commercial Law",
+    "COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS",
+    "COMMERCIAL LAW -- GENERAL REGULATORY PROVISIONS -- RHODE ISLAND DELETE ACT"
+  ]
+}

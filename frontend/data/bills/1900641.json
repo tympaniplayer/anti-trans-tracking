@@ -1,0 +1,61 @@
+{
+  "id": 1900641,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A00319",
+  "title": "Requires cultural awareness and competence training for medical professionals, including two hours of course work or training encompassing minority healthcare issues; provides an exemption for certain individuals; requires hospitals and facilities to request documentation of the completion of training from employees and prospective employees.",
+  "summary": "Requires cultural awareness and competence training for medical professionals, including two hours of course work or training encompassing minority healthcare issues; provides an exemption for certain individuals; requires hospitals and facilities to request documentation of the completion of training from employees and prospective employees.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "sports",
+    "bathrooms",
+    "education",
+    "religious_exemptions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A00319/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A00319/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A319",
+  "sponsors": [
+    "Catalina Cruz (D) [Rep]",
+    "Christopher Burdick (D) [Rep]",
+    "Steven Raga (D) [Rep]",
+    "Tony Simone (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-08",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "referred to higher education",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to higher education",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A00319&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A00319",
+      "doc_id": 3037178
+    }
+  ],
+  "committee": {
+    "committee_id": 370,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Higher Education"
+  },
+  "subjects": []
+}

@@ -1,0 +1,109 @@
+{
+  "id": 2000086,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "AB124",
+  "title": "Prohibiting persons who have been convicted of a violent crime from changing their name and providing a penalty.",
+  "summary": "An Act to amend 69.11 (4) (b), 69.12 (1), 69.15 (4) (b), 767.395 and 786.36 (1) (intro.); to create 941.2915 of the statutes; Relating to: prohibiting persons who have been convicted of a violent crime from changing their name and providing a penalty.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/AB124/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/AB124/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab124",
+  "sponsors": [
+    "Joy Goeben (R) [Rep]",
+    "Jim Piwowarczyk (R) [Rep]",
+    "Dave Maxey (R) [Rep]",
+    "David Steffen (R) [Rep]",
+    "Paul Tittl (R) [Rep]",
+    "Lindee Brill (R) [Rep]",
+    "Chuck Wichgers (R) [Rep]",
+    "David Murphy (R) [Rep]",
+    "Dan Knodl (R) [Rep]",
+    "Jeffrey Mursau (R) [Rep]",
+    "William Penterman (R) [Rep]",
+    "Rob Kreibich (R) [Rep]",
+    "Elijah Behnke (R) [Rep]",
+    "Van Wanggaard (R) [Sen]",
+    "Andre Jacque (R) [Sen]",
+    "Steve Nass (R) [Sen]"
+  ],
+  "introduced_date": "2025-03-11",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-11",
+      "action": "Introduced",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Read first time and referred to Committee on Judiciary",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-02",
+      "action": "Assembly Amendment 1 offered by Representative Goeben",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Public hearing held",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Representative O'Connor added as a coauthor",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Executive action taken",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Report Assembly Amendment 1 adoption recommended by Committee on Judiciary, Ayes 4, Noes 2",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Report passage as amended recommended by Committee on Judiciary, Ayes 4, Noes 2",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Referred to committee on Rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Placed on calendar 1-13-2026 by Committee on Rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Laid on the table",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-11",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AB124.pdf",
+      "doc_id": 3165748
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

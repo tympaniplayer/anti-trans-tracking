@@ -1,0 +1,59 @@
+{
+  "id": 2121425,
+  "state": "GA",
+  "state_name": "Georgia",
+  "bill_number": "HR1441",
+  "title": "Allen, Aubrey; commend",
+  "summary": "A RESOLUTION recognizing and commending Aubrey Allen; and for other purposes.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/GA/bill/HR1441/2025",
+  "legiscan_url": "https://legiscan.com/GA/bill/HR1441/2025",
+  "state_url": "https://www.legis.ga.gov/legislation/73505",
+  "sponsors": [
+    "Debra Bazemore (D) [Rep]",
+    "Carolyn Hugley (D) [Rep]",
+    "Yasmin Neal (D) [Rep]",
+    "Tangie Herring (D) [Rep]",
+    "Dar'shun Kendrick (D) [Rep]",
+    "Lydia Glaize (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-20",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-20",
+      "action": "House Hopper",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "House First Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "House Read and Adopted",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-21",
+      "type": "Introduced",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/243522",
+      "doc_id": 3370958
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

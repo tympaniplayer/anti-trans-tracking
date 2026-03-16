@@ -1,0 +1,80 @@
+{
+  "id": 1992525,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A06470",
+  "title": "Prohibits discrimination against and harassment or bullying of students by employees or students on private, religious or denominational school property or at a school function; provides immunity from civil liability for a person making a good faith report of discrimination, harassment or bullying to authorities.",
+  "summary": "Prohibits discrimination against and harassment or bullying of students by employees or students on private, religious or denominational school property or at a school function; provides immunity from civil liability for a person making a good faith report of discrimination, harassment or bullying to authorities.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "religious_exemptions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A06470/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A06470/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A6470",
+  "sponsors": [
+    "Tony Simone (D) [Rep]",
+    "Rodneyse Bichotte Hermelyn (D) [Rep]",
+    "Alex Bores (D) [Rep]",
+    "Harry Bronson (D) [Rep]",
+    "William Conrad (D) [Rep]",
+    "Joseph DeStefano (R) [Rep]",
+    "Eddie Gibbs (D) [Rep]",
+    "Deborah Glick (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Alicia Hyndman (D) [Rep]",
+    "Chantel Jackson (D) [Rep]",
+    "Ron Kim (D) [Rep]",
+    "Charles Lavine (D) [Rep]",
+    "David McDonough (R) [Rep]",
+    "Amy Paulin (D) [Rep]",
+    "Stacey Pheffer Amato (D) [Rep]",
+    "Steven Raga (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "Linda Rosenthal (D) [Rep]",
+    "Nader Sayegh (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Alfred Taylor (D) [Rep]",
+    "Mary Walsh (R) [Rep]",
+    "David Weprin (D) [Rep]",
+    "Carrie Woerner (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-05",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-05",
+      "action": "referred to education",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to education",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-05",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06470&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06470",
+      "doc_id": 3154690
+    }
+  ],
+  "committee": {
+    "committee_id": 362,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Education"
+  },
+  "subjects": []
+}

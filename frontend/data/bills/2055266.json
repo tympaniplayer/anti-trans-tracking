@@ -1,0 +1,59 @@
+{
+  "id": 2055266,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "SB1218",
+  "title": "Prohibits discrimination based on sexual orientation or gender identity",
+  "summary": "Prohibits discrimination based on sexual orientation or gender identity",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/SB1218/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/SB1218/2026",
+  "state_url": "https://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=572",
+  "sponsors": [
+    "Patty Lewis (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Prefiled",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "S First Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Second Read and Referred S Families, Seniors and Health Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-16",
+      "type": "Introduced",
+      "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1218.pdf",
+      "doc_id": 3291069
+    }
+  ],
+  "committee": {
+    "committee_id": 5018,
+    "chamber": "S",
+    "chamber_id": 60,
+    "name": "Families, Seniors and Health"
+  },
+  "subjects": []
+}

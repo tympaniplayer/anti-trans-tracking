@@ -1,0 +1,54 @@
+{
+  "id": 2067650,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB6020",
+  "title": "Changing the official name of the department of children, youth, and families oversight board.",
+  "summary": "Changing the official name of the department of children, youth, and families oversight board.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB6020/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB6020/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=6020&Year=2025&Initiative=false",
+  "sponsors": [
+    "Leonard Christian (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "action": "Prefiled for introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "First reading, referred to Human Services.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/6020.pdf",
+      "doc_id": 3302166
+    }
+  ],
+  "committee": {
+    "committee_id": 4678,
+    "chamber": "S",
+    "chamber_id": 98,
+    "name": "Human Services"
+  },
+  "subjects": []
+}

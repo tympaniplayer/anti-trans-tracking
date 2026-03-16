@@ -1,0 +1,69 @@
+{
+  "id": 2101994,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB2988",
+  "title": "INSURANCE-SCOLIOSIS EXAM",
+  "summary": "Amends the Illinois Insurance Code. In provisions concerning coverage of preventive health services, requires coverage of spinal examinations for scoliosis.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB2988/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB2988/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2988&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "Laura Ellman (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-29",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "action": "Filed with Secretary by Sen. Laura Ellman",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Assigned to Insurance",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Rule 2-10 Committee Deadline Established As March 27, 2026",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-29",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=206829&DocName=10400SB2988&DocNum=2988&DocTypeID=SB&LegID=165482&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3341423
+    }
+  ],
+  "committee": {
+    "committee_id": 275,
+    "chamber": "S",
+    "chamber_id": 36,
+    "name": "Insurance"
+  },
+  "subjects": []
+}

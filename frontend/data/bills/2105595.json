@@ -1,0 +1,82 @@
+{
+  "id": 2105595,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "SB2409",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 4; Title 5; Title 6; Title 7; Title 15; Title 20 and Title 49, relative to the No Pride Flag or Month Act.",
+  "summary": "As introduced, enacts the \"No Pride Flag or Month Act.\" - Amends TCA Title 4; Title 5; Title 6; Title 7; Title 15; Title 20 and Title 49.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/SB2409/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/SB2409/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB2409&ga=114",
+  "sponsors": [
+    "Joseph Hensley (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "Filed for introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Introduced, Passed on First Consideration",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Passed on Second Consideration, refer to Senate State and Local Government Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Placed on Senate State and Local Government Committee calendar for 3/10/2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Action deferred in Senate State and Local Government Committee to 3/17/2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Placed on Senate State and Local Government Committee calendar for 3/17/2026",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-02",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB2409.pdf",
+      "doc_id": 3345900
+    },
+    {
+      "date": "2026-02-04",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB2409.pdf",
+      "doc_id": 3347888
+    }
+  ],
+  "committee": {
+    "committee_id": 2500,
+    "chamber": "S",
+    "chamber_id": 90,
+    "name": "State and Local Government"
+  },
+  "subjects": [
+    "Holidays and Days of Special Observance"
+  ]
+}

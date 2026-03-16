@@ -1,0 +1,92 @@
+{
+  "id": 2060566,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A09379",
+  "title": "Establishes a master of social work paid field practicum pilot program to provide a stipend to students who are enrolled in a master of social work program for the first 450 hours of field practicum completed towards such masters' degree; requires the office of mental health to complete a report making recommendations on how to expand the pilot program to increase the number of social workers in the state, improve representation in the field of social work, mitigate student debt and improve labor conditions for social workers upon graduation.",
+  "summary": "Establishes a master of social work paid field practicum pilot program to provide a stipend to students who are enrolled in a master of social work program for the first 450 hours of field practicum completed towards such masters' degree; requires the office of mental health to complete a report making recommendations on how to expand the pilot program to increase the number of social workers in the state, improve representation in the field of social work, mitigate student debt and improve labor conditions for social workers upon graduation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A09379/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A09379/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A9379",
+  "sponsors": [
+    "Jo Simon (D) [Rep]",
+    "Sam Berger (D) [Rep]",
+    "Donna Lupardo (D) [Rep]",
+    "Phillip Steck (D) [Rep]",
+    "Yudelka Tapia (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Christopher Eachus (D) [Rep]",
+    "Rodneyse Bichotte Hermelyn (D) [Rep]",
+    "Nader Sayegh (D) [Rep]",
+    "John Zaccaro (D) [Rep]"
+  ],
+  "introduced_date": "2025-12-19",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-12-19",
+      "action": "referred to mental health",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to mental health",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "amend (t) and recommit to mental health",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "print number 9379a",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "reported referred to ways and means",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-10",
+      "description": "Assembly Mental Health Committee: Favorable refer to committee Ways and Means",
+      "yea": 12,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-12-19",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A09379&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A09379",
+      "doc_id": 3292870
+    },
+    {
+      "date": "2025-12-19",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A09379&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A09379A",
+      "doc_id": 3386323
+    }
+  ],
+  "committee": {
+    "committee_id": 387,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

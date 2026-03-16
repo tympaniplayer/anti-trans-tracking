@@ -1,0 +1,178 @@
+{
+  "id": 1943962,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB4024",
+  "title": "Civil rights: privacy; restriction of student access to certain restrooms and changing areas based on biological sex; provide for. Creates new act.",
+  "summary": "Civil rights: privacy; restriction of student access to certain restrooms and changing areas based on biological sex; provide for. Creates new act.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "bathrooms",
+    "education",
+    "definitions"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB4024/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB4024/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4024",
+  "sponsors": [
+    "Joseph Fox (R) [Rep]",
+    "Steve Carra (R) [Rep]",
+    "Joseph Pavlov (R) [Rep]",
+    "Angela Rigas (R) [Rep]",
+    "James DeSana (R) [Rep]",
+    "Rylee Linting (R) [Rep]",
+    "Gregory Alexander (R) [Rep]",
+    "Jennifer Wortz (R) [Rep]",
+    "Gregory Markkanen (R) [Rep]",
+    "Cam Cavitt (R) [Rep]",
+    "Gina Johnsen (R) [Rep]",
+    "Jason Woolford (R) [Rep]",
+    "Jay DeBoyer (R) [Rep]",
+    "Brian BeGole (R) [Rep]",
+    "Pat Outman (R) [Rep]",
+    "Nancy DeBoer (R) [Rep]",
+    "Nancy Jenkins-Arno (R) [Rep]",
+    "David Martin (R) [Rep]",
+    "Donni Steele (R) [Rep]",
+    "Luke Meerman (R) [Rep]",
+    "Rachelle Smit (R) [Rep]",
+    "Matthew Maddock (R) [Rep]"
+  ],
+  "introduced_date": "2025-09-04",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-01-28",
+      "action": "Introduced By Representative Rep. Joseph Fox",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Referred To Committee On Education And Workforce",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-29",
+      "action": "Bill Electronically Reproduced 01/28/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-27",
+      "action": "Reported With Recommendation With Substitute (h-1)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-27",
+      "action": "Referred To Second Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-04",
+      "action": "Read A Second Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-04",
+      "action": "Substitute (h-1) Not Adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-04",
+      "action": "Substitute (h-2) Adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-04",
+      "action": "Placed On Third Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-04",
+      "action": "Placed On Immediate Passage",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-04",
+      "action": "Read A Third Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-04",
+      "action": "Passed; Given Immediate Effect Roll Call #190 Yeas 58 Nays 46 Excused 0 Not Voting 6",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-04",
+      "action": "Title Amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-04",
+      "action": "Transmitted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-09",
+      "action": "Passed By House With Immediate Effect",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-09",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-08-27",
+      "description": "Reported With Recommendation With Substitute H-1",
+      "yea": 7,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-04",
+      "description": "House Third Reading: Given Immediate Effect Roll Call #190",
+      "yea": 58,
+      "nay": 46,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-28",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4024.htm",
+      "doc_id": 3085630
+    },
+    {
+      "date": "2025-09-04",
+      "type": "Engrossed",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2025-HEBH-4024.htm",
+      "doc_id": 3267622
+    }
+  ],
+  "committee": {
+    "committee_id": 838,
+    "chamber": "S",
+    "chamber_id": 54,
+    "name": "Government Operations"
+  },
+  "subjects": [
+    "Civil rights: privacy",
+    "Education: other",
+    "Higher education: other",
+    "Higher education: community colleges"
+  ]
+}

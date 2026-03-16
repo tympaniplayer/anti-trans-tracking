@@ -1,0 +1,77 @@
+{
+  "id": 2112635,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "SB889",
+  "title": "Consumer Protection and Labor and Employment - Electronic Shelving Labels and Surveillance-Based Price and Wage Setting - Prohibitions",
+  "summary": "Prohibiting a person from engaging in surveillance-based price setting to set the price of consumer goods or services; prohibiting a food retailer from using electronic shelving labels to display the prices of consumer goods, and instead requiring the use of nondigital presentations of price; making a certain violation of the Act an unfair, abusive, or deceptive trade practice under the Maryland Consumer Protection Act; and prohibiting an employer from engaging in surveillance-based wage setting.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/SB889/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/SB889/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0889?ys=2026RS",
+  "sponsors": [
+    "Clarence Lam (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-06",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "action": "First Reading Finance",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Hearing 3/12 at 1:00 p.m.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-11",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/sb/sb0889f.pdf",
+      "doc_id": 3359152
+    }
+  ],
+  "committee": {
+    "committee_id": 1932,
+    "chamber": "S",
+    "chamber_id": 50,
+    "name": "Finance"
+  },
+  "subjects": [
+    "Commercial Law - Consumer Protection",
+    "Private Sector Labor and Industry",
+    "Information Technology - Generally",
+    "Attorney General",
+    "Consumer Protection",
+    "Data",
+    "Financial Regulation, Division of",
+    "Food",
+    "Goods and Services",
+    "Investigations and Inquiries",
+    "Labeling",
+    "Mediation",
+    "Mobile Devices",
+    "Penalties and Sentences",
+    "Prices",
+    "Retail Sales",
+    "Salaries and Compensation",
+    "Signs and Billboards",
+    "Surveillance",
+    "Technology",
+    "Unfair Trade Practices",
+    "Work, Labor, and Employment"
+  ]
+}

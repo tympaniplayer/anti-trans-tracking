@@ -1,0 +1,58 @@
+{
+  "id": 1951219,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF886",
+  "title": "Biological definition of male and female establishment",
+  "summary": "Biological definition of male and female establishment",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF886/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF886/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/886/",
+  "sponsors": [
+    "Glenn Gruenhagen (R) [Sen]",
+    "Steve Drazkowski (R) [Sen]",
+    "Andrew Mathews (R) [Sen]",
+    "Steve Green (R) [Sen]",
+    "Eric Lucero (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-03",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Referred to Health and Human Services",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-30",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/886/versions/0/pdf/",
+      "doc_id": 3094804
+    }
+  ],
+  "committee": {
+    "committee_id": 1745,
+    "chamber": "S",
+    "chamber_id": 56,
+    "name": "Health and Human Services"
+  },
+  "subjects": []
+}

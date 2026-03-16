@@ -1,0 +1,61 @@
+{
+  "id": 2087766,
+  "state": "MS",
+  "state_name": "Mississippi",
+  "bill_number": "HB1375",
+  "title": "Birth certificate; prohibit change of sex on unless verified by medical records that sex of child is not what is shown on.",
+  "summary": "An Act To Amend Section 41-57-21, Mississippi Code Of 1972, To Prohibit The State Registrar Of Vital Records From Changing The Sex On A Birth Certificate Unless It Is Clearly An Error That Is Verified By Medical Records From The Time Of Birth Or By A Physician Who Confirms That At The Time Of Birth, The Sex Of The Child Was Not What Is Shown On The Birth Certificate; And For Related Purposes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "identity_documents",
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MS/bill/HB1375/2026",
+  "legiscan_url": "https://legiscan.com/MS/bill/HB1375/2026",
+  "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1375.xml",
+  "sponsors": [
+    "Beth Waldo (R) [Rep]",
+    "Andy Boyd (R) [Rep]",
+    "Larry Byrd (R) [Rep]",
+    "Dan Eubanks (R) [Rep]",
+    "Kevin Ford (R) [Rep]",
+    "Clay Mansell (R) [Rep]",
+    "Steve Massengill (R) [Rep]",
+    "Brent Powell (R) [Rep]",
+    "Troy Smith (R) [Rep]",
+    "Lance Varner (R) [Rep]",
+    "Donnie Scoggin (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-19",
+      "action": "Referred To Public Health and Human Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Died In Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/HB/1300-1399/HB1375IN.htm",
+      "doc_id": 3325418
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

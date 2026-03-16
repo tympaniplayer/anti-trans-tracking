@@ -1,0 +1,59 @@
+{
+  "id": 2055355,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "SB1028",
+  "title": "Establishes provisions regarding elementary and secondary education",
+  "summary": "Establishes provisions regarding elementary and secondary education",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/SB1028/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/SB1028/2026",
+  "state_url": "https://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=486",
+  "sponsors": [
+    "Rick Brattin (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Prefiled",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "S First Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Second Read and Referred S Education Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-16",
+      "type": "Introduced",
+      "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1028.pdf",
+      "doc_id": 3291677
+    }
+  ],
+  "committee": {
+    "committee_id": 2263,
+    "chamber": "S",
+    "chamber_id": 60,
+    "name": "Education"
+  },
+  "subjects": []
+}

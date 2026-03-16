@@ -1,0 +1,56 @@
+{
+  "id": 1921875,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A02232",
+  "title": "Enacts the \"Effective Enforcement of Civil Rights Act\"; provides for the enactment and enforcement of local human rights laws.",
+  "summary": "Enacts the \"Effective Enforcement of Civil Rights Act\"; provides for the enactment and enforcement of local human rights laws.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A02232/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A02232/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A2232",
+  "sponsors": [
+    "Jo Simon (D) [Rep]",
+    "Christopher Burdick (D) [Rep]",
+    "John Zaccaro (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-15",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-15",
+      "action": "referred to governmental operations",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to governmental operations",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-15",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A02232&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A02232",
+      "doc_id": 3059060
+    }
+  ],
+  "committee": {
+    "committee_id": 368,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Governmental Operations"
+  },
+  "subjects": []
+}

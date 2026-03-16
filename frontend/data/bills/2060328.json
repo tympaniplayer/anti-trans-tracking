@@ -1,0 +1,57 @@
+{
+  "id": 2060328,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB6897",
+  "title": "Thyroid Disease CARE Act of 2025 Thyroid Disease Coverage, Awareness, Research, and Education Act of 2025",
+  "summary": "To advance research, promote awareness and education, and improve health care, with respect to thyroid disease, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB6897/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB6897/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/6897/all-info",
+  "sponsors": [
+    "Haley Stevens (D) [Rep]",
+    "Lauren Underwood (D) [Rep]"
+  ],
+  "introduced_date": "2025-12-18",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-12-18",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-18",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr6897/BILLS-119hr6897ih.pdf",
+      "doc_id": 3328997
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

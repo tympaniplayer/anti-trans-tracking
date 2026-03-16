@@ -1,0 +1,97 @@
+{
+  "id": 2037318,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR514",
+  "title": "Commemorating 9 years since the Pulse nightclub shooting in Orlando, Florida, on June 12, 2016.",
+  "summary": "Commemorating 9 years since the Pulse nightclub shooting in Orlando, Florida, on June 12, 2016.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR514/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR514/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/514/all-info",
+  "sponsors": [
+    "Darren Soto (D) [Rep]",
+    "Maxwell Frost (D) [Rep]",
+    "Kathy Castor (D) [Rep]",
+    "Sheila Cherfilus-McCormick (D) [Rep]",
+    "Jared Moskowitz (D) [Rep]",
+    "Debbie Wasserman Schultz (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Ritchie Torres (D) [Rep]",
+    "Robin Kelly (D) [Rep]",
+    "Mike Quigley (D) [Rep]",
+    "Jerrold Nadler (D) [Rep]",
+    "Andre Carson (D) [Rep]",
+    "Nikki Budzinski (D) [Rep]",
+    "Seth Moulton (D) [Rep]",
+    "Juan Vargas (D) [Rep]",
+    "Lori Trahan (D) [Rep]",
+    "Becca Balint (D) [Rep]",
+    "Raja Krishnamoorthi (D) [Rep]",
+    "Stephen Lynch (D) [Rep]",
+    "Madeleine Dean (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Don Beyer (D) [Rep]",
+    "Kevin Mullin (D) [Rep]",
+    "Robert Garcia (D) [Rep]",
+    "Valerie Foushee (D) [Rep]",
+    "Yassamin Ansari (D) [Rep]",
+    "Mark Takano (D) [Rep]",
+    "Gwen Moore (D) [Rep]",
+    "Pablo Jose Hernandez (D) [Rep]",
+    "John Larson (D) [Rep]",
+    "Betty McCollum (D) [Rep]",
+    "Frederica Wilson (D) [Rep]",
+    "Maxine Dexter (D) [Rep]",
+    "Lois Frankel (D) [Rep]",
+    "Timothy Kennedy (D) [Rep]",
+    "Al Green (D) [Rep]",
+    "Greg Landsman (D) [Rep]",
+    "Julie Johnson (D) [Rep]",
+    "Suzan DelBene (D) [Rep]",
+    "Judy Chu (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-12",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-12",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "Referred to the House Committee on Oversight and Government Reform.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-13",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres514/BILLS-119hres514ih.pdf",
+      "doc_id": 3255635
+    }
+  ],
+  "committee": {
+    "committee_id": 2311,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Oversight And Government Reform"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

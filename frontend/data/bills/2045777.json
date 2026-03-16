@@ -1,0 +1,79 @@
+{
+  "id": 2045777,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "CER26-0096",
+  "title": "Dr. Dock Winston Recognition Resolution of 2025",
+  "summary": "Dr. Dock Winston Recognition Resolution of 2025",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/CER26-0096/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/CER26-0096/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/CER26-0096",
+  "sponsors": [
+    "Charles Allen (D) [Sen]",
+    "Christina Henderson (I) [Sen]"
+  ],
+  "introduced_date": "2025-10-07",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2025-10-03",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-10-07",
+      "action": "Retained by the Council",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-10-07",
+      "action": "Final Reading, CC",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-10-07",
+      "action": "Approved with Resolution Number ACR26-0094",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-10-31",
+      "action": "Resolution ACR26-0094, Effective from Oct 07, 2025 Published in DC Register Vol 72 and Page 012005",
+      "chamber": "C"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-10-07",
+      "description": "Final Reading, CC",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-10-03",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/60416/Introduction/CER26-0096-Introduction.pdf",
+      "doc_id": 3271907
+    },
+    {
+      "date": "2025-10-07",
+      "type": "Enrolled",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/60416/Meeting1/Enrollment/CER26-0096-Enrollment1.pdf",
+      "doc_id": 3274382
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

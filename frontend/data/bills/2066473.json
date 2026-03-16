@@ -1,0 +1,69 @@
+{
+  "id": 2066473,
+  "state": "FL",
+  "state_name": "Florida",
+  "bill_number": "H1117",
+  "title": "Offenses Evidencing Prejudice",
+  "summary": "Expands grounds for reclassification of offenses to include acts based on gender or gender identity of any person; specifies that reclassification must occur if offense was based in whole or in part on specified characteristics of any person; provides that it is essential element of certain offense that defendant perceived, knew, or had reasonable grounds to know or perceive that person was included in certain class of person; specifies that reclassification of certain offense must occur if offense was based in whole or in part on disability of any person; reclassifies certain offenses committed against person with disability; expands data Governor is required to collect & disseminate to include specified incidents.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/FL/bill/H1117/2026",
+  "legiscan_url": "https://legiscan.com/FL/bill/H1117/2026",
+  "state_url": "https://www.flsenate.gov/Session/Bill/2026/1117",
+  "sponsors": [
+    "Mitch Rosenwald (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Referred to Criminal Justice Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Referred to Justice Budget Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Referred to Judiciary Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Now in Criminal Justice Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "1st Reading (Original Filed Version)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-07",
+      "type": "Introduced",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1117/BillText/Filed/PDF",
+      "doc_id": 3301058
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

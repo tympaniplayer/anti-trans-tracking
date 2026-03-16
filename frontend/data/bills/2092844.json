@@ -1,0 +1,72 @@
+{
+  "id": 2092844,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB2725",
+  "title": "Relating To Female Genital Mutilation.",
+  "summary": "Establishes the offense of prohibited acts related to female genital mutilation of a minor. Authorizes a victim of female genital mutilation to bring a civil action for damages under certain conditions. Amends the statutory definitions of \"child abuse or neglect\" and \"harm\" to include prohibited acts related to female genital mutilation of a minor.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB2725/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB2725/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2725&year=2026",
+  "sponsors": [
+    "Karl Rhoads (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Referred to HHS, JDC/WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Re-Referred to HHS, JDC.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-23",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB2725_.HTM",
+      "doc_id": 3331522
+    }
+  ],
+  "committee": {
+    "committee_id": 4751,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Health and Human Services"
+  },
+  "subjects": [
+    "Female Genital Mutilation",
+    "Penalties",
+    "Civil Action",
+    "Education and Outreach",
+    "Child Abuse and Neglect",
+    "Harm"
+  ]
+}

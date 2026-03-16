@@ -1,0 +1,225 @@
+{
+  "id": 1980126,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB1229",
+  "title": "Adult Reentry Grant Program.",
+  "summary": "An act to add Chapter 2.6 (commencing with Section 50480) to Part 2 of Division 31 of the Health and Safety Code, and to add Section 5036 to the Penal Code, relating to housing.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB1229/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB1229/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1229",
+  "sponsors": [
+    "Sharon Quirk-Silva (D) [Rep]",
+    "Nick Schultz (D) [Rep]",
+    "Jessica Caloza (D) [Rep]",
+    "Matt Haney (D) [Rep]",
+    "Ash Kalra (D) [Rep]",
+    "Alex Lee (D) [Rep]",
+    "Mark Gonzalez (D) [Rep]",
+    "Anamarie Farias (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-02",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-21",
+      "action": "Introduced. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-22",
+      "action": "From printer. May be heard in committee March 24.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Read first time.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Referred to Coms. on H. & C.D. and PUB. S.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Coauthors revised.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "From committee: Do pass and re-refer to Com. on PUB. S. (Ayes 8. Noes 0.) (March 26). Re-referred to Com. on PUB. S.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 0.) (April 22). Re-referred to Com. on APPR.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "From committee: Do pass. (Ayes 11. Noes 2.) (May 23).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Read third time. Passed. Ordered to the Senate. (Ayes 62. Noes 10. Page 1883.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-11",
+      "action": "Referred to Coms. on HOUSING and PUB. S.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "In committee: Hearing postponed by committee.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-02",
+      "action": "From committee: Do pass and re-refer to Com. on PUB. S. (Ayes 10. Noes 1.) (July 1). Re-referred to Com. on PUB. S.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-02",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on PUB. S.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 5. Noes 1.) (July 15). Re-referred to Com. on APPR.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-18",
+      "action": "In committee: Referred to suspense file.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-29",
+      "action": "From committee: Amend, and do pass as amended. (Ayes 5. Noes 2.) (August 29).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-29",
+      "action": "Read second time and amended. Ordered returned to second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-02",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-03",
+      "action": "Ordered to inactive file at the request of Senator Cabaldon.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-26",
+      "description": "Do pass and be re-referred to the Committee on [Public Safety]",
+      "yea": 8,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-22",
+      "description": "Do pass and be re-referred to the Committee on [Appropriations]",
+      "yea": 8,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-23",
+      "description": "Do pass",
+      "yea": 11,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-02",
+      "description": "AB 1229 Schultz Assembly Third Reading",
+      "yea": 62,
+      "nay": 10,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-01",
+      "description": "Do pass, but first be re-referred to the Committee on [Public Safety]",
+      "yea": 10,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-15",
+      "description": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+      "yea": 5,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-08-18",
+      "description": "Placed on suspense file",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-08-29",
+      "description": "Do pass as amended",
+      "yea": 5,
+      "nay": 2,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-21",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1229#99INT",
+      "doc_id": 3136917
+    },
+    {
+      "date": "2025-07-02",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1229#98AMD",
+      "doc_id": 3260451
+    },
+    {
+      "date": "2025-08-29",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1229#97AMD",
+      "doc_id": 3266936
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

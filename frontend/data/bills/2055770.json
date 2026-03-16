@@ -1,0 +1,59 @@
+{
+  "id": 2055770,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "SB1389",
+  "title": "Establishes a cause of action against business for violations of privacy in changing facilities or restrooms",
+  "summary": "Establishes a cause of action against business for violations of privacy in changing facilities or restrooms",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/SB1389/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/SB1389/2026",
+  "state_url": "https://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=554",
+  "sponsors": [
+    "Nick Schroer (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Prefiled",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "S First Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Second Read and Referred S Families, Seniors and Health Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-18",
+      "type": "Introduced",
+      "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1389.pdf",
+      "doc_id": 3292423
+    }
+  ],
+  "committee": {
+    "committee_id": 5018,
+    "chamber": "S",
+    "chamber_id": 60,
+    "name": "Families, Seniors and Health"
+  },
+  "subjects": []
+}

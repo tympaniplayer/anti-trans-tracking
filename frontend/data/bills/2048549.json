@@ -1,0 +1,60 @@
+{
+  "id": 2048549,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "SB1049",
+  "title": "Health care; creating the Wrongful Life Act; prohibiting certain services on a minor; authorizing certain civil actions and damages. Effective date.",
+  "summary": "Health care; creating the Wrongful Life Act; prohibiting certain services on a minor; authorizing certain civil actions and damages. Effective date.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/SB1049/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/SB1049/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=sb1049&Session=2600",
+  "sponsors": [
+    "Lisa Standridge (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Authored by Senator Standridge",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Second Reading referred to Health and Human Services",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/SB/SB1049%20INT.PDF",
+      "doc_id": 3276880
+    }
+  ],
+  "committee": {
+    "committee_id": 1229,
+    "chamber": "S",
+    "chamber_id": 80,
+    "name": "Health and Human Services"
+  },
+  "subjects": []
+}

@@ -1,0 +1,132 @@
+{
+  "id": 1922615,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB810",
+  "title": "Relating to protection for a public school employee's use of terms consistent with biological sex.",
+  "summary": "Relating to protection for a public school employee's use of terms consistent with biological sex.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB810/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB810/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB810",
+  "sponsors": [
+    "Bryan Hughes (R) [Sen]",
+    "Bob Hall (R) [Sen]",
+    "Lois Kolkhorst (R) [Sen]",
+    "Kevin Sparks (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-16",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-16",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-16",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Referred to State Affairs",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Considered in public hearing",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Testimony taken in committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Left pending in committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Co-author authorized",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Considered in public hearing",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Vote taken in committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Reported favorably w/o amendments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Committee report printed and distributed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Placed on intent calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Not again placed on intent calendar",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00810I.htm",
+      "doc_id": 3061501
+    },
+    {
+      "date": "2025-03-17",
+      "type": "Comm Sub",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00810S.htm",
+      "doc_id": 3177549
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Education",
+    "Education--Primary & Secondary",
+    "Education--Primary & Secondary--General",
+    "Education--Primary & Secondary--Other School Personnel",
+    "Education--Primary & Secondary--Teachers",
+    "DISCRIMINATION",
+    "Education--School Districts"
+  ]
+}

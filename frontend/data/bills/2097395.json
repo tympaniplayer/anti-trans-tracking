@@ -1,0 +1,57 @@
+{
+  "id": 2097395,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A1725",
+  "title": "Concerns housing discrimination based on source of lawful income.",
+  "summary": "Concerns housing discrimination based on source of lawful income.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A1725/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A1725/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A1725",
+  "sponsors": [
+    "Verlina Reynolds-Jackson (D) [Rep]",
+    "Linda Carter (D) [Rep]",
+    "William Sampson (D) [Rep]",
+    "Shanique Speight (D) [Rep]",
+    "Margie Donlon (D) [Rep]",
+    "Luanne Peterpaul (D) [Rep]",
+    "Yvonne Lopez (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Housing Committee",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Withdrawn Because Approved P.L.2025, c.251.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-30",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A2000/1725_I1.HTM",
+      "doc_id": 3336456
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Withdrawn Because Approved"
+  ]
+}

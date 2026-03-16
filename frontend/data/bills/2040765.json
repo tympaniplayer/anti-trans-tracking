@@ -1,0 +1,72 @@
+{
+  "id": 2040765,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB4753",
+  "title": "Civil rights: other; protections for the termination of a pregnancy under the Elliott-Larsen civil rights act; remove, and restore to former provisions. Amends secs. 201 & 202 of 1976 PA 453 (MCL 37.2201 & 37.2202).",
+  "summary": "Civil rights: other; protections for the termination of a pregnancy under the Elliott-Larsen civil rights act; remove, and restore to former provisions. Amends secs. 201 & 202 of 1976 PA 453 (MCL 37.2201 & 37.2202).",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB4753/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB4753/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4753",
+  "sponsors": [
+    "Josh Schriver (R) [Rep]",
+    "Matthew Maddock (R) [Rep]",
+    "Joseph Fox (R) [Rep]",
+    "Cam Cavitt (R) [Rep]",
+    "Gregory Markkanen (R) [Rep]",
+    "Steve Carra (R) [Rep]"
+  ],
+  "introduced_date": "2025-07-29",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-07-29",
+      "action": "Introduced By Representative Rep. Josh Schriver",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-29",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-29",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-12",
+      "action": "Bill Electronically Reproduced 07/29/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-29",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4753.htm",
+      "doc_id": 3263244
+    }
+  ],
+  "committee": {
+    "committee_id": 899,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Government Operations"
+  },
+  "subjects": [
+    "Civil rights: other",
+    "Health: abortion"
+  ]
+}

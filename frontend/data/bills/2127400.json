@@ -1,0 +1,76 @@
+{
+  "id": 2127400,
+  "state": "ME",
+  "state_name": "Maine",
+  "bill_number": "HP1501",
+  "title": "JOINT RESOLUTION RECOGNIZING MARCH 2026 AS SOCIAL WORK MONTH",
+  "summary": "JOINT RESOLUTION RECOGNIZING MARCH 2026 AS SOCIAL WORK MONTH",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ME/bill/HP1501/2025",
+  "legiscan_url": "https://legiscan.com/ME/bill/HP1501/2025",
+  "state_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?paper=HP1501&snum=132",
+  "sponsors": [
+    "Lori Gramlich (D) [Rep]",
+    "Poppy Arford (D) [Rep]",
+    "Michael Brennan (D) [Rep]",
+    "Lydia Crafts (D) [Rep]",
+    "Deqa Dhalac (D) [Rep]",
+    "Jill Duson (D) [Sen]",
+    "Scott Harriman (D) [Rep]",
+    "Margaret Rotundo (D) [Sen]",
+    "Melanie Sachs (D) [Rep]",
+    "Holly Stover (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-05",
+  "session": "132nd Legislature",
+  "actions": [
+    {
+      "date": "2026-03-05",
+      "action": "READ and ADOPTED.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "ROLL CALL NO. 632 (Yeas 88 - Nays 39 - Absent 22 - Excused 1 - Vacant 1)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "READ and ADOPTED, in concurrence.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-05",
+      "description": "Adoption RC #632",
+      "yea": 88,
+      "nay": 39,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1501&item=1&snum=132",
+      "doc_id": 3381005
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

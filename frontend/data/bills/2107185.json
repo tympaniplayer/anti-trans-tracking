@@ -1,0 +1,62 @@
+{
+  "id": 2107185,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB4966",
+  "title": "DCFS-SECURE ACT",
+  "summary": "Provides that the Act may be referred to as the Safeguards to Ensure Continuity and Uphold Rights and Equity (SECURE) Act. Sets forth several legislative findings, including that (i) Illinois retains a non-delegable duty to safeguard the safety, health, dignity, and well-being of all youth in the care or custody of the Department of Children and Family Services, and (ii) the Department must respect and meaningfully consider a youth's expressed preferences in placement options while conducting transparent, individualized risk assessments. Amends the Children and Family Services Act. Adds provisions concerning case plans for youth in care and the specific tasks and responsibilities a caregiver must complete to ensure each youth is provided with safe, proper, and supportive care based on the youth's needs and best interests, including, but not limited to, the youth's protected characteristics as defined under the Illinois Human Rights Act. Contains provisions concerning requirements for interstate placements of youth age 8 or older, including, but not limited to: protecting a youth's access to lawful health care and civil immunities for Department employees who protect a youth's access to lawful health care; individualized assessments on the suitability and risks of the proposed interstate placement; ongoing Illinois-based case worker contact and monitoring; and a prohibition on consent to conversion therapy. Contains provisions on youth requested in-state or out-of-state placement and other related matters; annual Department reports on out-of-state placements; performance audits; private right of action; and other matters. Amends the Child Care Act of 1969 by adding provisions on supportive care for youth in care; youth-directed placement rights; licensure and contractual compliance. Amends the Juvenile Court Act of 1987. Adds provisions on the appointment of an attorney for a youth in care with special needs; required Department attestations on caregiver conduct when a youth is placed in an out-of-state residential treatment center; assessments and monitoring for minors in out-of-state placements; and other matters. Effective July 1, 2027.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare",
+    "drag",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB4966/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB4966/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4966&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Kelly Cassidy (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-04",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "action": "Filed with the Clerk by Rep. Kelly M. Cassidy",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-04",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=207676&DocName=10400HB4966&DocNum=4966&DocTypeID=HB&LegID=166330&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3354674
+    }
+  ],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
+  "subjects": []
+}

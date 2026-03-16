@@ -1,0 +1,56 @@
+{
+  "id": 2040242,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB4603",
+  "title": "FAIR Act Fair, Affordable and Inclusive Rates Act",
+  "summary": "To amend the Public Utility Regulatory Policies Act of 1978 to prohibit State regulatory authorities from approving rates charged by electric utilities that engage in certain diversity, equity, or inclusion practices, or that consider environmental, social, or governance factors, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB4603/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB4603/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4603/all-info",
+  "sponsors": [
+    "John McGuire (R) [Rep]"
+  ],
+  "introduced_date": "2025-07-22",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-07-22",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-22",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-31",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr4603/BILLS-119hr4603ih.pdf",
+      "doc_id": 3263748
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Energy"
+  ]
+}

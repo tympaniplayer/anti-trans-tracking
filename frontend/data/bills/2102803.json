@@ -1,0 +1,52 @@
+{
+  "id": 2102803,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "S2399",
+  "title": "Decriminalizes certain commercial sexual activity. It would also include human trafficking as a racketeering activity and would allow expungements of certain convictions in \u00a7 11-34.1 after one year.",
+  "summary": "CRIMINAL OFFENSES -- COMMERCIAL SEXUAL ACTIVITY - Decriminalizes certain commercial sexual activity. It would also include human trafficking as a racketeering activity and would allow expungements of certain convictions in \u00a7 11-34.1 after one year.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/S2399/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/S2399/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Tiara Mack (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-30",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-30",
+      "action": "Introduced, referred to Senate Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-30",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/SenateText26/S2399.pdf",
+      "doc_id": 3342554
+    }
+  ],
+  "committee": {
+    "committee_id": 1140,
+    "chamber": "S",
+    "chamber_id": 84,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Criminal Offenses",
+    "CRIMINAL OFFENSES -- COMMERCIAL SEXUAL ACTIVITY"
+  ]
+}

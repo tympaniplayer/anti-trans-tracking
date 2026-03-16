@@ -1,0 +1,92 @@
+{
+  "id": 2022686,
+  "state": "NC",
+  "state_name": "North Carolina",
+  "bill_number": "H1000",
+  "title": "Detransitioners Bill of Rights",
+  "summary": "Detransitioners Bill of Rights",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NC/bill/H1000/2025",
+  "legiscan_url": "https://legiscan.com/NC/bill/H1000/2025",
+  "state_url": "https://www.ncleg.gov/BillLookUp/2025/H1000",
+  "sponsors": [
+    "Jake Johnson (R) [Rep]",
+    "Neal Jackson (R) [Rep]",
+    "Jonathan Almond (R) [Rep]",
+    "Jennifer Balkcom (R) [Rep]",
+    "Celeste Cairns (R) [Rep]",
+    "Bill Ward (R) [Rep]"
+  ],
+  "introduced_date": "2025-04-10",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-04-10",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Passed 1st Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Ref To Com On Rules, Calendar, and Operations of the House",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-10",
+      "type": "Introduced",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H1000v0.pdf",
+      "doc_id": 3208402
+    },
+    {
+      "date": "2025-04-14",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H1000v1.pdf",
+      "doc_id": 3211309
+    }
+  ],
+  "committee": {
+    "committee_id": 673,
+    "chamber": "H",
+    "chamber_id": 75,
+    "name": "Rules, Calendar, and Operations of the House"
+  },
+  "subjects": [
+    "Attorney General",
+    "Clinics",
+    "Confidentiality",
+    "Council Of State",
+    "Dhhs",
+    "Health Services",
+    "Lgbtq & Gender Issues",
+    "Justice Dept.",
+    "Medical Records",
+    "Occupations",
+    "Physicians",
+    "Privacy",
+    "Public",
+    "Public Health",
+    "Public Officials",
+    "Public Records",
+    "Reporting",
+    "Vital Records",
+    "Records",
+    "Liability",
+    "Patient Rights"
+  ]
+}

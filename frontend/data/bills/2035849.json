@@ -1,0 +1,57 @@
+{
+  "id": 2035849,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3792",
+  "title": "KIDS Act Kids Information Data Security Act",
+  "summary": "To amend title XI of the Social Security Act to prohibit providers participating in the Medicare program and State health care programs from requesting on intake forms information regarding the gender identity or sexual preference of minors.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3792/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3792/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3792/all-info",
+  "sponsors": [
+    "Jeff Van Drew (R) [Rep]"
+  ],
+  "introduced_date": "2025-06-05",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-05",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-05",
+      "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-12",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3792/BILLS-119hr3792ih.pdf",
+      "doc_id": 3255129
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

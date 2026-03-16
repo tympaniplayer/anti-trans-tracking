@@ -1,0 +1,56 @@
+{
+  "id": 2092288,
+  "state": "ID",
+  "state_name": "Idaho",
+  "bill_number": "S1228",
+  "title": "Amends existing law to provide that freedom from discrimination because of sexual orientation or gender identity is a civil right.",
+  "summary": "CIVIL RIGHTS -- Amends existing law to provide that freedom from discrimination because of sexual orientation or gender identity is a civil right.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ID/bill/S1228/2026",
+  "legiscan_url": "https://legiscan.com/ID/bill/S1228/2026",
+  "state_url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/S1228/",
+  "sponsors": [
+    "Melissa Wintrow (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Introduced; read first time; referred to JR for Printing",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Reported Printed; referred to State Affairs",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/S1228.pdf",
+      "doc_id": 3330862
+    }
+  ],
+  "committee": {
+    "committee_id": 1540,
+    "chamber": "S",
+    "chamber_id": 34,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "CIVIL RIGHTS"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": 2090855,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "HB478",
+  "title": "AN ACT relating to hate crimes.",
+  "summary": "Create a new section of KRS Chapter 532 to provide an enhanced term of imprisonment for any defendant convicted of certain crimes if the defendant intentionally committed the offense because of a person's actual or perceived race, color, ethnicity, national origin, religion, mental or physical disability, gender identity or expression, or sexual orientation; amend KRS 15.334 and 17.1523 to conform; create a new section of KRS Chapter 508 to create the offense of using hate symbols to intimidate; repeal KRS 49.320 and 532.03, relating to hate crimes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/HB478/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/HB478/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/hb478.html",
+  "sponsors": [
+    "Daniel Grossberg (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-22",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-22",
+      "action": "introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "to Committee on Committees (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "to Judiciary (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb478/orig_bill.pdf",
+      "doc_id": 3329110
+    }
+  ],
+  "committee": {
+    "committee_id": 327,
+    "chamber": "H",
+    "chamber_id": 43,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil Rights",
+    "Crime Victims",
+    "Crimes and Punishments",
+    "Criminal Procedure",
+    "Probation and Parole",
+    "Race Relations",
+    "Religion",
+    "Corrections Impact",
+    "Local Mandate"
+  ]
+}

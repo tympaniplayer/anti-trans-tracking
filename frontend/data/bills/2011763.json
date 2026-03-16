@@ -1,0 +1,55 @@
+{
+  "id": 2011763,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A07050",
+  "title": "Establishes a co-occurring disorders patient bill of rights to be implemented by various agencies.",
+  "summary": "Establishes a co-occurring disorders patient bill of rights to be implemented by various agencies.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A07050/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A07050/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A7050",
+  "sponsors": [
+    "Keith Brown (R) [Rep]",
+    "Joseph DeStefano (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-20",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-20",
+      "action": "referred to mental health",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to mental health",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-20",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A07050&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A07050",
+      "doc_id": 3183002
+    }
+  ],
+  "committee": {
+    "committee_id": 377,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Mental Health"
+  },
+  "subjects": []
+}

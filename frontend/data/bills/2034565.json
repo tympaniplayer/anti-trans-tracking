@@ -1,0 +1,64 @@
+{
+  "id": 2034565,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3658",
+  "title": "911 Community Crisis Responders Act of 2025",
+  "summary": "To authorize the Secretary of Health and Human Services, acting through the Assistant Secretary for Mental Health and Substance Use, to award grants to States, territories, political subdivisions of States and territories, Tribal Governments, and consortia of Tribal Governments to establish an unarmed mobile crisis response program, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3658/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3658/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3658/all-info",
+  "sponsors": [
+    "Adam Smith (D) [Rep]",
+    "Brian Fitzpatrick (R) [Rep]",
+    "Ro Khanna (D) [Rep]",
+    "Ed Case (D) [Rep]",
+    "Marilyn Strickland (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "David Scott (D) [Rep]",
+    "Jill Tokuda (D) [Rep]"
+  ],
+  "introduced_date": "2025-05-29",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-05-29",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-03",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3658/BILLS-119hr3658ih.pdf",
+      "doc_id": 3250415
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

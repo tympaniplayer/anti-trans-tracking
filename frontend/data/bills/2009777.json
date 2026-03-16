@@ -1,0 +1,142 @@
+{
+  "id": 2009777,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "SB0167",
+  "title": "Appropriations: higher education; appropriations for fiscal year 2025-2026; provide for. Amends secs. 236 & 241 of 1979 PA 94 (MCL 388.1836 & 388.1841).",
+  "summary": "Appropriations: higher education; appropriations for fiscal year 2025-2026; provide for. Amends secs. 236 & 241 of 1979 PA 94 (MCL 388.1836 & 388.1841).",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/SB0167/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/SB0167/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0167",
+  "sponsors": [
+    "Sean McCann (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-13",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-03-18",
+      "action": "Introduced By Senator Sean Mccann",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Referred To Committee On Appropriations",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Reported Favorably With Substitute (s-2) 5/6/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Committee Recommended Immediate Effect",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Referred To Committee Of The Whole With Substitute (s-2)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Reported By Committee Of The Whole Favorably With Substitute (s-2)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Substitute (s-2) Concurred In",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Placed On Order Of Third Reading With Substitute (s-2)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Rules Suspended",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Placed On Immediate Passage",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Amendment(s) Defeated",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Passed Roll Call # 85 Yeas 19 Nays 18 Excused 0 Not Voting 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Received On 05/13/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Referred To Committee On Appropriations",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-08",
+      "description": "Reported Favorably With Substitute S-2 5/6/2025",
+      "yea": 12,
+      "nay": 6,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-13",
+      "description": "Senate Third Reading: Passed Roll Call # 85",
+      "yea": 19,
+      "nay": 18,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-03-18",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/htm/2025-SIB-0167.htm",
+      "doc_id": 3179230
+    },
+    {
+      "date": "2025-05-13",
+      "type": "Engrossed",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/Senate/htm/2025-SEBS-0167.htm",
+      "doc_id": 3236087
+    }
+  ],
+  "committee": {
+    "committee_id": 889,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Appropriations"
+  },
+  "subjects": [
+    "Appropriations: higher education"
+  ]
+}

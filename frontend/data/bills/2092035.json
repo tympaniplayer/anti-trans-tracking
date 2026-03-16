@@ -1,0 +1,117 @@
+{
+  "id": 2092035,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "HB2082",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 36, Chapter 6; Title 37, Chapter 1 and Title 39, Chapter 15, relative to children.",
+  "summary": "As introduced, specifies that a parent's or legal guardian's action of raising, guiding, or instructing the parent's or legal guardian's child in a manner consistent with the child's biological sex is not a basis for certain findings or actions by the court, does not constitute the criminal offense of child abuse, child neglect, or child endangerment, and must not be considered as a negative factor by a court in determining a custody arrangement in the best interest of the child. - Amends TCA Title 36, Chapter 6; Title 37, Chapter 1 and Title 39, Chapter 15.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/HB2082/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/HB2082/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB2082&ga=114",
+  "sponsors": [
+    "Mary Littleton (R) [Rep]",
+    "Michele Reneau (R) [Rep]",
+    "Monty Fritts (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Filed for introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Intro., P1C.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "P2C, ref. to Judiciary Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Assigned to s/c Children and Family Affairs Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Placed on s/c cal Children and Family Affairs Subcommittee for 2/17/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Rec. for pass by s/c ref. to Judiciary Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Sponsor(s) Added.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Placed on cal. Judiciary Committee for 3/4/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Action def. in Judiciary Committee to 3/11/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Placed on cal. Judiciary Committee for 3/11/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Action def. in Judiciary Committee to 3/18/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Placed on cal. Judiciary Committee for 3/18/2026",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-17",
+      "description": "HOUSE CHILDREN AND FAMILY AFFAIRS SUBCOMMITTEE: Rec. for pass by s/c ref. to Judiciary Committee",
+      "yea": 3,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-23",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB2082.pdf",
+      "doc_id": 3330609
+    }
+  ],
+  "committee": {
+    "committee_id": 2486,
+    "chamber": "H",
+    "chamber_id": 89,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Children"
+  ]
+}

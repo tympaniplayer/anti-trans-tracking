@@ -1,0 +1,55 @@
+{
+  "id": 2075730,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S856",
+  "title": "\"Fairness in Women's Sports Act.\"",
+  "summary": "\"Fairness in Women's Sports Act.\"",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S856/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S856/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S856",
+  "sponsors": [
+    "Michael Testa (R) [Sen]",
+    "James Holzapfel (R) [Sen]",
+    "Douglas Steinhardt (R) [Sen]",
+    "Parker Space (R) [Sen]",
+    "Latham Tiver (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Education Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-22",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S1000/856_I1.HTM",
+      "doc_id": 3312755
+    }
+  ],
+  "committee": {
+    "committee_id": 877,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Education"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

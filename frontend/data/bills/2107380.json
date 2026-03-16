@@ -1,0 +1,52 @@
+{
+  "id": 2107380,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0885",
+  "title": "An act relating to use of public lands by individuals for life-sustaining activities",
+  "summary": "An act relating to use of public lands by individuals for life-sustaining activities",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0885/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0885/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.885",
+  "sponsors": [
+    "Jubilee McGill (D) [Rep]",
+    "Conor Casey (D) [Rep]",
+    "Brian Cina (D) [Rep]",
+    "Troy Headrick (I) [Rep]"
+  ],
+  "introduced_date": "2026-02-04",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "action": "Read first time and referred to the Committee on Human Services",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-04",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0885/H-0885%20As%20Introduced.pdf",
+      "doc_id": 3347825
+    }
+  ],
+  "committee": {
+    "committee_id": 789,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "Human Services"
+  },
+  "subjects": []
+}

@@ -1,0 +1,79 @@
+{
+  "id": 2120017,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB5555",
+  "title": "Civil rights: disabilities discrimination; protections against harassment by an educational institution; provide for. Amends secs. 401, 402 & 606 of 1976 PA 220 (MCL 37.1401 et seq.) & adds secs. 402a, 402b, 402c & 606a.",
+  "summary": "Civil rights: disabilities discrimination; protections against harassment by an educational institution; provide for. Amends secs. 401, 402 & 606 of 1976 PA 220 (MCL 37.1401 et seq.) & adds secs. 402a, 402b, 402c & 606a.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB5555/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB5555/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5555",
+  "sponsors": [
+    "Laurie Pohutsky (D) [Rep]",
+    "Reggie Miller (D) [Rep]",
+    "Carrie Rheingans (D) [Rep]",
+    "Sharon MacDonell (D) [Rep]",
+    "Jimmie Wilson (D) [Rep]",
+    "Natalie Price (D) [Rep]",
+    "Penelope Tsernoglou (D) [Rep]",
+    "Jasper Martus (D) [Rep]",
+    "Jason Hoskins (D) [Rep]",
+    "Erin Byrnes (D) [Rep]",
+    "Matt Longjohn (D) [Rep]",
+    "Tonya Myers Phillips (D) [Rep]",
+    "Emily Dievendorf (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-19",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2026-02-19",
+      "action": "Introduced By Representative Rep. Laurie Pohutsky",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Bill Electronically Reproduced 02/19/2026",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-19",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2026-HIB-5555.htm",
+      "doc_id": 3368168
+    }
+  ],
+  "committee": {
+    "committee_id": 899,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Government Operations"
+  },
+  "subjects": [
+    "Civil rights: disabilities discrimination",
+    "Education: other"
+  ]
+}

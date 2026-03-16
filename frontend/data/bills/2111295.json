@@ -1,0 +1,59 @@
+{
+  "id": 2111295,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB3952",
+  "title": "TNC SERVICE-TRANSPORT OF GOODS",
+  "summary": "Amends the Transportation Network Providers Act. Applies the Act to transportation network company services that provide the transportation of goods, including goods from a retail store, warehouse, fulfillment center, or restaurant. Changes the term \"passenger\" to \"customer\". Removes the repeal date of the Act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB3952/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB3952/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3952&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "Erica Harriss (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-06",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "action": "Filed with Secretary by Sen. Erica Harriss",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=208778&DocName=10400SB3952&DocNum=3952&DocTypeID=SB&LegID=167432&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3354475
+    }
+  ],
+  "committee": {
+    "committee_id": 254,
+    "chamber": "S",
+    "chamber_id": 36,
+    "name": "Assignments"
+  },
+  "subjects": []
+}

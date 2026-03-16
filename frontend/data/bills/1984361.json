@@ -1,0 +1,88 @@
+{
+  "id": 1984361,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "HB136",
+  "title": "Prohibit sexual orientation or gender identity discrimination",
+  "summary": "To amend sections 4112.01 and 4112.05 of the Revised Code to prohibit discrimination on the basis of sexual orientation or gender identity or expression, to add mediation as an informal method that the Ohio Civil Rights Commission may use, and to uphold existing religious exemptions under Ohio's Civil Rights Law.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "religious_exemptions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/HB136/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/HB136/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/hb136",
+  "sponsors": [
+    "Tristan Rader (D) [Rep]",
+    "Crystal Lett (D) [Rep]",
+    "Munira Abdullahi (D) [Rep]",
+    "Rachel Baker (D) [Rep]",
+    "Sean Brennan (D) [Rep]",
+    "Juanita Brent (D) [Rep]",
+    "Darnell Brewer (D) [Rep]",
+    "Karen Brownlee (D) [Rep]",
+    "Christine Cockley (D) [Rep]",
+    "Chris Glassburn (D) [Rep]",
+    "Michele Grim (D) [Rep]",
+    "Derrick Hall (D) [Rep]",
+    "Latyna Humphrey (D) [Rep]",
+    "Dani Isaacsohn (D) [Rep]",
+    "Dontavius Jarrells (D) [Rep]",
+    "Meredith Lawson-Rowe (D) [Rep]",
+    "Lauren McNally (D) [Rep]",
+    "Joseph Miller (D) [Rep]",
+    "Ismail Mohamed (D) [Rep]",
+    "Beryl Brown Piccolantonio (D) [Rep]",
+    "Phillip Robinson (D) [Rep]",
+    "Allison Russo (D) [Rep]",
+    "Mark Sigrist (D) [Rep]",
+    "Veronica Sims (D) [Rep]",
+    "Anita Somani (D) [Rep]",
+    "Bride Sweeney (D) [Rep]",
+    "Eric Synenberg (D) [Rep]",
+    "Cecil Thomas (D) [Rep]",
+    "Desiree Tims (D) [Rep]",
+    "Daniel Troy (D) [Rep]",
+    "Terrence Upchurch (D) [Rep]",
+    "Erika White (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-25",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-25",
+      "action": "Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Referred to committee: Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb136/00_IN/pdf/",
+      "doc_id": 3142348
+    }
+  ],
+  "committee": {
+    "committee_id": 106,
+    "chamber": "H",
+    "chamber_id": 5,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Commerce",
+    "House Judiciary Committee"
+  ]
+}

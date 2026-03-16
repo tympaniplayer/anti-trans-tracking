@@ -1,0 +1,54 @@
+{
+  "id": 1975456,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S05163",
+  "title": "Prohibits discrimination based on status as a person with a prior conviction.",
+  "summary": "Prohibits discrimination based on status as a person with a prior conviction.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S05163/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S05163/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S5163",
+  "sponsors": [
+    "Leroy Comrie (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-19",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-19",
+      "action": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-19",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S05163&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S05163",
+      "doc_id": 3130584
+    }
+  ],
+  "committee": {
+    "committee_id": 433,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Investigations and Government Operations"
+  },
+  "subjects": []
+}

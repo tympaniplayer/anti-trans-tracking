@@ -1,0 +1,72 @@
+{
+  "id": 2093625,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HB2143",
+  "title": "Relating To Health Care.",
+  "summary": "Establishes a universal, single payer health care system to be known as \"Hawaii Care\", to provide comprehensive health care benefits to all state residents and eventually replace all existing health care plans in the State. Designates the Hawaii Health Authority as the responsible agency for the comprehensive planning, implementation, and administration of Hawaii Care. Requires the Hawaii Health Authority to develop and submit a comprehensive implementation and administration plan to the legislature by a certain date. Establishes the Hawaii Care special fund. Requires the Hawaii Health Authority to adopt rules and submit reports to the Legislature. Requires the Governor to appoint members to the Hawaii Health Authority by 12/31/2026. Requires the Department of Human Services to apply for necessary federal waivers. Takes effect 180 days after the approval of the Hawaii Medicaid State Plan and necessary federal waivers. Appropriates funds.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HB2143/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HB2143/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2143&year=2026",
+  "sponsors": [
+    "Gregg Takayama (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-28",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-26",
+      "action": "Pending introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Introduced and Pass First Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "Referred to HLT/HSH, CPC, FIN, referral sheet 5",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-26",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB2143_.HTM",
+      "doc_id": 3332450
+    }
+  ],
+  "committee": {
+    "committee_id": 2042,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Health"
+  },
+  "subjects": [
+    "Hawaii Health Authority",
+    "Hawaii Care",
+    "Universal Health Care",
+    "Single Payer Health Care System",
+    "Hawaii Care Special Fund",
+    "Rules",
+    "Reports",
+    "Governor",
+    "Department of Human Services",
+    "Medicare",
+    "Medicaid",
+    "Appropriation ($)"
+  ]
+}

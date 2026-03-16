@@ -1,0 +1,51 @@
+{
+  "id": 2116098,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A4373",
+  "title": "Requires immediate public reporting of bias incident; facilitates receipt of information from public for purposes of prosecuting bias incident.",
+  "summary": "Requires immediate public reporting of bias incident; facilitates receipt of information from public for purposes of prosecuting bias incident.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A4373/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A4373/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A4373",
+  "sponsors": [
+    "Alex Sauickie (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-19",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-19",
+      "action": "Introduced, Referred to Assembly Judiciary Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-20",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A4500/4373_I1.HTM",
+      "doc_id": 3371606
+    }
+  ],
+  "committee": {
+    "committee_id": 862,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Judiciary"
+  ]
+}

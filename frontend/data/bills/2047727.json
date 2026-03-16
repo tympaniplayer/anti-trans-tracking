@@ -1,0 +1,56 @@
+{
+  "id": 2047727,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR835",
+  "title": "Declaring gun violence a public health crisis.",
+  "summary": "Declaring gun violence a public health crisis.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR835/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR835/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/835/all-info",
+  "sponsors": [
+    "Adriano Espaillat (D) [Rep]"
+  ],
+  "introduced_date": "2025-10-28",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-10-28",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-28",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-29",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres835/BILLS-119hres835ih.pdf",
+      "doc_id": 3275102
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

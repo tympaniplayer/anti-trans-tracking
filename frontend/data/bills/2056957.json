@@ -1,0 +1,55 @@
+{
+  "id": 2056957,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5830",
+  "title": "Clarifying hate crimes to include political affiliation.",
+  "summary": "Clarifying hate crimes to include political affiliation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5830/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5830/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5830&Year=2025&Initiative=false",
+  "sponsors": [
+    "Phil Fortunato (R) [Sen]",
+    "Jeff Holy (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-04",
+      "action": "Prefiled for introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "First reading, referred to Law & Justice.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5830.pdf",
+      "doc_id": 3288315
+    }
+  ],
+  "committee": {
+    "committee_id": 2771,
+    "chamber": "S",
+    "chamber_id": 98,
+    "name": "Law & Justice"
+  },
+  "subjects": []
+}

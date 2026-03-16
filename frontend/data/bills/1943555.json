@@ -1,0 +1,101 @@
+{
+  "id": 1943555,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1671",
+  "title": "Protecting personal data privacy.",
+  "summary": "Protecting personal data privacy.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1671/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1671/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1671&Year=2025&Initiative=false",
+  "sponsors": [
+    "Shelley Kloba (D) [Rep]",
+    "Mary Fosse (D) [Rep]",
+    "Beth Doglio (D) [Rep]",
+    "Lisa Parshley (D) [Rep]",
+    "Liz Berry (D) [Rep]",
+    "Alex Ramel (D) [Rep]",
+    "Shaun Scott (D) [Rep]",
+    "Jamila Taylor (D) [Rep]",
+    "Tarra Simmons (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-28",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-28",
+      "action": "First reading, referred to Technology, Economic Development, & Veterans.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Public hearing in the House Committee on Technology, Economic Development, & Veterans at 10:30 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-14",
+      "action": "Executive action taken in the House Committee on Technology, Economic Development, & Veterans at 10:30 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-14",
+      "action": "TEDV - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-14",
+      "action": "Minority; do not pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Referred to Appropriations.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-14",
+      "description": "House Committee on Technology, Economic Development, & Veterans: 1st substitute bill be substituted, do pass",
+      "yea": 7,
+      "nay": 4,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1671.pdf",
+      "doc_id": 3085005
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1671-S.pdf",
+      "doc_id": 3126053
+    }
+  ],
+  "committee": {
+    "committee_id": 2759,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Appropriations"
+  },
+  "subjects": []
+}

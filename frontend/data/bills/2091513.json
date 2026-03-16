@@ -1,0 +1,73 @@
+{
+  "id": 2091513,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "HB1471",
+  "title": "Aggravated murder; assault & battery of correctional officer, custodial employee of DOC, penalties.",
+  "summary": "Aggravated murder; assault and battery; correctional officer; custodial employee of Department of Corrections; penalties. Adds to the definition of aggravated murder, which is a Class 1 felony, the willful, deliberate, and premeditated killing of a correctional officer, defined in relevant law, when such killing is for the purpose of interfering with the performance of his official duties. The bill also expands the definition of aggravated murder to include the willful, deliberate, and premeditated killing of any person by a prisoner confined in a juvenile correctional facility, defined in relevant law. The bill provides that if any person maliciously causes bodily injury to another by any means, including the means set out in existing law, with intent to maim, disfigure, disable, or kill, and knowing or having reason to know that such other person is a correctional officer, as defined in relevant law, engaged in the performance of his public duties as a correctional officer, such person is guilty of a felony punishable by imprisonment for a period of not less than five years nor more than 30 years and, subject to existing law, a fine of not more than $100,000; upon conviction, the sentence of such person shall include a mandatory minimum term of imprisonment of two years. The bill also provides that if any person unlawfully, but not maliciously, with the intent aforesaid, causes bodily injury to another by any means, knowing or having reason to know such other person is a correctional officer engaged in the performance of his public duties as a correctional officer, he is guilty of a Class 6 felony, and upon conviction, the sentence of such person shall include a mandatory minimum term of imprisonment of one year. Lastly, the bill provides that if an assault and battery upon (i) a correctional officer; (ii) a person directly involved in the care, treatment, or supervision of inmates in the custody of the Department of Corrections; (iii) an employee of a local or regional correctional facility directly involved in the care, treatment, or supervision of inmates in the custody of the facility; or (iv) a person directly involved in the care, treatment, or supervision of persons in the custody of or under the supervision of the Department of Juvenile Justice involves the use of any bodily fluid or excrement from such person charged, the sentence of such person, upon conviction, shall include a mandatory minimum term of confinement of three years.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions",
+    "healthcare",
+    "bathrooms",
+    "drag"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/HB1471/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/HB1471/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/HB1471",
+  "sponsors": [
+    "Terry Austin (R) [Rep]",
+    "Will Davis (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Presented and ordered printed 26104581D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Fiscal Impact statement From VCSC (1/23/2026 3:18 pm)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Referred to Committee for Courts of Justice",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (HB1471)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Left in Committee Courts of Justice",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-23",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB1471/text/HB1471",
+      "doc_id": 3330005
+    }
+  ],
+  "committee": {
+    "committee_id": 150,
+    "chamber": "H",
+    "chamber_id": 7,
+    "name": "Courts of Justice"
+  },
+  "subjects": []
+}

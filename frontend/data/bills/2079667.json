@@ -1,0 +1,65 @@
+{
+  "id": 2079667,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB4425",
+  "title": "GENDER-AFFIRMING HEALTH CARE",
+  "summary": "Amends the Hospital Licensing Act and the University of Illinois Hospital Act. Provides that, unless otherwise required by Illinois law, no hospital, individual affiliated with a hospital, or person contracted with a hospital shall release information related to any person or entity that allows a child to receive gender-affirming health care or gender-affirming mental health care in response to any criminal or civil action, including a foreign subpoena, based on another state's law that authorizes a civil action to be brought against any person or entity that allows a child to receive gender-affirming health care or gender-affirming mental health care. Amends the Illinois Insurance Code, the State Employees Group Insurance Act of 1971, the Counties Code, the Illinois Municipal Code, the School Code, the Health Maintenance Organization Act, the Limited Health Service Organization Act, the Voluntary Health Services Plans Act, and the Illinois Public Aid Code to prohibit the same release of information from an issuer of a policy of accident or health insurance.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB4425/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB4425/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4425&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Anne Stava-Murray (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Filed with the Clerk by Rep. Anne Stava",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Assigned to Human Services Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=206467&DocName=10400HB4425&DocNum=4425&DocTypeID=HB&LegID=165119&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3316625
+    }
+  ],
+  "committee": {
+    "committee_id": 212,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Human Services"
+  },
+  "subjects": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": 2045783,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S2622",
+  "title": "Relative to language access and inclusion",
+  "summary": "For legislation relative to language access and inclusion, report the accompanying bill (Senate, No. 2622).",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S2622/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S2622/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S2622",
+  "sponsors": [
+    "Joint Committee on State Administration and Regulatory Oversight [Jnt]"
+  ],
+  "introduced_date": "2025-10-06",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-10-06",
+      "action": "Reported from the committee on State Administration and Regulatory Oversight",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-06",
+      "action": "New draft of S2125",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-06",
+      "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-06",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S2622.pdf",
+      "doc_id": 3271913
+    }
+  ],
+  "committee": {
+    "committee_id": 746,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

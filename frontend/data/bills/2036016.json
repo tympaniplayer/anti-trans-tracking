@@ -1,0 +1,101 @@
+{
+  "id": 2036016,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "AB311",
+  "title": "Changing an individual\u2019s sex on a birth certificate.",
+  "summary": "An Act to amend 69.15 (1) (a) and 69.15 (4) (b); to create 69.01 (1m), 69.115 and 69.12 (2m) of the statutes; Relating to: changing an individual\u2019s sex on a birth certificate.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "identity_documents"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/AB311/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/AB311/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab311",
+  "sponsors": [
+    "Lindee Brill (R) [Rep]",
+    "Dave Maxey (R) [Rep]",
+    "Joy Goeben (R) [Rep]",
+    "Chuck Wichgers (R) [Rep]",
+    "Jim Piwowarczyk (R) [Rep]",
+    "Nate Gustafson (R) [Rep]",
+    "David Steffen (R) [Rep]",
+    "William Penterman (R) [Rep]",
+    "Cindi Duchow (R) [Rep]",
+    "Amanda Nedweski (R) [Rep]",
+    "Calvin Callahan (R) [Rep]",
+    "David Murphy (R) [Rep]",
+    "Barbara Dittrich (R) [Rep]",
+    "Scott Allen (R) [Rep]",
+    "Elijah Behnke (R) [Rep]",
+    "Steve Nass (R) [Sen]",
+    "Van Wanggaard (R) [Sen]",
+    "Romaine Quinn (R) [Sen]"
+  ],
+  "introduced_date": "2025-06-06",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-06-06",
+      "action": "Introduced",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-06",
+      "action": "Read first time and referred to Committee on Judiciary",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-22",
+      "action": "Assembly Amendment 1 offered by Representative Brill",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Public hearing held",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Executive action taken",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Report Assembly Amendment 1 adoption recommended by Committee on Judiciary, Ayes 5, Noes 3",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Report passage as amended recommended by Committee on Judiciary, Ayes 5, Noes 3",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Referred to committee on Rules",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-06",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AB311.pdf",
+      "doc_id": 3252789
+    }
+  ],
+  "committee": {
+    "committee_id": 1049,
+    "chamber": "A",
+    "chamber_id": 99,
+    "name": "Rules"
+  },
+  "subjects": []
+}

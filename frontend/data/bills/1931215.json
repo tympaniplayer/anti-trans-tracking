@@ -1,0 +1,60 @@
+{
+  "id": 1931215,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0055",
+  "title": "An act relating to coverage for fertility treatment and gender-affirming health care services",
+  "summary": "An act relating to coverage for fertility treatment and gender-affirming health care services",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0055/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0055/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.55",
+  "sponsors": [
+    "Troy Headrick (I) [Rep]",
+    "Elizabeth Burrows (D) [Rep]",
+    "Conor Casey (D) [Rep]",
+    "Brian Cina (D) [Rep]",
+    "Esme Cole (D) [Rep]",
+    "Kate Logan (D) [Rep]",
+    "Kate McCann (D) [Rep]",
+    "Jubilee McGill (D) [Rep]",
+    "Monique Priestley (D) [Rep]",
+    "Heather Surprenant (D) [Rep]",
+    "Chloe Tomlinson (D) [Rep]",
+    "Edward Waszazak (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-22",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-01-22",
+      "action": "Read first time and referred to the Committee on Health Care",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-21",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0055/H-0055%20As%20Introduced.pdf",
+      "doc_id": 3068858
+    }
+  ],
+  "committee": {
+    "committee_id": 788,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "Health Care"
+  },
+  "subjects": []
+}

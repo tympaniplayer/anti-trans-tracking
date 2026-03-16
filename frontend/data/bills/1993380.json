@@ -1,0 +1,95 @@
+{
+  "id": 1993380,
+  "state": "DE",
+  "state_name": "Delaware",
+  "bill_number": "HB36",
+  "title": "An Act To Amend Title 2, Title 6, Title 9, Title 10, Title 14, Title 19, Title 20, Title 24, Title 25, And Title 29 Of The Delaware Code Relating To Discrimination.",
+  "summary": "An Act To Amend Title 2, Title 6, Title 9, Title 10, Title 14, Title 19, Title 20, Title 24, Title 25, And Title 29 Of The Delaware Code Relating To Discrimination.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DE/bill/HB36/2025",
+  "legiscan_url": "https://legiscan.com/DE/bill/HB36/2025",
+  "state_url": "https://legis.delaware.gov/BillDetail?LegislationId=141889",
+  "sponsors": [
+    "Eric Morrison (D) [Rep]",
+    "Laura Sturgeon (D) [Sen]",
+    "Frank Burns (D) [Rep]",
+    "Mara Gorman (D) [Rep]",
+    "Claire Snyder-Hall (D) [Rep]",
+    "Kerri Harris (D) [Rep]",
+    "Larry Lambert (D) [Rep]"
+  ],
+  "introduced_date": "2025-08-20",
+  "session": "153rd General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-06",
+      "action": "Introduced and Assigned to Administration Committee in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Reported Out of Committee (Administration) in House with 5 On Its Merits",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Passed By House. Votes: 36 YES 1 NO 4 ABSENT",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Assigned to Education Committee in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Reported Out of Committee (Education) in Senate with 4 On Its Merits",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "Passed By Senate. Votes: 15 YES 6 NO",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-20",
+      "action": "Signed by Governor",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-27",
+      "description": "House Third Reading",
+      "yea": 36,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-24",
+      "description": "Senate Third Reading",
+      "yea": 15,
+      "nay": 6,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Draft",
+      "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=141889&legislationTypeId=1&docTypeId=2&legislationName=HB36",
+      "doc_id": 3156168
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

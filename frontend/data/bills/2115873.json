@@ -1,0 +1,53 @@
+{
+  "id": 2115873,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A4349",
+  "title": "Requires health insurance and Medicaid coverage for family planning and reproductive health care services; prohibits adverse actions by medical malpractice insurers in relation to performance of legally protected health care services.",
+  "summary": "Requires health insurance and Medicaid coverage for family planning and reproductive health care services; prohibits adverse actions by medical malpractice insurers in relation to performance of legally protected health care services.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "drag"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A4349/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A4349/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A4349",
+  "sponsors": [
+    "Shanique Speight (D) [Rep]",
+    "Shama Haider (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-19",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-19",
+      "action": "Introduced, Referred to Assembly Financial Institutions and Insurance Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-20",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A4500/4349_I1.HTM",
+      "doc_id": 3370868
+    }
+  ],
+  "committee": {
+    "committee_id": 856,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Financial Institutions and Insurance"
+  },
+  "subjects": [
+    "Financial Institutions and Insurance"
+  ]
+}

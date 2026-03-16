@@ -1,0 +1,50 @@
+{
+  "id": 2089128,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A09642",
+  "title": "Requires the registration of data brokers; imposes regulations upon data brokers; establishes a data deletion mechanism for consumers; imposes penalties upon data brokers for violations of the law.",
+  "summary": "Requires the registration of data brokers; imposes regulations upon data brokers; establishes a data deletion mechanism for consumers; imposes penalties upon data brokers for violations of the law.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A09642/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A09642/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A9642",
+  "sponsors": [
+    "Emerita Torres (D) [Rep]",
+    "Jo Simon (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-21",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-21",
+      "action": "referred to consumer affairs and protection",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A09642&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A09642",
+      "doc_id": 3326979
+    }
+  ],
+  "committee": {
+    "committee_id": 358,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Consumer Affairs and Protection"
+  },
+  "subjects": []
+}

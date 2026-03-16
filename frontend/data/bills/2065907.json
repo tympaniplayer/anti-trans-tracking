@@ -1,0 +1,175 @@
+{
+  "id": 2065907,
+  "state": "AZ",
+  "state_name": "Arizona",
+  "bill_number": "SB1095",
+  "title": "Gender transition; minors; prohibitions",
+  "summary": "Gender transition; minors; prohibitions",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AZ/bill/SB1095/2026",
+  "legiscan_url": "https://legiscan.com/AZ/bill/SB1095/2026",
+  "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/83770",
+  "sponsors": [
+    "Mark Finchem (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-23",
+  "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "action": "Prefile",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Introduced in Senate and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Assigned to Senate JUDE Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Assigned to Senate RULES Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Senate read second time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Senate JUDE Committee action: Do Pass Amended, voting: (4-3-0-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Senate RULES Committee action: Proper For Consideration, voting: (0-0-0-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Senate majority caucus: Do pass",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Senate minority caucus: Do pass",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Senate Committee of the Whole action: Do Pass Amended",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Senate third reading PASSED voting: (16-11-3-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Transmit to House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Introduced in House and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Assigned to House HHS Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Assigned to House RULES Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "House read second time",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-28",
+      "description": "Senate Judiciary and Elections Committee Action (DPA)",
+      "yea": 4,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-02",
+      "description": "Senate Rules Committee Action (PFC)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-23",
+      "description": "Senate - Committee of the Whole (DPA)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-23",
+      "description": "Senate - Third Reading",
+      "yea": 16,
+      "nay": 11,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-06",
+      "type": "Introduced",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/sb1095p.htm",
+      "doc_id": 3300359
+    },
+    {
+      "date": "2026-02-23",
+      "type": "Engrossed",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/sb1095s.htm",
+      "doc_id": 3374051
+    }
+  ],
+  "committee": {
+    "committee_id": 1096,
+    "chamber": "H",
+    "chamber_id": 15,
+    "name": "Health and Human Services"
+  },
+  "subjects": [
+    "Definitions",
+    "Effective Date",
+    "Enforcement",
+    "Gender Transition",
+    "Gender Transition Procedures",
+    "Health Professionals",
+    "Irreversible Gender Reassignment Surgery",
+    "Minors",
+    "Professions And Occupations - Title 32",
+    "Prohibition",
+    "Prohibitions",
+    "Purpose",
+    "Referrals",
+    "Right Of Action",
+    "Use Of Public Monies Prohibited"
+  ]
+}

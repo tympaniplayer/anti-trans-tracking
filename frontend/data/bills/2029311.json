@@ -1,0 +1,63 @@
+{
+  "id": 2029311,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "SB0291",
+  "title": "Insurance: health insurers; coverage for adverse consequences related to gender transition and reversal of gender transition; require. Amends 1956 PA 218 (MCL 500.100 - 500.8302) by adding sec. 3406ww.",
+  "summary": "Insurance: health insurers; coverage for adverse consequences related to gender transition and reversal of gender transition; require. Amends 1956 PA 218 (MCL 500.100 - 500.8302) by adding sec. 3406ww.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/SB0291/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/SB0291/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0291",
+  "sponsors": [
+    "Jonathan Lindsey (R) [Sen]",
+    "Thomas Albert (R) [Sen]",
+    "Kevin Daley (R) [Sen]",
+    "Michele Hoitenga (R) [Sen]",
+    "Dan Lauwers (R) [Sen]",
+    "Ricky Outman (R) [Sen]",
+    "Lana Theis (R) [Sen]"
+  ],
+  "introduced_date": "2025-05-07",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-05-07",
+      "action": "Introduced By Senator Jonathan Lindsey",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-07",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/htm/2025-SIB-0291.htm",
+      "doc_id": 3231192
+    }
+  ],
+  "committee": {
+    "committee_id": 838,
+    "chamber": "S",
+    "chamber_id": 54,
+    "name": "Government Operations"
+  },
+  "subjects": [
+    "Insurance: health insurers",
+    "Insurance: health benefits"
+  ]
+}

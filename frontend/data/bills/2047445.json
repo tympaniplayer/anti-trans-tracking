@@ -1,0 +1,76 @@
+{
+  "id": 2047445,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR827",
+  "title": "Expressing support for the recognition of October 26, 2025, as Intersex Awareness Day, and supporting the goals and ideals of Intersex Awareness Day.",
+  "summary": "Expressing support for the recognition of October 26, 2025, as Intersex Awareness Day, and supporting the goals and ideals of Intersex Awareness Day.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR827/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR827/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/827/all-info",
+  "sponsors": [
+    "Becca Balint (D) [Rep]",
+    "Mark Takano (D) [Rep]",
+    "Mark Pocan (D) [Rep]",
+    "Suzanne Bonamici (D) [Rep]",
+    "Valerie Foushee (D) [Rep]",
+    "Maxwell Frost (D) [Rep]",
+    "Kevin Mullin (D) [Rep]",
+    "Scott Peters (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Ritchie Torres (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Pramila Jayapal (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Andre Carson (D) [Rep]",
+    "Sylvia Garcia (D) [Rep]",
+    "Sara Jacobs (D) [Rep]",
+    "Dwight Evans (D) [Rep]",
+    "Emily Randall (D) [Rep]",
+    "Jared Huffman (D) [Rep]"
+  ],
+  "introduced_date": "2025-10-24",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-10-24",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-24",
+      "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-28",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres827/BILLS-119hres827ih.pdf",
+      "doc_id": 3274786
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

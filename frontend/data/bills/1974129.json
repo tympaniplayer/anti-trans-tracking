@@ -1,0 +1,170 @@
+{
+  "id": 1974129,
+  "state": "GA",
+  "state_name": "Georgia",
+  "bill_number": "SB185",
+  "title": "Correctional Institutions of State and Counties; use of state funds or resources for certain treatments for state inmates; prohibit",
+  "summary": "A BILL to be entitled an Act to amend Chapter 5 of Title 42 of the Official Code of Georgia Annotated, relating to correctional institutions of state and counties, so as to prohibit the use of state funds or resources for certain treatments for state inmates; to provide for the adoption of rules and regulations by the Board of Corrections relating to such prohibitions and exceptions; to provide for a definition; to provide for related matters; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "healthcare",
+    "definitions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/GA/bill/SB185/2025",
+  "legiscan_url": "https://legiscan.com/GA/bill/SB185/2025",
+  "state_url": "https://www.legis.ga.gov/legislation/70386",
+  "sponsors": [
+    "Randy Robertson (R) [Sen]",
+    "Steve Gooch (R) [Sen]",
+    "John Albers (R) [Sen]",
+    "Carden Summers (R) [Sen]",
+    "Max Burns (R) [Sen]",
+    "Chuck Hufstetler (R) [Sen]",
+    "Chuck Payne (R) [Sen]",
+    "Ricky Williams (R) [Sen]",
+    "Mike Hodges (R) [Sen]",
+    "Frank Ginn (R) [Sen]",
+    "Russ Goodman (R) [Sen]",
+    "Blake Tillery (R) [Sen]",
+    "Drew Echols (R) [Sen]",
+    "Brian Strickland (R) [Sen]",
+    "Marty Harbin (R) [Sen]",
+    "Lee Anderson (R) [Sen]",
+    "Bo Hatchett (R) [Sen]",
+    "Brandon Beach (R) [Sen]",
+    "Jason Anavitarte (R) [Sen]",
+    "Matt Brass (R) [Sen]",
+    "Ben Watson (R) [Sen]",
+    "Scott Hilton (R) [Rep]"
+  ],
+  "introduced_date": "2025-05-08",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-18",
+      "action": "Senate Hopper",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Senate Read and Referred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Senate Committee Favorably Reported",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate Read Second Time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Senate Third Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Senate Passed/Adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "House First Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "House Second Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "House Committee Favorably Reported",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "House Third Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "House Passed/Adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Senate Sent to Governor",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Senate Date Signed by Governor",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Act 69",
+      "chamber": ""
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Effective Date 2025-05-08",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-03",
+      "description": "Adoption Of Amendment #1 By The Senator From The 44th: Senate Vote #127",
+      "yea": 19,
+      "nay": 34,
+      "passed": 0
+    },
+    {
+      "date": "2025-03-03",
+      "description": "Passage: Senate Vote #128",
+      "yea": 37,
+      "nay": 15,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-02",
+      "description": "Passage: House Vote #391",
+      "yea": 100,
+      "nay": 2,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-19",
+      "type": "Introduced",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232616",
+      "doc_id": 3129014
+    },
+    {
+      "date": "2025-03-03",
+      "type": "Engrossed",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/235006",
+      "doc_id": 3151133
+    },
+    {
+      "date": "2025-04-03",
+      "type": "Enrolled",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/239144",
+      "doc_id": 3201621
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

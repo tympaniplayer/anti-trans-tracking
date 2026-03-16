@@ -1,0 +1,60 @@
+{
+  "id": 2053375,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB6144",
+  "title": "Male or Female Only Act",
+  "summary": "To prohibit Federal agencies from providing on Federal forms, surveys, and documents, an option other than Male or Female to reference the sex of an individual, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB6144/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB6144/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/6144/all-info",
+  "sponsors": [
+    "Ronny Jackson (R) [Rep]",
+    "Sheri Biggs (R) [Rep]",
+    "Barry Moore (R) [Rep]",
+    "Paul Gosar (R) [Rep]",
+    "Diana Harshbarger (R) [Rep]"
+  ],
+  "introduced_date": "2025-11-19",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-11-19",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-19",
+      "action": "Referred to the House Committee on Oversight and Government Reform.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-02",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr6144/BILLS-119hr6144ih.pdf",
+      "doc_id": 3286690
+    }
+  ],
+  "committee": {
+    "committee_id": 2311,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Oversight And Government Reform"
+  },
+  "subjects": [
+    "Government operations and politics"
+  ]
+}

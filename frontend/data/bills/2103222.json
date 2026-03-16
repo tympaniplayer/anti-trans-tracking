@@ -1,0 +1,61 @@
+{
+  "id": 2103222,
+  "state": "NM",
+  "state_name": "New Mexico",
+  "bill_number": "HB292",
+  "title": "Nm Prison Rape Elimination Act",
+  "summary": "Nm Prison Rape Elimination Act",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NM/bill/HB292/2026",
+  "legiscan_url": "https://legiscan.com/NM/bill/HB292/2026",
+  "state_url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=292&year=26",
+  "sponsors": [
+    "Dayan Hochman-Vigil (D) [Rep]",
+    "Elizabeth Stefanics (D) [Sen]",
+    "Nicole Chavez (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-30",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-30",
+      "action": "Not Printed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Withdrawn from committee or daily calendar, ordered printed and referred to",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Sent to HJC - Referrals: HJC",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-14",
+      "action": "HJC: Reported by committee with Do Not Pass but with a Do Pass recommendation on Committee Substitution",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-30",
+      "type": "Introduced",
+      "url": "https://www.nmlegis.gov/Sessions/26%20Regular/bills/house/HB0292.pdf",
+      "doc_id": 3343109
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

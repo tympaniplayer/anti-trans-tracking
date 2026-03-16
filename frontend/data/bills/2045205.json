@@ -1,0 +1,59 @@
+{
+  "id": 2045205,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HCR53",
+  "title": "Expressing support for the recognition of September 26, 2025, as \"World Contraception Day\" and expressing the sense of the House of Representatives regarding global and domestic access to contraception.",
+  "summary": "Expressing support for the recognition of September 26, 2025, as \"World Contraception Day\" and expressing the sense of the House of Representatives regarding global and domestic access to contraception.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HCR53/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HCR53/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/53/all-info",
+  "sponsors": [
+    "Nydia Velazquez (D) [Rep]",
+    "Julia Brownley (D) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "Suzan DelBene (D) [Rep]"
+  ],
+  "introduced_date": "2025-09-26",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-09-26",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-26",
+      "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-09-26",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hconres53/BILLS-119hconres53ih.pdf",
+      "doc_id": 3270977
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

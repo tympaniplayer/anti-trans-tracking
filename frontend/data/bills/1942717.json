@@ -1,0 +1,147 @@
+{
+  "id": 1942717,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S03486",
+  "title": "Relates to providing information to patients and the public on hospital rule-based exclusions; requires the commissioner of health to collect from each hospital a list of its hospital rule-based exclusions and publish such information on the department's website.",
+  "summary": "Relates to providing information to patients and the public on hospital rule-based exclusions; requires the commissioner of health to collect from each hospital a list of its hospital rule-based exclusions and publish such information on the department's website.",
+  "status": "vetoed",
+  "status_label": "Vetoed",
+  "status_code": 5,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S03486/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S03486/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S3486",
+  "sponsors": [
+    "Michelle Hinchey (D) [Sen]",
+    "Joseph Addabbo (D) [Sen]",
+    "Samra Brouk (D) [Sen]",
+    "Leroy Comrie (D) [Sen]",
+    "Patricia Fahy (D) [Sen]",
+    "Nathalia Fernandez (D) [Sen]",
+    "Kristen Gonzalez (D) [Sen]",
+    "Andrew Gounardes (D) [Sen]",
+    "Peter Harckham (D) [Sen]",
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "Brian Kavanagh (D) [Sen]",
+    "Liz Krueger (D) [Sen]",
+    "John Liu (D) [Sen]",
+    "Rachel May (D) [Sen]",
+    "Zellnor Myrie (D) [Sen]",
+    "Gustavo Rivera (D) [Sen]",
+    "Christopher Ryan (D) [Sen]",
+    "Julia Salazar (D) [Sen]",
+    "Luis Sepulveda (D) [Sen]",
+    "Jose Serrano (D) [Sen]",
+    "Lea Webb (D) [Sen]"
+  ],
+  "introduced_date": "2025-12-19",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-27",
+      "action": "REFERRED TO HEALTH",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "1ST REPORT CAL.1087",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "ADVANCED TO THIRD READING",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-06",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-06",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-06",
+      "action": "referred to ways and means",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "substituted for a3862",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "ordered to third reading rules cal.494",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-11",
+      "action": "passed assembly",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-11",
+      "action": "returned to senate",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "DELIVERED TO GOVERNOR",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-19",
+      "action": "VETOED MEMO.140",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-13",
+      "description": "Senate Health Committee Vote",
+      "yea": 8,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-06",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 34,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-11",
+      "description": "Assembly Floor Vote - Final Passage",
+      "yea": 94,
+      "nay": 51,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-27",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S03486&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S03486",
+      "doc_id": 3083776
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

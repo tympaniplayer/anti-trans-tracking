@@ -1,0 +1,86 @@
+{
+  "id": 2036913,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB2035",
+  "title": "Protect IVF Act",
+  "summary": "A bill to establish statutory rights to choose to receive, provide, and cover fertility treatments, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB2035/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB2035/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2035/all-info",
+  "sponsors": [
+    "Tammy Duckworth (D) [Sen]",
+    "Patty Murray (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Charles Schumer (D) [Sen]",
+    "Jack Reed (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Maria Cantwell (D) [Sen]",
+    "John Fetterman (D) [Sen]",
+    "John Hickenlooper (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Brian Schatz (D) [Sen]",
+    "Mark Warner (D) [Sen]",
+    "Amy Klobuchar (D) [Sen]",
+    "Angela Alsobrooks (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Angus King (I) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Sheldon Whitehouse (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Gary Peters (D) [Sen]",
+    "Ruben Gallego (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Jeanne Shaheen (D) [Sen]",
+    "Jacky Rosen (D) [Sen]",
+    "Christopher Murphy (D) [Sen]",
+    "Kirsten Gillibrand (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Tim Kaine (D) [Sen]",
+    "Jon Ossoff (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Michael Bennet (D) [Sen]",
+    "Elissa Slotkin (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-11",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-11",
+      "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-20",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s2035/BILLS-119s2035is.pdf",
+      "doc_id": 3257766
+    }
+  ],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

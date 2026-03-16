@@ -1,0 +1,59 @@
+{
+  "id": 1998396,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S1399",
+  "title": "To increase investment in behavioral health care in the Commonwealth",
+  "summary": "For legislation to increase investment in behavioral health care in the Commonwealth. Mental Health, Substance Use and Recovery.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S1399/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S1399/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S1399",
+  "sponsors": [
+    "Cindy Friedman (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Mental Health, Substance Use and Recovery",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-24",
+      "action": "Hearing scheduled for 11/03/2025 from 01:00 PM-05:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Accompanied a study order, see S2813",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S1399.pdf",
+      "doc_id": 3163654
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

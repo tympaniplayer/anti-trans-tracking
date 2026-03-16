@@ -1,0 +1,52 @@
+{
+  "id": 2074074,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S1633",
+  "title": "Requires State blanks, forms, documents, and applications to incorporate new standards for collection of information about sex, gender, gender identity, and sexual orientation.",
+  "summary": "Requires State blanks, forms, documents, and applications to incorporate new standards for collection of information about sex, gender, gender identity, and sexual orientation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S1633/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S1633/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S1633",
+  "sponsors": [
+    "Andrew Zwicker (D) [Sen]",
+    "Teresa Ruiz (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-31",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S2000/1633_I1.HTM",
+      "doc_id": 3311107
+    }
+  ],
+  "committee": {
+    "committee_id": 879,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Health, Human Services and Senior Citizens"
+  },
+  "subjects": [
+    "Health, Human Services and Senior Citizens"
+  ]
+}

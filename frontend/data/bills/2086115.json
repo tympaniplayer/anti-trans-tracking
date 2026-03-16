@@ -1,0 +1,60 @@
+{
+  "id": 2086115,
+  "state": "MS",
+  "state_name": "Mississippi",
+  "bill_number": "HB1136",
+  "title": "Obesity medicine; define as within practice of medicine and allow physicians to prescribe obesity drugs via telemedicine.",
+  "summary": "An Act To Amend Section 73-25-33, Mississippi Code Of 1972, To Provide That The Practice Of Medicine Includes The Practice Of Obesity Medicine; To Define Obesity Medicine; To Amend Section 73-25-34, Mississippi Code Of 1972, To Revise The Definition Of Telemedicine To Include The Practice Of Medicine By A Licensed Physician At A Distant Site To A Patient Located At An Originating Site Using Hipaa-compliant Telecommunication Systems; To Amend Section 41-29-139, Mississippi Code Of 1972, To Authorize Physicians Practicing Obesity Medicine To Prescribe Legend Drugs, Including Glp-1 Therapeutics, To A Patient Via Telemedicine, Subject To The Certain Conditions; To Direct The State Board Of Medical Licensure To Adopt Rules As Necessary To Implement The Provisions Of This Act; And For Related Purposes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "definitions",
+    "healthcare"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MS/bill/HB1136/2026",
+  "legiscan_url": "https://legiscan.com/MS/bill/HB1136/2026",
+  "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1136.xml",
+  "sponsors": [
+    "Sam Creekmore (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-12",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-19",
+      "action": "Referred To Public Health and Human Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Title Suff Do Pass",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Read the Third Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Died On Calendar",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-19",
+      "type": "Introduced",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/HB/1100-1199/HB1136IN.htm",
+      "doc_id": 3323487
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

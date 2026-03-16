@@ -1,0 +1,62 @@
+{
+  "id": 2068149,
+  "state": "IN",
+  "state_name": "Indiana",
+  "bill_number": "HB1427",
+  "title": "Reporting on gender transition procedures.",
+  "summary": "Reporting on gender transition procedures. Requires practitioners who perform gender transition procedures to report on a quarterly basis certain information to the practitioner's regulating board concerning the gender transition procedures. Requires the submitted reports to be provided to the professional licensing agency (agency) to be compiled as an annual report. Requires the agency to post the annual report on the agency's website and submit the report to the general assembly.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IN/bill/HB1427/2026",
+  "legiscan_url": "https://legiscan.com/IN/bill/HB1427/2026",
+  "state_url": "https://iga.in.gov/legislative/2026/bills/house/1427/details",
+  "sponsors": [
+    "Hunter Smith (R) [Rep]",
+    "Bradford Barrett (R) [Rep]",
+    "Julie McGuire (R) [Rep]",
+    "Martin Carbaugh (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-08",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "action": "Coauthored by Representatives Barrett, McGuire, Carbaugh",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Authored by Representative Smith H",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "First reading: referred to Committee on Public Health",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-08",
+      "type": "Introduced",
+      "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1427/HB1427.01.INTR.pdf",
+      "doc_id": 3302756
+    }
+  ],
+  "committee": {
+    "committee_id": 1300,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Public Health"
+  },
+  "subjects": []
+}

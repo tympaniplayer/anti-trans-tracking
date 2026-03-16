@@ -1,0 +1,66 @@
+{
+  "id": 2109903,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB5368",
+  "title": "DHS-GAMBLING DISORDERS",
+  "summary": "Amends the Substance Use Disorder Act. Requires the Department of Human Services to collaborate with the State Board of Education to the extent the Board develops instructional resources for substance use or gambling disorder prevention and awareness that may be used by school districts. Permits the Department to provide funding programs for parents on healthy gaming and play habits; appropriate financial planning and investment strategies; how to talk about gambling and related activities; and how to talk about substance use or gambling. In provisions requiring the Department to establish a public education, research, and training program regarding gambling disorders, expands the scope of the program by requiring that the program utilize screening, crisis intervention, treatment, public awareness, prevention, in-service training, and other innovative means, to decrease the incidents of suicide attempts related to a gambling disorder or gambling issues. Permits the Department to establish a program to provide for the production and publication, in electronic and other formats, of gambling prevention, recognition, treatment, and recovery literature and other public education methods. Permits the Department to support gambling disorder prevention, recognition, treatment, and recovery projects by facilitating the acquisition of gambling prevention curriculums, providing trainings in gambling disorder prevention best practices, connecting programs to health care resources, establishing learning collaboratives between localities and programs, and assisting programs in navigating any regulatory requirements for establishing or expanding such programs. Permits the Department to award grants to create or support local gambling prevention, recognition, and response projects. Makes other changes. Effective immediately.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB5368/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB5368/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5368&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Daniel Didech (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "Filed with the Clerk by Rep. Daniel Didech",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Assigned to Human Services Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-05",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=208502&DocName=10400HB5368&DocNum=5368&DocTypeID=HB&LegID=167156&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3355054
+    }
+  ],
+  "committee": {
+    "committee_id": 212,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Human Services"
+  },
+  "subjects": []
+}

@@ -1,0 +1,125 @@
+{
+  "id": 2054274,
+  "state": "NH",
+  "state_name": "New Hampshire",
+  "bill_number": "HB1217",
+  "title": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
+  "summary": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NH/bill/HB1217/2026",
+  "legiscan_url": "https://legiscan.com/NH/bill/HB1217/2026",
+  "state_url": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2710&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1217",
+  "sponsors": [
+    "Katy Peternel (R) [Rep]",
+    "Sherri Reinfurt (R) [Rep]",
+    "Jeanine Notter (R) [Rep]",
+    "Katherine Prudhomme-O'Brien (R) [Rep]",
+    "Sayra Devito (R) [Rep]",
+    "James Thibault (R) [Rep]",
+    "Liz Barbour (R) [Rep]",
+    "Diane Kelley (R) [Rep]",
+    "Michael Moffett (R) [Rep]",
+    "Susan Deroy (R) [Rep]"
+  ],
+  "introduced_date": "2026-03-06",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Introduced 01/07/2026 and referred to Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Public Hearing: 02/20/2026 10:00 am GP 231",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Executive Session: 02/20/2026 10:00 am GP 231",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Committee Report: Refer for Interim Study 02/20/2026 (Vote 17-0; Consent Calendar) House Calendar 9 P. 18",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Removed from Consent (Reps. Kofalt, Mazur, Layon, Sabourin dit Choiniere, Farrington, McFarlane, Beaulier, DeVito, Sirois, McGrath, Korzen) 03/04/2026 House Journal  5",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Special Order to the next order of business (Rep. Kofalt): Motion Adopted Voice Vote 03/05/2026 House Journal  6",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Lay HB1217 on Table (Rep. A. Murray): Motion Failed Regular Calendar 168-180 03/05/2026 House Journal  6",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Refer for Interim Study: Motion Failed Regular Calendar 168-180 03/05/2026 House Journal  6",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Ought to Pass: Motion Adopted Regular Calendar 187-163 03/05/2026 House Journal  6",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Introduced 03/05/2026 and Referred to Judiciary; Senate Journal 6",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-05",
+      "description": "Table",
+      "yea": 168,
+      "nay": 180,
+      "passed": 0
+    },
+    {
+      "date": "2026-03-05",
+      "description": "Interim Study",
+      "yea": 168,
+      "nay": 180,
+      "passed": 0
+    },
+    {
+      "date": "2026-03-05",
+      "description": "OTP",
+      "yea": 187,
+      "nay": 163,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&id=1918&txtFormat=html",
+      "doc_id": 3347598
+    }
+  ],
+  "committee": {
+    "committee_id": 1273,
+    "chamber": "S",
+    "chamber_id": 68,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

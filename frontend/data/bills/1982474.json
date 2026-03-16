@@ -1,0 +1,65 @@
+{
+  "id": 1982474,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB1543",
+  "title": "EQUITY Act Equal and Uniform Treatment in the Military Act",
+  "summary": "To amend title 10, United States Code, to prohibit discrimination in the Armed Forces.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB1543/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB1543/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/1543/all-info",
+  "sponsors": [
+    "Marilyn Strickland (D) [Rep]",
+    "Veronica Escobar (D) [Rep]",
+    "Terri Sewell (D) [Rep]",
+    "Steven Horsford (D) [Rep]",
+    "Jill Tokuda (D) [Rep]",
+    "Jennifer McClellan (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Rebecca Sherrill (D) [Rep]",
+    "Ted Lieu (D) [Rep]",
+    "Marc Veasey (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-24",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-02-24",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Referred to the House Committee on Armed Services.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-17",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr1543/BILLS-119hr1543ih.pdf",
+      "doc_id": 3177420
+    }
+  ],
+  "committee": {
+    "committee_id": 2299,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Armed Services"
+  },
+  "subjects": [
+    "Armed forces and national security"
+  ]
+}

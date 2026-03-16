@@ -1,0 +1,121 @@
+{
+  "id": 1990028,
+  "state": "ME",
+  "state_name": "Maine",
+  "bill_number": "LD847",
+  "title": "An Act to Prohibit Housing Discrimination",
+  "summary": "An Act to Prohibit Housing Discrimination",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ME/bill/LD847/2025",
+  "legiscan_url": "https://legiscan.com/ME/bill/LD847/2025",
+  "state_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=847&snum=132",
+  "sponsors": [
+    "Cheryl Golek (D) [Rep]",
+    "Richard Bennett (R) [Sen]",
+    "Flavia DeBrito (D) [Rep]",
+    "Traci Gere (D) [Rep]",
+    "Marc Malon (D) [Rep]",
+    "Nina Milliken (D) [Rep]",
+    "Ambureen Rana (D) [Rep]",
+    "Amy Roeder (D) [Rep]",
+    "Rachel Talbot Ross (D) [Sen]",
+    "Yusuf Yusuf (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-04",
+  "session": "132nd Legislature",
+  "actions": [
+    {
+      "date": "2025-03-04",
+      "action": "Committee on Judiciary suggested and ordered printed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "The Bill was REFERRED to the Committee on JUDICIARY.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "The Bill was REFERRED to the Committee on JUDICIARY  in concurrence",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Work Session Held",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Voted: Divided Report",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "Work Session Reconsidered: TABLED",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Work Session Held: TABLED",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-05-30",
+      "action": "Carry Over Requested",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-25",
+      "action": "Carried over, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-25",
+      "action": "Carry Over Approved",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-01-06",
+      "action": "Work Session Held",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-01-06",
+      "action": "Voted: Divided Report",
+      "chamber": "J"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0533&item=1&snum=132",
+      "doc_id": 3150323
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Housing",
+    "Rental Housing"
+  ]
+}

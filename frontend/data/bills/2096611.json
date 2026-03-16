@@ -1,0 +1,70 @@
+{
+  "id": 2096611,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A2735",
+  "title": "Requires DHS and DOH to study disordered eating; establishes \"Disordered Eating Prevention Research Grant Pilot Program.\"",
+  "summary": "Requires DHS and DOH to study disordered eating; establishes \"Disordered Eating Prevention Research Grant Pilot Program.\"",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A2735/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A2735/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A2735",
+  "sponsors": [
+    "Andrea Katz (D) [Rep]",
+    "Shanique Speight (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Health Committee",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Transferred to Assembly Oversight, Reform and Federal Relations Committee",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Reported and Referred to Assembly Appropriations Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-12",
+      "description": "Assembly Oversight, Reform and Federal Relations Committee: Reported Favorably",
+      "yea": 4,
+      "nay": 2,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-08",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A3000/2735_I1.HTM",
+      "doc_id": 3335666
+    }
+  ],
+  "committee": {
+    "committee_id": 849,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Appropriations"
+  },
+  "subjects": [
+    "Appropriations"
+  ]
+}

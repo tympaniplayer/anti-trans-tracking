@@ -1,0 +1,64 @@
+{
+  "id": 2058312,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "S0736",
+  "title": "Parental Control",
+  "summary": "Amend The South Carolina Code Of Laws By Adding Section 39-1-100 So As To Provide That Certain Online Companies Must Provide Parents An Option To Opt Out Of Certain Content On Their Platforms.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/S0736/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/S0736/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0736&session=126&summary=B",
+  "sponsors": [
+    "Carlisle Kennedy (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2025-12-10",
+      "action": "Prefiled",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-10",
+      "action": "Referred to Committee on Labor, Commerce and Industry",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Introduced and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Referred to Committee on Labor, Commerce and Industry",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-10",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/736_20251210.htm",
+      "doc_id": 3290042
+    }
+  ],
+  "committee": {
+    "committee_id": 729,
+    "chamber": "S",
+    "chamber_id": 86,
+    "name": "Labor, Commerce and Industry"
+  },
+  "subjects": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": 2060222,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "PR26-0492",
+  "title": "Corrections Information Council Governing Board Dr. Prechelle Shannon Confirmation Resolution of 2025",
+  "summary": "Corrections Information Council Governing Board Dr. Prechelle Shannon Confirmation Resolution of 2025",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/PR26-0492/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/PR26-0492/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/PR26-0492",
+  "sponsors": [
+    "Phil Mendelson (D) [Sen]"
+  ],
+  "introduced_date": "2025-12-16",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2025-12-16",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-12-26",
+      "action": "Notice of Intent to Act on PR26-0492 Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-01-06",
+      "action": "Referred to Committee on Judiciary and Public Safety",
+      "chamber": "C"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-16",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/61027/Introduction/PR26-0492-Introduction.pdf",
+      "doc_id": 3292387
+    }
+  ],
+  "committee": {
+    "committee_id": 2737,
+    "chamber": "C",
+    "chamber_id": 116,
+    "name": "Judiciary and Public Safety"
+  },
+  "subjects": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": 2133578,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "S3107",
+  "title": "Amends unfair discrimination statutes to encompass more protected categories and protect against additional forms of discrimination.",
+  "summary": "INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES - Amends unfair discrimination statutes to encompass more protected categories and protect against additional forms of discrimination.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/S3107/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/S3107/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Matthew LaMountain (D) [Sen]",
+    "Andrew Dimitri (D) [Sen]",
+    "John Burke (D) [Sen]",
+    "Walter Felag (D) [Sen]",
+    "Mark McKenney (D) [Sen]",
+    "Jacob Bissaillon (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-13",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-13",
+      "action": "Introduced, referred to Senate Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-13",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/SenateText26/S3107.pdf",
+      "doc_id": 3393984
+    }
+  ],
+  "committee": {
+    "committee_id": 1140,
+    "chamber": "S",
+    "chamber_id": 84,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Insurance",
+    "INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES"
+  ]
+}

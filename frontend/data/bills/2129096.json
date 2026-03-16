@@ -1,0 +1,61 @@
+{
+  "id": 2129096,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "S2921",
+  "title": "Changes the definition of employee to include individuals employed in the domestic service of any person.",
+  "summary": "LABOR AND LABOR RELATIONS -- FAIR EMPLOYMENT PRACTICES - Changes the definition of employee to include individuals employed in the domestic service of any person.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/S2921/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/S2921/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Melissa Murray (D) [Sen]",
+    "Brian Thompson (D) [Sen]",
+    "Victoria Gu (D) [Sen]",
+    "Alana DiMario (D) [Sen]",
+    "Tiara Mack (D) [Sen]",
+    "Dawn Euer (D) [Sen]",
+    "Pamela Lauria (D) [Sen]",
+    "Linda Ujifusa (D) [Sen]",
+    "Bridget Valverde (D) [Sen]",
+    "Lammis Vargas (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-04",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "action": "Introduced, referred to Senate Labor and Gaming",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-04",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/SenateText26/S2921.pdf",
+      "doc_id": 3385025
+    }
+  ],
+  "committee": {
+    "committee_id": 5054,
+    "chamber": "S",
+    "chamber_id": 84,
+    "name": "Labor and Gaming"
+  },
+  "subjects": [
+    "Labor And Labor Relations",
+    "LABOR AND LABOR RELATIONS -- FAIR EMPLOYMENT PRACTICES"
+  ]
+}

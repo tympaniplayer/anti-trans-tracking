@@ -1,0 +1,53 @@
+{
+  "id": 2097615,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A1981",
+  "title": "Establishes task force to study and make recommendations concerning health care service needs of the lesbian, gay, bisexual, transgendered, and queer or questioning individuals, and persons with intersex conditions in the State.",
+  "summary": "Establishes task force to study and make recommendations concerning health care service needs of the lesbian, gay, bisexual, transgendered, and queer or questioning individuals, and persons with intersex conditions in the State.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A1981/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A1981/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A1981",
+  "sponsors": [
+    "Annette Quijano (D) [Rep]",
+    "Shanique Speight (D) [Rep]",
+    "Luanne Peterpaul (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Health Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-02",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A2000/1981_I1.HTM",
+      "doc_id": 3336678
+    }
+  ],
+  "committee": {
+    "committee_id": 4191,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Health"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

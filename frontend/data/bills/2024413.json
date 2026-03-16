@@ -1,0 +1,54 @@
+{
+  "id": 2024413,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A07952",
+  "title": "Requires judges or justices in a court that exercises criminal jurisdiction, including town and village justices, family court judges, and justices of the supreme court who regularly handle matrimonial matters, and court clerks of such courts to attend a program approved by the chief administrator of the courts addressing issues relating to domestic violence totaling at least ten hours every two years; requires law enforcement officers to complete ten hours of domestic violence training every two years.",
+  "summary": "Requires judges or justices in a court that exercises criminal jurisdiction, including town and village justices, family court judges, and justices of the supreme court who regularly handle matrimonial matters, and court clerks of such courts to attend a program approved by the chief administrator of the courts addressing issues relating to domestic violence totaling at least ten hours every two years; requires law enforcement officers to complete ten hours of domestic violence training every two years.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A07952/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A07952/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A7952",
+  "sponsors": [
+    "Emerita Torres (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-16",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-04-16",
+      "action": "referred to judiciary",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to judiciary",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-16",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A07952&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A07952",
+      "doc_id": 3213673
+    }
+  ],
+  "committee": {
+    "committee_id": 373,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

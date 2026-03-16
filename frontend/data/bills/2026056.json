@@ -1,0 +1,57 @@
+{
+  "id": 2026056,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SR8657",
+  "title": "Calling for improving support for people experiencing menopause.",
+  "summary": "Calling for improving support for people experiencing menopause.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SR8657/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SR8657/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=8657&Year=2025&Initiative=false",
+  "sponsors": [
+    "Annette Cleveland (D) [Sen]",
+    "Jessica Bateman (D) [Sen]",
+    "Adrian Cortes (D) [Sen]",
+    "Manka Dhingra (D) [Sen]",
+    "Deborah Krishnadasan (D) [Sen]",
+    "Liz Lovelett (D) [Sen]",
+    "T'wina Nobles (D) [Sen]",
+    "Tina Orwall (D) [Sen]",
+    "June Robinson (D) [Sen]",
+    "Sharon Shewmake (D) [Sen]",
+    "Yasmin Trudeau (D) [Sen]",
+    "Judith Warnick (R) [Sen]",
+    "Vandana Slatter (D) [Sen]",
+    "Claire Wilson (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-23",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-04-23",
+      "action": "Adopted.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Resolutions/8657-Menopause%20support.pdf",
+      "doc_id": 3219341
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

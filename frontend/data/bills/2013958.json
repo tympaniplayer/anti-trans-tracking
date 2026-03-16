@@ -1,0 +1,73 @@
+{
+  "id": 2013958,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB1040",
+  "title": "Providing for Diversity Inclusive Curriculum Pilot Program.",
+  "summary": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, providing for Diversity Inclusive Curriculum Pilot Program.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB1040/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB1040/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb1040",
+  "sponsors": [
+    "Joseph Hohenstein (D) [Rep]",
+    "Nancy Guenst (D) [Rep]",
+    "Ismail Smith-Wade-El (D) [Rep]",
+    "Paul Takac (D) [Rep]",
+    "Andre Carroll (D) [Rep]",
+    "Tarik Khan (D) [Rep]",
+    "Maureen Madden (D) [Rep]",
+    "Ben Sanchez (D) [Rep]",
+    "Carol Hill-Evans (D) [Rep]",
+    "Benjamin Waxman (D) [Rep]",
+    "Malcolm Kenyatta (D) [Rep]",
+    "Christopher Pielli (D) [Rep]",
+    "Melissa Cerrato (D) [Rep]",
+    "Nikki Rivera (D) [Rep]",
+    "Johanny Cepeda-Freytiz (D) [Rep]",
+    "Mary Isaacson (D) [Rep]",
+    "La'Tasha Mayes (D) [Rep]",
+    "Lisa Borowski (D) [Rep]",
+    "Jennifer O'Mara (D) [Rep]",
+    "Elizabeth Fiedler (D) [Rep]",
+    "Jose Giral (D) [Rep]",
+    "Christopher Rabb (D) [Rep]",
+    "Tina Davis (D) [Rep]",
+    "Kristine Howard (D) [Rep]",
+    "Rick Krajewski (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-25",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-25",
+      "action": "Referred to Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1040/PN1129",
+      "doc_id": 3188391
+    }
+  ],
+  "committee": {
+    "committee_id": 44,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "Education"
+  },
+  "subjects": []
+}

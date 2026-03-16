@@ -1,0 +1,100 @@
+{
+  "id": 2069794,
+  "state": "FL",
+  "state_name": "Florida",
+  "bill_number": "S1642",
+  "title": "Gender Identity Employment Practices",
+  "summary": "Citing this act as the \"Freedom of Conscience in the Workplace Act\"; specifying an employment policy of this state relating to a person's sex; providing applicability; prohibiting employees and contractors of certain employers from being required to use certain pronouns or requiring such employers to use a pronoun that does not correspond to the employee's or contractor's sex; prohibiting the inclusion on certain forms of specified options relating to an applicant's sex; providing that it is an unlawful employment practice for certain employers to require certain training, instruction, or activity as a condition of employment, etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "religious_exemptions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/FL/bill/S1642/2026",
+  "legiscan_url": "https://legiscan.com/FL/bill/S1642/2026",
+  "state_url": "https://www.flsenate.gov/Session/Bill/2026/1642",
+  "sponsors": [
+    "Governmental Oversight and Accountability [Sen]",
+    "Stan McClain (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-09",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-16",
+      "action": "Referred to Governmental Oversight and Accountability; Judiciary; Rules",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "On Committee agenda-- Governmental Oversight and Accountability, 02/02/26, 3:30 pm, 110 Senate Building",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "CS by Governmental Oversight and Accountability; YEAS 6 NAYS 3",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Now in Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "CS by Governmental Oversight and Accountability read 1st time",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-02",
+      "description": "Senate Governmental Oversight and Accountability",
+      "yea": 6,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-09",
+      "type": "Introduced",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1642/BillText/Filed/HTML",
+      "doc_id": 3304569
+    },
+    {
+      "date": "2026-02-03",
+      "type": "Comm Sub",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1642/BillText/c1/HTML",
+      "doc_id": 3345971
+    }
+  ],
+  "committee": {
+    "committee_id": 558,
+    "chamber": "S",
+    "chamber_id": 28,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

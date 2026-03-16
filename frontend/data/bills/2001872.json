@@ -1,0 +1,64 @@
+{
+  "id": 2001872,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H1652",
+  "title": "Relative to reforming the competency to stand trial process",
+  "summary": "Relative to reforming the competency to stand trial process. The Judiciary.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H1652/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H1652/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H1652",
+  "sponsors": [
+    "Marjorie Decker (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on The Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-07",
+      "action": "Hearing scheduled for 11/18/2025 from 01:00 PM-05:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-11-18",
+      "action": "Hearing rescheduled to 11/18/2025 from 01:00 PM-08:00 PM in A-1 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-11-18",
+      "action": "Reported by committee to Clerk\u2019s Office for processing, will accompany a study order",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H1652.pdf",
+      "doc_id": 3167896
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

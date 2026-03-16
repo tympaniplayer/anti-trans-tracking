@@ -1,0 +1,382 @@
+{
+  "id": 2085837,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "SB518",
+  "title": "Public works contracts; prevailing wage rate for work performed, penalty.",
+  "summary": "Prevailing wage rate for public works contracts; localities. Requires each state agency or locality, when procuring services or letting contracts for public works paid for in whole or in part by state or local funds, or when overseeing or administering such contracts for public works, to ensure that its bid specifications or other public contracts applicable to the public works require bidders, offerors, contractors, and subcontractors to pay wages, salaries, benefits, and other remuneration to any mechanic, laborer, or worker employed, retained, or otherwise hired to perform services in connection with the public contract for public works at a rate no less than\u00a0the prevailing wage rate. Under the bill, a contractor or subcontractor may be liable to the Commissioner\u00a0 of Labor and Industry for liquidated damages for violating the prevailing wage requirements in the bill. Under the bill, any interested party shall have standing to challenge bid specifications, project agreements, or other public contracts for public works that violate the provisions of the bill. The bill requires institutions of higher education to include in certain memoranda of understanding an express agreement to comply with public works contract requirements. Under the bill, the Commissioner shall determine the prevailing wage based on a survey of wages and benefits paid in each area, as defined in the bill, conducted every two years. The bill includes factors for the Commissioner to consider in determining a prevailing wage rate. The bill directs the Commissioner to adopt emergency regulations to implement the provisions of the bill.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/SB518/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/SB518/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/SB518",
+  "sponsors": [
+    "Aaron Rouse (D) [Sen]",
+    "Jennifer Carroll Foy (D) [Sen]",
+    "Mamie Locke (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-13",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26105263D",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Referred to Committee on General Laws and Technology",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Rereferred from General Laws and Technology to Commerce and Labor (15-Y 0-N)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Fiscal Impact statement From CLG (1/22/2026 2:50 pm)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Incorporates SB370 (Carroll Foy)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Senate committee offered",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Reported from Commerce and Labor with substitute and rereferred to Finance and Appropriations (9-Y 6-N)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Committee substitute printed 26106808D-S1",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Reported from Finance and Appropriations with substitute (10-Y 5-N)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Rules suspended",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Constitutional reading dispensed Block Vote (on 1st reading) (40-Y 0-N 0-A)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Passed by for the day Block Vote (Voice Vote)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Committee substitute printed 26107221D-S2",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Read second time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Committee substitute rejected (Voice Vote)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Committee substitute agreed to (Voice Vote)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Engrossed by Senate - committee substitute (Voice Vote)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "Read third time and passed Senate (20-Y 19-N 0-A)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Placed on Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Referred to Committee on Labor and Commerce",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (SB518)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "House committee offered",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Reported from Labor and Commerce with substitute and referred to Appropriations (15-Y 7-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Committee substitute printed 26109033D-H1",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Reported from Appropriations (14-Y 7-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Read second time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Passed by for the day",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Read third time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "committee substitute agreed to",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Engrossed by House - committee substitute",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Passed House with substitute (63-Y 35-N 0-A)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (SB518)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "House substitute rejected by Senate (0-Y 40-N 0-A)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "House insisted on substitute",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "House requested conference committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Senate acceded to request (40-Y 0-N 0-A)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Conferees appointed by Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Senate Conferees: Rouse, McPike, Pillion",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Conferees appointed by House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "House Conferees: Feggans, McQuinn, Bloxom",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Conference Report released",
+      "chamber": ""
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Conference report agreed to by Senate (21-Y 18-N 0-A)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-14",
+      "action": "Conference report agreed to by House (62-Y 35-N 0-A)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-21",
+      "description": "Rereferred from General Laws and Technology to Commerce and Labor (15-Y 0-N)",
+      "yea": 15,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-02",
+      "description": "Reported from Commerce and Labor with substitute and rereferred to Finance and Appropriations (9-Y 6-N)",
+      "yea": 9,
+      "nay": 6,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-11",
+      "description": "Reported from Finance and Appropriations with substitute (10-Y 5-N)",
+      "yea": 10,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-12",
+      "description": "Constitutional reading dispensed Block Vote (on 1st reading) (40-Y 0-N 0-A)",
+      "yea": 40,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-16",
+      "description": "Read third time and passed Senate (20-Y 19-N 0-A)",
+      "yea": 20,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-03",
+      "description": "Reported from Labor and Commerce with substitute and referred to Appropriations (15-Y 7-N)",
+      "yea": 15,
+      "nay": 7,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-04",
+      "description": "Reported from Appropriations (14-Y 7-N)",
+      "yea": 14,
+      "nay": 7,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-10",
+      "description": "Passed House with substitute (63-Y 35-N 0-A)",
+      "yea": 63,
+      "nay": 35,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-11",
+      "description": "House substitute rejected by Senate",
+      "yea": 0,
+      "nay": 40,
+      "passed": 0
+    },
+    {
+      "date": "2026-03-12",
+      "description": "Senate acceded to request (40-Y 0-N 0-A)",
+      "yea": 40,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-13",
+      "description": "Conference report agreed to by Senate (21-Y 18-N 0-A)",
+      "yea": 21,
+      "nay": 18,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-14",
+      "description": "Conference report agreed to by House (62-Y 35-N 0-A)",
+      "yea": 62,
+      "nay": 35,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-13",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB518/text/SB518",
+      "doc_id": 3323198
+    },
+    {
+      "date": "2026-02-02",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB518/text/SB518SC1",
+      "doc_id": 3344275
+    },
+    {
+      "date": "2026-02-03",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB518/text/SB518S1",
+      "doc_id": 3344628
+    },
+    {
+      "date": "2026-02-13",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB518/text/SB518S2",
+      "doc_id": 3361684
+    },
+    {
+      "date": "2026-03-03",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB518/text/SB518HC1",
+      "doc_id": 3383337
+    },
+    {
+      "date": "2026-03-03",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB518/text/SB518H1",
+      "doc_id": 3383338
+    },
+    {
+      "date": "2026-03-13",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB518/text/SB518S3",
+      "doc_id": 3394708
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

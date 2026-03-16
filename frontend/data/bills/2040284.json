@@ -1,0 +1,80 @@
+{
+  "id": 2040284,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB4682",
+  "title": "End Solitary Confinement Act",
+  "summary": "To end the use of solitary confinement and other forms of restrictive housing in all Federal agencies and entities with which Federal agencies contract.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB4682/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB4682/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4682/all-info",
+  "sponsors": [
+    "Sydney Kamlager-Dove (D) [Rep]",
+    "Adriano Espaillat (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Summer Lee (D) [Rep]",
+    "Becca Balint (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Jonathan Jackson (D) [Rep]",
+    "LaMonica McIver (D) [Rep]",
+    "Maxwell Frost (D) [Rep]",
+    "Melanie Stansbury (D) [Rep]",
+    "Nydia Velazquez (D) [Rep]",
+    "Robin Kelly (D) [Rep]",
+    "Sheila Cherfilus-McCormick (D) [Rep]",
+    "Sylvia Garcia (D) [Rep]",
+    "Ayanna Pressley (D) [Rep]",
+    "Jesus Garcia (D) [Rep]",
+    "Yvette Clarke (D) [Rep]",
+    "Lateefah Simon (D) [Rep]",
+    "Morgan McGarvey (D) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "Grace Meng (D) [Rep]",
+    "Dwight Evans (D) [Rep]"
+  ],
+  "introduced_date": "2025-07-23",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-07-23",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-23",
+      "action": "Referred to the Committee on the Judiciary, and in addition to the Committee on Oversight and Government Reform, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-08-08",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr4682/BILLS-119hr4682ih.pdf",
+      "doc_id": 3264599
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crime and law enforcement"
+  ]
+}

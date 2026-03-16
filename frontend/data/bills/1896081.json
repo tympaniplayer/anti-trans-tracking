@@ -1,0 +1,64 @@
+{
+  "id": 1896081,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "S0057",
+  "title": "Provide Penalties for Hate Crimes",
+  "summary": "Amend The South Carolina Code Of Laws By Adding Section 16-3-2410; By Amending Section 16-11-510, Relating To Malicious Injury To Animals And Other Personal Property, So As To Revise The Penalties For Malicious Injury To Personal Property; And By Amending Section 16-11-520, Relating To Malicious Injury To A Tree, House, Outside Fence, Or Fixture And Trespass Upon Real Property, So As To Revise The Penalties For Malicious Injury To Real Property And To Provide Additional Penalties For Persons Who Maliciously Injure Personal Or Real Property Of Another Person With The Intent To Assault, Intimidate, Or Threaten That Person.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/S0057/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/S0057/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0057&session=126&summary=B",
+  "sponsors": [
+    "Karl Allen (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-14",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2024-12-11",
+      "action": "Prefiled",
+      "chamber": "S"
+    },
+    {
+      "date": "2024-12-11",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Introduced and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-12-11",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/57_20241211.htm",
+      "doc_id": 3032432
+    }
+  ],
+  "committee": {
+    "committee_id": 727,
+    "chamber": "S",
+    "chamber_id": 86,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

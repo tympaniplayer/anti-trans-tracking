@@ -1,0 +1,109 @@
+{
+  "id": 2059639,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR953",
+  "title": "Providing for consideration of the bill (H.R. 6703) to ensure access to affordable health insurance; providing for consideration of the bill (H.R. 498) to amend title XIX of the Social Security Act to prohibit Federal Medicaid funding for gender transition procedures for minors; providing for consideration of the bill (H.R. 3492) to amend section 116 of title 18, United States Code, with respect to genital and bodily mutilation and chemical castration of minors; and relating to consideration of the bill (H.R. 4776) to amend the National Environmental Policy Act of 1969 to clarify ambiguous provisions and facilitate a more efficient, effective, and timely environmental review process.",
+  "summary": "Providing for consideration of the bill (H.R. 6703) to ensure access to affordable health insurance; providing for consideration of the bill (H.R. 498) to amend title XIX of the Social Security Act to prohibit Federal Medicaid funding for gender transition procedures for minors; providing for consideration of the bill (H.R. 3492) to amend section 116 of title 18, United States Code, with respect to genital and bodily mutilation and chemical castration of minors; and relating to consideration of the bill (H.R. 4776) to amend the National Environmental Policy Act of 1969 to clarify ambiguous provisions and facilitate a more efficient, effective, and timely environmental review process.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "bathrooms",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR953/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR953/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/953/all-info",
+  "sponsors": [
+    "Morgan Griffith (R) [Rep]"
+  ],
+  "introduced_date": "2025-12-17",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-12-17",
+      "action": "The House Committee on Rules reported an original measure, H. Rept. 119-411, by Mr. Griffith.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-17",
+      "action": "Placed on the House Calendar, Calendar No. 51.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-17",
+      "action": "The resolution provides for consideration of H.R. 6703 and H.R. 498 under a closed rule and H.R. 3492 under a structured rule with one hour of general debate and one motion to recommit on each bill.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-17",
+      "action": "Considered as privileged matter. (consideration: CR H5947-5956)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-17",
+      "action": "DEBATE - The House proceeded with one hour of debate on H. Res. 953.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-17",
+      "action": "DEBATE - The House resumed debate on H. Res. 953.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-17",
+      "action": "On ordering the previous question Agreed to by the Yeas and Nays: 204 - 203 (Roll no. 343).",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-17",
+      "action": "On agreeing to the resolution Agreed to by recorded vote: 213 - 209 (Roll no. 344). (text: CR H5947)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-17",
+      "action": "Motion to reconsider laid on the table Agreed to without objection.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-12-17",
+      "description": "On Ordering the Previous Question RC# 343",
+      "yea": 204,
+      "nay": 203,
+      "passed": 1
+    },
+    {
+      "date": "2025-12-17",
+      "description": "On Agreeing to the Resolution RC# 344",
+      "yea": 213,
+      "nay": 209,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-12-18",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres953/BILLS-119hres953rh.pdf",
+      "doc_id": 3291758
+    },
+    {
+      "date": "2025-12-18",
+      "type": "Engrossed",
+      "url": "https://www.congress.gov/119/bills/hres953/BILLS-119hres953eh.pdf",
+      "doc_id": 3292474
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Congress"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 1969521,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A05379",
+  "title": "Relates to the determination of damages in a civil action arising from personal injury or wrongful death; provides that damages shall not be reduced because of age, race, creed, color, national origin, citizenship or immigration status, sexual orientation, gender identity or expression, military status, sex, disability, predisposing genetic characteristics, familial status, marital status, or status as a victim of domestic violence; provides that damages shall not be based on statistical tables unless agreed to by all parties.",
+  "summary": "Relates to the determination of damages in a civil action arising from personal injury or wrongful death; provides that damages shall not be reduced because of age, race, creed, color, national origin, citizenship or immigration status, sexual orientation, gender identity or expression, military status, sex, disability, predisposing genetic characteristics, familial status, marital status, or status as a victim of domestic violence; provides that damages shall not be based on statistical tables unless agreed to by all parties.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A05379/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A05379/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A5379",
+  "sponsors": [
+    "Alex Bores (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-13",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-13",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to codes",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-13",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A05379&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A05379",
+      "doc_id": 3118885
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

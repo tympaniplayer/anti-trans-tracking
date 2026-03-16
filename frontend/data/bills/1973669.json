@@ -1,0 +1,120 @@
+{
+  "id": 1973669,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S05025",
+  "title": "Updates provisions relating to dignity for all students including curriculum and teacher training requirements designed to prevent student suicide with a focus on LGBTQ students.",
+  "summary": "Updates provisions relating to dignity for all students including curriculum and teacher training requirements designed to prevent student suicide with a focus on LGBTQ students.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S05025/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S05025/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S5025",
+  "sponsors": [
+    "Robert Jackson (D) [Sen]",
+    "Kristen Gonzalez (D) [Sen]",
+    "Nathalia Fernandez (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-18",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-18",
+      "action": "REFERRED TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "AMEND AND RECOMMIT TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "PRINT NUMBER 5025A",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "AMEND (T) AND RECOMMIT TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "PRINT NUMBER 5025B",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "AMEND AND RECOMMIT TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "PRINT NUMBER 5025C",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-22",
+      "action": "AMEND AND RECOMMIT TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-22",
+      "action": "PRINT NUMBER 5025D",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO FINANCE",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-18",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S05025&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S05025",
+      "doc_id": 3128223
+    },
+    {
+      "date": "2025-02-18",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S05025&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S05025A",
+      "doc_id": 3183416
+    },
+    {
+      "date": "2025-02-18",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S05025&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S05025B",
+      "doc_id": 3213361
+    },
+    {
+      "date": "2025-02-18",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S05025&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S05025C",
+      "doc_id": 3217575
+    },
+    {
+      "date": "2025-02-18",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S05025&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S05025D",
+      "doc_id": 3293081
+    }
+  ],
+  "committee": {
+    "committee_id": 428,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Finance"
+  },
+  "subjects": []
+}

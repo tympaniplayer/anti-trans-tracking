@@ -1,0 +1,155 @@
+{
+  "id": 2064502,
+  "state": "NH",
+  "state_name": "New Hampshire",
+  "bill_number": "SB268",
+  "title": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
+  "summary": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
+  "status": "vetoed",
+  "status_label": "Vetoed",
+  "status_code": 5,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NH/bill/SB268/2026",
+  "legiscan_url": "https://legiscan.com/NH/bill/SB268/2026",
+  "state_url": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=1128&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=SB268",
+  "sponsors": [
+    "Kevin Avard (R) [Sen]",
+    "Timothy Lang (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-17",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-23",
+      "action": "Introduced 01/09/2025 and Referred to Judiciary; Senate Journal 3",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Hearing: 02/13/2025, Room 100, State House, 02:30 pm; Senate Calendar  9A",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Committee Report: Ought to Pass with Amendment # 2025-1118s, 03/27/2025, Vote 3-2; Senate Calendar  14",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Special Order to the Beginning of the Regular Calendar, Without Objection; 03/27/2025; Senate Journal 9",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Committee Amendment # 2025-1118s, Amendment Adopted, Voice Vote; 03/27/2025; Senate Journal 9",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Ought to Pass with Amendment #2025-1118s, Regular Calendar 16Y-8N, Motion Adopted; OT3rdg; 03/27/2025; Senate Journal 9",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Without Objection, Sen. Birdsell Moved the Question; 03/27/2025; Senate Journal 9",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "Introduced (in recess of) 03/27/2025 and referred to Judiciary House Journal  11 P. 113",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Public Hearing: 04/16/2025 10:30 am Legislative Office Building 206-208",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Executive Session: 04/23/2025 10:00 am Legislative Office Building 206-208",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Retained in Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-25",
+      "action": "Full Committee Work Session: 09/10/2025 10:00 am GP 230",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-26",
+      "action": "Executive Session: 11/12/2025 10:00 am GP 230",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-19",
+      "action": "Majority Committee Report: Ought to Pass 11/12/2025 (Vote 10-7; Regular Calendar) House Calendar 51 P. 40",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-19",
+      "action": "Minority Committee Report: Inexpedient to Legislate",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Ought to Pass: Motion Adopted Regular Calendar 185-159 01/08/2026 House Journal  2",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Enrolled Adopted, Voice Vote, (In recess 01/07/2026); Senate Journal 2",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Enrolled (in recess of) 01/08/2026 House Journal  3",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Vetoed by Governor 02/06/2026",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-08",
+      "description": "OTP",
+      "yea": 185,
+      "nay": 159,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-23",
+      "type": "Introduced",
+      "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=SI&id=1139&txtFormat=html",
+      "doc_id": 3302666
+    },
+    {
+      "date": "2025-03-27",
+      "type": "Amended",
+      "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&txtFormat=html&v=SA&id=1139",
+      "doc_id": 3302667
+    },
+    {
+      "date": "2025-03-27",
+      "type": "Enrolled",
+      "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=HP&id=1139",
+      "doc_id": 3305140
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

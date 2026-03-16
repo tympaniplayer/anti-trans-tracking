@@ -1,0 +1,58 @@
+{
+  "id": 1967870,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF1381",
+  "title": "Social studies academic standards to include contributions of lesbian, gay, bisexual and transgender people and people with disabilities requirement",
+  "summary": "Social studies academic standards to include contributions of lesbian, gay, bisexual and transgender people and people with disabilities requirement",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF1381/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF1381/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1381/",
+  "sponsors": [
+    "Jen McEwen (D) [Sen]",
+    "Omar Fateh (D) [Sen]",
+    "Liz Boldon (D) [Sen]",
+    "Erin Maye Quade (D) [Sen]",
+    "Alice Mann (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-13",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-02-13",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Referred to Education Policy",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-12",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1381/versions/0/pdf/",
+      "doc_id": 3116630
+    }
+  ],
+  "committee": {
+    "committee_id": 4667,
+    "chamber": "S",
+    "chamber_id": 56,
+    "name": "Education Policy"
+  },
+  "subjects": []
+}

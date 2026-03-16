@@ -1,0 +1,72 @@
+{
+  "id": 2012612,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A07215",
+  "title": "Establishes the false reporting survivors act which establishes the crimes of aggravated falsely reporting an incident in the first, second, and third degrees when a person commits the crime of falsely reporting an incident in the first, second, or third degree and such person intended to harass, annoy, threaten, or alarm another person because of a belief or perception regarding a person's race, color, national origin, ancestry, religion, gender, disability, sexual orientation, gender identity or expression, or ethnicity; authorizes officers to arrest persons believed to have committed falsely reporting an incident without first obtaining a warrant; includes such falsely reporting as a hate crime; authorizes the law enforcement misconduct investigative office to receive and investigate complaints alleging falsely reporting an incident; establishes databases of law enforcement officers and persons convicted of falsely reporting; requires notifying persons of the termination of certain criminal actions or proceedings; relates to the statute of limitations for filing an action relating to falsely reporting.",
+  "summary": "Establishes the false reporting survivors act which establishes the crimes of aggravated falsely reporting an incident in the first, second, and third degrees when a person commits the crime of falsely reporting an incident in the first, second, or third degree and such person intended to harass, annoy, threaten, or alarm another person because of a belief or perception regarding a person's race, color, national origin, ancestry, religion, gender, disability, sexual orientation, gender identity or expression, or ethnicity; authorizes officers to arrest persons believed to have committed falsely reporting an incident without first obtaining a warrant; includes such falsely reporting as a hate crime; authorizes the law enforcement misconduct investigative office to receive and investigate complaints alleging falsely reporting an incident; establishes databases of law enforcement officers and persons convicted of falsely reporting; requires notifying persons of the termination of certain criminal actions or proceedings; relates to the statute of limitations for filing an action relating to falsely reporting.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A07215/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A07215/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A7215",
+  "sponsors": [
+    "Philip Ramos (D) [Rep]",
+    "David Weprin (D) [Rep]",
+    "Jo Simon (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-21",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-21",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "amend (t) and recommit to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "print number 7215a",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-21",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A07215&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A07215",
+      "doc_id": 3184903
+    },
+    {
+      "date": "2025-03-21",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A07215&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A07215A",
+      "doc_id": 3386819
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

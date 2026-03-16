@@ -1,0 +1,60 @@
+{
+  "id": 2072946,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "HB664",
+  "title": "Adult adoptee access to original birth certificate; contact preference form.",
+  "summary": "Adult adoptee access to original birth certificate; contact preference form. Allows the State Registrar to provide, upon written request, any adult adopted person access to his original birth certificate. The bill allows a birth parent to indicate whether they would like to be contacted by an adoptee on a contact preference form provided by the State Registrar that will accompany the adoptee's original birth certificate, to be released to an adopted person when he requests his original birth certificate.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "identity_documents"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/HB664/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/HB664/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/HB664",
+  "sponsors": [
+    "Wendell Walker (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26102242D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Referred to Committee on Health and Human Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Subcommittee recommends incorporating (Voice Vote)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Incorporated by Health and Human Services (HB301-Callsen) (Voice Vote)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-13",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB664/text/HB664",
+      "doc_id": 3308238
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

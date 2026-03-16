@@ -1,0 +1,71 @@
+{
+  "id": 2063193,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB154",
+  "title": "Relating To Eviction Records.",
+  "summary": "Requires that all court records of any eviction proceeding be sealed within specified timeframes upon resolution of the proceeding. Authorizes the court to seal certain eviction records prior to the expiration of these timeframes upon motion by a tenant who is able to demonstrate that certain conditions apply. Requires the clerk of the court to provide access to sealed eviction records to the tenant. Makes it a discriminatory practice to require a person to disclose a sealed eviction record as a condition of certain real property transactions. Prohibits discrimination in real property transactions against a person with a sealed eviction record.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB154/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB154/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=154&year=2026",
+  "sponsors": [
+    "Stanley Chang (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-15",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-13",
+      "action": "Pending Introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-15",
+      "action": "Introduced and passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-17",
+      "action": "Referred to CPN, JDC.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-13",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB154_.HTM",
+      "doc_id": 3296789
+    }
+  ],
+  "committee": {
+    "committee_id": 2054,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Commerce and Consumer Protection"
+  },
+  "subjects": [
+    "Eviction Records",
+    "Sealed Court Records",
+    "Landlord and Tenant",
+    "Summary Possession",
+    "Discriminatory Practices",
+    "Real Estate Transactions"
+  ]
+}

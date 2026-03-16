@@ -1,0 +1,65 @@
+{
+  "id": 1980615,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB1457",
+  "title": "IDs for an Inclusive Democracy Act",
+  "summary": "To require the Commissioner of the Social Security Administration to produce and make available at no cost to certain individuals in the United States an identification for the purpose of allowing such individuals to meet certain identification requirements, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "identity_documents"
+  ],
+  "primary_category": "identity_documents",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB1457/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB1457/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/1457/all-info",
+  "sponsors": [
+    "Sean Casten (D) [Rep]",
+    "Summer Lee (D) [Rep]",
+    "Mary Gay Scanlon (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Christopher Deluzio (D) [Rep]",
+    "Robin Kelly (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Daniel Goldman (D) [Rep]",
+    "Mark Takano (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-21",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-02-21",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-21",
+      "action": "Referred to the House Committee on Oversight and Government Reform.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-17",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr1457/BILLS-119hr1457ih.pdf",
+      "doc_id": 3179048
+    }
+  ],
+  "committee": {
+    "committee_id": 2311,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Oversight And Government Reform"
+  },
+  "subjects": [
+    "Social welfare"
+  ]
+}

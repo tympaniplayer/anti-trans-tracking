@@ -1,0 +1,67 @@
+{
+  "id": 2118805,
+  "state": "WV",
+  "state_name": "West Virginia",
+  "bill_number": "SB987",
+  "title": "Prohibiting discrimination based upon gender identity or sexual orientation",
+  "summary": "The purpose of this bill is to add \"sexual orientation,\" \"gender identity\" and \"familial status\" to the categories covered by the Human Rights Act, prohibiting discrimination in employment and places of public accommodation. The bill adds \"sexual orientation\" and \"gender identity\" to the categories covered by the Fair Housing Act prohibiting discrimination in housing. The bill defines \"sexual orientation\" and \"gender identity\".",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WV/bill/SB987/2026",
+  "legiscan_url": "https://legiscan.com/WV/bill/SB987/2026",
+  "state_url": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=987&year=2026&sessiontype=RS&btype=bill",
+  "sponsors": [
+    "Joey Garcia (D) [Sen]",
+    "Mike Woelfel (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-18",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-18",
+      "action": "Filed for introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "To Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Introduced in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "To Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=sb987%20intr.htm&yr=2026&sesstype=RS&i=987",
+      "doc_id": 3365985
+    }
+  ],
+  "committee": {
+    "committee_id": 30,
+    "chamber": "S",
+    "chamber_id": 2,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Human Rights"
+  ]
+}

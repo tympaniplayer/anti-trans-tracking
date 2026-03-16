@@ -1,0 +1,56 @@
+{
+  "id": 2054354,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB6301",
+  "title": "VIVAS Act Violence Impact and Vulnerabilities Assessment Study Act",
+  "summary": "To direct the Comptroller General of the United States to conduct a comprehensive, culturally informed, and community-engaged study of gender-based violence in Puerto Rico, including its causes, prevalence, systemic drivers, and potential policy solutions, taking into account the island's cultural, economic, educational, infrastructural, and post-disaster challenges.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB6301/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB6301/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/6301/all-info",
+  "sponsors": [
+    "Pablo Jose Hernandez (D) [Rep]"
+  ],
+  "introduced_date": "2025-11-25",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-11-25",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-25",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-18",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr6301/BILLS-119hr6301ih.pdf",
+      "doc_id": 3292438
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crime and law enforcement"
+  ]
+}

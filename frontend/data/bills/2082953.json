@@ -1,0 +1,67 @@
+{
+  "id": 2082953,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "HB400",
+  "title": "AN ACT relating to fertility treatment.",
+  "summary": "Create a new section of KRS Chapter 216 to define terms; establish fundamental rights relating to fertility treatment; prohibit the Commonwealth and its political subdivisions from denying, burdening, or infringing on those rights unless justified by a compelling state interest achieved by the least restrictive means; prohibit the Commonwealth and its political subdivisions from discriminating in the protection or enforcement of those rights; create a civil cause of action against a state or local official who violates those rights.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "definitions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/HB400/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/HB400/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/hb400.html",
+  "sponsors": [
+    "Lindsey Burke (D) [Rep]",
+    "Adrielle Camuel (D) [Rep]",
+    "Mary Marzian (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-15",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-15",
+      "action": "introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "to Committee on Committees (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "to Judiciary (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb400/orig_bill.pdf",
+      "doc_id": 3320209
+    }
+  ],
+  "committee": {
+    "committee_id": 327,
+    "chamber": "H",
+    "chamber_id": 43,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil Actions",
+    "Health and Medical Services",
+    "Reproductive Issues",
+    "Civil Rights"
+  ]
+}

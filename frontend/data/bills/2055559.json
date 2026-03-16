@@ -1,0 +1,64 @@
+{
+  "id": 2055559,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "SB1150",
+  "title": "Establishes the offense of masked intimidation",
+  "summary": "Establishes the offense of masked intimidation",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/SB1150/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/SB1150/2026",
+  "state_url": "https://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=113",
+  "sponsors": [
+    "Jamie Burger (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Prefiled",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "S First Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Second Read and Referred S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Hearing Conducted S Judiciary and Civil and Criminal Jurisprudence Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-02",
+      "type": "Introduced",
+      "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1150.pdf",
+      "doc_id": 3287992
+    }
+  ],
+  "committee": {
+    "committee_id": 2270,
+    "chamber": "S",
+    "chamber_id": 60,
+    "name": "Judiciary And Civil And Criminal Jurisprudence"
+  },
+  "subjects": []
+}

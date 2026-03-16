@@ -1,0 +1,53 @@
+{
+  "id": 2077398,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S2773",
+  "title": "Enhances protections under Law Against Discrimination for persons serving in military and military veterans.",
+  "summary": "Enhances protections under Law Against Discrimination for persons serving in military and military veterans.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S2773/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S2773/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S2773",
+  "sponsors": [
+    "Gordon Johnson (D) [Sen]",
+    "Nilsa Cruz-Perez (D) [Sen]",
+    "Troy Singleton (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Judiciary Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Withdrawn Because Approved P.L.2025, c.307.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-07",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S3000/2773_I1.HTM",
+      "doc_id": 3314401
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Withdrawn Because Approved"
+  ]
+}

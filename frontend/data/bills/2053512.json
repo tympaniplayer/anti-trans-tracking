@@ -1,0 +1,66 @@
+{
+  "id": 2053512,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB6167",
+  "title": "HEALTH Act of 2025 Helping Everyone Access Long Term Healthcare Act of 2025",
+  "summary": "To amend the Internal Revenue Code of 1986 to provide a deduction for certain charity care furnished by physicians, to amend the Public Health Safety Act to limit the liability of physicians providing certain charity care, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB6167/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB6167/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/6167/all-info",
+  "sponsors": [
+    "Daniel Webster (R) [Rep]",
+    "Greg Steube (R) [Rep]",
+    "Tracey Mann (R) [Rep]",
+    "Rick Allen (R) [Rep]",
+    "Paul Gosar (R) [Rep]",
+    "Bruce Westerman (R) [Rep]",
+    "Michael Guest (R) [Rep]",
+    "Mike Haridopolos (R) [Rep]",
+    "John Rutherford (R) [Rep]",
+    "Barry Loudermilk (R) [Rep]",
+    "Brad Finstad (R) [Rep]"
+  ],
+  "introduced_date": "2025-11-20",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-11-20",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-20",
+      "action": "Referred to the Committee on Ways and Means, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-04",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr6167/BILLS-119hr6167ih.pdf",
+      "doc_id": 3287942
+    }
+  ],
+  "committee": {
+    "committee_id": 2317,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Ways And Means"
+  },
+  "subjects": [
+    "Taxation"
+  ]
+}

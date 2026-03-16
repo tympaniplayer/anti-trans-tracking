@@ -1,0 +1,65 @@
+{
+  "id": 2107530,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB5026",
+  "title": "POWER OF ATTY-PATIENT RIGHTS",
+  "summary": "Amends the Illinois Power of Attorney Act. Creates rights for patients with a health power of attorney. Provides that all individuals undergoing surgery, hospitalization, or any medical procedure shall have the right to designate a designated representative in a health care power of attorney on their behalf in the event of incapacitation. Provides that patients and their designated representatives are guaranteed the following rights: (1) the right to receive clear, comprehensive information about proposed treatments, including risks, benefits, and alternatives, in a language and format they understand, before agreeing to any procedure; (2) the right to view, request, and receive copies of all medical records, and the assurance of confidentiality in accordance with Health Insurance Portability and Accountability Act and related privacy laws; (3) the right to appeal medical decisions, including denial of treatment, discharge, or transfer; (4) the right to request and receive a second opinion from another qualified medical professional or specialist, including those outside the treating facility, without fear of delay, retaliation, or obstruction; and (5) the right to medical interpretation services for patients or their designated representative who do not speak or understand English fluently, including access to certified medical translators and translated documents, at no cost to the patient. Creates a State Patient Rights and Advocacy Commission to oversee implementation of the Act, monitor compliance by health care providers, and respond to violations. Provides that any health care provider or institution found to be in violation of the Act is subject to disciplinary sanctions, which may include: civil fines; suspension or revocation of professional licenses; facility accreditation review or suspension; and mandatory corrective action plans and staff retraining.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB5026/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB5026/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5026&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Marcus Evans (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-04",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "action": "Filed with the Clerk by Rep. Marcus C. Evans, Jr.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Assigned to Judiciary - Civil Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-04",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=207815&DocName=10400HB5026&DocNum=5026&DocTypeID=HB&LegID=166469&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3354011
+    }
+  ],
+  "committee": {
+    "committee_id": 3301,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Judiciary - Civil"
+  },
+  "subjects": []
+}

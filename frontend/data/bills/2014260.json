@@ -1,0 +1,104 @@
+{
+  "id": 2014260,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB4291",
+  "title": "Labor: discrimination; certain protected attributes and characteristics of an employee; prohibit an employer from basing the employee's wage rate on. Amends 1978 PA 390 (MCL 408.471 - 408.490) by adding sec. 13b & repeals sec. 13 of 2018 PA 337 (MCL 408.943).",
+  "summary": "Labor: discrimination; certain protected attributes and characteristics of an employee; prohibit an employer from basing the employee's wage rate on. Amends 1978 PA 390 (MCL 408.471 - 408.490) by adding sec. 13b & repeals sec. 13 of 2018 PA 337 (MCL 408.943).",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB4291/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB4291/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4291",
+  "sponsors": [
+    "Jennifer Conlin (D) [Rep]",
+    "Julie Rogers (D) [Rep]",
+    "Erin Byrnes (D) [Rep]",
+    "Natalie Price (D) [Rep]",
+    "Veronica Paiz (D) [Rep]",
+    "Stephen Wooden (D) [Rep]",
+    "Laurie Pohutsky (D) [Rep]",
+    "Morgan Foreman (D) [Rep]",
+    "Tonya Myers Phillips (D) [Rep]",
+    "Carrie Rheingans (D) [Rep]",
+    "Emily Dievendorf (D) [Rep]",
+    "Kristian Grant (D) [Rep]",
+    "Noah Arbit (D) [Rep]",
+    "Kelly Breen (D) [Rep]",
+    "Matt Longjohn (D) [Rep]",
+    "Sharon MacDonell (D) [Rep]",
+    "Jason Morgan (D) [Rep]",
+    "Julie Brixie (D) [Rep]",
+    "Denise Mentzer (D) [Rep]",
+    "Penelope Tsernoglou (D) [Rep]",
+    "Jason Hoskins (D) [Rep]",
+    "Stephanie Young (D) [Rep]",
+    "Betsy Coffia (D) [Rep]",
+    "Kara Hope (D) [Rep]",
+    "Tyrone Carter (D) [Rep]",
+    "Donavan McKinney (D) [Rep]",
+    "Helena Scott (D) [Rep]",
+    "Matt Koleszar (D) [Rep]",
+    "Jasper Martus (D) [Rep]",
+    "John Fitzgerald (D) [Rep]",
+    "Amos O'Neal (D) [Rep]",
+    "Carol Glanville (D) [Rep]",
+    "Brenda Carter (D) [Rep]",
+    "Regina Weiss (D) [Rep]",
+    "Alabas Farhat (D) [Rep]",
+    "Mike McFall (D) [Rep]",
+    "Dylan Wegela (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-25",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-03-25",
+      "action": "Introduced By Representative Rep. Jennifer Conlin",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Referred To Committee On Economic Competitiveness",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Bill Electronically Reproduced 03/25/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-25",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4291.htm",
+      "doc_id": 3187916
+    }
+  ],
+  "committee": {
+    "committee_id": 5089,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Economic Competitiveness"
+  },
+  "subjects": [
+    "Labor: discrimination",
+    "Civil rights: employment discrimination",
+    "Labor: hours and wages"
+  ]
+}

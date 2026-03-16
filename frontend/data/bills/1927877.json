@@ -1,0 +1,55 @@
+{
+  "id": 1927877,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SR0010",
+  "title": "CONDEMNS-CONVERSION THERAPY",
+  "summary": "Condemns the practice of conversion therapy on any population as unethical and fraudulent. Asserts that no licensed professional operating in the State of Illinois should engage in this practice, whether with minors or adults, as it violates the ethical standards of professional behavioral healthcare. Condemns conversion therapy as described herein, regardless of the target population or how the service is marketed or titled. Acknowledges that conversion therapy is not a legitimate form of therapy but is a dangerous and discredited practice that has no place in a professional setting, and that any professional engaging in such practices is in violation of the ethical guidelines governing their licensure. Encourages the Illinois Department of Public Health to launch a statewide public awareness campaign to educate communities about the harms of conversion therapy and its fraudulent nature, to collaborate with the Department of Financial and Professional Regulation to investigate and hold accountable practitioners offering conversion therapy under false pretenses, to develop guidelines for healthcare professionals to recognize, report, and prevent practices associated with conversion therapy, and to support outreach initiatives to connect survivors of conversion therapy with affirming mental health resources.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SR0010/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SR0010/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=10&GAID=18&DocTypeID=SR&SessionID=114&GA=104",
+  "sponsors": [
+    "Mary Edly-Allen (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-17",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-17",
+      "action": "Filed with Secretary",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-17",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-17",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=196992&DocName=10400SR0010&DocNum=10&DocTypeID=SR&LegID=157201&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3065203
+    }
+  ],
+  "committee": {
+    "committee_id": 254,
+    "chamber": "S",
+    "chamber_id": 36,
+    "name": "Assignments"
+  },
+  "subjects": []
+}

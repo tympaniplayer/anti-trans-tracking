@@ -1,0 +1,77 @@
+{
+  "id": 2112895,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "HB693",
+  "title": "Enact the Affirming Families First Act",
+  "summary": "To amend sections 2151.412, 2151.426, 3109.04, 3109.054, and 3129.01 and to enact sections 2151.032, 3129.10, 3129.11, 3129.12, 3129.13, 3129.14, 3129.15, 3129.21, 3129.211, 3129.22, 3129.23, 3129.24, 3129.25, 3129.26, 3129.30, 3129.301, 3129.35, 3129.351, and 4743.15 of the Revised Code to enact the Affirming Families First Act and protect the right to affirm a minor child's sex.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/HB693/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/HB693/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/hb693",
+  "sponsors": [
+    "Gary Click (R) [Rep]",
+    "Josh Williams (R) [Rep]",
+    "Thaddeus Claggett (R) [Rep]",
+    "Levi Dean (R) [Rep]",
+    "Jennifer Gross (R) [Rep]",
+    "Thomas Hall (R) [Rep]",
+    "Marilyn John (R) [Rep]",
+    "Angela King (R) [Rep]",
+    "Roy Klopfenstein (R) [Rep]",
+    "Beth Lear (R) [Rep]",
+    "Diane Mullins (R) [Rep]",
+    "Jodi Salvo (R) [Rep]",
+    "Jason Stephens (R) [Rep]",
+    "D. J. Swearingen (R) [Rep]",
+    "Heidi Workman (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-10",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-10",
+      "action": "Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Referred to committee: Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb693/00_IN/pdf/",
+      "doc_id": 3356058
+    }
+  ],
+  "committee": {
+    "committee_id": 106,
+    "chamber": "H",
+    "chamber_id": 5,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Health and Human Services : Health Care",
+    "Health and Human Services : Mental Health and Disabilities",
+    "Juvenile and Family Law : Child Welfare",
+    "Juvenile and Family Law : Domestic Relations",
+    "Occupational Licensing and Regulation",
+    "State and Local Government : Local Government",
+    "State and Local Government : State Government",
+    "House Judiciary Committee"
+  ]
+}

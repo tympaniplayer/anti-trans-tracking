@@ -1,0 +1,60 @@
+{
+  "id": 2057245,
+  "state": "FL",
+  "state_name": "Florida",
+  "bill_number": "S0782",
+  "title": "Health Care Freedom Act",
+  "summary": "Citing this act as the \"Health Care Freedom Act\"; repealing provisions relating to the prohibited use of state funds for travel to another state for purpose of abortion services, the prohibited use of state funds for sex-reassignment prescriptions or procedures, and the right of medical conscience of health care providers and health care payors, respectively; creating the \"Health Care Transparency and Accessibility Act\"; requiring a covered entity to, by a specified date, adopt a policy relating to providing written notice of a complete list of its refused services to patients, etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "religious_exemptions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/FL/bill/S0782/2026",
+  "legiscan_url": "https://legiscan.com/FL/bill/S0782/2026",
+  "state_url": "https://www.flsenate.gov/Session/Bill/2026/782",
+  "sponsors": [
+    "Shevrin Jones (D) [Sen]"
+  ],
+  "introduced_date": "2025-12-08",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-08",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-16",
+      "action": "Referred to Health Policy; Appropriations Committee on Health and Human Services; Fiscal Policy",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Introduced",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-08",
+      "type": "Introduced",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/782/BillText/Filed/HTML",
+      "doc_id": 3288879
+    }
+  ],
+  "committee": {
+    "committee_id": 2689,
+    "chamber": "S",
+    "chamber_id": 28,
+    "name": "Health Policy"
+  },
+  "subjects": []
+}

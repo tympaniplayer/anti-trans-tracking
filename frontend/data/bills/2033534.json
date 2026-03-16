@@ -1,0 +1,57 @@
+{
+  "id": 2033534,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB1910",
+  "title": "Real Education and Access for Healthy Youth Act of 2025",
+  "summary": "A bill to provide for the overall health and well-being of young people, including the promotion and attainment of lifelong sexual health and healthy relationships, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB1910/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB1910/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1910/all-info",
+  "sponsors": [
+    "Cory Booker (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-22",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-05-22",
+      "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-03",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s1910/BILLS-119s1910is.pdf",
+      "doc_id": 3250992
+    }
+  ],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

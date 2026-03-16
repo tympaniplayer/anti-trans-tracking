@@ -1,0 +1,64 @@
+{
+  "id": 1917468,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SR22",
+  "title": "A resolution concerning the National Collegiate Athletic Association policy for eligibility in women's sports.",
+  "summary": "A resolution concerning the National Collegiate Athletic Association policy for eligibility in women's sports.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SR22/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SR22/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/22/all-info",
+  "sponsors": [
+    "Marsha Blackburn (R) [Sen]",
+    "James Risch (R) [Sen]",
+    "Roger Wicker (R) [Sen]",
+    "James Lankford (R) [Sen]",
+    "Mike Crapo (R) [Sen]",
+    "Joni Ernst (R) [Sen]",
+    "Roger Marshall (R) [Sen]",
+    "John Barrasso (R) [Sen]",
+    "Thom Tillis (R) [Sen]",
+    "Tim Sheehy (R) [Sen]",
+    "Tommy Tuberville (R) [Sen]",
+    "Steve Daines (R) [Sen]",
+    "Cindy Hyde-Smith (R) [Sen]",
+    "Ted Cruz (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-13",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-01-13",
+      "action": "Referred to the Committee on Commerce, Science, and Transportation.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-14",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/sres22/BILLS-119sres22is.pdf",
+      "doc_id": 3056371
+    }
+  ],
+  "committee": {
+    "committee_id": 2323,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Commerce, Science, And Transportation"
+  },
+  "subjects": [
+    "Sports and recreation"
+  ]
+}

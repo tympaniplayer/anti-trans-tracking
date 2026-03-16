@@ -1,0 +1,80 @@
+{
+  "id": 2010028,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB4251",
+  "title": "Libraries: policies and practices; district library freedom to read act; establish. Creates new act. TIE BAR WITH: HB 4250'25",
+  "summary": "Libraries: policies and practices; district library freedom to read act; establish. Creates new act. TIE BAR WITH: HB 4250'25",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB4251/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB4251/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4251",
+  "sponsors": [
+    "Carol Glanville (D) [Rep]",
+    "Veronica Paiz (D) [Rep]",
+    "Joey Andrews (D) [Rep]",
+    "Julie Rogers (D) [Rep]",
+    "Carrie Rheingans (D) [Rep]",
+    "Erin Byrnes (D) [Rep]",
+    "Sharon MacDonell (D) [Rep]",
+    "Mike McFall (D) [Rep]",
+    "Matt Longjohn (D) [Rep]",
+    "Jason Morgan (D) [Rep]",
+    "Regina Weiss (D) [Rep]",
+    "Natalie Price (D) [Rep]",
+    "Jimmie Wilson (D) [Rep]",
+    "Stephanie Young (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-18",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-03-18",
+      "action": "Introduced By Representative Rep. Carol Glanville",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Bill Electronically Reproduced 03/18/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-18",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4251.htm",
+      "doc_id": 3179650
+    }
+  ],
+  "committee": {
+    "committee_id": 899,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Government Operations"
+  },
+  "subjects": [
+    "Libraries: policies and practices",
+    "Libraries: district"
+  ]
+}

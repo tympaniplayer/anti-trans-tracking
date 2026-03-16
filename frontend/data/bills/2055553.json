@@ -1,0 +1,59 @@
+{
+  "id": 2055553,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "SJR71",
+  "title": "Establishes provisions relating to reproductive health care",
+  "summary": "Establishes provisions relating to reproductive health care",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/SJR71/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/SJR71/2026",
+  "state_url": "https://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=396",
+  "sponsors": [
+    "Mike Moon (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Prefiled",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "S First Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Second Read and Referred S Emerging Issues and Professional Registration Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-08",
+      "type": "Introduced",
+      "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SJR71.pdf",
+      "doc_id": 3289477
+    }
+  ],
+  "committee": {
+    "committee_id": 5020,
+    "chamber": "S",
+    "chamber_id": 60,
+    "name": "Emerging Issues and Professional Registration"
+  },
+  "subjects": []
+}

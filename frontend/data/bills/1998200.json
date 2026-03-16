@@ -1,0 +1,64 @@
+{
+  "id": 1998200,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S116",
+  "title": "Updating the juvenile justice policy and data board",
+  "summary": "For legislation to update the juvenile justice policy and data board. Children, Families and Persons with Disabilities.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S116/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S116/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S116",
+  "sponsors": [
+    "Salvatore DiDomenico (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Children, Families and Persons with Disabilities",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Hearing scheduled for 05/13/2025 from 01:00 PM-05:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-23",
+      "action": "Bill reported favorably by committee and referred to the committee on Senate Rules",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-10",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S116.pdf",
+      "doc_id": 3163448
+    }
+  ],
+  "committee": {
+    "committee_id": 3320,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Rules"
+  },
+  "subjects": []
+}

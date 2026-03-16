@@ -1,0 +1,106 @@
+{
+  "id": 1972929,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5762",
+  "title": "Revised for 1st substitute: Concerning 988 crisis hotline funding and technology requirements.",
+  "summary": "Revised for 1st substitute: Concerning 988 crisis hotline funding and technology requirements.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5762/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5762/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5762&Year=2025&Initiative=false",
+  "sponsors": [
+    "Tina Orwall (D) [Sen]",
+    "Manka Dhingra (D) [Sen]",
+    "T'wina Nobles (D) [Sen]",
+    "Claire Wilson (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-18",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-18",
+      "action": "First reading, referred to Ways & Means.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Public hearing in the Senate Committee on Ways & Means at 1:30 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Public hearing in the Senate Committee on Ways & Means at 1:30 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Executive action taken in the Senate Committee on Ways & Means at 10:30 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "WM - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Minority; without recommendation.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Passed to Rules Committee for second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Placed on second reading by Rules Committee.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Senate Rules \"X\" file.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-09",
+      "description": "Senate Committee on Ways & Means: 1st substitute bill be substituted, do pass",
+      "yea": 17,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5762.pdf",
+      "doc_id": 3127049
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5762-S.pdf",
+      "doc_id": 3353658
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

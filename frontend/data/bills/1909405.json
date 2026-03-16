@@ -1,0 +1,54 @@
+{
+  "id": 1909405,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S01400",
+  "title": "Relates to providing increased and uniform training requirements including implicit bias, use of force, first aid and firearm training, and outreach for law enforcement; establishes law enforcement peer support through the office of mental health.",
+  "summary": "Relates to providing increased and uniform training requirements including implicit bias, use of force, first aid and firearm training, and outreach for law enforcement; establishes law enforcement peer support through the office of mental health.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S01400/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S01400/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S1400",
+  "sponsors": [
+    "James Sanders (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-09",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-09",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-09",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S01400&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S01400",
+      "doc_id": 3046338
+    }
+  ],
+  "committee": {
+    "committee_id": 417,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Codes"
+  },
+  "subjects": []
+}

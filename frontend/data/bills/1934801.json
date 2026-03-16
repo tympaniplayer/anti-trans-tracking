@@ -1,0 +1,64 @@
+{
+  "id": 1934801,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB287",
+  "title": "In additional special funds and restricted accounts, establishing the Survivor-Centered, Accessible, Fair and Empowering Housing Trust Fund; and making an interfund transfer.",
+  "summary": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in additional special funds and restricted accounts, establishing the Survivor-Centered, Accessible, Fair and Empowering Housing Trust Fund; and making an interfund transfer.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB287/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB287/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb287",
+  "sponsors": [
+    "Timothy Briggs (D) [Rep]",
+    "Ben Sanchez (D) [Rep]",
+    "Johanny Cepeda-Freytiz (D) [Rep]",
+    "Danilo Burgos (D) [Rep]",
+    "Nancy Guenst (D) [Rep]",
+    "Tarik Khan (D) [Rep]",
+    "Jose Giral (D) [Rep]",
+    "Michael Schlossberg (D) [Rep]",
+    "Steven Malagari (D) [Rep]",
+    "Carol Hill-Evans (D) [Rep]",
+    "Kristine Howard (D) [Rep]",
+    "Kyle Donahue (D) [Rep]",
+    "Joseph Ciresi (D) [Rep]",
+    "Malcolm Kenyatta (D) [Rep]",
+    "Daniel Deasy (D) [Rep]",
+    "Roni Green (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-23",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-23",
+      "action": "Referred to Housing & Community Development",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB0287/PN0232",
+      "doc_id": 3075396
+    }
+  ],
+  "committee": {
+    "committee_id": 4868,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "Housing and Community Development"
+  },
+  "subjects": []
+}

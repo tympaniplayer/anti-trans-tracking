@@ -1,0 +1,108 @@
+{
+  "id": 2101227,
+  "state": "OR",
+  "state_name": "Oregon",
+  "bill_number": "HB4093",
+  "title": "Relating to protections for persons with disabilities.",
+  "summary": "The Act makes new laws with respect to people with disabilities. (Flesch Readability Score: 64.9). Directs the Bureau of Labor and Industries to create certain guidance and informational materials to assist employers and employees. Prohibits employers from denying an employee's request to have [an authorized representative] a support person accompany the employee in discussions concerning reasonable accommodation subject to specific conditions. Extends prohibition against discrimination in government services, programs and activities to local governments. Prohibits employers from using minimum physical requirements [to screen out persons with disabilities] in a job posting without connecting the physical requirements to the essential functions of the job.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OR/bill/HB4093/2026",
+  "legiscan_url": "https://legiscan.com/OR/bill/HB4093/2026",
+  "state_url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4093",
+  "sponsors": [
+    "Travis Nelson (D) [Rep]",
+    "Sara Gelser Blouin (D) [Sen]",
+    "James Manning (D) [Sen]",
+    "Farrah Chaichi (D) [Rep]",
+    "Willy Chotzen (D) [Rep]",
+    "Lesly Munoz (D) [Rep]",
+    "Sue Rieke Smith (D) [Rep]",
+    "Lamar Wise (D) [Rep]",
+    "Lew Frederick (D) [Rep]",
+    "Chris Gorsek (D) [Sen]",
+    "Tom Andersen (D) [Rep]",
+    "Shannon Isadore (D) [Rep]",
+    "Sarah Finger McDonald (D) [Rep]",
+    "Jules Walters (D) [Rep]",
+    "Deb Patterson (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-06",
+  "session": "2026 Legislative Measures",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "First reading. Referred to Speaker's desk.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Referred to Labor and Workforce Development with subsequent referral to Ways and Means.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Public Hearing scheduled.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Work Session held.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Recommendation: Do pass with amendments, be printed A-Engrossed, and be referred to Ways and Means by prior reference.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Referred to Ways and Means by prior reference.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "In committee upon adjournment.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-11",
+      "description": "House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",
+      "yea": 5,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4093/Introduced",
+      "doc_id": 3340420
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4093/House%20Amendments%20to%20Introduced",
+      "doc_id": 3362802
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4093/A-Engrossed",
+      "doc_id": 3362803
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

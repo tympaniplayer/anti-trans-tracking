@@ -1,0 +1,83 @@
+{
+  "id": 1926649,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR52",
+  "title": "Recognizing and honoring the work of community organizations and individuals who create and maintain services and educational programs for marginalized groups ensuring the resilience and prosperity of members of the LGBTQIA+ community.",
+  "summary": "Recognizing and honoring the work of community organizations and individuals who create and maintain services and educational programs for marginalized groups ensuring the resilience and prosperity of members of the LGBTQIA+ community.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR52/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR52/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/52/all-info",
+  "sponsors": [
+    "Bonnie Coleman (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Adriano Espaillat (D) [Rep]",
+    "Nydia Velazquez (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "LaMonica McIver (D) [Rep]",
+    "Mike Quigley (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Kevin Mullin (D) [Rep]",
+    "Dina Titus (D) [Rep]",
+    "Dwight Evans (D) [Rep]",
+    "Terri Sewell (D) [Rep]",
+    "Jahana Hayes (D) [Rep]",
+    "Jared Moskowitz (D) [Rep]",
+    "Josh Gottheimer (D) [Rep]",
+    "Raja Krishnamoorthi (D) [Rep]",
+    "Lloyd Doggett (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Frank Pallone (D) [Rep]",
+    "Eric Swalwell (D) [Rep]",
+    "Andre Carson (D) [Rep]",
+    "Valerie Foushee (D) [Rep]",
+    "Johnny Olszewski (D) [Rep]",
+    "Emily Randall (D) [Rep]",
+    "Raul Grijalva (D) [Rep]",
+    "Jesus Garcia (D) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "Seth Magaziner (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-16",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-01-16",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-16",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-17",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres52/BILLS-119hres52ih.pdf",
+      "doc_id": 3064035
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

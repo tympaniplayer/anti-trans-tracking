@@ -1,0 +1,59 @@
+{
+  "id": 1996983,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S1683",
+  "title": "Ensuring the safety of our communities and citizens",
+  "summary": "For legislation to ensure the safety of our communities and citizens. Public Safety and Homeland Security.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S1683/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S1683/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S1683",
+  "sponsors": [
+    "Ryan Fattman (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Public Safety and Homeland Security",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-04",
+      "action": "Hearing scheduled for 11/25/2025 from 11:30 AM-05:00 PM in Gardner Auditorium",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-12-04",
+      "action": "Accompanied a study order, see S2798",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S1683.pdf",
+      "doc_id": 3162136
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

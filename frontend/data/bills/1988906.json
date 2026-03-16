@@ -1,0 +1,74 @@
+{
+  "id": 1988906,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB1765",
+  "title": "Relating to the creation of a task force to evaluate the housing needs of senior citizens who are lesbian, gay, bisexual, transgender, queer, or questioning.",
+  "summary": "Relating to the creation of a task force to evaluate the housing needs of senior citizens who are lesbian, gay, bisexual, transgender, queer, or questioning.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB1765/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB1765/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1765",
+  "sponsors": [
+    "Molly Cook (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-28",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-28",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Referred to Health & Human Services",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-28",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB01765I.htm",
+      "doc_id": 3149147
+    }
+  ],
+  "committee": {
+    "committee_id": 1911,
+    "chamber": "S",
+    "chamber_id": 92,
+    "name": "Health & Human Services"
+  },
+  "subjects": [
+    "Aging",
+    "Governor",
+    "Housing",
+    "Housing--General",
+    "Interim Studies",
+    "Nursing Homes",
+    "LIEUTENANT GOVERNOR",
+    "SEXUAL ORIENTATION",
+    "SPEAKER OF THE HOUSE"
+  ]
+}

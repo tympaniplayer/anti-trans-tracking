@@ -1,0 +1,105 @@
+{
+  "id": 2118511,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0907",
+  "title": "An act relating to legislative review of reporting requirements",
+  "summary": "An act relating to legislative review of reporting requirements",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0907/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0907/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.907",
+  "sponsors": [
+    "Government Operations and Military Affairs [Rep]"
+  ],
+  "introduced_date": "2026-02-25",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2026-02-18",
+      "action": "Committee bill read the first time and placed on Notice Calendar of February 19, 2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Notice Calendar: Committee bill for second reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Action Calendar: Committee bill for second reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Rep. Birong of Vergennes moved to postpone action until February 24, 2026, which was agreed to",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Action Calendar: Action postponed until February 24, 2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Read second time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Rep. Nugent of South Burlington spoke for the Committee on Government Operations and Military Affairs",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Third Reading ordered",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Action Calendar: Third Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Read third time and passed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Read 1st time & referred to Committee on Government Operations",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-17",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0907/H-0907%20As%20Introduced.pdf",
+      "doc_id": 3365233
+    },
+    {
+      "date": "2026-03-04",
+      "type": "Engrossed",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0907/H-0907%20As%20passed%20by%20the%20House%20Official.pdf",
+      "doc_id": 3384068
+    }
+  ],
+  "committee": {
+    "committee_id": 799,
+    "chamber": "S",
+    "chamber_id": 96,
+    "name": "Government Operations"
+  },
+  "subjects": []
+}

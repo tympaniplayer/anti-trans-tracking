@@ -1,0 +1,89 @@
+{
+  "id": 2027056,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB4407",
+  "title": "Human services: medical services; MIcare act; create. Creates new act.",
+  "summary": "Human services: medical services; MIcare act; create. Creates new act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB4407/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB4407/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4407",
+  "sponsors": [
+    "Carrie Rheingans (D) [Rep]",
+    "Dylan Wegela (D) [Rep]",
+    "Natalie Price (D) [Rep]",
+    "Betsy Coffia (D) [Rep]",
+    "Mike McFall (D) [Rep]",
+    "Veronica Paiz (D) [Rep]",
+    "Tonya Myers Phillips (D) [Rep]",
+    "Tyrone Carter (D) [Rep]",
+    "Morgan Foreman (D) [Rep]",
+    "Jason Morgan (D) [Rep]",
+    "Jason Hoskins (D) [Rep]",
+    "Julie Brixie (D) [Rep]",
+    "Laurie Pohutsky (D) [Rep]",
+    "Emily Dievendorf (D) [Rep]",
+    "Erin Byrnes (D) [Rep]",
+    "Jimmie Wilson (D) [Rep]",
+    "Donavan McKinney (D) [Rep]",
+    "Kara Hope (D) [Rep]",
+    "Cynthia Neeley (D) [Rep]",
+    "Sharon MacDonell (D) [Rep]",
+    "Stephanie Young (D) [Rep]",
+    "Amos O'Neal (D) [Rep]",
+    "Helena Scott (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-29",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-04-29",
+      "action": "Introduced By Representative Rep. Carrie Rheingans",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Bill Electronically Reproduced 04/29/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-29",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4407.htm",
+      "doc_id": 3223988
+    }
+  ],
+  "committee": {
+    "committee_id": 899,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Government Operations"
+  },
+  "subjects": [
+    "Human services: medical services",
+    "State agencies (existing): health and human services"
+  ]
+}

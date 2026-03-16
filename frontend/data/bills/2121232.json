@@ -1,0 +1,49 @@
+{
+  "id": 2121232,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A10279",
+  "title": "Prohibits insurance discrimination on the basis of an insured's marital status following the death of the insured's spouse.",
+  "summary": "Prohibits insurance discrimination on the basis of an insured's marital status following the death of the insured's spouse.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A10279/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A10279/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A10279",
+  "sponsors": [
+    "David Weprin (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-20",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-20",
+      "action": "referred to insurance",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-20",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A10279&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A10279",
+      "doc_id": 3370620
+    }
+  ],
+  "committee": {
+    "committee_id": 372,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Insurance"
+  },
+  "subjects": []
+}

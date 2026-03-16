@@ -1,0 +1,64 @@
+{
+  "id": 2002243,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H77",
+  "title": "Fostering artificial intelligence responsibility",
+  "summary": "For legislation to regulate the use of artificial intelligence. Advanced Information Technology, the Internet and Cybersecurity.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H77/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H77/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H77",
+  "sponsors": [
+    "Tricia Farley-Bouvier (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-28",
+      "action": "Hearing rescheduled to 09/11/2025 from 01:00 PM-05:00 PM in A-2 and Virtual Hearing updated to include Virtual",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-12-24",
+      "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H77.pdf",
+      "doc_id": 3168280
+    }
+  ],
+  "committee": {
+    "committee_id": 737,
+    "chamber": "H",
+    "chamber_id": 51,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

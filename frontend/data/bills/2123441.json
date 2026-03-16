@@ -1,0 +1,67 @@
+{
+  "id": 2123441,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "SB239",
+  "title": "AN ACT relating to children.",
+  "summary": "Amend KRS 158.1415 to remove provisions related to parental rights and courses, curriculums, or programs on human sexuality; provide for a process for parents to opt out of their child receiving instruction on the subject of human sexuality; amend KRS 158.191 to remove language limiting Kentucky Board of Education or Department of Education policies regarding student confidential information and the use of pronouns; require a local school district to use pronouns for students upon a request from a parent along with a note from a medical provider diagnosing the child with gender dysphoria; remove language concerning parental consent for well-being questionnaires or assessments or a health screening; amend KRS 158.189 to make findings about children and young adults desiring individual privacy; require a school to provide an accommodation to any student who requests an area of individual privacy in restrooms, locker rooms, and shower rooms, regardless of biological sex or gender identity; require school officials to provide an accommodation for individual privacy for children whose gender is different from his or her biological sex and who have a note from a medical provider diagnosing the child with gender dysphoria; permit alternate accommodations upon the parent's request; amend KRS 311.372 to prohibit surgical or medical treatment of a child under the age of 18 years for gender dysphoria, and any nonsurgical medical treatment without the consent of the child's parent or legal guardian; require that the provision of nonsurgical medical treatment to a child under the age of 18 years apply only to a child with a medical diagnosis from a mental health care provider and by a trained and experienced health care provider in collaboration with a clinical psychologist or psychiatrist using only appropriate nonsurgical medical treatments approved by the United States Food and Drug Administration for adolescents and that meet evidence-based medical standards.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare",
+    "bathrooms",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/SB239/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/SB239/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/sb239.html",
+  "sponsors": [
+    "Karen Berg (D) [Sen]",
+    "Gary Clemons (D) [Sen]",
+    "Keturah Herron (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-24",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-24",
+      "action": "introduced in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "to Committee on Committees (S)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb239/orig_bill.pdf",
+      "doc_id": 3374232
+    }
+  ],
+  "committee": {
+    "committee_id": 336,
+    "chamber": "S",
+    "chamber_id": 44,
+    "name": "Committee on Committees"
+  },
+  "subjects": [
+    "Children and Minors",
+    "Education, Elementary and Secondary",
+    "Health and Medical Services",
+    "Mental Health",
+    "Parental Rights",
+    "Pharmacists",
+    "Public Health"
+  ]
+}

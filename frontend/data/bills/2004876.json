@@ -1,0 +1,82 @@
+{
+  "id": 2004876,
+  "state": "ME",
+  "state_name": "Maine",
+  "bill_number": "LD1028",
+  "title": "Resolve, to Establish the Task Force to Study Equitable Access to Maternal Health Care and Birthing Facilities",
+  "summary": "Resolve, to Establish the Task Force to Study Equitable Access to Maternal Health Care and Birthing Facilities",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ME/bill/LD1028/2025",
+  "legiscan_url": "https://legiscan.com/ME/bill/LD1028/2025",
+  "state_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1028&snum=132",
+  "sponsors": [
+    "Rachel Talbot Ross (D) [Sen]",
+    "Amy Arata (R) [Rep]",
+    "Michelle Boyer (D) [Rep]",
+    "Stacy Brenner (D) [Sen]",
+    "Anne Carney (D) [Sen]",
+    "Lucien Daigle (R) [Rep]",
+    "Henry Ingwersen (D) [Sen]",
+    "Kathy Javner (R) [Rep]",
+    "Marianne Moore (R) [Sen]",
+    "Samuel Zager (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-29",
+  "session": "132nd Legislature",
+  "actions": [
+    {
+      "date": "2025-03-12",
+      "action": "Received by the Secretary of the Senate on March 12, 2025 and REFERRED to the Committee on HEALTH AND HUMAN SERVICES pursuant to Joint Rule 308.2",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "CARRIED OVER, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Work Session Held",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Voted: ONTP",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "Reported Out: ONTP",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0446&item=1&snum=132",
+      "doc_id": 3171286
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Children And Families",
+    "Maternity Services"
+  ]
+}

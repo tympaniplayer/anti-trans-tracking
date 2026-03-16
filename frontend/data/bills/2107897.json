@@ -1,0 +1,65 @@
+{
+  "id": 2107897,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB5095",
+  "title": "ID CARD-GENDER DESIGNATION",
+  "summary": "Amends the Illinois Identification Card Act and the Illinois Vehicle Code. Provides that the Secretary of State shall permit applicants to choose between \"male\", \"female\", or \"X\" (rather than \"male\", \"female\", or \"non-binary\") on an application for an identification card, driver's license, or permit. Provides that an applicant who wants to change the sex listed on an issued identification card, driver's license, or permit must submit a gender designation form. Sets forth the requirements of the gender designation form.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "identity_documents",
+    "definitions"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB5095/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB5095/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5095&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Mary Canty (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-04",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "action": "Filed with the Clerk by Rep. Mary Beth Canty",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Assigned to State Government Administration Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-04",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=207985&DocName=10400HB5095&DocNum=5095&DocTypeID=HB&LegID=166639&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3354901
+    }
+  ],
+  "committee": {
+    "committee_id": 239,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "State Government Administration"
+  },
+  "subjects": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": 2043452,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S2591",
+  "title": "Relative to college in high school",
+  "summary": "For legislation relative to college credits while attending high school, report the accompanying bill (Senate, No.2591).",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S2591/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S2591/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S2591",
+  "sponsors": [
+    "Joint Committee on Higher Education [Jnt]"
+  ],
+  "introduced_date": "2025-09-08",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-09-08",
+      "action": "Reported from the committee on Higher Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-08",
+      "action": "New draft of S923",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-08",
+      "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-09-08",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S2591.pdf",
+      "doc_id": 3268107
+    }
+  ],
+  "committee": {
+    "committee_id": 746,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

@@ -1,0 +1,91 @@
+{
+  "id": 2106979,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB818",
+  "title": "Higher Education - Foster Care Recipients and Homeless Youth - Tuition Exemption and Associated Benefits",
+  "summary": "Requiring public institutions of higher education to provide free of charge room, board, and required books, course materials, supplies, and equipment to certain foster care recipients and homeless youth who qualify for a certain tuition exemption and enroll as students at the institutions; providing that if a foster care recipient or homeless youth receives a scholarship or grant it may be applied to cover all or part of the costs of room and board or required books, course materials, supplies and equipment; etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "religious_exemptions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB818/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB818/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0818?ys=2026RS",
+  "sponsors": [
+    "Elizabeth Embry (D) [Rep]",
+    "Marlon Amprey (D) [Rep]",
+    "Terri Hill (D) [Rep]",
+    "Anne Kaiser (D) [Rep]",
+    "Aaron Kaufman (D) [Rep]",
+    "Robbyn Lewis (D) [Rep]",
+    "Julie Palakovich Carr (D) [Rep]",
+    "Cheryl Pasteur (D) [Rep]",
+    "Stephanie Smith (D) [Rep]",
+    "Deni Taveras (D) [Rep]",
+    "Jen Terrasa (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-04",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "action": "First Reading Appropriations",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Hearing 3/05 at 1:00 p.m.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Hearing canceled",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Hearing 3/03 at 1:00 p.m.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-04",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0818f.pdf",
+      "doc_id": 3347985
+    }
+  ],
+  "committee": {
+    "committee_id": 1922,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Appropriations"
+  },
+  "subjects": [
+    "Higher Education",
+    "Appeals",
+    "Applicants and Applications",
+    "Equipment",
+    "Food",
+    "Foster Care",
+    "Grants",
+    "Housing",
+    "Indigent Persons",
+    "Scholarships and Student Financial Aid",
+    "State Universities and Colleges",
+    "Students",
+    "Textbooks",
+    "Tuition",
+    "Youth (10-21)"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 2069953,
+  "state": "KS",
+  "state_name": "Kansas",
+  "bill_number": "HB2428",
+  "title": "Requiring the state board of regents to establish curricula and designate courses at postsecondary educational institutions relating to DEI-CRT-related courses and content and requiring the study of American institutions and certain programs at freshman orientations concerning free speech.",
+  "summary": "Requiring the state board of regents to establish curricula and designate courses at postsecondary educational institutions relating to DEI-CRT-related courses and content and requiring the study of American institutions and certain programs at freshman orientations concerning free speech.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KS/bill/HB2428/2025",
+  "legiscan_url": "https://legiscan.com/KS/bill/HB2428/2025",
+  "state_url": "https://kslegislature.gov/li/b2025_26/measures/hb2428/",
+  "sponsors": [
+    "Kristey Williams (R) [Rep]",
+    "Susan Humphries (R) [Rep]",
+    "Bob Lewis (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-12",
+      "action": "House Prefiled for Introduction on Friday, January 9, 2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "House Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "House Referred to Committee on Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "House Hearing: Tuesday, February 3, 2026, 1:30 PM Room 218-N",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "House Hearing: Tuesday, February 3, 2026, 1:30 PM Room 218-N",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/hb2428_00_0000.pdf",
+      "doc_id": 3304802
+    }
+  ],
+  "committee": {
+    "committee_id": 1374,
+    "chamber": "H",
+    "chamber_id": 41,
+    "name": "Education"
+  },
+  "subjects": []
+}

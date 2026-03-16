@@ -1,0 +1,55 @@
+{
+  "id": 1987069,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0445",
+  "title": "An act relating to creating the Land Access and Opportunity Revolving Fund",
+  "summary": "An act relating to creating the Land Access and Opportunity Revolving Fund",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0445/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0445/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.445",
+  "sponsors": [
+    "Brian Cina (D) [Rep]",
+    "Elizabeth Burrows (D) [Rep]",
+    "Emily Carris-Duncan (D) [Rep]",
+    "Kevin Christie (D) [Rep]",
+    "Esme Cole (D) [Rep]",
+    "Saudia Lamont (D) [Rep]",
+    "Kate Logan (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-28",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-02-28",
+      "action": "Read first time and referred to the Committee on General and Housing",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0445/H-0445%20As%20Introduced.pdf",
+      "doc_id": 3145914
+    }
+  ],
+  "committee": {
+    "committee_id": 4666,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "General and Housing"
+  },
+  "subjects": []
+}

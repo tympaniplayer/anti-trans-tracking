@@ -1,0 +1,59 @@
+{
+  "id": 2048519,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "SB989",
+  "title": "Abortion; creating the Wrongful Death Protection Act of 2025; making certain individuals liable for wrongful death from abortion-inducing drugs. Emergency.",
+  "summary": "Abortion; creating the Wrongful Death Protection Act of 2025; making certain individuals liable for wrongful death from abortion-inducing drugs. Emergency.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/SB989/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/SB989/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=sb989&Session=2600",
+  "sponsors": [
+    "Julie Daniels (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Authored by Senator Daniels",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Second Reading referred to Health and Human Services",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/SB/SB989%20INT.PDF",
+      "doc_id": 3276822
+    }
+  ],
+  "committee": {
+    "committee_id": 1229,
+    "chamber": "S",
+    "chamber_id": 80,
+    "name": "Health and Human Services"
+  },
+  "subjects": []
+}

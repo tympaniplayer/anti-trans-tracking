@@ -1,0 +1,113 @@
+{
+  "id": 2106705,
+  "state": "CT",
+  "state_name": "Connecticut",
+  "bill_number": "SB00004",
+  "title": "An Act Concerning Consumer Privacy.",
+  "summary": "To (1) provide for the registration of data brokers, (2) require the Commissioner of Consumer Protection to establish an accessible deletion mechanism program, (3) require manufacturers to affix tariff cost estimates to new automobiles, (4) require disclosures regarding the use of personalized algorithmic pricing, (5) amend the Connecticut Data Privacy Act by (A) defining \"facial recognition technology\", (B) redefining \"publicly available information\", (C) eliminating the entity-level exemption for certain processing decisions concerning employment, (D) providing consumers with additional rights concerning certain profiling decisions, (E) prohibiting the sale, sharing, transfer or allowance of access to precise geolocation data, and (F) establishing new requirements concerning facial recognition technology, and (6) requiring certain state and municipal contracts to restrict the sale, sharing, transfer or allowance of access to automated license plate reader information.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "religious_exemptions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CT/bill/SB00004/2026",
+  "legiscan_url": "https://legiscan.com/CT/bill/SB00004/2026",
+  "state_url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00004&which_year=2026",
+  "sponsors": [
+    "General Law Committee [Jnt]",
+    "Martin Looney (D) [Sen]",
+    "Robert Duff (D) [Sen]",
+    "Saud Anwar (D) [Sen]",
+    "Jorge Cabrera (D) [Sen]",
+    "Christine Cohen (D) [Sen]",
+    "Mae Flexer (D) [Sen]",
+    "Sujata Gadkar-Wilcox (D) [Sen]",
+    "Herron Gaston (D) [Sen]",
+    "Joan Hartley (D) [Sen]",
+    "Jan Hochadel (D) [Sen]",
+    "Paul Honig (D) [Sen]",
+    "Julie Kushner (D) [Sen]",
+    "Matthew Lesser (D) [Sen]",
+    "Rick Lopes (D) [Sen]",
+    "Cici Maher (D) [Sen]",
+    "James Maroney (D) [Sen]",
+    "Martha Marx (D) [Sen]",
+    "Douglas McCrory (D) [Sen]",
+    "Patricia Miller (D) [Sen]",
+    "Norman Needleman (D) [Sen]",
+    "Catherine Osten (D) [Sen]",
+    "MD Rahman (D) [Sen]",
+    "Derek Slap (D) [Sen]",
+    "Nick Menapace (D) [Rep]",
+    "Anthony Nolan (D) [Rep]",
+    "Travis Simms (D) [Rep]",
+    "Rebecca Martinez (D) [Rep]",
+    "Brandon Chafee (D) [Rep]",
+    "Kara Rochelle (D) [Rep]",
+    "Nick Gauthier (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-04",
+  "session": "2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "action": "Referred to Joint Committee on General Law",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Vote to Draft",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Drafted by Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Referred to Joint Committee on General Law",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Public Hearing 03/04",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-11",
+      "description": "GL Vote Tally Sheet (Vote to Draft)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-02-03",
+      "type": "Introduced",
+      "url": "https://www.cga.ct.gov/2026/TOB/S/PDF/2026SB-00004-R00-SB.PDF",
+      "doc_id": 3347227
+    },
+    {
+      "date": "2026-02-25",
+      "type": "Comm Sub",
+      "url": "https://www.cga.ct.gov/2026/TOB/S/PDF/2026SB-00004-R01-SB.PDF",
+      "doc_id": 3376597
+    }
+  ],
+  "committee": {
+    "committee_id": 1347,
+    "chamber": "J",
+    "chamber_id": 108,
+    "name": "General Law"
+  },
+  "subjects": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": 2127323,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "SB283",
+  "title": "AN ACT relating to Medicaid.",
+  "summary": "Amend KRS 205.5365 to make a technical correction.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/SB283/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/SB283/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/sb283.html",
+  "sponsors": [
+    "Julie Raque Adams (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-27",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "action": "introduced in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "to Committee on Committees (S)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb283/orig_bill.pdf",
+      "doc_id": 3380174
+    }
+  ],
+  "committee": {
+    "committee_id": 336,
+    "chamber": "S",
+    "chamber_id": 44,
+    "name": "Committee on Committees"
+  },
+  "subjects": [
+    "Medicaid",
+    "Technical Corrections"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 2104556,
+  "state": "WV",
+  "state_name": "West Virginia",
+  "bill_number": "HB5115",
+  "title": "To implement trauma-informed practices in schools",
+  "summary": "The purpose of this bill is to require the State Board of Education to implement trauma-informed practices in grades K-12.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WV/bill/HB5115/2026",
+  "legiscan_url": "https://legiscan.com/WV/bill/HB5115/2026",
+  "state_url": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5115&year=2026&sessiontype=RS&btype=bill",
+  "sponsors": [
+    "Kayla Young (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-03",
+      "action": "Filed for introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "To Education then Finance",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "To House Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb5115%20intr.htm&yr=2026&sesstype=RS&i=5115",
+      "doc_id": 3344651
+    }
+  ],
+  "committee": {
+    "committee_id": 4,
+    "chamber": "H",
+    "chamber_id": 1,
+    "name": "Education"
+  },
+  "subjects": [
+    "Education (K12)"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2099623,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A1021",
+  "title": "Creates standards for independent bias auditing of automated employment decision tools.",
+  "summary": "Creates standards for independent bias auditing of automated employment decision tools.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A1021/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A1021/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A1021",
+  "sponsors": [
+    "Balvir Singh (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Science, Innovation and Technology Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-11",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A1500/1021_I1.HTM",
+      "doc_id": 3338710
+    }
+  ],
+  "committee": {
+    "committee_id": 3753,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Science, Innovation and Technology"
+  },
+  "subjects": [
+    "Science, Innovation and Technology"
+  ]
+}

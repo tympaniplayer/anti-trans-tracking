@@ -1,0 +1,59 @@
+{
+  "id": 1998820,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S1618",
+  "title": "Promoting community immunity",
+  "summary": "For legislation to promote community immunity. Public Health.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S1618/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S1618/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S1618",
+  "sponsors": [
+    "Rebecca Rausch (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Public Health",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Hearing scheduled for 06/06/2025 from 10:00 AM-05:30 PM in Gardner Auditorium",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-14",
+      "action": "Accompanied a new draft, see S2623",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S1618.pdf",
+      "doc_id": 3164090
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

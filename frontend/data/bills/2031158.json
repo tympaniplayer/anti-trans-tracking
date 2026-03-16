@@ -1,0 +1,75 @@
+{
+  "id": 2031158,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S07924",
+  "title": "Establishes a gender-affirming care access program to provide support and increase access to gender-affirming care including certain medical and surgical care.",
+  "summary": "Establishes a gender-affirming care access program to provide support and increase access to gender-affirming care including certain medical and surgical care.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S07924/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S07924/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S7924",
+  "sponsors": [
+    "Kristen Gonzalez (D) [Sen]",
+    "Jeremy Cooney (D) [Sen]",
+    "Nathalia Fernandez (D) [Sen]",
+    "Andrew Gounardes (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "Julia Salazar (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-14",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-14",
+      "action": "REFERRED TO HEALTH",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO HEALTH",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "AMEND (T) AND RECOMMIT TO HEALTH",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "PRINT NUMBER 7924A",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-14",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S07924&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S07924",
+      "doc_id": 3236775
+    },
+    {
+      "date": "2025-05-14",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S07924&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S07924A",
+      "doc_id": 3378509
+    }
+  ],
+  "committee": {
+    "committee_id": 429,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Health"
+  },
+  "subjects": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": 2053597,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SR511",
+  "title": "A resolution supporting the goals and principles of Transgender Day of Remembrance by recognizing the epidemic of violence toward transgender people and memorializing the lives lost this year.",
+  "summary": "A resolution supporting the goals and principles of Transgender Day of Remembrance by recognizing the epidemic of violence toward transgender people and memorializing the lives lost this year.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SR511/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SR511/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/511/all-info",
+  "sponsors": [
+    "Mazie Hirono (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Michael Bennet (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "John Fetterman (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "John Hickenlooper (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Brian Schatz (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "Peter Welch (D) [Sen]"
+  ],
+  "introduced_date": "2025-11-20",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-11-20",
+      "action": "Referred to the Committee on the Judiciary. (text: CR S8280)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-21",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/sres511/BILLS-119sres511is.pdf",
+      "doc_id": 3285618
+    }
+  ],
+  "committee": {
+    "committee_id": 2330,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

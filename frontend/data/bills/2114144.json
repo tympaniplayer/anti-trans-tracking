@@ -1,0 +1,112 @@
+{
+  "id": 2114144,
+  "state": "CO",
+  "state_name": "Colorado",
+  "bill_number": "SJM001",
+  "title": "Memorializing Senator Faith Winter",
+  "summary": "Concerning memorializing Senator Faith Winter.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "religious_exemptions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CO/bill/SJM001/2026",
+  "legiscan_url": "https://legiscan.com/CO/bill/SJM001/2026",
+  "state_url": "https://leg.colorado.gov/bills/SJM26-001",
+  "sponsors": [
+    "Lisa Cutter (D) [Sen]",
+    "Janice Marchman (D) [Sen]",
+    "Jenny Willford (D) [Rep]",
+    "Judith Amabile (D) [Sen]",
+    "Matt Ball (D) [Sen]",
+    "Jeff Bridges (D) [Sen]",
+    "Scott Bright (R) [Sen]",
+    "John Carson (R) [Sen]",
+    "Marc Catlin (R) [Sen]",
+    "James Coleman (D) [Sen]",
+    "Jessie Danielson (D) [Sen]",
+    "Tony Exum (D) [Sen]",
+    "Lisa Frizell (R) [Sen]",
+    "Julie Gonzales (D) [Sen]",
+    "Nick Hinrichsen (D) [Sen]",
+    "Iman Jodeh (D) [Sen]",
+    "Cathy Kipp (D) [Sen]",
+    "Barbara Kirkmeyer (R) [Sen]",
+    "Chris Kolker (D) [Sen]",
+    "William Lindstedt (D) [Sen]",
+    "Dafna Michaelson Jenet (D) [Sen]",
+    "Kyle Mullica (D) [Sen]",
+    "Janice Rich (R) [Sen]",
+    "Robert Rodriguez (D) [Sen]",
+    "Cleave Simpson (R) [Sen]",
+    "Marc Snyder (D) [Sen]",
+    "Tom Sullivan (D) [Sen]",
+    "Katie Wallace (D) [Sen]",
+    "Michael Weissman (D) [Sen]",
+    "Lynda Zamora Wilson (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-17",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-10",
+      "action": "Introduced In Senate - Assigned to",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Senate Third Reading Laid Over to 02/13/2026 - No Amendments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Senate Third Reading Passed - No Amendments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Introduced In House - Assigned to",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "House Third Reading Laid Over Daily - No Amendments",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "House Second Reading Laid Over Daily - No Amendments",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-13",
+      "description": "Senate: Consideration of Memorials Memorial",
+      "yea": 29,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "1969-12-31",
+      "type": "Introduced",
+      "url": "https://leg.colorado.gov/bill_files/111704/download",
+      "doc_id": 3358180
+    },
+    {
+      "date": "1969-12-31",
+      "type": "Engrossed",
+      "url": "https://leg.colorado.gov/bill_files/112003/download",
+      "doc_id": 3362509
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

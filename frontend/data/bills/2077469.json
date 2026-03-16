@@ -1,0 +1,69 @@
+{
+  "id": 2077469,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "HB863",
+  "title": "Offenses, certain; elimination of mandatory minimum sentences.",
+  "summary": "Elimination of mandatory minimum sentences for certain offenses. Eliminates the mandatory minimum term of confinement for certain crimes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/HB863/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/HB863/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/HB863",
+  "sponsors": [
+    "Rae Cousins (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26102686D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Referred to Committee for Courts of Justice",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Assigned HCJ sub: Criminal",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Continued to next session in Courts of Justice (Voice Vote)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (HB863)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Racial and Ethnic Impact Statement From JLARC (3/6/2026 3:51 pm)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-13",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB863/text/HB863",
+      "doc_id": 3315259
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

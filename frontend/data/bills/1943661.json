@@ -1,0 +1,67 @@
+{
+  "id": 1943661,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB2141",
+  "title": "Relating to the applicability of certain criminal offenses to the provision of gender-affirming care.",
+  "summary": "Relating to the applicability of certain criminal offenses to the provision of gender-affirming care.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB2141/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB2141/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2141",
+  "sponsors": [
+    "Lauren Ashley Simmons (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-28",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-28",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Referred to Criminal Jurisprudence",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-28",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB02141I.htm",
+      "doc_id": 3085101
+    }
+  ],
+  "committee": {
+    "committee_id": 1870,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Criminal Jurisprudence"
+  },
+  "subjects": [
+    "Abortion",
+    "Health Care Providers",
+    "Health",
+    "Health--General",
+    "Insurance",
+    "Insurance--Health & Accident",
+    "GENDER IDENTITY & EXPRESSION"
+  ]
+}

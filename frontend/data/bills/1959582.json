@@ -1,0 +1,50 @@
+{
+  "id": 1959582,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0168",
+  "title": "An act relating to protecting academic freedom for prekindergarten through grade 12 educators",
+  "summary": "An act relating to protecting academic freedom for prekindergarten through grade 12 educators",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0168/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0168/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.168",
+  "sponsors": [
+    "Troy Headrick (I) [Rep]",
+    "Kate McCann (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-07",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-02-07",
+      "action": "Read first time and referred to the Committee on Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-06",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0168/H-0168%20As%20Introduced.pdf",
+      "doc_id": 3105400
+    }
+  ],
+  "committee": {
+    "committee_id": 784,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "Education"
+  },
+  "subjects": []
+}

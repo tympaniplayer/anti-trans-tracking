@@ -1,0 +1,331 @@
+{
+  "id": 2065233,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB2251",
+  "title": "Concerning climate commitment act accounts.",
+  "summary": "Concerning climate commitment act accounts.",
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB2251/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB2251/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=2251&Year=2025&Initiative=false",
+  "sponsors": [
+    "Joe Fitzgibbon (D) [Rep]",
+    "Mia Gregerson (D) [Rep]",
+    "Lisa Parshley (D) [Rep]",
+    "Brianna Thomas (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-05",
+      "action": "Prefiled for introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "First reading, referred to Appropriations.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-19",
+      "action": "Public hearing in the House Committee on Appropriations at 4:00 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Executive action taken in the House Committee on Appropriations at 4:00 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "APP - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Minority; do not pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Minority; without recommendation.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Referred to Transportation.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Public hearing in the House Committee on Transportation at 10:30 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Executive action taken in the House Committee on Transportation at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "TR - Majority; 2nd substitute bill be substituted, do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Minority; do not pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Minority; without recommendation.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Referred to Rules 2 Review.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Rules Committee relieved of further consideration. Placed on second reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "2nd substitute bill substituted",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "Floor amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "Third reading, passed; yeas, 56; nays, 41; absent, 0; excused, 1.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "First reading, referred to Ways & Means.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Public hearing in the Senate Committee on Ways & Means at 4:00 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Executive action taken in the Senate Committee on Ways & Means at 1:30 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "WM - Majority; do pass with amendment",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Minority; do not pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Minority; without recommendation.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "And refer to Transportation.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Referred to Transportation.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Public hearing in the Senate Committee on Transportation at 2:30 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Executive action taken in the Senate Committee on Transportation at 1:30 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "TRAN - Majority; do pass with amendment",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Minority; do not pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Minority; without recommendation.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Passed to Rules Committee for second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Placed on second reading by Rules Committee.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Committee amendment not adopted.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Floor amendment",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Third reading, passed; yeas, 34; nays, 14; absent, 0; excused, 1.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "House concurred in Senate amendments.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Passed final passage; yeas, 54; nays, 40; absent, 0; excused, 4.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Speaker signed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "President signed.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Delivered to Governor.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-29",
+      "description": "House Committee on Appropriations: 1st substitute bill be substituted, do pass",
+      "yea": 18,
+      "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-09",
+      "description": "House Committee on Transportation: 2nd substitute bill be substituted, do pass",
+      "yea": 18,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-16",
+      "description": "House 3rd Reading & Final Passage",
+      "yea": 56,
+      "nay": 41,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-26",
+      "description": "Senate Committee on Ways & Means: do pass with amendment(s)",
+      "yea": 14,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-02",
+      "description": "Senate Committee on Transportation: do pass with amendment(s)",
+      "yea": 10,
+      "nay": 6,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "Senate 3rd Reading & Final Passage as Amended by the Senate",
+      "yea": 34,
+      "nay": 14,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-11",
+      "description": "House Final Passage as Amended by the Senate",
+      "yea": 54,
+      "nay": 40,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2251.pdf",
+      "doc_id": 3299569
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2251-S.pdf",
+      "doc_id": 3343693
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2251-S2.pdf",
+      "doc_id": 3358848
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2251-S2.E.pdf",
+      "doc_id": 3364062
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Enrolled",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Passed%20Legislature/2251-S2.PL.pdf",
+      "doc_id": 3391396
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

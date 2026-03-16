@@ -1,0 +1,248 @@
+{
+  "id": 2051030,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "SB658",
+  "title": "Oklahoma Children's Code; prohibiting certain actions by the Department of Human Services in relation to adoptive and foster parents. Effective date.",
+  "summary": "Oklahoma Children's Code; prohibiting certain actions by the Department of Human Services in relation to adoptive and foster parents. Effective date.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/SB658/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/SB658/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=sb658&Session=2600",
+  "sponsors": [
+    "Julie Daniels (R) [Sen]",
+    "Denise Hader (R) [Rep]",
+    "Mark Lepak (R) [Rep]",
+    "Brian Hill (R) [Rep]",
+    "Stacy Jo Adams (R) [Rep]",
+    "Cody Maynard (R) [Rep]",
+    "Gabe Woolley (R) [Rep]",
+    "Micheal Bergstrom (R) [Sen]",
+    "Warren Hamilton (R) [Sen]",
+    "Shane Jett (R) [Rep]"
+  ],
+  "introduced_date": "2025-05-13",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Authored by Senator Daniels",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Second Reading referred to Health and Human Services",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Reported Do Pass Health and Human Services committee; CR filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Placed on General Order",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Coauthored by Senator Hamilton",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Coauthored by Representative CrosswhiteHader (principal House author)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "General Order, Considered",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Measure passed: Ayes: 38 Nays: 7",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Referred for engrossment",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Coauthored by Senator Jett",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Engrossed to House",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Second Reading referred to Health and Human Services Oversight",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Referred to Children, Youth and Family Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Policy recommendation to the Health and Human Services Oversight committee; Do Pass Children, Youth and Family Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Coauthored by Senator(s) Bergstrom",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-21",
+      "action": "CR; Do Pass Health and Human Services Oversight Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-21",
+      "action": "Coauthored by Representative(s) Hill",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "General Order",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Coauthored by Representative(s) Maynard, Adams, Lepak, Woolley",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Third Reading, Measure passed: Ayes: 68 Nays: 19",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Signed, returned to Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Referred for enrollment",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Enrolled, to House",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Signed, returned to Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Sent to Governor",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Approved by Governor 05/10/2025",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-10",
+      "description": "Senate: Health & Human Services Committee: DO PASS",
+      "yea": 11,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-02-26",
+      "description": "Senate: THIRD READING",
+      "yea": 38,
+      "nay": 7,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-09",
+      "description": "House: Children, Youth and Family Services Committee: DO PASS",
+      "yea": 5,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-21",
+      "description": "House: Health and Human Services Oversight Committee: DO PASS",
+      "yea": 10,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-06",
+      "description": "House: THIRD READING",
+      "yea": 68,
+      "nay": 19,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-14",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/SB/SB658%20INT.PDF",
+      "doc_id": 3282385
+    },
+    {
+      "date": "2025-04-21",
+      "type": "Amended",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20FLR/HFLR/SB658%20HFLR.PDF",
+      "doc_id": 3282386
+    },
+    {
+      "date": "2025-02-11",
+      "type": "Amended",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20FLR/SFLR/SB658%20SFLR.PDF",
+      "doc_id": 3282387
+    },
+    {
+      "date": "2025-02-27",
+      "type": "Engrossed",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENGR/SB/SB658%20ENGR.PDF",
+      "doc_id": 3282388
+    },
+    {
+      "date": "2025-05-07",
+      "type": "Enrolled",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB658%20ENR.PDF",
+      "doc_id": 3282389
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1939514,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR60",
+  "title": "Expressing the support of the House of Representatives for the naming of new or undedicated facilities of the Department of Veterans Affairs after women veterans and minority veterans in order to reflect the diversity of all who have served in the Armed Forces of the United States.",
+  "summary": "Expressing the support of the House of Representatives for the naming of new or undedicated facilities of the Department of Veterans Affairs after women veterans and minority veterans in order to reflect the diversity of all who have served in the Armed Forces of the United States.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms",
+    "education"
+  ],
+  "primary_category": "bathrooms",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR60/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR60/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/60/all-info",
+  "sponsors": [
+    "Julia Brownley (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Gwen Moore (D) [Rep]",
+    "Jonathan Jackson (D) [Rep]",
+    "Norma Torres (D) [Rep]",
+    "Dwight Evans (D) [Rep]",
+    "Deborah Ross (D) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "Rebecca Sherrill (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-23",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-01-23",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "Referred to the House Committee on Veterans' Affairs.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-24",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres60/BILLS-119hres60ih.pdf",
+      "doc_id": 3077077
+    }
+  ],
+  "committee": {
+    "committee_id": 2316,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Veterans' Affairs"
+  },
+  "subjects": [
+    "Armed forces and national security"
+  ]
+}

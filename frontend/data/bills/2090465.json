@@ -1,0 +1,176 @@
+{
+  "id": 2090465,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "HB1413",
+  "title": "Limitation on sentence upon revocation of suspension of sentence; technical violations.",
+  "summary": "Limitation on sentence upon revocation of suspension of sentence; technical violations. Provides that the court shall consider all technical violations that are alleged to have occurred after a prior sentencing or revocation hearing as single technical violation and adjudicate the case as such, with punishment imposed pursuant to relevant law. The bill also prohibits the court from treating multiple technical violations during a single probationary period between such prior sentencing or revocation hearing as separate cases or adjudicate such violations at separate hearings. The bill requires that when a defendant has been taken into custody for an alleged violation for which the court may impose not more than 14 days of active incarceration, the court shall docket such case as soon as practicable, and any such case shall be given precedence on the docket. The bill states that if such violation is not adjudicated within 14 days of the defendant being taken into custody, the defendant shall be admitted to bail, unless (i) such defendant consents to being further detained while awaiting adjudication or sentencing or (ii) the Commonwealth has established, by clear and convincing evidence, that the defendant presents a significant risk of harm to himself or the community based on substance use disorder or serious mental illness and has been referred for residential treatment. Notwithstanding the foregoing, the bill provides that no such defendant shall be held in custody awaiting adjudication of or sentencing on such alleged technical violation for longer than 30 days. The bill also expands the list of technical violations and provides that it shall be a defense to an alleged violation if the defendant can show that he has substantially complied with his probation obligations.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/HB1413/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/HB1413/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/HB1413",
+  "sponsors": [
+    "Charlie Schmidt (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-16",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-22",
+      "action": "Presented and ordered printed 26103278D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Referred to Committee for Courts of Justice",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (HB1413)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-07",
+      "action": "Assigned HCJ sub: Criminal",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "House subcommittee offered",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Subcommittee recommends reporting with substitute (7-Y 3-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Reported from Courts of Justice with substitute (15-Y 6-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Committee substitute printed 26107431D-H1",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "Read second time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "committee substitute agreed to",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "Engrossed by House - committee substitute",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Read third time and passed House (62-Y 35-N 0-A)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Constitutional reading dispensed (on 1st reading)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Referred to Committee for Courts of Justice",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (HB1413)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Senate committee offered",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Continued to next session in Courts of Justice (12-Y 3-N)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-11",
+      "description": "Subcommittee recommends reporting with substitute (7-Y 3-N)",
+      "yea": 7,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-13",
+      "description": "Reported from Courts of Justice with substitute (15-Y 6-N)",
+      "yea": 15,
+      "nay": 6,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-17",
+      "description": "Read third time and passed House (62-Y 35-N 0-A)",
+      "yea": 62,
+      "nay": 35,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-09",
+      "description": "Continued to next session in Courts of Justice (12-Y 3-N)",
+      "yea": 12,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-22",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB1413/text/HB1413",
+      "doc_id": 3328612
+    },
+    {
+      "date": "2026-02-11",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB1413/text/HB1413HC1",
+      "doc_id": 3359234
+    },
+    {
+      "date": "2026-02-11",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB1413/text/HB1413HC2",
+      "doc_id": 3359235
+    },
+    {
+      "date": "2026-02-13",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB1413/text/HB1413H1",
+      "doc_id": 3362606
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,121 @@
+{
+  "id": 1980554,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "SB824",
+  "title": "Secure youth treatment facilities.",
+  "summary": "An act to amend Section 875 of the Welfare and Institutions Code, relating to juveniles.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/SB824/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/SB824/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB824",
+  "sponsors": [
+    "Caroline Menjivar (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-21",
+      "action": "Introduced. To Com. on RLS. for assignment. To print.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "From printer. May be acted upon on or after March 24.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Read first time.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Referred to Com. on PUB. S.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Set for hearing April 22.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 5. Noes 0. Page 842.) (April 22).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Read second time and amended. Re-referred to Com. on APPR.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Set for hearing May 5.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "May 5 hearing: Placed on APPR. suspense file.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Set for hearing May 23.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "May 23 hearing: Held in committee and under submission.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-22",
+      "description": "Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",
+      "yea": 5,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-05",
+      "description": "Placed on suspense file",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-21",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB824#99INT",
+      "doc_id": 3137339
+    },
+    {
+      "date": "2025-04-24",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB824#98AMD",
+      "doc_id": 3221547
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

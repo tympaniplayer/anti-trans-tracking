@@ -1,0 +1,70 @@
+{
+  "id": 2030692,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S07914",
+  "title": "Establishes an LGBTQ+ youth and young adult suicide prevention task force; provides for the number of members, manner of appointment and the topics to be reviewed.",
+  "summary": "Establishes an LGBTQ+ youth and young adult suicide prevention task force; provides for the number of members, manner of appointment and the topics to be reviewed.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S07914/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S07914/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S7914",
+  "sponsors": [
+    "Julia Salazar (D) [Sen]",
+    "Joseph Addabbo (D) [Sen]",
+    "Jabari Brisport (D) [Sen]",
+    "Cordell Cleare (D) [Sen]",
+    "Nathalia Fernandez (D) [Sen]",
+    "Kristen Gonzalez (D) [Sen]",
+    "Peter Harckham (D) [Sen]",
+    "Michelle Hinchey (D) [Sen]",
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "John Liu (D) [Sen]",
+    "Rachel May (D) [Sen]",
+    "Zellnor Myrie (D) [Sen]",
+    "Jessica Ramos (D) [Sen]",
+    "Luis Sepulveda (D) [Sen]",
+    "James Skoufis (D) [Sen]",
+    "Lea Webb (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-13",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-13",
+      "action": "REFERRED TO MENTAL HEALTH",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO MENTAL HEALTH",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-13",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S07914&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S07914",
+      "doc_id": 3236663
+    }
+  ],
+  "committee": {
+    "committee_id": 4467,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Mental Health"
+  },
+  "subjects": []
+}

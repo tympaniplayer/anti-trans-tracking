@@ -1,0 +1,178 @@
+{
+  "id": 1981418,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H2024",
+  "title": "Order relative to the adoption of permanent Rules of the House of Representatives for the 194th General Court governing the 2025-2026 legislative sessions",
+  "summary": "Order relative to the adoption of permanent Rules of the House of Representatives for the 194th General Court governing the 2025-2026 legislative sessions",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H2024/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H2024/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H2024",
+  "sponsors": [
+    "William Galvin (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-24",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-24",
+      "action": "Referred to the temporary committee on House Rules",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Reported from the temporary committee on House Rules",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Committee recommended ought to be adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Rules suspended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Order adopted, see H59",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Question on adoption",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Postponed to Tuesday, February 25, 2025 at 1:00pm",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Amendment 6 rejected",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Amendment 15 rejected",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Amendment 16 adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Amendment 20 rejected",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Amendment 18 rejected - 23 YEAS to 128 NAYS (See YEA and NAY No. 20 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Amendment 17 rejected - 24 YEAS to 127 NAYS (See YEA and NAY No. 21 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Amendment 1 pending",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Point of Order",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Point of Order well taken",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Amendment 1 laid aside",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Amendment 2 rejected - 23 YEAS to 128 NAYS (See YEA and NAY No. 22 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Amendment 3 rejected - 23 YEAS to 128 NAYS (See YEA and NAY No. 23 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Amendment 21 rejected",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Amendment 23 adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Published as amended, see H2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-25",
+      "description": "House  Amendment 18 rejected - 23 YEAS to 128 NAYS",
+      "yea": 23,
+      "nay": 128,
+      "passed": 0
+    },
+    {
+      "date": "2025-02-25",
+      "description": "House  Amendment 17 rejected - 24 YEAS to 127 NAYS",
+      "yea": 24,
+      "nay": 127,
+      "passed": 0
+    },
+    {
+      "date": "2025-02-25",
+      "description": "House  Amendment 2 rejected - 23 YEAS to 128 NAYS",
+      "yea": 23,
+      "nay": 128,
+      "passed": 0
+    },
+    {
+      "date": "2025-02-25",
+      "description": "House  Amendment 3 rejected - 23 YEAS to 128 NAYS",
+      "yea": 23,
+      "nay": 128,
+      "passed": 0
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-24",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H2024.pdf",
+      "doc_id": 3138553
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

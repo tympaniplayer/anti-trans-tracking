@@ -1,0 +1,85 @@
+{
+  "id": 2044122,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB2799",
+  "title": "Forced Arbitration Injustice Repeal Act",
+  "summary": "A bill to amend title 9 of the United States Code with respect to arbitration.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB2799/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB2799/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2799/all-info",
+  "sponsors": [
+    "Richard Blumenthal (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Michael Bennet (D) [Sen]",
+    "Lisa Rochester (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Maria Cantwell (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Catherine Cortez Masto (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "Kirsten Gillibrand (D) [Sen]",
+    "Margaret Hassan (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Tim Kaine (D) [Sen]",
+    "Amy Klobuchar (D) [Sen]",
+    "Ben Lujan (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Christopher Murphy (D) [Sen]",
+    "Patty Murray (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Gary Peters (D) [Sen]",
+    "Jack Reed (D) [Sen]",
+    "Jacky Rosen (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Brian Schatz (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Jeanne Shaheen (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Raphael Warnock (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Sheldon Whitehouse (D) [Sen]",
+    "Ron Wyden (D) [Sen]"
+  ],
+  "introduced_date": "2025-09-15",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-09-15",
+      "action": "Read twice and referred to the Committee on the Judiciary.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-09-26",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s2799/BILLS-119s2799is.pdf",
+      "doc_id": 3270960
+    }
+  ],
+  "committee": {
+    "committee_id": 2330,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Law"
+  ]
+}

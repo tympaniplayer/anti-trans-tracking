@@ -1,0 +1,83 @@
+{
+  "id": 2096727,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A2218",
+  "title": "Secures protections for patients and providers accessing and providing legally protected health care activities; establishes right of residents to legally protected health care services, which are restricted in other states.",
+  "summary": "Secures protections for patients and providers accessing and providing legally protected health care activities; establishes right of residents to legally protected health care services, which are restricted in other states.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A2218/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A2218/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A2218",
+  "sponsors": [
+    "Shanique Speight (D) [Rep]",
+    "Ellen Park (D) [Rep]",
+    "Annette Quijano (D) [Rep]",
+    "Luanne Peterpaul (D) [Rep]",
+    "Michael Venezia (D) [Rep]",
+    "Mitchelle Drulis (D) [Rep]",
+    "Margie Donlon (D) [Rep]",
+    "Verlina Reynolds-Jackson (D) [Rep]",
+    "William Sampson (D) [Rep]",
+    "Roy Freiman (D) [Rep]",
+    "Wayne DeAngelo (D) [Rep]",
+    "Joe Danielsen (D) [Rep]",
+    "Anthony Verrelli (D) [Rep]",
+    "Tennille McCoy (D) [Rep]",
+    "Balvir Singh (D) [Rep]",
+    "Rosy Bagolie (D) [Rep]",
+    "Shama Haider (D) [Rep]",
+    "William Moen (D) [Rep]",
+    "Alixon Collazos-Gill (D) [Rep]",
+    "Lisa Swain (D) [Rep]",
+    "Cleopatra Tucker (D) [Rep]",
+    "Gabriel Rodriguez (D) [Rep]",
+    "William Spearman (D) [Rep]",
+    "Melinda Kane (D) [Rep]",
+    "Eliana Marin (D) [Rep]",
+    "Carmen Morales (D) [Rep]",
+    "Louis Greenwald (D) [Rep]",
+    "Clinton Calabrese (D) [Rep]",
+    "Sterley Stanley (D) [Rep]",
+    "Carol Murphy (D) [Rep]",
+    "David Bailey (D) [Rep]",
+    "Heather Simmons (D) [Rep]",
+    "James Kennedy (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Health Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-02",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A2500/2218_I1.HTM",
+      "doc_id": 3335786
+    }
+  ],
+  "committee": {
+    "committee_id": 4191,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Health"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

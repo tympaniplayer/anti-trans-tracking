@@ -1,0 +1,52 @@
+{
+  "id": 2036811,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB2008",
+  "title": "Stop Funding Genital Mutilation Act",
+  "summary": "A bill to amend title XIX of the Social Security Act to prohibit Medicaid and CHIP funding for gender transition procedures.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB2008/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB2008/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2008/all-info",
+  "sponsors": [
+    "John Cornyn (R) [Sen]",
+    "James Lankford (R) [Sen]"
+  ],
+  "introduced_date": "2025-06-10",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-10",
+      "action": "Read twice and referred to the Committee on Finance.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-18",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s2008/BILLS-119s2008is.pdf",
+      "doc_id": 3257161
+    }
+  ],
+  "committee": {
+    "committee_id": 2326,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Finance"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

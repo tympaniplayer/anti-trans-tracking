@@ -1,0 +1,64 @@
+{
+  "id": 2119591,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB2064",
+  "title": "Discrimination: formerly incarcerated status.",
+  "summary": "An act to amend Section 51 of the Civil Code, relating to discrimination.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB2064/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB2064/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2064",
+  "sponsors": [
+    "LaShae Sharp-Collins (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-18",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-18",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "From printer. May be heard in committee March 21.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Referred to Com. on JUD.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-18",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2064#99INT",
+      "doc_id": 3367267
+    }
+  ],
+  "committee": {
+    "committee_id": 463,
+    "chamber": "A",
+    "chamber_id": 19,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

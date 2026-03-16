@@ -1,0 +1,110 @@
+{
+  "id": 2101368,
+  "state": "OR",
+  "state_name": "Oregon",
+  "bill_number": "HB4155",
+  "title": "Relating to infertility.",
+  "summary": "The Act tells some insurers to cover care for some fertility treatments and exempts some insurers from parts of this requirement. Tells DCBS to make a program to cover costs for exempt insurers. Creates a new fund. (Flesch Readability Score: 66.2). [Digest: The Act tells some insurers, OEBB and PEBB to cover care for some fertility treatments. The Act tells OHA and DCBS to study access to reproductive treatments and report back to the committee on health. The Act makes it an emergency. (Flesch Readability Score: 65.0).] Requires certain health insurers[, the Oregon Educators Benefit Board and the Public Employees' Benefit Board] to cover fertility services and treatments. Exempts certain insurers from specific coverage requirements. [Directs the Oregon Health Authority and the Department of Consumer and Business Services to study access to fertility and reproductive endocrinology services and report findings to the interim committees of the Legislative Assembly related to health.] [Declares an emergency, effective on passage.] Directs the Department of Consumer and Business Services to administer a program to provide reimbursement for the costs for treatments when not covered by exempted insurers. Establishes the Family Building Fund in the State Treasury.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OR/bill/HB4155/2026",
+  "legiscan_url": "https://legiscan.com/OR/bill/HB4155/2026",
+  "state_url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4155",
+  "sponsors": [
+    "Lucetta Elmer (R) [Rep]",
+    "Court Boice (R) [Rep]",
+    "Matt Bunch (R) [Rep]",
+    "Darcey Edwards (R) [Rep]",
+    "David Gomberg (D) [Rep]",
+    "Dacia Grayber (D) [Rep]",
+    "Jeff Helfrich (R) [Rep]",
+    "Zach Hudson (D) [Rep]",
+    "Bobby Levy (R) [Rep]",
+    "Emerson Levy (D) [Rep]",
+    "Rick Lewis (R) [Rep]",
+    "Kevin Mannix (R) [Rep]",
+    "Emily McIntire (R) [Rep]",
+    "Virgle Osborne (R) [Rep]",
+    "Anna Scharf (R) [Rep]",
+    "Alek Skarlatos (R) [Rep]",
+    "Dwayne Yunker (R) [Rep]"
+  ],
+  "introduced_date": "2026-03-06",
+  "session": "2026 Legislative Measures",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "First reading. Referred to Speaker's desk.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Referred to Health Care with subsequent referral to Ways and Means.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Public Hearing held.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Work Session held.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Recommendation: Do pass with amendments, be printed A-Engrossed, and be referred to Ways and Means by prior reference.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Referred to Ways and Means by prior reference.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "In committee upon adjournment.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-12",
+      "description": "House Committee Do pass with amendments and be referred to Ways and Means by prior reference. (Printed A-Eng.)",
+      "yea": 8,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4155/Introduced",
+      "doc_id": 3340552
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4155/House%20Amendments%20to%20Introduced",
+      "doc_id": 3365677
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4155/A-Engrossed",
+      "doc_id": 3365678
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

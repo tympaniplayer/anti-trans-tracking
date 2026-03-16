@@ -1,0 +1,81 @@
+{
+  "id": 1977222,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "HF1306",
+  "title": "Education policy bill.",
+  "summary": "Education policy bill.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/HF1306/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/HF1306/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1306/",
+  "sponsors": [
+    "Sydney Jordan (D) [Rep]",
+    "Peggy Bennett (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-20",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-02-20",
+      "action": "Introduction and first reading, referred to Education Policy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Committee report, to adopt as amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Second reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Author added Bennett",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-25",
+      "action": "Referred to Chief Clerk for comparison with SF1740",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Bills not identical, SF substituted on General Register",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "HF indefinitely postponed",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-20",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1306/versions/0/pdf/",
+      "doc_id": 3133063
+    },
+    {
+      "date": "2025-04-07",
+      "type": "Engrossed",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1306/versions/1/pdf/",
+      "doc_id": 3204079
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,111 @@
+{
+  "id": 1932094,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1505",
+  "title": "Correcting obsolete or erroneous references in statutes administered by the insurance commissioner.",
+  "summary": "Correcting obsolete or erroneous references in statutes administered by the insurance commissioner.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1505/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1505/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1505&Year=2025&Initiative=false",
+  "sponsors": [
+    "Amy Walen (D) [Rep]",
+    "Liz Berry (D) [Rep]",
+    "Debra Lekanoff (D) [Rep]",
+    "Julia Reed (D) [Rep]",
+    "Timm Ormsby (D) [Rep]",
+    "Steve Tharinger (D) [Rep]",
+    "Nicole Macri (D) [Rep]",
+    "Natasha Hill (D) [Rep]",
+    "Shaun Scott (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-22",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-22",
+      "action": "First reading, referred to Consumer Protection & Business.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Public hearing in the House Committee on Consumer Protection & Business at 8:00 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-14",
+      "action": "Executive action taken in the House Committee on Consumer Protection & Business at 8:00 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-14",
+      "action": "CPB - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-14",
+      "action": "Minority; do not pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-14",
+      "action": "Minority; without recommendation.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Referred to Appropriations.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-22",
+      "action": "Public hearing in the House Committee on Appropriations at 9:00 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-14",
+      "description": "House Committee on Consumer Protection & Business: 1st substitute bill be substituted, do pass",
+      "yea": 9,
+      "nay": 4,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1505.pdf",
+      "doc_id": 3069705
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1505-S.pdf",
+      "doc_id": 3126694
+    }
+  ],
+  "committee": {
+    "committee_id": 2759,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Appropriations"
+  },
+  "subjects": []
+}

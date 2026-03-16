@@ -1,0 +1,72 @@
+{
+  "id": 2090367,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "HB1990",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 28; Title 29; Title 49; Title 56; Title 63 and Title 68, relative to a person's sex.",
+  "summary": "As introduced, directs the department to conduct a study on health concerns of, and identifying obstacles for receiving better care for, persons whose biological sex is female; requires the department to submit a report to the members of the general assembly on the results of the study on or before January 1, 2027. - Amends TCA Title 28; Title 29; Title 49; Title 56; Title 63 and Title 68.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/HB1990/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/HB1990/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB1990&ga=114",
+  "sponsors": [
+    "Aron Maberry (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-22",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-22",
+      "action": "Filed for introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Intro., P1C.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "P2C, caption bill, held on desk - pending amdt.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Sponsor change.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Sponsor(s) withdrawn.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-22",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1990.pdf",
+      "doc_id": 3328516
+    },
+    {
+      "date": "2026-02-09",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1990.pdf",
+      "doc_id": 3353643
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Health, Dept. of"
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "id": 2044179,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB5356",
+  "title": "National Infrastructure Bank Act of 2025",
+  "summary": "To facilitate efficient investments and financing of infrastructure projects and new job creation through the establishment of a National Infrastructure Bank, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB5356/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB5356/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/5356/all-info",
+  "sponsors": [
+    "Danny Davis (D) [Rep]",
+    "Adam Smith (D) [Rep]",
+    "Adriano Espaillat (D) [Rep]",
+    "Stephen Lynch (D) [Rep]",
+    "Paul Tonko (D) [Rep]",
+    "Chellie Pingree (D) [Rep]",
+    "Seth Magaziner (D) [Rep]",
+    "Emanuel Cleaver (D) [Rep]",
+    "Christopher Deluzio (D) [Rep]",
+    "John Garamendi (D) [Rep]",
+    "Kevin Mullin (D) [Rep]",
+    "Nydia Velazquez (D) [Rep]",
+    "Maxwell Frost (D) [Rep]",
+    "Greg Landsman (D) [Rep]",
+    "Thomas Suozzi (D) [Rep]",
+    "James McGovern (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Gabe Amo (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Ro Khanna (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Marcy Kaptur (D) [Rep]",
+    "Jonathan Jackson (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Ritchie Torres (D) [Rep]",
+    "Daniel Goldman (D) [Rep]",
+    "Jerrold Nadler (D) [Rep]",
+    "George Latimer (D) [Rep]",
+    "Pat Ryan (D) [Rep]",
+    "Jesus Garcia (D) [Rep]",
+    "Dwight Evans (D) [Rep]",
+    "Andre Carson (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Brendan Boyle (D) [Rep]",
+    "Summer Lee (D) [Rep]",
+    "Timothy Kennedy (D) [Rep]",
+    "Pramila Jayapal (D) [Rep]",
+    "Zoe Lofgren (D) [Rep]",
+    "Deborah Ross (D) [Rep]",
+    "Debbie Dingell (D) [Rep]",
+    "Jimmy Panetta (D) [Rep]",
+    "Valerie Foushee (D) [Rep]",
+    "Teresa Fernandez (D) [Rep]",
+    "Sheila Cherfilus-McCormick (D) [Rep]",
+    "Melanie Stansbury (D) [Rep]",
+    "Sara Jacobs (D) [Rep]",
+    "Gabe Vasquez (D) [Rep]",
+    "Laura Friedman (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "John Mannion (D) [Rep]",
+    "Alexandria Ocasio-Cortez (D) [Rep]",
+    "Alma Adams (D) [Rep]",
+    "Wesley Bell (D) [Rep]",
+    "Jennifer McClellan (D) [Rep]",
+    "Eric Swalwell (D) [Rep]",
+    "Bennie Thompson (D) [Rep]",
+    "Lateefah Simon (D) [Rep]",
+    "Shontel Brown (D) [Rep]"
+  ],
+  "introduced_date": "2025-09-15",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-09-15",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committees on Ways and Means, Transportation and Infrastructure, Financial Services, Education and Workforce, Natural Resources, and the Budget, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-01",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr5356/BILLS-119hr5356ih.pdf",
+      "doc_id": 3271186
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Finance and financial sector"
+  ]
+}

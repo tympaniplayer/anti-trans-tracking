@@ -1,0 +1,58 @@
+{
+  "id": 1977561,
+  "state": "DE",
+  "state_name": "Delaware",
+  "bill_number": "SB55",
+  "title": "An Act To Amend Title 16 Of The Delaware Code Relating To Gender Transition Procedures.",
+  "summary": "An Act To Amend Title 16 Of The Delaware Code Relating To Gender Transition Procedures.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DE/bill/SB55/2025",
+  "legiscan_url": "https://legiscan.com/DE/bill/SB55/2025",
+  "state_url": "https://legis.delaware.gov/BillDetail?LegislationId=141855",
+  "sponsors": [
+    "Bryant Richardson (R) [Sen]",
+    "Jeff Hilovsky (R) [Rep]",
+    "Gerald Hocker (R) [Sen]",
+    "David Lawson (R) [Sen]",
+    "David Wilson (R) [Sen]",
+    "Richard Collins (R) [Rep]",
+    "Ronald Gray (R) [Rep]",
+    "Shannon Morris (R) [Rep]",
+    "Bryan Shupe (R) [Rep]",
+    "Lyndon Yearick (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-20",
+  "session": "153rd General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-20",
+      "action": "Introduced and Assigned to Health & Social Services Committee in Senate",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Draft",
+      "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=141855&legislationTypeId=1&docTypeId=2&legislationName=SB55",
+      "doc_id": 3133373
+    }
+  ],
+  "committee": {
+    "committee_id": 1681,
+    "chamber": "S",
+    "chamber_id": 26,
+    "name": "Health & Social Services"
+  },
+  "subjects": []
+}

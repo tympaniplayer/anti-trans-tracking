@@ -1,0 +1,102 @@
+{
+  "id": 2011804,
+  "state": "NC",
+  "state_name": "North Carolina",
+  "bill_number": "S381",
+  "title": "Equality for All",
+  "summary": "Equality for All",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NC/bill/S381/2025",
+  "legiscan_url": "https://legiscan.com/NC/bill/S381/2025",
+  "state_url": "https://www.ncleg.gov/BillLookUp/2025/S381",
+  "sponsors": [
+    "Lisa Grafstein (D) [Sen]",
+    "Julie Mayfield (D) [Sen]",
+    "Graig Meyer (D) [Sen]",
+    "Val Applewhite (D) [Sen]",
+    "Jay Chaudhuri (D) [Sen]",
+    "Sophia Chitlik (D) [Sen]",
+    "Natalie Murdock (D) [Sen]",
+    "DeAndrea Salvador (D) [Sen]",
+    "Kandie Smith (D) [Sen]",
+    "Caleb Theodros (D) [Sen]",
+    "Joyce Waddell (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-20",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-03-20",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Passed 1st Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Ref To Com On Rules and Operations of the Senate",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-20",
+      "type": "Introduced",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S381v0.pdf",
+      "doc_id": 3183038
+    },
+    {
+      "date": "2025-03-24",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S381v1.pdf",
+      "doc_id": 3186407
+    }
+  ],
+  "committee": {
+    "committee_id": 698,
+    "chamber": "S",
+    "chamber_id": 76,
+    "name": "Rules and Operations of the Senate"
+  },
+  "subjects": [
+    "Aging",
+    "Armed Forces",
+    "Biotechnology",
+    "Charter Schools",
+    "Courts",
+    "Disabled Persons",
+    "Discrimination",
+    "Education",
+    "Elementary Education",
+    "Employment",
+    "Financial Services",
+    "Genetics",
+    "Lgbtq & Gender Issues",
+    "Housing",
+    "Insurance",
+    "Juries",
+    "Local Government",
+    "Minorities",
+    "Personnel",
+    "Public",
+    "Stem",
+    "Secondary Education",
+    "Social Services",
+    "Tribes & Tribal Government",
+    "Veterans",
+    "Women"
+  ]
+}

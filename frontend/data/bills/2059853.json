@@ -1,0 +1,76 @@
+{
+  "id": 2059853,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "H4637",
+  "title": "Abortion",
+  "summary": "Amend The South Carolina Code Of Laws By Adding Article 8 To Chapter 41, Title 44 So As To Prohibit The Manufacture, Distribution, Possession, Mailing, Transporting, Delivery, And Prescribing Of Abortion-inducing Drugs In The State Of South Carolina, With Exceptions; To Address Recoverable Damages; To Establish Penalties; To Authorize Qui Tam Actions; To Address Certain Out-of-state Legal Actions By Clarifying That South Carolina Law Applies To Any Out-of-state Legal Actions Or Conduct That Is The Basis For These Legal Actions; And For Other Purposes; And By Adding Article 10 To Chapter 41, Title 44 So As To Prohibit Certain Abortion Assistance Activities, Including Payment Of Abortion Costs And Providing Financial Support To An Abortion Fund, With Exceptions; To Establish Penalties; And For Other Purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/H4637/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/H4637/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=4637&session=126&summary=B",
+  "sponsors": [
+    "Melissa Oremus (R) [Rep]",
+    "John Mccravy (R) [Rep]",
+    "Thomas Pope (R) [Rep]",
+    "William Chumley (R) [Rep]",
+    "Sarita Edgerton (R) [Rep]",
+    "Jay Kilmartin (R) [Rep]",
+    "Thomas Beach (R) [Rep]",
+    "Joe White (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2025-12-16",
+      "action": "Prefiled",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-16",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Introduced and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Member(s) request name added as sponsor: White",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-17",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/4637_20251217.htm",
+      "doc_id": 3291911
+    }
+  ],
+  "committee": {
+    "committee_id": 708,
+    "chamber": "H",
+    "chamber_id": 85,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

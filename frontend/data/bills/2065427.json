@@ -1,0 +1,56 @@
+{
+  "id": 2065427,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0550",
+  "title": "An act relating to gender equity within Vermont\u2019s correctional facilities",
+  "summary": "An act relating to gender equity within Vermont\u2019s correctional facilities",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0550/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0550/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.550",
+  "sponsors": [
+    "Troy Headrick (I) [Rep]",
+    "Tiffany Bluemle (D) [Rep]",
+    "Conor Casey (D) [Rep]",
+    "William Greer (D) [Rep]",
+    "Mary Howard (D) [Rep]",
+    "Kate McCann (D) [Rep]",
+    "Jubilee McGill (D) [Rep]",
+    "Brian Minier (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-06",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "action": "Read first time and referred to the Committee on Corrections and Institutions",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-05",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0550/H-0550%20As%20Introduced.pdf",
+      "doc_id": 3299714
+    }
+  ],
+  "committee": {
+    "committee_id": 783,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "Corrections and Institutions"
+  },
+  "subjects": []
+}

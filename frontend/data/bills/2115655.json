@@ -1,0 +1,61 @@
+{
+  "id": 2115655,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "H7768",
+  "title": "Prohibits an employer, employment agency, labor organization, or employee, to commit any act declared to be an unlawful employment practice; individuals would be held personally liable for such conduct.",
+  "summary": "LABOR AND LABOR RELATIONS -- FAIR EMPLOYMENT PRACTICES - Prohibits an employer, employment agency, labor organization, or employee, to commit any act declared to be an unlawful employment practice; individuals would be held personally liable for such conduct.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/H7768/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/H7768/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "John Edwards (D) [Rep]",
+    "Evan Shanley (D) [Rep]",
+    "Brandon Potter (D) [Rep]",
+    "Mia Ackerman (D) [Rep]",
+    "Brian Newberry (R) [Rep]",
+    "Robert Craven (D) [Rep]",
+    "David Bennett (D) [Rep]",
+    "Scott Slater (D) [Rep]",
+    "Rebecca Kislak (D) [Rep]",
+    "Brandon Voas (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-12",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-12",
+      "action": "Introduced, referred to House Labor",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-12",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H7768.pdf",
+      "doc_id": 3360519
+    }
+  ],
+  "committee": {
+    "committee_id": 1123,
+    "chamber": "H",
+    "chamber_id": 83,
+    "name": "Labor"
+  },
+  "subjects": [
+    "Labor And Labor Relations",
+    "LABOR AND LABOR RELATIONS -- FAIR EMPLOYMENT PRACTICES"
+  ]
+}

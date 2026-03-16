@@ -1,0 +1,60 @@
+{
+  "id": 2126094,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "H7940",
+  "title": "Amends unfair discrimination statutes to encompass more protected categories and protect against additional forms of discrimination.",
+  "summary": "INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES - Amends unfair discrimination statutes to encompass more protected categories and protect against additional forms of discrimination.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/H7940/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/H7940/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Rebecca Kislak (D) [Rep]",
+    "Edith Ajello (D) [Rep]",
+    "Jason Knight (D) [Rep]",
+    "Brandon Potter (D) [Rep]",
+    "Joshua Giraldo (D) [Rep]",
+    "Terri-Denise Cortvriend (D) [Rep]",
+    "Justine Caldwell (D) [Rep]",
+    "Hagan McEntee (D) [Rep]",
+    "Teresa Tanzi (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-27",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "action": "Introduced, referred to House Health & Human Services",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-27",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H7940.pdf",
+      "doc_id": 3379851
+    }
+  ],
+  "committee": {
+    "committee_id": 4420,
+    "chamber": "H",
+    "chamber_id": 83,
+    "name": "Health & Human Services"
+  },
+  "subjects": [
+    "Insurance",
+    "INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES"
+  ]
+}

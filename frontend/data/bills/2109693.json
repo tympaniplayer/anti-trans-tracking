@@ -1,0 +1,52 @@
+{
+  "id": 2109693,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S3450",
+  "title": "Requires certain electronic medical programs to include demographic data entry feature; requires laboratories to record certain patients' demographic information; requires certain hospitals and laboratories to implement cultural competency training program.",
+  "summary": "Requires certain electronic medical programs to include demographic data entry feature; requires laboratories to record certain patients' demographic information; requires certain hospitals and laboratories to implement cultural competency training program.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "sports"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S3450/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S3450/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S3450",
+  "sponsors": [
+    "James Beach (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-09",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-09",
+      "action": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-10",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S3500/3450_I1.HTM",
+      "doc_id": 3356350
+    }
+  ],
+  "committee": {
+    "committee_id": 879,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Health, Human Services and Senior Citizens"
+  },
+  "subjects": [
+    "Health, Human Services and Senior Citizens"
+  ]
+}

@@ -1,0 +1,236 @@
+{
+  "id": 2123570,
+  "state": "CT",
+  "state_name": "Connecticut",
+  "bill_number": "SB00298",
+  "title": "An Act Concerning The Reallocation Of Certain State Funds And Various Provisions Relating To Education, Public Safety, General Government, Elections, Intermediate Care Facilities And Warehouse Distribution Centers.",
+  "summary": "An Act Concerning The Reallocation Of Certain State Funds And Various Provisions Relating To Education, Public Safety, General Government, Elections, Intermediate Care Facilities And Warehouse Distribution Centers.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CT/bill/SB00298/2026",
+  "legiscan_url": "https://legiscan.com/CT/bill/SB00298/2026",
+  "state_url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00298&which_year=2026",
+  "sponsors": [
+    "Martin Looney (D) [Sen]",
+    "Matthew Ritter (D) [Rep]",
+    "Robert Duff (D) [Sen]",
+    "Jason Rojas (D) [Rep]",
+    "Hilda Santiago (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-05",
+  "session": "2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-24",
+      "action": "Emergency Certification",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Senate Rejected Senate Amendment Schedule A 2239",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Senate Rejected Senate Amendment Schedule B 2242",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Senate Rejected Senate Amendment Schedule C 2244",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Senate Rejected Senate Amendment Schedule D 2258",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Senate Rejected Senate Amendment Schedule E 2293",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Senate Rejected Senate Amendment Schedule F 2297",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Senate Passed",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Immediate Transmittal to the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "House Rejected House Amendment Schedule A 2367",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "House Rejected House Amendment Schedule B 2348",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "House Rejected House Amendment Schedule C 2371",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "House Rejected House Amendment Schedule D 2413",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "House Passed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "In Concurrence",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Rules Suspended, Transmitted to the Governor",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Line Item Vetoed by the Governor, Section(s): 5A,6,7,11,12,13",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Signed by Governor in Original",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Public Act 26-1",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-25",
+      "description": "Senate Roll Call Vote 10 ",
+      "yea": 11,
+      "nay": 25,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-25",
+      "description": "Senate Roll Call Vote 9 ",
+      "yea": 11,
+      "nay": 25,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-25",
+      "description": "Senate Roll Call Vote 8 ",
+      "yea": 11,
+      "nay": 25,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-25",
+      "description": "Senate Roll Call Vote 7 ",
+      "yea": 11,
+      "nay": 25,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-25",
+      "description": "Senate Roll Call Vote 6 ",
+      "yea": 11,
+      "nay": 25,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-25",
+      "description": "Senate Roll Call Vote 13 ",
+      "yea": 26,
+      "nay": 10,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-25",
+      "description": "Senate Roll Call Vote 12 ",
+      "yea": 9,
+      "nay": 26,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-25",
+      "description": "Senate Roll Call Vote 11 ",
+      "yea": 11,
+      "nay": 25,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-26",
+      "description": "House Roll Call Vote 9 EMERGENCY CERTIFICATION ",
+      "yea": 96,
+      "nay": 48,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-26",
+      "description": "House Roll Call Vote 8 EMERGENCY CERTIFICATION HOUSE AMD D",
+      "yea": 47,
+      "nay": 97,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-26",
+      "description": "House Roll Call Vote 7 EMERGENCY CERTIFICATION HOUSE AMD C",
+      "yea": 46,
+      "nay": 97,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-26",
+      "description": "House Roll Call Vote 6 EMERGENCY CERTIFICATION HOUSE AMD B",
+      "yea": 47,
+      "nay": 98,
+      "passed": 0
+    },
+    {
+      "date": "2026-02-26",
+      "description": "House Roll Call Vote 5 HOUSE AMD A",
+      "yea": 54,
+      "nay": 91,
+      "passed": 0
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-02-24",
+      "type": "Introduced",
+      "url": "https://www.cga.ct.gov/2026/TOB/S/PDF/2026SB-00298-R00-SB.PDF",
+      "doc_id": 3374516
+    },
+    {
+      "date": "2026-03-05",
+      "type": "Chaptered",
+      "url": "https://www.cga.ct.gov/2026/ACT/PA/PDF/2026PA-00001-R00SB-00298-PA.PDF",
+      "doc_id": 3386330
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,226 @@
+{
+  "id": 1968224,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB583",
+  "title": "Death certificates.",
+  "summary": "An act to amend, repeal, and add Sections 102795, 102800, 102825, 102850, 102875, 102975, and 103300 of the Health and Safety Code, relating to public health.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB583/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB583/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB583",
+  "sponsors": [
+    "Gail Pellerin (D) [Rep]"
+  ],
+  "introduced_date": "2025-10-03",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-12",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "From printer. May be heard in committee March 15.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Referred to Com. on HEALTH.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 15. Noes 0.) (April 1).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Re-referred to Com. on APPR.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "From committee: Do pass. (Ayes 15. Noes 0.) (April 23).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Read third time. Passed. Ordered to the Senate. (Ayes 72. Noes 0. Page 1477.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Referred to Com. on HEALTH.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. with recommendation: To Consent Calendar. (Ayes 9. Noes 0.) (June 11). Re-referred to Com. on APPR.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "From committee: Be ordered to second reading file pursuant to Senate Rule 28.8 and ordered to Consent Calendar.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-01",
+      "action": "Read second time. Ordered to Consent Calendar.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-03",
+      "action": "From Consent Calendar.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-03",
+      "action": "Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-17",
+      "action": "Read third time and amended. Ordered to second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-19",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-02",
+      "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 40. Noes 0. Page 2391.).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-02",
+      "action": "In Assembly. Concurrence in Senate amendments pending.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-03",
+      "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 79. Noes 0. Page 2875.).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-09",
+      "action": "Enrolled and presented to the Governor at 3 p.m.",
+      "chamber": ""
+    },
+    {
+      "date": "2025-10-03",
+      "action": "Approved by the Governor.",
+      "chamber": ""
+    },
+    {
+      "date": "2025-10-03",
+      "action": "Chaptered by Secretary of State - Chapter 271, Statutes of 2025.",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-01",
+      "description": "Do pass as amended and be re-referred to the Committee on [Appropriations]",
+      "yea": 15,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-23",
+      "description": "Do pass",
+      "yea": 15,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-08",
+      "description": "AB 583 Pellerin Assembly Third Reading",
+      "yea": 72,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-11",
+      "description": "Do pass, but first be re-referred to the Committee on [Appropriations] with the recommendation: To Consent Calendar",
+      "yea": 9,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-02",
+      "description": "Assembly 3rd Reading AB583 Pellerin By Menjivar",
+      "yea": 40,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-03",
+      "description": "AB 583 Pellerin Concurrence in Senate Amendments",
+      "yea": 79,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-12",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB583#99INT",
+      "doc_id": 3117204
+    },
+    {
+      "date": "2025-04-07",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB583#98AMD",
+      "doc_id": 3204486
+    },
+    {
+      "date": "2025-07-17",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB583#97AMD",
+      "doc_id": 3262111
+    },
+    {
+      "date": "2025-09-05",
+      "type": "Enrolled",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB583#96ENR",
+      "doc_id": 3267897
+    },
+    {
+      "date": "2025-10-03",
+      "type": "Chaptered",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB583#95CHP",
+      "doc_id": 3272020
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

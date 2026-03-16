@@ -1,0 +1,53 @@
+{
+  "id": 2076718,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S1996",
+  "title": "Makes various revisions to law pertaining to electronic medical records and recording certain minor patients' demographic information.",
+  "summary": "Makes various revisions to law pertaining to electronic medical records and recording certain minor patients' demographic information.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S1996/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S1996/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S1996",
+  "sponsors": [
+    "Holly Schepisi (R) [Sen]",
+    "James Holzapfel (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-02",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S2000/1996_I1.HTM",
+      "doc_id": 3313733
+    }
+  ],
+  "committee": {
+    "committee_id": 879,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Health, Human Services and Senior Citizens"
+  },
+  "subjects": [
+    "Health, Human Services and Senior Citizens"
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "id": 1963401,
+  "state": "ME",
+  "state_name": "Maine",
+  "bill_number": "LD521",
+  "title": "An Act to Prohibit Discrimination in Housing Based on Source of Income, Veteran Status or Military Status",
+  "summary": "An Act to Prohibit Discrimination in Housing Based on Source of Income, Veteran Status or Military Status",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ME/bill/LD521/2025",
+  "legiscan_url": "https://legiscan.com/ME/bill/LD521/2025",
+  "state_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=521&snum=132",
+  "sponsors": [
+    "Cassie Julia (D) [Rep]",
+    "Mana Abdi (D) [Rep]",
+    "Marshall Archer (D) [Rep]",
+    "Flavia DeBrito (D) [Rep]",
+    "Traci Gere (D) [Rep]",
+    "Grayson Lookner (D) [Rep]",
+    "Nina Milliken (D) [Rep]",
+    "Tiffany Roberts-Lovell (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-08",
+  "session": "132nd Legislature",
+  "actions": [
+    {
+      "date": "2025-02-11",
+      "action": "Committee on Judiciary suggested and ordered printed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "The Bill was REFERRED to the Committee on JUDICIARY.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "The Bill was REFERRED to the Committee on JUDICIARY  in concurrence",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Work Session Held",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Voted: ONTP",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Reported Out: ONTP",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0340&item=1&snum=132",
+      "doc_id": 3110340
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Human Rights",
+    "Discrimination"
+  ]
+}

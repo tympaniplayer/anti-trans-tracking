@@ -1,0 +1,64 @@
+{
+  "id": 2078423,
+  "state": "FL",
+  "state_name": "Florida",
+  "bill_number": "H8011",
+  "title": "Eating Disorders Awareness Week",
+  "summary": "Designates the week of February 23-March 1, 2026, as \"Eating Disorders Awareness Week.\"",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/FL/bill/H8011/2026",
+  "legiscan_url": "https://legiscan.com/FL/bill/H8011/2026",
+  "state_url": "https://www.flsenate.gov/Session/Bill/2026/8011",
+  "sponsors": [
+    "Anna Eskamani (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "1st Reading (Original Filed Version)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Placed on Ceremonial Resolutions Calendar - Publication only",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Read 2nd time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Adopted by Publication",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/8011/BillText/Filed/PDF",
+      "doc_id": 3315433
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,64 @@
+{
+  "id": 2050528,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "HB2149",
+  "title": "Torts; limitation of action; body dysmorphia affirmation procedures; effective date.",
+  "summary": "Torts; limitation of action; body dysmorphia affirmation procedures; effective date.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/HB2149/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/HB2149/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=hb2149&Session=2600",
+  "sponsors": [
+    "Rob Hall (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Authored by Representative Hall",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Second Reading referred to Judiciary and Public Safety Oversight",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Referred to Civil Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/hB/HB2149%20INT.PDF",
+      "doc_id": 3281237
+    }
+  ],
+  "committee": {
+    "committee_id": 5109,
+    "chamber": "H",
+    "chamber_id": 79,
+    "name": "Civil Judiciary"
+  },
+  "subjects": []
+}

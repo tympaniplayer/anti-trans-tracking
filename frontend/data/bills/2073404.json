@@ -1,0 +1,93 @@
+{
+  "id": 2073404,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "HB359",
+  "title": "AN ACT relating to human growth and development instruction.",
+  "summary": "Amend KRS 158.1415 to require a school district to adopt health curricula that includes human growth and development instruction that meets specific criteria; set restrictions for the instruction that grants parents an opportunity to review materials and opt their child out of instruction.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/HB359/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/HB359/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/hb359.html",
+  "sponsors": [
+    "Nancy Tate (R) [Rep]",
+    "Shane Baker (R) [Rep]",
+    "Kimberly Banta (R) [Rep]",
+    "Emily Callaway (R) [Rep]",
+    "Josh Calloway (R) [Rep]",
+    "Jennifer Henson Decker (R) [Rep]",
+    "Steven Doan (R) [Rep]",
+    "Ryan Dotson (R) [Rep]",
+    "Daniel Fister (R) [Rep]",
+    "Chris Freeland (R) [Rep]",
+    "Chris Fugate (R) [Rep]",
+    "Deanna Frazier Gordon (R) [Rep]",
+    "Peyton Griffee (R) [Rep]",
+    "David Hale (R) [Rep]",
+    "John Hodgson (R) [Rep]",
+    "Kimberly Holloway (R) [Rep]",
+    "Thomas Huff (R) [Rep]",
+    "Mary Imes (R) [Rep]",
+    "DJ Johnson (R) [Rep]",
+    "Kim King (R) [Rep]",
+    "Savannah Maddox (R) [Rep]",
+    "Candy Massaroni (R) [Rep]",
+    "Bobby McCool (R) [Rep]",
+    "Kimberly Moser (R) [Rep]",
+    "Jason Nemes (R) [Rep]",
+    "Marianne Proctor (R) [Rep]",
+    "T.J. Roberts (R) [Rep]",
+    "Walker Thomas (R) [Rep]",
+    "Aaron Thompson (R) [Rep]",
+    "James Tipton (R) [Rep]",
+    "Billy Wesley (R) [Rep]",
+    "Richard White (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "to Committee on Committees (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "to Primary and Secondary Education (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb359/orig_bill.pdf",
+      "doc_id": 3310191
+    }
+  ],
+  "committee": {
+    "committee_id": 5121,
+    "chamber": "H",
+    "chamber_id": 43,
+    "name": "Primary and Secondary Education"
+  },
+  "subjects": [
+    "Children and Minors",
+    "Education, Elementary and Secondary"
+  ]
+}

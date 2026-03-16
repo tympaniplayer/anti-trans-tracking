@@ -1,0 +1,52 @@
+{
+  "id": 2039739,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4294",
+  "title": "Similar Bills",
+  "summary": "Similar Bills",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4294/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4294/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4294",
+  "sponsors": [],
+  "introduced_date": "2025-07-16",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-07-16",
+      "action": "H4271, published as amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-16",
+      "action": "See S2543",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-31",
+      "action": "Amendment #1 (Friedman) adopted",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4294.pdf",
+      "doc_id": 3262064
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

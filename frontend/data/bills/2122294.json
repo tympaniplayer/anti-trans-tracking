@@ -1,0 +1,61 @@
+{
+  "id": 2122294,
+  "state": "ID",
+  "state_name": "Idaho",
+  "bill_number": "H0752",
+  "title": "Adds to existing law to prohibit a person from entering a restroom or changing room of the opposite sex, to provide a penalty, and to provide exceptions.",
+  "summary": "INDECENCY AND OBSCENITY -- Adds to existing law to prohibit a person from entering a restroom or changing room of the opposite sex, to provide a penalty, and to provide exceptions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ID/bill/H0752/2026",
+  "legiscan_url": "https://legiscan.com/ID/bill/H0752/2026",
+  "state_url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0752/",
+  "sponsors": [
+    "Ways and Means Committee [Rep]"
+  ],
+  "introduced_date": "2026-02-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-23",
+      "action": "Introduced, read first time, referred to JRA for Printing",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Reported Printed and Referred to Judiciary, Rules & Administration",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Reported out of Committee without Recommendation, Filed for Second Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Read second time; Filed for Third Reading",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0752.pdf",
+      "doc_id": 3372353
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "INDECENCY AND OBSCENITY"
+  ]
+}

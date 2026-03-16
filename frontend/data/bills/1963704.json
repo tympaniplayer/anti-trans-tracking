@@ -1,0 +1,58 @@
+{
+  "id": 1963704,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A04947",
+  "title": "Enacts the NY privacy act to require companies to disclose their methods of de-identifying personal information, to place special safeguards around data sharing and to allow consumers to obtain the names of all entities with whom their information is shared.",
+  "summary": "Enacts the NY privacy act to require companies to disclose their methods of de-identifying personal information, to place special safeguards around data sharing and to allow consumers to obtain the names of all entities with whom their information is shared.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A04947/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A04947/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A4947",
+  "sponsors": [
+    "Linda Rosenthal (D) [Rep]",
+    "David Weprin (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Jeffrey Dinowitz (D) [Rep]",
+    "Amy Paulin (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-10",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-10",
+      "action": "referred to consumer affairs and protection",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to consumer affairs and protection",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-10",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A04947&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A04947",
+      "doc_id": 3110713
+    }
+  ],
+  "committee": {
+    "committee_id": 358,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Consumer Affairs and Protection"
+  },
+  "subjects": []
+}

@@ -1,0 +1,141 @@
+{
+  "id": 1991003,
+  "state": "IA",
+  "state_name": "Iowa",
+  "bill_number": "SF507",
+  "title": "A bill for an act restricting county and city diversity, equity, and inclusion programs.(Formerly SSB 1150.)",
+  "summary": "A bill for an act restricting county and city diversity, equity, and inclusion programs.(Formerly SSB 1150.)",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IA/bill/SF507/2025",
+  "legiscan_url": "https://legiscan.com/IA/bill/SF507/2025",
+  "state_url": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=SF507",
+  "sponsors": [
+    "Local Government [Sen]"
+  ],
+  "introduced_date": "2025-03-25",
+  "session": "91st General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-04",
+      "action": "Introduced, placed on calendar. S.J. 403.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Committee report, approving bill. S.J. 409.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Deferred. S.J. 626.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Passed Senate, yeas 34, nays 15. S.J. 627.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Immediate message. S.J. 627.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Message from Senate. H.J. 794.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Read first time, referred to Local Government. H.J. 811.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Subcommittee: Wheeler, McBurney and Wengryn. H.J. 868.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Subcommittee Meeting: 04/01/2025 8:30AM RM 19.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Subcommittee recommends passage.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Committee report, recommending passage. H.J. 878.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Committee vote: Yeas, 13. Nays, 7. Excused, 1. H.J. 878.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Placed on calendar. H.J. 878.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Placed on calendar under unfinished business. H.J. 928.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Rereferred to Local Government. H.J. 1222.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-04",
+      "description": "Senate Local Government Report",
+      "yea": 9,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-25",
+      "description": "Shall the bill pass?",
+      "yea": 34,
+      "nay": 15,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-01",
+      "description": "House Committee On Commerce Report",
+      "yea": 13,
+      "nay": 7,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-03-04",
+      "type": "Introduced",
+      "url": "https://www.legis.iowa.gov/docs/publications/LGI/91/attachments/SF507.html",
+      "doc_id": 3152166
+    }
+  ],
+  "committee": {
+    "committee_id": 1462,
+    "chamber": "H",
+    "chamber_id": 39,
+    "name": "Local Government"
+  },
+  "subjects": []
+}

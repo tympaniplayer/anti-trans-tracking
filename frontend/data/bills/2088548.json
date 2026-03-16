@@ -1,0 +1,49 @@
+{
+  "id": 2088548,
+  "state": "MS",
+  "state_name": "Mississippi",
+  "bill_number": "SB2554",
+  "title": "Practice of medicine; provide for use of HIPAA-compliant telecommunications systems and practice of obesity medicine.",
+  "summary": "An Act To Amend Section 73-25-33, Mississippi Code Of 1972, To Revise The Meaning Of \"practice Of Medicine\" To Include The Practice Of Obesity Medicine; To Amend Section 73-25-34, Mississippi Code Of 1972, To Revise The Meaning Of \"telemedicine\" To Include The Practice Of Medicine By A Licensed Physician At A Distant Site To A Patient Located At An Originating Site, Using Hipaa-compliant Telecommunication Systems, Including Synchronous Or Asynchronous Electronic And Communication Technologies, Remote Monitoring Technologies And Store-and-forward Transfer Technology; To Amend Section 41-29-139, Mississippi Code Of 1972, To Provide That A Physician Practicing Obesity Medicine May Prescribe A Legend Drug, Including Glp-1 Therapeutics, To A Patient Via Telemedicine Subject To Certain Conditions; To Require The Mississippi State Board Of Medical Licensure To Adopt, Amend Or Repeal Rules As Necessary To Implement This Act Within 180 Days After The Effective Date Of This Act; And For Related Purposes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MS/bill/SB2554/2026",
+  "legiscan_url": "https://legiscan.com/MS/bill/SB2554/2026",
+  "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2554.xml",
+  "sponsors": [
+    "Jeremy England (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-19",
+      "action": "Referred To Public Health and Welfare",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Died In Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2554IN.htm",
+      "doc_id": 3326287
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

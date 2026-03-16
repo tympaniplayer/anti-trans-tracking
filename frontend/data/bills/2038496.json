@@ -1,0 +1,87 @@
+{
+  "id": 2038496,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB4151",
+  "title": "Ruthie and Connie LGBTQI Elder Americans Act of 2025",
+  "summary": "To amend the Older Americans Act of 1965 to provide equal treatment of LGBTQI older individuals, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB4151/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB4151/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4151/all-info",
+  "sponsors": [
+    "Suzanne Bonamici (D) [Rep]",
+    "Becca Balint (D) [Rep]",
+    "Maxwell Frost (D) [Rep]",
+    "Mike Quigley (D) [Rep]",
+    "Jared Moskowitz (D) [Rep]",
+    "Summer Lee (D) [Rep]",
+    "Jared Huffman (D) [Rep]",
+    "Jimmy Panetta (D) [Rep]",
+    "Mary Gay Scanlon (D) [Rep]",
+    "Raja Krishnamoorthi (D) [Rep]",
+    "Dina Titus (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Ed Case (D) [Rep]",
+    "Sharice Davids (D) [Rep]",
+    "Andrea Salinas (D) [Rep]",
+    "Mark DeSaulnier (D) [Rep]",
+    "Stephen Lynch (D) [Rep]",
+    "Sean Casten (D) [Rep]",
+    "Mark Pocan (D) [Rep]",
+    "Seth Magaziner (D) [Rep]",
+    "Andre Carson (D) [Rep]",
+    "Hillary Scholten (D) [Rep]",
+    "Paul Tonko (D) [Rep]",
+    "Josh Gottheimer (D) [Rep]",
+    "Lois Frankel (D) [Rep]",
+    "Nanette Barragan (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Jahana Hayes (D) [Rep]",
+    "Lateefah Simon (D) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "George Latimer (D) [Rep]",
+    "Troy Carter (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-26",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-26",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Referred to the House Committee on Education and Workforce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-11",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr4151/BILLS-119hr4151ih.pdf",
+      "doc_id": 3261434
+    }
+  ],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": [
+    "Social welfare"
+  ]
+}

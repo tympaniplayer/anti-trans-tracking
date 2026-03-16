@@ -1,0 +1,57 @@
+{
+  "id": 2089322,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "S0840",
+  "title": "Parental Bill of Rights",
+  "summary": "Amend The South Carolina Code Of Laws So As To Enact The \"parental Rights Act\"; By Adding Article 3 To Chapter 28, Title 59 So As To Define Terms Pertaining To Parental Rights In Education; To Affirm And Enumerate The Fundamental Rights Of Parents To Direct The Upbringing, Education, Healthcare, And General Welfare Of Their Children; To Require The State Board Of Education To Adopt Minimum Standards To Implement Parental Rights; To Require Local Education Agencies To Adopt And Implement Related Policies; To Establish Administrative Procedures For The Investigation And Resolution Of Alleged Violations; And To Provide For A Limited Private Cause Of Action Upon Exhaustion Of Administrative Remedies; By Amending Section 63-5-340, Relating To A Minor's Consent To Health Services, So As To Define Terms Pertaining To A Minor's Consent To Health Services, To Expand Requirements For Parental Consent For Nonemergency Medical Treatment Of Minors, And To Provide Procedures And Remedies For Violations Alleged By Parents; By Designating The Existing Provisions Of Chapter 28, Title 59 As \"general Provisions\"; By Repealing Section 63-5-350 Relating To Health Services Provided To Minors Without Parental Consent; And By Repealing Section 63-5-370 Relating To The Provision That Any Consent Given Pursuant To This Article Shall Not Be Subject To Disaffirmance Because Of Minority When Such Minor Reaches Majority.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education",
+    "definitions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/S0840/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/S0840/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0840&session=126&summary=B",
+  "sponsors": [
+    "Joshua Kimbrell (R) [Sen]",
+    "Lawrence Grooms (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-21",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-21",
+      "action": "Introduced and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Referred to Committee on Education",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/840_20260121.htm",
+      "doc_id": 3327177
+    }
+  ],
+  "committee": {
+    "committee_id": 720,
+    "chamber": "S",
+    "chamber_id": 86,
+    "name": "Education"
+  },
+  "subjects": []
+}

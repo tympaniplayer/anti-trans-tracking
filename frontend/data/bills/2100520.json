@@ -1,0 +1,49 @@
+{
+  "id": 2100520,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0819",
+  "title": "An act relating to the Division of Substance Use Programs",
+  "summary": "An act relating to the Division of Substance Use Programs",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0819/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0819/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.819",
+  "sponsors": [
+    "Daisy Berbeco (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-29",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "action": "Read first time and referred to the Committee on Health Care",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-28",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0819/H-0819%20As%20Introduced.pdf",
+      "doc_id": 3339661
+    }
+  ],
+  "committee": {
+    "committee_id": 788,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "Health Care"
+  },
+  "subjects": []
+}

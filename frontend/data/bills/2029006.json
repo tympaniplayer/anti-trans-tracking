@@ -1,0 +1,100 @@
+{
+  "id": 2029006,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB4450",
+  "title": "Labor: fair employment practices; certain physical characteristics of employees; prohibit employers from discriminating based on. Creates new act.",
+  "summary": "Labor: fair employment practices; certain physical characteristics of employees; prohibit employers from discriminating based on. Creates new act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB4450/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB4450/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4450",
+  "sponsors": [
+    "Tyrone Carter (D) [Rep]",
+    "Carol Glanville (D) [Rep]",
+    "Julie Brixie (D) [Rep]",
+    "Regina Weiss (D) [Rep]",
+    "Joey Andrews (D) [Rep]",
+    "Jasper Martus (D) [Rep]",
+    "Kara Hope (D) [Rep]",
+    "Julie Rogers (D) [Rep]",
+    "Mai Xiong (D) [Rep]",
+    "Brenda Carter (D) [Rep]",
+    "Morgan Foreman (D) [Rep]",
+    "Carrie Rheingans (D) [Rep]",
+    "Cynthia Neeley (D) [Rep]",
+    "Penelope Tsernoglou (D) [Rep]",
+    "Sharon MacDonell (D) [Rep]",
+    "Stephanie Young (D) [Rep]",
+    "Laurie Pohutsky (D) [Rep]",
+    "Noah Arbit (D) [Rep]",
+    "Samantha Steckloff (D) [Rep]",
+    "Denise Mentzer (D) [Rep]",
+    "Jennifer Conlin (D) [Rep]",
+    "Matt Longjohn (D) [Rep]",
+    "Dylan Wegela (D) [Rep]",
+    "Donavan McKinney (D) [Rep]",
+    "Emily Dievendorf (D) [Rep]",
+    "Mike McFall (D) [Rep]",
+    "Erin Byrnes (D) [Rep]",
+    "Jimmie Wilson (D) [Rep]",
+    "Tonya Myers Phillips (D) [Rep]",
+    "Natalie Price (D) [Rep]",
+    "Kelly Breen (D) [Rep]",
+    "Stephen Wooden (D) [Rep]",
+    "Joseph Tate (D) [Rep]"
+  ],
+  "introduced_date": "2025-05-06",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-05-06",
+      "action": "Introduced By Representative Rep. Tyrone Carter",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Referred To Committee On Economic Competitiveness",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Bill Electronically Reproduced 05/06/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-06",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4450.htm",
+      "doc_id": 3229980
+    }
+  ],
+  "committee": {
+    "committee_id": 5089,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Economic Competitiveness"
+  },
+  "subjects": [
+    "Labor: fair employment practices",
+    "Civil rights: employment discrimination",
+    "Labor: discrimination"
+  ]
+}

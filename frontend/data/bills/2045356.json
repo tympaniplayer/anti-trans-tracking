@@ -1,0 +1,91 @@
+{
+  "id": 2045356,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB1905",
+  "title": "In assault, further providing for the offense of ethnic intimidation; and, in particular rights and immunities, further prohibiting civil rights violations.",
+  "summary": "An Act amending Titles 18 (Crimes and Offenses) and 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in assault, further providing for the offense of ethnic intimidation; and, in particular rights and immunities, further prohibiting civil rights violations.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB1905/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB1905/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb1905",
+  "sponsors": [
+    "Dan Frankel (D) [Rep]",
+    "Napoleon Nelson (D) [Rep]",
+    "Jessica Benham (D) [Rep]",
+    "Carol Hill-Evans (D) [Rep]",
+    "Benjamin Waxman (D) [Rep]",
+    "Christopher Pielli (D) [Rep]",
+    "Joseph Hohenstein (D) [Rep]",
+    "Kyle Donahue (D) [Rep]",
+    "Tarah Probst (D) [Rep]",
+    "Nikki Rivera (D) [Rep]",
+    "Heather Boyd (D) [Rep]",
+    "Steven Malagari (D) [Rep]",
+    "Ben Sanchez (D) [Rep]",
+    "James Haddock (D) [Rep]",
+    "Lisa Borowski (D) [Rep]",
+    "Melissa Shusterman (D) [Rep]",
+    "Johanny Cepeda-Freytiz (D) [Rep]",
+    "Michael Schlossberg (D) [Rep]",
+    "John Inglis (D) [Rep]",
+    "Paul Takac (D) [Rep]",
+    "Aerion Abney (D) [Rep]",
+    "Liz Hanbidge (D) [Rep]",
+    "Mandy Steele (D) [Rep]",
+    "Nancy Guenst (D) [Rep]",
+    "Keith Harris (D) [Rep]",
+    "Maureen Madden (D) [Rep]",
+    "Timothy Brennan (D) [Rep]",
+    "Mary Jo Daley (D) [Rep]"
+  ],
+  "introduced_date": "2025-09-30",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-09-30",
+      "action": "Referred to Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-10",
+      "description": "House Judiciary: PN2374 A02583, Adopt Amendment",
+      "yea": 14,
+      "nay": 12,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-10",
+      "description": "House Judiciary: PN2374, Report Bill As Amended",
+      "yea": 14,
+      "nay": 12,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-09-30",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1905/PN2374",
+      "doc_id": 3271330
+    }
+  ],
+  "committee": {
+    "committee_id": 53,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

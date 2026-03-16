@@ -1,0 +1,64 @@
+{
+  "id": 2055389,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "SB1192",
+  "title": "Prohibits higher education accrediting agencies from considering diversity, equity, and inclusion practices",
+  "summary": "Prohibits higher education accrediting agencies from considering diversity, equity, and inclusion practices",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/SB1192/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/SB1192/2026",
+  "state_url": "https://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=253",
+  "sponsors": [
+    "Ben Brown (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Prefiled",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "S First Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Second Read and Referred S Education Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-24",
+      "action": "Hearing Cancelled S Education Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-10",
+      "type": "Introduced",
+      "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1192.pdf",
+      "doc_id": 3290428
+    }
+  ],
+  "committee": {
+    "committee_id": 2263,
+    "chamber": "S",
+    "chamber_id": 60,
+    "name": "Education"
+  },
+  "subjects": []
+}

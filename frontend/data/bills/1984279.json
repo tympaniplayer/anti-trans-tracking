@@ -1,0 +1,49 @@
+{
+  "id": 1984279,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S05636",
+  "title": "Establishes the diversity in investment act requiring certain venture capital companies to report diversity information about its funding determinations; requires reports to be published on the venture capital companies' websites; establishes penalties for failure to complete and publish such reports.",
+  "summary": "Establishes the diversity in investment act requiring certain venture capital companies to report diversity information about its funding determinations; requires reports to be published on the venture capital companies' websites; establishes penalties for failure to complete and publish such reports.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S05636/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S05636/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S5636",
+  "sponsors": [
+    "Brad Hoylman-Sigal (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-26",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-26",
+      "action": "REFERRED TO CORPORATIONS, AUTHORITIES AND COMMISSIONS",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-26",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S05636&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S05636",
+      "doc_id": 3142276
+    }
+  ],
+  "committee": {
+    "committee_id": 420,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Corporations, Authorities and Commissions"
+  },
+  "subjects": []
+}

@@ -1,0 +1,81 @@
+{
+  "id": 2039184,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR569",
+  "title": "Affirming that diversity, equity, inclusion, and accessibility are fundamental values of the United States and emphasizing the ongoing need to address discrimination and inequality in the workplace, elementary, secondary, and higher education systems, government programs, the military, and our society.",
+  "summary": "Affirming that diversity, equity, inclusion, and accessibility are fundamental values of the United States and emphasizing the ongoing need to address discrimination and inequality in the workplace, elementary, secondary, and higher education systems, government programs, the military, and our society.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR569/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR569/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/569/all-info",
+  "sponsors": [
+    "Adriano Espaillat (D) [Rep]",
+    "Grace Meng (D) [Rep]",
+    "Yvette Clarke (D) [Rep]",
+    "Mark Takano (D) [Rep]",
+    "Teresa Fernandez (D) [Rep]",
+    "Jonathan Jackson (D) [Rep]",
+    "Nikema Williams (D) [Rep]",
+    "Lateefah Simon (D) [Rep]",
+    "Nydia Velazquez (D) [Rep]",
+    "Cleo Fields (D) [Rep]",
+    "Ayanna Pressley (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Yassamin Ansari (D) [Rep]",
+    "Danny Davis (D) [Rep]",
+    "Madeleine Dean (D) [Rep]",
+    "Robin Kelly (D) [Rep]",
+    "James McGovern (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Eric Swalwell (D) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "Lauren Underwood (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Dina Titus (D) [Rep]"
+  ],
+  "introduced_date": "2025-07-10",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-07-10",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-10",
+      "action": "Referred to the House Committee on Oversight and Government Reform.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-11",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres569/BILLS-119hres569ih.pdf",
+      "doc_id": 3261384
+    }
+  ],
+  "committee": {
+    "committee_id": 2311,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Oversight And Government Reform"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

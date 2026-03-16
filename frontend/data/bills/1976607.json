@@ -1,0 +1,90 @@
+{
+  "id": 1976607,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "SR17",
+  "title": "Relative to Teen Dating Violence Awareness and Prevention Month.",
+  "summary": "Relative to Teen Dating Violence Awareness and Prevention Month.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/SR17/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/SR17/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SR17",
+  "sponsors": [
+    "Susan Rubio (D) [Sen]",
+    "Jesse Arreguin (D) [Sen]",
+    "Angelique Ashby (D) [Sen]",
+    "Catherine Blakespear (D) [Sen]",
+    "Christopher Cabaldon (D) [Sen]",
+    "Anna Caballero (D) [Sen]",
+    "Sabrina Cervantes (D) [Sen]",
+    "Maria Durazo (D) [Sen]",
+    "Lena Gonzalez (D) [Sen]",
+    "Tim Grayson (D) [Sen]",
+    "Shannon Grove (R) [Sen]",
+    "Melissa Hurtado (D) [Sen]",
+    "Monique Limon (D) [Sen]",
+    "Rosilicie Ochoa Bogh (R) [Sen]",
+    "Steve Padilla (D) [Sen]",
+    "Sasha Renee Perez (D) [Sen]",
+    "Laura Richardson (D) [Sen]",
+    "Lola Smallwood-Cuevas (D) [Sen]",
+    "Tom Umberg (D) [Sen]",
+    "Suzette Valladares (R) [Sen]",
+    "Aisha Wahab (D) [Sen]",
+    "Akilah Weber Pierson (D) [Sen]",
+    "Scott Wiener (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-19",
+      "action": "Introduced. Referred to Com. on RLS.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "From committee: Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Read. Adopted. (Ayes 36. Noes 0. Page 288.)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-27",
+      "description": "Senate 3rd Reading SR17 Rubio et al",
+      "yea": 36,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-19",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SR17#99INT",
+      "doc_id": 3132034
+    },
+    {
+      "date": "2025-02-28",
+      "type": "Enrolled",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SR17#98ENR",
+      "doc_id": 3148888
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

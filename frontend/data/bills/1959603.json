@@ -1,0 +1,145 @@
+{
+  "id": 1959603,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "HB1262",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 49, relative to public schools.",
+  "summary": "As introduced, makes various changes to the categories of individuals who are not required to use a preferred pronoun, and for whom a preferred pronoun can be disregarded, if the pronoun is inconsistent with the person's biological sex; makes various changes to the civil liability and adverse action protections as it relates to the use of, or the refusal to use, a pronoun or preferred pronoun. - Amends TCA Title 49.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/HB1262/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/HB1262/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB1262&ga=114",
+  "sponsors": [
+    "Michele Reneau (R) [Rep]",
+    "Scott Cepicky (R) [Rep]",
+    "Jody Barrett (R) [Rep]",
+    "Jay Reedy (R) [Rep]",
+    "Gino Bulso (R) [Rep]",
+    "Renea Jones (R) [Rep]",
+    "Lee Reeves (R) [Rep]",
+    "Chris Hurt (R) [Rep]",
+    "Todd Warner (R) [Rep]",
+    "Esther Helton-Haynes (R) [Rep]",
+    "Greg Vital (R) [Rep]",
+    "Greg Martin (R) [Rep]",
+    "Fred Atchley (R) [Rep]",
+    "Monty Fritts (R) [Rep]",
+    "Chris Todd (R) [Rep]",
+    "Tom Stinnett (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-06",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-06",
+      "action": "Filed for introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Intro., P1C.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "P2C, ref. to Education Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Assigned to s/c Education Administration Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Placed on s/c cal Education Administration Subcommittee for 3/4/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Sponsor(s) Added.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Action Def. in s/c Education Administration Subcommittee to 3/11/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Sponsor(s) Added.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Placed on s/c cal Education Administration Subcommittee for 3/11/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Action Def. in s/c Education Administration Subcommittee to 3/18/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Placed on s/c cal Education Administration Subcommittee for 3/18/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Rec for pass if am by s/c ref. to Education Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Placed on cal. Education Committee for 3/25/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Action def. in Education Committee to 4/1/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Placed on cal. Education Committee for 4/1/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Taken off notice for cal. in Education Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-18",
+      "description": "HOUSE EDUCATION ADMINISTRATION SUBCOMMITTEE: Rec for pass if am by s/c ref. to Education Committee",
+      "yea": 5,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-06",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1262.pdf",
+      "doc_id": 3105420
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Education"
+  ]
+}

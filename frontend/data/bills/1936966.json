@@ -1,0 +1,77 @@
+{
+  "id": 1936966,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB1608",
+  "title": "EPA-ENVIRONMENTAL JUSTICE",
+  "summary": "Amends the Environmental Protection Act. Requires the Environmental Protection Agency to annually review and update the underlying data for, and use of, indicators used to determine whether a community is designated as an environmental justice community and to establish a process by which communities not designated as environmental justice communities may petition for such a designation. Provides that an applicant for a permit for the construction of a new source that will become a major source subject to the Clean Air Act Permit Program to be located in an environmental justice community or a new source that has or will require a federally enforceable State operating permit and that will be located in an environmental justice community must conduct a public meeting prior to submission of the permit application and must submit with the permit application an environmental justice assessment identifying the potential environmental and health impacts to the area associated with the proposed project. Provides requirements for the environmental justice assessment. Contains provisions regarding public participation requirements for permitting transactions in an environmental justice community. Provides that, if the Agency grants a permit to construct, modify, or operate a facility that emits air pollutants and is classified as a minor source, a third party may petition the Pollution Control Board for a hearing to contest the issuance of the permit. Contains provisions regarding environmental justice grievances. Defines terms. Contains other provisions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms",
+    "education",
+    "definitions"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB1608/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB1608/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1608&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Sonya Harper (D) [Rep]",
+    "Camille Lilly (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-23",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-23",
+      "action": "Filed with the Clerk by Rep. Sonya M. Harper",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Assigned to Energy & Environment Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Added Co-Sponsor Rep. Camille Y. Lilly",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Rule 19(a) / Re-referred to Rules Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-23",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=197557&DocName=10400HB1608&DocNum=1608&DocTypeID=HB&LegID=157767&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3074383
+    }
+  ],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
+  "subjects": []
+}

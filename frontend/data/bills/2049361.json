@@ -1,0 +1,67 @@
+{
+  "id": 2049361,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "HB1361",
+  "title": "Schools; definitions; prohibiting school personnel and students from requesting and using certain pronouns or alternate names in certain situations; effective date; emergency.",
+  "summary": "Schools; definitions; prohibiting school personnel and students from requesting and using certain pronouns or alternate names in certain situations; effective date; emergency.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/HB1361/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/HB1361/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=hb1361&Session=2600",
+  "sponsors": [
+    "Gabe Woolley (R) [Rep]",
+    "David Bullard (R) [Sen]",
+    "Shane Jett (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Authored by Representative Woolley",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Second Reading referred to Education Oversight",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Referred to Common Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-15",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/hB/HB1361%20INT.PDF",
+      "doc_id": 3278628
+    }
+  ],
+  "committee": {
+    "committee_id": 1205,
+    "chamber": "H",
+    "chamber_id": 79,
+    "name": "Common Education"
+  },
+  "subjects": []
+}

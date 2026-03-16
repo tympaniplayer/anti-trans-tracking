@@ -1,0 +1,296 @@
+{
+  "id": 1928874,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1391",
+  "title": "Improving developmentally appropriate alternatives for youth outside the formal court process.",
+  "summary": "Improving developmentally appropriate alternatives for youth outside the formal court process.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1391/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1391/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1391&Year=2025&Initiative=false",
+  "sponsors": [
+    "Julio Cortes (D) [Rep]",
+    "Carolyn Eslick (R) [Rep]",
+    "Cindy Ryu (D) [Rep]",
+    "Monica Stonier (D) [Rep]",
+    "Tarra Simmons (D) [Rep]",
+    "Strom Peterson (D) [Rep]",
+    "Julia Reed (D) [Rep]",
+    "Lisa Parshley (D) [Rep]",
+    "Roger Goodman (D) [Rep]",
+    "Beth Doglio (D) [Rep]",
+    "Jamila Taylor (D) [Rep]",
+    "Osman Salahuddin (D) [Rep]",
+    "Chipalo Street (D) [Rep]",
+    "Joe Timmons (D) [Rep]",
+    "Shaun Scott (D) [Rep]",
+    "Sharon Santos (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-22",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-20",
+      "action": "First reading, referred to Early Learning & Human Services.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Public hearing in the House Committee on Early Learning & Human Services at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Executive action taken in the House Committee on Early Learning & Human Services at 8:00 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "ELHS - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "Referred to Appropriations.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Public hearing in the House Committee on Appropriations at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "Executive action taken in the House Committee on Appropriations at 9:00 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "APP - Majority; 2nd substitute bill be substituted, do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "Referred to Rules 2 Review.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Rules Committee relieved of further consideration. Placed on second reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "2nd substitute bill substituted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Third reading, passed; yeas, 91; nays, 2; absent, 0; excused, 5.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-07",
+      "action": "First reading, referred to Human Services.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Public hearing in the Senate Committee on Human Services at 8:00 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Executive action taken in the Senate Committee on Human Services at 1:30 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "HS - Majority; do pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Minority; do not pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Minority; without recommendation.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "And refer to Ways & Means.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Referred to Ways & Means.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-04",
+      "action": "Public hearing in the Senate Committee on Ways & Means at 1:30 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Executive action taken in the Senate Committee on Ways & Means at 1:30 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "WM - Majority; do pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Minority; without recommendation.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Passed to Rules Committee for second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Placed on second reading by Rules Committee.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Third reading, passed; yeas, 45; nays, 4; absent, 0; excused, 0.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Speaker signed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "President signed.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Delivered to Governor.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Governor signed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Chapter 140, 2025 Laws.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Effective date 7/27/2025.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-07",
+      "description": "House Committee on Early Learning & Human Services: 1st substitute bill be substituted, do pass",
+      "yea": 11,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-02-28",
+      "description": "House Committee on Appropriations: 2nd substitute bill be substituted, do pass",
+      "yea": 30,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-05",
+      "description": "House 3rd Reading & Final Passage",
+      "yea": 91,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-25",
+      "description": "Senate Committee on Human Services: do pass",
+      "yea": 2,
+      "nay": 1,
+      "passed": 0
+    },
+    {
+      "date": "2025-04-08",
+      "description": "Senate Committee on Ways & Means: do pass",
+      "yea": 15,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-14",
+      "description": "Senate 3rd Reading & Final Passage",
+      "yea": 45,
+      "nay": 4,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1391.pdf",
+      "doc_id": 3066193
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1391-S.pdf",
+      "doc_id": 3111161
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1391-S2.pdf",
+      "doc_id": 3151014
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Enrolled",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Passed%20Legislature/1391-S2.PL.pdf",
+      "doc_id": 3213997
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Chaptered",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Session%20Laws/House/1391-S2.SL.pdf",
+      "doc_id": 3222190
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

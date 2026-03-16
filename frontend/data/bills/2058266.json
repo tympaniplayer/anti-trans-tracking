@@ -1,0 +1,69 @@
+{
+  "id": 2058266,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4838",
+  "title": "Expanding access to perimenopause and menopause care",
+  "summary": "Relative to a special commission (including members of the General Court) on perimenopause and menopause care. Public Health.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4838/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4838/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4838",
+  "sponsors": [
+    "Marjorie Decker (D) [Rep]"
+  ],
+  "introduced_date": "2025-11-17",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-11-17",
+      "action": "Referred to the committee on House Rules",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Reported, referred to the committee on Joint Rules, reported, rules suspended and referred to the Joint Committee on Public Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-11",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Hearing scheduled for 01/27/2026 from 09:00 AM-01:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Hearing rescheduled to 01/27/2026 from 11:00 AM-01:00 PM in A-1 and Virtual Hearing updated to New Start Time",
+      "chamber": "J"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-17",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4838.pdf",
+      "doc_id": 3289966
+    }
+  ],
+  "committee": {
+    "committee_id": 770,
+    "chamber": "J",
+    "chamber_id": 103,
+    "name": "Public Health"
+  },
+  "subjects": []
+}

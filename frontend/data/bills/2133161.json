@@ -1,0 +1,59 @@
+{
+  "id": 2133161,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H5229",
+  "title": "Modernizing the six fundamental rights",
+  "summary": "Modernizing the six fundamental rights",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H5229/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H5229/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H5229",
+  "sponsors": [
+    "Joint Committee on Mental Health, Substance Use and Recovery [Jnt]"
+  ],
+  "introduced_date": "2026-03-12",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2026-03-12",
+      "action": "Reported from the committee on Mental Health, Substance Use and Recovery",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "New draft of H2211",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-12",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H5229.pdf",
+      "doc_id": 3393063
+    }
+  ],
+  "committee": {
+    "committee_id": 737,
+    "chamber": "H",
+    "chamber_id": 51,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

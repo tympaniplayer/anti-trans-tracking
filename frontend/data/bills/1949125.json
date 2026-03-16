@@ -1,0 +1,73 @@
+{
+  "id": 1949125,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A03994",
+  "title": "Moves from the Office of Court Administration (OCA) to the Division of Criminal Justice Services (DCJS) responsibility for certifying, establishing and implementing standards for pretrial services agencies of the state.",
+  "summary": "Moves from the Office of Court Administration (OCA) to the Division of Criminal Justice Services (DCJS) responsibility for certifying, establishing and implementing standards for pretrial services agencies of the state.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A03994/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A03994/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A3994",
+  "sponsors": [
+    "Anna Kelles (D) [Rep]",
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "David Weprin (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Yudelka Tapia (D) [Rep]",
+    "Harvey Epstein (D) [Rep]",
+    "Demond Meeks (D) [Rep]",
+    "Zohran Kwame Mamdani (D) [Rep]",
+    "Brian Cunningham (D) [Rep]",
+    "Sarah Clark (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "George Alvarez (D) [Rep]",
+    "Claire Valdez (D) [Rep]",
+    "Landon Dais (D) [Rep]",
+    "Catalina Cruz (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Linda Rosenthal (D) [Rep]",
+    "Emily Gallagher (D) [Rep]",
+    "Alex Bores (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-30",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-30",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to codes",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-30",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A03994&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A03994",
+      "doc_id": 3091886
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

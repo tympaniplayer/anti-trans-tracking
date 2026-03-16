@@ -1,0 +1,227 @@
+{
+  "id": 2050231,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "HB1688",
+  "title": "Vital records; vital statistics; definition; corrections; birth certificates; death certificates; fetal death certificates; effective date; emergency.",
+  "summary": "Vital records; vital statistics; definition; corrections; birth certificates; death certificates; fetal death certificates; effective date; emergency.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "identity_documents",
+    "definitions"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/HB1688/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/HB1688/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=hb1688&Session=2600",
+  "sponsors": [
+    "Cynthia Roe (R) [Rep]",
+    "Brenda Stanley (R) [Sen]"
+  ],
+  "introduced_date": "2025-05-06",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Authored by Representative Roe",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Second Reading referred to Health and Human Services Oversight",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Referred to Public Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Policy recommendation to the Health and Human Services Oversight committee; Do Pass, amended by committee substitute Public Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Authored by Senator Stanley (principal Senate author)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Emergency added",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "CR; Do Pass, amended by committee substitute Health and Human Services Oversight Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "General Order",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Third Reading, Measure and Emergency passed: Ayes: 79 Nays: 0",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Referred for engrossment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Engrossed, signed, to Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Second Reading referred to Health and Human Services",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Reported Do Pass Health and Human Services committee; CR filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Placed on General Order",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "General Order, Considered",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Measure and Emergency passed: Ayes: 44 Nays: 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Engrossed measure signed, returned to House",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Referred for enrollment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Enrolled, signed, to Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Enrolled measure signed, returned to House",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Sent to Governor",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Becomes law without Governor's signature 05/06/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-24",
+      "description": "House: Public Health Committee: DO PASS AS AMENDED BY CS",
+      "yea": 6,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-05",
+      "description": "House: Health and Human Services Oversight Committee: DO PASS AS AMENDED BY CS",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-13",
+      "description": "House: THIRD READING",
+      "yea": 79,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-14",
+      "description": "Senate: Health & Human Services Committee: DO PASS",
+      "yea": 10,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-28",
+      "description": "Senate: THIRD READING",
+      "yea": 44,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/hB/HB1688%20INT.PDF",
+      "doc_id": 3280557
+    },
+    {
+      "date": "2025-03-06",
+      "type": "Comm Sub",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20COMMITTEE%20SUBS/HCS/HB1688%20CS.PDF",
+      "doc_id": 3280558
+    },
+    {
+      "date": "2025-03-07",
+      "type": "Amended",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20FLR/HFLR/HB1688%20HFLR.PDF",
+      "doc_id": 3280559
+    },
+    {
+      "date": "2025-04-15",
+      "type": "Amended",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20FLR/SFLR/HB1688%20SFLR.PDF",
+      "doc_id": 3280560
+    },
+    {
+      "date": "2025-03-17",
+      "type": "Engrossed",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENGR/hB/HB1688%20ENGR.PDF",
+      "doc_id": 3280561
+    },
+    {
+      "date": "2025-04-29",
+      "type": "Enrolled",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1688%20ENR.PDF",
+      "doc_id": 3280562
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

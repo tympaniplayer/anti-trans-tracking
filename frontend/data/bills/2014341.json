@@ -1,0 +1,103 @@
+{
+  "id": 2014341,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB4295",
+  "title": "Labor: fair employment practices; requirements to obtain a fair paycheck workplace certificate; provide for. Creates new act.",
+  "summary": "Labor: fair employment practices; requirements to obtain a fair paycheck workplace certificate; provide for. Creates new act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB4295/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB4295/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4295",
+  "sponsors": [
+    "Helena Scott (D) [Rep]",
+    "Julie Rogers (D) [Rep]",
+    "Erin Byrnes (D) [Rep]",
+    "Natalie Price (D) [Rep]",
+    "Veronica Paiz (D) [Rep]",
+    "Stephen Wooden (D) [Rep]",
+    "Laurie Pohutsky (D) [Rep]",
+    "Morgan Foreman (D) [Rep]",
+    "Tonya Myers Phillips (D) [Rep]",
+    "Carrie Rheingans (D) [Rep]",
+    "Emily Dievendorf (D) [Rep]",
+    "Sharon MacDonell (D) [Rep]",
+    "Jason Morgan (D) [Rep]",
+    "Matt Longjohn (D) [Rep]",
+    "Julie Brixie (D) [Rep]",
+    "Denise Mentzer (D) [Rep]",
+    "Penelope Tsernoglou (D) [Rep]",
+    "Jason Hoskins (D) [Rep]",
+    "Stephanie Young (D) [Rep]",
+    "Jennifer Conlin (D) [Rep]",
+    "Betsy Coffia (D) [Rep]",
+    "Kara Hope (D) [Rep]",
+    "Tyrone Carter (D) [Rep]",
+    "Donavan McKinney (D) [Rep]",
+    "Kelly Breen (D) [Rep]",
+    "Kristian Grant (D) [Rep]",
+    "Matt Koleszar (D) [Rep]",
+    "Jasper Martus (D) [Rep]",
+    "John Fitzgerald (D) [Rep]",
+    "Carol Glanville (D) [Rep]",
+    "Amos O'Neal (D) [Rep]",
+    "Brenda Carter (D) [Rep]",
+    "Regina Weiss (D) [Rep]",
+    "Mike McFall (D) [Rep]",
+    "Alabas Farhat (D) [Rep]",
+    "Dylan Wegela (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-25",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-03-25",
+      "action": "Introduced By Representative Rep. Helena Scott",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Referred To Committee On Economic Competitiveness",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Bill Electronically Reproduced 03/25/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-25",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4295.htm",
+      "doc_id": 3187996
+    }
+  ],
+  "committee": {
+    "committee_id": 5089,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Economic Competitiveness"
+  },
+  "subjects": [
+    "Labor: fair employment practices",
+    "Labor: hours and wages",
+    "State agencies (existing): labor and economic opportunity"
+  ]
+}

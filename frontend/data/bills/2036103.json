@@ -1,0 +1,86 @@
+{
+  "id": 2036103,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3811",
+  "title": "Elder Pride Protection Act of 2025",
+  "summary": "To establish a task force to combat the rising elder abuse of LGBTQI+ individuals.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3811/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3811/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3811/all-info",
+  "sponsors": [
+    "Josh Gottheimer (D) [Rep]",
+    "Angela Craig (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Sylvia Garcia (D) [Rep]",
+    "Jared Moskowitz (D) [Rep]",
+    "Paul Tonko (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Suzan DelBene (D) [Rep]",
+    "Debbie Wasserman Schultz (D) [Rep]",
+    "Robert Garcia (D) [Rep]",
+    "Adriano Espaillat (D) [Rep]",
+    "Ritchie Torres (D) [Rep]",
+    "Andre Carson (D) [Rep]",
+    "Greg Landsman (D) [Rep]",
+    "Darren Soto (D) [Rep]",
+    "Laura Friedman (D) [Rep]",
+    "Emily Randall (D) [Rep]",
+    "Joseph Neguse (D) [Rep]",
+    "George Latimer (D) [Rep]",
+    "Mark Takano (D) [Rep]",
+    "Wesley Bell (D) [Rep]",
+    "Lois Frankel (D) [Rep]",
+    "Mary Gay Scanlon (D) [Rep]",
+    "Stephen Lynch (D) [Rep]",
+    "Seth Magaziner (D) [Rep]",
+    "Eric Swalwell (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Dina Titus (D) [Rep]",
+    "Mike Thompson (D) [Rep]",
+    "Lateefah Simon (D) [Rep]",
+    "Daniel Goldman (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-06",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-06",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-06",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-13",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3811/BILLS-119hr3811ih.pdf",
+      "doc_id": 3255601
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

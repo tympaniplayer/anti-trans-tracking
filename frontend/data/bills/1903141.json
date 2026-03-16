@@ -1,0 +1,54 @@
+{
+  "id": 1903141,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A00758",
+  "title": "Establishes the diversity in investment act requiring certain venture capital companies to report diversity information about its funding determinations; requires reports to be published on the venture capital companies' websites; establishes penalties for failure to complete and publish such reports.",
+  "summary": "Establishes the diversity in investment act requiring certain venture capital companies to report diversity information about its funding determinations; requires reports to be published on the venture capital companies' websites; establishes penalties for failure to complete and publish such reports.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A00758/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A00758/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A758",
+  "sponsors": [
+    "Alex Bores (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-08",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "referred to corporations, authorities and commissions",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to corporations, authorities and commissions",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A00758&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A00758",
+      "doc_id": 3039819
+    }
+  ],
+  "committee": {
+    "committee_id": 359,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Corporations, Authorities and Commissions"
+  },
+  "subjects": []
+}

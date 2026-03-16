@@ -1,0 +1,84 @@
+{
+  "id": 2080767,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "SB1984",
+  "title": "Practice of osteopathic medicine; modifying various provisions of the Oklahoma Osteopathic Medicine Act. Effective date.",
+  "summary": "Practice of osteopathic medicine; modifying various provisions of the Oklahoma Osteopathic Medicine Act. Effective date.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/SB1984/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/SB1984/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=sb1984&Session=2600",
+  "sponsors": [
+    "John Haste (R) [Sen]",
+    "Carl Newton (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Authored by Senator Haste",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Second Reading referred to Health and Human Services",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Coauthored by Representative Newton (principal House author)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Reported Do Pass Health and Human Services committee; CR filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Placed on General Order",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-23",
+      "description": "Senate: Health & Human Services Committee: DO PASS",
+      "yea": 12,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-15",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/SB/SB1984%20INT.PDF",
+      "doc_id": 3317923
+    },
+    {
+      "date": "2026-02-24",
+      "type": "Amended",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20FLR/SFLR/SB1984%20SFLR.PDF",
+      "doc_id": 3373535
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

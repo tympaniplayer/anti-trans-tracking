@@ -1,0 +1,132 @@
+{
+  "id": 2042260,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AR57",
+  "title": "Relative to Transgender History Month.",
+  "summary": "Relative to Transgender History Month.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AR57/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AR57/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260HR57",
+  "sponsors": [
+    "Matt Haney (D) [Rep]",
+    "Christopher Cabaldon (D) [Sen]",
+    "Sabrina Cervantes (D) [Sen]",
+    "Sade Elhawary (D) [Rep]",
+    "Corey Jackson (D) [Rep]",
+    "John Laird (D) [Sen]",
+    "Alex Lee (D) [Rep]",
+    "Mark Gonzalez (D) [Rep]",
+    "Caroline Menjivar (D) [Sen]",
+    "Steve Padilla (D) [Sen]",
+    "Sasha Renee Perez (D) [Sen]",
+    "Jose Solache (D) [Rep]",
+    "Chris Ward (D) [Rep]",
+    "Scott Wiener (D) [Sen]",
+    "Rick Zbur (D) [Rep]",
+    "Dawn Addis (D) [Rep]",
+    "Cecilia Aguiar-Curry (D) [Rep]",
+    "Patrick Ahrens (D) [Rep]",
+    "David Alvarez (D) [Rep]",
+    "Rebecca Bauer-Kahan (D) [Rep]",
+    "Steve Bennett (D) [Rep]",
+    "Marc Berman (D) [Rep]",
+    "Blanca Rubio (D) [Rep]",
+    "Tasha Boerner Horvath (D) [Rep]",
+    "Isaac Bryan (D) [Rep]",
+    "Lisa Calderon (D) [Rep]",
+    "Jessica Caloza (D) [Rep]",
+    "Juan Carrillo (D) [Rep]",
+    "Celeste Rodriguez (D) [Rep]",
+    "Damon Connolly (D) [Rep]",
+    "Mike Fong (D) [Rep]",
+    "Jesse Gabriel (D) [Rep]",
+    "Robert Garcia (D) [Rep]",
+    "Mike Gipson (D) [Rep]",
+    "John Harabedian (D) [Rep]",
+    "Gregg Hart (D) [Rep]",
+    "Jacqui Irwin (D) [Rep]",
+    "Ash Kalra (D) [Rep]",
+    "Maggy Krell (D) [Rep]",
+    "Josh Lowenthal (D) [Rep]",
+    "Tina McKinnor (D) [Rep]",
+    "Michelle Rodriguez (D) [Rep]",
+    "Stephanie Nguyen (D) [Rep]",
+    "Liz Ortega (D) [Rep]",
+    "Blanca Pacheco (D) [Rep]",
+    "Diane Papan (D) [Rep]",
+    "Darshana Patel (D) [Rep]",
+    "Gail Pellerin (D) [Rep]",
+    "Cottie Petrie-Norris (D) [Rep]",
+    "Sharon Quirk-Silva (D) [Rep]",
+    "Rhodesia Ransom (D) [Rep]",
+    "Robert Rivas (D) [Rep]",
+    "Chris Rogers (D) [Rep]",
+    "Pilar Schiavo (D) [Rep]",
+    "Nick Schultz (D) [Rep]",
+    "LaShae Sharp-Collins (D) [Rep]",
+    "Esmeralda Soria (D) [Rep]",
+    "Catherine Stefani (D) [Rep]",
+    "Buffy Wicks (D) [Rep]",
+    "Lori Wilson (D) [Rep]",
+    "Anamarie Farias (D) [Rep]"
+  ],
+  "introduced_date": "2025-08-25",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-08-18",
+      "action": "Introduced.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-08-21",
+      "action": "Referred to Com. on RLS.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-08-21",
+      "action": "From committee: Be adopted. Ordered to Third Reading. (Ayes 8. Noes 3.) (August 21).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-08-25",
+      "action": "Coauthors revised.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-08-25",
+      "action": "Read. Adopted. (Page 2731.).",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-08-21",
+      "description": "Be adopted. To third reading",
+      "yea": 8,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-08-18",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260HR57#99INT",
+      "doc_id": 3265533
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

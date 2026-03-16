@@ -1,0 +1,153 @@
+{
+  "id": 2009277,
+  "state": "ME",
+  "state_name": "Maine",
+  "bill_number": "LD1134",
+  "title": "An Act to Prohibit Males from Participating in Female Sports or Using Female Facilities",
+  "summary": "An Act to Prohibit Males from Participating in Female Sports or Using Female Facilities",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "sports",
+    "bathrooms"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ME/bill/LD1134/2025",
+  "legiscan_url": "https://legiscan.com/ME/bill/LD1134/2025",
+  "state_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1134&snum=132",
+  "sponsors": [
+    "Susan Bernard (R) [Sen]",
+    "Barbara Bagshaw (R) [Rep]",
+    "Stacey Guerin (R) [Sen]",
+    "David Haggan (R) [Sen]",
+    "Sheila Lyman (R) [Rep]",
+    "Katrina Smith (R) [Rep]"
+  ],
+  "introduced_date": "2025-06-13",
+  "session": "132nd Legislature",
+  "actions": [
+    {
+      "date": "2025-03-18",
+      "action": "Committee on JUDICIARY suggested and ordered printed REFERENCE to the Committee on JUDICIARY Ordered sent down forthwith for concurrence",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "The Bill was REFERRED to the Committee on JUDICIARY.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "In concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "CARRIED OVER, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Work Session Held",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Voted: Divided Report",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-11",
+      "action": "Reported Out: OTP-AM/ONTP",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Reports READ",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Tabled until Later in Today's Session, pending ACCEPTANCE OF EITHER REPORT.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Taken from the table by the President",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "On motion by Senator CARNEY of Cumberland ACCEPTANCE of The Report B Ought Not To Pass Report PREVAILED",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Roll Call Ordered Roll Call Number 494 Yeas 21 - Nays 14 - Excused 0 - Absent 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Sent down for concurrence",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Reports READ.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "On motion of Representative KUHN of Falmouth, REPORT B Ought Not to Pass was ACCEPTED.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "ROLL CALL NO. 481 (Yeas 73 - Nays 72 - Absent 4 - Excused 2)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "In concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Placed in the Legislative Files. (DEAD)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-12",
+      "description": "Accept Report 'b' Ought Not To Pass RC #494",
+      "yea": 21,
+      "nay": 14,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-13",
+      "description": "Acc Report \"b\" Ontp RC #481",
+      "yea": 73,
+      "nay": 72,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0461&item=1&snum=132",
+      "doc_id": 3177836
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "School Programs",
+    "Extracurricular Activities"
+  ]
+}

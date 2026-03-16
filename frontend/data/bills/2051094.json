@@ -1,0 +1,86 @@
+{
+  "id": 2051094,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "CER26-0103",
+  "title": "17th Street High Heel Race Recognition Resolution of 2025",
+  "summary": "17th Street High Heel Race Recognition Resolution of 2025",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/CER26-0103/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/CER26-0103/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/CER26-0103",
+  "sponsors": [
+    "Robert White (D) [Sen]",
+    "Anita Bonds (D) [Sen]",
+    "Charles Allen (D) [Sen]",
+    "Christina Henderson (I) [Sen]",
+    "Zachary Parker (D) [Sen]",
+    "Kenyan McDuffie (I) [Sen]",
+    "Brooke Pinto (D) [Sen]",
+    "Matthew Frumin (D) [Sen]",
+    "Phil Mendelson (D) [Sen]"
+  ],
+  "introduced_date": "2025-11-04",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2025-10-20",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-11-04",
+      "action": "Retained by the Council",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-11-04",
+      "action": "Final Reading, CC",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-11-04",
+      "action": "Approved with Resolution Number ACR26-0101",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-11-28",
+      "action": "Resolution ACR26-0101, Effective from Nov 04, 2025 Published in DC Register Vol 72 and Page 013131",
+      "chamber": "C"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-11-04",
+      "description": "Final Reading, CC",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-10-20",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/60604/Introduction/CER26-0103-Introduction.pdf",
+      "doc_id": 3282542
+    },
+    {
+      "date": "2025-11-04",
+      "type": "Enrolled",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/60604/Meeting1/Enrollment/CER26-0103-Enrollment1.pdf",
+      "doc_id": 3285175
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

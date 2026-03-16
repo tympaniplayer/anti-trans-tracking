@@ -1,0 +1,55 @@
+{
+  "id": 2038598,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB2202",
+  "title": "Intelligence Community Efficiency and Effectiveness Act of 2025",
+  "summary": "A bill to modify the responsibilities and authorities of the Director of National Intelligence, to reform the Office of the Director of National Intelligence, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB2202/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB2202/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2202/all-info",
+  "sponsors": [
+    "Tom Cotton (R) [Sen]",
+    "James Risch (R) [Sen]",
+    "Mike Rounds (R) [Sen]",
+    "Ted Budd (R) [Sen]",
+    "James Lankford (R) [Sen]"
+  ],
+  "introduced_date": "2025-06-27",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-27",
+      "action": "Read twice and referred to the Select Committee on Intelligence.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-15",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s2202/BILLS-119s2202is.pdf",
+      "doc_id": 3261759
+    }
+  ],
+  "committee": {
+    "committee_id": 2565,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Select Intelligence"
+  },
+  "subjects": [
+    "Armed forces and national security"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 2007118,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB5202",
+  "title": "Relating to the governance of public institutions of higher education.",
+  "summary": "Relating to the governance of public institutions of higher education.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB5202/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB5202/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB5202",
+  "sponsors": [
+    "Greg Bonnen (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-14",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-14",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Referred to Higher Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-14",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB05202I.htm",
+      "doc_id": 3176506
+    }
+  ],
+  "committee": {
+    "committee_id": 1880,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Higher Education"
+  },
+  "subjects": [
+    "Education",
+    "Education--Higher",
+    "Education--Higher--Faculty",
+    "Education--Higher--General",
+    "EDUCATION--HIGHER--CURRICULUM",
+    "Education--Higher--Institutions & Programs",
+    "Human Relations",
+    "Open Meetings",
+    "State Finances",
+    "State Finances--Management & Control",
+    "PUBLIC NOTICE"
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": 2113995,
+  "state": "WV",
+  "state_name": "West Virginia",
+  "bill_number": "SB921",
+  "title": "Prohibiting Medicaid from being used for abortions or gender reassignment surgery",
+  "summary": "The purpose of this bill is to prohibit state funding from being used to pay for abortions or gender reassignment surgery.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WV/bill/SB921/2026",
+  "legiscan_url": "https://legiscan.com/WV/bill/SB921/2026",
+  "state_url": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=921&year=2026&sessiontype=RS&btype=bill",
+  "sponsors": [
+    "Chris Rose (R) [Sen]",
+    "Mark Maynard (R) [Sen]",
+    "Patricia Rucker (R) [Sen]",
+    "Jay Taylor (R) [Sen]",
+    "Zachery Maynard (R) [Sen]",
+    "Kevan Bartlett (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-11",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-11",
+      "action": "Filed for introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "To Health and Human Resources",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Introduced in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "To Health and Human Resources",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=sb921%20intr.htm&yr=2026&sesstype=RS&i=921",
+      "doc_id": 3358033
+    }
+  ],
+  "committee": {
+    "committee_id": 28,
+    "chamber": "S",
+    "chamber_id": 2,
+    "name": "Health and Human Resources"
+  },
+  "subjects": [
+    "Human Services"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": 2029391,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB4466",
+  "title": "Health: licensing; sanctions for performing gender reassignment procedures or treatment to minors; provide for. Amends secs. 16221 & 16226 of 1978 PA 368 (MCL 333.16221 & 333.16226). TIE BAR WITH: HB 4467'25",
+  "summary": "Health: licensing; sanctions for performing gender reassignment procedures or treatment to minors; provide for. Amends secs. 16221 & 16226 of 1978 PA 368 (MCL 333.16221 & 333.16226). TIE BAR WITH: HB 4467'25",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB4466/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB4466/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4466",
+  "sponsors": [
+    "Jaime Greene (R) [Rep]",
+    "Pat Outman (R) [Rep]",
+    "Angela Rigas (R) [Rep]",
+    "Gina Johnsen (R) [Rep]",
+    "Gregory Markkanen (R) [Rep]",
+    "Joseph Pavlov (R) [Rep]",
+    "Matthew Maddock (R) [Rep]",
+    "Joseph Fox (R) [Rep]",
+    "Brad Paquette (R) [Rep]",
+    "Tom Kunse (R) [Rep]",
+    "David Martin (R) [Rep]",
+    "Steve Carra (R) [Rep]",
+    "Josh Schriver (R) [Rep]",
+    "Jason Woolford (R) [Rep]",
+    "Jennifer Wortz (R) [Rep]",
+    "Luke Meerman (R) [Rep]"
+  ],
+  "introduced_date": "2025-05-07",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-05-07",
+      "action": "Introduced By Representative Rep. Jaime Greene",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Referred To Committee On Health Policy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Bill Electronically Reproduced 05/07/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-07",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4466.htm",
+      "doc_id": 3231433
+    }
+  ],
+  "committee": {
+    "committee_id": 892,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Health Policy"
+  },
+  "subjects": [
+    "Health: licensing",
+    "State agencies (existing): licensing and regulatory affairs"
+  ]
+}

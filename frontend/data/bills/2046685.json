@@ -1,0 +1,64 @@
+{
+  "id": 2046685,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4609",
+  "title": "Measuring the impact of Long COVID in the Commonwealth",
+  "summary": "Measuring the impact of Long COVID in the Commonwealth",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4609/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4609/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4609",
+  "sponsors": [
+    "Joint Committee on Public Health [Jnt]"
+  ],
+  "introduced_date": "2025-10-16",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-10-16",
+      "action": "Reported from the committee on Public Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-16",
+      "action": "New draft of H2400",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-16",
+      "action": "Reported favorably by committee and referred to the Joint Committee on Health Care Financing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Reporting date extended to Wednesday, March 18, 2026",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-16",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4609.pdf",
+      "doc_id": 3273688
+    }
+  ],
+  "committee": {
+    "committee_id": 763,
+    "chamber": "J",
+    "chamber_id": 103,
+    "name": "Health Care Financing"
+  },
+  "subjects": []
+}

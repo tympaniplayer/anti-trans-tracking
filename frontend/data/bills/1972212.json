@@ -1,0 +1,49 @@
+{
+  "id": 1972212,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "HF908",
+  "title": "Criminal penalties for crimes committed because of the victim's political affiliation or beliefs increased.",
+  "summary": "Criminal penalties for crimes committed because of the victim's political affiliation or beliefs increased.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/HF908/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/HF908/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/908/",
+  "sponsors": [
+    "Ron Kresha (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-17",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-02-17",
+      "action": "Introduction and first reading, referred to Public Safety Finance and Policy",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-14",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/908/versions/0/pdf/",
+      "doc_id": 3126212
+    }
+  ],
+  "committee": {
+    "committee_id": 2777,
+    "chamber": "H",
+    "chamber_id": 55,
+    "name": "Public Safety Finance and Policy"
+  },
+  "subjects": []
+}

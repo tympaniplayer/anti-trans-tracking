@@ -1,0 +1,71 @@
+{
+  "id": 2083616,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB7110",
+  "title": "Eliminating Bias in Algorithmic Systems Act of 2026",
+  "summary": "To require agencies that use, fund, or oversee algorithms to have an office of civil rights focused on bias, discrimination, and other harms of algorithms, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB7110/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB7110/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/7110/all-info",
+  "sponsors": [
+    "Summer Lee (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Bennie Thompson (D) [Rep]",
+    "Dwight Evans (D) [Rep]",
+    "Suzanne Bonamici (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Valerie Foushee (D) [Rep]",
+    "Al Green (D) [Rep]",
+    "Jesus Garcia (D) [Rep]",
+    "Jahana Hayes (D) [Rep]",
+    "Greg Casar (D) [Rep]",
+    "Andre Carson (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-15",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-01-15",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Referred to the House Committee on Oversight and Government Reform.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-03",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr7110/BILLS-119hr7110ih.pdf",
+      "doc_id": 3347050
+    }
+  ],
+  "committee": {
+    "committee_id": 2311,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Oversight And Government Reform"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

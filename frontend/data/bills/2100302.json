@@ -1,0 +1,62 @@
+{
+  "id": 2100302,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HB2541",
+  "title": "Relating To Discrimination.",
+  "summary": "Prohibits discrimination based on a person's immigration status.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HB2541/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HB2541/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2541&year=2026",
+  "sponsors": [
+    "Della au Belatti (D) [Rep]",
+    "Terez Amato (D) [Rep]",
+    "Tina Grandinetti (D) [Rep]",
+    "Lisa Marten (D) [Rep]",
+    "Kanani Souza (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-28",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-28",
+      "action": "Introduced and Pass First Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Referred to ECD, LAB, JHA, referral sheet 6",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-28",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB2541_.HTM",
+      "doc_id": 3339461
+    }
+  ],
+  "committee": {
+    "committee_id": 4402,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Economic Development"
+  },
+  "subjects": [
+    "Anti-discrimination",
+    "Prohibitions",
+    "Immigration Status"
+  ]
+}

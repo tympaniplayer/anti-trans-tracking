@@ -1,0 +1,238 @@
+{
+  "id": 1941624,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1604",
+  "title": "Providing parameters for conducting searches of transgender and intersex individuals confined in a local jail in compliance with federal law.",
+  "summary": "Providing parameters for conducting searches of transgender and intersex individuals confined in a local jail in compliance with federal law.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1604/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1604/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1604&Year=2025&Initiative=false",
+  "sponsors": [
+    "Osman Salahuddin (D) [Rep]",
+    "Amy Walen (D) [Rep]",
+    "Strom Peterson (D) [Rep]",
+    "Darya Farivar (D) [Rep]",
+    "Alex Ramel (D) [Rep]",
+    "Mia Gregerson (D) [Rep]",
+    "Lisa Parshley (D) [Rep]",
+    "Julia Reed (D) [Rep]",
+    "Timm Ormsby (D) [Rep]",
+    "Shelley Kloba (D) [Rep]",
+    "Davina Duerr (D) [Rep]",
+    "Natasha Hill (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-11",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-27",
+      "action": "First reading, referred to Community Safety.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Public hearing in the House Committee on Community Safety at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Executive session scheduled, but no action was taken in the House Committee on Community Safety at 8:00 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Executive action taken in the House Committee on Community Safety at 8:00 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "CS - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Minority; do not pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-21",
+      "action": "Referred to Rules 2 Review.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-19",
+      "action": "Rules Committee relieved of further consideration. Placed on second reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "1st substitute bill substituted",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Floor amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Third reading, passed; yeas, 56; nays, 39; absent, 0; excused, 3.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "First reading, referred to Human Services.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Executive action taken in the Senate Committee on Human Services at 1:30 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "HS - Majority; do pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Minority; do not pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Passed to Rules Committee for second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Placed on second reading by Rules Committee.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Speaker signed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "President signed.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Delivered to Governor.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Governor signed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Chapter 17, 2026 Laws.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Effective date 6/11/2026.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-20",
+      "description": "House Committee on Community Safety: 1st substitute bill be substituted, do pass",
+      "yea": 6,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-04",
+      "description": "House 3rd Reading & Final Passage",
+      "yea": 56,
+      "nay": 39,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-24",
+      "description": "Senate Committee on Human Services: do pass",
+      "yea": 2,
+      "nay": 2,
+      "passed": 0
+    },
+    {
+      "date": "2026-03-03",
+      "description": "Senate 3rd Reading & Final Passage",
+      "yea": 30,
+      "nay": 19,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1604.pdf",
+      "doc_id": 3079648
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1604-S.pdf",
+      "doc_id": 3136673
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1604-S.E.pdf",
+      "doc_id": 3348977
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Enrolled",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Passed%20Legislature/1604-S.PL.pdf",
+      "doc_id": 3387383
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Chaptered",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Session%20Laws/House/1604-S.SL.pdf",
+      "doc_id": 3393469
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

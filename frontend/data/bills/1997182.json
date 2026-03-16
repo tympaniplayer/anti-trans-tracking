@@ -1,0 +1,64 @@
+{
+  "id": 1997182,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S111",
+  "title": "Ensuring access to behavioral health services for children involved with state agencies",
+  "summary": "For legislation to ensure access to behavioral health services for children involved with state agencies. Children, Families and Persons with Disabilities.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S111/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S111/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S111",
+  "sponsors": [
+    "Brendan Crighton (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Children, Families and Persons with Disabilities",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-27",
+      "action": "Hearing scheduled for 09/09/2025 from 1:00 PM-5:00 PM in B-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-16",
+      "action": "Bill reported favorably by committee and referred to the Joint Committee on Health Care Financing",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Accompanied a study order, see S2931",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-10",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S111.pdf",
+      "doc_id": 3162357
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

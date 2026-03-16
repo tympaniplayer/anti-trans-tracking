@@ -1,0 +1,119 @@
+{
+  "id": 1959690,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "HB1271",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 1; Title 3; Title 4; Title 5; Title 6; Title 7 and Title 8, relative to biological sex.",
+  "summary": "As introduced, declares that the policy of this state is that there are only two sexes, a biological male and a biological female. - Amends TCA Title 1; Title 3; Title 4; Title 5; Title 6; Title 7 and Title 8.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/HB1271/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/HB1271/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB1271&ga=114",
+  "sponsors": [
+    "Mark Cochran (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-06",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-06",
+      "action": "Filed for introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Intro., P1C.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "P2C, ref. to Judiciary Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-14",
+      "action": "Assigned to s/c Civil Justice Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Placed on s/c cal Civil Justice Subcommittee for 3/19/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Rec for pass if am by s/c ref. to Judiciary Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Placed on cal. Judiciary Committee for 3/26/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Action def. in Judiciary Committee to 4/02/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Placed on cal. Judiciary Committee for 4/2/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Action def. in Judiciary Committee to Second Calendar of 2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Placed on cal. Judiciary Committee for 1/21/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Taken off notice for cal. in Judiciary Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Placed on cal. Judiciary Committee for 3/18/2026",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-19",
+      "description": "HOUSE CIVIL JUSTICE SUBCOMMITTEE: Rec for pass if am by s/c ref. to Judiciary Committee",
+      "yea": 6,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-06",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1271.pdf",
+      "doc_id": 3105508
+    }
+  ],
+  "committee": {
+    "committee_id": 2486,
+    "chamber": "H",
+    "chamber_id": 89,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "State Government"
+  ]
+}

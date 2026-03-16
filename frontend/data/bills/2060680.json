@@ -1,0 +1,198 @@
+{
+  "id": 2060680,
+  "state": "AZ",
+  "state_name": "Arizona",
+  "bill_number": "HB2085",
+  "title": "Gender transition; minors; prohibitions.",
+  "summary": "Gender transition; minors; prohibitions.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AZ/bill/HB2085/2026",
+  "legiscan_url": "https://legiscan.com/AZ/bill/HB2085/2026",
+  "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/83697",
+  "sponsors": [
+    "Lisa Fink (R) [Rep]",
+    "Ralph Heap (R) [Rep]",
+    "Rachel Keshel (R) [Rep]",
+    "Teresa Martinez (R) [Rep]",
+    "Khyl Powell (R) [Rep]",
+    "Tony Rivero (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-24",
+  "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
+  "actions": [
+    {
+      "date": "2025-12-22",
+      "action": "Prefile",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Introduced in House and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Assigned to House HHS Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Assigned to House RULES Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "House read second time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "House HHS Committee action: Do Pass, voting: (7-5-0-0-0-0)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "House RULES Committee action: constitutional and in proper form, voting: (5-3-0-0-0-0)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "House consent calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "House majority caucus: Do pass",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "House minority caucus: Do pass",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "House Committee of the Whole action: Do Pass",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "House third reading PASSED voting: (32-23-5-0)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Transmit to Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Introduced in Senate and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Assigned to Senate JUDE Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Assigned to Senate RULES Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Senate read second time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Senate JUDE Committee action: Held, voting: (0-0-0-0)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-22",
+      "description": "House Health & Human Services Committee Action (DP)",
+      "yea": 7,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-02",
+      "description": "House Rules Committee Action (C&P)",
+      "yea": 5,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-23",
+      "description": "House - Committee of the Whole (DP)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-24",
+      "description": "House - Third Reading",
+      "yea": 32,
+      "nay": 23,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-11",
+      "description": "Senate Judiciary and Elections Committee Action (DISC/HELD)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-11",
+      "description": "Senate Judiciary and Elections Committee Action (HELD)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-12-22",
+      "type": "Introduced",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/hb2085p.htm",
+      "doc_id": 3293085
+    },
+    {
+      "date": "2026-02-23",
+      "type": "Engrossed",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/hb2085h.htm",
+      "doc_id": 3374770
+    }
+  ],
+  "committee": {
+    "committee_id": 1114,
+    "chamber": "S",
+    "chamber_id": 16,
+    "name": "Rules"
+  },
+  "subjects": [
+    "Ahcccs (see Also: Arizona Health Care Cost Containment System)",
+    "Arizona Health Care Cost Containment System (ahcccs)",
+    "Effective Date",
+    "Gender Transition",
+    "Health Professionals",
+    "Irreversible Gender Reassignment Surgery",
+    "Minors",
+    "Professions And Occupations - Title 32",
+    "Prohibitions"
+  ]
+}

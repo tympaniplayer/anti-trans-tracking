@@ -1,0 +1,71 @@
+{
+  "id": 2133706,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "AB1110",
+  "title": "Fertility treatment rights, reimbursement of fertility treatments under the Medical Assistance program, and requiring insurance coverage for fertility treatments. (FE)",
+  "summary": "An Act to create 49.45 (30t), 49.46 (2) (b) 17m., 253.18, 609.756 and 632.895 (15h) of the statutes; Relating to: fertility treatment rights, reimbursement of fertility treatments under the Medical Assistance program, and requiring insurance coverage for fertility treatments. (FE)",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/AB1110/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/AB1110/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1110",
+  "sponsors": [
+    "Jodi Emerson (D) [Rep]",
+    "Christine Sinicki (D) [Rep]",
+    "Vinnie Miresse (D) [Rep]",
+    "Mike Bare (D) [Rep]",
+    "Alex Joers (D) [Rep]",
+    "Sequanna Taylor (D) [Rep]",
+    "Deb Andraca (D) [Rep]",
+    "Ryan Clancy (D) [Rep]",
+    "Greta Neubauer (D) [Rep]",
+    "Ben DeSmidt (D) [Rep]",
+    "Lori Palmeri (D) [Rep]",
+    "Russell Goodwin (D) [Rep]",
+    "Darrin Madison (D) [Rep]",
+    "Kelda Roys (D) [Sen]",
+    "Melissa Ratcliff (D) [Sen]",
+    "Dianne Hesselbein (D) [Sen]",
+    "Mark Spreitzer (D) [Sen]",
+    "Christopher Larson (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-13",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-13",
+      "action": "Introduced",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Read first time and referred to Committee on Health, Aging and Long-Term Care",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-13",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AB1110.pdf",
+      "doc_id": 3394253
+    }
+  ],
+  "committee": {
+    "committee_id": 4790,
+    "chamber": "A",
+    "chamber_id": 99,
+    "name": "Health, Aging and Long-Term Care"
+  },
+  "subjects": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": 2109091,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB3481",
+  "title": "GENDER-AFFIRMING HEALTH CARE",
+  "summary": "Amends the Hospital Licensing Act. Prohibits a hospital or health care professional from disclosing or threatening to disclose to any other person, entity, or agency information regarding or relating to gender-affirming care of a minor or personally identifiable information regarding a minor receiving gender-affirming care, unless disclosure is in strict accordance with all applicable local, State, and federal law.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB3481/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB3481/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3481&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "Mike Simmons (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "Filed with Secretary by Sen. Mike Simmons",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Assigned to Executive",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Rule 2-10 Committee Deadline Established As March 27, 2026",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=207828&DocName=10400SB3481&DocNum=3481&DocTypeID=SB&LegID=166482&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3354089
+    }
+  ],
+  "committee": {
+    "committee_id": 267,
+    "chamber": "S",
+    "chamber_id": 36,
+    "name": "Executive"
+  },
+  "subjects": []
+}

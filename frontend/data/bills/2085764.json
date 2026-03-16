@@ -1,0 +1,84 @@
+{
+  "id": 2085764,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "SB585",
+  "title": "Virginia Fair Housing Law, et al.; personalized algorithmic pricing disclosures, prohibitions.",
+  "summary": "Virginia Fair Housing Law; Virginia Residential Property Disclosure Act; Virginia Residential Landlord and Tenant Act; personalized algorithmic pricing disclosures; prohibitions; civil penalties; civil actions. Prohibits, for purposes of the Virginia Fair Housing Law and the Virginia Residential Landlord and Tenant Act (VRLTA), certain discriminatory uses of protected class data, defined in the bill, in the sale or rental of a dwelling. The bill requires, when applicable, disclosure of the use of personalized algorithmic pricing, defined in the bill, for purposes of the Virginia Residential Property Disclosure Act and the VRLTA. Under the VRLTA, the bill prohibits a landlord from facilitating an agreement between or among two or more landlords to not compete with respect to any dwelling unit, including by operating or licensing software, a data analytics service, or an algorithmic device that performs a coordinating function, defined in the bill, on behalf of or between and among such landlords. The bill also prohibits a landlord and a multiple listing service, defined in the bill, from setting or adjusting rent prices, rental agreement terms, occupancy levels, or other rental agreement terms and conditions in one or more of his dwelling units based on recommendations from software, a data analytics service, or an algorithmic device performing a coordinating function. The bill allows the Attorney General to seek an injunction and civil penalties to restrain certain violations of the bill and allows any injured individual to bring a civil action to recover the greater of actual or statutory damages and reasonable attorney fees.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "bathrooms",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/SB585/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/SB585/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/SB585",
+  "sponsors": [
+    "Saddam Salim (D) [Sen]",
+    "Kannan Srinivasan (D) [Sen]",
+    "Kelly Convirs-Fowler (D) [Rep]",
+    "Atoosa Reaser (D) [Rep]",
+    "Irene Shin (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26104984D",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Referred to Committee on General Laws and Technology",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Assigned GL&T sub: Housing",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Senate subcommittee offered",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Passed by indefinitely in General Laws and Technology with letter (15-Y 0-N)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-04",
+      "description": "Passed by indefinitely in General Laws and Technology with letter (15-Y 0-N)",
+      "yea": 15,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB585/text/SB585",
+      "doc_id": 3323124
+    },
+    {
+      "date": "2026-01-28",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB585/text/SB585SC1",
+      "doc_id": 3340092
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

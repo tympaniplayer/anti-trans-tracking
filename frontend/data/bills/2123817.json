@@ -1,0 +1,49 @@
+{
+  "id": 2123817,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "HF3670",
+  "title": "Definition of sexual orientation modified for purposes of the Minnesota Human Rights Act.",
+  "summary": "Definition of sexual orientation modified for purposes of the Minnesota Human Rights Act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/HF3670/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/HF3670/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3670/",
+  "sponsors": [
+    "Isaac Schultz (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-25",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2026-02-25",
+      "action": "Introduction and first reading, referred to Judiciary Finance and Civil Law",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-24",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3670/versions/0/pdf/",
+      "doc_id": 3375326
+    }
+  ],
+  "committee": {
+    "committee_id": 3806,
+    "chamber": "H",
+    "chamber_id": 55,
+    "name": "Judiciary Finance and Civil Law"
+  },
+  "subjects": []
+}

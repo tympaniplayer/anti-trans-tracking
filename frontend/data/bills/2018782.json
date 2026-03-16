@@ -1,0 +1,51 @@
+{
+  "id": 2018782,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S07147",
+  "title": "Prohibits a court from granting, denying or deciding a petition for guardianship, custody or visitation solely on the allegation or basis that a parent or guardian is providing or facilitating the provision of gender affirming care to the subject child.",
+  "summary": "Prohibits a court from granting, denying or deciding a petition for guardianship, custody or visitation solely on the allegation or basis that a parent or guardian is providing or facilitating the provision of gender affirming care to the subject child.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S07147/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S07147/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S7147",
+  "sponsors": [
+    "Brad Hoylman-Sigal (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-02",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-04-02",
+      "action": "REFERRED TO CHILDREN AND FAMILIES",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-02",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S07147&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S07147",
+      "doc_id": 3198448
+    }
+  ],
+  "committee": {
+    "committee_id": 414,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Children and Families"
+  },
+  "subjects": []
+}

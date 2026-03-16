@@ -1,0 +1,71 @@
+{
+  "id": 2063187,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HB257",
+  "title": "Relating To Certificates Of Birth.",
+  "summary": "Provides that a new certificate of birth issued by the State shall include a designation of the sex of the person born, based on the genitalia of the person. Authorizes amendments of designations of sex on certificates of birth, provided that the birth registrant is an adult, and a new designation is based on the genitalia of the birth registrant, as confirmed by a physician or physician's assistant. Requires certain original certificates to be unsealed and new certificates to be marked as amended with regard to sex designation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "identity_documents"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HB257/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HB257/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=257&year=2026",
+  "sponsors": [
+    "David Alcos (R) [Rep]",
+    "Diamond Garcia (R) [Rep]",
+    "Gene Ward (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-17",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-16",
+      "action": "Pending introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-17",
+      "action": "Introduced and Pass First Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Referred to HLT, JHA, referral sheet 1",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB257_.HTM",
+      "doc_id": 3296782
+    }
+  ],
+  "committee": {
+    "committee_id": 2042,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Health"
+  },
+  "subjects": [
+    "Health",
+    "Certificates of Birth",
+    "Designations of Sex",
+    "Revisions"
+  ]
+}

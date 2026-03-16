@@ -1,0 +1,68 @@
+{
+  "id": 2025834,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A08054",
+  "title": "Requires police officer training programs on interacting with individuals who are a part of a sexual orientation and/or gender minority.",
+  "summary": "Requires police officer training programs on interacting with individuals who are a part of a sexual orientation and/or gender minority.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A08054/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A08054/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A8054",
+  "sponsors": [
+    "Steven Raga (D) [Rep]",
+    "Karines Reyes (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-22",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-04-22",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-05",
+      "action": "reported referred to ways and means",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to ways and means",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-05",
+      "description": "Assembly Codes Committee: Favorable refer to committee Ways and Means",
+      "yea": 15,
+      "nay": 6,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-04-22",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08054&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08054",
+      "doc_id": 3218357
+    }
+  ],
+  "committee": {
+    "committee_id": 387,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

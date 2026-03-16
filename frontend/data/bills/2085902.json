@@ -1,0 +1,74 @@
+{
+  "id": 2085902,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "SB563",
+  "title": "Public elementary and secondary schools; parent's right to opt children out of certain ed. content.",
+  "summary": "Parents of public elementary and secondary school children; fundamental right to opt children out of certain educational content. Provides that parents of public elementary and secondary school children have the fundamental right to opt their children out, without penalty, of any instruction, reading, discussion, presentation, including any audio-visual presentation, school assembly, or activity that includes any gender identity, sexual orientation, transgenderism, or drag show theme or content, and the elementary or secondary school shall make reasonable accommodations during such opt-out period. The bill also requires any public secondary school student who is 18 years of age or older to, by request of such student, opt-out, without penalty, of any such instruction, reading discussion, presentation, including any audio-visual presentation, school assembly, or activity, and requires the secondary school to make reasonable accommodations during such opt-out period.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "drag"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/SB563/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/SB563/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/SB563",
+  "sponsors": [
+    "Glen Sturtevant (R) [Sen]",
+    "Tammy Brankley Mulchi (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26102633D",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Referred to Committee on Education and Health",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (SB563)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Assigned Education sub: Public Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Passed by indefinitely in Education and Health (9-Y 4-N)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-12",
+      "description": "Passed by indefinitely in Education and Health (9-Y 4-N)",
+      "yea": 9,
+      "nay": 4,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB563/text/SB563",
+      "doc_id": 3323263
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,82 @@
+{
+  "id": 2122724,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB7651",
+  "title": "Chloe Cole Act of 2026",
+  "summary": "To provide a private right of action for children and the parents of children whose healthy body parts have been damaged by medical professionals practicing or participating in certain interventions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB7651/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB7651/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/7651/all-info",
+  "sponsors": [
+    "Robert Onder (R) [Rep]",
+    "Mike Kennedy (R) [Rep]",
+    "John Rose (R) [Rep]",
+    "Troy Nehls (R) [Rep]",
+    "Andy Harris (R) [Rep]",
+    "Robert Aderholt (R) [Rep]",
+    "Barry Moore (R) [Rep]",
+    "Brian Jack (R) [Rep]",
+    "Scott DesJarlais (R) [Rep]",
+    "Greg Steube (R) [Rep]",
+    "Michael Simpson (R) [Rep]",
+    "Troy Downing (R) [Rep]",
+    "Sheri Biggs (R) [Rep]",
+    "Daniel Webster (R) [Rep]",
+    "William Timmons (R) [Rep]",
+    "Pat Harrigan (R) [Rep]",
+    "Clay Higgins (R) [Rep]",
+    "Diana Harshbarger (R) [Rep]",
+    "Mark Messmer (R) [Rep]",
+    "Marlin Stutzman (R) [Rep]",
+    "Mike Collins (R) [Rep]",
+    "Wesley Hunt (R) [Rep]",
+    "Keith Self (R) [Rep]",
+    "John McGuire (R) [Rep]",
+    "Andrew Ogles (R) [Rep]",
+    "Gary Palmer (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-23",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-02-23",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-10",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr7651/BILLS-119hr7651ih.pdf",
+      "doc_id": 3390852
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

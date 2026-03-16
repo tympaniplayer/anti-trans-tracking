@@ -1,0 +1,129 @@
+{
+  "id": 2062103,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB778",
+  "title": "Relating To Sentencing.",
+  "summary": "Prohibits emerging adult defendants from being sentenced to life imprisonment without the possibility of parole. (SD1)",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB778/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB778/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=778&year=2026",
+  "sponsors": [
+    "Karl Rhoads (D) [Sen]",
+    "Joy San Buenaventura (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-04",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-17",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "Referred to JDC.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-27",
+      "action": "The committee(s) on JDC has scheduled a public hearing on 01-31-25 9:15AM; Conference Room 016 &amp; Videoconference.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-31",
+      "action": "The committee(s) on JDC recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in JDC were as follows: 4 Aye(s): Senator(s) Rhoads, Gabbard, Chang, San Buenaventura; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Awa.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "Reported from JDC (Stand. Com. Rep. No. 816) with recommendation of passage on Second Reading, as amended (SD 1) and placement on the calendar for Third Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "Report adopted; Passed Second Reading, as amended (SD 1).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "48 Hrs. Notice 03-04-25.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Passed Third Reading, as amended (SD 1). Ayes, 24; Aye(s) with reservations: Senator(s) DeCoite, Elefante, Richards. Noes, 0 (none). Excused, 1 (Senator(s) Chang). Transmitted to House.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Received from Senate (Sen. Com. No. 196) in amended form (SD 1).",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Pass First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Referred to JHA, referral sheet 19",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-01-31",
+      "description": "Senate Judiciary: Passed, With Amendments",
+      "yea": 4,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-17",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB778_.HTM",
+      "doc_id": 3295103
+    },
+    {
+      "date": "2025-02-27",
+      "type": "Amended",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB778_SD1_.HTM",
+      "doc_id": 3295104
+    }
+  ],
+  "committee": {
+    "committee_id": 4406,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Judiciary & Hawaiian Affairs"
+  },
+  "subjects": [
+    "Emerging Adult Defendant",
+    "Sentencing",
+    "Life Without Parole",
+    "Penal Code"
+  ]
+}

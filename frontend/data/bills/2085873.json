@@ -1,0 +1,71 @@
+{
+  "id": 2085873,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "SB560",
+  "title": "Public elementary schools, etc.; student participation in sports, civil cause of action.",
+  "summary": "Public elementary and secondary schools and institutions of higher education; designation of interscholastic, intercollegiate, intramural, and club athletic teams and sports based on biological sex; identification of biological sex on Preparticipation Physical Evaluation and athletics eligibility forms required; civil cause of action. Requires each interscholastic, intercollegiate, intramural, or club athletic team or sport sponsored by a public elementary or secondary school or by a public institution of higher education to be expressly designated as one of the following based on biological sex: (i) for \"males,\" \"men,\" or \"boys\"; (ii) for \"females,\" \"women,\" or \"girls\"; or (iii) for \"coed\" or \"mixed.\" The bill prohibits any such team or sport that is expressly designated for females, women, or girls from being open to students whose biological sex is male. The bill amends provisions of current law requiring each public middle or high school student to submit a Preparticipation Physical Evaluation form in order to be a participant on or try out for any interscholastic athletic team or squad by (a) expanding the scope of the requirement to apply to any public elementary or secondary school student in order to participate on or try out for any interscholastic, intramural, or club athletic team or sport and (b) requiring each Preparticipation Physical Evaluation form to identify and attest to each such student's biological sex. The bill also requires each student enrolled at a public institution of higher education seeking to participate on or try out for any intercollegiate, intramural, or club athletic team or sport sponsored by a public institution of higher education to submit by the start of his first year of participation on such team or sport an athletics eligibility form signed by a licensed physician, nurse practitioner, or physician assistant verifying such student's biological sex and meeting such other criteria as set forth in the bill. The bill prohibits any government entity, licensing or accrediting organization, athletic association, or athletic organization from entertaining a complaint, opening an investigation, or taking any other adverse action against a public school or institution of higher education based on compliance with the provisions of the bill and creates a cause of action for any public school or institution of higher education that suffers harm as a result of a violation of the bill. Finally, the bill creates a civil cause of action for any student who suffers harm as a result of a knowing violation of a provision of the bill by a public school or institution of higher education or as a result of the student's reporting a violation of a provision of the bill by a public school, institution of higher education, athletic association, or athletic organization.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "education",
+    "identity_documents",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/SB560/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/SB560/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/SB560",
+  "sponsors": [
+    "Bryce Reeves (R) [Sen]",
+    "Tammy Brankley Mulchi (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26100800D",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Referred to Committee on Education and Health",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Assigned Education sub: Public Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Passed by indefinitely in Education and Health (9-Y 6-N)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-29",
+      "description": "Passed by indefinitely in Education and Health (9-Y 6-N)",
+      "yea": 9,
+      "nay": 6,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB560/text/SB560",
+      "doc_id": 3323234
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

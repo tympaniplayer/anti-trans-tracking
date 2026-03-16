@@ -1,0 +1,107 @@
+{
+  "id": 2101781,
+  "state": "AZ",
+  "state_name": "Arizona",
+  "bill_number": "SB1570",
+  "title": "Diversity; equity; inclusion; training; prohibition",
+  "summary": "Diversity; equity; inclusion; training; prohibition",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AZ/bill/SB1570/2026",
+  "legiscan_url": "https://legiscan.com/AZ/bill/SB1570/2026",
+  "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/85187",
+  "sponsors": [
+    "Jake Hoffman (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
+  "actions": [
+    {
+      "date": "2026-02-03",
+      "action": "Introduced in Senate and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Assigned to Senate GOV Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Assigned to Senate JUDE Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Assigned to Senate RULES Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Senate read second time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Senate GOV Committee action: Withdrawn, voting: (0-0-0-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Senate JUDE Committee action: Held, voting: (0-0-0-0)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-05",
+      "description": "Senate Government Committee Action (W/D)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-18",
+      "description": "Senate Judiciary and Elections Committee Action (HELD)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-29",
+      "type": "Introduced",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/sb1570p.htm",
+      "doc_id": 3341060
+    }
+  ],
+  "committee": {
+    "committee_id": 1114,
+    "chamber": "S",
+    "chamber_id": 16,
+    "name": "Rules"
+  },
+  "subjects": [
+    "Adoa (see Also: Department Of Administration)",
+    "Definition",
+    "Department Of Administration (adoa)",
+    "Diversity",
+    "Equity",
+    "Hiring Personnel",
+    "Inclusion",
+    "Prohibition",
+    "Promotion",
+    "State Employees",
+    "State Government - Title 41",
+    "Training"
+  ]
+}

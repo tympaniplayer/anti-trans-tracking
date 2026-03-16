@@ -1,0 +1,60 @@
+{
+  "id": 2025092,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB2957",
+  "title": "STRONG Support for Children Act of 2025 Services and Trauma-informed Research of Outcomes in Neighborhoods Grants for Support for Children Act of 2025",
+  "summary": "To amend the Public Health Service Act to support the development and implementation of programs using data analysis to identify and facilitate strategies to improve outcomes for children in geographic areas with a high prevalence of trauma from exposure to adverse childhood experiences, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms",
+    "education"
+  ],
+  "primary_category": "bathrooms",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB2957/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB2957/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/2957/all-info",
+  "sponsors": [
+    "Ayanna Pressley (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-17",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-04-17",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-05",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr2957/BILLS-119hr2957ih.pdf",
+      "doc_id": 3229560
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": 2095783,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A2509",
+  "title": "Establishes offense of harassing, intimidating, or bullying minor; establishes diversionary program for juveniles charged with offense.",
+  "summary": "Establishes offense of harassing, intimidating, or bullying minor; establishes diversionary program for juveniles charged with offense.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A2509/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A2509/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A2509",
+  "sponsors": [
+    "William Spearman (D) [Rep]",
+    "Sterley Stanley (D) [Rep]",
+    "Wayne DeAngelo (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Judiciary Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-05",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A3000/2509_I1.HTM",
+      "doc_id": 3334818
+    }
+  ],
+  "committee": {
+    "committee_id": 862,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Judiciary"
+  ]
+}

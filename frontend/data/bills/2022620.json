@@ -1,0 +1,60 @@
+{
+  "id": 2022620,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SR168",
+  "title": "A resolution supporting the goals and ideals of the Rise Up for LGBTQI+ Youth in Schools Initiative, a call to action to communities across the United States to demand equal educational opportunity, basic civil rights protections, and freedom from erasure for all students, particularly LGBTQI+ young people, in K-12 schools.",
+  "summary": "A resolution supporting the goals and ideals of the Rise Up for LGBTQI+ Youth in Schools Initiative, a call to action to communities across the United States to demand equal educational opportunity, basic civil rights protections, and freedom from erasure for all students, particularly LGBTQI+ young people, in K-12 schools.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SR168/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SR168/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/168/all-info",
+  "sponsors": [
+    "Brian Schatz (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Christopher Murphy (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-09",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-04-09",
+      "action": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S2529-2530)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-10",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/sres168/BILLS-119sres168is.pdf",
+      "doc_id": 3209594
+    }
+  ],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

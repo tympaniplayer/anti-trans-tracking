@@ -1,0 +1,60 @@
+{
+  "id": 2074782,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S3006",
+  "title": "Requires Medicaid coverage for fertility preservation services in cases of iatrogenic infertility caused by medically necessary treatments.",
+  "summary": "Requires Medicaid coverage for fertility preservation services in cases of iatrogenic infertility caused by medically necessary treatments.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S3006/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S3006/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S3006",
+  "sponsors": [
+    "Joseph Vitale (D) [Sen]",
+    "Vin Gopal (D) [Sen]",
+    "Angela Mcknight (D) [Sen]",
+    "Vincent Polistina (R) [Sen]",
+    "Andrew Zwicker (D) [Sen]",
+    "Linda Greenstein (D) [Sen]",
+    "Teresa Ruiz (D) [Sen]",
+    "Gordon Johnson (D) [Sen]",
+    "John McKeon (D) [Sen]",
+    "Patrick Diegnan (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-08",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S3500/3006_I1.HTM",
+      "doc_id": 3311815
+    }
+  ],
+  "committee": {
+    "committee_id": 879,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Health, Human Services and Senior Citizens"
+  },
+  "subjects": [
+    "Health, Human Services and Senior Citizens"
+  ]
+}

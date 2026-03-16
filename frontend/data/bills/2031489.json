@@ -1,0 +1,54 @@
+{
+  "id": 2031489,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S07985",
+  "title": "Establishes a gender affirming care program in the department of health to ensure the continuity of gender affirming care services in the state.",
+  "summary": "Establishes a gender affirming care program in the department of health to ensure the continuity of gender affirming care services in the state.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S07985/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S07985/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S7985",
+  "sponsors": [
+    "Kristen Gonzalez (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-15",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-15",
+      "action": "REFERRED TO HEALTH",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO HEALTH",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-15",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S07985&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S07985",
+      "doc_id": 3238727
+    }
+  ],
+  "committee": {
+    "committee_id": 429,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Health"
+  },
+  "subjects": []
+}

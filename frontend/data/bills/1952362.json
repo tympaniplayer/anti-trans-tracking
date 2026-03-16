@@ -1,0 +1,76 @@
+{
+  "id": 1952362,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB1068",
+  "title": "Relating to intercollegiate athletic competitions based on biological sex.",
+  "summary": "Relating to intercollegiate athletic competitions based on biological sex.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB1068/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB1068/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1068",
+  "sponsors": [
+    "Mayes Middleton (R) [Sen]",
+    "Brent Hagenbuch (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-03",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Co-author authorized",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Referred to State Affairs",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-04",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB01068I.htm",
+      "doc_id": 3098160
+    }
+  ],
+  "committee": {
+    "committee_id": 1919,
+    "chamber": "S",
+    "chamber_id": 92,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "Education",
+    "Education--Higher",
+    "Education--Higher--Athletics",
+    "GENDER IDENTITY & EXPRESSION"
+  ]
+}

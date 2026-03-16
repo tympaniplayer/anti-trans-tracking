@@ -1,0 +1,72 @@
+{
+  "id": 1896894,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1072",
+  "title": "Preserving access to protected health care services.",
+  "summary": "Preserving access to protected health care services.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1072/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1072/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1072&Year=2025&Initiative=false",
+  "sponsors": [
+    "Amy Walen (D) [Rep]",
+    "Mari Leavitt (D) [Rep]",
+    "Kristine Reeves (D) [Rep]",
+    "April Berg (D) [Rep]",
+    "Cindy Ryu (D) [Rep]",
+    "Alex Ramel (D) [Rep]",
+    "Julia Reed (D) [Rep]",
+    "Lisa Callan (D) [Rep]",
+    "Roger Goodman (D) [Rep]",
+    "Gerry Pollet (D) [Rep]",
+    "Greg Nance (D) [Rep]",
+    "Timm Ormsby (D) [Rep]",
+    "Debra Lekanoff (D) [Rep]",
+    "Natasha Hill (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-13",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2024-12-16",
+      "action": "Prefiled for introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading, referred to Health Care & Wellness.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-12-16",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1072.pdf",
+      "doc_id": 3033708
+    }
+  ],
+  "committee": {
+    "committee_id": 937,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Health Care and Wellness"
+  },
+  "subjects": []
+}

@@ -1,0 +1,81 @@
+{
+  "id": 2029346,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB4468",
+  "title": "Insurance: health insurers; coverage for adverse consequences related to gender transition and reversal of gender transition; require. Amends 1956 PA 218 (MCL 500.100 - 500.8302) by adding sec. 3406ww.",
+  "summary": "Insurance: health insurers; coverage for adverse consequences related to gender transition and reversal of gender transition; require. Amends 1956 PA 218 (MCL 500.100 - 500.8302) by adding sec. 3406ww.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB4468/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB4468/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4468",
+  "sponsors": [
+    "Tom Kunse (R) [Rep]",
+    "Pat Outman (R) [Rep]",
+    "Angela Rigas (R) [Rep]",
+    "Gina Johnsen (R) [Rep]",
+    "Gregory Markkanen (R) [Rep]",
+    "Joseph Pavlov (R) [Rep]",
+    "Matthew Maddock (R) [Rep]",
+    "Joseph Fox (R) [Rep]",
+    "Jaime Greene (R) [Rep]",
+    "Brad Paquette (R) [Rep]",
+    "David Martin (R) [Rep]",
+    "Josh Schriver (R) [Rep]",
+    "Jason Woolford (R) [Rep]",
+    "Jennifer Wortz (R) [Rep]",
+    "Luke Meerman (R) [Rep]"
+  ],
+  "introduced_date": "2025-05-07",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-05-07",
+      "action": "Introduced By Representative Rep. Tom Kunse",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Referred To Committee On Health Policy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Bill Electronically Reproduced 05/07/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-07",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4468.htm",
+      "doc_id": 3231390
+    }
+  ],
+  "committee": {
+    "committee_id": 892,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Health Policy"
+  },
+  "subjects": [
+    "Insurance: health insurers",
+    "Insurance: health benefits"
+  ]
+}

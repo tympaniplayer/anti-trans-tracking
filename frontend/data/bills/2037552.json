@@ -1,0 +1,64 @@
+{
+  "id": 2037552,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "SB221",
+  "title": "Create the Equality Ohio license plate",
+  "summary": "To amend section 4501.21 and to enact section 4503.59 of the Revised Code to create the \"Equality Ohio\" license plate.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/SB221/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/SB221/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/sb221",
+  "sponsors": [
+    "Nickie Antonio (D) [Sen]",
+    "Kent Smith (D) [Sen]",
+    "William DeMora (D) [Sen]",
+    "Beth Liston (D) [Sen]",
+    "Casey Weinstein (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-17",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2025-06-17",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Referred to committee: Transportation",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb221/00_IN/pdf/",
+      "doc_id": 3256742
+    }
+  ],
+  "committee": {
+    "committee_id": 3020,
+    "chamber": "S",
+    "chamber_id": 6,
+    "name": "Transportation"
+  },
+  "subjects": [
+    "Public Safety",
+    "Special Designations",
+    "Transportation : Motor Vehicles",
+    "Transportation : Vehicle Registration and Titling",
+    "Senate Transportation Committee"
+  ]
+}

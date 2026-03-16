@@ -1,0 +1,49 @@
+{
+  "id": 1934540,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "S0019",
+  "title": "An act relating to expanding the scope of hate-motivated crimes",
+  "summary": "An act relating to expanding the scope of hate-motivated crimes",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/S0019/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/S0019/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/S.19",
+  "sponsors": [
+    "Nader Hashim (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-22",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-01-22",
+      "action": "Read 1st time & referred to Committee on Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-21",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0019/S-0019%20As%20Introduced.pdf",
+      "doc_id": 3071878
+    }
+  ],
+  "committee": {
+    "committee_id": 802,
+    "chamber": "S",
+    "chamber_id": 96,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

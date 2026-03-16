@@ -1,0 +1,69 @@
+{
+  "id": 2076566,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S2260",
+  "title": "Secures protections for patients and providers accessing and providing legally protected health care activities; establishes right of residents to legally protected health care services, which are restricted in other states.",
+  "summary": "Secures protections for patients and providers accessing and providing legally protected health care activities; establishes right of residents to legally protected health care services, which are restricted in other states.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S2260/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S2260/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S2260",
+  "sponsors": [
+    "Teresa Ruiz (D) [Sen]",
+    "Nicholas Scutari (D) [Sen]",
+    "Renee Burgess (D) [Sen]",
+    "Andrew Zwicker (D) [Sen]",
+    "Raj Mukherji (D) [Sen]",
+    "John Burzichelli (D) [Sen]",
+    "Angela Mcknight (D) [Sen]",
+    "Vin Gopal (D) [Sen]",
+    "John McKeon (D) [Sen]",
+    "Patrick Diegnan (D) [Sen]",
+    "Brian Stack (D) [Sen]",
+    "Britnee Timberlake (D) [Sen]",
+    "Benjie Wimberly (D) [Sen]",
+    "Nilsa Cruz-Perez (D) [Sen]",
+    "Gordon Johnson (D) [Sen]",
+    "Linda Greenstein (D) [Sen]",
+    "Joseph Lagana (D) [Sen]",
+    "Robert Smith (D) [Sen]",
+    "Shirley Turner (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-06",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S2500/2260_I1.HTM",
+      "doc_id": 3313583
+    }
+  ],
+  "committee": {
+    "committee_id": 879,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Health, Human Services and Senior Citizens"
+  },
+  "subjects": [
+    "Health, Human Services and Senior Citizens"
+  ]
+}

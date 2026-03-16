@@ -1,0 +1,56 @@
+{
+  "id": 2045863,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB5702",
+  "title": "Better Care For Domestic Violence Survivors Act",
+  "summary": "To amend the Violent Crime Control and Law Enforcement Act of 1994 to ensure that healthcare providers can assist survivors of domestic violence, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB5702/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB5702/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/5702/all-info",
+  "sponsors": [
+    "Emilia Sykes (D) [Rep]"
+  ],
+  "introduced_date": "2025-10-06",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-10-06",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-06",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-17",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr5702/BILLS-119hr5702ih.pdf",
+      "doc_id": 3273769
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crime and law enforcement"
+  ]
+}

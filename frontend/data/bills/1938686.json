@@ -1,0 +1,56 @@
+{
+  "id": 1938686,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0089",
+  "title": "An act relating to school choice for all Vermont students",
+  "summary": "An act relating to school choice for all Vermont students",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0089/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0089/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.89",
+  "sponsors": [
+    "Michael Tagliavia (R) [Rep]",
+    "Voranus Coffin IV (R) [Rep]",
+    "Allen Demar (R) [Rep]",
+    "Chris Keyser (R) [Rep]",
+    "Larry Labor (R) [Rep]",
+    "Michael Morgan (R) [Rep]",
+    "Woodman Page (R) [Rep]",
+    "Debra Powers (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-24",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-01-24",
+      "action": "Read first time and referred to the Committee on Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-23",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0089/H-0089%20As%20Introduced.pdf",
+      "doc_id": 3076233
+    }
+  ],
+  "committee": {
+    "committee_id": 784,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "Education"
+  },
+  "subjects": []
+}

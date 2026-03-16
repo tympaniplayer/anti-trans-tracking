@@ -1,0 +1,131 @@
+{
+  "id": 1897236,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB1655",
+  "title": "Relating to a policy prohibiting public school employees from assisting a student with social transitioning; authorizing a civil penalty; authorizing injunctive relief.",
+  "summary": "Relating to a policy prohibiting public school employees from assisting a student with social transitioning; authorizing a civil penalty; authorizing injunctive relief.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB1655/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB1655/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1655",
+  "sponsors": [
+    "Nate Schatzline (R) [Rep]",
+    "Cody Harris (R) [Rep]",
+    "Brad Buckley (R) [Rep]",
+    "Terry Wilson (R) [Rep]",
+    "Keresa Richardson (R) [Rep]"
+  ],
+  "introduced_date": "2024-12-18",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-12-18",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Referred to Public Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Considered in public hearing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Committee substitute considered in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Testimony taken/registration(s) recorded in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Left pending in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-09",
+      "action": "Considered in formal meeting",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-09",
+      "action": "Committee substitute considered in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-09",
+      "action": "Reported favorably as substituted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Comte report filed with Committee Coordinator",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Committee report distributed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Committee report sent to Calendars",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-12-18",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB01655I.htm",
+      "doc_id": 3034067
+    },
+    {
+      "date": "2025-05-13",
+      "type": "Comm Sub",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB01655H.htm",
+      "doc_id": 3235445
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Education",
+    "Education--Primary & Secondary",
+    "Education--Primary & Secondary--Charter Schools",
+    "Education--Primary & Secondary--Finance",
+    "Education--School Districts",
+    "State Finances",
+    "State Finances--Management & Control",
+    "GENDER IDENTITY & EXPRESSION",
+    "EDUCATION, COMMISSIONER OF",
+    "Civil Remedies & Liabilities",
+    "Education--Primary & Secondary--Other School Personnel"
+  ]
+}

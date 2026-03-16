@@ -1,0 +1,53 @@
+{
+  "id": 2122952,
+  "state": "CO",
+  "state_name": "Colorado",
+  "bill_number": "HB1292",
+  "title": "Scholarship Granting Organizations",
+  "summary": "Concerning requirements related to a federal tax program involving scholarship granting organizations, and, in connection therewith, establishing requirements for a school that receives funds from a scholarship granting organization.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CO/bill/HB1292/2026",
+  "legiscan_url": "https://legiscan.com/CO/bill/HB1292/2026",
+  "state_url": "https://leg.colorado.gov/bills/HB26-1292",
+  "sponsors": [
+    "Lori Goldstein (D) [Rep]",
+    "Cathy Kipp (D) [Sen]",
+    "Janice Marchman (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-23",
+      "action": "Introduced In House - Assigned to Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "1969-12-31",
+      "type": "Introduced",
+      "url": "https://leg.colorado.gov/bill_files/112527/download",
+      "doc_id": 3373407
+    }
+  ],
+  "committee": {
+    "committee_id": 904,
+    "chamber": "H",
+    "chamber_id": 21,
+    "name": "Education"
+  },
+  "subjects": [
+    "Education & School Finance (Pre & K-12)"
+  ]
+}

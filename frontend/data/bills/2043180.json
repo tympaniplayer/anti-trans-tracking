@@ -1,0 +1,58 @@
+{
+  "id": 2043180,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB2702",
+  "title": "Empower Parents to Protect their Kids Act of 2025",
+  "summary": "A bill to require local educational agencies, State educational agencies, and other governmental education entities to respect the rights of parents regarding gender transition, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB2702/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB2702/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2702/all-info",
+  "sponsors": [
+    "Jim Banks (R) [Sen]",
+    "Tom Cotton (R) [Sen]",
+    "Roger Marshall (R) [Sen]",
+    "Rick Scott (R) [Sen]",
+    "Tommy Tuberville (R) [Sen]",
+    "Marsha Blackburn (R) [Sen]",
+    "Josh Hawley (R) [Sen]",
+    "Ashley Moody (R) [Sen]"
+  ],
+  "introduced_date": "2025-09-03",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-09-03",
+      "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-09-08",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s2702/BILLS-119s2702is.pdf",
+      "doc_id": 3268274
+    }
+  ],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

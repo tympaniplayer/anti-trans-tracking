@@ -1,0 +1,243 @@
+{
+  "id": 2077593,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "SB258",
+  "title": "Virginia Human Rights Act; reasonable accommodation for known limitations related to menopause.",
+  "summary": "Virginia Human Rights Act; menopause or perimenopause; discrimination prohibited. Prohibits discrimination under the Virginia Human Rights Act on the basis of menopause or perimenopause for purposes of nondiscrimination in government programs, public accommodation, employment hiring, and reasonable employer accommodation.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/SB258/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/SB258/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/SB258",
+  "sponsors": [
+    "Stella Pekarsky (D) [Sen]",
+    "Angelia Williams Graves (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-26",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-12",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26103055D",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Referred to Committee on General Laws and Technology",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Reported from General Laws and Technology (9-Y 6-N)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Rules suspended",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Constitutional reading dispensed (on 1st reading) (39-Y 0-N 0-A)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Passed by for the day (Voice Vote)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Passed by for the day",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Read second time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Engrossed by Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Read third time and passed Senate (21-Y 18-N 0-A)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Placed on Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Referred to Committee on Health and Human Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (SB258)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Referred from Health and Human Services and referred to General Laws (Voice Vote)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Assigned HGL sub: Professions/Occupations and Administrative Process",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "House subcommittee offered",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Subcommittee recommends reporting with substitute (6-Y 2-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Reported from General Laws with substitute (15-Y 6-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Committee substitute printed 26108750D-H1",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Read second time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Read third time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "committee substitute agreed to",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Engrossed by House - committee substitute",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Passed House with substitute (63-Y 35-N 0-A)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "House substitute agreed to by Senate (21-Y 19-N 0-A)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (SB258)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-21",
+      "description": "Reported from General Laws and Technology (9-Y 6-N)",
+      "yea": 9,
+      "nay": 6,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-23",
+      "description": "Constitutional reading dispensed (on 1st reading) (39-Y 0-N 0-A)",
+      "yea": 39,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-27",
+      "description": "Read third time and passed Senate (21-Y 18-N 0-A)",
+      "yea": 21,
+      "nay": 18,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-26",
+      "description": "Subcommittee recommends reporting with substitute (6-Y 2-N)",
+      "yea": 6,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-03",
+      "description": "Reported from General Laws with substitute (15-Y 6-N)",
+      "yea": 15,
+      "nay": 6,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "Passed House with substitute (63-Y 35-N 0-A)",
+      "yea": 63,
+      "nay": 35,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-10",
+      "description": "House substitute agreed to by Senate",
+      "yea": 21,
+      "nay": 19,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-12",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB258/text/SB258",
+      "doc_id": 3314600
+    },
+    {
+      "date": "2026-02-26",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB258/text/SB258HC1",
+      "doc_id": 3378676
+    },
+    {
+      "date": "2026-02-27",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB258/text/SB258HC2",
+      "doc_id": 3379457
+    },
+    {
+      "date": "2026-03-03",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB258/text/SB258H1",
+      "doc_id": 3382781
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

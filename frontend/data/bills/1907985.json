@@ -1,0 +1,75 @@
+{
+  "id": 1907985,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5180",
+  "title": "Securing the rights of students to have a safe, civil, and respectful learning community.",
+  "summary": "Securing the rights of students to have a safe, civil, and respectful learning community.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5180/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5180/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5180&Year=2025&Initiative=false",
+  "sponsors": [
+    "Claire Wilson (D) [Sen]",
+    "Marko Liias (D) [Sen]",
+    "Manka Dhingra (D) [Sen]",
+    "John Lovick (D) [Sen]",
+    "T'wina Nobles (D) [Sen]",
+    "Tina Orwall (D) [Sen]",
+    "Jamie Pedersen (D) [Sen]",
+    "Rebecca Saldana (D) [Sen]",
+    "Derek Stanford (D) [Sen]",
+    "Yasmin Trudeau (D) [Sen]",
+    "Javier Valdez (D) [Sen]",
+    "Lisa Wellman (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-13",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "Prefiled for introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading, referred to Early Learning & K-12 Education.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Public hearing in the Senate Committee on Early Learning & K-12 Education at 8:00 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5180.pdf",
+      "doc_id": 3043682
+    }
+  ],
+  "committee": {
+    "committee_id": 949,
+    "chamber": "S",
+    "chamber_id": 98,
+    "name": "Early Learning & K-12 Education"
+  },
+  "subjects": []
+}

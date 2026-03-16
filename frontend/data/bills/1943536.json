@@ -1,0 +1,67 @@
+{
+  "id": 1943536,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB2138",
+  "title": "Relating to preventing discrimination in foster care.",
+  "summary": "Relating to preventing discrimination in foster care.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB2138/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB2138/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2138",
+  "sponsors": [
+    "Lauren Ashley Simmons (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-28",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-28",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Referred to Human Services",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-28",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB02138I.htm",
+      "doc_id": 3084988
+    }
+  ],
+  "committee": {
+    "committee_id": 1883,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Human Services"
+  },
+  "subjects": [
+    "Family",
+    "Family--Child Protection",
+    "DISCRIMINATION",
+    "FOSTER CARE",
+    "GENDER IDENTITY & EXPRESSION",
+    "FAMILY & PROTECTIVE SERVICES, DEPARTMENT OF",
+    "HEALTH & HUMAN SERVICES COMMISSION"
+  ]
+}

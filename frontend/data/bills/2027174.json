@@ -1,0 +1,101 @@
+{
+  "id": 2027174,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "HB249",
+  "title": "Enact the Indecent Exposure Modernization Act",
+  "summary": "To amend sections 2907.09, 2907.39, and 4301.25 of the Revised Code to enact the Indecent Exposure Modernization Act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/HB249/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/HB249/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/hb249",
+  "sponsors": [
+    "Angela King (R) [Rep]",
+    "Josh Williams (R) [Rep]",
+    "Tim Barhorst (R) [Rep]",
+    "Adam Bird (R) [Rep]",
+    "Thaddeus Claggett (R) [Rep]",
+    "Gary Click (R) [Rep]",
+    "Rodney Creech (R) [Rep]",
+    "Levi Dean (R) [Rep]",
+    "Kellie Deeter (R) [Rep]",
+    "Steve Demetriou (R) [Rep]",
+    "Ron Ferguson (R) [Rep]",
+    "Tex Fischer (R) [Rep]",
+    "Sarah Fowler Arthur (R) [Rep]",
+    "Jennifer Gross (R) [Rep]",
+    "Thomas Hall (R) [Rep]",
+    "Mark Hiner (R) [Rep]",
+    "Adam Holmes (R) [Rep]",
+    "James Hoops (R) [Rep]",
+    "Marilyn John (R) [Rep]",
+    "Mark Johnson (R) [Rep]",
+    "Roy Klopfenstein (R) [Rep]",
+    "Brian Lampton (R) [Rep]",
+    "Beth Lear (R) [Rep]",
+    "Brian Lorenz (R) [Rep]",
+    "Ty Mathews (R) [Rep]",
+    "Riordan McClain (R) [Rep]",
+    "Kevin Miller (R) [Rep]",
+    "Melanie Miller (R) [Rep]",
+    "Diane Mullins (R) [Rep]",
+    "Johnathan Newman (R) [Rep]",
+    "Bob Peterson (R) [Rep]",
+    "Justin Pizzulli (R) [Rep]",
+    "Phil Plummer (R) [Rep]",
+    "Tracy Richardson (R) [Rep]",
+    "Kevin Ritter (R) [Rep]",
+    "Monica Robb Blasdel (R) [Rep]",
+    "Jodi Salvo (R) [Rep]",
+    "Jean Schmidt (R) [Rep]",
+    "D. J. Swearingen (R) [Rep]",
+    "David Thomas (R) [Rep]",
+    "Jim Thomas (R) [Rep]",
+    "Bernard Willis (R) [Rep]",
+    "Heidi Workman (R) [Rep]"
+  ],
+  "introduced_date": "2025-04-29",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2025-04-29",
+      "action": "Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Referred to committee: Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb249/00_IN/pdf/",
+      "doc_id": 3224106
+    }
+  ],
+  "committee": {
+    "committee_id": 106,
+    "chamber": "H",
+    "chamber_id": 5,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crimes, Corrections, and Law Enforcement",
+    "Crimes, Corrections, and Law Enforcement : Crime and Punishment",
+    "Crimes, Corrections, and Law Enforcement : Sex Offenses",
+    "House Judiciary Committee"
+  ]
+}

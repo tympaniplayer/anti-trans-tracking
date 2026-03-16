@@ -1,0 +1,93 @@
+{
+  "id": 2073605,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB2468",
+  "title": "Correcting terminology to align the revised code of Washington with recent reorganization at the department of social and health services.",
+  "summary": "Correcting terminology to align the revised code of Washington with recent reorganization at the department of social and health services.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB2468/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB2468/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=2468&Year=2025&Initiative=false",
+  "sponsors": [
+    "Debra Lekanoff (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "First reading, referred to Early Learning & Human Services.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Public hearing in the House Committee on Early Learning & Human Services at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Executive action taken in the House Committee on Early Learning & Human Services at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "ELHS - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Referred to Rules 2 Review.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-14",
+      "action": "Rules Committee relieved of further consideration. Placed on second reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Returned to Rules Committee for second reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "House Rules \"X\" file.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-03",
+      "description": "House Committee on Early Learning & Human Services: 1st substitute bill be substituted, do pass",
+      "yea": 11,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2468.pdf",
+      "doc_id": 3310404
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2468-S.pdf",
+      "doc_id": 3348384
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,188 @@
+{
+  "id": 1935190,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S03003",
+  "title": "Makes appropriations for the support of government - Aid to Localities Budget.",
+  "summary": "Makes appropriations for the support of government - Aid to Localities Budget.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S03003/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S03003/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S3003",
+  "sponsors": [
+    "Budget [Sen]"
+  ],
+  "introduced_date": "2025-05-20",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-22",
+      "action": "REFERRED TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-21",
+      "action": "AMEND AND RECOMMIT TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-21",
+      "action": "PRINT NUMBER 3003A",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "AMEND AND RECOMMIT TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "PRINT NUMBER 3003B",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "AMEND AND RECOMMIT TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "PRINT NUMBER 3003C",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "AMEND AND RECOMMIT TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "PRINT NUMBER 3003D",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "ORDERED TO THIRD READING CAL.971",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "MESSAGE OF NECESSITY - 3 DAY MESSAGE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "referred to ways and means",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "substituted for a3003d",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "ordered to third reading rules cal.187",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "message of necessity - 3 day message",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "passed assembly",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "returned to senate",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "DELIVERED TO GOVERNOR",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "SIGNED CHAP.53",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "LINE VETO MEMO.1",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "THRU LINE VETO MEMO.24",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-08",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 44,
+      "nay": 18,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-08",
+      "description": "Assembly Floor Vote - Final Passage",
+      "yea": 104,
+      "nay": 45,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-08",
+      "description": "Senate Finance Committee Vote",
+      "yea": 16,
+      "nay": 6,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-21",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S03003&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S03003A",
+      "doc_id": 3136611
+    },
+    {
+      "date": "2025-01-21",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S03003&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S03003B",
+      "doc_id": 3164712
+    },
+    {
+      "date": "2025-01-21",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S03003&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S03003D",
+      "doc_id": 3232090
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

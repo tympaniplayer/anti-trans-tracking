@@ -1,0 +1,54 @@
+{
+  "id": 1902981,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A00768",
+  "title": "Enacts the \"New York artificial intelligence consumer protection act\", in relation to preventing the use of artificial intelligence algorithms to discriminate against protected classes.",
+  "summary": "Enacts the \"New York artificial intelligence consumer protection act\", in relation to preventing the use of artificial intelligence algorithms to discriminate against protected classes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A00768/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A00768/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A768",
+  "sponsors": [
+    "Alex Bores (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-08",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "referred to consumer affairs and protection",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to consumer affairs and protection",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A00768&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A00768",
+      "doc_id": 3039671
+    }
+  ],
+  "committee": {
+    "committee_id": 358,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Consumer Affairs and Protection"
+  },
+  "subjects": []
+}

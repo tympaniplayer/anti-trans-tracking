@@ -1,0 +1,84 @@
+{
+  "id": 1997210,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S2204",
+  "title": "Promoting equality and respect in the legislature",
+  "summary": "For legislation to promote equality and respect in the legislature. State Administration and Regulatory Oversight.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S2204/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S2204/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S2204",
+  "sponsors": [
+    "Rebecca Rausch (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on State Administration and Regulatory Oversight",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-17",
+      "action": "Hearing scheduled for 10/29/2025 from 10:30 AM-01:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-28",
+      "action": "Hearing scheduled for 10/29/2025 from 10:30 AM-11:45 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-28",
+      "action": "Hearing scheduled for 10/29/2025 from 10:30 AM-11:45 AM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-29",
+      "action": "Hearing rescheduled to 10/29/2025 from 10:30 AM-01:45 PM in A-2 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-29",
+      "action": "Hearing rescheduled to 10/29/2025 from 10:30 AM-01:10 PM in A-2 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-12-24",
+      "action": "Reporting date extended to Saturday January 31, 2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Accompanied a study order (under JR10), see S2986",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-10",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S2204.pdf",
+      "doc_id": 3162388
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": 2054875,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "HB1950",
+  "title": "Creates provisions relating to maternal care",
+  "summary": "Creates provisions relating to maternal care",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/HB1950/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/HB1950/2026",
+  "state_url": "https://house.mo.gov/Bill.aspx?bill=HB1950&year=2026&code=R",
+  "sponsors": [
+    "Lakeysha Bosley (D) [Rep]",
+    "Jeff Hales (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Prefiled (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Read First Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Read Second Time (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-02",
+      "type": "Introduced",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4878H.01I.pdf",
+      "doc_id": 3287625
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

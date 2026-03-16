@@ -1,0 +1,55 @@
+{
+  "id": 1993862,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB851",
+  "title": "GUARD Act Guaranteeing Unalienable and Anatomical Rights for Dependents Act",
+  "summary": "A bill to amend the Child Abuse Prevention and Treatment Act to disqualify any State that discriminates against parents or guardians who oppose medical, surgical, pharmacological, psychological treatment, or clothing and social changes related to affirming the subjective claims of gender identity expressed by any minor if such claimed identity is inconsistent with such minor's biological sex from receiving funding under such Act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB851/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB851/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/851/all-info",
+  "sponsors": [
+    "Jim Banks (R) [Sen]",
+    "Tom Cotton (R) [Sen]",
+    "Josh Hawley (R) [Sen]"
+  ],
+  "introduced_date": "2025-03-05",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-03-05",
+      "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-26",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s851/BILLS-119s851is.pdf",
+      "doc_id": 3190936
+    }
+  ],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": [
+    "Families"
+  ]
+}

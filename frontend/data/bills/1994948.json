@@ -1,0 +1,89 @@
+{
+  "id": 1994948,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "SB120",
+  "title": "School board policies related to changing a pupil\u2019s legal name and pronouns.",
+  "summary": "An Act to create 118.1255 of the statutes; Relating to: school board policies related to changing a pupil\u2019s legal name and pronouns.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/SB120/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/SB120/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb120",
+  "sponsors": [
+    "Andre Jacque (R) [Sen]",
+    "Cory Tomczyk (R) [Sen]",
+    "Barbara Dittrich (R) [Rep]",
+    "Elijah Behnke (R) [Rep]",
+    "Brent Jacobson (R) [Rep]",
+    "Rob Kreibich (R) [Rep]",
+    "Dave Maxey (R) [Rep]",
+    "Jerry O'Connor (R) [Rep]",
+    "Ron Tusler (R) [Rep]",
+    "Jeffrey Mursau (R) [Rep]",
+    "Joy Goeben (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-07",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-07",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-07",
+      "action": "Read first time and referred to Committee on Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Senate Amendment 1 offered by Senator Jacque",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-06",
+      "action": "Public hearing held",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-09",
+      "action": "Executive action taken",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-09",
+      "action": "Report adoption of Senate Amendment 1 recommended by Committee on Education, Ayes 3, Noes 2",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-09",
+      "action": "Report passage as amended recommended by Committee on Education, Ayes 3, Noes 2",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-09",
+      "action": "Available for scheduling",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-07",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/SB120.pdf",
+      "doc_id": 3158987
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

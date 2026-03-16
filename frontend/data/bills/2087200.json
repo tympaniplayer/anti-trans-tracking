@@ -1,0 +1,49 @@
+{
+  "id": 2087200,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "HB3022",
+  "title": "Modifies provisions governing Missouri empowerment scholarship accounts",
+  "summary": "Modifies provisions governing Missouri empowerment scholarship accounts",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/HB3022/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/HB3022/2026",
+  "state_url": "https://house.mo.gov/Bill.aspx?bill=HB3022&year=2026&code=R",
+  "sponsors": [
+    "Betsy Fogle (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-20",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-20",
+      "action": "Introduced and Read First Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Read Second Time (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-20",
+      "type": "Introduced",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5114H.01I.pdf",
+      "doc_id": 3324678
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

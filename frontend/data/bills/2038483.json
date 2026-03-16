@@ -1,0 +1,51 @@
+{
+  "id": 2038483,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB4213",
+  "title": "Department of Homeland Security Appropriations Act, 2026",
+  "summary": "Making appropriations for the Department of Homeland Security for the fiscal year ending September 30, 2026, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB4213/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB4213/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4213/all-info",
+  "sponsors": [
+    "Mark Amodei (R) [Rep]"
+  ],
+  "introduced_date": "2025-06-26",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-26",
+      "action": "The House Committee on Appropriations reported an original measure, H. Rept. 119-173, by Mr. Amodei (NV).",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Placed on the Union Calendar, Calendar No. 139.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-26",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr4213/BILLS-119hr4213rh.pdf",
+      "doc_id": 3259325
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Economics and public finance"
+  ]
+}

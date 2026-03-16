@@ -1,0 +1,56 @@
+{
+  "id": 2057401,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB2108",
+  "title": "Concerning the transfer of the juvenile justice functions.",
+  "summary": "Concerning the transfer of the juvenile justice functions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB2108/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB2108/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=2108&Year=2025&Initiative=false",
+  "sponsors": [
+    "Jim Walsh (R) [Rep]",
+    "Rob Chase (R) [Rep]",
+    "Jenny Graham (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-08",
+      "action": "Prefiled for introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "First reading, referred to Early Learning & Human Services.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2108.pdf",
+      "doc_id": 3288986
+    }
+  ],
+  "committee": {
+    "committee_id": 1713,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Early Learning & Human Services"
+  },
+  "subjects": []
+}

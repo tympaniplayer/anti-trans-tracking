@@ -1,0 +1,66 @@
+{
+  "id": 2103219,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB724",
+  "title": "Employment Discrimination - Caregiver Status",
+  "summary": "Prohibiting employment discrimination based on an individual's caregiver status.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB724/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB724/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0724?ys=2026RS",
+  "sponsors": [
+    "Lesley Lopez (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "First Reading Government, Labor, and Elections",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Hearing 2/19 at 1:00 p.m.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-02",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0724f.pdf",
+      "doc_id": 3344132
+    }
+  ],
+  "committee": {
+    "committee_id": 5240,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Government, Labor, and Elections"
+  },
+  "subjects": [
+    "Human Relations",
+    "Private Sector Labor and Industry",
+    "Advertising",
+    "Apprenticeships and Internships",
+    "Caregivers",
+    "Discrimination",
+    "Employment Agencies",
+    "Job Training",
+    "Notices",
+    "Unions",
+    "Work, Labor, and Employment"
+  ]
+}

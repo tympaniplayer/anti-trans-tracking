@@ -1,0 +1,75 @@
+{
+  "id": 2093176,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB2931",
+  "title": "Relating To Long-term Care.",
+  "summary": "Establishes the Hawaii CARES Fund Long-term Services and Supports Trust Program within the Department of Human Services to be implemented in collaboration with the Department of Labor and Industrial Relations and the Insurance Commissioner, provide eligible beneficiaries with a lifetime benefit for approved long-term services and supports funded through payroll-based premium assessed on wages, with exemptions and optional participation for self-employed persons and certain outofstate participants. Establishes a trust fund commission and council. Establishes premium assessment and collection requirements. Provides cancellation procedures under certain circumstances. Establishes a supplemental private coverage framework and consumer education requirements. Establishes the Hawaii CARES trust fund and investment requirements. Requires DHS, DLIR, and the Insurance Commissioner to adopt rules. Requires reports to the Legislature. Appropriates funds.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "religious_exemptions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB2931/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB2931/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2931&year=2026",
+  "sponsors": [
+    "Angus McKelvey (D) [Sen]",
+    "Stanley Chang (D) [Sen]",
+    "Troy Hashimoto (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "Referred to HHS/LBT, WAM/CPN.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-24",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB2931_.HTM",
+      "doc_id": 3331790
+    }
+  ],
+  "committee": {
+    "committee_id": 4751,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Health and Human Services"
+  },
+  "subjects": [
+    "DHS",
+    "DLIR",
+    "Insurance Commissioner",
+    "Hawaii CARES Fund Long-Term Services and Supports Trust Program",
+    "Payroll Premium",
+    "Benefit Units",
+    "Exemptions",
+    "Out-of-State Participants",
+    "Supplemental Insurance",
+    "Consumer Education",
+    "Reports",
+    "Rules",
+    "Appropriation ($)"
+  ]
+}

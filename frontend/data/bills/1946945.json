@@ -1,0 +1,83 @@
+{
+  "id": 1946945,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB983",
+  "title": "Relating to local school health advisory councils and instruction regarding human sexuality, sexual orientation, and gender identity provided by public schools.",
+  "summary": "Relating to local school health advisory councils and instruction regarding human sexuality, sexual orientation, and gender identity provided by public schools.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB983/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB983/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB983",
+  "sponsors": [
+    "Bryan Hughes (R) [Sen]",
+    "Kevin Sparks (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-29",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-29",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-29",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Referred to Education K-16",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Co-author authorized",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-29",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00983I.htm",
+      "doc_id": 3089551
+    }
+  ],
+  "committee": {
+    "committee_id": 5056,
+    "chamber": "S",
+    "chamber_id": 92,
+    "name": "Education K-16"
+  },
+  "subjects": [
+    "Courts",
+    "Courts--Prosecuting Attorneys",
+    "Education",
+    "Education--Primary & Secondary",
+    "Education--Primary & Secondary--Curriculum",
+    "Education--Primary & Secondary--Other School Personnel",
+    "Education--Primary & Secondary--Teachers",
+    "Electronic Information Systems",
+    "GENDER IDENTITY & EXPRESSION",
+    "SEX EDUCATION",
+    "ATTORNEY GENERAL",
+    "SEXUAL ORIENTATION"
+  ]
+}

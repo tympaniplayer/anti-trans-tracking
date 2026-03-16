@@ -1,0 +1,85 @@
+{
+  "id": 2084887,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB2051",
+  "title": "Relating To Insurance.",
+  "summary": "Removes discriminatory requirements for mandatory insurance coverage of in vitro fertilization procedures to create parity of coverage for same-sex couples, unmarried individuals, transgender persons, and opposite-sex couples for whom male infertility is the relevant factor. Requires the insured or the insured's dependent spouse to have a history of infertility of at least six months' duration, rather than five years. Includes need for medical intervention to conceive due to physiological or anatomical factors.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB2051/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB2051/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2051&year=2026",
+  "sponsors": [
+    "Jarrett Keohokalole (D) [Sen]",
+    "Stanley Chang (D) [Sen]",
+    "Carol Fukunaga (D) [Sen]",
+    "Troy Hashimoto (D) [Sen]",
+    "Michelle Kidani (D) [Sen]",
+    "Tim Richards (D) [Sen]",
+    "Joy San Buenaventura (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-21",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Pending Introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Introduced and passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Referred to HHS, CPN.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "The committee(s) on HHS has scheduled a public hearing on 01-30-26 3:00PM; Conference Room 224 &amp; Videoconference.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "The committee on HHS deferred the measure.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB2051_.HTM",
+      "doc_id": 3322115
+    }
+  ],
+  "committee": {
+    "committee_id": 4751,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Health and Human Services"
+  },
+  "subjects": [
+    "Health Insurance",
+    "In Vitro Fertilization",
+    "Mandatory Insurance Coverage",
+    "Infertility",
+    "Same-Sex Couples",
+    "Unmarried Individuals",
+    "Transgender Persons",
+    "Male Infertility",
+    "Parity"
+  ]
+}

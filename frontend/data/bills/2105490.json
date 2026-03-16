@@ -1,0 +1,169 @@
+{
+  "id": 2105490,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "HB2498",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 71, Chapter 5, relative to TennCare.",
+  "summary": "As introduced, prohibits the division from providing coverage or reimbursement for a medical procedure performed on, or administered to, an individual if the performance or administration of the procedure is for the purpose of enabling the individual to identify with, or live as, a purported identity inconsistent with the individual's sex, or treat purported discomfort or distress from a discordance between the individual's sex and asserted identity. - Amends TCA Title 71, Chapter 5.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "healthcare",
+    "drag"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/HB2498/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/HB2498/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB2498&ga=114",
+  "sponsors": [
+    "Kip Capley (R) [Rep]",
+    "Rusty Grills (R) [Rep]",
+    "Mark Cochran (R) [Rep]",
+    "Clay Doggett (R) [Rep]",
+    "Tom Stinnett (R) [Rep]",
+    "Bryan Terry (R) [Rep]",
+    "Debra Moody (R) [Rep]",
+    "Dan Howell (R) [Rep]",
+    "Mary Littleton (R) [Rep]",
+    "Jay Reedy (R) [Rep]",
+    "David Hawk (R) [Rep]"
+  ],
+  "introduced_date": "2026-03-12",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-03",
+      "action": "Filed for introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Intro., P1C.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "P2C, ref. to Insurance Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Assigned to s/c Tenncare Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Placed on s/c cal Tenncare Subcommittee for 2/17/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Rec. for pass by s/c ref. to Insurance Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Sponsor(s) Added.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Placed on cal. Insurance Committee for 3/3/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Sponsor(s) Added.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Rec. for pass; ref to Calendar & Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Sponsor(s) Added.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Placed on cal. Calendar & Rules Committee for 3/5/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "H. Placed on Consent Calendar for 3/9/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Sponsor(s) Added.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Objected to on Consent Calendar.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "H. Placed on Regular Calendar for 3/12/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Passed H., Ayes 73, Nays 14, PNV 0",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Sponsor(s) Added.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Engrossed; ready for transmission to Sen.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-17",
+      "description": "HOUSE TENNCARE SUBCOMMITTEE: Rec. for pass by s/c ref. to Insurance Committee",
+      "yea": 5,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-03",
+      "description": "HOUSE INSURANCE COMMITTEE: Rec. for pass; ref to Calendar & Rules Committee",
+      "yea": 14,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-12",
+      "description": "FLOOR VOTE: REGULAR CALENDAR PASSAGE ON THIRD CONSIDERATION",
+      "yea": 73,
+      "nay": 14,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-02-03",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB2498.pdf",
+      "doc_id": 3345789
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "TennCare"
+  ]
+}

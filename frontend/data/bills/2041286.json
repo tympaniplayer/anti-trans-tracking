@@ -1,0 +1,68 @@
+{
+  "id": 2041286,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB2671",
+  "title": "Reproductive Rights Are Human Rights Act of 2025",
+  "summary": "A bill to amend the Foreign Assistance Act of 1961 to require a section on reproductive rights in the Annual Country Reports on Human Rights Practices, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB2671/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB2671/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2671/all-info",
+  "sponsors": [
+    "Brian Schatz (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "Jeanne Shaheen (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Amy Klobuchar (D) [Sen]",
+    "Kirsten Gillibrand (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Jacky Rosen (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Patty Murray (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Adam Schiff (D) [Sen]"
+  ],
+  "introduced_date": "2025-08-01",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-08-01",
+      "action": "Read twice and referred to the Committee on Foreign Relations.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-08-12",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s2671/BILLS-119s2671is.pdf",
+      "doc_id": 3264871
+    }
+  ],
+  "committee": {
+    "committee_id": 2327,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Foreign Relations"
+  },
+  "subjects": [
+    "International affairs"
+  ]
+}

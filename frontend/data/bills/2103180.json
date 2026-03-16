@@ -1,0 +1,88 @@
+{
+  "id": 2103180,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB679",
+  "title": "Health Occupations - Cross-Sex Hormone Therapy for Minors",
+  "summary": "Prohibiting a licensed health care practitioner from prescribing, dispensing, or administering a cross-sex hormone or otherwise providing cross-sex hormone therapy for the treatment of a mental health diagnoses associated with gender nonconformity, including gender dysphoria, to an individual who is a minor.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB679/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB679/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0679?ys=2026RS",
+  "sponsors": [
+    "Lauren Arikan (R) [Rep]",
+    "Christopher Adams (R) [Rep]",
+    "Kevin Anderson (R) [Rep]",
+    "Barry Beauchamp (R) [Rep]",
+    "Brian Chisholm (R) [Rep]",
+    "Mark Fisher (R) [Rep]",
+    "Robin Grammer (R) [Rep]",
+    "Nicholaus Kipke (R) [Rep]",
+    "Matt Morgan (R) [Rep]",
+    "Ryan Nawrocki (R) [Rep]",
+    "Sheree Sample-Hughes (D) [Rep]",
+    "Kathy Szeliga (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "First Reading Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Hearing 2/18 at 1:00 p.m.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Hearing canceled",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Hearing 2/18 at 1:30 p.m.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-02",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0679f.pdf",
+      "doc_id": 3343685
+    }
+  ],
+  "committee": {
+    "committee_id": 5241,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Health"
+  },
+  "subjects": [
+    "Health Occupations",
+    "Crimes and Punishments",
+    "Gender",
+    "Gender Identity and Expression",
+    "LGBTQIA+",
+    "Licenses",
+    "Medical Treatments",
+    "Mental and Behavioral Health",
+    "Minors",
+    "Penalties and Sentences",
+    "Rules and Regulations"
+  ]
+}

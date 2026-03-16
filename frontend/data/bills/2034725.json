@@ -1,0 +1,85 @@
+{
+  "id": 2034725,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "K00632",
+  "title": "Memorializing Governor Kathy Hochul to proclaim June 2025, as Gay Pride Month in the State of New York",
+  "summary": "Memorializing Governor Kathy Hochul to proclaim June 2025, as Gay Pride Month in the State of New York",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/K00632/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/K00632/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/K632",
+  "sponsors": [
+    "Deborah Glick (D) [Rep]",
+    "George Alvarez (D) [Rep]",
+    "Didi Barrett (D) [Rep]",
+    "Rodneyse Bichotte Hermelyn (D) [Rep]",
+    "Edward Braunstein (D) [Rep]",
+    "Harry Bronson (D) [Rep]",
+    "Christopher Burdick (D) [Rep]",
+    "Marianne Buttenschon (D) [Rep]",
+    "Patrick Carroll (D) [Rep]",
+    "Maritza Davila (D) [Rep]",
+    "Jeffrey Dinowitz (D) [Rep]",
+    "Harvey Epstein (D) [Rep]",
+    "Emily Gallagher (D) [Rep]",
+    "Judy Griffin (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Pamela Hunter (D) [Rep]",
+    "Rebecca Kassay (D) [Rep]",
+    "Paula Kay (D) [Rep]",
+    "Grace Lee (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Jennifer Lunsford (D) [Rep]",
+    "Donna Lupardo (D) [Rep]",
+    "John McDonald (D) [Rep]",
+    "Karen McMahon (D) [Rep]",
+    "Amy Paulin (D) [Rep]",
+    "Stacey Pheffer Amato (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "Gabriella Romero (D) [Rep]",
+    "Linda Rosenthal (D) [Rep]",
+    "Angelo Santabarbara (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Maryjane Shimsky (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Tony Simone (D) [Rep]",
+    "Michaelle Solages (D) [Rep]",
+    "Claire Valdez (D) [Rep]",
+    "David Weprin (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-04",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-30",
+      "action": "referred to calendar",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "adopted",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "1969-06-28",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=K00632&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#K00632",
+      "doc_id": 3248580
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,87 @@
+{
+  "id": 1965255,
+  "state": "IA",
+  "state_name": "Iowa",
+  "bill_number": "HSB155",
+  "title": "A bill for an act prohibiting state entities from expending moneys to fund diversity, equity, and inclusion offices or to hire individuals to serve as diversity, equity, and inclusion officers, creating a private cause of action, and including effective date provisions.(See HF 856.)",
+  "summary": "A bill for an act prohibiting state entities from expending moneys to fund diversity, equity, and inclusion offices or to hire individuals to serve as diversity, equity, and inclusion officers, creating a private cause of action, and including effective date provisions.(See HF 856.)",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IA/bill/HSB155/2025",
+  "legiscan_url": "https://legiscan.com/IA/bill/HSB155/2025",
+  "state_url": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HSB155",
+  "sponsors": [
+    "Education [Rep]"
+  ],
+  "introduced_date": "2025-02-11",
+  "session": "91st General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-11",
+      "action": "By COMMITTEE ON EDUCATION",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "Introduced, referred to Education. H.J. 288.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "Subcommittee: Stone, Gehlbach and Madison. H.J. 293.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Subcommittee Meeting: 02/18/2025 12:00PM RM 304.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Subcommittee recommends passage.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Committee report, recommending amendment and passage. H.J. 467.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Committe vote: Yeas, 16. Nays, 7. H.J. 467.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-07",
+      "action": "Committee report approving bill, renumbered as HF 856.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-27",
+      "description": "House Committee On Education Report",
+      "yea": 16,
+      "nay": 7,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-11",
+      "type": "Introduced",
+      "url": "https://www.legis.iowa.gov/docs/publications/LGI/91/attachments/HSB155.html",
+      "doc_id": 3113030
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

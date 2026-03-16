@@ -1,0 +1,53 @@
+{
+  "id": 1999593,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "S0112",
+  "title": "An act relating to amending a death certificate to reflect gender identity",
+  "summary": "An act relating to amending a death certificate to reflect gender identity",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/S0112/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/S0112/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/S.112",
+  "sponsors": [
+    "Ruth Hardy (D) [Sen]",
+    "Alison Clarkson (D) [Sen]",
+    "Martine Gulick (D) [Sen]",
+    "Tanya Vyhovsky (D) [Sen]",
+    "Rebecca White (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-11",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-03-11",
+      "action": "Read 1st time & referred to Committee on Health and Welfare",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-10",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0112/S-0112%20As%20Introduced.pdf",
+      "doc_id": 3164906
+    }
+  ],
+  "committee": {
+    "committee_id": 800,
+    "chamber": "S",
+    "chamber_id": 96,
+    "name": "Health and Welfare"
+  },
+  "subjects": []
+}

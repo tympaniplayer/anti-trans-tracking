@@ -1,0 +1,93 @@
+{
+  "id": 2055243,
+  "state": "NH",
+  "state_name": "New Hampshire",
+  "bill_number": "HB1376",
+  "title": "Relative to a parent's ability to raise their child in a manner consistent with the child's biological sex.",
+  "summary": "Relative to a parent's ability to raise their child in a manner consistent with the child's biological sex.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NH/bill/HB1376/2026",
+  "legiscan_url": "https://legiscan.com/NH/bill/HB1376/2026",
+  "state_url": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=3035&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1376",
+  "sponsors": [
+    "Lori Korzen (R) [Rep]",
+    "Steven Kesselring (R) [Rep]",
+    "Melissa Litchfield (R) [Rep]",
+    "Lisa Mazur (R) [Rep]",
+    "Katherine Prudhomme-O'Brien (R) [Rep]",
+    "Sherri Reinfurt (R) [Rep]",
+    "Matt Sabourin (R) [Rep]",
+    "Shane Sirois (R) [Rep]",
+    "James Thibault (R) [Rep]",
+    "Keith Murphy (R) [Sen]",
+    "Kevin Avard (R) [Sen]"
+  ],
+  "introduced_date": "2025-12-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-02",
+      "action": "Introduced 01/07/2026 and referred to Children and Family Law",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Public Hearing: 02/10/2026 01:00 pm GP 230",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Executive Session: 02/10/2026 01:00 pm GP 230",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Majority Committee Report: Ought to Pass with Amendment # 2026-0865h 03/03/2026 (Vote 9-7; Regular Calendar)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Minority Committee Report: Inexpedient to Legislate",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Amendment # 2026-0865h: Amendment Adopted Voice Vote 03/11/2026 House Journal  7",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Ought to Pass with Amendment 2026-0865h: Motion Adopted Regular Calendar 171-143 03/11/2026 House Journal  7",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-11",
+      "description": "OTPA",
+      "yea": 171,
+      "nay": 143,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&id=2247&txtFormat=html",
+      "doc_id": 3287782
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

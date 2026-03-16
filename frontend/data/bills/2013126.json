@@ -1,0 +1,62 @@
+{
+  "id": 2013126,
+  "state": "DE",
+  "state_name": "Delaware",
+  "bill_number": "SB78",
+  "title": "An Act To Amend Title 14 Of The Delaware Code Relating To Discrimination.",
+  "summary": "An Act To Amend Title 14 Of The Delaware Code Relating To Discrimination.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DE/bill/SB78/2025",
+  "legiscan_url": "https://legiscan.com/DE/bill/SB78/2025",
+  "state_url": "https://legis.delaware.gov/BillDetail?LegislationId=141984",
+  "sponsors": [
+    "Laura Sturgeon (D) [Sen]",
+    "Cyndie Romer (D) [Rep]",
+    "Claire Snyder-Hall (D) [Rep]",
+    "Eric Morrison (D) [Rep]",
+    "Elizabeth Lockman (D) [Sen]",
+    "Marie Pinkney (D) [Sen]",
+    "David Sokola (D) [Sen]",
+    "Mara Gorman (D) [Rep]",
+    "DeShanna Neal (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-24",
+  "session": "153rd General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-24",
+      "action": "Introduced and Assigned to Education Committee in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Reported Out of Committee (Education) in Senate with 3 Favorable, 2 On Its Merits",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Stricken in Senate",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Draft",
+      "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=141984&legislationTypeId=1&docTypeId=2&legislationName=SB78",
+      "doc_id": 3185922
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

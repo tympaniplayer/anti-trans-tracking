@@ -1,0 +1,79 @@
+{
+  "id": 2077794,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "HB962",
+  "title": "Employer seeking wage or salary history of prospective employees; prohibited, etc.",
+  "summary": "Labor and employment; nondiscrimination; prohibiting employer seeking wage or salary history of prospective employees; wage or salary range transparency; predictive scheduling for large employers; causes of action; civil penalties. Prohibits an employer, labor organization, employment agency, or joint apprenticeship committee controlling an apprenticeship or other training program to discriminate based on an individual's name or address, if the individual's name or address are used as a proxy for race, color, religion, sex, sexual orientation, gender identity, marital status, pregnancy, childbirth or related medical conditions, age, military status, disability, or ethnic or national origin. Additionally, the bill prohibits a prospective employer from (i) seeking the wage or salary history of a prospective employee; (ii) relying on the wage or salary history of a prospective employee in determining the wages or salary the prospective employee is to be paid upon hire; (iii) relying on the wage or salary history of a prospective employee in considering the prospective employee for employment; (iv) refusing to interview, hire, employ, or promote a prospective employee or otherwise retaliating against a prospective employee for not providing wage or salary history; and (v) failing or refusing to disclose in each public and internal posting for each job, promotion, transfer, or other employment opportunity the wage, salary, or wage or salary range. The bill establishes a cause of action for an aggrieved prospective employee or employee and provides that an employer that violates such prohibitions is liable to the aggrieved prospective employee or employee for statutory damages between $1,000 and $10,000 or actual damages, whichever is greater, reasonable attorney fees and costs, and any other legal and equitable relief as may be appropriate. The bill also requires an employer that is a retail establishment, hospitality establishment, or a food services establishment, including a chain or integrated enterprise, employing 500 or more employees worldwide to provide a written good faith estimate of each new employee's work schedule at the time of hire, to provide 14 days' advanced notice of an employee's work schedule, and to compensate employees for certain employer-requested changes that occur to an employee's work schedule without such advanced notice. The bill prohibits such an employer from scheduling or requiring an employee to work during certain required rest periods and from retaliating against an employee for inquiring about or seeking enforcement of the bill's provisions. The bill permits an employee who is unlawfully discharged, disciplined, threatened, discriminated against, or penalized in violation of its provisions to bring a civil action for certain enumerated remedies. Additionally, the bill subjects an employer who violates any of its provisions to certain civil penalties.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education",
+    "religious_exemptions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/HB962/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/HB962/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/HB962",
+  "sponsors": [
+    "Leslie Chambers Mehta (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26105399D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Referred to Committee on Labor and Commerce",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (HB962)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Subcommittee recommends striking from the docket (7-Y 0-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Left in Labor and Commerce",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-12",
+      "description": "Subcommittee recommends striking from the docket (7-Y 0-N)",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-13",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB962/text/HB962",
+      "doc_id": 3314798
+    }
+  ],
+  "committee": {
+    "committee_id": 4178,
+    "chamber": "H",
+    "chamber_id": 7,
+    "name": "Labor and Commerce"
+  },
+  "subjects": []
+}

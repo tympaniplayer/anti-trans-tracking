@@ -1,0 +1,62 @@
+{
+  "id": 2032318,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF3531",
+  "title": "An amendment providing for equal rights under the law and prohibiting discrimination based on the listed characteristics",
+  "summary": "An amendment providing for equal rights under the law and prohibiting discrimination based on the listed characteristics",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF3531/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF3531/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3531/",
+  "sponsors": [
+    "Bonnie Westlin (D) [Sen]",
+    "Ann Johnson Stewart (D) [Sen]",
+    "Susan Pha (D) [Sen]",
+    "Liz Boldon (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-17",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-05-17",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-17",
+      "action": "Referred to Judiciary and Public Safety",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-18",
+      "action": "Author added Boldon",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-16",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3531/versions/0/pdf/",
+      "doc_id": 3239609
+    }
+  ],
+  "committee": {
+    "committee_id": 1748,
+    "chamber": "S",
+    "chamber_id": 56,
+    "name": "Judiciary and Public Safety"
+  },
+  "subjects": []
+}

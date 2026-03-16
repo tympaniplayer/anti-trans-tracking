@@ -1,0 +1,62 @@
+{
+  "id": 1984284,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "SB113",
+  "title": "Prohibit diversity, equity, and inclusion in public schools",
+  "summary": "To amend sections 3314.03, 3326.11, and 3328.24 and to enact section 3313.475 of the Revised Code to prohibit diversity, equity, and inclusion in public schools.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/SB113/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/SB113/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/sb113",
+  "sponsors": [
+    "Andrew Brenner (R) [Sen]",
+    "Jerry Cirino (R) [Sen]",
+    "Sandra O'Brien (R) [Sen]",
+    "Timothy Schaffer (R) [Sen]",
+    "Shane Wilkin (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-25",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-25",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Referred to committee: Education",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb113/00_IN/pdf/",
+      "doc_id": 3142281
+    }
+  ],
+  "committee": {
+    "committee_id": 114,
+    "chamber": "S",
+    "chamber_id": 6,
+    "name": "Education"
+  },
+  "subjects": [
+    "Education",
+    "Education : Primary and Secondary Education",
+    "Senate Education Committee"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": 2125542,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "HB3509",
+  "title": "Prohibits certain mental health professionals from engaging in conversion therapy with minors",
+  "summary": "Prohibits certain mental health professionals from engaging in conversion therapy with minors",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/HB3509/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/HB3509/2026",
+  "state_url": "https://house.mo.gov/Bill.aspx?bill=HB3509&year=2026&code=R",
+  "sponsors": [
+    "Keri Ingle (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-26",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "action": "Introduced and Read First Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Read Second Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Referred: Special Committee on Intergovernmental Affairs(H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-26",
+      "type": "Introduced",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/5275H.01I.pdf",
+      "doc_id": 3378990
+    }
+  ],
+  "committee": {
+    "committee_id": 5046,
+    "chamber": "H",
+    "chamber_id": 59,
+    "name": "Special Committee on Intergovernmental Affairs"
+  },
+  "subjects": []
+}

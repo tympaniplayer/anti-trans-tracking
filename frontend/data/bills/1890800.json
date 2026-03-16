@@ -1,0 +1,88 @@
+{
+  "id": 1890800,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB86",
+  "title": "Relating to parental rights in public education and prohibiting instruction regarding sexual orientation or gender identity for public school students.",
+  "summary": "Relating to parental rights in public education and prohibiting instruction regarding sexual orientation or gender identity for public school students.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB86/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB86/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB86",
+  "sponsors": [
+    "Bob Hall (R) [Sen]",
+    "Kevin Sparks (R) [Sen]"
+  ],
+  "introduced_date": "2024-11-12",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-12",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2024-11-12",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Referred to Education K-16",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Co-author authorized",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-11-12",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00086I.htm",
+      "doc_id": 3026513
+    }
+  ],
+  "committee": {
+    "committee_id": 5056,
+    "chamber": "S",
+    "chamber_id": 92,
+    "name": "Education K-16"
+  },
+  "subjects": [
+    "Civil Remedies & Liabilities",
+    "Education",
+    "Education--Primary & Secondary",
+    "Education--Primary & Secondary--Curriculum",
+    "Education--Primary & Secondary--Extracurricular Activities",
+    "Education--Primary & Secondary--Other School Personnel",
+    "Education--Primary & Secondary--Teachers",
+    "Education--School Districts",
+    "Mental Health & Substance Abuse",
+    "GENDER IDENTITY & EXPRESSION",
+    "GRIEVANCE PROCEDURES",
+    "PARENTAL CONSENT",
+    "PARENTAL NOTIFICATION",
+    "PARENTAL RIGHTS",
+    "EDUCATION, STATE BOARD OF",
+    "EDUCATOR CERTIFICATION, STATE BOARD FOR",
+    "SEXUAL ORIENTATION"
+  ]
+}

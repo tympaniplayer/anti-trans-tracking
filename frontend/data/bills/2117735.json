@@ -1,0 +1,55 @@
+{
+  "id": 2117735,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "HF3376",
+  "title": "Prohibition on conversion therapy with minors and vulnerable adults repealed.",
+  "summary": "Prohibition on conversion therapy with minors and vulnerable adults repealed.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/HF3376/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/HF3376/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3376/",
+  "sponsors": [
+    "Drew Roach (R) [Rep]",
+    "Jimmy Gordon (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-17",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2026-02-17",
+      "action": "Introduction and first reading, referred to Health Finance and Policy",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Author added Gordon",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-10",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3376/versions/0/pdf/",
+      "doc_id": 3364121
+    }
+  ],
+  "committee": {
+    "committee_id": 4302,
+    "chamber": "H",
+    "chamber_id": 55,
+    "name": "Health Finance & Policy"
+  },
+  "subjects": []
+}

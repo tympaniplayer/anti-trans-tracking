@@ -1,0 +1,69 @@
+{
+  "id": 2092601,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A4015",
+  "title": "\"New Jersey Kids Code Act\", adopts Age-Appropriate Design Code for New Jersey and requires certain online services to implement certain measures concerning minors' use of online service.",
+  "summary": "\"New Jersey Kids Code Act\", adopts Age-Appropriate Design Code for New Jersey and requires certain online services to implement certain measures concerning minors' use of online service.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A4015/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A4015/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A4015",
+  "sponsors": [
+    "Andrea Katz (D) [Rep]",
+    "Marisa Sweeney (D) [Rep]",
+    "Luanne Peterpaul (D) [Rep]",
+    "Robert Karabinchak (D) [Rep]",
+    "Carmen Morales (D) [Rep]",
+    "Vincent Kearney (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "Introduced, Referred to Assembly Science, Innovation and Technology Committee",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Reported and Referred to Assembly Appropriations Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-19",
+      "description": "Assembly Science, Innovation and Technology Committee: Reported Favorably",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-02-10",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A4500/4015_I1.HTM",
+      "doc_id": 3355880
+    }
+  ],
+  "committee": {
+    "committee_id": 849,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Appropriations"
+  },
+  "subjects": [
+    "Appropriations"
+  ]
+}

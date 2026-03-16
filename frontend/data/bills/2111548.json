@@ -1,0 +1,59 @@
+{
+  "id": 2111548,
+  "state": "OR",
+  "state_name": "Oregon",
+  "bill_number": "SCR208",
+  "title": "Amending Legislative Branch Personnel Rule 27 and adopting Legislative Branch Personnel Rule 27-C.",
+  "summary": "The measure makes changes to LBPR 27 to streamline processes and make the role of the investigator uniform. Says the LEO may help parties to agree as a way to resolve matters. Limits records to be made public to the final report. Defines terms and makes other changes. (Flesch Readability Score: 65.9). Modifies Legislative Branch Personnel Rule 27 to combine conduct report and conduct complaint processes into a single process. Provides that only the final investigative report is disclosable to the public, under certain conditions. Authorizes the Legislative Equity Officer to seek a voluntary resolution of investigations. Permits participating impacted parties to withdraw allegations under certain circumstances. Authorizes the officer to continue investigations even without the participation of any impacted party if evidence supports continuing the investigation. Establishes definitions of \"legislative business\" and \"workplace\" for determining application of the rule. Modifies other definitions and makes the role of investigator the same without regard to impacted parties or respondents. Applies to conduct reports and complaint statements made on or after the date of the adoption of the concurrent resolution, and to investigations of those reports and statements.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OR/bill/SCR208/2026",
+  "legiscan_url": "https://legiscan.com/OR/bill/SCR208/2026",
+  "state_url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SCR208",
+  "sponsors": [
+    "Conduct [Sen]"
+  ],
+  "introduced_date": "2026-03-06",
+  "session": "2026 Legislative Measures",
+  "actions": [
+    {
+      "date": "2026-02-09",
+      "action": "Introduction and first reading. Referred to President's desk.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Referred to Conduct.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Public Hearing held.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "In committee upon adjournment.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SCR208/Introduced",
+      "doc_id": 3352533
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

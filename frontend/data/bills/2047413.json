@@ -1,0 +1,113 @@
+{
+  "id": 2047413,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "AJR108",
+  "title": "Equality of rights on the basis of sex, gender identity, race, color, sexual orientation, disability, religion, national origin, marital status, family status, age, ancestry, or any other immutable characteristic and creating a private cause of action for violations of those rights by state actors (first consideration).",
+  "summary": "To create section 27 of article I of the constitution; Relating to: equality of rights on the basis of sex, gender identity, race, color, sexual orientation, disability, religion, national origin, marital status, family status, age, ancestry, or any other immutable characteristic and creating a private cause of action for violations of those rights by state actors (first consideration).",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/AJR108/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/AJR108/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/joint_resolution/ajr108",
+  "sponsors": [
+    "Brienne Brown (D) [Rep]",
+    "Lori Palmeri (D) [Rep]",
+    "Lee Snodgrass (D) [Rep]",
+    "Lisa Subeck (D) [Rep]",
+    "Tip McGuire (D) [Rep]",
+    "Clinton Anderson (D) [Rep]",
+    "Deb Andraca (D) [Rep]",
+    "Margaret Arney (D) [Rep]",
+    "Mike Bare (D) [Rep]",
+    "Ryan Clancy (D) [Rep]",
+    "Angelina Cruz (D) [Rep]",
+    "Ben DeSmidt (D) [Rep]",
+    "Jodi Emerson (D) [Rep]",
+    "Joan Fitzgerald (D) [Rep]",
+    "Andrew Hysell (D) [Rep]",
+    "Francesca Hong (D) [Rep]",
+    "Alex Joers (D) [Rep]",
+    "Tara Johnson (D) [Rep]",
+    "Karen Kirsch (D) [Rep]",
+    "Darrin Madison (D) [Rep]",
+    "Renuka Mayadev (D) [Rep]",
+    "Maureen McCarville (D) [Rep]",
+    "Vinnie Miresse (D) [Rep]",
+    "Supreme Omokunde (D) [Rep]",
+    "Greta Neubauer (D) [Rep]",
+    "Christian Phelps (D) [Rep]",
+    "Pricilla Prado (D) [Rep]",
+    "Amaad Rivera-Wagner (D) [Rep]",
+    "Ann Roe (D) [Rep]",
+    "Joe Sheehan (D) [Rep]",
+    "Christine Sinicki (D) [Rep]",
+    "Ryan Spaude (D) [Rep]",
+    "Angela Stroud (D) [Rep]",
+    "Shelia Stubbs (D) [Rep]",
+    "Sequanna Taylor (D) [Rep]",
+    "Angelito Tenorio (D) [Rep]",
+    "Randy Udell (D) [Rep]",
+    "Robyn Vining (D) [Rep]",
+    "LaTonya Johnson (D) [Sen]",
+    "Timothy Carpenter (D) [Sen]",
+    "Kristin Dassler-Alfheim (D) [Sen]",
+    "Dora Drake (D) [Sen]",
+    "Jodi Habush Sinykin (D) [Sen]",
+    "Christopher Larson (D) [Sen]",
+    "Melissa Ratcliff (D) [Sen]",
+    "Kelda Roys (D) [Sen]",
+    "Mark Spreitzer (D) [Sen]",
+    "Jamie Wall (D) [Sen]",
+    "Robert Wirch (D) [Sen]",
+    "Sarah Keyeski (D) [Sen]"
+  ],
+  "introduced_date": "2025-10-24",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-10-24",
+      "action": "Introduced",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-10-24",
+      "action": "Read first time and referred to Committee on State Affairs",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-11-12",
+      "action": "Senator Hesselbein added as a cosponsor",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Representative J. Jacobson added as a coauthor",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-24",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AJR108.pdf",
+      "doc_id": 3274684
+    }
+  ],
+  "committee": {
+    "committee_id": 3000,
+    "chamber": "A",
+    "chamber_id": 99,
+    "name": "State Affairs"
+  },
+  "subjects": []
+}

@@ -1,0 +1,146 @@
+{
+  "id": 2081209,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "HB3586",
+  "title": "Children; Right to Raise Act; adoption; eligibility; Oklahoma Children's Code; biological sex; abuse or neglect; crimes and punishments; child endangerment; effective date.",
+  "summary": "Children; Right to Raise Act; adoption; eligibility; Oklahoma Children's Code; biological sex; abuse or neglect; crimes and punishments; child endangerment; effective date.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/HB3586/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/HB3586/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=hb3586&Session=2600",
+  "sponsors": [
+    "Erick Harris (R) [Rep]",
+    "Kristen Thompson (R) [Sen]",
+    "Denise Hader (R) [Rep]",
+    "Cody Maynard (R) [Rep]",
+    "Collin Duel (R) [Rep]",
+    "Clay Staires (R) [Rep]",
+    "Gabe Woolley (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Authored by Representative Harris",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Second Reading referred to Judiciary and Public Safety Oversight",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Referred to Criminal Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Policy recommendation to the Judiciary and Public Safety Oversight committee; Do Pass Criminal Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Authored by Senator Thompson (principal Senate author)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "CR; Do Pass, amended by committee substitute Judiciary and Public Safety Oversight Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Coauthored by Representative(s) Duel",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "General Order",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Coauthored by Representative(s) CrosswhiteHader, Maynard, Staires",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Third Reading, Measure passed: Ayes: 75 Nays: 15",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Referred for engrossment",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-17",
+      "description": "House: Criminal Judiciary Committee: DO PASS",
+      "yea": 5,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-03",
+      "description": "House: Judiciary and Public Safety Oversight Committee: DO PASS AS AMENDED BY CS",
+      "yea": 12,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-11",
+      "description": "House: THIRD READING",
+      "yea": 75,
+      "nay": 15,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-15",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/hB/HB3586%20INT.PDF",
+      "doc_id": 3318345
+    },
+    {
+      "date": "2026-03-03",
+      "type": "Comm Sub",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20COMMITTEE%20SUBS/HCS/HB3586%20CS.PDF",
+      "doc_id": 3383259
+    },
+    {
+      "date": "2026-03-03",
+      "type": "Amended",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20FLR/HFLR/HB3586%20HFLR.PDF",
+      "doc_id": 3383260
+    },
+    {
+      "date": "2026-03-13",
+      "type": "Engrossed",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENGR/hB/HB3586%20ENGR.PDF",
+      "doc_id": 3394889
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

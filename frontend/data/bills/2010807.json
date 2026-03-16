@@ -1,0 +1,54 @@
+{
+  "id": 2010807,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S06653",
+  "title": "Enacts the college student suicide prevention act to provide for policies, guidelines and training opportunities to effectively and appropriately prevent student suicide, intervene in crisis situations, and support college communities in postvention.",
+  "summary": "Enacts the college student suicide prevention act to provide for policies, guidelines and training opportunities to effectively and appropriately prevent student suicide, intervene in crisis situations, and support college communities in postvention.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S06653/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S06653/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S6653",
+  "sponsors": [
+    "Lea Webb (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-19",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-19",
+      "action": "REFERRED TO HIGHER EDUCATION",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO HIGHER EDUCATION",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-19",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S06653&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S06653",
+      "doc_id": 3181046
+    }
+  ],
+  "committee": {
+    "committee_id": 430,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Higher Education"
+  },
+  "subjects": []
+}

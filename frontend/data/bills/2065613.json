@@ -1,0 +1,99 @@
+{
+  "id": 2065613,
+  "state": "FL",
+  "state_name": "Florida",
+  "bill_number": "S1136",
+  "title": "Dental Screenings for K-12 Students",
+  "summary": "Defining the term \"dental screening\"; authorizing dental screenings provided under the school health services program to be conducted after written notice and an opportunity for a parent or guardian to opt out; clarifying district school board parent notification requirements for dental screenings; providing that the parental consent requirement does not apply to dental screenings, etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/FL/bill/S1136/2026",
+  "legiscan_url": "https://legiscan.com/FL/bill/S1136/2026",
+  "state_url": "https://www.flsenate.gov/Session/Bill/2026/1136",
+  "sponsors": [
+    "Education Pre-K - 12 [Sen]",
+    "Alexis Calatayud (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-05",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-05",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Referred to Education Pre-K - 12; Health Policy; Rules",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "On Committee agenda-- Education Pre-K - 12, 01/20/26, 1:00 pm, 412 Knott Building",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "CS by Education Pre-K - 12; YEAS 8 NAYS 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Pending reference review under Rule 4.7(2) - (Committee Substitute)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Now in Health Policy",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "CS by Education Pre-K - 12 read 1st time",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-20",
+      "description": "Senate Education Pre-K - 12",
+      "yea": 8,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-05",
+      "type": "Introduced",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1136/BillText/Filed/HTML",
+      "doc_id": 3299874
+    },
+    {
+      "date": "2026-01-22",
+      "type": "Comm Sub",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1136/BillText/c1/HTML",
+      "doc_id": 3327717
+    }
+  ],
+  "committee": {
+    "committee_id": 2689,
+    "chamber": "S",
+    "chamber_id": 28,
+    "name": "Health Policy"
+  },
+  "subjects": []
+}

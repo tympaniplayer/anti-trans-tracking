@@ -1,0 +1,59 @@
+{
+  "id": 1946758,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF744",
+  "title": "Therapies and procedures performed for the treatment of gender dysphoria in minors prohibition",
+  "summary": "Therapies and procedures performed for the treatment of gender dysphoria in minors prohibition",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF744/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF744/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/744/",
+  "sponsors": [
+    "Glenn Gruenhagen (R) [Sen]",
+    "Steve Green (R) [Sen]",
+    "Mark Koran (R) [Sen]",
+    "Steve Drazkowski (R) [Sen]",
+    "Eric Lucero (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-30",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-01-30",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-30",
+      "action": "Referred to Health and Human Services",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-27",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/744/versions/0/pdf/",
+      "doc_id": 3089367
+    }
+  ],
+  "committee": {
+    "committee_id": 1745,
+    "chamber": "S",
+    "chamber_id": 56,
+    "name": "Health and Human Services"
+  },
+  "subjects": []
+}

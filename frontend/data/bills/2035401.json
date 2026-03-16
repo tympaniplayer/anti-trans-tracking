@@ -1,0 +1,95 @@
+{
+  "id": 2035401,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3696",
+  "title": "Fair and Equal Housing Act of 2025",
+  "summary": "To extend the protections of the Fair Housing Act to persons suffering discrimination on the basis of sex or sexual orientation, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3696/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3696/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3696/all-info",
+  "sponsors": [
+    "Bradley Schneider (D) [Rep]",
+    "Brian Fitzpatrick (R) [Rep]",
+    "Sharice Davids (D) [Rep]",
+    "William Keating (D) [Rep]",
+    "Paul Tonko (D) [Rep]",
+    "Mike Quigley (D) [Rep]",
+    "Janice Schakowsky (D) [Rep]",
+    "Mary Gay Scanlon (D) [Rep]",
+    "Juan Vargas (D) [Rep]",
+    "Pramila Jayapal (D) [Rep]",
+    "Joyce Beatty (D) [Rep]",
+    "Ami Bera (D) [Rep]",
+    "Angela Craig (D) [Rep]",
+    "Suzanne Bonamici (D) [Rep]",
+    "Eric Sorensen (D) [Rep]",
+    "Laura Friedman (D) [Rep]",
+    "Christopher Deluzio (D) [Rep]",
+    "Raul Ruiz (D) [Rep]",
+    "Darren Soto (D) [Rep]",
+    "Sarah McBride (D) [Rep]",
+    "Scott Peters (D) [Rep]",
+    "Nanette Barragan (D) [Rep]",
+    "Raja Krishnamoorthi (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "George Latimer (D) [Rep]",
+    "Salud Carbajal (D) [Rep]",
+    "Lois Frankel (D) [Rep]",
+    "Robert Garcia (D) [Rep]",
+    "Sanford Bishop (D) [Rep]",
+    "Seth Magaziner (D) [Rep]",
+    "Gil Cisneros (D) [Rep]",
+    "Wesley Bell (D) [Rep]",
+    "Johnny Olszewski (D) [Rep]",
+    "Brad Sherman (D) [Rep]",
+    "Josh Harder (D) [Rep]",
+    "Ilhan Omar (D) [Rep]",
+    "Jahana Hayes (D) [Rep]",
+    "Mike Thompson (D) [Rep]",
+    "Adriano Espaillat (D) [Rep]",
+    "LaMonica McIver (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-03",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-03",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-05",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3696/BILLS-119hr3696ih.pdf",
+      "doc_id": 3252041
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Housing and community development"
+  ]
+}

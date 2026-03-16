@@ -1,0 +1,55 @@
+{
+  "id": 2085168,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB6205",
+  "title": "Increasing accountability for the distribution of grants for economically disadvantaged people.",
+  "summary": "Increasing accountability for the distribution of grants for economically disadvantaged people.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB6205/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB6205/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=6205&Year=2025&Initiative=false",
+  "sponsors": [
+    "John Braun (R) [Sen]",
+    "Perry Dozier (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-19",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-19",
+      "action": "First reading, referred to Housing.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Public hearing in the Senate Committee on Housing at 10:30 AM.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/6205.pdf",
+      "doc_id": 3322460
+    }
+  ],
+  "committee": {
+    "committee_id": 4675,
+    "chamber": "S",
+    "chamber_id": 98,
+    "name": "Housing"
+  },
+  "subjects": []
+}

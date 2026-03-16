@@ -1,0 +1,100 @@
+{
+  "id": 2024624,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S07451",
+  "title": "Provides that the judge shall not prohibit a parent from undergoing gender reassignment.",
+  "summary": "Provides that the judge shall not prohibit a parent from undergoing gender reassignment.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S07451/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S07451/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S7451",
+  "sponsors": [
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "John Liu (D) [Sen]",
+    "Rachel May (D) [Sen]",
+    "Julia Salazar (D) [Sen]",
+    "Luis Sepulveda (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-09",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-04-16",
+      "action": "REFERRED TO CHILDREN AND FAMILIES",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "1ST REPORT CAL.1513",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-05",
+      "action": "ADVANCED TO THIRD READING",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "referred to judiciary",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-29",
+      "description": "Senate Children And Families Committee Vote",
+      "yea": 6,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-09",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 52,
+      "nay": 10,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-04-16",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S07451&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S07451",
+      "doc_id": 3213878
+    }
+  ],
+  "committee": {
+    "committee_id": 373,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

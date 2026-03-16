@@ -1,0 +1,115 @@
+{
+  "id": 2102471,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "SB439",
+  "title": "Employment Discrimination - Fire and Rescue Public Safety Employees - Use of Medical Cannabis",
+  "summary": "Prohibiting an employer from taking certain discriminatory employment actions against a fire and rescue public safety employee based on the employee's use of medical cannabis, subject to certain conditions; and requiring an employer to report an incident of a fire and rescue public safety employee reporting for work while impaired by cannabis to the State Emergency Medical Services Board.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/SB439/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/SB439/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0439?ys=2026RS",
+  "sponsors": [
+    "Carl Jackson (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-06",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-30",
+      "action": "First Reading Finance",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Hearing 2/19 at 1:00 p.m.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Favorable Report by Finance",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Favorable Adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Second Reading Passed",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Motion Special Order until 3/6 (Senator Jennings) Adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Third Reading Passed (33-11)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Referred Economic Matters",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-06",
+      "description": "Third Reading Passed",
+      "yea": 33,
+      "nay": 11,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-30",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/sb/sb0439f.pdf",
+      "doc_id": 3342867
+    },
+    {
+      "date": "2026-03-03",
+      "type": "Engrossed",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/sb/sb0439t.pdf",
+      "doc_id": 3382246
+    }
+  ],
+  "committee": {
+    "committee_id": 1923,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Economic Matters"
+  },
+  "subjects": [
+    "Human Relations",
+    "Cannabis",
+    "Public Safety",
+    "Certifications",
+    "Chemical Tests",
+    "Counties",
+    "Discipline",
+    "Discrimination",
+    "Emergency Medical Services",
+    "Fire Protection",
+    "Municipal Corporations",
+    "Public Employees",
+    "Rescue Squads",
+    "State Employees",
+    "Termination of Employment",
+    "Work, Labor, and Employment"
+  ]
+}

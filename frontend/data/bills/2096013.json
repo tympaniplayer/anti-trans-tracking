@@ -1,0 +1,55 @@
+{
+  "id": 2096013,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A3447",
+  "title": "Prohibits court from awarding custody of or limiting visitation with child based on certain factors.",
+  "summary": "Prohibits court from awarding custody of or limiting visitation with child based on certain factors.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A3447/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A3447/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A3447",
+  "sponsors": [
+    "Yvonne Lopez (D) [Rep]",
+    "Lisa Swain (D) [Rep]",
+    "Anthony Verrelli (D) [Rep]",
+    "Robert Karabinchak (D) [Rep]",
+    "Carol Murphy (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Judiciary Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-08",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A3500/3447_I1.HTM",
+      "doc_id": 3335051
+    }
+  ],
+  "committee": {
+    "committee_id": 862,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Judiciary"
+  ]
+}

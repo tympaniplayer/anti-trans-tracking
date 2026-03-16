@@ -1,0 +1,77 @@
+{
+  "id": 2029830,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3265",
+  "title": "Protecting our Students in Schools Act of 2025",
+  "summary": "To prohibit the use of corporal punishment in schools, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3265/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3265/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3265/all-info",
+  "sponsors": [
+    "Suzanne Bonamici (D) [Rep]",
+    "Lucy McBath (D) [Rep]",
+    "Gwen Moore (D) [Rep]",
+    "Chellie Pingree (D) [Rep]",
+    "Don Beyer (D) [Rep]",
+    "Danny Davis (D) [Rep]",
+    "Mark Takano (D) [Rep]",
+    "Darren Soto (D) [Rep]",
+    "Jennifer McClellan (D) [Rep]",
+    "Sheila Cherfilus-McCormick (D) [Rep]",
+    "Mark DeSaulnier (D) [Rep]",
+    "Jahana Hayes (D) [Rep]",
+    "William Keating (D) [Rep]",
+    "Joe Courtney (D) [Rep]",
+    "Stephen Lynch (D) [Rep]",
+    "Mary Gay Scanlon (D) [Rep]",
+    "Mark Pocan (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Pramila Jayapal (D) [Rep]",
+    "Jill Tokuda (D) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "Ilhan Omar (D) [Rep]"
+  ],
+  "introduced_date": "2025-05-08",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-05-08",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-16",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3265/BILLS-119hr3265ih.pdf",
+      "doc_id": 3238926
+    }
+  ],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

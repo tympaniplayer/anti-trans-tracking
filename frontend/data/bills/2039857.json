@@ -1,0 +1,61 @@
+{
+  "id": 2039857,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB4512",
+  "title": "TRANS MICE Act Transgender Research on Animals Now Stops and Money for Ideological Cruelty Eliminated Act",
+  "summary": "To prohibit the availability of Federal funds for certain animal research, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB4512/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB4512/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4512/all-info",
+  "sponsors": [
+    "Nancy Mace (R) [Rep]",
+    "Paul Gosar (R) [Rep]",
+    "Brandon Gill (R) [Rep]",
+    "Lauren Boebert (R) [Rep]",
+    "Tim Burchett (R) [Rep]",
+    "Scott Perry (R) [Rep]"
+  ],
+  "introduced_date": "2025-07-17",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-07-17",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-17",
+      "action": "Referred to the House Committee on Science, Space, and Technology.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-30",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr4512/BILLS-119hr4512ih.pdf",
+      "doc_id": 3263461
+    }
+  ],
+  "committee": {
+    "committee_id": 2313,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Science, Space, And Technology"
+  },
+  "subjects": [
+    "Science, technology, communications"
+  ]
+}

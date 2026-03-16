@@ -1,0 +1,62 @@
+{
+  "id": 1955356,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1855",
+  "title": "Expanding protections for certain students to promote inclusivity in public schools.",
+  "summary": "Expanding protections for certain students to promote inclusivity in public schools.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1855/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1855/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1855&Year=2025&Initiative=false",
+  "sponsors": [
+    "Janice Zahn (D) [Rep]",
+    "Osman Salahuddin (D) [Rep]",
+    "Julia Reed (D) [Rep]",
+    "Lisa Parshley (D) [Rep]",
+    "Gerry Pollet (D) [Rep]",
+    "Natasha Hill (D) [Rep]",
+    "Alex Ramel (D) [Rep]",
+    "Beth Doglio (D) [Rep]",
+    "Edwin Obras (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-05",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-05",
+      "action": "First reading, referred to Education.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1855.pdf",
+      "doc_id": 3099862
+    }
+  ],
+  "committee": {
+    "committee_id": 930,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Education"
+  },
+  "subjects": []
+}

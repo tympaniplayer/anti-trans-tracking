@@ -1,0 +1,84 @@
+{
+  "id": 1997714,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S251",
+  "title": "Relative to health equity and community health workers",
+  "summary": "For legislation relative to health equity and community health workers. Consumer Protection and Professional Licensure.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S251/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S251/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S251",
+  "sponsors": [
+    "Robyn Kennedy (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Consumer Protection and Professional Licensure",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-11",
+      "action": "Discharged to the Joint Committee on Public Health",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-14",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-19",
+      "action": "Hearing scheduled for 09/29/2025 from 09:00 AM-01:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-09-29",
+      "action": "Hearing rescheduled to 09/29/2025 from 09:00 AM-11:30 PM in A-2 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-09-29",
+      "action": "Hearing rescheduled to 09/29/2025 from 09:00 AM-11:30 AM in A-2 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Bill reported favorably by committee and referred to the Joint Committee on Health Care Financing",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Accompanied a study order, see S2972",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S251.pdf",
+      "doc_id": 3162945
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

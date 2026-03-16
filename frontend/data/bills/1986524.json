@@ -1,0 +1,67 @@
+{
+  "id": 1986524,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB3451",
+  "title": "Relating to a change of name and sex for certain persons and the issuance of associated birth records and documentation; authorizing a fee.",
+  "summary": "Relating to a change of name and sex for certain persons and the issuance of associated birth records and documentation; authorizing a fee.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB3451/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB3451/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3451",
+  "sponsors": [
+    "Jon Rosenthal (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Referred to Public Health",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB03451I.htm",
+      "doc_id": 3145336
+    }
+  ],
+  "committee": {
+    "committee_id": 1892,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Public Health"
+  },
+  "subjects": [
+    "Health",
+    "Health--General",
+    "BIRTH & DEATH CERTIFICATES",
+    "CRIMINAL RECORDS",
+    "GENDER IDENTITY & EXPRESSION",
+    "IDENTIFICATION CARDS",
+    "HEALTH & HUMAN SERVICES COMMISSION"
+  ]
+}

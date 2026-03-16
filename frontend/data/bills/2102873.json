@@ -1,0 +1,71 @@
+{
+  "id": 2102873,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "H7416",
+  "title": "Grants automatic admission to state public institutions for qualified Eagle Scout and Gold award recipients from the Girl Scouts.",
+  "summary": "EDUCATION -- GUARANTEED ADMISSION FOR EAGLE SCOUT AND GOLD AWARD RECIPIENTS - Grants automatic admission to state public institutions for qualified Eagle Scout and Gold award recipients from the Girl Scouts.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/H7416/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/H7416/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Tina Spears (D) [Rep]",
+    "Katherine Kazarian (D) [Rep]",
+    "Jennifer Stewart (D) [Rep]",
+    "Kathleen Fogarty (D) [Rep]",
+    "Megan Cotter (D) [Rep]",
+    "June Speakman (D) [Rep]",
+    "Hagan McEntee (D) [Rep]",
+    "Anthony DeSimone (D) [Rep]",
+    "Earl Read (D) [Rep]",
+    "Evan Shanley (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-30",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-30",
+      "action": "Introduced, referred to House Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Scheduled for hearing and/or consideration (02/10/2026)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Committee recommended measure be held for further study",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-30",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H7416.pdf",
+      "doc_id": 3342620
+    }
+  ],
+  "committee": {
+    "committee_id": 4419,
+    "chamber": "H",
+    "chamber_id": 83,
+    "name": "Education"
+  },
+  "subjects": [
+    "Education",
+    "EDUCATION -- GUARANTEED ADMISSION FOR EAGLE SCOUT AND GOLD AWARD RECIPIENTS"
+  ]
+}

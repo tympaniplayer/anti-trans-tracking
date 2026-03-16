@@ -1,0 +1,85 @@
+{
+  "id": 1983375,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S05609",
+  "title": "Prohibits the use of biometric surveillance technology by law enforcement; establishes the biometric surveillance regulation task force; provides for the expiration and repeal of certain provisions.",
+  "summary": "Prohibits the use of biometric surveillance technology by law enforcement; establishes the biometric surveillance regulation task force; provides for the expiration and repeal of certain provisions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S05609/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S05609/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S5609",
+  "sponsors": [
+    "Julia Salazar (D) [Sen]",
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Jamaal Bailey (D) [Sen]",
+    "Jabari Brisport (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "Liz Krueger (D) [Sen]",
+    "Luis Sepulveda (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-25",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-25",
+      "action": "REFERRED TO INTERNET AND TECHNOLOGY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "REPORTED AND COMMITTED TO CODES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO INTERNET AND TECHNOLOGY",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "REPORTED AND COMMITTED TO CODES",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-05",
+      "description": "Senate Internet And Technology Committee Vote",
+      "yea": 5,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-25",
+      "description": "Senate Internet And Technology Committee Vote",
+      "yea": 5,
+      "nay": 2,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-25",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S05609&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S05609",
+      "doc_id": 3140879
+    }
+  ],
+  "committee": {
+    "committee_id": 417,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Codes"
+  },
+  "subjects": []
+}

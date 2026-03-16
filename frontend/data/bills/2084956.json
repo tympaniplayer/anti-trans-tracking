@@ -1,0 +1,183 @@
+{
+  "id": 2084956,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB2268",
+  "title": "Relating To Equity.",
+  "summary": "Requires all places of public accommodation and public entity construction projects planned and designed after 7/31/2027 to provide at least one universal changing accommodation within the building in a public restroom, with certain exceptions. Makes conforming amendments to sections 489-6, 489-7.5, and 489-8, HRS, to prevent conflicts among the provisions. Effective 1/1/2525. (SD2)",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB2268/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB2268/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2268&year=2026",
+  "sponsors": [
+    "Joy San Buenaventura (D) [Sen]",
+    "Stanley Chang (D) [Sen]",
+    "Angus McKelvey (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-10",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-15",
+      "action": "Pending Introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Introduced and passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Referred to HHS/GVO, CPN/WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Re-Referred to GVO/HHS, CPN/WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "The committee(s) on GVO/HHS has scheduled a public hearing on 02-17-26 3:05PM; Conference Room 225 &amp; Videoconference.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "The committee(s) on HHS recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in HHS were as follows: 3 Aye(s): Senator(s) San Buenaventura, McKelvey, Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 2 Excused: Senator(s) Kanuha, Keohokalole.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "The committee(s) on GVO recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in GVO were as follows: 4 Aye(s): Senator(s) McKelvey, Hashimoto, Moriwaki, Awa; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Gabbard.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Reported from GVO/HHS (Stand. Com. Rep. No. 2533) with recommendation of passage on Second Reading, as amended (SD 1) and referral to CPN/WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to CPN/WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "The committee(s) on CPN/WAM will hold a public decision making on 03-03-26 10:16AM; Conference Room 211 &amp; Videoconference.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "The committee(s) on CPN recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in CPN were as follows: 4 Aye(s): Senator(s) Keohokalole, Fukunaga, Lamosao, McKelvey; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Awa.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "The committee(s) on WAM recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in WAM were as follows: 12 Aye(s): Senator(s) Dela Cruz, Moriwaki, DeCoite, Elefante, Hashimoto, Inouye, Kanuha, Kidani, Kim, Lee, C., Richards, Wakai; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Fevella.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Reported from CPN/WAM (Stand. Com. Rep. No. 2921) with recommendation of passage on Third Reading, as amended (SD 2).",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "48 Hrs. Notice 03-10-26.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Report adopted; Passed Third Reading, as amended (SD 2). Ayes, 25; Aye(s) with reservations: none . Noes, 0 (none). Excused, 0 (none). Transmitted to House.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Received from Senate (Sen. Com. No. 202) in amended form (SD 2).",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Pass First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Referred to LAB, FIN, referral sheet 17",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-17",
+      "description": "Senate Government Operations: Passed, With Amendments",
+      "yea": 4,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-17",
+      "description": "Senate Health and Human Services: Passed, With Amendments",
+      "yea": 3,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-03",
+      "description": "Senate Ways and Means: Passed, With Amendments",
+      "yea": 12,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-03",
+      "description": "Senate Commerce and Consumer Protection: Passed, With Amendments",
+      "yea": 4,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-15",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB2268_.HTM",
+      "doc_id": 3322185
+    },
+    {
+      "date": "2026-02-19",
+      "type": "Amended",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB2268_SD1_.HTM",
+      "doc_id": 3369495
+    },
+    {
+      "date": "2026-03-05",
+      "type": "Amended",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB2268_SD2_.HTM",
+      "doc_id": 3386760
+    }
+  ],
+  "committee": {
+    "committee_id": 2047,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Labor & Public Employment"
+  },
+  "subjects": [
+    "Equity",
+    "Universal Changing Accommodations",
+    "Public Accommodations",
+    "Public Entity Construction",
+    "Exemptions"
+  ]
+}

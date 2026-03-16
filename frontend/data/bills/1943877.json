@@ -1,0 +1,82 @@
+{
+  "id": 1943877,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB4031",
+  "title": "Recreation: athletics and sports; publicly funded individual sports programs that provide separate programs for males and females; require athletes to be scored according to their biological sex. Creates new act.",
+  "summary": "Recreation: athletics and sports; publicly funded individual sports programs that provide separate programs for males and females; require athletes to be scored according to their biological sex. Creates new act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB4031/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB4031/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4031",
+  "sponsors": [
+    "Jaime Greene (R) [Rep]",
+    "Alicia St. Germaine (R) [Rep]",
+    "Donni Steele (R) [Rep]",
+    "Rylee Linting (R) [Rep]",
+    "Tom Kunse (R) [Rep]",
+    "Joseph Pavlov (R) [Rep]",
+    "Tim Kelly (R) [Rep]",
+    "Gregory Alexander (R) [Rep]",
+    "David Prestin (R) [Rep]",
+    "Matthew Maddock (R) [Rep]",
+    "Steve Carra (R) [Rep]",
+    "Mike Hoadley (R) [Rep]",
+    "Jason Woolford (R) [Rep]",
+    "Pauline Wendzel (R) [Rep]",
+    "Luke Meerman (R) [Rep]",
+    "William Bruck (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-28",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-01-28",
+      "action": "Introduced By Representative Rep. Jaime Greene",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Referred To Committee On Education And Workforce",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-29",
+      "action": "Bill Electronically Reproduced 01/28/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-28",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4031.htm",
+      "doc_id": 3085543
+    }
+  ],
+  "committee": {
+    "committee_id": 5044,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Education And Workforce"
+  },
+  "subjects": [
+    "Recreation: athletics and sports"
+  ]
+}

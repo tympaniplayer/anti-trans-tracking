@@ -1,0 +1,59 @@
+{
+  "id": 1976558,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "SB476",
+  "title": "Short-term residential therapeutic programs.",
+  "summary": "An act to amend Section 1562.01 of the Health and Safety Code, relating to care facilities.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/SB476/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/SB476/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB476",
+  "sponsors": [
+    "Suzette Valladares (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-19",
+      "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "From printer. May be acted upon on or after March 22.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Referred to Com. on RLS.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Returned to Secretary of Senate pursuant to Joint Rule 56.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-19",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB476#99INT",
+      "doc_id": 3131986
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

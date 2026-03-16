@@ -1,0 +1,63 @@
+{
+  "id": 1970987,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB589",
+  "title": "SAD Act Stop Antiabortion Disinformation Act",
+  "summary": "A bill to prohibit disinformation in the advertising of abortion services, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB589/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB589/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/589/all-info",
+  "sponsors": [
+    "Elizabeth Warren (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Patty Murray (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Catherine Cortez Masto (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "Mark Warner (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-13",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-02-13",
+      "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-11",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s589/BILLS-119s589is.pdf",
+      "doc_id": 3165976
+    }
+  ],
+  "committee": {
+    "committee_id": 2323,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Commerce, Science, And Transportation"
+  },
+  "subjects": [
+    "Commerce"
+  ]
+}

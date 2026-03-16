@@ -1,0 +1,92 @@
+{
+  "id": 2074007,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "HB3134",
+  "title": "Higher education; Keep Accreditation About Academics Act; accrediting agencies; civil action; Attorney General; effective date.",
+  "summary": "Higher education; Keep Accreditation About Academics Act; accrediting agencies; civil action; Attorney General; effective date.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/HB3134/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/HB3134/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=hb3134&Session=2600",
+  "sponsors": [
+    "Kevin West (R) [Rep]",
+    "Randy Grellner (R) [Sen]",
+    "Denise Hader (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Authored by Representative West (Kevin)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Second Reading referred to Judiciary and Public Safety Oversight",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Referred to Civil Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Policy recommendation to the Judiciary and Public Safety Oversight committee; Do Pass Civil Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "CR; Do Pass Judiciary and Public Safety Oversight Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-12",
+      "description": "House: Civil Judiciary Committee: DO PASS",
+      "yea": 5,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-26",
+      "description": "House: Judiciary and Public Safety Oversight Committee: DO PASS",
+      "yea": 9,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-13",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/hB/HB3134%20INT.PDF",
+      "doc_id": 3311010
+    },
+    {
+      "date": "2026-03-02",
+      "type": "Amended",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20FLR/HFLR/HB3134%20HFLR.PDF",
+      "doc_id": 3381397
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

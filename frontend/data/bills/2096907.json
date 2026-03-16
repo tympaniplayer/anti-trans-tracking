@@ -1,0 +1,53 @@
+{
+  "id": 2096907,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A1284",
+  "title": "Prohibits public procurement of electric vehicles that may have been made through forced labor.",
+  "summary": "Prohibits public procurement of electric vehicles that may have been made through forced labor.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A1284/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A1284/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A1284",
+  "sponsors": [
+    "Michael Inganamort (R) [Rep]",
+    "David Bailey (D) [Rep]",
+    "Dawn Fantasia (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Environment and Solid Waste Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-18",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A1500/1284_I1.HTM",
+      "doc_id": 3335965
+    }
+  ],
+  "committee": {
+    "committee_id": 855,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Environment and Solid Waste"
+  },
+  "subjects": [
+    "Environment and Solid Waste"
+  ]
+}

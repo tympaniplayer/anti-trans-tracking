@@ -1,0 +1,65 @@
+{
+  "id": 2003156,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H656",
+  "title": "Relative to healthy youth",
+  "summary": "Relative to public schools choosing to teach human sexual education or human sexuality issues. Education.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H656/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H656/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H656",
+  "sponsors": [
+    "James O'Day (D) [Rep]",
+    "Vanna Howard (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-02",
+      "action": "Hearing scheduled for 09/16/2025 from 11:00 AM-5:00 PM in Gardner Auditorium",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-11-17",
+      "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H656.pdf",
+      "doc_id": 3169232
+    }
+  ],
+  "committee": {
+    "committee_id": 737,
+    "chamber": "H",
+    "chamber_id": 51,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

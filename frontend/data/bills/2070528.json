@@ -1,0 +1,72 @@
+{
+  "id": 2070528,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB14",
+  "title": "County Boards of Education - Bullying, Harassment, or Intimidation - Information Collection and Reporting Requirements",
+  "summary": "Altering the contents of a certain bullying, harassment, or intimidation form to require, if the incident is believed to have been motivated in whole or in substantial part by an actual or perceived personal characteristic including race, national origin, marital status, sex, sexual orientation, gender identity, religion, ancestry, physical attributes, socioeconomic status, familial status, or physical or mental ability or disability, the identification of those personal characteristics, if known; etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "identity_documents"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB14/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB14/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0014?ys=2026RS",
+  "sponsors": [
+    "Linda Foley (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-08-22",
+      "action": "Pre-filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "First Reading Ways and Means",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Hearing 1/29 at 1:00 p.m.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-11",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0014f.pdf",
+      "doc_id": 3305350
+    }
+  ],
+  "committee": {
+    "committee_id": 1928,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Ways and Means"
+  },
+  "subjects": [
+    "Primary and Secondary Education",
+    "Baltimore City",
+    "Committees and Commissions",
+    "Counties",
+    "Data",
+    "Discrimination",
+    "Education, Boards of",
+    "Education, State Department of",
+    "Electronic Communication",
+    "Forms",
+    "Harassment",
+    "Reports"
+  ]
+}

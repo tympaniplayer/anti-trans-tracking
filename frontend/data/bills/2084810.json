@@ -1,0 +1,74 @@
+{
+  "id": 2084810,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HB1526",
+  "title": "Relating To Discrimination.",
+  "summary": "Prohibits discrimination based on: (1) The perception that a person possesses certain characteristics; (2) The perception that a person is associated with a person who possesses, or is perceived to possess, certain characteristics; or (3) The intersection or combination of two or more specified characteristics in relation to a person.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HB1526/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HB1526/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1526&year=2026",
+  "sponsors": [
+    "David Tarnas (D) [Rep]",
+    "Tina Grandinetti (D) [Rep]",
+    "Greggor Ilagan (D) [Rep]",
+    "Kim Iwamoto (D) [Rep]",
+    "Sue Keohokapu-Lee Loy (D) [Rep]",
+    "Darius Kila (D) [Rep]",
+    "Matthias Kusch (D) [Rep]",
+    "Amy Perruso (D) [Rep]",
+    "Mahina Poepoe (D) [Rep]",
+    "Kanani Souza (R) [Rep]",
+    "Terez Amato (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-21",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Prefiled.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Introduced and Pass First Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Referred to LAB, EDN, JHA, referral sheet 1",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1526_.HTM",
+      "doc_id": 3322038
+    }
+  ],
+  "committee": {
+    "committee_id": 2047,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Labor & Public Employment"
+  },
+  "subjects": [
+    "Anti-discrimination",
+    "Prohibitions",
+    "Certain Characteristics",
+    "Intersectionality"
+  ]
+}

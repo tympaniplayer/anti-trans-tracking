@@ -1,0 +1,60 @@
+{
+  "id": 2111447,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB3920",
+  "title": "YOUTH HEALTH PROTECTION ACT",
+  "summary": "Creates the Youth Health Protection Act. Provides that a medical doctor shall not prescribe, provide, administer, or deliver puberty-suppressing drugs or cross-sex hormones and shall not perform surgical orchiectomy or castration, urethroplasty, vaginoplasty, mastectomy, phalloplasty, or metoidioplasty on biologically healthy and anatomically normal persons under the age of 18 for the purpose of treating the subjective, internal psychological condition of gender dysphoria or gender discordance. Provides that any efforts to modify the anatomy, physiology, or biochemistry of a biologically healthy person under the age of 18 who experiences gender dysphoria or gender discordance shall be considered unprofessional conduct and shall be subject to discipline by the licensing entity or disciplinary review board. Provides that no medical doctor or mental health provider shall refer any person under the age of 18 to any medical doctor for chemical or surgical interventions to treat gender dysphoria or gender discordance. Contains definitions, a statement of purpose, and legislative findings. Amends the Medical Practice Act of 1987 to make related changes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "definitions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB3920/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB3920/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3920&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "Andrew Chesney (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-06",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "action": "Filed with Secretary by Sen. Andrew S. Chesney",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=208790&DocName=10400SB3920&DocNum=3920&DocTypeID=SB&LegID=167444&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3355807
+    }
+  ],
+  "committee": {
+    "committee_id": 254,
+    "chamber": "S",
+    "chamber_id": 36,
+    "name": "Assignments"
+  },
+  "subjects": []
+}

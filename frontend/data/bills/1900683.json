@@ -1,0 +1,63 @@
+{
+  "id": 1900683,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S00449",
+  "title": "Requires the board of education and the trustees or sole trustee of every school district to establish policies and procedures regarding the treatment of transgender or gender non-conforming students.",
+  "summary": "Requires the board of education and the trustees or sole trustee of every school district to establish policies and procedures regarding the treatment of transgender or gender non-conforming students.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S00449/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S00449/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S449",
+  "sponsors": [
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Joseph Addabbo (D) [Sen]",
+    "Jeremy Cooney (D) [Sen]",
+    "Michael Gianaris (D) [Sen]",
+    "Kristen Gonzalez (D) [Sen]",
+    "Michelle Hinchey (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "Liz Krueger (D) [Sen]",
+    "John Liu (D) [Sen]",
+    "Jessica Ramos (D) [Sen]",
+    "Julia Salazar (D) [Sen]",
+    "Luis Sepulveda (D) [Sen]",
+    "Jose Serrano (D) [Sen]",
+    "Toby Stavisky (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-08",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "REFERRED TO EDUCATION",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S00449&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S00449",
+      "doc_id": 3037219
+    }
+  ],
+  "committee": {
+    "committee_id": 423,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Education"
+  },
+  "subjects": []
+}

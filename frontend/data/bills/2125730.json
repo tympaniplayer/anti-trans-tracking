@@ -1,0 +1,66 @@
+{
+  "id": 2125730,
+  "state": "LA",
+  "state_name": "Louisiana",
+  "bill_number": "HB578",
+  "title": "Provides for the Restoring Biological Truth Act",
+  "summary": "Provides for the Restoring Biological Truth Act",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/LA/bill/HB578/2026",
+  "legiscan_url": "https://legiscan.com/LA/bill/HB578/2026",
+  "state_url": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB578&sbi=y",
+  "sponsors": [
+    "Mike Johnson (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-26",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "action": "Prefiled.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Under the rules, provisionally referred to the Committee on Civil Law and Procedure.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "First appeared in the Interim Calendar on 2/27/2026.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Read by title, under the rules, referred to the Committee on Civil Law and Procedure.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1445933",
+      "doc_id": 3378331
+    }
+  ],
+  "committee": {
+    "committee_id": 1165,
+    "chamber": "H",
+    "chamber_id": 45,
+    "name": "Civil Law and Procedure"
+  },
+  "subjects": [
+    "CIVIL/LAW"
+  ]
+}

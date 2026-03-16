@@ -1,0 +1,53 @@
+{
+  "id": 2098900,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A973",
+  "title": "Expands definition of personal data to include use of reproductive health care services and prohibits collection of reproductive health care prescription drugs from Prescription Monitoring Program.",
+  "summary": "Expands definition of personal data to include use of reproductive health care services and prohibits collection of reproductive health care prescription drugs from Prescription Monitoring Program.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "definitions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A973/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A973/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A973",
+  "sponsors": [
+    "Carol Murphy (D) [Rep]",
+    "Annette Quijano (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Health Infrastructure Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-12",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A1000/973_I1.HTM",
+      "doc_id": 3337980
+    }
+  ],
+  "committee": {
+    "committee_id": 5254,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Health Infrastructure Committee"
+  },
+  "subjects": [
+    "Health Infrastructure"
+  ]
+}

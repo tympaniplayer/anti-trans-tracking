@@ -1,0 +1,52 @@
+{
+  "id": 2029594,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB1658",
+  "title": "SAFE Home Act Sensible Adoption For Every Home Act",
+  "summary": "A bill to prohibit entities receiving Federal assistance that are involved in adoption or foster care placements from delaying or denying placements under certain conditions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB1658/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB1658/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1658/all-info",
+  "sponsors": [
+    "Jim Banks (R) [Sen]",
+    "Tom Cotton (R) [Sen]"
+  ],
+  "introduced_date": "2025-05-07",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-05-07",
+      "action": "Read twice and referred to the Committee on Finance.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-22",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s1658/BILLS-119s1658is.pdf",
+      "doc_id": 3244097
+    }
+  ],
+  "committee": {
+    "committee_id": 2326,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Finance"
+  },
+  "subjects": [
+    "Families"
+  ]
+}

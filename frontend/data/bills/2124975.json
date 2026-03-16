@@ -1,0 +1,57 @@
+{
+  "id": 2124975,
+  "state": "AL",
+  "state_name": "Alabama",
+  "bill_number": "SB331",
+  "title": "Public preK-12 education; discussions of gender identity prohibited, employees prohibited from displaying flags or insignia relating to sexual orientation or gender identity and from referring to students by pronouns inconsistent with student's biological sex",
+  "summary": "Public preK-12 education; discussions of gender identity prohibited, employees prohibited from displaying flags or insignia relating to sexual orientation or gender identity and from referring to students by pronouns inconsistent with student's biological sex",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AL/bill/SB331/2026",
+  "legiscan_url": "https://legiscan.com/AL/bill/SB331/2026",
+  "state_url": "https://alison.legislature.state.al.us/bill-search",
+  "sponsors": [
+    "Keith Kelley (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-26",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "action": "Read for the first time and referred to the Senate Committee on Education Policy",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Pending Senate Education Policy",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-26",
+      "type": "Introduced",
+      "url": "https://alison.legislature.state.al.us/files/pdf/SearchableInstruments/2026RS/SB331-int.pdf",
+      "doc_id": 3377174
+    }
+  ],
+  "committee": {
+    "committee_id": 3951,
+    "chamber": "S",
+    "chamber_id": 12,
+    "name": "Education Policy"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 2077098,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S1138",
+  "title": "Requires DMVA assist discharged service members who have diagnosed service-connected mental health condition with petitions to change discharge designation.",
+  "summary": "Requires DMVA assist discharged service members who have diagnosed service-connected mental health condition with petitions to change discharge designation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S1138/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S1138/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S1138",
+  "sponsors": [
+    "Kristin Corrado (R) [Sen]",
+    "Joseph Cryan (D) [Sen]",
+    "Michael Testa (R) [Sen]",
+    "Declan O'Scanlon (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Military and Veterans' Affairs Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-30",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S1500/1138_I1.HTM",
+      "doc_id": 3314103
+    }
+  ],
+  "committee": {
+    "committee_id": 884,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Military and Veterans' Affairs"
+  },
+  "subjects": [
+    "Military and Veterans' Affairs"
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": 2109698,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB3758",
+  "title": "SCH CD-BIO SEX-RESTROOM ACCESS",
+  "summary": "Amends the School Code. Provides that school districts shall regulate and restrict access to public restrooms, locker rooms, dressing rooms, and other similar places on the basis of biological sex and shall also adopt a policy that provides for gender neutral or alternative facilities for students, staff, and members of the public, as the school district deems appropriate. Provides that school districts are not required to: (1) limit access by a minor accompanied by an adult guardian of the opposite sex into a specified facility appropriate for the adult guardian; (2) prohibit a person with disabilities from using a specified facility appropriate to the biological sex of either the person with disabilities or of an adult caretaker providing assistance; or (3) prohibit access to these facilities by custodial staff, school staff, or other persons in an emergency situation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "bathrooms",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB3758/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB3758/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3758&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "Andrew Chesney (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "Filed with Secretary by Sen. Andrew S. Chesney",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=208411&DocName=10400SB3758&DocNum=3758&DocTypeID=SB&LegID=167065&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3355426
+    }
+  ],
+  "committee": {
+    "committee_id": 254,
+    "chamber": "S",
+    "chamber_id": 36,
+    "name": "Assignments"
+  },
+  "subjects": []
+}

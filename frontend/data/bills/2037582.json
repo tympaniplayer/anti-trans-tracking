@@ -1,0 +1,79 @@
+{
+  "id": 2037582,
+  "state": "DE",
+  "state_name": "Delaware",
+  "bill_number": "HCR73",
+  "title": "Recognizing Title Ix's 53rd Anniversary And Its Positive Impact On Students.",
+  "summary": "Recognizing Title Ix's 53rd Anniversary And Its Positive Impact On Students.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "sports",
+    "education"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DE/bill/HCR73/2025",
+  "legiscan_url": "https://legiscan.com/DE/bill/HCR73/2025",
+  "state_url": "https://legis.delaware.gov/BillDetail?LegislationId=142573",
+  "sponsors": [
+    "Melanie Ross Levin (D) [Rep]",
+    "Nicole Poore (D) [Sen]",
+    "Kendra Johnson (D) [Rep]",
+    "Eric Morrison (D) [Rep]",
+    "Kamela Smith (D) [Rep]",
+    "David Sokola (D) [Sen]",
+    "Kyra Hoffner (D) [Sen]",
+    "Russ Huxtable (D) [Sen]",
+    "Spiros Mantzavinos (D) [Sen]",
+    "Marie Pinkney (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-24",
+  "session": "153rd General Assembly",
+  "actions": [
+    {
+      "date": "2025-06-18",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Passed in House by Voice Vote",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "Passed By Senate. Votes: 20 YES 1 ABSENT",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-18",
+      "description": "House Third Reading",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-24",
+      "description": "Senate Third Reading",
+      "yea": 20,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Draft",
+      "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142573&legislationTypeId=3&docTypeId=2&legislationName=HCR73",
+      "doc_id": 3256830
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

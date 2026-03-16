@@ -1,0 +1,79 @@
+{
+  "id": 2004291,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H2608",
+  "title": "Relative to human rights and improved outcomes for incarcerated people",
+  "summary": "For legislation to maximize out-of-cell time and opportunities for incarcerated people to attend education, training, employment, and other programs. Public Safety and Homeland Security.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H2608/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H2608/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H2608",
+  "sponsors": [
+    "Brandy Fluker-Reid (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Public Safety and Homeland Security",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Hearing scheduled for 06/26/2025 from 01:00 PM-05:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-01",
+      "action": "Hearing scheduled for 10/15/2025 from 01:00 PM-05:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-15",
+      "action": "Hearing rescheduled to 10/15/2025 from 01:00 PM-06:00 PM in A-2 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-15",
+      "action": "Hearing rescheduled to 10/15/2025 from 01:00 PM-06:20 PM in A-2 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H2608.pdf",
+      "doc_id": 3170435
+    }
+  ],
+  "committee": {
+    "committee_id": 737,
+    "chamber": "H",
+    "chamber_id": 51,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": 2003954,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H778",
+  "title": "Relative to the LGBTQ aging commission",
+  "summary": "Relative to the long-term care needs of older LGBTQ adults and their caregivers. Elder Affairs.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H778/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H778/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H778",
+  "sponsors": [
+    "Kate Lipper-Garabedian (D) [Rep]",
+    "Thomas Stanley (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Elder Affairs",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Hearing scheduled for 04/14/2025 from 10:00 AM-01:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-27",
+      "action": "Referred, pursuant to an order adopted by the two branches, to the committee on Aging and Independence",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-07-28",
+      "action": "Accompanied a new draft, see H4304",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H778.pdf",
+      "doc_id": 3170071
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

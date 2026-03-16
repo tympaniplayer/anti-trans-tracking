@@ -1,0 +1,98 @@
+{
+  "id": 1926729,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB515",
+  "title": "Ensuring Military Readiness Not Discrimination Act",
+  "summary": "To amend title 10, United States Code, to prohibit discrimination in the Armed Forces.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB515/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB515/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/515/all-info",
+  "sponsors": [
+    "Sara Jacobs (D) [Rep]",
+    "Eric Sorensen (D) [Rep]",
+    "Becca Balint (D) [Rep]",
+    "Emily Randall (D) [Rep]",
+    "Jerrold Nadler (D) [Rep]",
+    "James McGovern (D) [Rep]",
+    "Jill Tokuda (D) [Rep]",
+    "Mark Takano (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Sylvia Garcia (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Dina Titus (D) [Rep]",
+    "Gil Cisneros (D) [Rep]",
+    "Scott Peters (D) [Rep]",
+    "Jimmy Panetta (D) [Rep]",
+    "Raja Krishnamoorthi (D) [Rep]",
+    "Troy Carter (D) [Rep]",
+    "Jamie Raskin (D) [Rep]",
+    "Chellie Pingree (D) [Rep]",
+    "Veronica Escobar (D) [Rep]",
+    "Steven Horsford (D) [Rep]",
+    "Raul Grijalva (D) [Rep]",
+    "Mark Pocan (D) [Rep]",
+    "Linda Sanchez (D) [Rep]",
+    "Jesus Garcia (D) [Rep]",
+    "Jonathan Jackson (D) [Rep]",
+    "LaMonica McIver (D) [Rep]",
+    "Andrea Salinas (D) [Rep]",
+    "Joe Courtney (D) [Rep]",
+    "Mike Quigley (D) [Rep]",
+    "Sarah McBride (D) [Rep]",
+    "Paul Tonko (D) [Rep]",
+    "Valerie Foushee (D) [Rep]",
+    "Don Beyer (D) [Rep]",
+    "Darren Soto (D) [Rep]",
+    "John Larson (D) [Rep]",
+    "Nikema Williams (D) [Rep]",
+    "Pramila Jayapal (D) [Rep]",
+    "Lloyd Doggett (D) [Rep]",
+    "Jennifer McClellan (D) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "Sharice Davids (D) [Rep]",
+    "Seth Magaziner (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-16",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-01-16",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-16",
+      "action": "Referred to the House Committee on Armed Services.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-13",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr515/BILLS-119hr515ih.pdf",
+      "doc_id": 3117475
+    }
+  ],
+  "committee": {
+    "committee_id": 2299,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Armed Services"
+  },
+  "subjects": [
+    "Armed forces and national security"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": 2128386,
+  "state": "CT",
+  "state_name": "Connecticut",
+  "bill_number": "SB00413",
+  "title": "An Act Revising Various Motor Vehicle Statutes.",
+  "summary": "To revise various motor vehicle statutes regarding removable windshield placards, firefighter driving reciprocity, motor vehicle registration upon the death of the owner of the vehicle, the definition of electric scooter, car rental classifications, electric issuance licensees, the local bridge program and electric bicycles.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CT/bill/SB00413/2026",
+  "legiscan_url": "https://legiscan.com/CT/bill/SB00413/2026",
+  "state_url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00413&which_year=2026",
+  "sponsors": [
+    "Transportation Committee [Jnt]",
+    "Geraldo Reyes (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-04",
+  "session": "2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-03-04",
+      "action": "Referred to Joint Committee on Transportation",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Public Hearing 03/09",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-03",
+      "type": "Introduced",
+      "url": "https://www.cga.ct.gov/2026/TOB/S/PDF/2026SB-00413-R00-SB.PDF",
+      "doc_id": 3382982
+    }
+  ],
+  "committee": {
+    "committee_id": 1362,
+    "chamber": "J",
+    "chamber_id": 108,
+    "name": "Transportation"
+  },
+  "subjects": []
+}

@@ -1,0 +1,71 @@
+{
+  "id": 2069669,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "H7044",
+  "title": "Creates a commission to establish homeless shelter standards through regulations.",
+  "summary": "PROPERTY -- HOMELESS BILL OF RIGHTS - Creates a commission to establish homeless shelter standards through regulations.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/H7044/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/H7044/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "John Lombardi (D) [Rep]",
+    "Raymond Hull (D) [Rep]",
+    "Teresa Tanzi (D) [Rep]",
+    "Edith Ajello (D) [Rep]",
+    "Enrique Sanchez (D) [Rep]",
+    "Cherie Cruz (D) [Rep]",
+    "Brandon Potter (D) [Rep]",
+    "Jennifer Stewart (D) [Rep]",
+    "Karen Alzate (D) [Rep]",
+    "Leonela Felix (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-09",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "action": "Introduced, referred to House Municipal Government & Housing",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Scheduled for hearing and/or consideration (02/11/2026)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Committee recommended measure be held for further study",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-09",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H7044.pdf",
+      "doc_id": 3304444
+    }
+  ],
+  "committee": {
+    "committee_id": 4421,
+    "chamber": "H",
+    "chamber_id": 83,
+    "name": "Municipal Government & Housing"
+  },
+  "subjects": [
+    "Property",
+    "PROPERTY -- HOMELESS BILL OF RIGHTS"
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "id": 2012930,
+  "state": "ME",
+  "state_name": "Maine",
+  "bill_number": "LD1301",
+  "title": "An Act to Prohibit the Use of Artificial Intelligence in the Denial of Health Insurance Claims",
+  "summary": "An Act to Prohibit the Use of Artificial Intelligence in the Denial of Health Insurance Claims",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ME/bill/LD1301/2025",
+  "legiscan_url": "https://legiscan.com/ME/bill/LD1301/2025",
+  "state_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1301&snum=132",
+  "sponsors": [
+    "Michael Tipping (D) [Sen]",
+    "Poppy Arford (D) [Rep]",
+    "Donna Bailey (D) [Sen]",
+    "Sally Cluchey (D) [Rep]",
+    "Matthea Larsen Daughtry (D) [Sen]",
+    "Janice Dodge (D) [Rep]",
+    "Lori Gramlich (D) [Rep]",
+    "Joseph Martin (R) [Sen]",
+    "Cameron Reny (D) [Sen]",
+    "Samuel Zager (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-27",
+  "session": "132nd Legislature",
+  "actions": [
+    {
+      "date": "2025-03-25",
+      "action": "Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES suggested and ordered printed REFERENCE to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES Ordered sent down forthwith for concurrence",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "The Bill was REFERRED to the Committee on HEALTH COVERAGE, INSURANCE AND FINANCIAL SERVICES.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "In concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Work Session Held: TABLED",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Work Session Held: TABLED",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Work Session Held: TABLED",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Carry Over Requested",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-05-19",
+      "action": "Carry Over Approved",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-25",
+      "action": "CARRIED OVER, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Work Session Held",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Voted: ONTP",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Reported Out: ONTP",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0531&item=1&snum=132",
+      "doc_id": 3185605
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Insurance",
+    "Health Insurance"
+  ]
+}

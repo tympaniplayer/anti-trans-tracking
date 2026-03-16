@@ -1,0 +1,65 @@
+{
+  "id": 1890923,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB980",
+  "title": "Relating to the required inclusion of a person's sex on a birth certificate.",
+  "summary": "Relating to the required inclusion of a person's sex on a birth certificate.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "identity_documents"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB980/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB980/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB980",
+  "sponsors": [
+    "Steve Toth (R) [Rep]",
+    "Janis Holt (R) [Rep]"
+  ],
+  "introduced_date": "2024-11-12",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-12",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Referred to Judiciary & Civil Jurisprudence",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-11-12",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00980I.htm",
+      "doc_id": 3027445
+    }
+  ],
+  "committee": {
+    "committee_id": 1885,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Judiciary & Civil Jurisprudence"
+  },
+  "subjects": [
+    "Health",
+    "Health--General",
+    "BIRTH & DEATH CERTIFICATES",
+    "HEALTH & HUMAN SERVICES COMMISSION"
+  ]
+}

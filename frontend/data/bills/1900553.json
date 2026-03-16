@@ -1,0 +1,54 @@
+{
+  "id": 1900553,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A00317",
+  "title": "Prohibits peremptory challenges of prospective jurors based on race, color, national origin, ancestry, gender, gender identity or expression, religion, religious practice, age, disability, or sexual orientation.",
+  "summary": "Prohibits peremptory challenges of prospective jurors based on race, color, national origin, ancestry, gender, gender identity or expression, religion, religious practice, age, disability, or sexual orientation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "religious_exemptions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A00317/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A00317/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A317",
+  "sponsors": [
+    "Catalina Cruz (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-08",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to codes",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A00317&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A00317",
+      "doc_id": 3037093
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

@@ -1,0 +1,128 @@
+{
+  "id": 2087489,
+  "state": "NM",
+  "state_name": "New Mexico",
+  "bill_number": "SB1",
+  "title": "Interstate Medical Licensure Compact Act",
+  "summary": "Interstate Medical Licensure Compact Act",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NM/bill/SB1/2026",
+  "legiscan_url": "https://legiscan.com/NM/bill/SB1/2026",
+  "state_url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legtype=B&legno=1&year=26",
+  "sponsors": [
+    "Linda Trujillo (D) [Sen]",
+    "Katy Duhigg (D) [Sen]",
+    "Nicole Tobiassen (R) [Sen]",
+    "Pamelya Herndon (D) [Rep]",
+    "Marian Matthews (D) [Rep]",
+    "Gail Armstrong (R) [Rep]",
+    "Heather Berghmans (D) [Sen]",
+    "Jay Block (R) [Sen]",
+    "Crystal Diamond Brantley (R) [Sen]",
+    "Pete Campos (D) [Sen]",
+    "Joseph Cervantes (D) [Sen]",
+    "Angel Charley (D) [Sen]",
+    "Natalie Figueroa (D) [Sen]",
+    "Roberto Gonzales (D) [Sen]",
+    "Carrie Hamblen (D) [Sen]",
+    "Martin Hickey (D) [Sen]",
+    "Leo Jaramillo (D) [Sen]",
+    "Doreen Johnson (D) [Rep]",
+    "Jenifer Jones (R) [Rep]",
+    "Steve Lanier (R) [Sen]",
+    "Cindy Nava (D) [Sen]",
+    "Debbie O'Malley (D) [Sen]",
+    "Michael Padilla (D) [Sen]",
+    "Gabriel Ramos (R) [Sen]",
+    "Antoinette Sedillo Lopez (D) [Sen]",
+    "William Soules (D) [Sen]",
+    "Elizabeth Stefanics (D) [Sen]",
+    "Mimi Stewart (D) [Sen]",
+    "Peter Wirth (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-20",
+      "action": "Sent to SCC - Referrals: SCC/SJC",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "SCC: Reported by committee to fall within the purview of a 30 day session",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "SJC: Reported by committee with Do Pass recommendation",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Passed in the Senate - Y:40 N:0",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Sent to HHHC - Referrals: HHHC",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "HHHC: Reported by committee with Do Pass recommendation",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Passed in the House of Representatives - Y:64 N:0",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Signed by Governor - Chapter 3 - Feb. 5",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-23",
+      "description": "Senate Final Passage",
+      "yea": 40,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-03",
+      "description": "House Final Passage",
+      "yea": 64,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-20",
+      "type": "Introduced",
+      "url": "https://www.nmlegis.gov/Sessions/26%20Regular/bills/senate/SB0001.pdf",
+      "doc_id": 3325030
+    },
+    {
+      "date": "2026-02-07",
+      "type": "Enrolled",
+      "url": "https://www.nmlegis.gov/Sessions/26%20Regular/final/SB0001.pdf",
+      "doc_id": 3353539
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

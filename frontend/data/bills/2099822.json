@@ -1,0 +1,56 @@
+{
+  "id": 2099822,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "AJR64",
+  "title": "Designates November of each year as \"Transgender Awareness Month.\"",
+  "summary": "Designates November of each year as \"Transgender Awareness Month.\"",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/AJR64/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/AJR64/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/AJR64",
+  "sponsors": [
+    "Annette Quijano (D) [Rep]",
+    "Tennille McCoy (D) [Rep]",
+    "Luanne Peterpaul (D) [Rep]",
+    "Shanique Speight (D) [Rep]",
+    "Alixon Collazos-Gill (D) [Rep]",
+    "Rosy Bagolie (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Aging and Human Services Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-02",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/AJR/64_I1.HTM",
+      "doc_id": 3338909
+    }
+  ],
+  "committee": {
+    "committee_id": 4929,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Aging and Human Services Committee"
+  },
+  "subjects": [
+    "Aging and Human Services"
+  ]
+}

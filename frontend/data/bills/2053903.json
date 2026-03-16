@@ -1,0 +1,64 @@
+{
+  "id": 2053903,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB6258",
+  "title": "Disarm Hate Act",
+  "summary": "To prevent a person who has been convicted of a misdemeanor hate crime, or received an enhanced sentence for a misdemeanor because of hate or bias in its commission, from obtaining a firearm.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB6258/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB6258/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/6258/all-info",
+  "sponsors": [
+    "Veronica Escobar (D) [Rep]",
+    "Maxwell Frost (D) [Rep]",
+    "James Clyburn (D) [Rep]",
+    "Summer Lee (D) [Rep]",
+    "John Garamendi (D) [Rep]",
+    "Nikema Williams (D) [Rep]",
+    "Maxine Dexter (D) [Rep]",
+    "Timothy Kennedy (D) [Rep]",
+    "Dave Min (D) [Rep]"
+  ],
+  "introduced_date": "2025-11-21",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-11-21",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-21",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-17",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr6258/BILLS-119hr6258ih.pdf",
+      "doc_id": 3291334
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crime and law enforcement"
+  ]
+}

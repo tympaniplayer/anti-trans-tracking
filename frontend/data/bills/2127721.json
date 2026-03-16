@@ -1,0 +1,51 @@
+{
+  "id": 2127721,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S3746",
+  "title": "Requires BPU to develop program to promote certain energy businesses in State.",
+  "summary": "Requires BPU to develop program to promote certain energy businesses in State.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S3746/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S3746/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S3746",
+  "sponsors": [
+    "Andrew Zwicker (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-05",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-05",
+      "action": "Introduced in the Senate, Referred to Senate Economic Growth Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-06",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S4000/3746_I1.HTM",
+      "doc_id": 3387095
+    }
+  ],
+  "committee": {
+    "committee_id": 876,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Economic Growth"
+  },
+  "subjects": [
+    "Economic Growth"
+  ]
+}

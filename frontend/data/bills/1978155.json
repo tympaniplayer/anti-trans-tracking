@@ -1,0 +1,91 @@
+{
+  "id": 1978155,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB3132",
+  "title": "Relating to reporting requirements for assisted reproductive technology, including in vitro fertilization.",
+  "summary": "Relating to reporting requirements for assisted reproductive technology, including in vitro fertilization.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB3132/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB3132/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3132",
+  "sponsors": [
+    "Daniel Alders (R) [Rep]",
+    "Ben Bumgarner (R) [Rep]",
+    "Briscoe Cain (R) [Rep]",
+    "David Cook (R) [Rep]",
+    "Cody Harris (R) [Rep]",
+    "Brian Harrison (R) [Rep]",
+    "Andy Hopper (R) [Rep]",
+    "Lacey Hull (R) [Rep]",
+    "Helen Kerwin (R) [Rep]",
+    "Marc LaHood (R) [Rep]",
+    "Terri Leo-Wilson (R) [Rep]",
+    "Armando Martinez (D) [Rep]",
+    "William Metcalf (R) [Rep]",
+    "Brent Money (R) [Rep]",
+    "Matt Morgan (R) [Rep]",
+    "Candy Noble (R) [Rep]",
+    "Tom Oliverson (R) [Rep]",
+    "Dennis Paul (R) [Rep]",
+    "Keresa Richardson (R) [Rep]",
+    "Joanne Shofner (R) [Rep]",
+    "David Spiller (R) [Rep]",
+    "Valoree Swanson (R) [Rep]",
+    "Steve Toth (R) [Rep]",
+    "Ellen Troxclair (R) [Rep]",
+    "Cody Vasut (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-20",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-20",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Referred to Public Health",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-21",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB03132I.htm",
+      "doc_id": 3137474
+    }
+  ],
+  "committee": {
+    "committee_id": 1892,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Public Health"
+  },
+  "subjects": [
+    "Health Care Providers",
+    "FAMILY PLANNING & BIRTH CONTROL",
+    "PREGNANCY & CHILDBIRTH",
+    "STATE HEALTH SERVICES, DEPARTMENT OF",
+    "INFERTILITY",
+    "MEDICAL CARE FACILITIES",
+    "HEALTH & HUMAN SERVICES COMMISSION"
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": 2036445,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A08884",
+  "title": "Regulates the development and use of certain artificial intelligence systems to prevent algorithmic discrimination; requires independent audits of high risk AI systems; provides for enforcement by the attorney general as well as a private right of action.",
+  "summary": "Regulates the development and use of certain artificial intelligence systems to prevent algorithmic discrimination; requires independent audits of high risk AI systems; provides for enforcement by the attorney general as well as a private right of action.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A08884/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A08884/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A8884",
+  "sponsors": [
+    "Michaelle Solages (D) [Rep]",
+    "Emily Gallagher (D) [Rep]",
+    "Phara Souffrant Forrest (D) [Rep]",
+    "Marcela Mitaynes (D) [Rep]",
+    "Claire Valdez (D) [Rep]",
+    "Emerita Torres (D) [Rep]",
+    "Sarahana Shrestha (D) [Rep]",
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Alex Bores (D) [Rep]",
+    "Eddie Gibbs (D) [Rep]",
+    "Sarah Clark (D) [Rep]",
+    "Anna Kelles (D) [Rep]",
+    "Steven Raga (D) [Rep]",
+    "Clyde Vanel (D) [Rep]",
+    "Harvey Epstein (D) [Rep]",
+    "Jonathan Jacobson (D) [Rep]",
+    "Grace Lee (D) [Rep]",
+    "George Alvarez (D) [Rep]",
+    "Michael Reilly (R) [Rep]",
+    "Larinda Hooks (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "William Colton (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-09",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-06-09",
+      "action": "referred to science and technology",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-11",
+      "action": "reference changed to ways and means",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to ways and means",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "reference changed to science and technology",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-09",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08884&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08884",
+      "doc_id": 3253833
+    }
+  ],
+  "committee": {
+    "committee_id": 4506,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Science and Technology"
+  },
+  "subjects": []
+}

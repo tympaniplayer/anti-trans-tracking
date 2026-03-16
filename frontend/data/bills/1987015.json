@@ -1,0 +1,181 @@
+{
+  "id": 1987015,
+  "state": "ME",
+  "state_name": "Maine",
+  "bill_number": "LD799",
+  "title": "An Act to Report Gender Wage Gaps",
+  "summary": "An Act to Report Gender Wage Gaps",
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ME/bill/LD799/2025",
+  "legiscan_url": "https://legiscan.com/ME/bill/LD799/2025",
+  "state_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=799&snum=132",
+  "sponsors": [
+    "Amy Roeder (D) [Rep]",
+    "Valli Geiger (D) [Rep]",
+    "Rafael Macias (D) [Rep]",
+    "Holly Stover (D) [Rep]",
+    "Michael Tipping (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-03",
+  "session": "132nd Legislature",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Received by the Clerk of the House on February 27, 2025.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "The Bill was REFERRED to the Committee on LABOR pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Work Session Held",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Voted: Divided Report",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Reported Out: OTP-AM/ONTP",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Reports READ.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "On motion of Representative ROEDER of Bangor, the Majority Ought to Pass as Amended Report was ACCEPTED.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "ROLL CALL NO. 262 (Yeas 74 - Nays 66 - Absent 11 - Excused 0)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "The Bill was READ ONCE.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Committee Amendment \"A\" (H-353) was READ and ADOPTED.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Under suspension of the rules, the Bill was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-353).",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Reports Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "On motion by Senator TIPPING of Penobscot the Majority Ought to Pass as Amended Report ACCEPTED PREVAILED",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Roll Call Ordered Roll Call Number 321 Yeas 20 - Nays 13 - Excused 2 - Absent 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Bill READ ONCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Committee Amendment \"A\" (H-353) READ and ADOPTED.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED by Committee Amendment \"A\" (H-353) in concurrence.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "PASSED TO BE ENACTED.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-05",
+      "action": "On motion by Senator ROTUNDO of Androscoggin PLACED ON THE SPECIAL APPROPRIATIONS TABLE pending ENACTMENT in concurrence.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-25",
+      "action": "CARRIED OVER, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-02",
+      "description": "Acc Maj Otp As Amended Rep RC #262",
+      "yea": 74,
+      "nay": 66,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-03",
+      "description": "Accept Majority Ought To Pass As Amended Report RC #321",
+      "yea": 20,
+      "nay": 13,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0506&item=1&snum=132",
+      "doc_id": 3145867
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Compensation",
+    "Wages"
+  ]
+}

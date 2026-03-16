@@ -1,0 +1,87 @@
+{
+  "id": 1942622,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S03425",
+  "title": "Establishes the New York Health program, a comprehensive system of access to health insurance for New York state residents; provides for administrative structure of the plan; provides for powers and duties of the board of trustees, the scope of benefits, payment methodologies and care coordination; establishes the New York Health Trust Fund which would hold monies from a variety of sources to be used solely to finance the plan; enacts provisions relating to financing of New York Health, including a payroll assessment, similar to the Medicare tax; establishes a temporary commission on implementation of the plan; provides for collective negotiations by health care providers with New York Health.",
+  "summary": "Establishes the New York Health program, a comprehensive system of access to health insurance for New York state residents; provides for administrative structure of the plan; provides for powers and duties of the board of trustees, the scope of benefits, payment methodologies and care coordination; establishes the New York Health Trust Fund which would hold monies from a variety of sources to be used solely to finance the plan; enacts provisions relating to financing of New York Health, including a payroll assessment, similar to the Medicare tax; establishes a temporary commission on implementation of the plan; provides for collective negotiations by health care providers with New York Health.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S03425/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S03425/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S3425",
+  "sponsors": [
+    "Gustavo Rivera (D) [Sen]",
+    "Jessica Ramos (D) [Sen]",
+    "Joseph Addabbo (D) [Sen]",
+    "Jamaal Bailey (D) [Sen]",
+    "April Baskin (D) [Sen]",
+    "Erik Bottcher (D) [Sen]",
+    "Jabari Brisport (D) [Sen]",
+    "Samra Brouk (D) [Sen]",
+    "Cordell Cleare (D) [Sen]",
+    "Leroy Comrie (D) [Sen]",
+    "Jeremy Cooney (D) [Sen]",
+    "Patricia Fahy (D) [Sen]",
+    "Nathalia Fernandez (D) [Sen]",
+    "Michael Gianaris (D) [Sen]",
+    "Kristen Gonzalez (D) [Sen]",
+    "Andrew Gounardes (D) [Sen]",
+    "Peter Harckham (D) [Sen]",
+    "Michelle Hinchey (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "Brian Kavanagh (D) [Sen]",
+    "Liz Krueger (D) [Sen]",
+    "John Liu (D) [Sen]",
+    "Rachel May (D) [Sen]",
+    "Shelley Mayer (D) [Sen]",
+    "Zellnor Myrie (D) [Sen]",
+    "Kevin Parker (D) [Sen]",
+    "Roxanne Persaud (D) [Sen]",
+    "Julia Salazar (D) [Sen]",
+    "James Sanders (D) [Sen]",
+    "Luis Sepulveda (D) [Sen]",
+    "Jose Serrano (D) [Sen]",
+    "Toby Stavisky (D) [Sen]",
+    "Lea Webb (D) [Sen]",
+    "Jeremy Zellner (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-27",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-27",
+      "action": "REFERRED TO HEALTH",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO HEALTH",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-27",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S03425&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S03425",
+      "doc_id": 3083689
+    }
+  ],
+  "committee": {
+    "committee_id": 429,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Health"
+  },
+  "subjects": []
+}

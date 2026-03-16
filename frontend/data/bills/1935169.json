@@ -1,0 +1,73 @@
+{
+  "id": 1935169,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "HF98",
+  "title": "Case management associate, mental health behavioral aide, and mental health rehabilitation worker supervision requirements modified; mental health residential program critical incident reporting requirements modified, and other mental health policies modified.",
+  "summary": "Case management associate, mental health behavioral aide, and mental health rehabilitation worker supervision requirements modified; mental health residential program critical incident reporting requirements modified, and other mental health policies modified.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/HF98/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/HF98/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/98/",
+  "sponsors": [
+    "Peter Fischer (D) [Rep]",
+    "Dawn Gillman (R) [Rep]",
+    "Dave Baker (R) [Rep]",
+    "Luke Frederick (D) [Rep]",
+    "Joe Schomacker (R) [Rep]",
+    "Mohamud Noor (D) [Rep]",
+    "Brion Curran (D) [Rep]",
+    "Natalie Zeleznikar (R) [Rep]",
+    "Bianca Virnig (D) [Rep]",
+    "Kelly Moller (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-10",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-02-10",
+      "action": "Introduction and first reading, referred to Human Services Finance and Policy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Author added Curran",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-17",
+      "action": "Authors added Zeleznikar and Virnig",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Author added Moller",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-21",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/98/versions/0/pdf/",
+      "doc_id": 3072422
+    }
+  ],
+  "committee": {
+    "committee_id": 4304,
+    "chamber": "H",
+    "chamber_id": 55,
+    "name": "Human Services Finance & Policy"
+  },
+  "subjects": []
+}

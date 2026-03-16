@@ -1,0 +1,58 @@
+{
+  "id": 2020615,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF3321",
+  "title": "Gender-affirming care limiting the impact of certain laws removal provision",
+  "summary": "Gender-affirming care limiting the impact of certain laws removal provision",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF3321/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF3321/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3321/",
+  "sponsors": [
+    "Nathan Wesenberg (R) [Sen]",
+    "Torrey Westrom (R) [Sen]",
+    "Bill Lieske (R) [Sen]",
+    "Robert Farnsworth (R) [Sen]",
+    "Eric Lucero (R) [Sen]"
+  ],
+  "introduced_date": "2025-04-07",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-04-07",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Referred to Judiciary and Public Safety",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-04",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/3321/versions/0/pdf/",
+      "doc_id": 3202285
+    }
+  ],
+  "committee": {
+    "committee_id": 1748,
+    "chamber": "S",
+    "chamber_id": 56,
+    "name": "Judiciary and Public Safety"
+  },
+  "subjects": []
+}

@@ -1,0 +1,105 @@
+{
+  "id": 2031327,
+  "state": "DE",
+  "state_name": "Delaware",
+  "bill_number": "HB37",
+  "title": "An Act To Amend Title 6 Of The Delaware Code Relating To Public Accommodations.",
+  "summary": "An Act To Amend Title 6 Of The Delaware Code Relating To Public Accommodations.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DE/bill/HB37/2025",
+  "legiscan_url": "https://legiscan.com/DE/bill/HB37/2025",
+  "state_url": "https://legis.delaware.gov/BillDetail?LegislationId=142287",
+  "sponsors": [
+    "Eric Morrison (D) [Rep]",
+    "DeShanna Neal (D) [Rep]",
+    "William Bush (D) [Rep]",
+    "Elizabeth Lockman (D) [Sen]",
+    "Sean Lynn (D) [Rep]",
+    "Sophie Phillips (D) [Rep]",
+    "Mara Gorman (D) [Rep]",
+    "Claire Snyder-Hall (D) [Rep]",
+    "Melanie Ross Levin (D) [Rep]",
+    "Stephanie Hansen (D) [Sen]",
+    "Daniel Cruce (D) [Sen]",
+    "Raymond Seigfried (D) [Sen]"
+  ],
+  "introduced_date": "2025-08-20",
+  "session": "153rd General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-14",
+      "action": "Introduced and Assigned to Administration Committee in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-11",
+      "action": "Reported Out of Committee (Administration) in House with 5 On Its Merits",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-17",
+      "action": "Passed By House. Votes: 26 YES 12 NO 3 ABSENT",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-17",
+      "action": "Assigned to Banking, Business, Insurance & Technology Committee in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-25",
+      "action": "Reported Out of Committee (Banking, Business, Insurance & Technology) in Senate with 1 Favorable, 4 On Its Merits",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Amendment SA 1 to HB 37 - Defeated By Senate. Votes: 6 YES 12 NO 3 NOT VOTING",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-30",
+      "action": "Passed By Senate. Votes: 15 YES 6 NO",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-20",
+      "action": "Signed by Governor",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-17",
+      "description": "House Third Reading",
+      "yea": 26,
+      "nay": 12,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-30",
+      "description": "Senate Third Reading",
+      "yea": 15,
+      "nay": 6,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Draft",
+      "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142287&legislationTypeId=1&docTypeId=2&legislationName=HB37",
+      "doc_id": 3236950
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

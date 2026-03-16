@@ -1,0 +1,140 @@
+{
+  "id": 2056297,
+  "state": "NH",
+  "state_name": "New Hampshire",
+  "bill_number": "HB1442",
+  "title": "Limiting the use of certain facilities on the basis of sex and redefining the term \"gender identity.\"",
+  "summary": "Limiting the use of certain facilities on the basis of sex and redefining the term \"gender identity.\"",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NH/bill/HB1442/2026",
+  "legiscan_url": "https://legiscan.com/NH/bill/HB1442/2026",
+  "state_url": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2729&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1442",
+  "sponsors": [
+    "Erica Layon (R) [Rep]",
+    "Liz Barbour (R) [Rep]",
+    "Sherri Reinfurt (R) [Rep]",
+    "Katy Peternel (R) [Rep]",
+    "Linda McGrath (R) [Rep]",
+    "Daniel Popovici-Muller (R) [Rep]",
+    "Matt Sabourin (R) [Rep]",
+    "Lisa Mazur (R) [Rep]",
+    "Sayra Devito (R) [Rep]",
+    "David Love (R) [Rep]",
+    "Regina Birdsell (R) [Sen]",
+    "Kevin Avard (R) [Sen]",
+    "William Gannon (R) [Sen]"
+  ],
+  "introduced_date": "2026-03-06",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-04",
+      "action": "Introduced 01/07/2026 and referred to Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Public Hearing: 02/20/2026 11:00 am GP 231",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Executive Session: 02/20/2026 11:00 am GP 231",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Committee Report: Refer for Interim Study 02/20/2026 (Vote 17-0; Consent Calendar) House Calendar 9 P. 18",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Removed from Consent (Reps. Kofalt, Mazur, Layon, Sabourin dit Choiniere, Farrington, McFarlane, Beaulier, DeVito, Sirois, McGrath, Korzen) 03/03/2026 House Journal  5",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Special Order to the next order of business (Rep. Kofalt): Motion Adopted DV 191-158 03/05/2026 House Journal  6",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Lay HB1442 on Table (Rep. Wade): Motion Failed Regular Calendar 163-186 03/05/2026 House Journal  6",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Refer for Interim Study: Motion Failed Regular Calendar 163-182 03/05/2026 House Journal  6",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "FLAM # 2026-1054h (Rep. Layon): Amendment Adopted Regular Calendar 183-162 03/05/2026 House Journal  6",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Ought to Pass with Amendment 2026-1054h: Motion Adopted Regular Calendar 181-164 03/05/2026 House Journal  6",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Introduced 03/05/2026 and Referred to Judiciary; Senate Journal 6",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-05",
+      "description": "Table",
+      "yea": 163,
+      "nay": 186,
+      "passed": 0
+    },
+    {
+      "date": "2026-03-05",
+      "description": "Interim Study",
+      "yea": 163,
+      "nay": 182,
+      "passed": 0
+    },
+    {
+      "date": "2026-03-05",
+      "description": "Adopt Floor Amendment",
+      "yea": 183,
+      "nay": 162,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-05",
+      "description": "OTPA",
+      "yea": 181,
+      "nay": 164,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&id=1937&txtFormat=html",
+      "doc_id": 3288592
+    }
+  ],
+  "committee": {
+    "committee_id": 1273,
+    "chamber": "S",
+    "chamber_id": 68,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

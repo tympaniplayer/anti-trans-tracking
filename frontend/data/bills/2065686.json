@@ -1,0 +1,93 @@
+{
+  "id": 2065686,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB1540",
+  "title": "988 Suicide & Crisis Lifeline: LGBTQ+ youth.",
+  "summary": "An act to add Section 53123.7 to the Government Code, relating to mental health, and declaring the urgency thereof, to take effect immediately.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB1540/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB1540/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1540",
+  "sponsors": [
+    "Mark Gonzalez (D) [Rep]",
+    "Alex Lee (D) [Rep]",
+    "Chris Ward (D) [Rep]",
+    "Dawn Addis (D) [Rep]",
+    "Tasha Boerner Horvath (D) [Rep]",
+    "Mia Bonta (D) [Rep]",
+    "Sade Elhawary (D) [Rep]",
+    "Lena Gonzalez (D) [Sen]",
+    "John Harabedian (D) [Rep]",
+    "Corey Jackson (D) [Rep]",
+    "Caroline Menjivar (D) [Sen]",
+    "Steve Padilla (D) [Sen]",
+    "Gail Pellerin (D) [Rep]",
+    "Sasha Renee Perez (D) [Sen]",
+    "Pilar Schiavo (D) [Rep]",
+    "Jose Solache (D) [Rep]",
+    "Greg Wallis (R) [Rep]",
+    "Scott Wiener (D) [Sen]",
+    "Rick Zbur (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-05",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-05",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-06",
+      "action": "From printer. May be heard in committee February 5.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Referred to Coms. on HEALTH and C. & C.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on HEALTH. Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Re-referred to Com. on HEALTH.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-05",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1540#99INT",
+      "doc_id": 3299940
+    },
+    {
+      "date": "2026-02-17",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1540#98AMD",
+      "doc_id": 3365617
+    }
+  ],
+  "committee": {
+    "committee_id": 457,
+    "chamber": "A",
+    "chamber_id": 19,
+    "name": "Health"
+  },
+  "subjects": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2076520,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S2618",
+  "title": "Removes exclusion of affectional or sexual orientation and gender identity or expression from affirmative action programs under public works contracts.",
+  "summary": "Removes exclusion of affectional or sexual orientation and gender identity or expression from affirmative action programs under public works contracts.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S2618/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S2618/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S2618",
+  "sponsors": [
+    "Vin Gopal (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-06",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S3000/2618_I1.HTM",
+      "doc_id": 3313539
+    }
+  ],
+  "committee": {
+    "committee_id": 886,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "State Government, Wagering, Tourism & Historic Preservation"
+  },
+  "subjects": [
+    "State Government, Wagering, Tourism & Historic Preservation"
+  ]
+}

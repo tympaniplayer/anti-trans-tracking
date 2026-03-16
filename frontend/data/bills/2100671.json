@@ -1,0 +1,54 @@
+{
+  "id": 2100671,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "S0860",
+  "title": "Women's Sports",
+  "summary": "A Senate Resolution To Call On Congress To Reaffirm Title Ix's Protections That Afford Every Woman And Girl Equal Opportunities In Athletics And To Urge The Supreme Court Of The United States To Uphold The Authority Of Every State To Ensure Women's Sports Are Reserved For Females Only.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/S0860/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/S0860/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0860&session=126&summary=B",
+  "sponsors": [
+    "Mike Reichenbach (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-28",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-28",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Referred to Committee on Education",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-28",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/860_20260128.htm",
+      "doc_id": 3339806
+    }
+  ],
+  "committee": {
+    "committee_id": 720,
+    "chamber": "S",
+    "chamber_id": 86,
+    "name": "Education"
+  },
+  "subjects": []
+}

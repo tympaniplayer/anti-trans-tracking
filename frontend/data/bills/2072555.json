@@ -1,0 +1,85 @@
+{
+  "id": 2072555,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "HB532",
+  "title": "Sage's Law; minor students experiencing gender incongruence, etc.",
+  "summary": "Sage's Law; minor students experiencing gender incongruence; parental notification of certain requests and parental permission for certain plans required; parental care. Requires each public elementary or secondary school principal or his designee to (i) as soon as practicable, inform at least one parent of a minor student enrolled in such school if such minor requests that any such employee participate while at school in the social affirmation of such minor student's gender incongruence or the transition of such minor student to a sex or gender different from the minor's biological sex, as such terms are defined in the bill, and (ii) request and receive permission from at least one parent of a minor student enrolled at such school prior to the implementation at such school of any plan concerning any gender incongruence experienced by such minor, including any counseling of such minor at school. Any such plan shall include provision for parental participation to the extent requested by the parent. The bill also clarifies, in the definition of the term \"abused or neglected child,\" that in no event shall referring to and raising the child in a manner consistent with the child's biological sex, including related mental health or medical decisions, be considered abuse or neglect.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions",
+    "healthcare"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/HB532/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/HB532/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/HB532",
+  "sponsors": [
+    "Karen Hamilton (R) [Rep]",
+    "Eric Zehr (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26102671D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Referred to Committee on Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (HB532)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Assigned HED sub: K-12 Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Subcommittee recommends laying on the table (7-Y 3-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Left in Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-10",
+      "description": "Subcommittee recommends laying on the table (7-Y 3-N)",
+      "yea": 7,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-13",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB532/text/HB532",
+      "doc_id": 3307426
+    }
+  ],
+  "committee": {
+    "committee_id": 151,
+    "chamber": "H",
+    "chamber_id": 7,
+    "name": "Education"
+  },
+  "subjects": []
+}

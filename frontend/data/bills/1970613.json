@@ -1,0 +1,77 @@
+{
+  "id": 1970613,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB2846",
+  "title": "Relating to parental rights in public education and prohibiting instruction regarding sexual orientation or gender identity for public school students.",
+  "summary": "Relating to parental rights in public education and prohibiting instruction regarding sexual orientation or gender identity for public school students.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB2846/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB2846/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2846",
+  "sponsors": [
+    "Matthew Shaheen (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-14",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-14",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Referred to Public Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-14",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB02846I.htm",
+      "doc_id": 3120802
+    }
+  ],
+  "committee": {
+    "committee_id": 1891,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Public Education"
+  },
+  "subjects": [
+    "Civil Remedies & Liabilities",
+    "Education",
+    "Education--Primary & Secondary",
+    "Education--Primary & Secondary--Curriculum",
+    "Education--Primary & Secondary--Extracurricular Activities",
+    "Education--Primary & Secondary--Other School Personnel",
+    "Education--Primary & Secondary--Teachers",
+    "Education--School Districts",
+    "Mental Health & Substance Abuse",
+    "GENDER IDENTITY & EXPRESSION",
+    "GRIEVANCE PROCEDURES",
+    "PARENTAL CONSENT",
+    "PARENTAL NOTIFICATION",
+    "PARENTAL RIGHTS",
+    "SEXUAL ORIENTATION",
+    "EDUCATION, STATE BOARD OF",
+    "EDUCATOR CERTIFICATION, STATE BOARD FOR"
+  ]
+}

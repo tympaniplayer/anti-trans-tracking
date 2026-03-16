@@ -1,0 +1,324 @@
+{
+  "id": 1976522,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB935",
+  "title": "State agencies: complaints: demographic data.",
+  "summary": "An act to add Section 33315.5 to the Education Code, and to add Section 8310.10 to the Government Code, relating to state government administration.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB935/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB935/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB935",
+  "sponsors": [
+    "Rhodesia Ransom (D) [Rep]",
+    "Mia Bonta (D) [Rep]",
+    "Isaac Bryan (D) [Rep]",
+    "Sade Elhawary (D) [Rep]",
+    "Mike Gipson (D) [Rep]",
+    "Corey Jackson (D) [Rep]",
+    "Tina McKinnor (D) [Rep]",
+    "Laura Richardson (D) [Sen]",
+    "LaShae Sharp-Collins (D) [Rep]",
+    "Lola Smallwood-Cuevas (D) [Sen]",
+    "Akilah Weber Pierson (D) [Sen]",
+    "Lori Wilson (D) [Rep]"
+  ],
+  "introduced_date": "2025-10-13",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-19",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "From printer. May be heard in committee March 22.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Referred to Coms. on JUD. and ED.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on JUD. Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Re-referred to Com. on JUD.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "From committee: Do pass and re-refer to Com. on ED. (Ayes 9. Noes 1.) (April 8). Re-referred to Com. on ED.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (April 30).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Re-referred to Com. on APPR.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "From committee: Do pass. (Ayes 11. Noes 2.) (May 23).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Read third time. Passed. Ordered to the Senate. (Ayes 62. Noes 10. Page 1984.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Referred to Coms. on JUD. and ED.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-02",
+      "action": "From committee: Amend, and do pass as amended and re-refer to Com. on ED. (Ayes 11. Noes 1.) (July 1).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-03",
+      "action": "Read second time and amended. Re-referred to Com. on ED.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-17",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 5. Noes 1.) (July 16). Re-referred to Com. on APPR.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-18",
+      "action": "In committee: Referred to suspense file.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-29",
+      "action": "From committee: Amend, and do pass as amended. (Ayes 5. Noes 2.) (August 29).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-29",
+      "action": "Read second time and amended. Ordered returned to second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-02",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-04",
+      "action": "Read third time and amended. Ordered to second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-05",
+      "action": "Read second time and amended. Ordered returned to second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-08",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-09",
+      "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 30. Noes 9. Page 2728.).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-09",
+      "action": "In Assembly. Concurrence in Senate amendments pending.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-10",
+      "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 62. Noes 12. Page 3202.).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-22",
+      "action": "Enrolled and presented to the Governor at 3 p.m.",
+      "chamber": ""
+    },
+    {
+      "date": "2025-10-13",
+      "action": "Approved by the Governor.",
+      "chamber": ""
+    },
+    {
+      "date": "2025-10-13",
+      "action": "Chaptered by Secretary of State - Chapter 717, Statutes of 2025.",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-08",
+      "description": "Do pass and be re-referred to the Committee on [Education]",
+      "yea": 9,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-30",
+      "description": "Do pass as amended and be re-referred to the Committee on [Appropriations]",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-23",
+      "description": "Do pass",
+      "yea": 11,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-03",
+      "description": "AB 935 Ransom Assembly Third Reading",
+      "yea": 62,
+      "nay": 10,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-01",
+      "description": "Do pass as amended, but first amend, and re-refer to the Committee on [Education]",
+      "yea": 11,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-16",
+      "description": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+      "yea": 5,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-08-18",
+      "description": "Placed on suspense file",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-08-29",
+      "description": "Do pass as amended",
+      "yea": 5,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-09",
+      "description": "Assembly 3rd Reading AB935 Ransom et al. By Weber Pierson",
+      "yea": 30,
+      "nay": 9,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-10",
+      "description": "AB 935 Ransom Concurrence in Senate Amendments",
+      "yea": 62,
+      "nay": 12,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-19",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB935#99INT",
+      "doc_id": 3131951
+    },
+    {
+      "date": "2025-03-24",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB935#98AMD",
+      "doc_id": 3186970
+    },
+    {
+      "date": "2025-05-05",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB935#97AMD",
+      "doc_id": 3229400
+    },
+    {
+      "date": "2025-07-03",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB935#96AMD",
+      "doc_id": 3260599
+    },
+    {
+      "date": "2025-08-29",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB935#95AMD",
+      "doc_id": 3266835
+    },
+    {
+      "date": "2025-09-04",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB935#94AMD",
+      "doc_id": 3267671
+    },
+    {
+      "date": "2025-09-05",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB935#93AMD",
+      "doc_id": 3268030
+    },
+    {
+      "date": "2025-09-12",
+      "type": "Enrolled",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB935#92ENR",
+      "doc_id": 3268989
+    },
+    {
+      "date": "2025-10-13",
+      "type": "Chaptered",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB935#91CHP",
+      "doc_id": 3273276
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

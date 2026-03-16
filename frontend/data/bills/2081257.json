@@ -1,0 +1,59 @@
+{
+  "id": 2081257,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "SB1905",
+  "title": "Health care; prohibiting certain transgender-association procedures and medications; providing criminal, civil, and administrative penalties. Emergency.",
+  "summary": "Health care; prohibiting certain transgender-association procedures and medications; providing criminal, civil, and administrative penalties. Emergency.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/SB1905/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/SB1905/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=sb1905&Session=2600",
+  "sponsors": [
+    "Shane Jett (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Authored by Senator Jett",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Second Reading referred to Health and Human Services",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-15",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/SB/SB1905%20INT.PDF",
+      "doc_id": 3318390
+    }
+  ],
+  "committee": {
+    "committee_id": 1229,
+    "chamber": "S",
+    "chamber_id": 80,
+    "name": "Health and Human Services"
+  },
+  "subjects": []
+}

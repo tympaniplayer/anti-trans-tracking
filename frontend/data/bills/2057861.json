@@ -1,0 +1,61 @@
+{
+  "id": 2057861,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB6538",
+  "title": "More Affordable Care Act",
+  "summary": "To establish a health freedom waiver program, to promote better price reporting and outcomes, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB6538/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB6538/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/6538/all-info",
+  "sponsors": [
+    "August Pfluger (R) [Rep]",
+    "Aaron Bean (R) [Rep]",
+    "Julie Fedorchak (R) [Rep]",
+    "James Baird (R) [Rep]",
+    "Andrew Clyde (R) [Rep]",
+    "Craig Goldman (R) [Rep]"
+  ],
+  "introduced_date": "2025-12-09",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-12-09",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-09",
+      "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-27",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr6538/BILLS-119hr6538ih.pdf",
+      "doc_id": 3293587
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

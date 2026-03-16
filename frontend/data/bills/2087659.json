@@ -1,0 +1,51 @@
+{
+  "id": 2087659,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB390",
+  "title": "Budget Bill (Fiscal Year 2027)",
+  "summary": "Making the proposed appropriations contained in the State Budget for the fiscal year ending June 30, 2027, in accordance with Article III, Section 52 of the Maryland Constitution; etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB390/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB390/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0390?ys=2026RS",
+  "sponsors": [],
+  "introduced_date": "2026-01-21",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-21",
+      "action": "First Reading Appropriations",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0390f.pdf",
+      "doc_id": 3325860
+    }
+  ],
+  "committee": {
+    "committee_id": 1922,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Appropriations"
+  },
+  "subjects": [
+    "Operating Budget",
+    "Appropriations",
+    "Budgets"
+  ]
+}

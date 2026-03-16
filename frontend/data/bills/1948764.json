@@ -1,0 +1,79 @@
+{
+  "id": 1948764,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HR144",
+  "title": "Adopting the Housekeeping Resolution for the House of Representatives of the 89th Legislature.",
+  "summary": "Adopting the Housekeeping Resolution for the House of Representatives of the 89th Legislature.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HR144/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HR144/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HR144",
+  "sponsors": [
+    "J.M. Lozano (R) [Rep]",
+    "Ben Bumgarner (R) [Rep]",
+    "Brian Harrison (R) [Rep]",
+    "Richard Hayes (R) [Rep]",
+    "Janis Holt (R) [Rep]",
+    "Andy Hopper (R) [Rep]",
+    "Carrie Isaac (R) [Rep]",
+    "Helen Kerwin (R) [Rep]",
+    "Mitch Little (R) [Rep]",
+    "David Lowe (R) [Rep]",
+    "Shelley Luther (R) [Rep]",
+    "Brent Money (R) [Rep]",
+    "Mike Olcott (R) [Rep]",
+    "Katrina Pierson (R) [Rep]",
+    "Keresa Richardson (R) [Rep]",
+    "Nate Schatzline (R) [Rep]",
+    "Valoree Swanson (R) [Rep]",
+    "Tony Tinderholt (R) [Rep]",
+    "Steve Toth (R) [Rep]",
+    "Wesley Virdell (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-30",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-30",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Referred to House Administration",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-31",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HR00144I.htm",
+      "doc_id": 3094308
+    }
+  ],
+  "committee": {
+    "committee_id": 1882,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Administration"
+  },
+  "subjects": [
+    "Legislature",
+    "Resolutions",
+    "Resolutions--Administration",
+    "Resolutions--Rules",
+    "HOUSEKEEPING RESOLUTION"
+  ]
+}

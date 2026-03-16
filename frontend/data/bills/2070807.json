@@ -1,0 +1,307 @@
+{
+  "id": 2070807,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "HB301",
+  "title": "Adult adoptees; access to vital records.",
+  "summary": "Adult adoptees; access to vital records. Requires the State Registrar to provide adult adoptees access to their birth certificate upon request, provided that the requester submits an application, proof of identification, and payment and that the original birth certificate is not the certificate of birth in use, subject to amendment, or used by an individual for legal purposes. The bill directs the State Registrar to make a contact preference form available to birth parents that allows them to indicate their preference for contact by the adopted person, to be stored with the adopted person's birth certificate and provided upon the adopted person's request for the birth certificate. This bill incorporates HB 664.",
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
+  "categories": [
+    "identity_documents",
+    "education"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/HB301/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/HB301/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/HB301",
+  "sponsors": [
+    "Katrina Callsen (D) [Rep]",
+    "Debra Gardner (D) [Rep]",
+    "Karen Keys-Gamarra (D) [Rep]",
+    "Wendell Walker (R) [Rep]",
+    "Phil Hernandez (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-11",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26101925D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-09",
+      "action": "Referred to Committee on Health and Human Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (HB301)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-16",
+      "action": "Assigned sub: Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "House subcommittee offered",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Subcommittee recommends reporting with substitute (7-Y 2-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Reported from Health and Human Services with substitute (16-Y 6-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Incorporates HB664 (Walker)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Committee substitute printed 26105811D-H1",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Substitute bill reprinted 26105811D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Read second time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "committee substitute agreed to",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Engrossed by House - committee substitute",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Read third time and passed House (84-Y 10-N 0-A)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Constitutional reading dispensed (on 1st reading)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Referred to Committee on Education and Health",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (HB301)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Rereferred from Education and Health to Rehabilitation and Social Services (13-Y 0-N)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Reported from Rehabilitation and Social Services (13-Y 1-N 1-A)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Rules suspended",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Constitutional reading dispensed (on 2nd reading) (39-Y 0-N 0-A)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Passed by for the day (Voice Vote)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Read third time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Passed Senate (33-Y 7-N 0-A)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Reconsideration of Senate passage agreed to by Senate (39-Y 0-N 0-A)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Passed by for the day",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Passed Senate (28-Y 12-N 0-A)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Enrolled",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Bill text as passed House and Senate (HB301ER)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (HB301)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Signed by President",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Signed by Speaker",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-14",
+      "action": "Enrolled Bill communicated to Governor on March 14, 2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-14",
+      "action": "Governor's Action Deadline 11:59 p.m., April 13, 2026",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-20",
+      "description": "Subcommittee recommends reporting with substitute (7-Y 2-N)",
+      "yea": 7,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-22",
+      "description": "Reported from Health and Human Services with substitute (16-Y 6-N)",
+      "yea": 16,
+      "nay": 6,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-28",
+      "description": "Read third time and passed House (84-Y 10-N 0-A)",
+      "yea": 84,
+      "nay": 10,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-26",
+      "description": "Rereferred from Education and Health to Rehabilitation and Social Services (13-Y 0-N)",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-27",
+      "description": "Reported from Rehabilitation and Social Services (13-Y 1-N 1-A)",
+      "yea": 13,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-02",
+      "description": "Constitutional reading dispensed (on 2nd reading) (39-Y 0-N 0-A)",
+      "yea": 39,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-03",
+      "description": "Passed Senate (33-Y 7-N 0-A)",
+      "yea": 33,
+      "nay": 7,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-03",
+      "description": "Reconsideration of Senate passage agreed to by Senate (39-Y 0-N 0-A)",
+      "yea": 38,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-04",
+      "description": "Passed Senate (28-Y 12-N 0-A)",
+      "yea": 28,
+      "nay": 12,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-09",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB301/text/HB301",
+      "doc_id": 3305544
+    },
+    {
+      "date": "2026-01-20",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB301/text/HB301HC1",
+      "doc_id": 3324022
+    },
+    {
+      "date": "2026-01-20",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB301/text/HB301H1",
+      "doc_id": 3324023
+    },
+    {
+      "date": "2026-01-27",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB301/text/HB301H2",
+      "doc_id": 3333923
+    },
+    {
+      "date": "2026-03-11",
+      "type": "Enrolled",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB301/text/HB301ER",
+      "doc_id": 3391298
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

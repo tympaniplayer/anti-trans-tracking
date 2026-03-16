@@ -1,0 +1,76 @@
+{
+  "id": 2112497,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "SB908",
+  "title": "Correctional Services - Restrictive Housing",
+  "summary": "Altering a certain definition of restrictive housing; limiting the amount of time that an individual may be placed in restrictive housing; requiring all restrictive housing units to create the least restrictive environment necessary for certain purposes; prohibiting the placement of a certain member of a vulnerable population in restrictive housing for any period of time; requiring a certain individual in restrictive housing to be offered a certain amount of time outside the individual's cell each day; etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/SB908/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/SB908/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0908?ys=2026RS",
+  "sponsors": [
+    "Sara Love (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-06",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "action": "First Reading Judicial Proceedings",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Hearing 2/25 at 1:00 p.m.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-11",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/sb/sb0908f.pdf",
+      "doc_id": 3358800
+    }
+  ],
+  "committee": {
+    "committee_id": 1934,
+    "chamber": "S",
+    "chamber_id": 50,
+    "name": "Judicial Proceedings"
+  },
+  "subjects": [
+    "Corrections",
+    "Blind and Low Vision",
+    "Correctional Institutions",
+    "Deaf and Hard of Hearing",
+    "Developmental Disabilities",
+    "Disabilities",
+    "Elderly Persons (65+)",
+    "Evaluations and Reviews",
+    "Gender",
+    "Incarcerated Individuals",
+    "Medical Conditions",
+    "Mental and Behavioral Health",
+    "Minors",
+    "Ombudsmen",
+    "Parents and Guardians",
+    "Pregnancy",
+    "Reports",
+    "Restrictive Housing",
+    "Sexual Orientation",
+    "Time",
+    "Women"
+  ]
+}

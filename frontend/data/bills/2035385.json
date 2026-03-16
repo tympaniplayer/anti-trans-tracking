@@ -1,0 +1,87 @@
+{
+  "id": 2035385,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR465",
+  "title": "Expressing the sense of the House of Representatives that the Congress should enact the Older Americans Bill of Rights to establish that older Americans should have the right to live with dignity and with independence.",
+  "summary": "Expressing the sense of the House of Representatives that the Congress should enact the Older Americans Bill of Rights to establish that older Americans should have the right to live with dignity and with independence.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR465/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR465/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/465/all-info",
+  "sponsors": [
+    "Janice Schakowsky (D) [Rep]",
+    "Doris Matsui (D) [Rep]",
+    "Debbie Dingell (D) [Rep]",
+    "Ayanna Pressley (D) [Rep]",
+    "Lloyd Doggett (D) [Rep]",
+    "Nanette Barragan (D) [Rep]",
+    "Julia Brownley (D) [Rep]",
+    "Emanuel Cleaver (D) [Rep]",
+    "Dwight Evans (D) [Rep]",
+    "Maxwell Frost (D) [Rep]",
+    "Sylvia Garcia (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "William Keating (D) [Rep]",
+    "Stephen Lynch (D) [Rep]",
+    "Betty McCollum (D) [Rep]",
+    "Grace Meng (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Terri Sewell (D) [Rep]",
+    "Mark Takano (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Paul Tonko (D) [Rep]",
+    "Juan Vargas (D) [Rep]",
+    "Pramila Jayapal (D) [Rep]",
+    "Marcy Kaptur (D) [Rep]",
+    "Troy Carter (D) [Rep]",
+    "Jesus Garcia (D) [Rep]",
+    "Jennifer McClellan (D) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "Ro Khanna (D) [Rep]",
+    "Jerrold Nadler (D) [Rep]",
+    "Seth Magaziner (D) [Rep]",
+    "Adelita Grijalva (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-03",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-03",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Referred to the Committee on Education and Workforce, and in addition to the Committees on Energy and Commerce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-05",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres465/BILLS-119hres465ih.pdf",
+      "doc_id": 3252044
+    }
+  ],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": [
+    "Social welfare"
+  ]
+}

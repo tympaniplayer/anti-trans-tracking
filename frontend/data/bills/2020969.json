@@ -1,0 +1,522 @@
+{
+  "id": 2020969,
+  "state": "NC",
+  "state_name": "North Carolina",
+  "bill_number": "H805",
+  "title": "Prevent Sexual Exploitation/Women and Minors",
+  "summary": "Prevent Sexual Exploitation/Women and Minors",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NC/bill/H805/2025",
+  "legiscan_url": "https://legiscan.com/NC/bill/H805/2025",
+  "state_url": "https://www.ncleg.gov/BillLookUp/2025/H805",
+  "sponsors": [
+    "Neal Jackson (R) [Rep]",
+    "Sarah Stevens (R) [Rep]",
+    "Jennifer Balkcom (R) [Rep]",
+    "Jonathan Almond (R) [Rep]",
+    "Brian Biggs (R) [Rep]",
+    "John Blust (R) [Rep]",
+    "James Dixon (R) [Rep]",
+    "Brian Echevarria (R) [Rep]",
+    "Blair Eddins (R) [Rep]",
+    "Kelly Hastings (R) [Rep]",
+    "Jake Johnson (R) [Rep]",
+    "Keith Kidwell (R) [Rep]",
+    "Donnie Loftis (R) [Rep]",
+    "Ben Moss (R) [Rep]",
+    "Ray Pickett (R) [Rep]",
+    "Dennis Riddell (R) [Rep]",
+    "Stephen Ross (R) [Rep]",
+    "Paul Scott (R) [Rep]",
+    "Bill Ward (R) [Rep]",
+    "Donna White (R) [Rep]",
+    "Jeff Zenger (R) [Rep]"
+  ],
+  "introduced_date": "2025-07-29",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-04-07",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Passed 1st Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Ref to the Com on Judiciary 2, if favorable, State and Local Government, if favorable, Rules, Calendar, and Operations of the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Reptd Fav Com Substitute",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Re-ref Com On State and Local Government",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Reptd Fav",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Re-ref Com On Rules, Calendar, and Operations of the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Reptd Fav",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Cal Pursuant Rule 36(b)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Added to Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Passed 2nd Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Passed 3rd Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Special Message Sent To Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Special Message Received From House",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Passed 1st Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Ref To Com On Rules and Operations of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Withdrawn From Com",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Re-ref to Judiciary. If fav, re-ref to Rules and Operations of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Reptd Fav Com Substitute",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Com Substitute Adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Re-ref Com On Rules and Operations of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-19",
+      "action": "Reptd Fav",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-19",
+      "action": "Placed On Cal For 06/23/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-23",
+      "action": "Withdrawn From Cal",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-23",
+      "action": "Placed On Cal For 06/24/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "Motion to Divide Failed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "Amend Adopted A2",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "Amend Failed A1",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "Amend Adopted A4",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "Amend Failed A3",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "Amend Failed A5",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "Amend Adopted A7",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "Amend Failed A6",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "Amend Tabled A8",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "Amend Tabled A9",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "Amend Tabled A10",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "Passed 2nd Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "Passed 3rd Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "Engrossed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-25",
+      "action": "Special Message Sent To House",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-25",
+      "action": "Special Message Received For Concurrence in S Com Sub",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-25",
+      "action": "Cal Pursuant 36(b)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-25",
+      "action": "Added to Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-25",
+      "action": "Concurred In S Com Sub",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-25",
+      "action": "Ordered Enrolled",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Ratified",
+      "chamber": ""
+    },
+    {
+      "date": "2025-06-27",
+      "action": "Pres. To Gov. 6/27/2025",
+      "chamber": ""
+    },
+    {
+      "date": "2025-07-03",
+      "action": "Vetoed 07/03/2025",
+      "chamber": ""
+    },
+    {
+      "date": "2025-07-03",
+      "action": "Received from the Governor",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-03",
+      "action": "Placed On Cal For 07/29/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-29",
+      "action": "Veto Overridden",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-29",
+      "action": "Veto Received From House",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-29",
+      "action": "Placed on Today's Calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-29",
+      "action": "Veto Overridden",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-29",
+      "action": "Ch. SL 2025-84",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-07",
+      "description": "Second Reading",
+      "yea": 113,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-24",
+      "description": "Amendment 10 Motion 1 To Table",
+      "yea": 27,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-24",
+      "description": "Amendment 2",
+      "yea": 27,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-24",
+      "description": "Amendment 4",
+      "yea": 27,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-24",
+      "description": "Amendment 7",
+      "yea": 28,
+      "nay": 18,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-24",
+      "description": "Amendment 8 Motion 1 To Table",
+      "yea": 27,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-24",
+      "description": "Amendment 9 Motion 1 To Table",
+      "yea": 27,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-24",
+      "description": "Motion 1 To Table Motion 11 To Postpone",
+      "yea": 27,
+      "nay": 18,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-24",
+      "description": "Motion 11 Divide Question",
+      "yea": 19,
+      "nay": 27,
+      "passed": 0
+    },
+    {
+      "date": "2025-06-24",
+      "description": "Motion 11 To Adjourn",
+      "yea": 18,
+      "nay": 27,
+      "passed": 0
+    },
+    {
+      "date": "2025-06-24",
+      "description": "Motion 11 To Substitute",
+      "yea": 27,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-24",
+      "description": "Motion 3 Previous Question",
+      "yea": 29,
+      "nay": 16,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-24",
+      "description": "Second Reading",
+      "yea": 27,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-25",
+      "description": "M11 Concur",
+      "yea": 65,
+      "nay": 43,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-29",
+      "description": "Veto Override",
+      "yea": 72,
+      "nay": 48,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-29",
+      "description": "Veto Override M4 Previous Question",
+      "yea": 72,
+      "nay": 48,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-29",
+      "description": "Motion 11 Veto Override",
+      "yea": 30,
+      "nay": 19,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-04-07",
+      "type": "Introduced",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H805v0.pdf",
+      "doc_id": 3203549
+    },
+    {
+      "date": "2025-04-08",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H805v1.pdf",
+      "doc_id": 3205382
+    },
+    {
+      "date": "2025-05-06",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H805v2.pdf",
+      "doc_id": 3230076
+    },
+    {
+      "date": "2025-06-18",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H805v3.pdf",
+      "doc_id": 3256906
+    },
+    {
+      "date": "2025-06-24",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H805v4.pdf",
+      "doc_id": 3258217
+    },
+    {
+      "date": "2025-06-26",
+      "type": "Enrolled",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H805v5.pdf",
+      "doc_id": 3259029
+    },
+    {
+      "date": "2025-07-29",
+      "type": "Chaptered",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H805v6.pdf",
+      "doc_id": 3263277
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Crimes",
+    "Emerging Technologies",
+    "Fraud",
+    "Id Systems",
+    "Information Technology",
+    "Internet",
+    "Minors",
+    "Obscenity",
+    "Photography",
+    "Public",
+    "Stem",
+    "Sex Offenses",
+    "Telecommunications",
+    "Teleservices",
+    "Women",
+    "Courts",
+    "Cultural Resources",
+    "Education",
+    "Lgbtq & Gender Issues",
+    "Libraries",
+    "Public Records",
+    "Religion & Religious Institutions",
+    "Students",
+    "Vital Records",
+    "Records",
+    "Civil Actions",
+    "Ratified",
+    "Presented",
+    "Vetoed",
+    "Chaptered",
+    "Veto Overridden"
+  ]
+}

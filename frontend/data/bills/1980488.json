@@ -1,0 +1,191 @@
+{
+  "id": 1980488,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "SB758",
+  "title": "Public health: nitrous oxide.",
+  "summary": "An act to add Section 22984 to the Business and Professions Code, relating to public health.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/SB758/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/SB758/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB758",
+  "sponsors": [
+    "Tom Umberg (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-27",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-21",
+      "action": "Introduced. To Com. on RLS. for assignment. To print.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "From printer. May be acted upon on or after March 24.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Read first time.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Referred to Coms. on PUB. S. and JUD.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Set for hearing April 8.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "April 8 set for first hearing canceled at the request of author.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-18",
+      "action": "Set for hearing January 13.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-05",
+      "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on PUB. S.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "From committee: Do pass as amended and re-refer to Com. on APPR. (Ayes 5. Noes 0. Page 3214.) (January 13).",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Read second time and amended. Re-referred to Com. on APPR.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Set for hearing January 20.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-16",
+      "action": "Withdrawn from committee.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-16",
+      "action": "Re-referred to Com. on JUD.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-16",
+      "action": "Re-referred to Com. on APPR.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "January 20 hearing: Placed on APPR. suspense file.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Set for hearing January 22.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "From committee: Do pass as amended. (Ayes 7. Noes 0. Page 3270.) (January 22).",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Read second time and amended. Ordered to second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Read third time. Passed. (Ayes 40. Noes 0. Page 3302.) Ordered to the Assembly.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "In Assembly. Read first time. Held at Desk.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-13",
+      "description": "Do pass as amended, but first amend, and re-refer to the Committee on [Appropriations]",
+      "yea": 5,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-20",
+      "description": "Placed on suspense file",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-22",
+      "description": "Do pass as amended",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-27",
+      "description": "Senate 3rd Reading SB758 Umberg",
+      "yea": 40,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-21",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB758#99INT",
+      "doc_id": 3137274
+    },
+    {
+      "date": "2026-01-05",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB758#98AMD",
+      "doc_id": 3300060
+    },
+    {
+      "date": "2026-01-15",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB758#97AMD",
+      "doc_id": 3320858
+    },
+    {
+      "date": "2026-01-22",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB758#96AMD",
+      "doc_id": 3329724
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

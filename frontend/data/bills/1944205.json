@@ -1,0 +1,168 @@
+{
+  "id": 1944205,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0118",
+  "title": "An act relating to expanding the scope of hate-motivated crimes",
+  "summary": "An act relating to expanding the scope of hate-motivated crimes",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0118/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0118/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.118",
+  "sponsors": [
+    "Angela Arsenault (D) [Rep]",
+    "Martin LaLonde (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-29",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-01-29",
+      "action": "Read first time and referred to the Committee on Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "On Notice Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Action Calendar: Favorable with Amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Read second time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Rep. Arsenault of Williston reported for the Committee on Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Report of Committee on Judiciary agreed to",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Third Reading ordered",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "Action Calendar: Third Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "Read third time and passed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Read 1st time & referred to Committee on Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Entered on Notice Calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Favorable report by Committee on Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "New Business/Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Favorable report by Committee on Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Reported favorably by Senator Vyhovsky for Committee on Judiciary, read 2nd time and 3rd reading ordered",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "New Business/Third Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Read 3rd time & passed in concurrence",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-18",
+      "action": "Senate Message: Passed in concurrence",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "Delivered to the Governor on April 23, 2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Signed by Governor on April 29, 2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "House message: Governor approved bill on April 29, 2025",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-28",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0118/H-0118%20As%20Introduced.pdf",
+      "doc_id": 3085873
+    },
+    {
+      "date": "2025-02-12",
+      "type": "Engrossed",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0118/H-0118%20As%20passed%20by%20the%20House%20Official.pdf",
+      "doc_id": 3116254
+    },
+    {
+      "date": "2025-04-22",
+      "type": "Enrolled",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0118/H-0118%20As%20Passed%20by%20Both%20House%20and%20Senate%20Official.pdf",
+      "doc_id": 3218483
+    },
+    {
+      "date": "2025-05-06",
+      "type": "Chaptered",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/ACTS/ACT008/ACT008%20As%20Enacted.pdf",
+      "doc_id": 3233939
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,70 @@
+{
+  "id": 2127314,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF4056",
+  "title": "Minnesota Human Rights Act to provide protection for veterans",
+  "summary": "Minnesota Human Rights Act to provide protection for veterans",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF4056/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF4056/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4056/",
+  "sponsors": [
+    "Mary Kunesh-Podein (D) [Sen]",
+    "Judy Seeberger (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-02",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Referred to Judiciary and Public Safety",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Withdrawn and re-referred to Agriculture, Veterans, Broadband, and Rural Development",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Author added Seeberger",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-16",
+      "action": "Comm report: To pass as amended",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-16",
+      "action": "Second reading",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-27",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4056/versions/0/pdf/",
+      "doc_id": 3380165
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

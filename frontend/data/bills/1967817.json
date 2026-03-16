@@ -1,0 +1,69 @@
+{
+  "id": 1967817,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "SB40",
+  "title": "Flags flown, hung, or displayed from a flagpole or the exterior of state and local buildings and eliminating a related administrative rule.",
+  "summary": "An Act to create 1.14 (1m) of the statutes; Relating to: flags flown, hung, or displayed from a flagpole or the exterior of state and local buildings and eliminating a related administrative rule.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/SB40/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/SB40/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb40",
+  "sponsors": [
+    "Dan Feyen (R) [Sen]",
+    "Cory Tomczyk (R) [Sen]",
+    "Jerry O'Connor (R) [Rep]",
+    "David Murphy (R) [Rep]",
+    "Robert Brooks (R) [Rep]",
+    "Joy Goeben (R) [Rep]",
+    "David Armstrong (R) [Rep]",
+    "Elijah Behnke (R) [Rep]",
+    "Barbara Dittrich (R) [Rep]",
+    "Chanz Green (R) [Rep]",
+    "Rick Gundrum (R) [Rep]",
+    "Brent Jacobson (R) [Rep]",
+    "Dan Knodl (R) [Rep]",
+    "Rob Kreibich (R) [Rep]",
+    "William Penterman (R) [Rep]",
+    "Chuck Wichgers (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-12",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Read first time and referred to Committee on Licensing, Regulatory Reform, State and Federal Affairs",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-12",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/SB40.pdf",
+      "doc_id": 3116578
+    }
+  ],
+  "committee": {
+    "committee_id": 5127,
+    "chamber": "S",
+    "chamber_id": 100,
+    "name": "Licensing, Regulatory Reform, State and Federal Affairs"
+  },
+  "subjects": []
+}

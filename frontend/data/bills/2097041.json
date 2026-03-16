@@ -1,0 +1,53 @@
+{
+  "id": 2097041,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A222",
+  "title": "Requires Attorney General to compile and publicly report certain statistics pertaining to permits to carry for handguns and firearm purchaser identification cards.",
+  "summary": "Requires Attorney General to compile and publicly report certain statistics pertaining to permits to carry for handguns and firearm purchaser identification cards.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "identity_documents"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A222/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A222/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A222",
+  "sponsors": [
+    "Dawn Fantasia (R) [Rep]",
+    "Robert Auth (R) [Rep]",
+    "Michael Inganamort (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Public Safety and Preparedness Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-24",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A0500/222_I1.HTM",
+      "doc_id": 3336101
+    }
+  ],
+  "committee": {
+    "committee_id": 4934,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Public Safety and Preparedness Committee"
+  },
+  "subjects": [
+    "Public Safety and Preparedness"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": 2108183,
+  "state": "OR",
+  "state_name": "Oregon",
+  "bill_number": "HB4158",
+  "title": "Relating to wage requirements for individuals performing companionship services.",
+  "summary": "This Act updates the laws on what wages must be paid to workers who engage in certain domestic services. (Flesch Readability Score: 67.3). Clarifies the meaning of \"companionship services\" for purposes of minimum wage and overtime requirements for certain individuals performing such services.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OR/bill/HB4158/2026",
+  "legiscan_url": "https://legiscan.com/OR/bill/HB4158/2026",
+  "state_url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/HB4158",
+  "sponsors": [
+    "Rules [Rep]"
+  ],
+  "introduced_date": "2026-03-06",
+  "session": "2026 Legislative Measures",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "First reading. Referred to Speaker's desk.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Referred to Labor and Workforce Development.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "In committee upon adjournment.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/HB4158/Introduced",
+      "doc_id": 3349172
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

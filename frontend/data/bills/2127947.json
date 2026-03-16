@@ -1,0 +1,58 @@
+{
+  "id": 2127947,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "SB320",
+  "title": "AN ACT relating to human growth and development instruction.",
+  "summary": "Amend KRS 158.1415 to require a school district to adopt health curricula that includes human growth and development instruction that meets specific criteria; set restrictions for the instruction that grants parents an opportunity to review materials and opt their child out of instruction.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/SB320/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/SB320/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/sb320.html",
+  "sponsors": [
+    "Lindsey Tichenor (R) [Sen]",
+    "Matt Nunn (R) [Sen]"
+  ],
+  "introduced_date": "2026-03-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "action": "introduced in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "to Committee on Committees (S)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb320/orig_bill.pdf",
+      "doc_id": 3381875
+    }
+  ],
+  "committee": {
+    "committee_id": 336,
+    "chamber": "S",
+    "chamber_id": 44,
+    "name": "Committee on Committees"
+  },
+  "subjects": [
+    "Children and Minors",
+    "Education, Elementary and Secondary"
+  ]
+}

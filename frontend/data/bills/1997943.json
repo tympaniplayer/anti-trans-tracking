@@ -1,0 +1,64 @@
+{
+  "id": 1997943,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S901",
+  "title": "To advance health equity",
+  "summary": "For legislation to advance health equity. Health Care Financing.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S901/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S901/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S901",
+  "sponsors": [
+    "Pavel Payano (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Health Care Financing",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-03",
+      "action": "Hearing scheduled for 07/15/2025 from 10:00 AM-04:00 PM in Gardner Auditorium",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S901.pdf",
+      "doc_id": 3163184
+    }
+  ],
+  "committee": {
+    "committee_id": 746,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

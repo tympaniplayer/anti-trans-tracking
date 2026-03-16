@@ -1,0 +1,54 @@
+{
+  "id": 2037596,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S08444",
+  "title": "Prohibits discrimination based upon housing status.",
+  "summary": "Prohibits discrimination based upon housing status.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S08444/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S08444/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S8444",
+  "sponsors": [
+    "Luis Sepulveda (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-18",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-06-18",
+      "action": "REFERRED TO RULES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-18",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S08444&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S08444",
+      "doc_id": 3256947
+    }
+  ],
+  "committee": {
+    "committee_id": 433,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Investigations and Government Operations"
+  },
+  "subjects": []
+}

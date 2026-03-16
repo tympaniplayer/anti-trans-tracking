@@ -1,0 +1,71 @@
+{
+  "id": 2116663,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB3865",
+  "title": "BE HEARD in the Workplace Act Bringing an End to Harassment by Enhancing Accountability and Rejecting Discrimination in the Workplace Act",
+  "summary": "A bill to prevent discrimination, including harassment, in employment.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB3865/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB3865/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3865/all-info",
+  "sponsors": [
+    "Patty Murray (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Lisa Rochester (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "John Fetterman (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Tim Kaine (D) [Sen]",
+    "Amy Klobuchar (D) [Sen]",
+    "Ben Lujan (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Sheldon Whitehouse (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Angela Alsobrooks (D) [Sen]",
+    "Adam Schiff (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-12",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-02-12",
+      "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-24",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s3865/BILLS-119s3865is.pdf",
+      "doc_id": 3374741
+    }
+  ],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": [
+    "Labor and employment"
+  ]
+}

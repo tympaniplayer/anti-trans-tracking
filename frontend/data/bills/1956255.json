@@ -1,0 +1,65 @@
+{
+  "id": 1956255,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "SB73",
+  "title": "Enact Creating a Respectful and Open World for Natural Hair Act",
+  "summary": "To amend sections 3314.03, 3326.11, 3328.24, and 4112.01 and to enact section 3313.6612 of the Revised Code to enact the Creating a Respectful and Open World for Natural Hair (CROWN) Act to prohibit discrimination against an individual based on hair texture and protective hair styles.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/SB73/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/SB73/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/sb73",
+  "sponsors": [
+    "Paula Hicks-Hudson (D) [Sen]",
+    "Catherine Ingram (D) [Sen]",
+    "Nickie Antonio (D) [Sen]",
+    "Hearcel Craig (D) [Sen]",
+    "William DeMora (D) [Sen]",
+    "Kent Smith (D) [Sen]",
+    "Casey Weinstein (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-04",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-04",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Referred to committee: Government Oversight and Reform",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb73/00_IN/pdf/",
+      "doc_id": 3101026
+    }
+  ],
+  "committee": {
+    "committee_id": 2380,
+    "chamber": "S",
+    "chamber_id": 6,
+    "name": "Government Oversight and Reform"
+  },
+  "subjects": [
+    "Courts and Civil Law : Civil Law",
+    "Education : Primary and Secondary Education",
+    "Employment",
+    "Senate Government Oversight and Reform Committee"
+  ]
+}

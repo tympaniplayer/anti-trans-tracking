@@ -1,0 +1,63 @@
+{
+  "id": 2026294,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB1312",
+  "title": "In death and fetal death registration, providing for nonbinary designation.",
+  "summary": "An Act amending the act of June 29, 1953 (P.L.304, No.66), known as the Vital Statistics Law of 1953, in death and fetal death registration, providing for nonbinary designation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB1312/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB1312/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb1312",
+  "sponsors": [
+    "Ben Sanchez (D) [Rep]",
+    "Joseph Hohenstein (D) [Rep]",
+    "Benjamin Waxman (D) [Rep]",
+    "Christopher Rabb (D) [Rep]",
+    "Nancy Guenst (D) [Rep]",
+    "Tarik Khan (D) [Rep]",
+    "Melissa Cerrato (D) [Rep]",
+    "Jose Giral (D) [Rep]",
+    "Nikki Rivera (D) [Rep]",
+    "Dan Williams (D) [Rep]",
+    "La'Tasha Mayes (D) [Rep]",
+    "Heather Boyd (D) [Rep]",
+    "Lisa Borowski (D) [Rep]",
+    "Rick Krajewski (D) [Rep]",
+    "Steven Malagari (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-28",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-04-28",
+      "action": "Referred to Health",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1312/PN1505",
+      "doc_id": 3223768
+    }
+  ],
+  "committee": {
+    "committee_id": 1809,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "Health"
+  },
+  "subjects": []
+}

@@ -1,0 +1,54 @@
+{
+  "id": 1905834,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A01092",
+  "title": "Establishes the crimes of aggravated threat of mass harm in the first degree and aggravated threat of mass harm in the second degree; makes such crimes hate crimes.",
+  "summary": "Establishes the crimes of aggravated threat of mass harm in the first degree and aggravated threat of mass harm in the second degree; makes such crimes hate crimes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A01092/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A01092/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A1092",
+  "sponsors": [
+    "William Magnarelli (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-08",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to codes",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A01092&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A01092",
+      "doc_id": 3042669
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

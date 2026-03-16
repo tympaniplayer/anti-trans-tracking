@@ -1,0 +1,68 @@
+{
+  "id": 2012961,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB1033",
+  "title": "Prohibiting gender transition procedures for minors and coverage for gender transition procedures for minors.",
+  "summary": "An Act prohibiting gender transition procedures for minors and coverage for gender transition procedures for minors.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB1033/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB1033/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb1033",
+  "sponsors": [
+    "Bradley Roae (R) [Rep]",
+    "Joe Hamm (R) [Rep]",
+    "Stephanie Borowicz (R) [Rep]",
+    "Robert James (R) [Rep]",
+    "Steven Mentzer (R) [Rep]",
+    "Robert Kauffman (R) [Rep]",
+    "Marla Gallo Brown (R) [Rep]",
+    "Melinda Fee (R) [Rep]",
+    "David Zimmerman (R) [Rep]",
+    "Mark Gillen (R) [Rep]",
+    "Jacob Banta (R) [Rep]",
+    "Keith Greiner (R) [Rep]",
+    "Scott Barger (R) [Rep]",
+    "Jonathan Fritz (R) [Rep]",
+    "Brian Smith (R) [Rep]",
+    "Bryan Cutler (R) [Rep]",
+    "Wendy Fink (R) [Rep]",
+    "Jamie Walsh (R) [Rep]",
+    "Kerry Benninghoff (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-24",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-24",
+      "action": "Referred to Health",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1033/PN1117",
+      "doc_id": 3186581
+    }
+  ],
+  "committee": {
+    "committee_id": 1809,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "Health"
+  },
+  "subjects": []
+}

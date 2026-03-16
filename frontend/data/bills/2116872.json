@@ -1,0 +1,52 @@
+{
+  "id": 2116872,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "S2558",
+  "title": "JOINT RESOLUTION MAKING AN APPROPRIATION OF $200,000 TO THE RHODE ISLAND BLACK BUSINESS ASSOCIATION (Authorizes the appropriation of the sum of $200,000 to the Rhode Island Black Business Association.)",
+  "summary": "Joint Resolution Making An Appropriation Of $200,000 To The Rhode Island Black Business Association (authorizes The Appropriation Of The Sum Of $200,000 To The Rhode Island Black Business Association.)",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/S2558/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/S2558/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Jacob Bissaillon (D) [Sen]",
+    "Tiara Mack (D) [Sen]",
+    "Jonathon Acosta (D) [Sen]",
+    "Louis Dipalma (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-13",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-13",
+      "action": "Introduced, referred to Senate Finance",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-13",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/SenateText26/S2558.pdf",
+      "doc_id": 3362253
+    }
+  ],
+  "committee": {
+    "committee_id": 1136,
+    "chamber": "S",
+    "chamber_id": 84,
+    "name": "Finance"
+  },
+  "subjects": []
+}

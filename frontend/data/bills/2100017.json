@@ -1,0 +1,52 @@
+{
+  "id": 2100017,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A2173",
+  "title": "Establishes recruitment and referral program for certain individuals and extends certain provisions of law concerning affirmative action in public works contracts to workers with disabilities.",
+  "summary": "Establishes recruitment and referral program for certain individuals and extends certain provisions of law concerning affirmative action in public works contracts to workers with disabilities.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A2173/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A2173/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A2173",
+  "sponsors": [
+    "Shanique Speight (D) [Rep]",
+    "William Sampson (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Labor Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-02",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A2500/2173_I1.HTM",
+      "doc_id": 3339105
+    }
+  ],
+  "committee": {
+    "committee_id": 863,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Labor"
+  },
+  "subjects": [
+    "Labor"
+  ]
+}

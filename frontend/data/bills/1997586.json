@@ -1,0 +1,59 @@
+{
+  "id": 1997586,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S1724",
+  "title": "Establishing a correctional inspector general office",
+  "summary": "For legislation to establish a correctional inspector general office. Public Safety and Homeland Security.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S1724/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S1724/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S1724",
+  "sponsors": [
+    "Liz Miranda (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Public Safety and Homeland Security",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-26",
+      "action": "Hearing scheduled for 09/10/2025 from 1:00 PM-5:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-12-04",
+      "action": "Accompanied a study order, see S2798",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S1724.pdf",
+      "doc_id": 3162812
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

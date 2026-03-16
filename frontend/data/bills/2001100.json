@@ -1,0 +1,59 @@
+{
+  "id": 2001100,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H1977",
+  "title": "Relative to Proportionality in Joint Venture Sentencing",
+  "summary": "For legislation to provide equitable sentencing for felony and joint venture murder. The Judiciary.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H1977/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H1977/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H1977",
+  "sponsors": [
+    "Lindsay Sabadosa (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on The Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-16",
+      "action": "Hearing scheduled for 09/23/2025 from 01:00 PM-05:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-09-16",
+      "action": "Reported by committee to Clerk\u2019s Office for processing, will accompany a study order",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H1977.pdf",
+      "doc_id": 3167084
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

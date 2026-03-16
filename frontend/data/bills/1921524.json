@@ -1,0 +1,76 @@
+{
+  "id": 1921524,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1324",
+  "title": "Funding the state transportation system using climate commitment act revenues.",
+  "summary": "Funding the state transportation system using climate commitment act revenues.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1324/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1324/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1324&Year=2025&Initiative=false",
+  "sponsors": [
+    "Andrew Barkis (R) [Rep]",
+    "Sam Low (R) [Rep]",
+    "Suzanne Schmidt (R) [Rep]",
+    "Daniel Griffey (R) [Rep]",
+    "Travis Couture (R) [Rep]",
+    "Jenny Graham (R) [Rep]",
+    "John Ley (R) [Rep]",
+    "Mike Volz (R) [Rep]",
+    "Matt Marshall (R) [Rep]",
+    "Jim Walsh (R) [Rep]",
+    "Joshua Penner (R) [Rep]",
+    "Michael Keaton (R) [Rep]",
+    "Mark Klicker (R) [Rep]",
+    "Ed Orcutt (R) [Rep]",
+    "David Stuebe (R) [Rep]",
+    "Tom Dent (R) [Rep]",
+    "April Connors (R) [Rep]",
+    "Peter Abbarno (R) [Rep]",
+    "Hunter Abell (R) [Rep]",
+    "Cyndy Jacobsen (R) [Rep]",
+    "Michelle Valdez (R) [Rep]",
+    "Stephanie Barnard (R) [Rep]",
+    "Andrew Engell (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-16",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-16",
+      "action": "First reading, referred to Transportation.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1324.pdf",
+      "doc_id": 3058705
+    }
+  ],
+  "committee": {
+    "committee_id": 946,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Transportation"
+  },
+  "subjects": []
+}

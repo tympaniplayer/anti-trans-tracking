@@ -1,0 +1,60 @@
+{
+  "id": 1983875,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB1557",
+  "title": "Stop Sexual Harassment in K\u201312 Act",
+  "summary": "To implement title IX of the Education Amendments of 1972 with respect to elementary and secondary schools, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "education"
+  ],
+  "primary_category": "sports",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB1557/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB1557/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/1557/all-info",
+  "sponsors": [
+    "Sean Casten (D) [Rep]",
+    "Lois Frankel (D) [Rep]",
+    "Jahana Hayes (D) [Rep]",
+    "Dina Titus (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-25",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-02-25",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Referred to the House Committee on Education and Workforce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-17",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr1557/BILLS-119hr1557ih.pdf",
+      "doc_id": 3177419
+    }
+  ],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

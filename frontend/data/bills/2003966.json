@@ -1,0 +1,64 @@
+{
+  "id": 2003966,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H78",
+  "title": "Establishing the Massachusetts consumer data privacy act",
+  "summary": "For legislation to establish the Massachusetts consumer data privacy act. Advanced Information Technology, the Internet and Cybersecurity.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H78/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H78/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H78",
+  "sponsors": [
+    "Tricia Farley-Bouvier (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Advanced Information Technology, the Internet and Cybersecurity",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Hearing scheduled for 04/09/2025 from 01:00 PM-05:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-07-30",
+      "action": "Reporting date extended to Wednesday, November 12, 2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-17",
+      "action": "Accompanied a new draft, see H4746",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H78.pdf",
+      "doc_id": 3170083
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

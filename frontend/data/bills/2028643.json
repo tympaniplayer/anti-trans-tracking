@@ -1,0 +1,60 @@
+{
+  "id": 2028643,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A08191",
+  "title": "Establishes a gender affirming care program in the department of health to ensure the continuity of gender affirming care services in the state.",
+  "summary": "Establishes a gender affirming care program in the department of health to ensure the continuity of gender affirming care services in the state.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A08191/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A08191/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A8191",
+  "sponsors": [
+    "Gabriella Romero (D) [Rep]",
+    "Demond Meeks (D) [Rep]",
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Sarahana Shrestha (D) [Rep]",
+    "Anna Kelles (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]"
+  ],
+  "introduced_date": "2025-05-05",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-05",
+      "action": "referred to health",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to health",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-05",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08191&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08191",
+      "doc_id": 3229086
+    }
+  ],
+  "committee": {
+    "committee_id": 369,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Health"
+  },
+  "subjects": []
+}

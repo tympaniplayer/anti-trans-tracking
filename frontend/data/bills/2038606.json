@@ -1,0 +1,91 @@
+{
+  "id": 2038606,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB4244",
+  "title": "Prohibition of Medicaid Funding for Conversion Therapy Act",
+  "summary": "To amend title XIX of the Social Security Act to prohibit payments under the Medicaid program for conversion therapy, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB4244/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB4244/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4244/all-info",
+  "sponsors": [
+    "Shri Thanedar (D) [Rep]",
+    "Julia Brownley (D) [Rep]",
+    "Sean Casten (D) [Rep]",
+    "Sharice Davids (D) [Rep]",
+    "Suzan DelBene (D) [Rep]",
+    "Christopher Deluzio (D) [Rep]",
+    "Cleo Fields (D) [Rep]",
+    "Maxwell Frost (D) [Rep]",
+    "Josh Gottheimer (D) [Rep]",
+    "Pramila Jayapal (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Raja Krishnamoorthi (D) [Rep]",
+    "Summer Lee (D) [Rep]",
+    "Ted Lieu (D) [Rep]",
+    "Stephen Lynch (D) [Rep]",
+    "Jared Moskowitz (D) [Rep]",
+    "Seth Moulton (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Scott Peters (D) [Rep]",
+    "Mark Pocan (D) [Rep]",
+    "Mary Gay Scanlon (D) [Rep]",
+    "Lateefah Simon (D) [Rep]",
+    "Darren Soto (D) [Rep]",
+    "Paul Tonko (D) [Rep]",
+    "Juan Vargas (D) [Rep]",
+    "Becca Balint (D) [Rep]",
+    "Janice Schakowsky (D) [Rep]",
+    "Gwen Moore (D) [Rep]",
+    "Wesley Bell (D) [Rep]",
+    "Debbie Dingell (D) [Rep]",
+    "Mike Quigley (D) [Rep]",
+    "Steve Cohen (D) [Rep]",
+    "Daniel Goldman (D) [Rep]",
+    "Craig Goldman (R) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "Debbie Wasserman Schultz (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-27",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-27",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-27",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-16",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr4244/BILLS-119hr4244ih.pdf",
+      "doc_id": 3261996
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

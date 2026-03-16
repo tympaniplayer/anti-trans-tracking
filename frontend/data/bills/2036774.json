@@ -1,0 +1,59 @@
+{
+  "id": 2036774,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB2012",
+  "title": "Runaway and Homeless Youth and Trafficking Prevention Act of 2025",
+  "summary": "A bill to reauthorize the Runaway and Homeless Youth Act, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB2012/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB2012/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2012/all-info",
+  "sponsors": [
+    "Susan Collins (R) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "Lisa Murkowski (R) [Sen]",
+    "Raphael Warnock (D) [Sen]",
+    "Dan Sullivan (R) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Jon Ossoff (D) [Sen]",
+    "Christopher Coons (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-10",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-10",
+      "action": "Read twice and referred to the Committee on the Judiciary. (Sponsor introductory remarks on measure: CR S3318)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-20",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s2012/BILLS-119s2012is.pdf",
+      "doc_id": 3257720
+    }
+  ],
+  "committee": {
+    "committee_id": 2330,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Families"
+  ]
+}

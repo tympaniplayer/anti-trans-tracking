@@ -1,0 +1,70 @@
+{
+  "id": 1994679,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB2048",
+  "title": "Relating to the assumption of the powers and duties relating to driver's licenses, personal identification certificates, and other related programs, powers, and duties by the Texas Department of Motor Vehicles.",
+  "summary": "Relating to the assumption of the powers and duties relating to driver's licenses, personal identification certificates, and other related programs, powers, and duties by the Texas Department of Motor Vehicles.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "identity_documents"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB2048/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB2048/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2048",
+  "sponsors": [
+    "Paul Bettencourt (R) [Sen]"
+  ],
+  "introduced_date": "2025-03-07",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-07",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-07",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Referred to Transportation",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-07",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB02048I.htm",
+      "doc_id": 3159354
+    }
+  ],
+  "committee": {
+    "committee_id": 2888,
+    "chamber": "S",
+    "chamber_id": 92,
+    "name": "Transportation"
+  },
+  "subjects": [
+    "Vehicles & Traffic",
+    "Vehicles & Traffic--Driver's Licenses",
+    "IDENTIFICATION CARDS",
+    "MOTOR VEHICLES, TEXAS DEPARTMENT OF",
+    "PUBLIC SAFETY, DEPARTMENT OF"
+  ]
+}

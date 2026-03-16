@@ -1,0 +1,63 @@
+{
+  "id": 2015663,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB2378",
+  "title": "Defining Male and Female Act of 2025",
+  "summary": "To establish clear and consistent biological definitions of male and female.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB2378/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB2378/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/2378/all-info",
+  "sponsors": [
+    "Mary Miller (R) [Rep]",
+    "Claudia Tenney (R) [Rep]",
+    "Robert Onder (R) [Rep]",
+    "Barry Moore (R) [Rep]",
+    "Ron Estes (R) [Rep]",
+    "Sheri Biggs (R) [Rep]",
+    "Andy Harris (R) [Rep]",
+    "Marjorie Greene (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-26",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-03-26",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-04",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr2378/BILLS-119hr2378ih.pdf",
+      "doc_id": 3201724
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

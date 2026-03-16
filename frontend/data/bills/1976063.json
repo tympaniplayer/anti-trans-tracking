@@ -1,0 +1,67 @@
+{
+  "id": 1976063,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF1675",
+  "title": "Clinical art therapists licensure establishment provision, Board of Behavioral Health and Therapy membership modifications provision, and appropriation",
+  "summary": "Clinical art therapists licensure establishment provision, Board of Behavioral Health and Therapy membership modifications provision, and appropriation",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF1675/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF1675/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1675/",
+  "sponsors": [
+    "John Hoffman (D) [Sen]",
+    "Alice Mann (D) [Sen]",
+    "Liz Boldon (D) [Sen]",
+    "Jim Abeler (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-20",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-02-20",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Referred to Health and Human Services",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Author added Mann",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Authors added Boldon; Abeler",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-18",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1675/versions/0/pdf/",
+      "doc_id": 3131331
+    }
+  ],
+  "committee": {
+    "committee_id": 1745,
+    "chamber": "S",
+    "chamber_id": 56,
+    "name": "Health and Human Services"
+  },
+  "subjects": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": 2049978,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "SB413",
+  "title": "Schools; creating the Oklahoma Sexual Education Reform and Parental Rights Protection Act; requiring written consent for a student to participate in certain instruction. Effective date. Emergency.",
+  "summary": "Schools; creating the Oklahoma Sexual Education Reform and Parental Rights Protection Act; requiring written consent for a student to participate in certain instruction. Effective date. Emergency.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/SB413/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/SB413/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=sb413&Session=2600",
+  "sponsors": [
+    "Shane Jett (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Authored by Senator Jett",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Second Reading referred to Education",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-07",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/SB/SB413%20INT.PDF",
+      "doc_id": 3279974
+    }
+  ],
+  "committee": {
+    "committee_id": 1225,
+    "chamber": "S",
+    "chamber_id": 80,
+    "name": "Education"
+  },
+  "subjects": []
+}

@@ -1,0 +1,130 @@
+{
+  "id": 2048168,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "HB1225",
+  "title": "Vital records; amendment of certificate or records; biological sex; effective date.",
+  "summary": "Vital records; amendment of certificate or records; biological sex; effective date.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "identity_documents",
+    "definitions"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/HB1225/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/HB1225/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=hb1225&Session=2600",
+  "sponsors": [
+    "Kevin West (R) [Rep]",
+    "Micheal Bergstrom (R) [Sen]",
+    "Gabe Woolley (R) [Rep]"
+  ],
+  "introduced_date": "2026-03-12",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Authored by Representative West (Kevin)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Second Reading referred to Rules",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "CR; Do Pass, amended by committee substitute Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Authored by Senator Bergstrom (principal Senate author)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "General Order",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Coauthored by Representative(s) Woolley",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Third Reading, Measure passed: Ayes: 73 Nays: 18",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Referred for engrossment",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Engrossed, signed, to Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "First Reading",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-05",
+      "description": "House: Rules Committee: DO PASS AS AMENDED BY CS",
+      "yea": 8,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-11",
+      "description": "House: THIRD READING",
+      "yea": 73,
+      "nay": 18,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-15",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/hB/HB1225%20INT.PDF",
+      "doc_id": 3276033
+    },
+    {
+      "date": "2026-03-09",
+      "type": "Comm Sub",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20COMMITTEE%20SUBS/HCS/HB1225%20CS.PDF",
+      "doc_id": 3389223
+    },
+    {
+      "date": "2026-03-10",
+      "type": "Amended",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20FLR/HFLR/HB1225%20HFLR.PDF",
+      "doc_id": 3389791
+    },
+    {
+      "date": "2026-03-11",
+      "type": "Engrossed",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENGR/hB/HB1225%20ENGR.PDF",
+      "doc_id": 3391737
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,62 @@
+{
+  "id": 2044667,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB2907",
+  "title": "Chloe Cole Act",
+  "summary": "A bill to prohibit health care professionals, hospitals, or clinics from participating in the chemical or surgical mutilation of a child and to provide a private right of action for children and the parents of children whose healthy body parts have been damaged by medical professionals practicing chemical and surgical mutilation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB2907/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB2907/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2907/all-info",
+  "sponsors": [
+    "Marsha Blackburn (R) [Sen]",
+    "Eric Schmitt (R) [Sen]",
+    "Tim Sheehy (R) [Sen]",
+    "Rick Scott (R) [Sen]",
+    "Ted Cruz (R) [Sen]",
+    "Ted Budd (R) [Sen]",
+    "Ashley Moody (R) [Sen]",
+    "Tommy Tuberville (R) [Sen]",
+    "Mike Lee (R) [Sen]",
+    "Jim Banks (R) [Sen]",
+    "Cindy Hyde-Smith (R) [Sen]"
+  ],
+  "introduced_date": "2025-09-18",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-09-18",
+      "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-10",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s2907/BILLS-119s2907is.pdf",
+      "doc_id": 3272657
+    }
+  ],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

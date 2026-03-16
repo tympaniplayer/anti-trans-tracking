@@ -1,0 +1,219 @@
+{
+  "id": 1904510,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5149",
+  "title": "Expanding the early childhood court program.",
+  "summary": "Expanding the early childhood court program.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5149/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5149/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5149&Year=2025&Initiative=false",
+  "sponsors": [
+    "Adrian Cortes (D) [Sen]",
+    "Robert Hasegawa (D) [Sen]",
+    "Deborah Krishnadasan (D) [Sen]",
+    "Marko Liias (D) [Sen]",
+    "T'wina Nobles (D) [Sen]",
+    "Rebecca Saldana (D) [Sen]",
+    "Jesse Salomon (D) [Sen]",
+    "Sharon Shewmake (D) [Sen]",
+    "Claire Wilson (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-22",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-07",
+      "action": "Prefiled for introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading, referred to Human Services.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-22",
+      "action": "Public hearing in the Senate Committee on Human Services at 8:00 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-29",
+      "action": "Executive session scheduled, but no action was taken in the Senate Committee on Human Services at 8:00 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Executive action taken in the Senate Committee on Human Services at 8:00 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "HS - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Passed to Rules Committee for second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Placed on second reading consent calendar.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "1st substitute bill substituted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-21",
+      "action": "First reading, referred to Early Learning & Human Services.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Public hearing in the House Committee on Early Learning & Human Services at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "Executive action taken in the House Committee on Early Learning & Human Services at 8:30 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "ELHS - Majority; do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Referred to Rules 2 Review.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Rules Committee relieved of further consideration. Placed on second reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Third reading, passed; yeas, 95; nays, 0; absent, 0; excused, 3.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "President signed.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Speaker signed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Delivered to Governor.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Governor signed.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Chapter 120, 2025 Laws.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Effective date 7/27/2025.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-05",
+      "description": "Senate Committee on Human Services: 1st substitute bill be substituted, do pass",
+      "yea": 5,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-02-19",
+      "description": "Senate 3rd Reading & Final Passage",
+      "yea": 48,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-28",
+      "description": "House Committee on Early Learning & Human Services: do pass",
+      "yea": 11,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-10",
+      "description": "House 3rd Reading & Final Passage",
+      "yea": 95,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-07",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5149.pdf",
+      "doc_id": 3041162
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5149-S.pdf",
+      "doc_id": 3103969
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Enrolled",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Passed%20Legislature/5149-S.PL.pdf",
+      "doc_id": 3216030
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Chaptered",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Session%20Laws/Senate/5149-S.SL.pdf",
+      "doc_id": 3218920
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

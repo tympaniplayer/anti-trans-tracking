@@ -1,0 +1,63 @@
+{
+  "id": 1987847,
+  "state": "GA",
+  "state_name": "Georgia",
+  "bill_number": "HB660",
+  "title": "State government; prohibit coverage of expenses for any transition related intervention under state health benefit plan or with any state funds",
+  "summary": "A BILL to be entitled an Act to amend Chapter 18 of Title 45, Chapter 4 of Title 49, and Chapter 1 of Title 50 of the Official Code of Georgia Annotated, relating to the employees' insurance and benefits plans, public assistance, and general provisions relative to state government, respectively, so as to prohibit coverage of expenses for any transition related intervention under the state health benefit plan or with any state funds; to provide for related matters; to provide for legislative findings; to provide for an effective date; to repeal conflicting laws; and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/GA/bill/HB660/2025",
+  "legiscan_url": "https://legiscan.com/GA/bill/HB660/2025",
+  "state_url": "https://www.legis.ga.gov/legislation/70939",
+  "sponsors": [
+    "Brent Cox (R) [Rep]",
+    "Rick Jasperse (R) [Rep]",
+    "Carmen Rice (R) [Rep]",
+    "Mitchell Scoggins (R) [Rep]",
+    "Lauren McDonald (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "House Hopper",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "House First Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "House Second Readers",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-28",
+      "type": "Introduced",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234320",
+      "doc_id": 3146992
+    }
+  ],
+  "committee": {
+    "committee_id": 584,
+    "chamber": "H",
+    "chamber_id": 29,
+    "name": "Insurance"
+  },
+  "subjects": []
+}

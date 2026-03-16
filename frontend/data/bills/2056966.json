@@ -1,0 +1,247 @@
+{
+  "id": 2056966,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5827",
+  "title": "Concerning the definition of a \"qualifying discharge\" for the Washington state veterans' preference program for civil service.",
+  "summary": "Concerning the definition of a \"qualifying discharge\" for the Washington state veterans' preference program for civil service.",
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5827/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5827/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5827&Year=2025&Initiative=false",
+  "sponsors": [
+    "Chris Gildon (R) [Sen]",
+    "Leonard Christian (R) [Sen]",
+    "Perry Dozier (R) [Sen]",
+    "Jeff Wilson (R) [Sen]"
+  ],
+  "introduced_date": "2026-03-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-04",
+      "action": "Prefiled for introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "First reading, referred to State Government, Tribal Affairs & Elections.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-16",
+      "action": "Public hearing in the Senate Committee on State Government, Tribal Affairs & Elections at 10:30 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Executive action taken in the Senate Committee on State Government, Tribal Affairs & Elections at 10:30 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "SGTE - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "And refer to Ways & Means.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Referred to Ways & Means.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Public hearing in the Senate Committee on Ways & Means at 4:00 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Executive action taken in the Senate Committee on Ways & Means at 10:30 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "WM - Majority; do pass 1st substitute bill proposed by State Government, Tribal Affairs & Elections.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Passed to Rules Committee for second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Placed on second reading by Rules Committee.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "1st substitute bill substituted",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Third reading, passed; yeas, 48; nays, 0; absent, 0; excused, 1.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "First reading, referred to State Government & Tribal Relations.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Public hearing in the House Committee on State Government & Tribal Relations at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Executive action taken in the House Committee on State Government & Tribal Relations at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "SGOV - Majority; do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Referred to Appropriations.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Public hearing in the House Committee on Appropriations at 10:30 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Executive action taken in the House Committee on Appropriations at 10:30 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "APP - Majority; do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Referred to Rules 2 Review.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Rules Committee relieved of further consideration. Placed on second reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Third reading, passed; yeas, 96; nays, 0; absent, 0; excused, 2.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "President signed.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Speaker signed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Delivered to Governor.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-23",
+      "description": "Senate Committee on State Government, Tribal Affairs & Elections: 1st substitute bill be substituted, do pass",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-09",
+      "description": "Senate Committee on Ways & Means: do pass 1st substitute bill proposed by State Government, Tribal Affairs &amp; Elections",
+      "yea": 23,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-13",
+      "description": "Senate 3rd Reading & Final Passage",
+      "yea": 48,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-25",
+      "description": "House Committee on State Government & Tribal Relations: do pass",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-02",
+      "description": "House Committee on Appropriations: do pass",
+      "yea": 29,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-06",
+      "description": "House 3rd Reading & Final Passage",
+      "yea": 96,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5827.pdf",
+      "doc_id": 3288324
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5827-S.pdf",
+      "doc_id": 3332231
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Enrolled",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Passed%20Legislature/5827-S.PL.pdf",
+      "doc_id": 3393196
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

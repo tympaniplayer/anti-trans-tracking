@@ -1,0 +1,65 @@
+{
+  "id": 1905180,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "B26-0028",
+  "title": "Eliminating Restrictive and Segregated Enclosures (\u201cERASE\u201d) Solitary Confinement Act of 2025",
+  "summary": "As introduced Bill 26-28 would prohibit segregated confinement in jails and limit the use of safe cells. It would require that incarcerated people with mental health emergencies receive the care to which they are entitled. The Department of Corrections is required to create a plan to eliminate segregated confinement and report to the Council the impacts of doing so.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/B26-0028/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/B26-0028/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/B26-0028",
+  "sponsors": [
+    "Brianne Nadeau (D) [Sen]",
+    "Anita Bonds (D) [Sen]",
+    "Zachary Parker (D) [Sen]",
+    "Kenyan McDuffie (I) [Sen]",
+    "Robert White (D) [Sen]",
+    "Janeese Lewis George (D) [Sen]",
+    "Charles Allen (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-06",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2025-01-06",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-01-10",
+      "action": "Notice of Intent to Act on B26-0028 Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Referred to Committee on Judiciary and Public Safety",
+      "chamber": "C"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-06",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/56860/Introduction/B26-0028-Introduction.pdf",
+      "doc_id": 3042097
+    }
+  ],
+  "committee": {
+    "committee_id": 2737,
+    "chamber": "C",
+    "chamber_id": 116,
+    "name": "Judiciary and Public Safety"
+  },
+  "subjects": []
+}

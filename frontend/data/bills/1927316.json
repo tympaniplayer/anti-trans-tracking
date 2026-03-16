@@ -1,0 +1,73 @@
+{
+  "id": 1927316,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF473",
+  "title": "Constitutional amendment to provide equal rights under the law and prohibiting discrimination based on a list of characteristics",
+  "summary": "Constitutional amendment to provide equal rights under the law and prohibiting discrimination based on a list of characteristics",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF473/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF473/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/473/",
+  "sponsors": [
+    "Mary Kunesh-Podein (D) [Sen]",
+    "Sandra Pappas (D) [Sen]",
+    "Erin Murphy (D) [Sen]",
+    "Lindsey Port (D) [Sen]",
+    "David Dibble (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-21",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-01-21",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Referred to Judiciary and Public Safety",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "Author added Murphy",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-27",
+      "action": "Authors added Port; Dibble",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Comm report: To pass and re-referred to Rules and Administration",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-17",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/473/versions/0/pdf/",
+      "doc_id": 3064653
+    }
+  ],
+  "committee": {
+    "committee_id": 1750,
+    "chamber": "S",
+    "chamber_id": 56,
+    "name": "Rules and Administration"
+  },
+  "subjects": []
+}

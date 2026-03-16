@@ -1,0 +1,64 @@
+{
+  "id": 2040705,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4304",
+  "title": "Relative to the LGBTQ aging commission",
+  "summary": "Relative to the LGBTQ aging commission",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4304/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4304/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4304",
+  "sponsors": [
+    "Joint Committee on Aging and Independence [Jnt]"
+  ],
+  "introduced_date": "2025-07-28",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-07-28",
+      "action": "Reported from the committee on Aging and Independence",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-28",
+      "action": "New draft of H778",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-28",
+      "action": "Bill reported favorably by committee and referred to the Joint Committee on Rules of the two branches, acting concurrently",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-11",
+      "action": "Committee recommended ought to pass and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-28",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4304.pdf",
+      "doc_id": 3263172
+    }
+  ],
+  "committee": {
+    "committee_id": 737,
+    "chamber": "H",
+    "chamber_id": 51,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

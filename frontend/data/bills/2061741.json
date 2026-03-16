@@ -1,0 +1,72 @@
+{
+  "id": 2061741,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB1041",
+  "title": "Relating To Health.",
+  "summary": "Requires the Department of Health to develop a service availability form to be completed by covered entities to convey to patients and the public certain health care services unavailable at the entity before 12/1/2026, and to publish and maintain on its website a list of covered entities and the service availability form submitted by each covered entity before 02/1/2027. Requires the Department of Health to adopt rules, including a process for receiving and investigating complaints and assessing fines against covered entities in violation. Requires each covered entity to submit a completed service availability form to the Department of Health, adopt certain relevant policies by 2/1/2027, provide patients with their current service availability form as part of the informed consent process before initiating a health care service, and maintain a record of the patient's receipt of the form beginning 2/1/2027. Establishes penalties.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB1041/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB1041/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1041&year=2026",
+  "sponsors": [
+    "Chris Lee (D) [Sen]",
+    "Karl Rhoads (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-17",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-17",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "Referred to HHS, CPN/JDC.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-17",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB1041_.HTM",
+      "doc_id": 3294533
+    }
+  ],
+  "committee": {
+    "committee_id": 4751,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Health and Human Services"
+  },
+  "subjects": [
+    "DOH",
+    "Patient's Right To Know Act",
+    "Unavailable Health Care Services for Nonmedical Reasons",
+    "Service Availability Form",
+    "Covered Entity",
+    "Penalty"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": 2053304,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4758",
+  "title": "Supporting the economic growth of downtowns and small businesses",
+  "summary": "Supporting the economic growth of downtowns and small businesses",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4758/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4758/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4758",
+  "sponsors": [
+    "Committee on Community Development and Small Business [Jnt]"
+  ],
+  "introduced_date": "2025-11-19",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-11-19",
+      "action": "Reported from the committee on Community Development and Small Businesses",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-19",
+      "action": "New draft of H307",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-19",
+      "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-19",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4758.pdf",
+      "doc_id": 3285215
+    }
+  ],
+  "committee": {
+    "committee_id": 737,
+    "chamber": "H",
+    "chamber_id": 51,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

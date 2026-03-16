@@ -1,0 +1,90 @@
+{
+  "id": 2078979,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "SB1664",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 4; Title 33; Title 47; Title 56; Title 63; Title 68 and Title 71, relative to the protection of minors in healthcare settings.",
+  "summary": "As introduced, prohibits a healthcare provider from asking certain listed gender-related questions to a minor unless a parent is physically present and fully informed and provides written consent to such questions and the questions are directly related to the diagnosis or treatment of a specific medical or psychological condition currently being evaluated; makes other related changes. - Amends TCA Title 4; Title 33; Title 47; Title 56; Title 63; Title 68 and Title 71.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/SB1664/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/SB1664/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB1664&ga=114",
+  "sponsors": [
+    "Paul Rose (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Filed for introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Introduced, Passed on First Consideration",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Passed on Second Consideration, refer to Senate Commerce and Labor Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Placed on Senate Commerce and Labor Committee calendar for 3/3/2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Action deferred in Senate Commerce and Labor Committee to 3/10/2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Placed on Senate Commerce and Labor Committee calendar for 3/10/2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 8, Nays 1 PNV 0",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-10",
+      "description": "SENATE COMMERCE AND LABOR COMMITTEE: Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 8, Nays 1 PNV 0",
+      "yea": 8,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB1664.pdf",
+      "doc_id": 3315972
+    }
+  ],
+  "committee": {
+    "committee_id": 2502,
+    "chamber": "S",
+    "chamber_id": 90,
+    "name": "Calendar"
+  },
+  "subjects": [
+    "Health Care"
+  ]
+}

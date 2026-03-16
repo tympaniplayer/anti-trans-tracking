@@ -1,0 +1,50 @@
+{
+  "id": 2005610,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S06422",
+  "title": "Provides that prescription labels for gonadotropin-releasing hormone agonists, pubertal suppressants, anabolic steroids, alpha reductase inhibitors, progestins, or drug classes for hormone replacement therapy maybe include the name of the dispensing practice instead of the prescriber; provides for notice to patients.",
+  "summary": "Provides that prescription labels for gonadotropin-releasing hormone agonists, pubertal suppressants, anabolic steroids, alpha reductase inhibitors, progestins, or drug classes for hormone replacement therapy maybe include the name of the dispensing practice instead of the prescriber; provides for notice to patients.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S06422/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S06422/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S6422",
+  "sponsors": [
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Jeremy Cooney (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-13",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-13",
+      "action": "REFERRED TO HIGHER EDUCATION",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-13",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S06422&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S06422",
+      "doc_id": 3172526
+    }
+  ],
+  "committee": {
+    "committee_id": 430,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Higher Education"
+  },
+  "subjects": []
+}

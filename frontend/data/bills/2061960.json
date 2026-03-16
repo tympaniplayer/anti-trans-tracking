@@ -1,0 +1,73 @@
+{
+  "id": 2061960,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HB1322",
+  "title": "Relating To Corrections.",
+  "summary": "Restricts the use of solitary confinement in state-operated and state-contracted correctional facilities, with certain specified exceptions. Requires the Department of Corrections and Rehabilitation to develop written policies and procedures regarding solitary confinement by 7/1/2026. Requires the Hawaii Correctional System Oversight Commission to review certain housing placements. Requires the Department to develop policies and procedures to review committed persons placed in solitary confinement and develop a plan for committed persons currently in solitary confinement by 4/1/2026. Requires a report to the Legislature and Hawaii Correctional System Oversight Commission. Effective 7/1/2026.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HB1322/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HB1322/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1322&year=2026",
+  "sponsors": [
+    "Mark Hashem (D) [Rep]",
+    "Mahina Poepoe (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-22",
+      "action": "Pending introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "Introduced and Pass First Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-27",
+      "action": "Referred to PBS, JHA, FIN, referral sheet 4",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-22",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1322_.HTM",
+      "doc_id": 3294864
+    }
+  ],
+  "committee": {
+    "committee_id": 2810,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Public Safety"
+  },
+  "subjects": [
+    "DCR",
+    "Hawaii Correctional System Oversight Commission",
+    "Correctional Facilities",
+    "Committed Persons",
+    "Solitary Confinement",
+    "Restrictions",
+    "Report"
+  ]
+}

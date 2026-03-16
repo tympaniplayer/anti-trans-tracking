@@ -1,0 +1,84 @@
+{
+  "id": 2079094,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "HB1242",
+  "title": "K-12 schools and institutions of higher education; student participation in women's sports, etc.",
+  "summary": "K-12 schools and institutions of higher education; student participation in women's sports; civil cause of action. Requires each interscholastic, intercollegiate, intramural, or club athletic team or sport sponsored by a public school, or any other school that is a member of the Virginia High School League, or by a public institution of higher education to be expressly designated as one of the following based on the biological sex of the students who participate on the team or in the sport: (i) for males, men, or boys; (ii) for females, women, or girls; or (iii) for coed or mixed if participation on such team or sport is open to both males and females. The bill requires that the biological sex of any student seeking to participate on such an expressly designated team be affirmed by a signed physician's statement. The bill prohibits any such team or sport that is expressly designated for females from being open to students whose biological sex is male. The bill prohibits any government entity, licensing or accrediting organization, or athletic association or organization from entertaining a complaint, opening an investigation, or taking any other adverse action against any such school or institution of higher education for adhering to the provisions of the bill and creates a cause of action for any school or institution of higher education that suffers harm as a result of a violation of the bill. Finally, the bill creates a civil cause of action for any student who suffers harm as a result of a knowing violation of a provision of the bill by a school or institution or as a result of the student's reporting a violation of a provision of the bill by a school, institution, athletic association, or organization.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "education",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/HB1242/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/HB1242/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/HB1242",
+  "sponsors": [
+    "Delores Oates (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26102027D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Referred to Committee on Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (HB1242)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Assigned HED sub: K-12 Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Subcommittee recommends laying on the table (7-Y 3-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Left in Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-10",
+      "description": "Subcommittee recommends laying on the table (7-Y 3-N)",
+      "yea": 7,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB1242/text/HB1242",
+      "doc_id": 3316082
+    }
+  ],
+  "committee": {
+    "committee_id": 151,
+    "chamber": "H",
+    "chamber_id": 7,
+    "name": "Education"
+  },
+  "subjects": []
+}

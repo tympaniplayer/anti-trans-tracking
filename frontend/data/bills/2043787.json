@@ -1,0 +1,71 @@
+{
+  "id": 2043787,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB4938",
+  "title": "State: other; distribution of certain material; prohibit. Creates new act.",
+  "summary": "State: other; distribution of certain material; prohibit. Creates new act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB4938/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB4938/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4938",
+  "sponsors": [
+    "Josh Schriver (R) [Rep]",
+    "Joseph Pavlov (R) [Rep]",
+    "Matthew Maddock (R) [Rep]",
+    "James DeSana (R) [Rep]",
+    "Joseph Fox (R) [Rep]",
+    "Jennifer Wortz (R) [Rep]"
+  ],
+  "introduced_date": "2025-09-11",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-09-11",
+      "action": "Introduced By Representative Rep. Josh Schriver",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-11",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-11",
+      "action": "Referred To Committee On Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-16",
+      "action": "Bill Electronically Reproduced 09/11/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-09-11",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4938.htm",
+      "doc_id": 3268710
+    }
+  ],
+  "committee": {
+    "committee_id": 821,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "State: other"
+  ]
+}

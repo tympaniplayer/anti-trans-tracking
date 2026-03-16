@@ -1,0 +1,57 @@
+{
+  "id": 2029215,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3224",
+  "title": "International Financial Institution Improvements Act of 2025",
+  "summary": "To enhance the operations and accountability of international financial institutions, strengthen support for low-income countries, and promote human rights and environmental standards in global financial projects.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3224/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3224/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3224/all-info",
+  "sponsors": [
+    "Maxine Waters (D) [Rep]",
+    "Joyce Beatty (D) [Rep]"
+  ],
+  "introduced_date": "2025-05-06",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-05-06",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Referred to the House Committee on Financial Services.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-15",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3224/BILLS-119hr3224ih.pdf",
+      "doc_id": 3237545
+    }
+  ],
+  "committee": {
+    "committee_id": 2304,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Financial Services"
+  },
+  "subjects": [
+    "International affairs"
+  ]
+}

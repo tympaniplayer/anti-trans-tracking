@@ -1,0 +1,50 @@
+{
+  "id": 2088426,
+  "state": "MS",
+  "state_name": "Mississippi",
+  "bill_number": "HB1479",
+  "title": "Sharia law; prohibit use in contracts and MS law.",
+  "summary": "An Act To Prohibit The Application Of Sharia Law In Mississippi Courts; To Provide Legislative Findings And Legislative Intent; To Create New Section 11-63-3, Mississippi Code Of 1972, To Provide That Contracts That Provide For The Application Of Foreign Laws, Including Sharia Laws, Are Void; To Amend Section 11-63-1, Mississippi Code Of 1972, To Provide That Any Administrative Or Court Order That Seeks To Enforce Foreign Laws Shall Be Void; To Amend Section 11-7-301, Mississippi Code Of 1972, To Revise The Definition Of \"foreign\" Court Order; To Amend Section 93-9-30, Mississippi Code Of 1972, To Clarify The Exclusion Of Foreign Law From Full Faith And Credit For Issues Of Paternity; To Amend Sections 11-61-1, 11-62-5, 11-62-7 And 11-62-15, Mississippi Code Of 1972, To Conform To The Preceding Sections; To Amend Section 89-8-11, Mississippi Code Of 1972, To Prohibit A Landlord From Adopting Lease Terms That Apply Foreign Laws; To Amend Section 87-7-9, Mississippi Code Of 1972, To Conform To The Preceding Section; To Bring Forward Sections 11-62-17, 11-62-9 And 11-62-13, Mississippi Code Of 1972, Which Provides For Freedom Of Conscience, For Purposes Of Amendment; To Amend Section 11-62-11, Mississippi Code Of 1972, For Codebook Update; And For Related Purposes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "religious_exemptions",
+    "definitions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MS/bill/HB1479/2026",
+  "legiscan_url": "https://legiscan.com/MS/bill/HB1479/2026",
+  "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1479.xml",
+  "sponsors": [
+    "Timmy Ladner (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-19",
+      "action": "Referred To Judiciary A",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Died In Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1479IN.htm",
+      "doc_id": 3326167
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

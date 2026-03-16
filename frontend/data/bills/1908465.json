@@ -1,0 +1,55 @@
+{
+  "id": 1908465,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S01350",
+  "title": "Prohibits police officers from using bias-based profiling; requires that a procedure be established for the taking and review of complaints against police officers for bias-based profiling; allows an action for injunctive relief and/or damages to be brought against a law enforcement agency, any agent of a law enforcement agency and the supervisor of an agent.",
+  "summary": "Prohibits police officers from using bias-based profiling; requires that a procedure be established for the taking and review of complaints against police officers for bias-based profiling; allows an action for injunctive relief and/or damages to be brought against a law enforcement agency, any agent of a law enforcement agency and the supervisor of an agent.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S01350/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S01350/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S1350",
+  "sponsors": [
+    "Cordell Cleare (D) [Sen]",
+    "Jamaal Bailey (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-09",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-09",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-09",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S01350&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S01350",
+      "doc_id": 3045300
+    }
+  ],
+  "committee": {
+    "committee_id": 417,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Codes"
+  },
+  "subjects": []
+}

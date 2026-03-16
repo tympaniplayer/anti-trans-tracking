@@ -1,0 +1,51 @@
+{
+  "id": 2115813,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A4284",
+  "title": "Requires DOC to assign transgender inmate to State correctional facility based on inmate's gender identity and use inmate's preferred gender pronoun.",
+  "summary": "Requires DOC to assign transgender inmate to State correctional facility based on inmate's gender identity and use inmate's preferred gender pronoun.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A4284/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A4284/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A4284",
+  "sponsors": [
+    "Shanique Speight (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-19",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-19",
+      "action": "Introduced, Referred to Assembly Public Safety and Preparedness Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-20",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A4500/4284_I1.HTM",
+      "doc_id": 3371839
+    }
+  ],
+  "committee": {
+    "committee_id": 4934,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Public Safety and Preparedness Committee"
+  },
+  "subjects": [
+    "Public Safety and Preparedness"
+  ]
+}

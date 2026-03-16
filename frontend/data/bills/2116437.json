@@ -1,0 +1,78 @@
+{
+  "id": 2116437,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB1443",
+  "title": "Retail Supply of Electricity and Gas - Regulation and Consumer Protection - Alterations",
+  "summary": "Repealing certain provisions related to energy salespersons and the marketing and pricing of green power; altering the process of renewing certain electricity supplier and gas supplier licenses; requiring the Public Service Commission to provide a certain licensee with due process before taking certain actions regarding the license; requiring electric and gas suppliers to submit a list of energy vendors to the Commission under certain circumstances; etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB1443/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB1443/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1443?ys=2026RS",
+  "sponsors": [
+    "Steven Arentz (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-13",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-13",
+      "action": "First Reading Environment and Transportation",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Hearing 3/06 at 1:00 p.m.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Hearing canceled",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Withdrawn by Sponsor",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-13",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb1443f.pdf",
+      "doc_id": 3362579
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Utility Regulation",
+    "Applicants and Applications",
+    "Awareness and Outreach",
+    "Civil Actions",
+    "Commerce and Business",
+    "Consumer Protection",
+    "Energy Matters",
+    "Fuel",
+    "internet",
+    "Licenses",
+    "Notices",
+    "Penalties and Sentences",
+    "Public Service Commission",
+    "Records",
+    "Residential Property",
+    "Retail Sales",
+    "Revenue and Taxes",
+    "Rules and Regulations"
+  ]
+}

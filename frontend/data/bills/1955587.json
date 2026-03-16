@@ -1,0 +1,112 @@
+{
+  "id": 1955587,
+  "state": "GA",
+  "state_name": "Georgia",
+  "bill_number": "HB267",
+  "title": "Riley Gaines Act; enact",
+  "summary": "A BILL to be entitled an Act to amend various titles of the Official Code of Georgia Annotated so as to provide for separate restroom and changing areas for males and females in schools; to provide for sleeping arrangements on school trips to be made according to sex; to provide for definitions throughout the Official Code of Georgia Annotated of certain terms relating to sex; to provide for legislative findings on the importance of certain distinctions between the sexes; to require any collector of vital statistics throughout this state to identify each individual as either male or female; to replace the term \"gender\" throughout the Code with \"sex\"; to provide for definitions; to provide for conforming changes; to provide for a short title; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "bathrooms",
+    "education",
+    "definitions"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/GA/bill/HB267/2025",
+  "legiscan_url": "https://legiscan.com/GA/bill/HB267/2025",
+  "state_url": "https://www.legis.ga.gov/legislation/69927",
+  "sponsors": [
+    "Josh Bonner (R) [Rep]",
+    "Jan Jones (R) [Rep]",
+    "Will Wade (R) [Rep]",
+    "Ginny Ehrhart (R) [Rep]",
+    "Sandy Donatucci (R) [Rep]",
+    "Todd Jones (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-04",
+      "action": "House Hopper",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "House First Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "House Second Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "House Committee Favorably Reported By Substitute",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House Third Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House Passed/Adopted By Substitute",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "Senate Read and Referred",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-27",
+      "description": "Passage: House Vote #103",
+      "yea": 102,
+      "nay": 54,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-05",
+      "type": "Introduced",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231332",
+      "doc_id": 3100307
+    },
+    {
+      "date": "2025-02-24",
+      "type": "Comm Sub",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233573",
+      "doc_id": 3139727
+    },
+    {
+      "date": "2025-02-27",
+      "type": "Comm Sub",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/233877",
+      "doc_id": 3147155
+    },
+    {
+      "date": "2025-02-27",
+      "type": "Comm Sub",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234391",
+      "doc_id": 3147156
+    }
+  ],
+  "committee": {
+    "committee_id": 619,
+    "chamber": "S",
+    "chamber_id": 30,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2074761,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S979",
+  "title": "Eliminates provision in bias intimidation statute concerning victim's perception of defendant's purpose; replaces provision with language concerning \"reasonable\" victim.",
+  "summary": "Eliminates provision in bias intimidation statute concerning victim's perception of defendant's purpose; replaces provision with language concerning \"reasonable\" victim.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S979/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S979/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S979",
+  "sponsors": [
+    "Jon Bramnick (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Judiciary Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-22",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S1000/979_I1.HTM",
+      "doc_id": 3311794
+    }
+  ],
+  "committee": {
+    "committee_id": 880,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Judiciary"
+  ]
+}

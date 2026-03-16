@@ -1,0 +1,68 @@
+{
+  "id": 2008636,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB2107",
+  "title": "Children\u2019s Hospital GME Support Reauthorization Act of 2025",
+  "summary": "To amend title III of the Public Health Service Act to reauthorize the program of payments to children's hospitals that operate graduate medical education programs, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB2107/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB2107/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/2107/all-info",
+  "sponsors": [
+    "Dan Crenshaw (R) [Rep]",
+    "Mary Miller (R) [Rep]",
+    "Mariannette Miller-Meeks (R) [Rep]",
+    "August Pfluger (R) [Rep]",
+    "Jake Ellzey (R) [Rep]",
+    "Jeff Van Drew (R) [Rep]",
+    "Mark Green (R) [Rep]",
+    "David Rouzer (R) [Rep]",
+    "Diana Harshbarger (R) [Rep]",
+    "Glenn Grothman (R) [Rep]",
+    "Ronny Jackson (R) [Rep]",
+    "Scott Franklin (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-14",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-03-14",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-02",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr2107/BILLS-119hr2107ih.pdf",
+      "doc_id": 3200065
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

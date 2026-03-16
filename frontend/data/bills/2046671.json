@@ -1,0 +1,70 @@
+{
+  "id": 2046671,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB1956",
+  "title": "Further providing for definitions.",
+  "summary": "An Act amending the act of October 27, 1955 (P.L.744, No.222), known as the Pennsylvania Human Relations Act, further providing for definitions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB1956/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB1956/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb1956",
+  "sponsors": [
+    "Jamie Walsh (R) [Rep]",
+    "Andrew Kuzma (R) [Rep]",
+    "Joe Hamm (R) [Rep]",
+    "Scott Barger (R) [Rep]",
+    "Marc Anderson (R) [Rep]",
+    "Perry Stambaugh (R) [Rep]",
+    "Joseph D'Orsie (R) [Rep]",
+    "Joanne Stehr (R) [Rep]",
+    "Dane Watro (R) [Rep]",
+    "Josh Bashline (R) [Rep]",
+    "Wendy Fink (R) [Rep]",
+    "Milou Mackenzie (R) [Rep]",
+    "Kathy Rapp (R) [Rep]",
+    "Robert Kauffman (R) [Rep]",
+    "Mark Gillen (R) [Rep]",
+    "Barbara Gleim (R) [Rep]",
+    "Stephanie Borowicz (R) [Rep]",
+    "David Zimmerman (R) [Rep]",
+    "Doyle Heffley (R) [Rep]",
+    "Valerie Gaydos (R) [Rep]",
+    "Aaron Bernstine (R) [Rep]",
+    "Ann Flood (R) [Rep]"
+  ],
+  "introduced_date": "2025-10-17",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-10-17",
+      "action": "Referred to State Government",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-17",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1956/PN2473",
+      "doc_id": 3273902
+    }
+  ],
+  "committee": {
+    "committee_id": 59,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "State Government"
+  },
+  "subjects": []
+}

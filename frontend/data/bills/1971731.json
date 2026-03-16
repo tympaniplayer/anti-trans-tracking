@@ -1,0 +1,87 @@
+{
+  "id": 1971731,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB701",
+  "title": "Corrections: solitary confinement.",
+  "summary": "An act to add and repeal Article 7 (commencing with Section 2697) of Chapter 4 of Title 1 of Part 3 of the Penal Code, relating to corrections.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB701/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB701/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB701",
+  "sponsors": [
+    "Liz Ortega (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-14",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-15",
+      "action": "From printer. May be heard in committee March 17.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Referred to Com. on PUB. S.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 0.) (March 25). Re-referred to Com. on APPR.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "In committee: Set, first hearing. Referred to suspense file.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "In committee: Held under submission.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-31",
+      "action": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-25",
+      "description": "Do pass and be re-referred to the Committee on [Appropriations]",
+      "yea": 8,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-14",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB701#99INT",
+      "doc_id": 3123821
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,80 @@
+{
+  "id": 2041231,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB4855",
+  "title": "Veteran Families Health Services Act of 2025",
+  "summary": "To improve the reproductive assistance provided by the Department of Defense and the Department of Veterans Affairs to certain members of the Armed Forces, veterans, and their spouses or partners, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB4855/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB4855/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4855/all-info",
+  "sponsors": [
+    "Rick Larsen (D) [Rep]",
+    "Suzan DelBene (D) [Rep]",
+    "Linda Sanchez (D) [Rep]",
+    "John Larson (D) [Rep]",
+    "Chrissy Houlahan (D) [Rep]",
+    "Seth Moulton (D) [Rep]",
+    "Marilyn Strickland (D) [Rep]",
+    "Deborah Ross (D) [Rep]",
+    "Seth Magaziner (D) [Rep]",
+    "Josh Gottheimer (D) [Rep]",
+    "Raja Krishnamoorthi (D) [Rep]",
+    "Dina Titus (D) [Rep]",
+    "Danny Davis (D) [Rep]",
+    "Mike Levin (D) [Rep]",
+    "Sylvia Garcia (D) [Rep]",
+    "Brad Sherman (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Sara Jacobs (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "James McGovern (D) [Rep]"
+  ],
+  "introduced_date": "2025-08-01",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-08-01",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-01",
+      "action": "Referred to the Committee on Veterans' Affairs, and in addition to the Committee on Armed Services, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-19",
+      "action": "Referred to the Subcommittee on Health.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-08-07",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr4855/BILLS-119hr4855ih.pdf",
+      "doc_id": 3264252
+    }
+  ],
+  "committee": {
+    "committee_id": 2355,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Subcommittee on Health"
+  },
+  "subjects": [
+    "Armed forces and national security"
+  ]
+}

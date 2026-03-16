@@ -1,0 +1,68 @@
+{
+  "id": 2101214,
+  "state": "OR",
+  "state_name": "Oregon",
+  "bill_number": "SB1572",
+  "title": "Relating to education; prescribing an effective date.",
+  "summary": "Makes changes in the law related to school discipline, high school diplomas and third grade reading. (Flesch Readability Score: 63.6). Authorizes a teacher to immediately remove from the classroom setting a student who repeatedly interferes with the teacher's ability to communicate effectively with the students in the class or with the ability of the students to learn. Prescribes requirements for the return of a student to the classroom setting. Requires a school district to convene a placement review committee when a student is removed from a classroom setting. Requires a student to demonstrate proficiency in specified Essential Learning Skills prior to the student being awarded a high school diploma or a modified diploma. Directs the State Board of Education to adopt academic content standards for language arts based on the science of reading and writing. Prohibits school districts from advancing students who are not able to demonstrate third-grade reading proficiency. Provides exceptions. Takes effect July 1, 2026.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OR/bill/SB1572/2026",
+  "legiscan_url": "https://legiscan.com/OR/bill/SB1572/2026",
+  "state_url": "https://olis.oregonlegislature.gov/liz/2026R1/Measures/Overview/SB1572",
+  "sponsors": [
+    "Christine Drazan (R) [Rep]",
+    "Boomer Wright (R) [Rep]",
+    "Matt Bunch (R) [Rep]",
+    "David Smith (R) [Rep]",
+    "Suzanne Weber (R) [Sen]",
+    "Court Boice (R) [Rep]",
+    "Ed  Diehl (R) [Rep]",
+    "Darin Harbick (R) [Rep]",
+    "Bobby Levy (R) [Rep]",
+    "Anna Scharf (R) [Rep]"
+  ],
+  "introduced_date": "2026-03-06",
+  "session": "2026 Legislative Measures",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "Introduction and first reading. Referred to President's desk.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Referred to Education.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Public Hearing held.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "In committee upon adjournment.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://olis.oregonlegislature.gov/liz/2026R1/Downloads/MeasureDocument/SB1572/Introduced",
+      "doc_id": 3340408
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

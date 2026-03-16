@@ -1,0 +1,91 @@
+{
+  "id": 2116903,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "S2568",
+  "title": "Require that routine childhood and adult immunization vaccine recommendations that are developed from evidence based, medically sound scientific research by the department of health.",
+  "summary": "HEALTH AND SAFETY -- DEPARTMENT OF HEALTH - Require that routine childhood and adult immunization vaccine recommendations that are developed from evidence based, medically sound scientific research by the department of health.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/S2568/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/S2568/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Pamela Lauria (D) [Sen]",
+    "Bridget Valverde (D) [Sen]",
+    "Melissa Murray (D) [Sen]",
+    "Alana DiMario (D) [Sen]",
+    "Tiara Mack (D) [Sen]",
+    "Dawn Euer (D) [Sen]",
+    "Lori Urso (D) [Sen]",
+    "Meghan Kallman (D) [Sen]",
+    "Brian Thompson (D) [Sen]",
+    "Victoria Gu (D) [Sen]",
+    "Lammis Vargas (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-13",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-13",
+      "action": "Introduced, referred to Senate Health and Human Services",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Scheduled for hearing and/or consideration",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Meeting postponed (02/24/2026)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Scheduled for hearing and/or consideration (02/26/2026)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Committee recommended measure be held for further study",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-26",
+      "description": "Senate Committee on Health & Human Services: Be held for further study",
+      "yea": 8,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-02-13",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/SenateText26/S2568.pdf",
+      "doc_id": 3362284
+    }
+  ],
+  "committee": {
+    "committee_id": 1138,
+    "chamber": "S",
+    "chamber_id": 84,
+    "name": "Health and Human Services"
+  },
+  "subjects": [
+    "Health And Safety",
+    "HEALTH AND SAFETY -- DEPARTMENT OF HEALTH"
+  ]
+}

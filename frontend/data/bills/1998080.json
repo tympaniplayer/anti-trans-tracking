@@ -1,0 +1,64 @@
+{
+  "id": 1998080,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S1411",
+  "title": "To establish a perinatal behavioral health care workforce trust fund",
+  "summary": "For legislation to establish a perinatal behavioral health care workforce trust fund. Mental Health, Substance Use and Recovery.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S1411/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S1411/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S1411",
+  "sponsors": [
+    "Liz Miranda (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Mental Health, Substance Use and Recovery",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-18",
+      "action": "Hearing scheduled for 07/28/2025 from 01:00 PM-05:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-09-11",
+      "action": "Bill reported favorably by committee and referred to the Joint Committee on Health Care Financing",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Accompanied a study order, see S2931",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S1411.pdf",
+      "doc_id": 3163324
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

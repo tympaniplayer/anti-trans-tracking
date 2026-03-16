@@ -1,0 +1,54 @@
+{
+  "id": 1949193,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A04037",
+  "title": "Adds certain human services programs to the designated human services programs eligible for a cost of living adjustment.",
+  "summary": "Adds certain human services programs to the designated human services programs eligible for a cost of living adjustment.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A04037/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A04037/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A4037",
+  "sponsors": [
+    "Andrew Hevesi (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-30",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-30",
+      "action": "referred to social services",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to social services",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-30",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A04037&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A04037",
+      "doc_id": 3092198
+    }
+  ],
+  "committee": {
+    "committee_id": 383,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Social Services"
+  },
+  "subjects": []
+}

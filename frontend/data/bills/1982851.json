@@ -1,0 +1,50 @@
+{
+  "id": 1982851,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0365",
+  "title": "An act relating to the regulation of social media platforms and artificial intelligence systems",
+  "summary": "An act relating to the regulation of social media platforms and artificial intelligence systems",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0365/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0365/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.365",
+  "sponsors": [
+    "Angela Arsenault (D) [Rep]",
+    "Edye Graning (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-26",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-02-26",
+      "action": "Read first time and referred to the Committee on Commerce and Economic Development",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-25",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0365/H-0365%20As%20Introduced.pdf",
+      "doc_id": 3140452
+    }
+  ],
+  "committee": {
+    "committee_id": 782,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "Commerce and Economic Development"
+  },
+  "subjects": []
+}

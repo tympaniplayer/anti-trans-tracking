@@ -1,0 +1,90 @@
+{
+  "id": 1945918,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S03670",
+  "title": "Creates statewide emergency and crisis response council to work in conjunction with the commissioners of mental health and addiction services to jointly approve emergency and crisis services plans submitted by local governments, and provide supports regarding the operation and financing of high-quality emergency and crisis services provided to persons experiencing a mental health, alcohol use, or substance use crisis.",
+  "summary": "Creates statewide emergency and crisis response council to work in conjunction with the commissioners of mental health and addiction services to jointly approve emergency and crisis services plans submitted by local governments, and provide supports regarding the operation and financing of high-quality emergency and crisis services provided to persons experiencing a mental health, alcohol use, or substance use crisis.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S03670/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S03670/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S3670",
+  "sponsors": [
+    "Samra Brouk (D) [Sen]",
+    "April Baskin (D) [Sen]",
+    "Jabari Brisport (D) [Sen]",
+    "Siela Bynoe (D) [Sen]",
+    "Cordell Cleare (D) [Sen]",
+    "Leroy Comrie (D) [Sen]",
+    "Jeremy Cooney (D) [Sen]",
+    "Nathalia Fernandez (D) [Sen]",
+    "Michael Gianaris (D) [Sen]",
+    "Kristen Gonzalez (D) [Sen]",
+    "Andrew Gounardes (D) [Sen]",
+    "Peter Harckham (D) [Sen]",
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "Rachel May (D) [Sen]",
+    "Zellnor Myrie (D) [Sen]",
+    "Kevin Parker (D) [Sen]",
+    "Jessica Ramos (D) [Sen]",
+    "Gustavo Rivera (D) [Sen]",
+    "Julia Salazar (D) [Sen]",
+    "Luis Sepulveda (D) [Sen]",
+    "Jose Serrano (D) [Sen]",
+    "Toby Stavisky (D) [Sen]",
+    "Lea Webb (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-29",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-29",
+      "action": "REFERRED TO MENTAL HEALTH",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "REPORTED AND COMMITTED TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO MENTAL HEALTH",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-05",
+      "description": "Senate Mental Health Committee Vote",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-29",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S03670&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S03670",
+      "doc_id": 3088153
+    }
+  ],
+  "committee": {
+    "committee_id": 4467,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Mental Health"
+  },
+  "subjects": []
+}

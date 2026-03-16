@@ -1,0 +1,54 @@
+{
+  "id": 2113383,
+  "state": "CT",
+  "state_name": "Connecticut",
+  "bill_number": "SB00138",
+  "title": "An Act Implementing The Recommendations Of The Department Of Education.",
+  "summary": "To implement the recommendations of the Department of Education.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CT/bill/SB00138/2026",
+  "legiscan_url": "https://legiscan.com/CT/bill/SB00138/2026",
+  "state_url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00138&which_year=2026",
+  "sponsors": [
+    "Education Committee [Jnt]"
+  ],
+  "introduced_date": "2026-02-11",
+  "session": "2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-11",
+      "action": "Referred to Joint Committee on Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Public Hearing 02/20",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-10",
+      "type": "Introduced",
+      "url": "https://www.cga.ct.gov/2026/TOB/S/PDF/2026SB-00138-R00-SB.PDF",
+      "doc_id": 3357098
+    }
+  ],
+  "committee": {
+    "committee_id": 1342,
+    "chamber": "J",
+    "chamber_id": 108,
+    "name": "Education"
+  },
+  "subjects": []
+}

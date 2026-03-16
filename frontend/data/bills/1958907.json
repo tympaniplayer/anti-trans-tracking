@@ -1,0 +1,147 @@
+{
+  "id": 1958907,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S04497",
+  "title": "Requires certain insurance policies to provide coverage for fertility preservation services, including anticipated iatrogenic infertility.",
+  "summary": "Requires certain insurance policies to provide coverage for fertility preservation services, including anticipated iatrogenic infertility.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S04497/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S04497/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S4497",
+  "sponsors": [
+    "Michelle Hinchey (D) [Sen]",
+    "Kristen Gonzalez (D) [Sen]",
+    "Andrew Gounardes (D) [Sen]",
+    "Zellnor Myrie (D) [Sen]",
+    "Julia Salazar (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-09",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-06",
+      "action": "REFERRED TO INSURANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "COMMITTEE DISCHARGED AND COMMITTED TO RULES",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "ORDERED TO THIRD READING CAL.1687",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "referred to insurance",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "died in assembly",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "returned to senate",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO INSURANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "COMMITTEE DISCHARGED AND COMMITTED TO RULES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "ORDERED TO THIRD READING CAL.56",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "referred to insurance",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-09",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 51,
+      "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-09",
+      "description": "Senate Rules Committee Vote",
+      "yea": 17,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-20",
+      "description": "Senate Rules Committee Vote",
+      "yea": 14,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-27",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 47,
+      "nay": 11,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-06",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S04497&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S04497",
+      "doc_id": 3104494
+    }
+  ],
+  "committee": {
+    "committee_id": 372,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Insurance"
+  },
+  "subjects": []
+}

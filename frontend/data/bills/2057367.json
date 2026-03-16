@@ -1,0 +1,72 @@
+{
+  "id": 2057367,
+  "state": "FL",
+  "state_name": "Florida",
+  "bill_number": "H0681",
+  "title": "Health Care",
+  "summary": "Repeals provisions relating to sex-reassignment prescriptions & procedures & civil liability for provision of sex-reassignment prescriptions or procedures to minors, respectively; requires covered entity to adopt policy relating to providing notice of its refused services; requires DOH to publish & maintain on its website current list of covered entities & their refused services & develop & administer public education & awareness program; revises timeframe in which physician may perform termination of pregnancy; requires AHCA to provide Medicaid reimbursement for medically necessary treatment for or related to gender dysphoria or comparable or equivalent diagnoses; prohibits AHCA from discriminating in reimbursement on basis of recipient's gender identity or that recipient is transgender individual.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/FL/bill/H0681/2026",
+  "legiscan_url": "https://legiscan.com/FL/bill/H0681/2026",
+  "state_url": "https://www.flsenate.gov/Session/Bill/2026/681",
+  "sponsors": [
+    "Anna Eskamani (D) [Rep]",
+    "Daryl Campbell (D) [Rep]",
+    "Jennifer Harris (D) [Rep]"
+  ],
+  "introduced_date": "2025-12-08",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-08",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-16",
+      "action": "Referred to Health Professions & Programs Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-16",
+      "action": "Referred to Health Care Budget Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-16",
+      "action": "Referred to Health & Human Services Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-16",
+      "action": "Now in Health Professions & Programs Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "1st Reading (Original Filed Version)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-08",
+      "type": "Introduced",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/681/BillText/Filed/PDF",
+      "doc_id": 3288965
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

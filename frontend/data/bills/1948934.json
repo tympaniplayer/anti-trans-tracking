@@ -1,0 +1,89 @@
+{
+  "id": 1948934,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A04036",
+  "title": "Requires that an organization applying for grant funding shall provide to arts agencies a certification that it will enter into a labor peace agreement with at least one bona fide labor organization either where such bona fide labor organization is actively representing employees providing services covered by the organization seeking such grant funding or upon notice by a bona fide labor organization that is attempting to represent employees who will provide services to the organization seeking such grant funding; relates to prevailing wage requirements for not-for-profit theaters and payment of their employees on productions funded by the New York state council on the arts or arts agencies of localities.",
+  "summary": "Requires that an organization applying for grant funding shall provide to arts agencies a certification that it will enter into a labor peace agreement with at least one bona fide labor organization either where such bona fide labor organization is actively representing employees providing services covered by the organization seeking such grant funding or upon notice by a bona fide labor organization that is attempting to represent employees who will provide services to the organization seeking such grant funding; relates to prevailing wage requirements for not-for-profit theaters and payment of their employees on productions funded by the New York state council on the arts or arts agencies of localities.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A04036/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A04036/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A4036",
+  "sponsors": [
+    "Harry Bronson (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Alfred Taylor (D) [Rep]",
+    "Nily Rozic (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-30",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-30",
+      "action": "referred to labor",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "amend (t) and recommit to labor",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "print number 4036a",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-06",
+      "action": "amend and recommit to labor",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-06",
+      "action": "print number 4036b",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to labor",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-30",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A04036&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A04036",
+      "doc_id": 3092940
+    },
+    {
+      "date": "2025-01-30",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A04036&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A04036A",
+      "doc_id": 3196172
+    },
+    {
+      "date": "2025-01-30",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A04036&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A04036B",
+      "doc_id": 3253027
+    }
+  ],
+  "committee": {
+    "committee_id": 374,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Labor"
+  },
+  "subjects": []
+}

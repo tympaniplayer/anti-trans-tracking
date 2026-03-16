@@ -1,0 +1,74 @@
+{
+  "id": 1923366,
+  "state": "NE",
+  "state_name": "Nebraska",
+  "bill_number": "LB367",
+  "title": "Prohibit conversion therapy and provide for disciplinary sanctions and a deceptive trade practice",
+  "summary": "Prohibit conversion therapy and provide for disciplinary sanctions and a deceptive trade practice",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NE/bill/LB367/2025",
+  "legiscan_url": "https://legiscan.com/NE/bill/LB367/2025",
+  "state_url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59621",
+  "sponsors": [
+    "Megan Hunt (N) [Sen]"
+  ],
+  "introduced_date": "2025-01-16",
+  "session": "109th Legislature",
+  "actions": [
+    {
+      "date": "2025-01-16",
+      "action": "Date of introduction",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Referred to Health and Human Services Committee",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-02-21",
+      "action": "Notice of hearing for March 19, 2025",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Motion to cancel hearing on March 19 prevailed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Notice of hearing for March 19, 2025 (cancel)",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Notice of hearing for March 27, 2025",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Title printed. Carryover bill",
+      "chamber": "L"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB367.pdf",
+      "doc_id": 3060464
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

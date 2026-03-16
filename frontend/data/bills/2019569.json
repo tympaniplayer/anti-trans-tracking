@@ -1,0 +1,122 @@
+{
+  "id": 2019569,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "HCR077",
+  "title": "House concurrent resolution recognizing April 2025 as Fair Housing Month in Vermont",
+  "summary": "House concurrent resolution recognizing April 2025 as Fair Housing Month in Vermont",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/HCR077/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/HCR077/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.C.R.77",
+  "sponsors": [
+    "Thomas Stevens (D) [Rep]",
+    "Alison Clarkson (D) [Sen]",
+    "Doug Bishop (D) [Rep]",
+    "Tiffany Bluemle (D) [Rep]",
+    "Seth Bongartz (D) [Sen]",
+    "Michelle Bos-Lun (D) [Rep]",
+    "Randolph Brock (R) [Sen]",
+    "Jana Brown (D) [Rep]",
+    "Elizabeth Burrows (D) [Rep]",
+    "Scott Campbell (D) [Rep]",
+    "Brian Cina (D) [Rep]",
+    "Leonora Dodge (D) [Rep]",
+    "Rey Garofano (D) [Rep]",
+    "Martine Gulick (D) [Sen]",
+    "Ruth Hardy (D) [Sen]",
+    "Jim Harrison (R) [Rep]",
+    "Troy Headrick (I) [Rep]",
+    "Mary Howard (D) [Rep]",
+    "Kathleen James (D) [Rep]",
+    "Bram Kleppner (D) [Rep]",
+    "Emilie Kornheiser (D) [Rep]",
+    "Emilie Krasnow (D) [Rep]",
+    "Saudia Lamont (D) [Rep]",
+    "Kate Logan (D) [Rep]",
+    "Christopher Mattos (R) [Sen]",
+    "Kate McCann (D) [Rep]",
+    "Jubilee McGill (D) [Rep]",
+    "Herb Olson (D) [Rep]",
+    "Andrew Perchlik (D) [Sen]",
+    "Phil Pouech (D) [Rep]",
+    "Monique Priestley (D) [Rep]",
+    "Kesha Ram Hinsdale (D) [Sen]",
+    "Lawrence Satcowitz (D) [Rep]",
+    "Robin Scheu (D) [Rep]",
+    "Mary-Katherine Stone (D) [Rep]",
+    "Chloe Tomlinson (D) [Rep]",
+    "Edward Waszazak (D) [Rep]",
+    "Anne Watson (D) [Sen]",
+    "David Weeks (R) [Sen]",
+    "Rebecca White (D) [Sen]",
+    "Theresa Wood (D) [Rep]",
+    "David Yacovone (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-04",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-04-03",
+      "action": "On Consent Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-04",
+      "action": "On Consent Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-04",
+      "action": "Adopted in concurrence per Joint Rule 16b",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-04",
+      "action": "Senate Message: Adopted in concurrence",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-04",
+      "action": "Adopted pursuant to Joint Rule 16b",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Ceremonial Reading",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-01",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/RESOLUTN/HCR077/HCR077%20As%20Introduced.pdf",
+      "doc_id": 3200166
+    },
+    {
+      "date": "2025-04-04",
+      "type": "Enrolled",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/RESOLUTN/HCR077/HCR077%20As%20adopted%20by%20the%20House%20Official.pdf",
+      "doc_id": 3202002
+    },
+    {
+      "date": "2025-04-09",
+      "type": "Enrolled",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/ACTS/ACTR097/ACTR097%20As%20Adopted.pdf",
+      "doc_id": 3210838
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

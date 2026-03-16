@@ -1,0 +1,59 @@
+{
+  "id": 1998335,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S371",
+  "title": "To promote comprehensive and inclusive curriculum in schools",
+  "summary": "For legislation to promote racially inclusive curriculum in schools. Education.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S371/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S371/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S371",
+  "sponsors": [
+    "Adam Gomez (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-02",
+      "action": "Hearing scheduled for 09/16/2025 from 11:00 AM-5:00 PM in Gardner Auditorium",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-11-17",
+      "action": "Accompanied a new draft, see S2689",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S371.pdf",
+      "doc_id": 3163589
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

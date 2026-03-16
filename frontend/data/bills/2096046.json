@@ -1,0 +1,158 @@
+{
+  "id": 2096046,
+  "state": "SD",
+  "state_name": "South Dakota",
+  "bill_number": "HB1184",
+  "title": "Define man and woman throughout the state.",
+  "summary": "Define man and woman throughout the state.",
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SD/bill/HB1184/2026",
+  "legiscan_url": "https://legiscan.com/SD/bill/HB1184/2026",
+  "state_url": "https://sdlegislature.gov/#/Session/Bill/27106",
+  "sponsors": [
+    "Jon Hansen (R) [Rep]",
+    "Mykala Voita (R) [Sen]",
+    "Timothy Goodwin (R) [Rep]",
+    "Leslie Heinemann (R) [Rep]",
+    "Travis Ismay (R) [Rep]",
+    "Kevin Jensen (R) [Sen]",
+    "Phil Jensen (R) [Rep]",
+    "Trish Ladner (R) [Rep]",
+    "Karla Lems (R) [Rep]",
+    "Lauren Nelson (R) [Sen]",
+    "Al Novstrup (R) [Rep]",
+    "Carl Perry (R) [Rep]",
+    "Tom Pischke (R) [Sen]",
+    "Kathy Rice (R) [Rep]",
+    "John Sjaarda (R) [Rep]"
+  ],
+  "introduced_date": "2026-03-09",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "action": "First read in House and referred to House State Affairs H.J. 179",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Scheduled for hearing",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "State Affairs Motion to amend, Passed Amendment 1184A",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "State Affairs Do Pass Amended, Passed, YEAS 10, NAYS 2.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "House of Representatives Do Pass Amended, Passed, YEAS 57, NAYS 9. H.J. 425",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "First read in Senate and referred to Senate Judiciary S.J. 398",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Scheduled for hearing",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Judiciary Do Pass, Passed, YEAS 7, NAYS 0. S.J. 37",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Senate Do Pass Amended, Passed, YEAS 30, NAYS 4. S.J. 496",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Signed by the Speaker H.J. 553",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Signed by the President S.J. 526",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Delivered to the Governor on March 12, 2026 H.J. 562",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-20",
+      "description": "Do Pass Amended",
+      "yea": 10,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-24",
+      "description": "Do Pass Amended",
+      "yea": 57,
+      "nay": 9,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-05",
+      "description": "Do Pass",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-09",
+      "description": "Do Pass Amended",
+      "yea": 30,
+      "nay": 4,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-28",
+      "type": "Introduced",
+      "url": "https://mylrc.sdlegislature.gov/api/Documents/298839.pdf",
+      "doc_id": 3335084
+    },
+    {
+      "date": "2026-02-20",
+      "type": "Comm Sub",
+      "url": "https://mylrc.sdlegislature.gov/api/Documents/304273.pdf",
+      "doc_id": 3370209
+    },
+    {
+      "date": "2026-03-10",
+      "type": "Enrolled",
+      "url": "https://mylrc.sdlegislature.gov/api/Documents/306551.pdf",
+      "doc_id": 3389758
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Administrative Rule Revision",
+    "Legislature and Statutes",
+    "State Affairs and Government"
+  ]
+}

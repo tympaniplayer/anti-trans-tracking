@@ -1,0 +1,68 @@
+{
+  "id": 2042411,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB4776",
+  "title": "Mental health: children; conversion therapy; allow. Amends sec. 100a of 1974 PA 258 (MCL 330.1100a).",
+  "summary": "Mental health: children; conversion therapy; allow. Amends sec. 100a of 1974 PA 258 (MCL 330.1100a).",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB4776/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB4776/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4776",
+  "sponsors": [
+    "Brad Paquette (R) [Rep]"
+  ],
+  "introduced_date": "2025-08-20",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-08-20",
+      "action": "Introduced By Representative Rep. Brad Paquette",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-20",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-20",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-21",
+      "action": "Bill Electronically Reproduced 08/20/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-08-20",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4776.htm",
+      "doc_id": 3265795
+    }
+  ],
+  "committee": {
+    "committee_id": 899,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Government Operations"
+  },
+  "subjects": [
+    "Mental health: children",
+    "Mental health: other",
+    "Health occupations: mental health care professionals"
+  ]
+}

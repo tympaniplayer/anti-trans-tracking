@@ -1,0 +1,54 @@
+{
+  "id": 2107879,
+  "state": "CT",
+  "state_name": "Connecticut",
+  "bill_number": "SB00090",
+  "title": "An Act Revising And Consolidating The Hate Crimes Statutes.",
+  "summary": "To implement the Governor's budget recommendations.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CT/bill/SB00090/2026",
+  "legiscan_url": "https://legiscan.com/CT/bill/SB00090/2026",
+  "state_url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00090&which_year=2026",
+  "sponsors": [
+    "Geoffrey Luxenberg (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "Referred to Joint Committee on Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Public Hearing 02/27",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-04",
+      "type": "Introduced",
+      "url": "https://www.cga.ct.gov/2026/TOB/S/PDF/2026SB-00090-R00-SB.PDF",
+      "doc_id": 3348813
+    }
+  ],
+  "committee": {
+    "committee_id": 1354,
+    "chamber": "J",
+    "chamber_id": 108,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

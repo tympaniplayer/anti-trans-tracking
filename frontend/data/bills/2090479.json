@@ -1,0 +1,73 @@
+{
+  "id": 2090479,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB5471",
+  "title": "Records: birth; fee for birth records; eliminate for certain individuals. Amends sec. 2891 of 1978 PA 368 (MCL 333.2891).",
+  "summary": "Records: birth; fee for birth records; eliminate for certain individuals. Amends sec. 2891 of 1978 PA 368 (MCL 333.2891).",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB5471/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB5471/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5471",
+  "sponsors": [
+    "John Roth (R) [Rep]",
+    "Jerry Neyer (R) [Rep]",
+    "Alicia St. Germaine (R) [Rep]",
+    "Brenda Carter (D) [Rep]",
+    "Samantha Steckloff (D) [Rep]",
+    "Douglas Wozniak (R) [Rep]",
+    "Ken Borton (R) [Rep]",
+    "Curtis VanderWall (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-22",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2026-01-22",
+      "action": "Introduced By Representative Rep. John Roth",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Bill Electronically Reproduced 01/22/2026",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-22",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2026-HIB-5471.htm",
+      "doc_id": 3328623
+    }
+  ],
+  "committee": {
+    "committee_id": 899,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Government Operations"
+  },
+  "subjects": [
+    "Records: birth"
+  ]
+}

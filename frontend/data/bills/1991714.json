@@ -1,0 +1,54 @@
+{
+  "id": 1991714,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S06053",
+  "title": "Relates to rental discrimination based upon consumer credit history; prohibits a person from refusing to rent or lease or otherwise to deny to or withhold from any person or group of persons housing accommodations because of the consumer credit history of such person or persons, or to represent that any housing accommodation is not available for rental or lease when in fact it is so available; defines consumer credit history.",
+  "summary": "Relates to rental discrimination based upon consumer credit history; prohibits a person from refusing to rent or lease or otherwise to deny to or withhold from any person or group of persons housing accommodations because of the consumer credit history of such person or persons, or to represent that any housing accommodation is not available for rental or lease when in fact it is so available; defines consumer credit history.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S06053/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S06053/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S6053",
+  "sponsors": [
+    "Kevin Parker (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-05",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-05",
+      "action": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-05",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S06053&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S06053",
+      "doc_id": 3153736
+    }
+  ],
+  "committee": {
+    "committee_id": 433,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Investigations and Government Operations"
+  },
+  "subjects": []
+}

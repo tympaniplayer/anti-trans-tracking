@@ -1,0 +1,74 @@
+{
+  "id": 2054765,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "HB2075",
+  "title": "Establishes provisions for restroom designations in all public buildings",
+  "summary": "Establishes provisions for restroom designations in all public buildings",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/HB2075/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/HB2075/2026",
+  "state_url": "https://house.mo.gov/Bill.aspx?bill=HB2075&year=2026&code=R",
+  "sponsors": [
+    "Brandon Phelps (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Prefiled (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Read First Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Read Second Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Referred: Emerging Issues(H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Public Hearing Completed (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Executive Session Completed (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Voted Do Pass (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-02",
+      "type": "Introduced",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/4434H.01I.pdf",
+      "doc_id": 3287556
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

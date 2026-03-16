@@ -1,0 +1,88 @@
+{
+  "id": 1935184,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S02667",
+  "title": "Prohibits the use of restraints on and the use of force against incarcerated individuals during labor and incarcerated individuals who have experienced different pregnancy outcomes, absent extraordinary circumstances, and on pregnant and post-pregnancy persons during a custodial interrogation.",
+  "summary": "Prohibits the use of restraints on and the use of force against incarcerated individuals during labor and incarcerated individuals who have experienced different pregnancy outcomes, absent extraordinary circumstances, and on pregnant and post-pregnancy persons during a custodial interrogation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S02667/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S02667/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S2667",
+  "sponsors": [
+    "Julia Salazar (D) [Sen]",
+    "Peter Harckham (D) [Sen]",
+    "Michelle Hinchey (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-22",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-22",
+      "action": "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO CRIME VICTIMS, CRIME AND CORRECTION",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "AMEND AND RECOMMIT TO CRIME VICTIMS, CRIME AND CORRECTION",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "PRINT NUMBER 2667A",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "AMEND AND RECOMMIT TO CRIME VICTIMS, CRIME AND CORRECTION",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "PRINT NUMBER 2667B",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-22",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S02667&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S02667",
+      "doc_id": 3072434
+    },
+    {
+      "date": "2025-01-22",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S02667&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S02667A",
+      "doc_id": 3318746
+    },
+    {
+      "date": "2025-01-22",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S02667&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S02667B",
+      "doc_id": 3333883
+    }
+  ],
+  "committee": {
+    "committee_id": 421,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Crime Victims, Crime and Correction"
+  },
+  "subjects": []
+}

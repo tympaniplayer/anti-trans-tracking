@@ -1,0 +1,59 @@
+{
+  "id": 1910938,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A01568",
+  "title": "Prohibits landlords from refusing to deal with certain people solely because those people were involved in prior summary proceedings.",
+  "summary": "Prohibits landlords from refusing to deal with certain people solely because those people were involved in prior summary proceedings.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A01568/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A01568/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A1568",
+  "sponsors": [
+    "Linda Rosenthal (D) [Rep]",
+    "Jeffrey Dinowitz (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Deborah Glick (D) [Rep]",
+    "William Colton (D) [Rep]",
+    "Phara Souffrant Forrest (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-10",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-10",
+      "action": "referred to housing",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to housing",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-10",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A01568&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A01568",
+      "doc_id": 3047747
+    }
+  ],
+  "committee": {
+    "committee_id": 371,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Housing"
+  },
+  "subjects": []
+}

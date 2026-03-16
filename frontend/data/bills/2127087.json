@@ -1,0 +1,60 @@
+{
+  "id": 2127087,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "H8215",
+  "title": "Tenants with disabilities may request to keep an emotional support animal.",
+  "summary": "PROPERTY -- RHODE ISLAND FAIR HOUSING PRACTICES ACT - Tenants with disabilities may request to keep an emotional support animal.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/H8215/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/H8215/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Patricia Serpa (D) [Rep]",
+    "Deborah Fellela (D) [Rep]",
+    "Earl Read (D) [Rep]",
+    "Mia Ackerman (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-27",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "action": "Introduced, referred to House Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Scheduled for hearing and/or consideration (03/18/2026)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-27",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H8215.pdf",
+      "doc_id": 3379927
+    }
+  ],
+  "committee": {
+    "committee_id": 1121,
+    "chamber": "H",
+    "chamber_id": 83,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Property",
+    "PROPERTY -- RHODE ISLAND FAIR HOUSING PRACTICES ACT"
+  ]
+}

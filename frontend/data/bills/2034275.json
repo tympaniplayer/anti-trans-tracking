@@ -1,0 +1,47 @@
+{
+  "id": 2034275,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S2525",
+  "title": "Site Information & Links",
+  "summary": "Site Information & Links",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S2525/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S2525/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S2525",
+  "sponsors": [],
+  "introduced_date": "2025-05-22",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-05-22",
+      "action": "Text of S3, printed as amended",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "See H4001",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-22",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S2525.pdf",
+      "doc_id": 3247189
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

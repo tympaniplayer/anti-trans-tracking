@@ -1,0 +1,54 @@
+{
+  "id": 2021501,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A07726",
+  "title": "Relates to the issuance of securing orders; relates to release under non-monetary conditions; relates to electronic monitoring; requires a rehearing after five days in custody for certain principals.",
+  "summary": "Relates to the issuance of securing orders; relates to release under non-monetary conditions; relates to electronic monitoring; requires a rehearing after five days in custody for certain principals.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A07726/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A07726/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A7726",
+  "sponsors": [
+    "Latrice Walker (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-08",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-04-08",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to codes",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-08",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A07726&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A07726",
+      "doc_id": 3205222
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

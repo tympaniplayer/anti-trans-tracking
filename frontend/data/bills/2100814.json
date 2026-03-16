@@ -1,0 +1,196 @@
+{
+  "id": 2100814,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB3334",
+  "title": "Relating To Education.",
+  "summary": "Establishes a cap on the total number of superintendent-level positions within the Department of Education. Defines \"superintendent-level position\". Requires the Board of Education to conduct a written performance evaluation of each complex area superintendent every 2 years. Appropriates moneys for 2 Deputy Superintendent positions within the Office of the Superintendent. Effective 7/1/2050. (SD2)",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "drag",
+    "definitions"
+  ],
+  "primary_category": "drag",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB3334/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB3334/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3334&year=2026",
+  "sponsors": [
+    "Donna Kim (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-10",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-30",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Referred to EDU, WAM/JDC.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Re-Referred to EDU, WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "The committee(s) on EDU has scheduled a public hearing on 02-13-26 1:05PM; CR 229 &amp; Videoconference.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "The committee(s) on EDU recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in EDU were as follows: 3 Aye(s): Senator(s) Kim, Kidani, DeCorte; Aye(s) with reservations: none ; 0 No(es): none; and 2 Excused: Senator(s) Fukunaga, Hashimoto.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Reported from EDU (Stand. Com. Rep. No. 2477) with recommendation of passage on Second Reading, as amended (SD 1) and referral to WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "The committee(s) on WAM will hold a public decision making on 02-25-26 10:55AM; Conference Room 211 &amp; Videoconference.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "The committee on WAM deferred the measure.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "The committee(s) on WAM has scheduled a public hearing on 03-02-26 10:00AM; Conference Room 211 &amp; Videoconference.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "The committee(s) on WAM recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in WAM were as follows: 13 Aye(s): Senator(s) Dela Cruz, Moriwaki, DeCoite, Hashimoto, Kanuha, Kim, Lee, C., Wakai, Fevella; Aye(s) with reservations: Senator(s) Elefante, Inouye, Kidani, Richards ; 0 No(es): none; and 0 Excused: none.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "The committee on WAM will reconsider its previous decision on 03-02-26 and will hold a public decision making on 03-05-26 10:15AM; Conference Room 211 &amp; Videoconference.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "The committee(s) on WAM has rescheduled its decision making to 03-05-26 12:03PM; CR 211 &amp; Videoconference.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "The committee(s) on WAM recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in WAM were as follows: 13 Aye(s): Senator(s) Dela Cruz, Moriwaki, DeCoite, Hashimoto, Inouye, Kanuha, Kim, Lee, C., Wakai; Aye(s) with reservations: Senator(s) Elefante, Kidani, Richards, Fevella ; 0 No(es): none; and 0 Excused: none.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Reported from WAM (Stand. Com. Rep. No. 3006) with recommendation of passage on Third Reading, as amended (SD 2).",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "48 Hrs. Notice 03-10-26.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Report Adopted; Passed Third Reading, as amended (SD 2). Ayes, 25; Aye(s) with reservations: Senator(s) Elefante, Fukunaga, Gabbard, Ihara, Inouye, Keohokalole, Lamosao, Richards. Noes, 0 (none). Excused, 0 (none). Transmitted to House.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Received from Senate (Sen. Com. No. 405) in amended form (SD 2).",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Pass First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Referred to EDN, FIN, referral sheet 17",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-13",
+      "description": "Senate Education: Passed, With Amendments",
+      "yea": 3,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-02",
+      "description": "Senate Ways and Means: Passed, With Amendments",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-05",
+      "description": "Senate Ways and Means: Passed, With Amendments",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-28",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB3334_.HTM",
+      "doc_id": 3339942
+    },
+    {
+      "date": "2026-02-19",
+      "type": "Amended",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB3334_SD1_.HTM",
+      "doc_id": 3368525
+    },
+    {
+      "date": "2026-02-27",
+      "type": "Amended",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB3334_SD2_PROPOSED_.HTM",
+      "doc_id": 3380465
+    },
+    {
+      "date": "2026-03-06",
+      "type": "Amended",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB3334_SD2_.HTM",
+      "doc_id": 3387839
+    }
+  ],
+  "committee": {
+    "committee_id": 2036,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Education"
+  },
+  "subjects": [
+    "DOE",
+    "Superintendent-Level Positions",
+    "Cap",
+    "Complex Area Superintendents",
+    "Appropriation ($)"
+  ]
+}

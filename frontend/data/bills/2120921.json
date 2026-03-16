@@ -1,0 +1,59 @@
+{
+  "id": 2120921,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "SB1248",
+  "title": "State agencies: automated decision systems.",
+  "summary": "An act to add Chapter 6 (commencing with Section 12898) to Part 2.5 of Division 3 of Title 2 of the Government Code, relating to automated decision systems.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/SB1248/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/SB1248/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1248",
+  "sponsors": [
+    "Christopher Cabaldon (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-19",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-19",
+      "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "From printer. May be acted upon on or after March 22.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Referred to Coms. on G.O. and P., D.T., & C.P.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-19",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1248#99INT",
+      "doc_id": 3369344
+    }
+  ],
+  "committee": {
+    "committee_id": 479,
+    "chamber": "S",
+    "chamber_id": 20,
+    "name": "Governmental Organization"
+  },
+  "subjects": []
+}

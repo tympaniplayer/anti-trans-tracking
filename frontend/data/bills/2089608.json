@@ -1,0 +1,80 @@
+{
+  "id": 2089608,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "HB2003",
+  "title": "APPROPRIATIONS BILL",
+  "summary": "APPROPRIATIONS BILL",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/HB2003/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/HB2003/2026",
+  "state_url": "https://house.mo.gov/Bill.aspx?bill=HB2003&year=2026&code=R",
+  "sponsors": [
+    "Dirk Deaton (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-21",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-21",
+      "action": "Introduced and Read First Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Read Second Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Referred: Budget(H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Public Hearing Completed (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Executive Session Completed (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "HCS Voted Do Pass (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "HCS Reported Do Pass (H) - with a time limit of five and a half hours of debate on Perfection pursuant to Rule 24(4)(d) AYES: 19 NOES: 9 PRESENT: 3",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/2003H.01I.pdf",
+      "doc_id": 3327528
+    },
+    {
+      "date": "2026-03-12",
+      "type": "Comm Sub",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/2003H.03C.pdf",
+      "doc_id": 3393640
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

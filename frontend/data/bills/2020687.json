@@ -1,0 +1,116 @@
+{
+  "id": 2020687,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A07687",
+  "title": "Updates provisions relating to dignity for all students including curriculum and teacher training requirements designed to prevent student suicide with a focus on LGBTQ students.",
+  "summary": "Updates provisions relating to dignity for all students including curriculum and teacher training requirements designed to prevent student suicide with a focus on LGBTQ students.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A07687/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A07687/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A7687",
+  "sponsors": [
+    "Carrie Woerner (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "John McDonald (D) [Rep]",
+    "Maryjane Shimsky (D) [Rep]",
+    "Jennifer Lunsford (D) [Rep]",
+    "Didi Barrett (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Paula Kay (D) [Rep]",
+    "Tony Simone (D) [Rep]",
+    "Anna Kelles (D) [Rep]",
+    "Rebecca Kassay (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "David McDonough (R) [Rep]",
+    "Keith Brown (R) [Rep]",
+    "Josh Jensen (R) [Rep]"
+  ],
+  "introduced_date": "2025-04-04",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-04-04",
+      "action": "referred to education",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-21",
+      "action": "amend (t) and recommit to education",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-21",
+      "action": "print number 7687a",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "amend and recommit to education",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "print number 7687b",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-12-01",
+      "action": "amend and recommit to education",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-12-01",
+      "action": "print number 7687c",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to education",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-04",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A07687&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A07687",
+      "doc_id": 3202357
+    },
+    {
+      "date": "2025-04-04",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A07687&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A07687A",
+      "doc_id": 3216789
+    },
+    {
+      "date": "2025-04-04",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A07687&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A07687B",
+      "doc_id": 3217776
+    },
+    {
+      "date": "2025-04-04",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A07687&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A07687C",
+      "doc_id": 3286313
+    }
+  ],
+  "committee": {
+    "committee_id": 362,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Education"
+  },
+  "subjects": []
+}

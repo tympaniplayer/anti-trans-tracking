@@ -1,0 +1,59 @@
+{
+  "id": 1962452,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB2114",
+  "title": "REMOVE SENATE CONSENT",
+  "summary": "Amends various Acts. Removes the requirement that the Senate provides advise and consent to specified nominations.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB2114/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB2114/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2114&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "Chris Balkema (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-07",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-07",
+      "action": "Filed with Secretary by Sen. Chris Balkema",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-07",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=201436&DocName=10400SB2114&DocNum=2114&DocTypeID=SB&LegID=161648&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3108694
+    }
+  ],
+  "committee": {
+    "committee_id": 254,
+    "chamber": "S",
+    "chamber_id": 36,
+    "name": "Assignments"
+  },
+  "subjects": []
+}

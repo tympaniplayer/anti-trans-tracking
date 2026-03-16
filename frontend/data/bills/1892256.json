@@ -1,0 +1,68 @@
+{
+  "id": 1892256,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB1365",
+  "title": "Relating to unprofessional conduct by mental health providers who attempt to change the sexual orientation of a child.",
+  "summary": "Relating to unprofessional conduct by mental health providers who attempt to change the sexual orientation of a child.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB1365/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB1365/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1365",
+  "sponsors": [
+    "Ana Hernandez (D) [Rep]"
+  ],
+  "introduced_date": "2024-11-15",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-15",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Referred to Public Health",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-11-15",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB01365I.htm",
+      "doc_id": 3028253
+    }
+  ],
+  "committee": {
+    "committee_id": 1892,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Public Health"
+  },
+  "subjects": [
+    "Mental Health & Substance Abuse",
+    "Minors",
+    "Minors--Health & Safety",
+    "Occupational Regulation",
+    "Occupational Regulation--Health Occupations",
+    "Occupational Regulation--Other Trades & Professions",
+    "GENDER IDENTITY & EXPRESSION",
+    "SEXUAL ORIENTATION"
+  ]
+}

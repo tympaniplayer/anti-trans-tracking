@@ -1,0 +1,49 @@
+{
+  "id": 2039391,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4271",
+  "title": "Similar Bills",
+  "summary": "Similar Bills",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4271/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4271/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4271",
+  "sponsors": [
+    "House Committee on Ways and Means [Rep]"
+  ],
+  "introduced_date": "2025-07-16",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-07-16",
+      "action": "Text of an amendment, see S2543",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-16",
+      "action": "Published as amended, see H4294",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4271.pdf",
+      "doc_id": 3261661
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

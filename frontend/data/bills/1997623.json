@@ -1,0 +1,74 @@
+{
+  "id": 1997623,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S368",
+  "title": "To reduce\u202fexclusionary discipline for grooming and dress code violations",
+  "summary": "For legislation to reduce\u202fexclusionary discipline for grooming and dress code violations. Education.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S368/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S368/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S368",
+  "sponsors": [
+    "Adam Gomez (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-25",
+      "action": "Hearing scheduled for 07/08/2025 from 01:00 PM-05:00 PM in B-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Reporting date extended to Monday February 2, 2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Accompanied a study order (under JR10), see S2952",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Recommitted to the committee on Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Accompanied a new draft, see S2955",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S368.pdf",
+      "doc_id": 3162851
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

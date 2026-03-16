@@ -1,0 +1,56 @@
+{
+  "id": 2042383,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR660",
+  "title": "Recognizing that the United States has a moral obligation to meet its foundational promise of guaranteed justice for all.",
+  "summary": "Recognizing that the United States has a moral obligation to meet its foundational promise of guaranteed justice for all.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR660/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR660/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/660/all-info",
+  "sponsors": [
+    "Ayanna Pressley (D) [Rep]"
+  ],
+  "introduced_date": "2025-08-19",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-08-19",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-19",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-08-20",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres660/BILLS-119hres660ih.pdf",
+      "doc_id": 3265752
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crime and law enforcement"
+  ]
+}

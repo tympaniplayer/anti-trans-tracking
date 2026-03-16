@@ -1,0 +1,65 @@
+{
+  "id": 2067977,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "HB160",
+  "title": "AN ACT relating to public charter schools.",
+  "summary": "Amend various statutes to remove references to public charter schools; repeal various sections of KRS Chapter 160 and KRS 161.141 relating to public charter schools.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/HB160/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/HB160/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/hb160.html",
+  "sponsors": [
+    "Adrielle Camuel (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "action": "introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "to Committee on Committees (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "to Primary and Secondary Education (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb160/orig_bill.pdf",
+      "doc_id": 3302487
+    }
+  ],
+  "committee": {
+    "committee_id": 5121,
+    "chamber": "H",
+    "chamber_id": 43,
+    "name": "Primary and Secondary Education"
+  },
+  "subjects": [
+    "Athletics",
+    "Education, Elementary and Secondary",
+    "Education, Finance",
+    "Retirement and Pensions",
+    "Teachers"
+  ]
+}

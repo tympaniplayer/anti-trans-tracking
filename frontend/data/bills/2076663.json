@@ -1,0 +1,70 @@
+{
+  "id": 2076663,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S2689",
+  "title": "Requires employer to provide certain accommodations to employee who is breast feeding.",
+  "summary": "Requires employer to provide certain accommodations to employee who is breast feeding.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S2689/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S2689/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S2689",
+  "sponsors": [
+    "Britnee Timberlake (D) [Sen]",
+    "Teresa Ruiz (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Labor Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Reported from Senate Committee, 2nd Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Referred to Senate Budget and Appropriations Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-02",
+      "description": "Senate Labor Committee: Reported Favorably",
+      "yea": 3,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-07",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S3000/2689_I1.HTM",
+      "doc_id": 3313679
+    }
+  ],
+  "committee": {
+    "committee_id": 873,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Budget and Appropriations"
+  },
+  "subjects": [
+    "Budget and Appropriations"
+  ]
+}

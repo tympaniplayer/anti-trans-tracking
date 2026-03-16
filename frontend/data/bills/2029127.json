@@ -1,0 +1,144 @@
+{
+  "id": 2029127,
+  "state": "ME",
+  "state_name": "Maine",
+  "bill_number": "LD1945",
+  "title": "An Act to Clarify Data Collection Processes in Health Care Facilities",
+  "summary": "An Act to Clarify Data Collection Processes in Health Care Facilities",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ME/bill/LD1945/2025",
+  "legiscan_url": "https://legiscan.com/ME/bill/LD1945/2025",
+  "state_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1945&snum=132",
+  "sponsors": [
+    "Ambureen Rana (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-03",
+  "session": "132nd Legislature",
+  "actions": [
+    {
+      "date": "2025-05-07",
+      "action": "Committee on Health and Human Services suggested and ordered printed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "The Bill was REFERRED to the Committee on HEALTH AND HUMAN SERVICES.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "The Bill was REFERRED to the Committee on HEALTH AND HUMAN SERVICES  in concurrence",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Work Session Held",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Voted: OTP-AM",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Reported Out: OTP-AM",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "CONSENT CALENDAR - FIRST DAY",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Under suspension of the rules CONSENT CALENDAR - SECOND DAY.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "The Bill was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-343).",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Report READ and ACCEPTED, in concurrence.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "READ ONCE.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Committee Amendment \"A\" (H-343) READ and ADOPTED, in concurrence.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-343), in concurrence.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Ordered sent down forthwith.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "PASSED TO BE ENACTED.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "PASSED TO BE ENACTED, in concurrence.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1304&item=1&snum=132",
+      "doc_id": 3230288
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Chaptered",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP1304&item=3&snum=132",
+      "doc_id": 3254369
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Health Care Facilities",
+    "Administration"
+  ]
+}

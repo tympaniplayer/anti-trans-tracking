@@ -1,0 +1,54 @@
+{
+  "id": 2100101,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A2726",
+  "title": "Regulates use of automated employment decision tools in employment decisions to minimize discrimination in employment.",
+  "summary": "Regulates use of automated employment decision tools in employment decisions to minimize discrimination in employment.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A2726/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A2726/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A2726",
+  "sponsors": [
+    "Andrea Katz (D) [Rep]",
+    "Annette Quijano (D) [Rep]",
+    "Michael Venezia (D) [Rep]",
+    "Carmen Morales (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Science, Innovation and Technology Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-08",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A3000/2726_I1.HTM",
+      "doc_id": 3339192
+    }
+  ],
+  "committee": {
+    "committee_id": 3753,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Science, Innovation and Technology"
+  },
+  "subjects": [
+    "Science, Innovation and Technology"
+  ]
+}

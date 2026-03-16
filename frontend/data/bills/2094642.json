@@ -1,0 +1,188 @@
+{
+  "id": 2094642,
+  "state": "UT",
+  "state_name": "Utah",
+  "bill_number": "HB0399",
+  "title": "Prohibition Against Student Character Tracking and Grading Systems",
+  "summary": "Prohibition Against Student Character Tracking and Grading Systems",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/UT/bill/HB0399/2026",
+  "legiscan_url": "https://legiscan.com/UT/bill/HB0399/2026",
+  "state_url": "https://le.utah.gov/~2026/bills/static/HB0399.html",
+  "sponsors": [
+    "Trevor Lee (R) [Rep]"
+  ],
+  "introduced_date": "2026-03-06",
+  "session": "2026 General Session",
+  "actions": [
+    {
+      "date": "2026-01-27",
+      "action": "Bill Numbered but not Distributed in Legislative Research and General Counsel",
+      "chamber": ""
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Numbered Bill Publicly Distributed in Legislative Research and General Counsel",
+      "chamber": ""
+    },
+    {
+      "date": "2026-01-27",
+      "action": "LFA/ bill assigned to staff for fiscal analysis for HB0399 in Legislative Fiscal Analyst",
+      "chamber": ""
+    },
+    {
+      "date": "2026-01-27",
+      "action": "LFA/ bill sent to agencies for fiscal input for HB0399 in Legislative Fiscal Agency",
+      "chamber": ""
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House/ received bill from Legislative Research in Clerk of the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House/ 1st reading (Introduced) in House Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "LFA/ fiscal note sent to sponsor for HB0399 in Version Sponsor",
+      "chamber": ""
+    },
+    {
+      "date": "2026-01-29",
+      "action": "LFA/ fiscal note publicly available for HB0399 in Released",
+      "chamber": ""
+    },
+    {
+      "date": "2026-01-30",
+      "action": "House/ received fiscal note from Fiscal Analyst in House Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "LFA/ bill assigned to staff for fiscal analysis for HB0399S01 in Legislative Fiscal Analyst",
+      "chamber": ""
+    },
+    {
+      "date": "2026-02-05",
+      "action": "LFA/ bill sent to agencies for fiscal input for HB0399S01 in Legislative Fiscal Agency",
+      "chamber": ""
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Bill Substituted by Sponsor in House Rules Comm in House Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "House/ to standing committee in House Education Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "LFA/ fiscal note sent to sponsor for HB0399S01 in Version Sponsor",
+      "chamber": ""
+    },
+    {
+      "date": "2026-02-10",
+      "action": "LFA/ fiscal note publicly available for HB0399S01 in Released",
+      "chamber": ""
+    },
+    {
+      "date": "2026-02-12",
+      "action": "House Comm - Held in House Education Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "LFA/ bill assigned to staff for fiscal analysis for HB0399S02 in Legislative Fiscal Analyst",
+      "chamber": ""
+    },
+    {
+      "date": "2026-02-23",
+      "action": "LFA/ bill sent to agencies for fiscal input for HB0399S02 in Legislative Fiscal Agency",
+      "chamber": ""
+    },
+    {
+      "date": "2026-02-24",
+      "action": "LFA/ fiscal note sent to sponsor for HB0399S02 in Version Sponsor",
+      "chamber": ""
+    },
+    {
+      "date": "2026-02-24",
+      "action": "LFA/ fiscal note publicly available for HB0399S02 in Released",
+      "chamber": ""
+    },
+    {
+      "date": "2026-03-04",
+      "action": "House Comm - Recommends Returned to Rules in House Education Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "House/ comm rpt/ sent to Rules in House Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "House/ strike enacting clause in Clerk of the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "House/ filed in House file for bills not passed",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-12",
+      "description": "House Comm - Held",
+      "yea": 15,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-27",
+      "type": "Introduced",
+      "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0399.pdf",
+      "doc_id": 3333446
+    },
+    {
+      "date": "2026-02-05",
+      "type": "Substitute",
+      "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0399S01.pdf",
+      "doc_id": 3350426
+    },
+    {
+      "date": "2026-02-23",
+      "type": "Substitute",
+      "url": "https://le.utah.gov/Session/2026/bills/introduced/HB0399S02.pdf",
+      "doc_id": 3372172
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Education",
+    "K-12 Education",
+    "State Board of Education",
+    "Government Operations (State Issues)",
+    "Local Education Agencies (LEAs)",
+    "Constitutional Officers",
+    "Standards and Curriculum",
+    "State Auditor"
+  ]
+}

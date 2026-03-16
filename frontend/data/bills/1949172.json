@@ -1,0 +1,108 @@
+{
+  "id": 1949172,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5620",
+  "title": "Codifying the rights of children and youth in foster care.",
+  "summary": "Codifying the rights of children and youth in foster care.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5620/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5620/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5620&Year=2025&Initiative=false",
+  "sponsors": [
+    "Annette Cleveland (D) [Sen]",
+    "Noel Frame (D) [Sen]",
+    "Robert Hasegawa (D) [Sen]",
+    "Marko Liias (D) [Sen]",
+    "T'wina Nobles (D) [Sen]",
+    "Claire Wilson (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-31",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-31",
+      "action": "First reading, referred to Human Services.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Public hearing in the Senate Committee on Human Services at 1:30 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Executive session scheduled, but no action was taken in the Senate Committee on Human Services at 8:00 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-17",
+      "action": "Executive action taken in the Senate Committee on Human Services at 1:30 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-17",
+      "action": "HS - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-17",
+      "action": "Minority; without recommendation.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-17",
+      "action": "And refer to Ways & Means.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Referred to Ways & Means.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-17",
+      "description": "Senate Committee on Human Services: 1st substitute bill be substituted, do pass",
+      "yea": 2,
+      "nay": 0,
+      "passed": 0
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5620.pdf",
+      "doc_id": 3092180
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5620-S.pdf",
+      "doc_id": 3129003
+    }
+  ],
+  "committee": {
+    "committee_id": 962,
+    "chamber": "S",
+    "chamber_id": 98,
+    "name": "Ways & Means"
+  },
+  "subjects": []
+}

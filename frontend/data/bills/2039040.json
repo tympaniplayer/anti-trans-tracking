@@ -1,0 +1,110 @@
+{
+  "id": 2039040,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "AB316",
+  "title": "Grants for LGBTQIA+ rights training for school counselors and school social workers and making an appropriation. (FE)",
+  "summary": "An Act to create 20.255 (2) (fi) and 115.403 of the statutes; Relating to: grants for LGBTQIA+ rights training for school counselors and school social workers and making an appropriation. (FE)",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/AB316/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/AB316/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab316",
+  "sponsors": [
+    "Robyn Vining (D) [Rep]",
+    "Christian Phelps (D) [Rep]",
+    "Angelina Cruz (D) [Rep]",
+    "Greta Neubauer (D) [Rep]",
+    "Amaad Rivera-Wagner (D) [Rep]",
+    "Lee Snodgrass (D) [Rep]",
+    "Ryan Spaude (D) [Rep]",
+    "Angela Stroud (D) [Rep]",
+    "Randy Udell (D) [Rep]",
+    "Margaret Arney (D) [Rep]",
+    "Ryan Clancy (D) [Rep]",
+    "Deb Andraca (D) [Rep]",
+    "Jodi Emerson (D) [Rep]",
+    "Francesca Hong (D) [Rep]",
+    "Alex Joers (D) [Rep]",
+    "Darrin Madison (D) [Rep]",
+    "Maureen McCarville (D) [Rep]",
+    "Vinnie Miresse (D) [Rep]",
+    "Supreme Omokunde (D) [Rep]",
+    "Sylvia Ortiz-Velez (D) [Rep]",
+    "Lori Palmeri (D) [Rep]",
+    "Ann Roe (D) [Rep]",
+    "Joe Sheehan (D) [Rep]",
+    "Angelito Tenorio (D) [Rep]",
+    "Joan Fitzgerald (D) [Rep]",
+    "Mike Bare (D) [Rep]",
+    "Pricilla Prado (D) [Rep]",
+    "Lisa Subeck (D) [Rep]",
+    "Renuka Mayadev (D) [Rep]",
+    "Ben DeSmidt (D) [Rep]",
+    "Karen DeSanto (D) [Rep]",
+    "Shelia Stubbs (D) [Rep]",
+    "Clinton Anderson (D) [Rep]",
+    "Tara Johnson (D) [Rep]",
+    "Kalan Haywood (D) [Rep]",
+    "Mark Spreitzer (D) [Sen]",
+    "Timothy Carpenter (D) [Sen]",
+    "Kristin Dassler-Alfheim (D) [Sen]",
+    "Kelda Roys (D) [Sen]",
+    "Melissa Ratcliff (D) [Sen]",
+    "Jodi Habush Sinykin (D) [Sen]",
+    "LaTonya Johnson (D) [Sen]",
+    "Sarah Keyeski (D) [Sen]",
+    "Christopher Larson (D) [Sen]",
+    "Jeff Smith (D) [Sen]",
+    "Dianne Hesselbein (D) [Sen]",
+    "Dora Drake (D) [Sen]"
+  ],
+  "introduced_date": "2025-07-08",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-07-08",
+      "action": "Introduced",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-07-08",
+      "action": "Read first time and referred to Committee on Education",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-07-18",
+      "action": "Fiscal estimate received",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Representative J. Jacobson added as a coauthor",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-08",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AB316.pdf",
+      "doc_id": 3260988
+    }
+  ],
+  "committee": {
+    "committee_id": 1028,
+    "chamber": "A",
+    "chamber_id": 99,
+    "name": "Education"
+  },
+  "subjects": []
+}

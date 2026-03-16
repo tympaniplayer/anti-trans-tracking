@@ -1,0 +1,151 @@
+{
+  "id": 1907301,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "SB0003",
+  "title": "Health: pharmaceuticals; prescription drug cost and affordability review act; create. Creates new act.",
+  "summary": "Health: pharmaceuticals; prescription drug cost and affordability review act; create. Creates new act.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/SB0003/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/SB0003/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0003",
+  "sponsors": [
+    "Darrin Camilleri (D) [Sen]",
+    "Stephanie Chang (D) [Sen]",
+    "John Cherry (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-24",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "Introduced By Senator Darrin Camilleri",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-08",
+      "action": "Referred To Committee On Finance, Insurance, And Consumer Protection",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Reported Favorably With Substitute (s-1) 4/23/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Referred To Committee Of The Whole With Substitute (s-1)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Rules Suspended For Immediate Consideration",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Reported By Committee Of The Whole Favorably With Substitute (s-1)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Substitute (s-1) Concurred In",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Placed On Order Of Third Reading With Substitute (s-1)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Rules Suspended",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Placed On Immediate Passage",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Amendment(s) Defeated",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Amendment(s) Adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Passed Roll Call # 68 Yeas 20 Nays 15 Excused 1 Not Voting 1",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Received On 04/24/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-24",
+      "description": "Reported Favorably With Substitute S-1 4/23/2025",
+      "yea": 5,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-24",
+      "description": "Senate Third Reading: Passed Roll Call # 68",
+      "yea": 20,
+      "nay": 15,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/htm/2025-SIB-0003.htm",
+      "doc_id": 3042932
+    },
+    {
+      "date": "2025-04-24",
+      "type": "Engrossed",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/Senate/htm/2025-SEBS-0003.htm",
+      "doc_id": 3220631
+    }
+  ],
+  "committee": {
+    "committee_id": 899,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Government Operations"
+  },
+  "subjects": [
+    "Health: pharmaceuticals",
+    "State agencies (existing): boards and commissions",
+    "State agencies (existing): insurance and financial services"
+  ]
+}

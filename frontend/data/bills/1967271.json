@@ -1,0 +1,67 @@
+{
+  "id": 1967271,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB2724",
+  "title": "Relating to equitable operations policies for certain emergency homeless shelters.",
+  "summary": "Relating to equitable operations policies for certain emergency homeless shelters.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB2724/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB2724/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2724",
+  "sponsors": [
+    "Sheryl Cole (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-12",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-12",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Referred to Intergovernmental Affairs",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-12",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB02724I.htm",
+      "doc_id": 3115891
+    }
+  ],
+  "committee": {
+    "committee_id": 5179,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Intergovernmental Affairs"
+  },
+  "subjects": [
+    "Housing",
+    "Housing--Homeless Persons",
+    "Legislature",
+    "DISCRIMINATION",
+    "HOUSE OF REPRESENTATIVES",
+    "HOUSING & COMMUNITY AFFAIRS, TEXAS DEPARTMENT OF",
+    "SENATE, TEXAS"
+  ]
+}

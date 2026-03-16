@@ -1,0 +1,57 @@
+{
+  "id": 2037227,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3950",
+  "title": "Truth in Gender Act of 2025",
+  "summary": "To defend women's rights and protect freedom of conscience by using clear and accurate language and policies recognizing that women are biologically female and men are biologically male, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "religious_exemptions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3950/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3950/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3950/all-info",
+  "sponsors": [
+    "Earl Carter (R) [Rep]",
+    "Barry Moore (R) [Rep]"
+  ],
+  "introduced_date": "2025-06-12",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-12",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "Referred to the Committee on the Judiciary, and in addition to the Committees on Oversight and Government Reform, Foreign Affairs, Financial Services, Education and Workforce, Homeland Security, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-03",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3950/BILLS-119hr3950ih.pdf",
+      "doc_id": 3271740
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

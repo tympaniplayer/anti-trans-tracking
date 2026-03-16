@@ -1,0 +1,71 @@
+{
+  "id": 2088852,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "H7236",
+  "title": "Establishes a two-year pilot program, from January 2027 to December 2028, to incorporate equity impact statements into the legislative process for both the House and Senate chamber.",
+  "summary": "GENERAL ASSEMBLY -- THE EQUITY IMPACT STATEMENT AND BUDGET EQUITY IMPACT ACT - Establishes a two-year pilot program, from January 2027 to December 2028, to incorporate equity impact statements into the legislative process for both the House and Senate chamber.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/H7236/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/H7236/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "David Morales (D) [Rep]",
+    "Cherie Cruz (D) [Rep]",
+    "Joshua Giraldo (D) [Rep]",
+    "Leonela Felix (D) [Rep]",
+    "Rebecca Kislak (D) [Rep]",
+    "Karen Alzate (D) [Rep]",
+    "Jennifer Stewart (D) [Rep]",
+    "Edith Ajello (D) [Rep]",
+    "Enrique Sanchez (D) [Rep]",
+    "Brandon Potter (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-21",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-21",
+      "action": "Introduced, referred to House State Government & Elections",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Scheduled for hearing and/or consideration (01/27/2026)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Committee recommended measure be held for further study",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H7236.pdf",
+      "doc_id": 3326578
+    }
+  ],
+  "committee": {
+    "committee_id": 4422,
+    "chamber": "H",
+    "chamber_id": 83,
+    "name": "State Government & Elections"
+  },
+  "subjects": [
+    "General Assembly",
+    "GENERAL ASSEMBLY -- THE EQUITY IMPACT STATEMENT AND BUDGET EQUITY IMPACT ACT"
+  ]
+}

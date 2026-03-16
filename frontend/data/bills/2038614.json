@@ -1,0 +1,65 @@
+{
+  "id": 2038614,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB2201",
+  "title": "LGBTQ+ Panic Defense Prohibition Act of 2025",
+  "summary": "A bill to amend title 18, United States Code, to prohibit panic defenses based on sexual orientation or gender identity or expression.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB2201/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB2201/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2201/all-info",
+  "sponsors": [
+    "Edward Markey (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Tim Kaine (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Amy Klobuchar (D) [Sen]",
+    "Andy Kim (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-27",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-27",
+      "action": "Read twice and referred to the Committee on the Judiciary.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-01",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s2201/BILLS-119s2201is.pdf",
+      "doc_id": 3260294
+    }
+  ],
+  "committee": {
+    "committee_id": 2330,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crime and law enforcement"
+  ]
+}

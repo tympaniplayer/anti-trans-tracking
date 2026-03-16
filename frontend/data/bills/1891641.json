@@ -1,0 +1,130 @@
+{
+  "id": 1891641,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB437",
+  "title": "Relating to the placement of children in a detention or correctional facility according to biological sex.",
+  "summary": "Relating to the placement of children in a detention or correctional facility according to biological sex.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms",
+    "education",
+    "definitions"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB437/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB437/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB437",
+  "sponsors": [
+    "Valoree Swanson (R) [Rep]",
+    "Cody Harris (R) [Rep]",
+    "Richard Hayes (R) [Rep]",
+    "Hillary Hickland (R) [Rep]",
+    "Carrie Isaac (R) [Rep]",
+    "Helen Kerwin (R) [Rep]",
+    "Joanne Shofner (R) [Rep]"
+  ],
+  "introduced_date": "2024-11-12",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-12",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-28",
+      "action": "Referred to s/c on Juvenile Justice by Speaker",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Scheduled for public hearing in s/c on . . .",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Considered by s/c in public hearing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Testimony taken/registration(s) recorded in subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Left pending in subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Recalled from subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Considered in public hearing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Reported favorably w/o amendment(s)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-09",
+      "action": "Comte report filed with Committee Coordinator",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-09",
+      "action": "Committee report distributed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Committee report sent to Calendars",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-11-12",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00437I.htm",
+      "doc_id": 3027131
+    },
+    {
+      "date": "2025-05-09",
+      "type": "Comm Sub",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00437H.htm",
+      "doc_id": 3234051
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Family",
+    "Family--Juvenile Delinquency",
+    "Minors",
+    "Minors--Juvenile Justice",
+    "Juvenile Boards & Officers",
+    "JUVENILE GIRLS PROTECTION ACT",
+    "BIRTH & DEATH CERTIFICATES",
+    "JUVENILE JUSTICE BOARD, TEXAS",
+    "JUVENILE JUSTICE DEPARTMENT, TEXAS",
+    "STATE HEALTH SERVICES, DEPARTMENT OF",
+    "GENDER IDENTITY & EXPRESSION"
+  ]
+}

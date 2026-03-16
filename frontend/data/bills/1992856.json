@@ -1,0 +1,73 @@
+{
+  "id": 1992856,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB1953",
+  "title": "Relating to the inclusion of a person's biological sex on certain government documents and identification cards.",
+  "summary": "Relating to the inclusion of a person's biological sex on certain government documents and identification cards.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "identity_documents",
+    "definitions"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB1953/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB1953/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1953",
+  "sponsors": [
+    "Donna Campbell (R) [Sen]"
+  ],
+  "introduced_date": "2025-03-05",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-05",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Referred to State Affairs",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-05",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB01953I.htm",
+      "doc_id": 3155248
+    }
+  ],
+  "committee": {
+    "committee_id": 1919,
+    "chamber": "S",
+    "chamber_id": 92,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "Health",
+    "Health--General",
+    "Vehicles & Traffic",
+    "Vehicles & Traffic--Driver's Licenses",
+    "BIRTH & DEATH CERTIFICATES",
+    "HEALTH & HUMAN SERVICES COMMISSION",
+    "STATE HEALTH SERVICES, DEPARTMENT OF"
+  ]
+}

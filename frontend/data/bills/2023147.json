@@ -1,0 +1,60 @@
+{
+  "id": 2023147,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB1477",
+  "title": "Housing for All Act of 2025",
+  "summary": "A bill to address the homelessness and housing crises, to move toward the goal of providing for a home for all Americans, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB1477/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB1477/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1477/all-info",
+  "sponsors": [
+    "Alex Padilla (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Brian Schatz (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Ben Lujan (D) [Sen]",
+    "Lisa Rochester (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-10",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-04-10",
+      "action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-02",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s1477/BILLS-119s1477is.pdf",
+      "doc_id": 3228447
+    }
+  ],
+  "committee": {
+    "committee_id": 2321,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Banking, Housing, And Urban Affairs"
+  },
+  "subjects": [
+    "Housing and community development"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 2119721,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "SB1157",
+  "title": "Secure youth treatment facilities.",
+  "summary": "An act to amend Section 875 of the Welfare and Institutions Code, relating to juveniles.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/SB1157/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/SB1157/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1157",
+  "sponsors": [
+    "Bob Archuleta (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-18",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-18",
+      "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "From printer. May be acted upon on or after March 21.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Referred to Com. on RLS.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-18",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1157#99INT",
+      "doc_id": 3367396
+    }
+  ],
+  "committee": {
+    "committee_id": 489,
+    "chamber": "S",
+    "chamber_id": 20,
+    "name": "Rules"
+  },
+  "subjects": []
+}

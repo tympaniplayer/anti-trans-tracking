@@ -1,0 +1,54 @@
+{
+  "id": 1917610,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A01811",
+  "title": "Requires the division of criminal justice services to report to the federal bureau of investigation's national use-of-force data collection program.",
+  "summary": "Requires the division of criminal justice services to report to the federal bureau of investigation's national use-of-force data collection program.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A01811/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A01811/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A1811",
+  "sponsors": [
+    "Sarah Clark (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-14",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-14",
+      "action": "referred to governmental operations",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to governmental operations",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-14",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A01811&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A01811",
+      "doc_id": 3054629
+    }
+  ],
+  "committee": {
+    "committee_id": 368,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Governmental Operations"
+  },
+  "subjects": []
+}

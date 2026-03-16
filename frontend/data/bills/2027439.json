@@ -1,0 +1,68 @@
+{
+  "id": 2027439,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB1506",
+  "title": "Medicare for All Act",
+  "summary": "A bill to establish a Medicare-for-All national health insurance program.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB1506/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB1506/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1506/all-info",
+  "sponsors": [
+    "Bernard Sanders (I) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Kirsten Gillibrand (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Ben Lujan (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Brian Schatz (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Sheldon Whitehouse (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Tina Smith (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-29",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-04-29",
+      "action": "Read twice and referred to the Committee on Finance.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-13",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s1506/BILLS-119s1506is.pdf",
+      "doc_id": 3236615
+    }
+  ],
+  "committee": {
+    "committee_id": 2326,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Finance"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

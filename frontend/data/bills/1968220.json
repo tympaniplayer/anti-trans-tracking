@@ -1,0 +1,54 @@
+{
+  "id": 1968220,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB579",
+  "title": "Yaeli\u2019s Law.",
+  "summary": "An act to amend Section 3011 of the Family Code, to amend Sections 11165.2, 11165.3, 11165.5, 11165.6, 11165.9, and 11166.05 of, and to add Section 273.2 to, the Penal Code, to add Section 2362 to the Probate Code, and to amend Section 300 of the Welfare and Institutions Code, relating to child abuse or neglect.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB579/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB579/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB579",
+  "sponsors": [
+    "Leticia Castillo (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-12",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "From printer. May be heard in committee March 15.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Died at Desk.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-12",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB579#99INT",
+      "doc_id": 3117200
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

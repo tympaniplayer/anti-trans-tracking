@@ -1,0 +1,69 @@
+{
+  "id": 2079258,
+  "state": "WV",
+  "state_name": "West Virginia",
+  "bill_number": "HB4083",
+  "title": "Relating to Medical Professional Responsibility",
+  "summary": "The purpose of this bill is to clarify parameters for medical malpractice civil actions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WV/bill/HB4083/2026",
+  "legiscan_url": "https://legiscan.com/WV/bill/HB4083/2026",
+  "state_url": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=4083&year=2026&sessiontype=RS&btype=bill",
+  "sponsors": [
+    "Elias Coop-Gonzalez (R) [Rep]",
+    "Bill Ridenour (R) [Rep]",
+    "Pat McGeehan (R) [Rep]",
+    "Chris Anders (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Filed for introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "To Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "To House Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb4083%20intr.htm&yr=2026&sesstype=RS&i=4083",
+      "doc_id": 3316231
+    }
+  ],
+  "committee": {
+    "committee_id": 11,
+    "chamber": "H",
+    "chamber_id": 1,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

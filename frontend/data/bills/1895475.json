@@ -1,0 +1,66 @@
+{
+  "id": 1895475,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "H3476",
+  "title": "Higher education accrediting agencies",
+  "summary": "Amend The South Carolina Code Of Laws By Adding Article 3 To Chapter 103, Title 59 So As To Entitle The Article \"accrediting Agencies\"; To Provide Necessary Definitions; And To Provide Accrediting Agencies Of Institutions Of Higher Learning In This State May Not Take Action On Accreditation Based On Certain Factors Concerning Diversity, Equity, And Inclusion Engagement, Data, Or Required Statements; And To Provide Means Of Redress For Violations.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/H3476/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/H3476/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3476&session=126&summary=B",
+  "sponsors": [
+    "Thomas Beach (R) [Rep]",
+    "Josiah Magnuson (R) [Rep]",
+    "John Mccravy (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-14",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2024-12-05",
+      "action": "Prefiled",
+      "chamber": "H"
+    },
+    {
+      "date": "2024-12-05",
+      "action": "Referred to Committee on Education and Public Works",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Introduced and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Referred to Committee on Education and Public Works",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-12-05",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/3476_20241205.htm",
+      "doc_id": 3031572
+    }
+  ],
+  "committee": {
+    "committee_id": 704,
+    "chamber": "H",
+    "chamber_id": 85,
+    "name": "Education and Public Works"
+  },
+  "subjects": []
+}

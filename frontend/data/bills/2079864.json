@@ -1,0 +1,89 @@
+{
+  "id": 2079864,
+  "state": "AZ",
+  "state_name": "Arizona",
+  "bill_number": "HB2392",
+  "title": "Team designations; biological sex; repeal",
+  "summary": "Team designations; biological sex; repeal",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AZ/bill/HB2392/2026",
+  "legiscan_url": "https://legiscan.com/AZ/bill/HB2392/2026",
+  "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/84153",
+  "sponsors": [
+    "Nancy Gutierrez (D) [Rep]",
+    "Anna Abeytia (D) [Rep]",
+    "Lorena Austin (D) [Rep]",
+    "Seth Blattman (D) [Rep]",
+    "Junelle Cavero (D) [Rep]",
+    "Janeen Connolly (D) [Rep]",
+    "Patricia Contreras (D) [Rep]",
+    "Quanta Crews (D) [Rep]",
+    "Oscar De Los Santos (D) [Rep]",
+    "Brian Garcia (D) [Rep]",
+    "Sarah Liguori (D) [Rep]",
+    "Christopher Mathis (D) [Rep]",
+    "Stephanie Stahl Hamilton (D) [Rep]",
+    "Betty Villegas (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-20",
+  "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
+  "actions": [
+    {
+      "date": "2026-01-20",
+      "action": "Introduced in House and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Assigned to House ED Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Assigned to House HHS Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Assigned to House RULES Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "House read second time",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/hb2392p.htm",
+      "doc_id": 3316901
+    }
+  ],
+  "committee": {
+    "committee_id": 1093,
+    "chamber": "H",
+    "chamber_id": 15,
+    "name": "Education"
+  },
+  "subjects": [
+    "Biological Sex",
+    "Education - Title 15",
+    "Repeal",
+    "Student Athletics",
+    "Team Designations"
+  ]
+}

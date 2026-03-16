@@ -1,0 +1,218 @@
+{
+  "id": 2056460,
+  "state": "IN",
+  "state_name": "Indiana",
+  "bill_number": "SB0080",
+  "title": "Code publication.",
+  "summary": "Code publication. Addresses unresolved amend-repeal conflicts created during the 2025 legislative session. Repeals and relocates the specific definitions chapters for organization of defined terms by alphabetical order and to provide for future expansion of those chapters. Makes conforming cross-reference updates. Resolves technical conflicts between SB 80-2025 and HB 1088-2025 (the annual Technical Corrections bill) and technical conflicts between various enrolled acts passed during the 2026 legislative session. Makes no substantive change to law.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IN/bill/SB0080/2026",
+  "legiscan_url": "https://legiscan.com/IN/bill/SB0080/2026",
+  "state_url": "https://iga.in.gov/legislative/2026/bills/senate/80/details",
+  "sponsors": [
+    "Aaron Freeman (R) [Sen]",
+    "Greg Taylor (D) [Sen]",
+    "Karen Engleman (R) [Rep]"
+  ],
+  "introduced_date": "2026-03-12",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-08",
+      "action": "Authored by Senators Freeman, Taylor G",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "First reading: referred to Committee on Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-10",
+      "action": "Committee report: do pass, adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-06",
+      "action": "Second reading: ordered engrossed",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Third reading: passed; Roll Call 15: yeas 48, nays 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "House sponsor: Representative Engleman",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-09",
+      "action": "Referred to the House",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "First reading: referred to Committee on Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Committee report: amend do pass, adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Second reading: ordered engrossed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Third reading: passed; Roll Call 208: yeas 94, nays 0",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Returned to the Senate with amendments",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Motion to dissent filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "House conferees appointed: Engleman, Garcia Wilburn",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "House advisors appointed: Meltzer, Burton",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Senate conferees appointed: Freeman, Taylor G",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Senate advisors appointed: Randolph Lonnie M, Alexander",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Senate dissented from House amendments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "CCR # 1 filed in the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "CCR # 1 filed in the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Rules Suspended. Conference Committee Report 1: adopted by the Senate; Roll Call 333: yeas 46, nays 1",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Rules Suspended. Conference Committee Report 1: adopted by the House; Roll Call 432: yeas 92, nays 0",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Signed by the Speaker",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Signed by the President Pro Tempore",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Signed by the President of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Signed by the Governor",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-08",
+      "description": "Senate - Third reading",
+      "yea": 48,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-09",
+      "description": "House - Third reading",
+      "yea": 94,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-27",
+      "description": "Senate - Rules Suspended. Conference Committee Report 1",
+      "yea": 46,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-27",
+      "description": "House - Rules Suspended. Conference Committee Report 1",
+      "yea": 92,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-12-03",
+      "type": "Introduced",
+      "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0080/SB0080.01.INTR.pdf",
+      "doc_id": 3287486
+    },
+    {
+      "date": "2025-12-10",
+      "type": "Comm Sub",
+      "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0080/SB0080.02.COMS.pdf",
+      "doc_id": 3289776
+    },
+    {
+      "date": "2026-02-03",
+      "type": "Comm Sub",
+      "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0080/SB0080.03.COMH.pdf",
+      "doc_id": 3345392
+    },
+    {
+      "date": "2026-02-27",
+      "type": "Enrolled",
+      "url": "https://iga.in.gov/pdf-documents/124/2026/senate/bills/SB0080/SB0080.04.ENRH.pdf",
+      "doc_id": 3380791
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

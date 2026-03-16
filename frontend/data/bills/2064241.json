@@ -1,0 +1,64 @@
+{
+  "id": 2064241,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HB1413",
+  "title": "Relating To Crime.",
+  "summary": "Includes individuals involved in organized crime among the persons who may be subjected to extended terms of imprisonment for the commission of felonies.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HB1413/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HB1413/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1413&year=2026",
+  "sponsors": [
+    "Julie Reyes Oda (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-23",
+      "action": "Introduced and Pass First Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-27",
+      "action": "Referred to JHA, referral sheet 4",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-23",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1413_.HTM",
+      "doc_id": 3298459
+    }
+  ],
+  "committee": {
+    "committee_id": 4406,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Judiciary & Hawaiian Affairs"
+  },
+  "subjects": [
+    "Penal Code",
+    "Organized Crime",
+    "Extended Imprisonment",
+    "Felonies"
+  ]
+}

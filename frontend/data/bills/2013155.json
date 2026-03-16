@@ -1,0 +1,93 @@
+{
+  "id": 2013155,
+  "state": "NC",
+  "state_name": "North Carolina",
+  "bill_number": "H497",
+  "title": "Ban on Gay & Trans Panic Defense",
+  "summary": "Ban on Gay & Trans Panic Defense",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NC/bill/H497/2025",
+  "legiscan_url": "https://legiscan.com/NC/bill/H497/2025",
+  "state_url": "https://www.ncleg.gov/BillLookUp/2025/H497",
+  "sponsors": [
+    "Allison Dahle (D) [Rep]",
+    "Vernetta Alston (D) [Rep]",
+    "Cynthia Ball (D) [Rep]",
+    "Mary Belk (D) [Rep]",
+    "Cecil Brockman (D) [Rep]",
+    "Kanika Brown (D) [Rep]",
+    "Deb Butler (D) [Rep]",
+    "Becky Carney (D) [Rep]",
+    "Aisha Dew (D) [Rep]",
+    "Julia Greenfield (D) [Rep]",
+    "Mary Harrison (D) [Rep]",
+    "Zack Forde-Hawkins (D) [Rep]",
+    "Carolyn Logan (D) [Rep]",
+    "Tim Longest (D) [Rep]",
+    "Marcia Morey (D) [Rep]",
+    "Lindsey Prather (D) [Rep]",
+    "Renee Price (D) [Rep]",
+    "James Roberson (D) [Rep]",
+    "Phil Rubin (D) [Rep]",
+    "Julie von Haefen (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-24",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-03-24",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Passed 1st Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Ref To Com On Rules, Calendar, and Operations of the House",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-24",
+      "type": "Introduced",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H497v0.pdf",
+      "doc_id": 3185946
+    },
+    {
+      "date": "2025-03-26",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H497v1.pdf",
+      "doc_id": 3190394
+    }
+  ],
+  "committee": {
+    "committee_id": 673,
+    "chamber": "H",
+    "chamber_id": 75,
+    "name": "Rules, Calendar, and Operations of the House"
+  },
+  "subjects": [
+    "Assault",
+    "Courts",
+    "Crimes",
+    "Criminal Procedure",
+    "Death & Dying",
+    "Lgbtq & Gender Issues",
+    "Public",
+    "Homicide"
+  ]
+}

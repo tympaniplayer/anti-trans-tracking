@@ -1,0 +1,76 @@
+{
+  "id": 2005285,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF2477",
+  "title": "Health insurance, Medicare supplement benefits and prescription drugs provisions modifications",
+  "summary": "Health insurance, Medicare supplement benefits and prescription drugs provisions modifications",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF2477/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF2477/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2477/",
+  "sponsors": [
+    "Matt Klein (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-13",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-03-13",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Referred to Commerce and Consumer Protection",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Comm report: To pass as amended and re-refer to Health and Human Services",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Comm report: To pass as amended and re-refer to Commerce and Consumer Protection",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-11",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2477/versions/0/pdf/",
+      "doc_id": 3171673
+    },
+    {
+      "date": "2025-03-27",
+      "type": "Engrossed",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2477/versions/1/pdf/",
+      "doc_id": 3192211
+    },
+    {
+      "date": "2025-04-03",
+      "type": "Engrossed",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/2477/versions/2/pdf/",
+      "doc_id": 3200347
+    }
+  ],
+  "committee": {
+    "committee_id": 1740,
+    "chamber": "S",
+    "chamber_id": 56,
+    "name": "Commerce and Consumer Protection"
+  },
+  "subjects": []
+}

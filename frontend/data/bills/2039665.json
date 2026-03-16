@@ -1,0 +1,86 @@
+{
+  "id": 2039665,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB4457",
+  "title": "Housing Is a Human Right Act of 2025",
+  "summary": "To address root causes of homelessness, meet the needs of community members experiencing harms from homelessness, transition communities towards providing housing for all, end penalization of homelessness, and ensure full democratic participation and inclusion of persons experiencing homelessness, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB4457/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB4457/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4457/all-info",
+  "sponsors": [
+    "Pramila Jayapal (D) [Rep]",
+    "Grace Meng (D) [Rep]",
+    "Yassamin Ansari (D) [Rep]",
+    "Andre Carson (D) [Rep]",
+    "Greg Casar (D) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "Yvette Clarke (D) [Rep]",
+    "Dwight Evans (D) [Rep]",
+    "Jesus Garcia (D) [Rep]",
+    "Jimmy Gomez (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Summer Lee (D) [Rep]",
+    "Ted Lieu (D) [Rep]",
+    "James McGovern (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Alexandria Ocasio-Cortez (D) [Rep]",
+    "Ilhan Omar (D) [Rep]",
+    "Ayanna Pressley (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Lateefah Simon (D) [Rep]",
+    "Melanie Stansbury (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Ritchie Torres (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Daniel Goldman (D) [Rep]",
+    "Mark Pocan (D) [Rep]",
+    "LaMonica McIver (D) [Rep]",
+    "Morgan McGarvey (D) [Rep]",
+    "Adelita Grijalva (D) [Rep]",
+    "Steve Cohen (D) [Rep]"
+  ],
+  "introduced_date": "2025-07-16",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-07-16",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-16",
+      "action": "Referred to the Committee on Financial Services, and in addition to the Committees on House Administration, the Judiciary, Education and Workforce, and Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-25",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr4457/BILLS-119hr4457ih.pdf",
+      "doc_id": 3263109
+    }
+  ],
+  "committee": {
+    "committee_id": 2304,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Financial Services"
+  },
+  "subjects": [
+    "Housing and community development"
+  ]
+}

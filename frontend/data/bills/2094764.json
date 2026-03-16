@@ -1,0 +1,49 @@
+{
+  "id": 2094764,
+  "state": "NM",
+  "state_name": "New Mexico",
+  "bill_number": "HB190",
+  "title": "Homelessness Services For Lgbtq+",
+  "summary": "Homelessness Services For Lgbtq+",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NM/bill/HB190/2026",
+  "legiscan_url": "https://legiscan.com/NM/bill/HB190/2026",
+  "state_url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=H&legtype=B&legno=190&year=26",
+  "sponsors": [
+    "Marianna Anaya (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-27",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-27",
+      "action": "Sent to HHHC - Referrals: HHHC/HAFC",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-27",
+      "type": "Introduced",
+      "url": "https://www.nmlegis.gov/Sessions/26%20Regular/bills/house/HB0190.pdf",
+      "doc_id": 3333657
+    }
+  ],
+  "committee": {
+    "committee_id": 3570,
+    "chamber": "H",
+    "chamber_id": 71,
+    "name": "Health & Human Services"
+  },
+  "subjects": []
+}

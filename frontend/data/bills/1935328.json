@@ -1,0 +1,52 @@
+{
+  "id": 1935328,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H1",
+  "title": "Making appropriations for the fiscal year 2026 for the maintenance of the departments, boards, commissions, institutions, and certain activities of the commonwealth, for interest, sinking fund, and serial bond requirements, and for certain permanent improvements",
+  "summary": "Making appropriations for the fiscal year 2026 for the maintenance of the departments, boards, commissions, institutions, and certain activities of the commonwealth, for interest, sinking fund, and serial bond requirements, and for certain permanent improvements",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H1/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H1/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H1",
+  "sponsors": [],
+  "introduced_date": "2025-01-23",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-01-23",
+      "action": "Read; and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Reported, in part, by H4000",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Accompanied H4000",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H1.pdf",
+      "doc_id": 3072564
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

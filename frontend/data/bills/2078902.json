@@ -1,0 +1,129 @@
+{
+  "id": 2078902,
+  "state": "AZ",
+  "state_name": "Arizona",
+  "bill_number": "SB1177",
+  "title": "Public monies; gender transition; prohibition",
+  "summary": "Public monies; gender transition; prohibition",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AZ/bill/SB1177/2026",
+  "legiscan_url": "https://legiscan.com/AZ/bill/SB1177/2026",
+  "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/84086",
+  "sponsors": [
+    "Wendy Rogers (R) [Sen]",
+    "David Farnsworth (R) [Sen]",
+    "Mark Finchem (R) [Sen]",
+    "Thomas Shope (R) [Sen]",
+    "Neal Carter (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-20",
+  "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
+  "actions": [
+    {
+      "date": "2026-01-20",
+      "action": "Introduced in Senate and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Assigned to Senate HHS Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Assigned to Senate RULES Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Senate read second time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Senate HHS Committee action: Do Pass, voting: (4-3-0-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Senate RULES Committee action: Proper For Consideration, voting: (5-4-0-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Senate consent calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Senate majority caucus: Do pass",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Senate minority caucus: Do pass",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Senate Committee of the Whole action: Do Pass",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-18",
+      "description": "Senate Health and Human Services Committee Action (DP)",
+      "yea": 4,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-23",
+      "description": "Senate Rules Committee Action (PFC)",
+      "yea": 5,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-02",
+      "description": "Senate - Committee of the Whole (DP)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/sb1177p.htm",
+      "doc_id": 3315896
+    },
+    {
+      "date": "2026-03-02",
+      "type": "Engrossed",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/sb1177s.htm",
+      "doc_id": 3383979
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Definitions",
+    "Gender Transition",
+    "Misuse Of Public Monies",
+    "Prohibition",
+    "Public Finances - Title 35",
+    "Public Monies",
+    "Violation"
+  ]
+}

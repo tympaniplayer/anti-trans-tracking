@@ -1,0 +1,49 @@
+{
+  "id": 2084448,
+  "state": "MS",
+  "state_name": "Mississippi",
+  "bill_number": "HB866",
+  "title": "Portable benefit accounts; allow hiring party to contribute funds to for benefit plans for independent contractors.",
+  "summary": "An Act To Provide For The Establishment Of Portable Benefit Accounts For Independent Contractors; To Authorize A Hiring Party To Contribute Funds To The Portable Benefit Account For An Independent Contractor; To Provide That A Hiring Party May Withhold A Percentage Of Funds From The Compensation Owed To An Independent Contractor If Both Parties Agree To The Withholding In Writing; To Bring Forward Sections 27-7-16, 27-7-17 And 71-9-5, Mississippi Code Of 1972, For The Purpose Of Possible Amendment; And For Related Purposes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MS/bill/HB866/2026",
+  "legiscan_url": "https://legiscan.com/MS/bill/HB866/2026",
+  "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB0866.xml",
+  "sponsors": [
+    "John Lamar (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-16",
+      "action": "Referred To Business and Commerce",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Died In Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-16",
+      "type": "Introduced",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/HB/0800-0899/HB0866IN.htm",
+      "doc_id": 3321671
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

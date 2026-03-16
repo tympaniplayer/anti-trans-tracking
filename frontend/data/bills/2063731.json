@@ -1,0 +1,78 @@
+{
+  "id": 2063731,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB1010",
+  "title": "Relating To Sex-based Discrimination.",
+  "summary": "Clarifies and strengthens the State's protections against sex-based harassment, sex discrimination, and retaliation that occur in public schools, public charter schools, or at the University of Hawaii, including discrimination based on gender identity or expression, sexual orientation, pregnancy, and pregnancy-related conditions. Establishes procedures for investigations and decision-making. Requires mandatory reporting by certain employees.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB1010/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB1010/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1010&year=2026",
+  "sponsors": [
+    "Chris Lee (D) [Sen]",
+    "Stanley Chang (D) [Sen]",
+    "Carol Fukunaga (D) [Sen]",
+    "Angus McKelvey (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-17",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-17",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "Referred to EDU/HRE, JDC/WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Re-Referred to EDU, JDC/WAM.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-17",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB1010_.HTM",
+      "doc_id": 3297639
+    }
+  ],
+  "committee": {
+    "committee_id": 2056,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Education"
+  },
+  "subjects": [
+    "Sex-Based Harassment",
+    "Sex Discrimination",
+    "Retaliation",
+    "Title IX",
+    "Protections"
+  ]
+}

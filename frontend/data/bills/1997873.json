@@ -1,0 +1,74 @@
+{
+  "id": 1997873,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S737",
+  "title": "To promote economic mobility through matched savings",
+  "summary": "For legislation to promote economic mobility through matched savings. Financial Services.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S737/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S737/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S737",
+  "sponsors": [
+    "James Eldridge (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Financial Services",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-21",
+      "action": "Hearing scheduled for 10/30/2025 from 10:30 AM-01:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Hearing rescheduled to 10/30/2025 from 10:30 AM-04:00 PM in A-2 Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-30",
+      "action": "Hearing rescheduled to 10/30/2025 from 10:30 AM-02:00 PM in A-2 Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S737.pdf",
+      "doc_id": 3163111
+    }
+  ],
+  "committee": {
+    "committee_id": 746,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

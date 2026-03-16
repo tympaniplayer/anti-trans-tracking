@@ -1,0 +1,51 @@
+{
+  "id": 2098169,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A1370",
+  "title": "Requires AG to release bias incident data monthly.",
+  "summary": "Requires AG to release bias incident data monthly.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A1370/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A1370/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A1370",
+  "sponsors": [
+    "Ellen Park (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Judiciary Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-22",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A1500/1370_I1.HTM",
+      "doc_id": 3337240
+    }
+  ],
+  "committee": {
+    "committee_id": 862,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Judiciary"
+  ]
+}

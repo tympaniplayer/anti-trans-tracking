@@ -1,0 +1,54 @@
+{
+  "id": 2132984,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "HR455",
+  "title": "Commending Bree Fram.",
+  "summary": "Commending Bree Fram.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/HR455/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/HR455/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/HR455",
+  "sponsors": [
+    "Irene Shin (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-13",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-12",
+      "action": "Presented and laid on Speaker's table 26109230D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Engrossed by House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Agreed to by House by voice vote",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-12",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/HR455/text/HR455",
+      "doc_id": 3392888
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

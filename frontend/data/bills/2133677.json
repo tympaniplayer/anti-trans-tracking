@@ -1,0 +1,77 @@
+{
+  "id": 2133677,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "AB1161",
+  "title": "Online services accessed by minors, minors\u2019 personal data, and granting rule-making authority.",
+  "summary": "An Act to create 100.80 of the statutes; Relating to: online services accessed by minors, minors\u2019 personal data, and granting rule-making authority.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/AB1161/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/AB1161/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab1161",
+  "sponsors": [
+    "Alex Joers (D) [Rep]",
+    "Jill Billings (D) [Rep]",
+    "Renuka Mayadev (D) [Rep]",
+    "Deb Andraca (D) [Rep]",
+    "Ryan Clancy (D) [Rep]",
+    "Karen DeSanto (D) [Rep]",
+    "Ben DeSmidt (D) [Rep]",
+    "Jodi Emerson (D) [Rep]",
+    "Joan Fitzgerald (D) [Rep]",
+    "Russell Goodwin (D) [Rep]",
+    "Darrin Madison (D) [Rep]",
+    "Vinnie Miresse (D) [Rep]",
+    "Greta Neubauer (D) [Rep]",
+    "Ann Roe (D) [Rep]",
+    "Christine Sinicki (D) [Rep]",
+    "Lee Snodgrass (D) [Rep]",
+    "Shelia Stubbs (D) [Rep]",
+    "Randy Udell (D) [Rep]",
+    "Robyn Vining (D) [Rep]",
+    "Jeff Smith (D) [Sen]",
+    "Dianne Hesselbein (D) [Sen]",
+    "Kelda Roys (D) [Sen]",
+    "Jamie Wall (D) [Sen]",
+    "Mark Spreitzer (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-13",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-13",
+      "action": "Introduced",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Read first time and referred to Committee on Consumer Protection",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-13",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AB1161.pdf",
+      "doc_id": 3394224
+    }
+  ],
+  "committee": {
+    "committee_id": 1025,
+    "chamber": "A",
+    "chamber_id": 99,
+    "name": "Consumer Protection"
+  },
+  "subjects": []
+}

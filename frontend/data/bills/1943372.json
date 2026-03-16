@@ -1,0 +1,148 @@
+{
+  "id": 1943372,
+  "state": "GA",
+  "state_name": "Georgia",
+  "bill_number": "SB30",
+  "title": "Hospitals and Related Institutions; hormone therapies and puberty-blocking medications for certain purposes to minors; prohibit prescribing or administering",
+  "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 7 of Title 31 and Article 1 of Chapter 34 of Title 43 of the Official Code of Georgia Annotated, relating to regulation of hospitals and related institutions and the Georgia Composite Medical Board, respectively, so as to prohibit prescribing or administering certain hormone therapies and puberty-blocking medications for certain purposes to minors; to provide for definitions; to provide for limited exceptions; to provide for a remedy for a parent or guardian of a minor; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education",
+    "healthcare",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/GA/bill/SB30/2025",
+  "legiscan_url": "https://legiscan.com/GA/bill/SB30/2025",
+  "state_url": "https://www.legis.ga.gov/legislation/69548",
+  "sponsors": [
+    "Ben Watson (R) [Sen]",
+    "Steve Gooch (R) [Sen]",
+    "John Kennedy (R) [Sen]",
+    "Clint Dixon (R) [Sen]",
+    "Greg Dolezal (R) [Sen]",
+    "Bill Cowsert (R) [Sen]",
+    "Matt Brass (R) [Sen]",
+    "John Albers (R) [Sen]",
+    "Jason Anavitarte (R) [Sen]",
+    "Billy Hickman (R) [Sen]",
+    "Randy Robertson (R) [Sen]",
+    "Blake Tillery (R) [Sen]",
+    "Larry Walker (R) [Sen]",
+    "Carden Summers (R) [Sen]",
+    "Mike Hodges (R) [Sen]",
+    "Brian Strickland (R) [Sen]",
+    "Lee Anderson (R) [Sen]",
+    "Russ Goodman (R) [Sen]",
+    "Shawn Still (R) [Sen]",
+    "Bo Hatchett (R) [Sen]",
+    "Drew Echols (R) [Sen]",
+    "Max Burns (R) [Sen]",
+    "Colton Moore (R) [Sen]",
+    "Ricky Williams (R) [Sen]",
+    "Timothy Bearden (R) [Sen]",
+    "Sam Watson (R) [Sen]",
+    "Chuck Payne (R) [Sen]",
+    "Frank Ginn (R) [Sen]",
+    "Brandon Beach (R) [Sen]",
+    "Chuck Hufstetler (R) [Sen]",
+    "Mark Newton (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-03",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-27",
+      "action": "Senate Hopper",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Senate Read and Referred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Senate Committee Favorably Reported",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Senate Read Second Time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Senate Third Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Senate Passed/Adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "House First Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "House Second Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "House Committee Favorably Reported By Substitute",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-04",
+      "action": "House Withdrawn, Recommitted",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-03",
+      "description": "Adoption Of Amendment #1 By The Senator From The 44th: Senate Vote #119",
+      "yea": 20,
+      "nay": 34,
+      "passed": 0
+    },
+    {
+      "date": "2025-03-03",
+      "description": "Passage: Senate Vote #120",
+      "yea": 34,
+      "nay": 19,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-28",
+      "type": "Introduced",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/230356",
+      "doc_id": 3084661
+    },
+    {
+      "date": "2025-03-03",
+      "type": "Engrossed",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234926",
+      "doc_id": 3151132
+    },
+    {
+      "date": "2025-03-26",
+      "type": "Comm Sub",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/237444",
+      "doc_id": 3191304
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

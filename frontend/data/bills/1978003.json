@@ -1,0 +1,62 @@
+{
+  "id": 1978003,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "SB272",
+  "title": "In casualty insurance, providing for infertility care coverage.",
+  "summary": "An Act amending the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, in casualty insurance, providing for infertility care coverage.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/SB272/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/SB272/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/sb272",
+  "sponsors": [
+    "Amanda Cappelletti (D) [Sen]",
+    "Tracy Pennycuick (R) [Sen]",
+    "Arthur Haywood (D) [Sen]",
+    "Maria Collett (D) [Sen]",
+    "Nick Pisciottano (D) [Sen]",
+    "Jay Costa (D) [Sen]",
+    "Christine Tartaglione (D) [Sen]",
+    "Steven Santarsiero (D) [Sen]",
+    "John Kane (D) [Sen]",
+    "Katie Muth (D) [Sen]",
+    "Lindsey Williams (D) [Sen]",
+    "Nicholas Miller (D) [Sen]",
+    "Camera Bartolotta (R) [Sen]",
+    "Timothy Kearney (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-20",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-20",
+      "action": "Referred to Banking & Insurance",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB0272/PN0226",
+      "doc_id": 3133982
+    }
+  ],
+  "committee": {
+    "committee_id": 68,
+    "chamber": "S",
+    "chamber_id": 4,
+    "name": "Banking & Insurance"
+  },
+  "subjects": []
+}

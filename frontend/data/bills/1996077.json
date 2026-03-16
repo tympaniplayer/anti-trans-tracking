@@ -1,0 +1,54 @@
+{
+  "id": 1996077,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S06303",
+  "title": "Requires the department of health to collect and report certain data concerning COVID-19 including racial, ethnic, and other demographic disparities throughout the state which are contributing to the amount of positive cases and the care provided for such.",
+  "summary": "Requires the department of health to collect and report certain data concerning COVID-19 including racial, ethnic, and other demographic disparities throughout the state which are contributing to the amount of positive cases and the care provided for such.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S06303/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S06303/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S6303",
+  "sponsors": [
+    "James Sanders (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-10",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-10",
+      "action": "REFERRED TO HEALTH",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO HEALTH",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-10",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S06303&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S06303",
+      "doc_id": 3160892
+    }
+  ],
+  "committee": {
+    "committee_id": 429,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Health"
+  },
+  "subjects": []
+}

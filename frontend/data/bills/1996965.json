@@ -1,0 +1,64 @@
+{
+  "id": 1996965,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S715",
+  "title": "Relative to modern family building",
+  "summary": "For legislation relative to LGBTQ family building. Financial Services.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S715/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S715/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S715",
+  "sponsors": [
+    "Julian Cyr (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Financial Services",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Hearing scheduled for 06/24/2025 from 10:30 AM-02:00 PM in Gardner Auditorium",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-08-28",
+      "action": "Bill reported favorably by committee and referred to the Joint Committee on Health Care Financing",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Accompanied a study order, see S2931",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S715.pdf",
+      "doc_id": 3162116
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

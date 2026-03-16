@@ -1,0 +1,67 @@
+{
+  "id": 1956429,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "SB71",
+  "title": "Prohibit conversion therapy for minors by certain professionals",
+  "summary": "To enact sections 4723.95, 4731.45, 4732.34, 4743.11, 4757.46, and 4758.73 of the Revised Code to prohibit certain licensed health care professionals from engaging in conversion therapy for minor patients.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/SB71/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/SB71/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/sb71",
+  "sponsors": [
+    "Nickie Antonio (D) [Sen]",
+    "Beth Liston (D) [Sen]",
+    "Hearcel Craig (D) [Sen]",
+    "William DeMora (D) [Sen]",
+    "Paula Hicks-Hudson (D) [Sen]",
+    "Catherine Ingram (D) [Sen]",
+    "Kent Smith (D) [Sen]",
+    "Casey Weinstein (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-04",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-04",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Referred to committee: Health",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb71/00_IN/pdf/",
+      "doc_id": 3101179
+    }
+  ],
+  "committee": {
+    "committee_id": 4399,
+    "chamber": "S",
+    "chamber_id": 6,
+    "name": "Health"
+  },
+  "subjects": [
+    "Health and Human Services : Health Care",
+    "Health and Human Services : Mental Health and Disabilities",
+    "Occupational Licensing and Regulation",
+    "Senate Health Committee"
+  ]
+}

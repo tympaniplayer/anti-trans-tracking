@@ -1,0 +1,156 @@
+{
+  "id": 1891650,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB778",
+  "title": "Relating to required health benefit plan coverage for gender transition adverse effects and reversals.",
+  "summary": "Relating to required health benefit plan coverage for gender transition adverse effects and reversals.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB778/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB778/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB778",
+  "sponsors": [
+    "Jeff Leach (R) [Rep]",
+    "Keith Bell (R) [Rep]",
+    "Hillary Hickland (R) [Rep]",
+    "Andy Hopper (R) [Rep]",
+    "Carrie Isaac (R) [Rep]",
+    "Helen Kerwin (R) [Rep]",
+    "Terri Leo-Wilson (R) [Rep]",
+    "David Lowe (R) [Rep]",
+    "William Metcalf (R) [Rep]",
+    "Candy Noble (R) [Rep]",
+    "Mike Olcott (R) [Rep]",
+    "Jared Patterson (R) [Rep]",
+    "Katrina Pierson (R) [Rep]",
+    "Joanne Shofner (R) [Rep]",
+    "Shelby Slawson (R) [Rep]",
+    "David Spiller (R) [Rep]"
+  ],
+  "introduced_date": "2024-11-12",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-12",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Referred to Insurance",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Considered in public hearing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Committee substitute considered in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Testimony taken/registration(s) recorded in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Left pending in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Considered in formal meeting",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Committee substitute considered in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Reported favorably as substituted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Comte report filed with Committee Coordinator",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Committee report distributed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Committee report sent to Calendars",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Considered in Calendars",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-09",
+      "action": "Placed on General State Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Companion considered in lieu of SB 1257",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-10",
+      "action": "Laid on the table subject to call",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-11-12",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00778I.htm",
+      "doc_id": 3027139
+    },
+    {
+      "date": "2025-04-14",
+      "type": "Comm Sub",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00778H.htm",
+      "doc_id": 3210857
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Health",
+    "Health--Other Diseases & Medical Conditions",
+    "Insurance",
+    "Insurance--Health & Accident",
+    "GENDER IDENTITY & EXPRESSION"
+  ]
+}

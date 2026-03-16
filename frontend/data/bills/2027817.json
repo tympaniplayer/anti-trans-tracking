@@ -1,0 +1,59 @@
+{
+  "id": 2027817,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB1534",
+  "title": "Women and Underrepresented Minorities in STEM Booster Act of 2025",
+  "summary": "A bill to increase the participation of historically underrepresented demographic groups in science, technology, engineering, and mathematics education and industry.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB1534/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB1534/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1534/all-info",
+  "sponsors": [
+    "Mazie Hirono (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "Ruben Gallego (D) [Sen]",
+    "Amy Klobuchar (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Jacky Rosen (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-30",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-04-30",
+      "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-10",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s1534/BILLS-119s1534is.pdf",
+      "doc_id": 3234025
+    }
+  ],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": [
+    "Science, technology, communications"
+  ]
+}

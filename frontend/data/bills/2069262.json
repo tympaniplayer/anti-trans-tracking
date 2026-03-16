@@ -1,0 +1,69 @@
+{
+  "id": 2069262,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "HB243",
+  "title": "Corporate welfare tax; imposes on large employers a tax equal to 100% of qualified employee benefit.",
+  "summary": "Corporate welfare tax. Imposes on large employers, as defined in the bill, a corporate welfare tax equal to 100 percent of the qualified employee benefits received by any employees of such large employer residing in the Commonwealth. The bill directs the Department of Taxation to obtain identifying data for individuals receiving qualified federal benefits, as defined by the bill, from the Department of Social Services pursuant to an interagency agreement and to compare such data to employment rosters received quarterly from large employers to determine the amount of qualified federal benefits received by employees of such large employers. The bill also prohibits an employer, in connection with the selection or referral of applicants or candidates for employment, to make inquiries or otherwise seek information relating to whether such applicant receives qualified federal benefits.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/HB243/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/HB243/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/HB243",
+  "sponsors": [
+    "Joshua Cole (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-08",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26104162D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Referred to Committee on Finance",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Assigned HFIN sub: Subcommittee #1",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-08",
+      "action": "Fiscal Impact statement From TAX (2/8/2026 12:59 pm)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Subcommittee recommends continuing to (Voice Vote)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Continued to next session in Finance (Voice Vote)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-08",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB243/text/HB243",
+      "doc_id": 3303966
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

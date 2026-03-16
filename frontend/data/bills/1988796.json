@@ -1,0 +1,54 @@
+{
+  "id": 1988796,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S05734",
+  "title": "Expands insurance coverage for in vitro fertilization; includes coverage under individual policies; provides coverage for three complete oocyte retrievals and in vitro fertilization with unlimited embryo transfers.",
+  "summary": "Expands insurance coverage for in vitro fertilization; includes coverage under individual policies; provides coverage for three complete oocyte retrievals and in vitro fertilization with unlimited embryo transfers.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S05734/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S05734/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S5734",
+  "sponsors": [
+    "Jessica Scarcella-Spanton (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-28",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-28",
+      "action": "REFERRED TO WOMEN'S ISSUES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO WOMEN'S ISSUES",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-28",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S05734&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S05734",
+      "doc_id": 3148158
+    }
+  ],
+  "committee": {
+    "committee_id": 3937,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Women's Issues"
+  },
+  "subjects": []
+}

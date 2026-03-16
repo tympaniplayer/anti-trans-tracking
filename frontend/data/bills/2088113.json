@@ -1,0 +1,49 @@
+{
+  "id": 2088113,
+  "state": "MS",
+  "state_name": "Mississippi",
+  "bill_number": "SB2525",
+  "title": "DEI statements and policies; clarify that student activity fees paid by students are not state funds.",
+  "summary": "An Act To Amend Section 37-191-3, Mississippi Code Of 1972, To Clarify That Student Activity Fees Paid By Students Are Not Considered State Funds; To Amend Section 37-191-9, Mississippi Code Of 1972, To Make Technical Nonsubstantive Amendments; To Bring Forward Sections 37-191-1, 37-191-5, 37-191-7, 37-191-11, 37-191-13, 37-191-15, And 37-191-17, Mississippi Code Of 1972, For Purposes Of Possible Amendment; And For Related Purposes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MS/bill/SB2525/2026",
+  "legiscan_url": "https://legiscan.com/MS/bill/SB2525/2026",
+  "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2525.xml",
+  "sponsors": [
+    "Scott DeLano (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-19",
+      "action": "Referred To Universities and Colleges",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Died In Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/SB/2500-2599/SB2525IN.htm",
+      "doc_id": 3325751
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

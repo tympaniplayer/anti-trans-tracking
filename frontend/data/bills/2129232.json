@@ -1,0 +1,54 @@
+{
+  "id": 2129232,
+  "state": "CT",
+  "state_name": "Connecticut",
+  "bill_number": "HB05516",
+  "title": "An Act Concerning Reproductive Rights.",
+  "summary": "To prohibit adverse actions against health care providers for providing certain health care services.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CT/bill/HB05516/2026",
+  "legiscan_url": "https://legiscan.com/CT/bill/HB05516/2026",
+  "state_url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB05516&which_year=2026",
+  "sponsors": [
+    "Public Health Committee [Jnt]"
+  ],
+  "introduced_date": "2026-03-05",
+  "session": "2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-03-05",
+      "action": "Referred to Joint Committee on Public Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Public Hearing 03/13",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-04",
+      "type": "Introduced",
+      "url": "https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05516-R00-HB.PDF",
+      "doc_id": 3384628
+    }
+  ],
+  "committee": {
+    "committee_id": 1359,
+    "chamber": "J",
+    "chamber_id": 108,
+    "name": "Public Health"
+  },
+  "subjects": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2085984,
+  "state": "MS",
+  "state_name": "Mississippi",
+  "bill_number": "SB2345",
+  "title": "Mississippi Safe Dormitories Act; enact.",
+  "summary": "An Act To Enact The Mississippi Safe Dormitories Act; To Present Legislative Findings; To Define Terms; To Prohibit Certain Students From Residing In A Living Facility Owned, Managed By Or Under The Authority Of A State Institution Of Higher Learning; To Prohibit Employees Of A State Institution From Entering Into Romantic, Sexual Or Intimate Relationships With Certain Students; To Stipulate Certain Guidelines Concerning On-campus Living; To Require State Institutions To Provide Certain Information About Institutional Policies To Interested Parties; To Create A Civil Action And Monetary Penalty For Violations Of This Act; To Create A Statute Of Limitations For Violations Of This Act; To Provide That State Institutions Of Higher Learning Are Not Immune From Suit Or Liability Under This Act; And For Related Purposes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "bathrooms",
+    "education",
+    "definitions"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MS/bill/SB2345/2026",
+  "legiscan_url": "https://legiscan.com/MS/bill/SB2345/2026",
+  "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2345.xml",
+  "sponsors": [
+    "Angela Burks Hill (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-19",
+      "action": "Referred To Universities and Colleges",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Died In Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-19",
+      "type": "Introduced",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2345IN.htm",
+      "doc_id": 3323356
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

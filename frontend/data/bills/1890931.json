@@ -1,0 +1,150 @@
+{
+  "id": 1890931,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB1088",
+  "title": "Relating to the statute of limitations on a health care liability claim involving certain gender modification drugs provided to and procedures performed on a minor.",
+  "summary": "Relating to the statute of limitations on a health care liability claim involving certain gender modification drugs provided to and procedures performed on a minor.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB1088/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB1088/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1088",
+  "sponsors": [
+    "Shelby Slawson (R) [Rep]",
+    "Jeff Leach (R) [Rep]",
+    "Brooks Landgraf (R) [Rep]",
+    "Daniel Alders (R) [Rep]",
+    "Trent Ashby (R) [Rep]",
+    "Greg Bonnen (R) [Rep]",
+    "David Cook (R) [Rep]",
+    "Cody Harris (R) [Rep]",
+    "Caroline Harris Davila (R) [Rep]",
+    "Richard Hayes (R) [Rep]",
+    "Hillary Hickland (R) [Rep]",
+    "Andy Hopper (R) [Rep]",
+    "Carrie Isaac (R) [Rep]",
+    "David Lowe (R) [Rep]",
+    "William Metcalf (R) [Rep]",
+    "Dennis Paul (R) [Rep]",
+    "Joanne Shofner (R) [Rep]",
+    "Valoree Swanson (R) [Rep]",
+    "Ellen Troxclair (R) [Rep]",
+    "Cody Vasut (R) [Rep]",
+    "Wesley Virdell (R) [Rep]",
+    "Trey Wharton (R) [Rep]"
+  ],
+  "introduced_date": "2024-11-12",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-12",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-07",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-07",
+      "action": "Referred to Judiciary & Civil Jurisprudence",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Considered in public hearing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Testimony taken/registration(s) recorded in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Left pending in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Considered in formal meeting",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Reported favorably w/o amendment(s)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Considered in public hearing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Vote reconsidered in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Reported favorably w/o amendment(s)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-25",
+      "action": "Comte report filed with Committee Coordinator",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-25",
+      "action": "Committee report distributed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Committee report sent to Calendars",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-11-12",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB01088I.htm",
+      "doc_id": 3026610
+    },
+    {
+      "date": "2025-04-25",
+      "type": "Comm Sub",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB01088H.htm",
+      "doc_id": 3222204
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Civil Remedies & Liabilities",
+    "Malpractice",
+    "Malpractice--Professionals",
+    "Minors",
+    "Minors--Health & Safety",
+    "STATUTES OF LIMITATIONS",
+    "GENDER IDENTITY & EXPRESSION"
+  ]
+}

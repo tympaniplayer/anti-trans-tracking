@@ -1,0 +1,54 @@
+{
+  "id": 2044234,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "PR26-0291",
+  "title": "Compensation and Working Conditions Agreement between the District of Columbia and the Office of the Attorney General and the American Federation of Government Employees, Local 1403, AFL-CIO (Compensation Unit 33) Approval Resolution of 2025",
+  "summary": "Compensation and Working Conditions Agreement between the District of Columbia and the Office of the Attorney General and the American Federation of Government Employees, Local 1403, AFL-CIO (Compensation Unit 33) Approval Resolution of 2025",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/PR26-0291/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/PR26-0291/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/PR26-0291",
+  "sponsors": [
+    "Phil Mendelson (D) [Sen]"
+  ],
+  "introduced_date": "2025-09-16",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2025-09-16",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-09-17",
+      "action": "Referred to Committee on Executive Administration and Labor",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-09-19",
+      "action": "Notice of Intent to Act on PR26-0291 Published in the DC Register",
+      "chamber": "C"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-09-16",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/58369/Introduction/PR26-0291-Introduction.pdf",
+      "doc_id": 3269601
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

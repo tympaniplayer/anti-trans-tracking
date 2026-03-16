@@ -1,0 +1,106 @@
+{
+  "id": 2064331,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB1284",
+  "title": "Proposing An Amendment To Article 1, Section 5, Of The Hawaii Constitution Relating To Due Process And Equal Protection.",
+  "summary": "Proposes a constitutional amendment to prohibit discrimination against a person because of ethnicity, age, disability, religion, national ancestry, sex, sexual orientation, gender identity, or pregnancy and pregnancy outcomes. (SD1)",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB1284/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB1284/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1284&year=2026",
+  "sponsors": [
+    "Chris Lee (D) [Sen]",
+    "Michelle Kidani (D) [Sen]",
+    "Karl Rhoads (D) [Sen]",
+    "Joy San Buenaventura (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-21",
+      "action": "Pending Introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "Introduced and passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-27",
+      "action": "Referred to JDC, WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-31",
+      "action": "The committee(s) on JDC has scheduled a public hearing on 02-06-25 9:15AM; Conference Room 016 &amp; Videoconference.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "The committee(s) on JDC recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in JDC were as follows: 2 Aye(s): Senator(s) Rhoads, San Buenaventura; Aye(s) with reservations: none ; 1 No(es): Senator(s) Awa; and 2 Excused: Senator(s) Gabbard, Chang.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Reported from JDC (Stand. Com. Rep. No. 305) with recommendation of passage on Second Reading, as amended (SD 1) and referral to WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-06",
+      "description": "Senate Judiciary: Passed, With Amendments",
+      "yea": 2,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-21",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB1284_.HTM",
+      "doc_id": 3298603
+    },
+    {
+      "date": "2025-02-11",
+      "type": "Amended",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB1284_SD1_.HTM",
+      "doc_id": 3298604
+    }
+  ],
+  "committee": {
+    "committee_id": 2065,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Ways and Means"
+  },
+  "subjects": [
+    "Constitutional Amendment",
+    "Due Process",
+    "Equal Protection",
+    "Discrimination (ConAm)"
+  ]
+}

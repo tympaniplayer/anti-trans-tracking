@@ -1,0 +1,61 @@
+{
+  "id": 2109384,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB3724",
+  "title": "EDUCATION-GENDER IN ATHLETICS",
+  "summary": "Creates the Gender in Athletics Act. Provides that in any intercollegiate athletic activity that is subject to rules, standards, or classifications that provide for student eligibility restrictions in order to ensure, enhance, or promote fair competition, each public institution of higher education shall make all determinations based on sex and not on gender. Grants rulemaking authority to the Board of High Education to implement and enforce the Act. Amends the School Code. Provides that no school district or nonpublic school whose students or teams compete against a school district or nonpublic school may operate, sponsor, or facilitate interscholastic or intramural athletics that permit a person whose gender is male to participate in any interscholastic or intramural athletics that are designated for females. Allows a student who is aggrieved by an alleged violation or anticipated violation to have the right to file a grievance complaint with the school district or nonpublic school for an immediate determination of whether a violation or anticipated violation exists. Provides that if a violation or anticipated violation is determined to exist, the school district or nonpublic school shall issue a decision immediately and may direct that such violation be terminated or adjusted to prevent a further violation, but if the grievance is rejected, the complaining party has the right to an immediate appeal to the State Board of Education for relief.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "education",
+    "bathrooms"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB3724/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB3724/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3724&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "Andrew Chesney (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "Filed with Secretary by Sen. Andrew S. Chesney",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=208328&DocName=10400SB3724&DocNum=3724&DocTypeID=SB&LegID=166982&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3355273
+    }
+  ],
+  "committee": {
+    "committee_id": 254,
+    "chamber": "S",
+    "chamber_id": 36,
+    "name": "Assignments"
+  },
+  "subjects": []
+}

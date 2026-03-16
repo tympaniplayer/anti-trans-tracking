@@ -1,0 +1,71 @@
+{
+  "id": 2119383,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "HB664",
+  "title": "AN ACT relating to civil remedies and declaring an emergency.",
+  "summary": "Create new sections of KRS Chapter 411 to define terms; establish a civil cause of action for damages arising from sexual orientation or gender identity change efforts; provide for the type of damages a plaintiff may recover and the causation requirements a plaintiff must establish in a civil action for damages arising from sexual orientation or gender identity change efforts; create a new section of KRS Chapter 413 to establish the statute of limitations and discovery requirements necessary for a civil cause of action for damages arising from sexual orientation or gender identity change efforts; amend KRS 413.140, relating to the statute of limitations for an action against a physician or hospital for negligence or malpractice, to conform; EMERGENCY.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/HB664/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/HB664/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/hb664.html",
+  "sponsors": [
+    "Lisa Willner (D) [Rep]",
+    "Mary Marzian (D) [Rep]",
+    "Tina Bojanowski (D) [Rep]",
+    "Beverly Chester-Burton (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-18",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-18",
+      "action": "introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "to Committee on Committees (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "to Judiciary (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/hb664/orig_bill.pdf",
+      "doc_id": 3366828
+    }
+  ],
+  "committee": {
+    "committee_id": 327,
+    "chamber": "H",
+    "chamber_id": 43,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil Actions",
+    "Effective Dates, Emergency",
+    "Health and Medical Services",
+    "Health Care Professionals",
+    "Mental Health",
+    "Nurses",
+    "Physicians",
+    "Public Health"
+  ]
+}

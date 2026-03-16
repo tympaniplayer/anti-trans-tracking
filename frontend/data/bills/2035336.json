@@ -1,0 +1,69 @@
+{
+  "id": 2035336,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "SB150",
+  "title": "Further providing for title of the act, for findings and declaration of policy, for right to freedom from discrimination in employment, housing and public accommodation, for definitions, for unlawful discriminatory practices and for prohibition of certain real estate practices; providing for protection of religious exercise; and further providing for powers and duties of the commission, for educational program and for construction and exclusiveness of remedy.",
+  "summary": "An Act amending the act of October 27, 1955 (P.L.744, No.222), known as the Pennsylvania Human Relations Act, further providing for title of the act, for findings and declaration of policy, for right to freedom from discrimination in employment, housing and public accommodation, for definitions, for unlawful discriminatory practices and for prohibition of certain real estate practices; providing for protection of religious exercise; and further providing for powers and duties of the commission, for educational program and for construction and exclusiveness of remedy.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "religious_exemptions",
+    "definitions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/SB150/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/SB150/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/sb150",
+  "sponsors": [
+    "Steven Santarsiero (D) [Sen]",
+    "Nikil Saval (D) [Sen]",
+    "Katie Muth (D) [Sen]",
+    "Timothy Kearney (D) [Sen]",
+    "Arthur Haywood (D) [Sen]",
+    "Christine Tartaglione (D) [Sen]",
+    "Lisa Boscola (D) [Sen]",
+    "Maria Collett (D) [Sen]",
+    "Jay Costa (D) [Sen]",
+    "Lindsey Williams (D) [Sen]",
+    "Vincent Hughes (D) [Sen]",
+    "Amanda Cappelletti (D) [Sen]",
+    "Carolyn Comitta (D) [Sen]",
+    "Judy Schwank (D) [Sen]",
+    "Wayne Fontana (D) [Sen]",
+    "Sharif Street (D) [Sen]",
+    "John Kane (D) [Sen]",
+    "Martin Flynn (D) [Sen]",
+    "James Andrew Malone (D) [Sen]",
+    "Anthony Williams (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-03",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-06-03",
+      "action": "Referred to Labor & Industry",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB0150/PN0874",
+      "doc_id": 3250885
+    }
+  ],
+  "committee": {
+    "committee_id": 78,
+    "chamber": "S",
+    "chamber_id": 4,
+    "name": "Labor & Industry"
+  },
+  "subjects": []
+}

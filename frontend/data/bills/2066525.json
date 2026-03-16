@@ -1,0 +1,75 @@
+{
+  "id": 2066525,
+  "state": "NE",
+  "state_name": "Nebraska",
+  "bill_number": "LB731",
+  "title": "Adopt the Gender Transition Malpractice Accountability Act, provide an exemption to the time limitation to commence certain actions relating to professional negligence, require insurance coverage for certain treatments and procedures arising as a result of a gender-altering procedure, and change provisions relating to civil actions under the Let Them Grow Act",
+  "summary": "Adopt the Gender Transition Malpractice Accountability Act, provide an exemption to the time limitation to commence certain actions relating to professional negligence, require insurance coverage for certain treatments and procedures arising as a result of a gender-altering procedure, and change provisions relating to civil actions under the Let Them Grow Act",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "religious_exemptions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NE/bill/LB731/2025",
+  "legiscan_url": "https://legiscan.com/NE/bill/LB731/2025",
+  "state_url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=62603",
+  "sponsors": [
+    "Kathleen Kauth (N) [Sen]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "109th Legislature",
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "action": "Date of introduction",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Kauth FA360 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Murman name added",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-01-09",
+      "action": "Referred to Judiciary Committee",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Hardin name added",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Notice of hearing for January 29, 2026",
+      "chamber": "L"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-07",
+      "type": "Introduced",
+      "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB731.pdf",
+      "doc_id": 3301097
+    }
+  ],
+  "committee": {
+    "committee_id": 1444,
+    "chamber": "L",
+    "chamber_id": 64,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

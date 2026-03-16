@@ -1,0 +1,145 @@
+{
+  "id": 2022591,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "HCR081",
+  "title": "House concurrent resolution in memory of former Bakersfield Select Board member Brenda Churchill",
+  "summary": "House concurrent resolution in memory of former Bakersfield Select Board member Brenda Churchill",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/HCR081/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/HCR081/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.C.R.81",
+  "sponsors": [
+    "Jill Krowinski (D) [Rep]",
+    "Angela Arsenault (D) [Rep]",
+    "Daisy Berbeco (D) [Rep]",
+    "Doug Bishop (D) [Rep]",
+    "Alyssa Black (D) [Rep]",
+    "Tiffany Bluemle (D) [Rep]",
+    "Michelle Bos-Lun (D) [Rep]",
+    "Lucy Boyden (D) [Rep]",
+    "Mollie Burke (D) [Rep]",
+    "Elizabeth Burrows (D) [Rep]",
+    "Scott Campbell (D) [Rep]",
+    "Conor Casey (D) [Rep]",
+    "Kevin Christie (D) [Rep]",
+    "Brian Cina (D) [Rep]",
+    "Voranus Coffin IV (R) [Rep]",
+    "Esme Cole (D) [Rep]",
+    "Timothy Corcoran (D) [Rep]",
+    "Mari Cordes (D) [Rep]",
+    "Leonora Dodge (D) [Rep]",
+    "Karen Dolan (D) [Rep]",
+    "Rey Garofano (D) [Rep]",
+    "Kenneth Goslant (R) [Rep]",
+    "Edye Graning (D) [Rep]",
+    "James Gregoire (R) [Rep]",
+    "Jim Harrison (R) [Rep]",
+    "Troy Headrick (I) [Rep]",
+    "Rebecca Holcombe (D) [Rep]",
+    "Lori Houghton (D) [Rep]",
+    "Mary Howard (D) [Rep]",
+    "Robert Hunter (D) [Rep]",
+    "Bram Kleppner (D) [Rep]",
+    "Emilie Kornheiser (D) [Rep]",
+    "Emilie Krasnow (D) [Rep]",
+    "Larry Labor (R) [Rep]",
+    "Kate Lalley (D) [Rep]",
+    "Martin LaLonde (D) [Rep]",
+    "Jed Lipsky (I) [Rep]",
+    "Kate Logan (D) [Rep]",
+    "Emily Long (D) [Rep]",
+    "Joseph Luneau (R) [Rep]",
+    "James Masland (D) [Rep]",
+    "Kate McCann (D) [Rep]",
+    "Patricia McCoy (R) [Rep]",
+    "Jubilee McGill (D) [Rep]",
+    "Brian Minier (D) [Rep]",
+    "Kristi Morris (D) [Rep]",
+    "Kate Nugent (D) [Rep]",
+    "Carol Ode (D) [Rep]",
+    "Woodman Page (R) [Rep]",
+    "Phil Pouech (D) [Rep]",
+    "Monique Priestley (D) [Rep]",
+    "Barbara Rachelson (D) [Rep]",
+    "Robin Scheu (D) [Rep]",
+    "Laura Sibilia (I) [Rep]",
+    "Thomas Stevens (D) [Rep]",
+    "Mary-Katherine Stone (D) [Rep]",
+    "Heather Surprenant (D) [Rep]",
+    "Shawn Sweeney (D) [Rep]",
+    "Chloe Tomlinson (D) [Rep]",
+    "Edward Waszazak (D) [Rep]",
+    "Chea Evans (D) [Rep]",
+    "Kenneth Wells (R) [Rep]",
+    "Candice White (D) [Rep]",
+    "Theresa Wood (D) [Rep]",
+    "David Yacovone (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-11",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-04-10",
+      "action": "On Consent Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "On Consent Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Adopted in concurrence per Joint Rule 16b",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Senate Message: Adopted in concurrence",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Adopted pursuant to Joint Rule 16b",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Ceremonial Reading",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-04",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/RESOLUTN/HCR081/HCR081%20As%20Introduced.pdf",
+      "doc_id": 3208183
+    },
+    {
+      "date": "2025-04-11",
+      "type": "Enrolled",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/RESOLUTN/HCR081/HCR081%20As%20adopted%20by%20the%20House%20Official.pdf",
+      "doc_id": 3210290
+    },
+    {
+      "date": "2025-04-18",
+      "type": "Enrolled",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/ACTS/ACTR101/ACTR101%20As%20Adopted.pdf",
+      "doc_id": 3217039
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

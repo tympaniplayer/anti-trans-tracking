@@ -1,0 +1,162 @@
+{
+  "id": 1907611,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5177",
+  "title": "Considering the experiences of historically marginalized and underrepresented groups when identifying professional development resources on certain topics.",
+  "summary": "Considering the experiences of historically marginalized and underrepresented groups when identifying professional development resources on certain topics.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5177/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5177/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5177&Year=2025&Initiative=false",
+  "sponsors": [
+    "T'wina Nobles (D) [Sen]",
+    "Claire Wilson (D) [Sen]",
+    "Robert Hasegawa (D) [Sen]",
+    "Liz Lovelett (D) [Sen]",
+    "Tina Orwall (D) [Sen]",
+    "Yasmin Trudeau (D) [Sen]",
+    "Javier Valdez (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-10",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "Prefiled for introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading, referred to Early Learning & K-12 Education.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "Public hearing in the Senate Committee on Early Learning & K-12 Education at 10:30 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Executive action taken in the Senate Committee on Early Learning & K-12 Education at 10:30 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "EDU - Majority; do pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Minority; do not pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Minority; without recommendation.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Passed to Rules Committee for second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Placed on second reading by Rules Committee.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "First reading, referred to Education.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Public hearing in the House Committee on Education at 4:00 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-27",
+      "action": "By resolution, returned to Senate Rules Committee for third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Placed on third reading by Rules Committee.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Third reading, passed; yeas, 29; nays, 19; absent, 0; excused, 1.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "First reading, referred to Education.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-05",
+      "description": "Senate Committee on Early Learning & K-12 Education: do pass",
+      "yea": 6,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-10",
+      "description": "Senate 3rd Reading & Final Passage",
+      "yea": 30,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-05",
+      "description": "Senate Final Passage",
+      "yea": 29,
+      "nay": 19,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5177.pdf",
+      "doc_id": 3043310
+    }
+  ],
+  "committee": {
+    "committee_id": 930,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Education"
+  },
+  "subjects": []
+}

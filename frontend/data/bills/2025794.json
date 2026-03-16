@@ -1,0 +1,83 @@
+{
+  "id": 2025794,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A08057",
+  "title": "Establishes a lesbian, gay, bisexual, and transgender veterans coordinator in order to support the unique needs of, advocate for, and celebrate the service of such veterans.",
+  "summary": "Establishes a lesbian, gay, bisexual, and transgender veterans coordinator in order to support the unique needs of, advocate for, and celebrate the service of such veterans.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A08057/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A08057/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A8057",
+  "sponsors": [
+    "Harry Bronson (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-22",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-04-22",
+      "action": "referred to veterans' affairs",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to veterans' affairs",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "amend (t) and recommit to veterans' affairs",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "print number 8057a",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "reported referred to ways and means",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-25",
+      "description": "Assembly Veterans' Affairs Committee: Favorable refer to committee Ways and Means",
+      "yea": 16,
+      "nay": 2,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-04-22",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08057&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08057",
+      "doc_id": 3218316
+    },
+    {
+      "date": "2025-04-22",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08057&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08057A",
+      "doc_id": 3366576
+    }
+  ],
+  "committee": {
+    "committee_id": 387,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

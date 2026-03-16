@@ -1,0 +1,64 @@
+{
+  "id": 2053813,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S2725",
+  "title": "Establishing a commission on the status of transgender people",
+  "summary": "For legislation to establish a permanent commission on the status of transgender people to conduct an ongoing study of all matters concerning transgender people, report the accompanying bill (Senate, No. 2725).",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S2725/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S2725/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S2725",
+  "sponsors": [
+    "Joint Committee on State Administration and Regulatory Oversight [Jnt]"
+  ],
+  "introduced_date": "2025-11-24",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-11-24",
+      "action": "Reported from the committee on State Administration and Regulatory Oversight",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-24",
+      "action": "New draft of S2155",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-24",
+      "action": "Bill reported favorably by committee and referred to the Joint Committee on Rules of the two branches, acting concurrently",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Committee recommended ought to pass and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-24",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S2725.pdf",
+      "doc_id": 3285710
+    }
+  ],
+  "committee": {
+    "committee_id": 746,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

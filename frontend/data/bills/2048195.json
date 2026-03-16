@@ -1,0 +1,65 @@
+{
+  "id": 2048195,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "HB1964",
+  "title": "Parental rights; Parents' Bill of Rights; private right of action; review; materials; object; opt in; fine; violation; term; effective date.",
+  "summary": "Parental rights; Parents' Bill of Rights; private right of action; review; materials; object; opt in; fine; violation; term; effective date.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/HB1964/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/HB1964/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=hb1964&Session=2600",
+  "sponsors": [
+    "Danny Williams (R) [Rep]",
+    "David Bullard (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Authored by Representative Williams",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Second Reading referred to Judiciary and Public Safety Oversight",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Referred to Civil Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/hB/HB1964%20INT.PDF",
+      "doc_id": 3276089
+    }
+  ],
+  "committee": {
+    "committee_id": 5109,
+    "chamber": "H",
+    "chamber_id": 79,
+    "name": "Civil Judiciary"
+  },
+  "subjects": []
+}

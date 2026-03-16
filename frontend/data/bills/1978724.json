@@ -1,0 +1,132 @@
+{
+  "id": 1978724,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB972",
+  "title": "Postsecondary education: discrimination: sex.",
+  "summary": "An act to amend Section 66270 of the Education Code, relating to postsecondary education.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB972/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB972/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB972",
+  "sponsors": [
+    "Lori Wilson (D) [Rep]"
+  ],
+  "introduced_date": "2025-05-15",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-20",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-21",
+      "action": "From printer. May be heard in committee March 23.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Referred to Coms. on HIGHER ED. and JUD.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "In committee: Hearing postponed by committee.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "From committee: Amend, and do pass as amended and re-refer to Com. on JUD. (Ayes 7. Noes 1.) (April 22).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Re-referred to Com. on JUD.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "From committee: Do pass. (Ayes 9. Noes 2.) (May 6).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Read third time. Passed. Ordered to the Senate. (Ayes 58. Noes 8. Page 1561.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Referred to Coms. on ED. and JUD.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-22",
+      "description": "Do pass as amended and be re-referred to the Committee on [Judiciary]",
+      "yea": 7,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-06",
+      "description": "Do pass",
+      "yea": 9,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-15",
+      "description": "AB 972 Wilson Assembly Third Reading",
+      "yea": 58,
+      "nay": 8,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-20",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB972#99INT",
+      "doc_id": 3134888
+    },
+    {
+      "date": "2025-04-24",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB972#98AMD",
+      "doc_id": 3221560
+    }
+  ],
+  "committee": {
+    "committee_id": 477,
+    "chamber": "S",
+    "chamber_id": 20,
+    "name": "Education"
+  },
+  "subjects": []
+}

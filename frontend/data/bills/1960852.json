@@ -1,0 +1,404 @@
+{
+  "id": 1960852,
+  "state": "KS",
+  "state_name": "Kansas",
+  "bill_number": "SB244",
+  "title": "House Substitute for SB 244 by Committee on Judiciary - Requiring the designation of multiple-occupancy private spaces in public buildings for use by only one sex and imposing criminal and civil penalties for violations, defining the term \"gender\" to mean biological sex at birth for purposes of statutory construction, directing the division of vehicles to invalidate and reissue driver's licenses when necessary to correct the gender identification on such licenses and directing the office of vital statistics to invalidate and reissue birth certificates when necessary to correct the sex identification on such certificates.",
+  "summary": "House Substitute for SB 244 by Committee on Judiciary - Requiring the designation of multiple-occupancy private spaces in public buildings for use by only one sex and imposing criminal and civil penalties for violations, defining the term \"gender\" to mean biological sex at birth for purposes of statutory construction, directing the division of vehicles to invalidate and reissue driver's licenses when necessary to correct the gender identification on such licenses and directing the office of vital statistics to invalidate and reissue birth certificates when necessary to correct the sex identification on such certificates.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "identity_documents",
+    "definitions"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KS/bill/SB244/2025",
+  "legiscan_url": "https://legiscan.com/KS/bill/SB244/2025",
+  "state_url": "https://kslegislature.gov/li/b2025_26/measures/sb244/",
+  "sponsors": [
+    "Judiciary [Sen]"
+  ],
+  "introduced_date": "2026-02-18",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-06",
+      "action": "Senate Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Senate Referred to Committee on Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Senate Hearing: Thursday, February 13, 2025, 10:30 AM Room 346-S",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-17",
+      "action": "Senate Committee Report recommending bill be passed by Committee on Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Senate Committee of the Whole - Motion to Amend - Offered by Senator Warren",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Senate Committee of the Whole - Amendment by Senator Warren was adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Senate Committee of the Whole - Be passed as amended",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Senate Emergency Final Action - Passed as amended; Yea: 37 Nay: 3",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "House Received and Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "House Referred to Committee on Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "House Hearing: Wednesday, March 5, 2025, 3:30 PM Room 582-N",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "House Committee Report recommending substitute bill be passed by Committee on Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Committee Report be adopted recommending substitute bill be passed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Motion to rerefer to committee failed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Motion to Amend - Offered by Representative Lewis",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Amendment by Representative Lewis was adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Motion to Amend - Offered by Representative Martinez",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Amendment by Representative Martinez was rejected Yea: 34 Nay: 83",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Motion to Amend - Offered by Representative Vaughn",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Amendment by Representative Vaughn was rejected Yea: 36 Nay: 85",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Motion to Amend - Offered by Representative McDonald",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Amendment by Representative McDonald was rejected Yea: 36 Nay: 86",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Motion to Amend - Offered by Representative Schlingensiepen",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Amendment by Representative Schlingensiepen was rejected Yea: 36 Nay: 81",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Motion to Amend - Offered by Representative Lewis",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Amendment by Representative Lewis was adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Motion to Amend - Offered by Representative Ruiz, S.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Amendment by Representative Ruiz, S. was rejected Yea: 42 Nay: 76",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Motion to Amend - Offered by Representative Ruiz, S.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Amendment by Representative Ruiz, S. was rejected",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Motion to Amend - Offered by Representative Ruiz, S.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Amendment by Representative Ruiz, S. was rejected",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Motion to Amend - Offered by Representative Wikle",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Amendment by Representative Wikle was withdrawn",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Motion to Amend - Offered by Representative Mosley",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Amendment by Representative Mosley was rejected Yea: 38 Nay: 77",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Motion to Amend - Offered by Representative Sawyer Clayton",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Amendment by Representative Sawyer Clayton was rejected Yea: 34 Nay: 82",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Motion to Amend - Offered by Representative Simmons",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Representative Humphries raised a question of germaneness. The amendment was ruled not germane.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Motion to Amend - Offered by Representative McDonald",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Amendment by Representative McDonald was rejected",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Motion to Amend - Offered by Representative Woodard",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Representative Humphries raised a question of germaneness. The amendment was ruled not germane.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Committee of the Whole - Substitute bill be passed as amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "House Emergency Final Action - Substitute passed as amended; Yea: 87 Nay: 36",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Senate Concurred with amendments; Yea: 30 Nay: 9",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Senate Enrolled and presented to Governor on Tuesday, February 3, 2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "Senate Vetoed by Governor; Returned to Senate on Friday, February 13, 2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Senate Motion to override veto prevailed; Yea: 31 Nay: 9",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "House Motion to override veto prevailed; Yea: 87 Nay: 37",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-19",
+      "description": "Senate Emergency Final Action - Passed as amended - Yea: 37 Nay: 3",
+      "yea": 37,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-28",
+      "description": "House Committee of the Whole - Amendment by Representative Martinez was rejected - Yea: 34 Nay: 83",
+      "yea": 34,
+      "nay": 83,
+      "passed": 0
+    },
+    {
+      "date": "2026-01-28",
+      "description": "House Committee of the Whole - Amendment by Representative Vaughn was rejected - Yea: 36 Nay: 85",
+      "yea": 36,
+      "nay": 85,
+      "passed": 0
+    },
+    {
+      "date": "2026-01-28",
+      "description": "House Committee of the Whole - Amendment by Representative McDonald was rejected - Yea: 36 Nay: 86",
+      "yea": 36,
+      "nay": 86,
+      "passed": 0
+    },
+    {
+      "date": "2026-01-28",
+      "description": "House Committee of the Whole - Amendment by Representative Schlingensiepen was rejected - Yea: 36 Nay: 81",
+      "yea": 36,
+      "nay": 81,
+      "passed": 0
+    },
+    {
+      "date": "2026-01-28",
+      "description": "House Committee of the Whole - Amendment by Representative Ruiz, S. was rejected - Yea: 42 Nay: 76",
+      "yea": 42,
+      "nay": 76,
+      "passed": 0
+    },
+    {
+      "date": "2026-01-28",
+      "description": "House Committee of the Whole - Amendment by Representative Mosley was rejected - Yea: 38 Nay: 77",
+      "yea": 38,
+      "nay": 77,
+      "passed": 0
+    },
+    {
+      "date": "2026-01-28",
+      "description": "House Committee of the Whole - Amendment by Representative Sawyer Clayton was rejected - Yea: 34 Nay: 82",
+      "yea": 34,
+      "nay": 82,
+      "passed": 0
+    },
+    {
+      "date": "2026-01-28",
+      "description": "House Emergency Final Action - Substitute passed as amended - Yea: 87 Nay: 36",
+      "yea": 87,
+      "nay": 36,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-28",
+      "description": "Senate Concurred with amendments - Yea: 30 Nay: 9",
+      "yea": 30,
+      "nay": 9,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-17",
+      "description": "Senate Motion to override veto prevailed - Yea: 31 Nay: 9",
+      "yea": 31,
+      "nay": 9,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-18",
+      "description": "House Motion to override veto prevailed - Yea: 87 Nay: 37",
+      "yea": 87,
+      "nay": 37,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-06",
+      "type": "Introduced",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/sb244_00_0000.pdf",
+      "doc_id": 3106912
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Amended",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/sb244_01_0000.pdf",
+      "doc_id": 3131814
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/sb244_02_0000.pdf",
+      "doc_id": 3333618
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Amended",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/sb244_03_0000.pdf",
+      "doc_id": 3339359
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Amended",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/sb244_enrolled.pdf",
+      "doc_id": 3345331
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

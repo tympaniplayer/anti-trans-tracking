@@ -1,0 +1,59 @@
+{
+  "id": 1961098,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB3315",
+  "title": "CONVERSION THERAPY PROHIBITION",
+  "summary": "Amends the Youth Mental Health Protection Act. Changes the name of the Act to the Conversion Therapy Prohibition Act. Provides that the General Assembly finds and declares Illinois has a compelling interest in protecting the physical and psychological well-being of all lesbian, gay, bisexual, and transgender individuals in this State and in protecting such individuals against exposure to serious harms caused by sexual orientation change efforts, also known as conversion therapy. Provides that under no circumstances shall a mental health provider engage in sexual orientation change efforts with any person in this State. Provides that any sexual orientation change efforts attempted on any person in this State by a mental health provider may be considered unprofessional conduct. Provides that mental health providers found to have engaged in a sexual orientation change effort on a patient may be subject to discipline by the Department of Financial and Professional Regulation or the disciplinary review board with competent jurisdiction. Amends the Department of Professional Regulation Law. Provides that the Department of Financial and Professional Regulation may revoke, suspend, place on probation, reprimand, refuse to renew, or take any other disciplinary action it deems warranted with regard to the license of any mental health provider issued by the Department upon a finding that the mental health provider offers or conducts conversion therapy services in violation of the Conversion Therapy Prohibition Act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB3315/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB3315/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3315&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Rita Mayfield (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-06",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-06",
+      "action": "Filed with the Clerk by Rep. Rita Mayfield",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-07",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=201593&DocName=10400HB3315&DocNum=3315&DocTypeID=HB&LegID=161805&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3107501
+    }
+  ],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
+  "subjects": []
+}

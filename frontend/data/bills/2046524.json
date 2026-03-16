@@ -1,0 +1,51 @@
+{
+  "id": 2046524,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB3003",
+  "title": "Fair Sentencing Act",
+  "summary": "A bill to prohibit the consideration of perceived gender identity in sentencing.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB3003/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB3003/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3003/all-info",
+  "sponsors": [
+    "Tom Cotton (R) [Sen]"
+  ],
+  "introduced_date": "2025-10-14",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-10-14",
+      "action": "Read twice and referred to the Committee on the Judiciary.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-22",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s3003/BILLS-119s3003is.pdf",
+      "doc_id": 3274448
+    }
+  ],
+  "committee": {
+    "committee_id": 2330,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crime and law enforcement"
+  ]
+}

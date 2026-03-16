@@ -1,0 +1,54 @@
+{
+  "id": 1957857,
+  "state": "KS",
+  "state_name": "Kansas",
+  "bill_number": "SB212",
+  "title": "Enacting the prescription drug cost and affordability review act to establish the prescription drug pricing board and prescription drug affordability stakeholder council to review the cost of prescription medications and establish upper payment limits for certain prescription drugs.",
+  "summary": "Enacting the prescription drug cost and affordability review act to establish the prescription drug pricing board and prescription drug affordability stakeholder council to review the cost of prescription medications and establish upper payment limits for certain prescription drugs.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KS/bill/SB212/2025",
+  "legiscan_url": "https://legiscan.com/KS/bill/SB212/2025",
+  "state_url": "https://kslegislature.gov/li/b2025_26/measures/sb212/",
+  "sponsors": [
+    "Dinah Sykes (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-05",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-05",
+      "action": "Senate Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Senate Referred to Committee on Financial Institutions and Insurance",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-05",
+      "type": "Introduced",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/sb212_00_0000.pdf",
+      "doc_id": 3103048
+    }
+  ],
+  "committee": {
+    "committee_id": 1405,
+    "chamber": "S",
+    "chamber_id": 42,
+    "name": "Financial Institutions and Insurance"
+  },
+  "subjects": []
+}

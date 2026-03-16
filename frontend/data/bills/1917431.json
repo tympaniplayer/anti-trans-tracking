@@ -1,0 +1,82 @@
+{
+  "id": 1917431,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SR21",
+  "title": "A resolution designating October 10, 2025, as \"American Girls in Sports Day\".",
+  "summary": "A resolution designating October 10, 2025, as \"American Girls in Sports Day\".",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SR21/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SR21/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/21/all-info",
+  "sponsors": [
+    "Marsha Blackburn (R) [Sen]",
+    "Cindy Hyde-Smith (R) [Sen]",
+    "James Lankford (R) [Sen]",
+    "Roger Marshall (R) [Sen]",
+    "Ron Johnson (R) [Sen]",
+    "James Risch (R) [Sen]",
+    "Thom Tillis (R) [Sen]",
+    "Chuck Grassley (R) [Sen]",
+    "John Hoeven (R) [Sen]",
+    "Tom Cotton (R) [Sen]",
+    "Joni Ernst (R) [Sen]",
+    "John Barrasso (R) [Sen]",
+    "Eric Schmitt (R) [Sen]",
+    "Katie Boyd Britt (R) [Sen]",
+    "John Cornyn (R) [Sen]",
+    "Cynthia Lummis (R) [Sen]",
+    "Roger Wicker (R) [Sen]",
+    "Tommy Tuberville (R) [Sen]",
+    "Steve Daines (R) [Sen]",
+    "Lindsey Graham (R) [Sen]",
+    "Ted Cruz (R) [Sen]",
+    "Mike Lee (R) [Sen]",
+    "Kevin Cramer (R) [Sen]",
+    "Mike Crapo (R) [Sen]",
+    "Tim Sheehy (R) [Sen]",
+    "Dan Sullivan (R) [Sen]",
+    "Bill Cassidy (R) [Sen]",
+    "Bill Hagerty (R) [Sen]",
+    "Pete Ricketts (R) [Sen]",
+    "Deb Fischer (R) [Sen]",
+    "Jim Banks (R) [Sen]",
+    "John Thune (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-13",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-01-13",
+      "action": "Referred to the Committee on Commerce, Science, and Transportation.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-14",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/sres21/BILLS-119sres21is.pdf",
+      "doc_id": 3056469
+    }
+  ],
+  "committee": {
+    "committee_id": 2323,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Commerce, Science, And Transportation"
+  },
+  "subjects": [
+    "Sports and recreation"
+  ]
+}

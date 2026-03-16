@@ -1,0 +1,58 @@
+{
+  "id": 2039728,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB1745",
+  "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for prohibition against denial or abridgment of equality of rights because of sex.",
+  "summary": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for prohibition against denial or abridgment of equality of rights because of sex.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB1745/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB1745/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb1745",
+  "sponsors": [
+    "Stephanie Borowicz (R) [Rep]",
+    "Milou Mackenzie (R) [Rep]",
+    "Joe Hamm (R) [Rep]",
+    "Andrew Kuzma (R) [Rep]",
+    "Robert Kauffman (R) [Rep]",
+    "David Zimmerman (R) [Rep]",
+    "Jamie Walsh (R) [Rep]",
+    "Robert Leadbeter (R) [Rep]",
+    "Jacob Banta (R) [Rep]",
+    "Donna Scheuren (R) [Rep]"
+  ],
+  "introduced_date": "2025-07-21",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-07-21",
+      "action": "Referred to Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1745/PN2151",
+      "doc_id": 3262446
+    }
+  ],
+  "committee": {
+    "committee_id": 53,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

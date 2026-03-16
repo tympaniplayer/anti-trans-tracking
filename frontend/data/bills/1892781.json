@@ -1,0 +1,248 @@
+{
+  "id": 1892781,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB406",
+  "title": "Relating to the required inclusion of a person's sex on a birth certificate and prohibited change of sex on the birth certificate of certain persons.",
+  "summary": "Relating to the required inclusion of a person's sex on a birth certificate and prohibited change of sex on the birth certificate of certain persons.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "identity_documents"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB406/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB406/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB406",
+  "sponsors": [
+    "Mayes Middleton (R) [Sen]",
+    "Peter Flores (R) [Sen]",
+    "Bob Hall (R) [Sen]",
+    "Lois Kolkhorst (R) [Sen]"
+  ],
+  "introduced_date": "2025-04-03",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-21",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2024-11-21",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Co-author authorized",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Referred to State Affairs",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Considered in public hearing",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Testimony taken in committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Left pending in committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Considered in public hearing",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Vote taken in committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Reported favorably w/o amendments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Committee report printed and distributed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Co-author authorized",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Placed on intent calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Not again placed on intent calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Placed on intent calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Co-author authorized",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Rules suspended-Regular order of business",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Record vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Read 2nd time & passed to engrossment",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Record vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Rules suspended-Regular order of business",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Record vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Read 3rd time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Passed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Record vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Reported engrossed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Received from the Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Referred to Public Health",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-02",
+      "description": "Rules suspended-Regular order of business",
+      "yea": 20,
+      "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-02",
+      "description": "Read 2nd time & passed to engrossment",
+      "yea": 20,
+      "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-03",
+      "description": "Rules suspended-Regular order of business",
+      "yea": 20,
+      "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-03",
+      "description": "Read 3rd time",
+      "yea": 20,
+      "nay": 11,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2024-11-21",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00406I.htm",
+      "doc_id": 3028925
+    },
+    {
+      "date": "2025-03-17",
+      "type": "Comm Sub",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00406S.htm",
+      "doc_id": 3178140
+    },
+    {
+      "date": "2025-04-03",
+      "type": "Engrossed",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00406E.htm",
+      "doc_id": 3200982
+    }
+  ],
+  "committee": {
+    "committee_id": 1892,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Public Health"
+  },
+  "subjects": [
+    "Health",
+    "Health--General",
+    "BIRTH & DEATH CERTIFICATES",
+    "HEALTH & HUMAN SERVICES COMMISSION"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": 2103450,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S2857",
+  "title": "To ensure access to medical parole",
+  "summary": "For legislationfor legislation to grant elder and medical parole, report the accompanying bill (Senate, No. 2857).",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S2857/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S2857/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S2857",
+  "sponsors": [
+    "Joint Committee on Public Safety and Homeland Security [Jnt]"
+  ],
+  "introduced_date": "2026-01-22",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2026-01-22",
+      "action": "Reported from the committee on Public Safety and Homeland Security",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "New draft of S1707 and S1722",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Bill reported favorably by committee and referred to the Joint Committee on Health Care Financing",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Committee recommended ought to pass and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-22",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S2857.pdf",
+      "doc_id": 3343315
+    }
+  ],
+  "committee": {
+    "committee_id": 746,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

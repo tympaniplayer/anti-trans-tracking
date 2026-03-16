@@ -1,0 +1,55 @@
+{
+  "id": 2018336,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "HF3024",
+  "title": "Foster youth bill of rights established.",
+  "summary": "Foster youth bill of rights established.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/HF3024/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/HF3024/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3024/",
+  "sponsors": [
+    "Jessica Hanson (D) [Rep]",
+    "Xp Lee (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-01",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-04-01",
+      "action": "Introduction and first reading, referred to Children and Families Finance and Policy",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Author added Lee, X.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-01",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/3024/versions/0/pdf/",
+      "doc_id": 3197192
+    }
+  ],
+  "committee": {
+    "committee_id": 4654,
+    "chamber": "H",
+    "chamber_id": 55,
+    "name": "Children and Families Finance and Policy"
+  },
+  "subjects": []
+}

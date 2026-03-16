@@ -1,0 +1,78 @@
+{
+  "id": 2125859,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A10357",
+  "title": "Provides for the protection of health information; establishes requirements for communications to individuals about their health information; requires either written consent or a designated necessary purpose for the processing of an individual's health information.",
+  "summary": "Provides for the protection of health information; establishes requirements for communications to individuals about their health information; requires either written consent or a designated necessary purpose for the processing of an individual's health information.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A10357/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A10357/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A10357",
+  "sponsors": [
+    "Linda Rosenthal (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "Jeffrey Dinowitz (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Deborah Glick (D) [Rep]",
+    "Brian Cunningham (D) [Rep]",
+    "Yudelka Tapia (D) [Rep]",
+    "Maryjane Shimsky (D) [Rep]",
+    "Rodneyse Bichotte Hermelyn (D) [Rep]",
+    "Christopher Burdick (D) [Rep]",
+    "Edward Braunstein (D) [Rep]",
+    "Nikki Lucas (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Albert Stirpe (D) [Rep]",
+    "Ron Kim (D) [Rep]",
+    "Erik Dilan (D) [Rep]",
+    "Alfred Taylor (D) [Rep]",
+    "Amanda Septimo (D) [Rep]",
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Marcela Mitaynes (D) [Rep]",
+    "Philip Ramos (D) [Rep]",
+    "Steven Otis (D) [Rep]",
+    "David Weprin (D) [Rep]",
+    "Anna Kelles (D) [Rep]",
+    "Grace Lee (D) [Rep]",
+    "Kwani O'Pharrow (D) [Rep]",
+    "Stacey Pheffer Amato (D) [Rep]",
+    "Emily Gallagher (D) [Rep]",
+    "Gabriella Romero (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-26",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "action": "referred to science and technology",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-26",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A10357&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A10357",
+      "doc_id": 3378460
+    }
+  ],
+  "committee": {
+    "committee_id": 4506,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Science and Technology"
+  },
+  "subjects": []
+}

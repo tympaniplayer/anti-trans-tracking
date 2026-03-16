@@ -1,0 +1,74 @@
+{
+  "id": 2091079,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HB1789",
+  "title": "Relating To Health Care.",
+  "summary": "Establishes a Health Care for All Hawaii Board to design and recommend the Health Care for All Hawaii plan that is publicly funded and available to every resident of the State. Establishes values and principles for the board in developing its plan, designates the scope of the plan, requires the board to establish an advisory committee to provide consumer perspective input, and requires the board to submit the plan to the Legislature. Appropriates funds. Repeals 6/30/2027.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HB1789/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HB1789/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1789&year=2026",
+  "sponsors": [
+    "Amy Perruso (D) [Rep]",
+    "Terez Amato (D) [Rep]",
+    "Della au Belatti (D) [Rep]",
+    "Tina Grandinetti (D) [Rep]",
+    "Ikaika Hussey (D) [Rep]",
+    "Kim Iwamoto (D) [Rep]",
+    "Jeanne Kapela (D) [Rep]",
+    "Mahina Poepoe (D) [Rep]",
+    "Kanani Souza (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-22",
+      "action": "Pending introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Introduced and Pass First Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Referred to HLT/HSH, CPC, FIN, referral sheet 1",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-22",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1789_.HTM",
+      "doc_id": 3329279
+    }
+  ],
+  "committee": {
+    "committee_id": 2042,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Health"
+  },
+  "subjects": [
+    "Health Care for All Hawaii Board",
+    "Health Care for All Hawaii Plan",
+    "Advisory Committee",
+    "Recommendations",
+    "Report",
+    "Appropriation ($)"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": 2109773,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB3740",
+  "title": "DHFS-MTAC-NETWORK RECRUITMENT",
+  "summary": "Amends the Medicaid Technical Assistance Act. Requires the Medicaid Technical Assistance Center to collaborate with public and private partners throughout the State to identify, establish, and maintain best practices necessary for health providers to ensure their capacity to participate in the Illinois Medical Assistance Program (rather than ensure their capacity to participate in HealthChoice Illinois or YouthCare). Requires the Medicaid Technical Assistance Center to promote equitable delivery systems, remaining committed to the principle that all Medicaid recipients have accessible and equitable physical and mental health care services. Removes provisions concerning the Medicaid Technical Assistance Center's administration of network adequacy reports, and instead requires the Medicaid Technical Assistance Center to administer a network requirement plan. Provides that by using reports and data provided by the Department of Healthcare and Family Service's External Quality Review Organization on network adequacy, provider service deserts, and health care disparities by race and ethnicity, the Medicaid Technical Assistance Center shall propose for Department review and approval an annual plan for recruiting providers to participate in the Illinois Medical Assistance Program and report on outcomes of its recruitment efforts to the Department for continuous improvement. Repeals a provision requiring the Department to maximize federal financial participation for any moneys appropriated to the Department for the Medicaid Technical Assistance Center and to deposit all federal financial participation funds into the Medicaid Technical Assistance Center Fund. Repeals a provision creating the Medicaid Technical Assistance Center Fund. Amends the State Finance Act. Provides for the dissolution of the Medicaid Technical Assistance Center Fund on July 1, 2026, or as soon thereafter as practical, after the transfer of all remaining funds into the Healthcare Provider Relief Fund. Effective July 1, 2026.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB3740/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB3740/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3740&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "Mattie Hunter (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "Filed with Secretary by Sen. Mattie Hunter",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Assigned to Appropriations- Health and Human Services",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Rule 2-10 Committee Deadline Established As April 24, 2026",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=208386&DocName=10400SB3740&DocNum=3740&DocTypeID=SB&LegID=167039&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3355177
+    }
+  ],
+  "committee": {
+    "committee_id": 4767,
+    "chamber": "S",
+    "chamber_id": 36,
+    "name": "Appropriations - Health and Human Services"
+  },
+  "subjects": []
+}

@@ -1,0 +1,219 @@
+{
+  "id": 2061335,
+  "state": "AZ",
+  "state_name": "Arizona",
+  "bill_number": "SCR1006",
+  "title": "Schools; biological sex; requirements",
+  "summary": "Schools; biological sex; requirements",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AZ/bill/SCR1006/2026",
+  "legiscan_url": "https://legiscan.com/AZ/bill/SCR1006/2026",
+  "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/83743",
+  "sponsors": [
+    "John Kavanagh (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-23",
+  "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
+  "actions": [
+    {
+      "date": "2025-12-30",
+      "action": "Prefile",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Introduced in Senate and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Assigned to Senate GOV Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Assigned to Senate RULES Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Senate read second time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Senate GOV Committee action: Do Pass, voting: (4-3-0-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Senate RULES Committee action: Proper For Consideration, voting: (5-3-1-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Senate consent calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Senate majority caucus: Do pass",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Senate minority caucus: Do pass",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Senate Committee of the Whole action: Do Pass",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Senate third reading PASSED voting: (16-11-3-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Transmit to House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Introduced in House and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Assigned to House ED Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Assigned to House RULES Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "House read second time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "House ED Committee action: Do Pass, voting: (7-5-0-0-0-0)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "House RULES Committee action: constitutional and in proper form, voting: (5-0-0-3-0-0)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "House consent calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "House majority caucus: Do pass",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "House minority caucus: Do pass",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-28",
+      "description": "Senate Government Committee Action (DP)",
+      "yea": 4,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-02",
+      "description": "Senate Rules Committee Action (PFC)",
+      "yea": 5,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-23",
+      "description": "Senate - Committee of the Whole (DP)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-23",
+      "description": "Senate - Third Reading",
+      "yea": 16,
+      "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-03",
+      "description": "House Education Committee Action (DP)",
+      "yea": 7,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-09",
+      "description": "House Rules Committee Action (C&P)",
+      "yea": 5,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-12-30",
+      "type": "Introduced",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/scr1006p.htm",
+      "doc_id": 3293973
+    },
+    {
+      "date": "2026-02-23",
+      "type": "Engrossed",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/bills/scr1006s.htm",
+      "doc_id": 3372678
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Biological Sex",
+    "Cause Of Action",
+    "Changing Facilities",
+    "Concurrent Resolution",
+    "Definition",
+    "Definitions",
+    "Enacting",
+    "Ordering",
+    "Parental Permission",
+    "Policies",
+    "Prohibition",
+    "Pronouns",
+    "Public Schools",
+    "Reasonable Accommodations",
+    "Requirements",
+    "Restrooms",
+    "Schools",
+    "Severability",
+    "Sleeping Quarters"
+  ]
+}

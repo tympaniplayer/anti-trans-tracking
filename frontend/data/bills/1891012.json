@@ -1,0 +1,72 @@
+{
+  "id": 1891012,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB189",
+  "title": "Relating to a criminal offense committed against a person because of bias or prejudice on the basis of sexual orientation or gender identity.",
+  "summary": "Relating to a criminal offense committed against a person because of bias or prejudice on the basis of sexual orientation or gender identity.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB189/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB189/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB189",
+  "sponsors": [
+    "Jose Menendez (D) [Sen]"
+  ],
+  "introduced_date": "2024-11-12",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-12",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2024-11-12",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Referred to Criminal Justice",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-11-12",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00189I.htm",
+      "doc_id": 3026665
+    }
+  ],
+  "committee": {
+    "committee_id": 1906,
+    "chamber": "S",
+    "chamber_id": 92,
+    "name": "Criminal Justice"
+  },
+  "subjects": [
+    "Crimes",
+    "Crimes--Against Persons",
+    "Crimes--Against Persons--General",
+    "Criminal Procedure",
+    "Criminal Procedure--General",
+    "GENDER IDENTITY & EXPRESSION",
+    "SEXUAL ORIENTATION"
+  ]
+}

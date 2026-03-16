@@ -1,0 +1,56 @@
+{
+  "id": 2041782,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S08476",
+  "title": "Increases criminal penalties for aggravated harassment of an elected official and criminal trespass of an elected official's residence; provides that aggravated harassment of an elected official shall be a class E felony and criminal trespass of an elected official's residence shall be included in criminal trespass in the first degree and shall be a class D felony.",
+  "summary": "Increases criminal penalties for aggravated harassment of an elected official and criminal trespass of an elected official's residence; provides that aggravated harassment of an elected official shall be a class E felony and criminal trespass of an elected official's residence shall be included in criminal trespass in the first degree and shall be a class D felony.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S08476/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S08476/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S8476",
+  "sponsors": [
+    "Alexis Weik (R) [Sen]",
+    "Anthony Palumbo (R) [Sen]",
+    "Steven Rhoads (R) [Sen]"
+  ],
+  "introduced_date": "2025-08-13",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-08-13",
+      "action": "REFERRED TO RULES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-08-13",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S08476&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S08476",
+      "doc_id": 3264977
+    }
+  ],
+  "committee": {
+    "committee_id": 417,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Codes"
+  },
+  "subjects": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1993386,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "SB388",
+  "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for prohibition against denial or abridgment of equality of rights because of sex.",
+  "summary": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for prohibition against denial or abridgment of equality of rights because of sex.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/SB388/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/SB388/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/sb388",
+  "sponsors": [
+    "Lisa Boscola (D) [Sen]",
+    "Sharif Street (D) [Sen]",
+    "Nikil Saval (D) [Sen]",
+    "Carolyn Comitta (D) [Sen]",
+    "Wayne Fontana (D) [Sen]",
+    "Timothy Kearney (D) [Sen]",
+    "Judy Schwank (D) [Sen]",
+    "Maria Collett (D) [Sen]",
+    "Christine Tartaglione (D) [Sen]",
+    "Jay Costa (D) [Sen]",
+    "Arthur Haywood (D) [Sen]",
+    "John Kane (D) [Sen]",
+    "Steven Santarsiero (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-06",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-06",
+      "action": "Referred to State Government",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB0388/PN0334",
+      "doc_id": 3156174
+    }
+  ],
+  "committee": {
+    "committee_id": 84,
+    "chamber": "S",
+    "chamber_id": 4,
+    "name": "State Government"
+  },
+  "subjects": []
+}

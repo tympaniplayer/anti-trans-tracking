@@ -1,0 +1,64 @@
+{
+  "id": 2017046,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H3980",
+  "title": "Establishing LGBTQIA+ parent advisory councils in the Commonwealth",
+  "summary": "For legislation to establish LGBTQIA+ parent advisory councils in public schools. Education.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H3980/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H3980/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H3980",
+  "sponsors": [
+    "Carmine Gentile (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-24",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-03-24",
+      "action": "Referred to the committee on House Rules, reported, referred to the committee on Joint Rules, reported, rules suspended and referred to the Joint Committee on Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-29",
+      "action": "Hearing scheduled for 11/12/2025 from 11:00 AM-05:00 PM in Gardner Auditorium",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Reporting date extended to Wednesday, March 18, 2026",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-24",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H3980.pdf",
+      "doc_id": 3194492
+    }
+  ],
+  "committee": {
+    "committee_id": 757,
+    "chamber": "J",
+    "chamber_id": 103,
+    "name": "Education"
+  },
+  "subjects": []
+}

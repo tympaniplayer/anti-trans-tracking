@@ -1,0 +1,59 @@
+{
+  "id": 1923484,
+  "state": "NE",
+  "state_name": "Nebraska",
+  "bill_number": "LB368",
+  "title": "Establish the Nebraska Youth in Care Bill of Rights",
+  "summary": "Establish the Nebraska Youth in Care Bill of Rights",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NE/bill/LB368/2025",
+  "legiscan_url": "https://legiscan.com/NE/bill/LB368/2025",
+  "state_url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59523",
+  "sponsors": [
+    "Megan Hunt (N) [Sen]"
+  ],
+  "introduced_date": "2025-01-16",
+  "session": "109th Legislature",
+  "actions": [
+    {
+      "date": "2025-01-16",
+      "action": "Date of introduction",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Referred to Judiciary Committee",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Notice of hearing for February 07, 2025",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Title printed. Carryover bill",
+      "chamber": "L"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB368.pdf",
+      "doc_id": 3060584
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

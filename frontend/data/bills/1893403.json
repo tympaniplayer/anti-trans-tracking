@@ -1,0 +1,111 @@
+{
+  "id": 1893403,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB63",
+  "title": "Loitering with intent to commit prostitution.",
+  "summary": "An act to add Sections 653.20 and 653.22 to the Penal Code, relating to crimes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB63/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB63/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB63",
+  "sponsors": [
+    "Michelle Rodriguez (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2024-12-02",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2024-12-03",
+      "action": "From printer. May be heard in committee January 2.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Referred to Com. on PUB. S.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on PUB. S. Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on PUB. S. Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Re-referred to Com. on PUB. S.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on PUB. S. Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "Re-referred to Com. on PUB. S.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Joint Rule 62(a) suspended. (Page 1307.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "In committee: Hearing for testimony only.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-31",
+      "action": "Died pursuant to Art. IV, Sec. 10(c) of the Constitution.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "From committee: Filed with the Chief Clerk pursuant to Joint Rule 56.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-12-02",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB63#99INT",
+      "doc_id": 3029616
+    },
+    {
+      "date": "2025-03-24",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB63#98AMD",
+      "doc_id": 3186919
+    },
+    {
+      "date": "2025-03-27",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB63#97AMD",
+      "doc_id": 3192677
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

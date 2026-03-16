@@ -1,0 +1,54 @@
+{
+  "id": 1907916,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S01252",
+  "title": "Establishes a rebuttable presumption of a hate crime when certain crimes are committed on, in or upon a house of worship.",
+  "summary": "Establishes a rebuttable presumption of a hate crime when certain crimes are committed on, in or upon a house of worship.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S01252/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S01252/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S1252",
+  "sponsors": [
+    "Joseph Addabbo (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-08",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S01252&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S01252",
+      "doc_id": 3043612
+    }
+  ],
+  "committee": {
+    "committee_id": 417,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Codes"
+  },
+  "subjects": []
+}

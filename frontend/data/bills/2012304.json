@@ -1,0 +1,210 @@
+{
+  "id": 2012304,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "SB146",
+  "title": "Prohibiting persons who have been convicted of a violent crime from changing their name and providing a penalty.",
+  "summary": "An Act to amend 69.11 (4) (b), 69.12 (1), 69.15 (4) (b), 767.395 and 786.36 (1) (intro.); to create 941.2915 of the statutes; Relating to: prohibiting persons who have been convicted of a violent crime from changing their name and providing a penalty.",
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/SB146/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/SB146/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/sen/bill/sb146",
+  "sponsors": [
+    "Van Wanggaard (R) [Sen]",
+    "Andre Jacque (R) [Sen]",
+    "Dan Feyen (R) [Sen]",
+    "Steve Nass (R) [Sen]",
+    "Joy Goeben (R) [Rep]",
+    "Brent Jacobson (R) [Rep]",
+    "William Penterman (R) [Rep]",
+    "Rob Kreibich (R) [Rep]",
+    "Barbara Dittrich (R) [Rep]",
+    "Scott Allen (R) [Rep]",
+    "Dan Knodl (R) [Rep]",
+    "Chuck Wichgers (R) [Rep]",
+    "David Murphy (R) [Rep]",
+    "Lindee Brill (R) [Rep]",
+    "Jeffrey Mursau (R) [Rep]",
+    "Elijah Behnke (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-15",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-21",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Read first time and referred to Committee on Judiciary and Public Safety",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Public hearing held",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-02",
+      "action": "Senate Amendment 1 offered by Senator Wanggaard",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Executive action taken",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Report adoption of Senate Amendment 1 recommended by Committee on Judiciary and Public Safety, Ayes 7, Noes 1",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Report passage as amended recommended by Committee on Judiciary and Public Safety, Ayes 5, Noes 3",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Available for scheduling",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Placed on calendar 5-15-2025 pursuant to Senate Rule 18(1)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Read a second time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Senate Amendment 1 adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Ordered to a third reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Rules suspended to give bill its third reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Read a third time and passed, Ayes 18, Noes 15",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Ordered immediately messaged",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Received from Senate",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Representative O'Connor added as a cosponsor",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Read first time and referred to committee on Rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Placed on calendar 1-13-2026 by Committee on Rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Rules suspended to withdraw from calendar and take up",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Read a second time",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Ordered to a third reading",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Rules suspended",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Read a third time and concurred in, Ayes 54, Noes 45",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Ordered immediately messaged",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Received from Assembly concurred in",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "Report correctly enrolled",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-15",
+      "description": "Senate: Read a third time and passed",
+      "yea": 18,
+      "nay": 15,
+      "passed": 1
+    },
+    {
+      "date": "2026-01-13",
+      "description": "Assembly: Read a third time and concurred in",
+      "yea": 54,
+      "nay": 45,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-03-21",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/SB146.pdf",
+      "doc_id": 3184443
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Enrolled",
+      "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/SB146.pdf",
+      "doc_id": 3316724
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

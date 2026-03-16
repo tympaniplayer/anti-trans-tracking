@@ -1,0 +1,88 @@
+{
+  "id": 1977922,
+  "state": "IA",
+  "state_name": "Iowa",
+  "bill_number": "HSB242",
+  "title": "A bill for an act relating to sex and gender, including those and related terms for purposes of statutory construction, indications of a person's sex on certain vital records, gender identity under the Iowa civil rights Act, and school curricula related to gender theory.(See HF 583.)",
+  "summary": "A bill for an act relating to sex and gender, including those and related terms for purposes of statutory construction, indications of a person's sex on certain vital records, gender identity under the Iowa civil rights Act, and school curricula related to gender theory.(See HF 583.)",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "identity_documents"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IA/bill/HSB242/2025",
+  "legiscan_url": "https://legiscan.com/IA/bill/HSB242/2025",
+  "state_url": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HSB242",
+  "sponsors": [
+    "Judiciary [Rep]"
+  ],
+  "introduced_date": "2025-02-20",
+  "session": "91st General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-20",
+      "action": "By COMMITTEE ON JUDICIARY",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Introduced, referred to Judiciary. H.J. 405.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Subcommittee: Holt, Fett and Wilburn. H.J. 409.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-23",
+      "action": "Subcommittee Meeting: 02/24/2025 11:00AM RM 103.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Subcommittee recommends passage.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Committee report, recommending amendment and passage. H.J. 421.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Committee vote: Yeas, 13. Nays, 8. H.J. 421.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Committee report approving bill, renumbered as HF 583.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-24",
+      "description": "House Committee On Judiciary Report",
+      "yea": 13,
+      "nay": 8,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-20",
+      "type": "Introduced",
+      "url": "https://www.legis.iowa.gov/docs/publications/LGI/91/attachments/HSB242.html",
+      "doc_id": 3133906
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

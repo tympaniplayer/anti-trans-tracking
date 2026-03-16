@@ -1,0 +1,64 @@
+{
+  "id": 2000655,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H576",
+  "title": "To reduce exclusionary discipline for violations of rules related to student grooming and dress",
+  "summary": "Relative to exclusionary discipline for violations of rules related to student grooming and dress. Education.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H576/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H576/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H576",
+  "sponsors": [
+    "Brandy Fluker-Reid (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-25",
+      "action": "Hearing scheduled for 07/08/2025 from 01:00 PM-05:00 PM in B-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-09-15",
+      "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H576.pdf",
+      "doc_id": 3166627
+    }
+  ],
+  "committee": {
+    "committee_id": 737,
+    "chamber": "H",
+    "chamber_id": 51,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

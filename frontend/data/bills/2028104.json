@@ -1,0 +1,54 @@
+{
+  "id": 2028104,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB1551",
+  "title": "No Subsidies for Gender Transition Procedures Act",
+  "summary": "A bill to deny tax deductions and other Federal funding for the costs of gender transition procedures.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB1551/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB1551/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1551/all-info",
+  "sponsors": [
+    "Roger Marshall (R) [Sen]",
+    "Pete Ricketts (R) [Sen]",
+    "Bill Cassidy (R) [Sen]",
+    "Mike Lee (R) [Sen]"
+  ],
+  "introduced_date": "2025-05-01",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-05-01",
+      "action": "Read twice and referred to the Committee on Finance.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-13",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s1551/BILLS-119s1551is.pdf",
+      "doc_id": 3236638
+    }
+  ],
+  "committee": {
+    "committee_id": 2326,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Finance"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

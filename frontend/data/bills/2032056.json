@@ -1,0 +1,55 @@
+{
+  "id": 2032056,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB1774",
+  "title": "Protecting Minors in Federal Health Plans Act",
+  "summary": "A bill to amend title 5, United States Code, to provide that certain treatments may not be covered under the health insurance program carried out under chapter 89 of that title, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB1774/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB1774/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1774/all-info",
+  "sponsors": [
+    "James Risch (R) [Sen]",
+    "Cynthia Lummis (R) [Sen]",
+    "Pete Ricketts (R) [Sen]",
+    "Kevin Cramer (R) [Sen]"
+  ],
+  "introduced_date": "2025-05-15",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-05-15",
+      "action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-29",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s1774/BILLS-119s1774is.pdf",
+      "doc_id": 3248284
+    }
+  ],
+  "committee": {
+    "committee_id": 2329,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Homeland Security And Governmental Affairs"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

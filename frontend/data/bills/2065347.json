@@ -1,0 +1,51 @@
+{
+  "id": 2065347,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0576",
+  "title": "An act relating to establishing the Affirming Health Care Trust Fund for costs related to gender-affirming health care services",
+  "summary": "An act relating to establishing the Affirming Health Care Trust Fund for costs related to gender-affirming health care services",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0576/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0576/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.576",
+  "sponsors": [
+    "Daisy Berbeco (D) [Rep]",
+    "Tiffany Bluemle (D) [Rep]",
+    "Troy Headrick (I) [Rep]"
+  ],
+  "introduced_date": "2026-01-06",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "action": "Read first time and referred to the Committee on Health Care",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-05",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0576/H-0576%20As%20Introduced.pdf",
+      "doc_id": 3299672
+    }
+  ],
+  "committee": {
+    "committee_id": 788,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "Health Care"
+  },
+  "subjects": []
+}

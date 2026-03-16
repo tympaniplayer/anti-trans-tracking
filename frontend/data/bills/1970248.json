@@ -1,0 +1,66 @@
+{
+  "id": 1970248,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "HF768",
+  "title": "Department of Human Rights prohibited from maintaining a collection or database on incidents of protected speech.",
+  "summary": "Department of Human Rights prohibited from maintaining a collection or database on incidents of protected speech.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/HF768/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/HF768/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/768/",
+  "sponsors": [
+    "Walter Hudson (R) [Rep]",
+    "Harry Niska (R) [Rep]",
+    "Jeff Dotseth (R) [Rep]",
+    "Steve Gander (R) [Rep]",
+    "Paul Novotny (R) [Rep]",
+    "Peggy Scott (R) [Rep]",
+    "Krista Knudsen (R) [Rep]",
+    "John Burkel (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-13",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-02-13",
+      "action": "Introduction and first reading, referred to Judiciary Finance and Civil Law",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Author added Scott",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Authors added Knudsen and Burkel",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-12",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/768/versions/0/pdf/",
+      "doc_id": 3119794
+    }
+  ],
+  "committee": {
+    "committee_id": 3806,
+    "chamber": "H",
+    "chamber_id": 55,
+    "name": "Judiciary Finance and Civil Law"
+  },
+  "subjects": []
+}

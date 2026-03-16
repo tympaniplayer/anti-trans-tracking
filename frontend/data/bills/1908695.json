@@ -1,0 +1,59 @@
+{
+  "id": 1908695,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A01159",
+  "title": "Designates offenses against law enforcement officers as hate crimes; designates making graffiti as a specified offense.",
+  "summary": "Designates offenses against law enforcement officers as hate crimes; designates making graffiti as a specified offense.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A01159/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A01159/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A1159",
+  "sponsors": [
+    "Edward Ra (R) [Rep]",
+    "Karl Brabenec (R) [Rep]",
+    "Michael Durso (R) [Rep]",
+    "Jarett Gandolfo (R) [Rep]",
+    "Philip Palmesano (R) [Rep]",
+    "Matthew Slater (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-09",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-09",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to codes",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-09",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A01159&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A01159",
+      "doc_id": 3045504
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

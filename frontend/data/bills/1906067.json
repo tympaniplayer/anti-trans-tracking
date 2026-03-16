@@ -1,0 +1,59 @@
+{
+  "id": 1906067,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB0040",
+  "title": "POLICE TRAINING-HATE CRIMES",
+  "summary": "Amends the Illinois Police Training Act. Provides that the Illinois Law Enforcement Training Standards Board shall conduct or approve training programs in crimes motivated by bias. Includes requirements for the training programs. Requires the training for new law enforcement officers and allows continuing education credits for current law enforcement officers who complete the training.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB0040/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB0040/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=40&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Bob Morgan (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-09",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2024-12-06",
+      "action": "Prefiled with Clerk by Rep. Bob Morgan",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-09",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-09",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=195466&DocName=10400HB0040&DocNum=40&DocTypeID=HB&LegID=155700&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3044322
+    }
+  ],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
+  "subjects": []
+}

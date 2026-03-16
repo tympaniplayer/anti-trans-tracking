@@ -1,0 +1,90 @@
+{
+  "id": 2026301,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB1311",
+  "title": "In general provisions relating to offenses involving danger to the person, further providing for definitions.",
+  "summary": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in general provisions relating to offenses involving danger to the person, further providing for definitions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB1311/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB1311/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb1311",
+  "sponsors": [
+    "Ben Sanchez (D) [Rep]",
+    "Michael Schlossberg (D) [Rep]",
+    "Emily Kinkead (D) [Rep]",
+    "Benjamin Waxman (D) [Rep]",
+    "Nancy Guenst (D) [Rep]",
+    "Arvind Venkat (D) [Rep]",
+    "Christopher Pielli (D) [Rep]",
+    "Malcolm Kenyatta (D) [Rep]",
+    "Tarik Khan (D) [Rep]",
+    "Steven Malagari (D) [Rep]",
+    "Jose Giral (D) [Rep]",
+    "Jessica Benham (D) [Rep]",
+    "Timothy Brennan (D) [Rep]",
+    "Joseph Hohenstein (D) [Rep]",
+    "Kristine Howard (D) [Rep]",
+    "Abigail Salisbury (D) [Rep]",
+    "Joseph Ciresi (D) [Rep]",
+    "Mary Jo Daley (D) [Rep]",
+    "Roni Green (D) [Rep]",
+    "Maureen Madden (D) [Rep]",
+    "Melissa Cerrato (D) [Rep]",
+    "Johanny Cepeda-Freytiz (D) [Rep]",
+    "La'Tasha Mayes (D) [Rep]",
+    "Lisa Borowski (D) [Rep]",
+    "Danielle Otten (D) [Rep]",
+    "Christopher Rabb (D) [Rep]",
+    "Nikki Rivera (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-28",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-04-28",
+      "action": "Referred to Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-10",
+      "description": "House Judiciary: PN1504 A02585, Adopt Amendment",
+      "yea": 14,
+      "nay": 12,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-10",
+      "description": "House Judiciary: PN1504, Report Bill As Amended",
+      "yea": 14,
+      "nay": 12,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1311/PN1504",
+      "doc_id": 3223409
+    }
+  ],
+  "committee": {
+    "committee_id": 53,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

@@ -1,0 +1,84 @@
+{
+  "id": 2042875,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4416",
+  "title": "Enhancing child welfare protections",
+  "summary": "Enhancing child welfare protections",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4416/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4416/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4416",
+  "sponsors": [
+    "Joint Committee on Children, Families and Persons with Disabilities [Jnt]"
+  ],
+  "introduced_date": "2025-08-28",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-08-28",
+      "action": "Reported from the committee on Children, Families and Persons with Disabilities",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-28",
+      "action": "New draft of H227 and H262",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-28",
+      "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "Committee recommended ought to pass with an amendment, substituting therefor a bill with the same title, see H4644",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "Referred to the committee on House Steering, Policy and Scheduling with the amendment pending",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "Committee reported that the matter be placed in the Orders of the Day for the next sitting for a second reading with the amendment pending",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "Rules suspended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "Read second, amended (as recommended by the committee on House Ways and Means)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "New draft substituted, see H4644",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-08-28",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4416.pdf",
+      "doc_id": 3266677
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

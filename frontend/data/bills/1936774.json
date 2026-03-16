@@ -1,0 +1,62 @@
+{
+  "id": 1936774,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB600",
+  "title": "WHO is Accountable Act",
+  "summary": "To prohibit the use of funds to seek membership in the World Health Organization or to provide assessed or voluntary contributions to the World Health Organization.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB600/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB600/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/600/all-info",
+  "sponsors": [
+    "Jodey Arrington (R) [Rep]",
+    "Dan Crenshaw (R) [Rep]",
+    "Ron Estes (R) [Rep]",
+    "Greg Steube (R) [Rep]",
+    "Anna Luna (R) [Rep]",
+    "Brandon Gill (R) [Rep]",
+    "Andy Harris (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-22",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-01-22",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-22",
+      "action": "Referred to the House Committee on Foreign Affairs.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-11",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr600/BILLS-119hr600ih.pdf",
+      "doc_id": 3112188
+    }
+  ],
+  "committee": {
+    "committee_id": 2305,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Foreign Affairs"
+  },
+  "subjects": [
+    "International affairs"
+  ]
+}

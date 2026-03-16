@@ -1,0 +1,66 @@
+{
+  "id": 1976855,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB3075",
+  "title": "Relating to a prohibition on the provision of state money to entities that promote certain ideological programs and the establishment of a division in the Legislative Budget Board to ensure such entities do not receive state money; authorizing the imposition of a civil penalty.",
+  "summary": "Relating to a prohibition on the provision of state money to entities that promote certain ideological programs and the establishment of a division in the Legislative Budget Board to ensure such entities do not receive state money; authorizing the imposition of a civil penalty.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB3075/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB3075/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3075",
+  "sponsors": [
+    "Don McLaughlin (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-20",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-20",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Referred to State Affairs",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-20",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB03075I.htm",
+      "doc_id": 3132498
+    }
+  ],
+  "committee": {
+    "committee_id": 1895,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "Civil Remedies & Liabilities",
+    "State Agencies, Boards & Commissions",
+    "State Finances",
+    "State Finances--Appropriations",
+    "State Finances--Management & Control",
+    "LEGISLATIVE BUDGET BOARD"
+  ]
+}

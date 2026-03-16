@@ -1,0 +1,71 @@
+{
+  "id": 2132406,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HR433",
+  "title": "Recognizing March 31, 2026, as \"Transgender Day of Visibility\" in Pennsylvania.",
+  "summary": "A Resolution recognizing March 31, 2026, as \"Transgender Day of Visibility\" in Pennsylvania.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HR433/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HR433/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hr433",
+  "sponsors": [
+    "Ismail Smith-Wade-El (D) [Rep]",
+    "Andre Carroll (D) [Rep]",
+    "Jessica Benham (D) [Rep]",
+    "La'Tasha Mayes (D) [Rep]",
+    "Abigail Salisbury (D) [Rep]",
+    "Gregory Scott (D) [Rep]",
+    "Malcolm Kenyatta (D) [Rep]",
+    "Paul Takac (D) [Rep]",
+    "Joseph Hohenstein (D) [Rep]",
+    "Nancy Guenst (D) [Rep]",
+    "Nikki Rivera (D) [Rep]",
+    "Melissa Shusterman (D) [Rep]",
+    "Benjamin Waxman (D) [Rep]",
+    "Jeanne McNeill (D) [Rep]",
+    "Dan Frankel (D) [Rep]",
+    "Carol Hill-Evans (D) [Rep]",
+    "Ben Sanchez (D) [Rep]",
+    "Lindsay Powell (D) [Rep]",
+    "Danilo Burgos (D) [Rep]",
+    "Robert Merski (D) [Rep]",
+    "Justin Fleming (D) [Rep]",
+    "Heather Boyd (D) [Rep]",
+    "Johanny Cepeda-Freytiz (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-12",
+      "action": "Referred to State Government",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-12",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HR0433/PN2991",
+      "doc_id": 3392409
+    }
+  ],
+  "committee": {
+    "committee_id": 59,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "State Government"
+  },
+  "subjects": []
+}

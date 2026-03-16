@@ -1,0 +1,70 @@
+{
+  "id": 2018602,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SCR11",
+  "title": "A concurrent resolution supporting the goals and ideals of International Transgender Day of Visibility.",
+  "summary": "A concurrent resolution supporting the goals and ideals of International Transgender Day of Visibility.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SCR11/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SCR11/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/11/all-info",
+  "sponsors": [
+    "Brian Schatz (D) [Sen]",
+    "John Fetterman (D) [Sen]",
+    "Jacky Rosen (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Sheldon Whitehouse (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-31",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-03-31",
+      "action": "Read twice and referred to the Committee on the Judiciary. (text: CR S1931)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-02",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/sconres11/BILLS-119sconres11is.pdf",
+      "doc_id": 3200016
+    }
+  ],
+  "committee": {
+    "committee_id": 2330,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

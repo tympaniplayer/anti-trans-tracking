@@ -1,0 +1,92 @@
+{
+  "id": 1910842,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A01607",
+  "title": "Relates to the provision of breast pumps and related collection and storage materials to certain incarcerated nursing birth parents others who are confined in or committed to an institution or local correctional facility with or without their child subject to specific time limitations; requires institutions and local correctional facilities to provide pumps and related materials to such incarcerated birth parents, but not beyond the date such child reaches twenty-four months of age except in limited circumstances related to parole; allows children to remain with their incarcerated birth parents in a correctional institution until twenty-four months of age, or longer in certain cases related to parole; requires the commissioner of corrections and community supervision to issue an annual report on data relating to incarcerated birth parents.",
+  "summary": "Relates to the provision of breast pumps and related collection and storage materials to certain incarcerated nursing birth parents others who are confined in or committed to an institution or local correctional facility with or without their child subject to specific time limitations; requires institutions and local correctional facilities to provide pumps and related materials to such incarcerated birth parents, but not beyond the date such child reaches twenty-four months of age except in limited circumstances related to parole; allows children to remain with their incarcerated birth parents in a correctional institution until twenty-four months of age, or longer in certain cases related to parole; requires the commissioner of corrections and community supervision to issue an annual report on data relating to incarcerated birth parents.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "bathrooms"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A01607/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A01607/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A1607",
+  "sponsors": [
+    "Linda Rosenthal (D) [Rep]",
+    "Anna Kelles (D) [Rep]",
+    "Catalina Cruz (D) [Rep]",
+    "Deborah Glick (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "Maritza Davila (D) [Rep]",
+    "Nikki Lucas (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Maryjane Shimsky (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Yudelka Tapia (D) [Rep]",
+    "Tony Simone (D) [Rep]",
+    "Steven Raga (D) [Rep]",
+    "Christopher Burdick (D) [Rep]",
+    "David Weprin (D) [Rep]",
+    "Charles Lavine (D) [Rep]",
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Amy Paulin (D) [Rep]",
+    "Harvey Epstein (D) [Rep]",
+    "Demond Meeks (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-10",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-10",
+      "action": "referred to correction",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "amend and recommit to correction",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "print number 1607a",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to correction",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-10",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A01607&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A01607",
+      "doc_id": 3047666
+    },
+    {
+      "date": "2025-01-10",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A01607&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A01607A",
+      "doc_id": 3230510
+    }
+  ],
+  "committee": {
+    "committee_id": 360,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Correction"
+  },
+  "subjects": []
+}

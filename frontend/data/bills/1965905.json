@@ -1,0 +1,57 @@
+{
+  "id": 1965905,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB1208",
+  "title": "No Tax Breaks for Radical Corporate Activism Act",
+  "summary": "To amend the Internal Revenue Code of 1986 to deny the trade or business expense deduction for the reimbursement of employee costs of child gender transition procedure or travel to obtain an abortion.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB1208/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB1208/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/1208/all-info",
+  "sponsors": [
+    "Brian Mast (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-11",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-02-11",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "Referred to the House Committee on Ways and Means.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-12",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr1208/BILLS-119hr1208ih.pdf",
+      "doc_id": 3166318
+    }
+  ],
+  "committee": {
+    "committee_id": 2317,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Ways And Means"
+  },
+  "subjects": [
+    "Taxation"
+  ]
+}

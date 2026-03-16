@@ -1,0 +1,65 @@
+{
+  "id": 1908390,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A01273",
+  "title": "Prohibits motor vehicle insurers from discrimination on the basis of socioeconomic factors in determining algorithms used to construct actuarial tables, coverage terms, premiums and/or rates.",
+  "summary": "Prohibits motor vehicle insurers from discrimination on the basis of socioeconomic factors in determining algorithms used to construct actuarial tables, coverage terms, premiums and/or rates.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A01273/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A01273/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A1273",
+  "sponsors": [
+    "Crystal Peoples-Stokes (D) [Rep]",
+    "Phillip Steck (D) [Rep]",
+    "Zohran Kwame Mamdani (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Amy Paulin (D) [Rep]",
+    "Anna Kelles (D) [Rep]",
+    "Alicia Hyndman (D) [Rep]",
+    "George Alvarez (D) [Rep]",
+    "Jennifer Lunsford (D) [Rep]",
+    "Khaleel Anderson (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Alfred Taylor (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-09",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-09",
+      "action": "referred to insurance",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to insurance",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-09",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A01273&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A01273",
+      "doc_id": 3047486
+    }
+  ],
+  "committee": {
+    "committee_id": 372,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Insurance"
+  },
+  "subjects": []
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1961043,
+  "state": "GA",
+  "state_name": "Georgia",
+  "bill_number": "SB120",
+  "title": "Education; public schools, local education agencies, and public postsecondary institutions shall not promote, support, or maintain any programs or activities that advocate for diversity, equity, and inclusion",
+  "summary": "A BILL to be entitled an Act to amend Article 1 of Chapter 1 of Title 20 of the Official Code of Georgia Annotated, relating to general provisions relative to education, so as to provide that public schools, local education agencies, and public postsecondary institutions shall not promote, support, or maintain any programs or activities that advocate for diversity, equity, and inclusion; to provide for sanctions; to provide for definitions; to provide for related matters; to provide for an effective date and applicability; to repeal conflicting laws; and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/GA/bill/SB120/2025",
+  "legiscan_url": "https://legiscan.com/GA/bill/SB120/2025",
+  "state_url": "https://www.legis.ga.gov/legislation/70042",
+  "sponsors": [
+    "Marty Harbin (R) [Sen]",
+    "Steve Gooch (R) [Sen]",
+    "Max Burns (R) [Sen]",
+    "John Albers (R) [Sen]",
+    "Frank Ginn (R) [Sen]",
+    "Billy Hickman (R) [Sen]",
+    "Carden Summers (R) [Sen]",
+    "Colton Moore (R) [Sen]",
+    "Sam Watson (R) [Sen]",
+    "Ricky Williams (R) [Sen]",
+    "Timothy Bearden (R) [Sen]",
+    "Jason Anavitarte (R) [Sen]",
+    "Chuck Payne (R) [Sen]",
+    "Matt Brass (R) [Sen]",
+    "Brandon Beach (R) [Sen]",
+    "Lee Anderson (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-06",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-06",
+      "action": "Senate Hopper",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Senate Read and Referred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Senate Committee Favorably Reported By Substitute",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Senate Read Second Time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Senate Tabled",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Senate Taken from Table",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Senate Recommitted",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-07",
+      "type": "Introduced",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/231596",
+      "doc_id": 3107319
+    },
+    {
+      "date": "2025-03-03",
+      "type": "Comm Sub",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234746",
+      "doc_id": 3151114
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": 2037963,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR536",
+  "title": "Supporting the designation of the week including June 23, 2025, as \"National Women's Sports Week\" to celebrate the anniversary of the passage of title IX and the growth of women's sports.",
+  "summary": "Supporting the designation of the week including June 23, 2025, as \"National Women's Sports Week\" to celebrate the anniversary of the passage of title IX and the growth of women's sports.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR536/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR536/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/536/all-info",
+  "sponsors": [
+    "Claudia Tenney (R) [Rep]",
+    "Ralph Norman (R) [Rep]",
+    "Nancy Mace (R) [Rep]",
+    "Randy Weber (R) [Rep]",
+    "Mary Miller (R) [Rep]"
+  ],
+  "introduced_date": "2025-06-23",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-23",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-23",
+      "action": "Referred to the House Committee on Education and Workforce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-24",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres536/BILLS-119hres536ih.pdf",
+      "doc_id": 3258091
+    }
+  ],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": [
+    "Sports and recreation"
+  ]
+}

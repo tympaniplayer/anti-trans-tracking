@@ -1,0 +1,66 @@
+{
+  "id": 2037845,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB4061",
+  "title": "District of Columbia Local Juror Non-Discrimination Act of 2025",
+  "summary": "To amend title 11, District of Columbia Official Code, to prohibit the exclusion of individuals from service on a District of Columbia jury on account of sexual orientation or gender identity.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB4061/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB4061/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4061/all-info",
+  "sponsors": [
+    "Eleanor Norton (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-20",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-20",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Sponsor introductory remarks on measure. (CR E595)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Referred to the House Committee on Oversight and Government Reform.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-08",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr4061/BILLS-119hr4061ih.pdf",
+      "doc_id": 3260918
+    }
+  ],
+  "committee": {
+    "committee_id": 2311,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Oversight And Government Reform"
+  },
+  "subjects": [
+    "Law"
+  ]
+}

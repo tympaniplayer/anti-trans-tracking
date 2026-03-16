@@ -1,0 +1,49 @@
+{
+  "id": 1987826,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0451",
+  "title": "An act relating to promoting racial and economic justice",
+  "summary": "An act relating to promoting racial and economic justice",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0451/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0451/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.451",
+  "sponsors": [
+    "Elizabeth Burrows (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-28",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-02-28",
+      "action": "Read first time and referred to the Committee on General and Housing",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0451/H-0451%20As%20Introduced.pdf",
+      "doc_id": 3146776
+    }
+  ],
+  "committee": {
+    "committee_id": 4666,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "General and Housing"
+  },
+  "subjects": []
+}

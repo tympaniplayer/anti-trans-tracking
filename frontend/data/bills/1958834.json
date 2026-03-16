@@ -1,0 +1,65 @@
+{
+  "id": 1958834,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "S0322",
+  "title": "Free Speech",
+  "summary": "Amend The South Carolina Code Of Laws So As To Enact The \"free To Speak Act\"; By Adding Section 59-1-505 So As To Prohibit Public School Employees From Knowingly And Intentionally Addressing An Unemancipated Minor Who Is A Student At The School Where The Employee Is Employed By A Pronoun Or Title That Is Inconsistent With The Student's Sex Without The Written Permission Of A Student's Parent Or Guardian, And To Protect Public School Employees From Adverse Employment Action For Declining To Address A Student Using A Pronoun That Is Inconsistent With The Student's Sex, For Declining To Identify His Pronouns, And For Other Reasons, And To Require The Governing Body Of Each School District To Adopt Policies Consistent With This Code Section; And By Adding Section 59-101-680 So As To Prohibit Public Institutions Of Higher Learning Employees From Knowingly And Intentionally Addressing An Unemancipated Minor Who Is A Student At The School Where The Employee Is Employed By A Pronoun Or Title That Is Inconsistent With The Student's Sex, And To Protect Employees Of Institutions Of Higher Learning From Adverse Employment Action For Declining To Address A Student Using A Pronoun That Is Inconsistent With The Student's Sex, For Declining To Identify His Pronouns, And For Other Reasons, And To Require The Governing Body Of Each Public Institution Of Higher Learning To Adopt Policies Consistent With This Code Section.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/S0322/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/S0322/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=0322&session=126&summary=B",
+  "sponsors": [
+    "Richard Cash (R) [Sen]",
+    "Tom Fernandez (R) [Sen]",
+    "Brian Adams (R) [Sen]",
+    "Mike Reichenbach (R) [Sen]",
+    "Matthew Leber (R) [Sen]",
+    "Rex Rice (R) [Sen]",
+    "Billy Garrett (R) [Sen]",
+    "Carlisle Kennedy (R) [Sen]",
+    "Michael Gambrell (R) [Sen]",
+    "Joshua Kimbrell (R) [Sen]",
+    "Danny Verdin (R) [Sen]",
+    "Thomas Corbin (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-06",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-06",
+      "action": "Introduced and read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Referred to Committee on Education",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-06",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/322_20250206.htm",
+      "doc_id": 3104424
+    }
+  ],
+  "committee": {
+    "committee_id": 720,
+    "chamber": "S",
+    "chamber_id": 86,
+    "name": "Education"
+  },
+  "subjects": []
+}

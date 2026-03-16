@@ -1,0 +1,116 @@
+{
+  "id": 2110107,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB974",
+  "title": "Electricity and Gas - Retail Supply (Freedom From Monopolies Act)",
+  "summary": "Repealing the authorization of the Public Service Commission to license certain energy salespersons; altering the amount of a certain assessment charged to a certain public service company; changing the name of the Education and Protection Fund to the Retail Choice Customer Education and Protection Fund; modifying the purpose and uses of the Fund; altering the scope of a certain training and educational program developed by the Commission; etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB974/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB974/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0974?ys=2026RS",
+  "sponsors": [
+    "Brian Chisholm (R) [Rep]",
+    "Christopher Adams (R) [Rep]",
+    "Steven Arentz (R) [Rep]",
+    "Lauren Arikan (R) [Rep]",
+    "Barry Beauchamp (R) [Rep]",
+    "Christopher Bouchat (R) [Rep]",
+    "Jason Buckel (R) [Rep]",
+    "Barrie Ciliberti (R) [Rep]",
+    "Mark Fisher (R) [Rep]",
+    "Robin Grammer (R) [Rep]",
+    "Wayne Hartman (R) [Rep]",
+    "Kevin Hornberger (R) [Rep]",
+    "Nicholaus Kipke (R) [Rep]",
+    "Bob Long (R) [Rep]",
+    "Nino Mangione (R) [Rep]",
+    "Susan McComas (R) [Rep]",
+    "Ric Metzgar (R) [Rep]",
+    "April Fleming Miller (R) [Rep]",
+    "Matt Morgan (R) [Rep]",
+    "Ryan Nawrocki (R) [Rep]",
+    "LaToya Nkongolo (R) [Rep]",
+    "April Rose (R) [Rep]",
+    "Stuart Schmidt (R) [Rep]",
+    "Kathy Szeliga (R) [Rep]",
+    "Chris Tomlinson (R) [Rep]",
+    "William Valentine (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-06",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "action": "First Reading Environment and Transportation",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Hearing 2/27 at 1:00 p.m.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "Hearing canceled",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "Hearing 3/06 at 1:00 p.m.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Hearing canceled",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Hearing 3/06 at 1:30 p.m.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0974f.pdf",
+      "doc_id": 3352202
+    }
+  ],
+  "committee": {
+    "committee_id": 3266,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Environment and Transportation"
+  },
+  "subjects": [
+    "Utility Regulation",
+    "Commerce and Business",
+    "Consumer Protection",
+    "Disclosure",
+    "Job Training",
+    "Licenses",
+    "Names",
+    "Notices",
+    "Penalties and Sentences",
+    "Reimbursements",
+    "Reports",
+    "Retail Sales",
+    "Revenue and Taxes",
+    "Rules and Regulations",
+    "Utilities",
+    "Work, Labor, and Employment"
+  ]
+}

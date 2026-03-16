@@ -1,0 +1,114 @@
+{
+  "id": 2123032,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB5579",
+  "title": "Labor: fair employment practices; use of electronic monitoring or automated decisions tools by an employer; prohibit except for certain purposes. Creates new act.",
+  "summary": "Labor: fair employment practices; use of electronic monitoring or automated decisions tools by an employer; prohibit except for certain purposes. Creates new act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB5579/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB5579/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HB-5579",
+  "sponsors": [
+    "Penelope Tsernoglou (D) [Rep]",
+    "Stephen Wooden (D) [Rep]",
+    "Matt Koleszar (D) [Rep]",
+    "Cynthia Neeley (D) [Rep]",
+    "Jason Morgan (D) [Rep]",
+    "Erin Byrnes (D) [Rep]",
+    "Mai Xiong (D) [Rep]",
+    "Kelly Breen (D) [Rep]",
+    "Mike McFall (D) [Rep]",
+    "Stephanie Young (D) [Rep]",
+    "Tonya Myers Phillips (D) [Rep]",
+    "Julie Brixie (D) [Rep]",
+    "Veronica Paiz (D) [Rep]",
+    "Natalie Price (D) [Rep]",
+    "Carrie Rheingans (D) [Rep]",
+    "Reggie Miller (D) [Rep]",
+    "Noah Arbit (D) [Rep]",
+    "Emily Dievendorf (D) [Rep]",
+    "Matt Longjohn (D) [Rep]",
+    "Regina Weiss (D) [Rep]",
+    "Jennifer Conlin (D) [Rep]",
+    "Julie Rogers (D) [Rep]",
+    "Brenda Carter (D) [Rep]",
+    "Joseph Tate (D) [Rep]",
+    "John Fitzgerald (D) [Rep]",
+    "Tullio Liberati (D) [Rep]",
+    "Peter Herzberg (D) [Rep]",
+    "Phil Skaggs (D) [Rep]",
+    "Sharon MacDonell (D) [Rep]",
+    "Helena Scott (D) [Rep]",
+    "Laurie Pohutsky (D) [Rep]",
+    "Tyrone Carter (D) [Rep]",
+    "Jimmie Wilson (D) [Rep]",
+    "Morgan Foreman (D) [Rep]",
+    "Joey Andrews (D) [Rep]",
+    "Kristian Grant (D) [Rep]",
+    "Jason Hoskins (D) [Rep]",
+    "Will Snyder (D) [Rep]",
+    "Amos O'Neal (D) [Rep]",
+    "Jasper Martus (D) [Rep]",
+    "Dylan Wegela (D) [Rep]",
+    "Kimberly Edwards (D) [Rep]",
+    "Donavan McKinney (D) [Rep]",
+    "Alabas Farhat (D) [Rep]",
+    "Samantha Steckloff (D) [Rep]",
+    "Betsy Coffia (D) [Rep]",
+    "Kara Hope (D) [Rep]",
+    "Denise Mentzer (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-24",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2026-02-24",
+      "action": "Introduced By Representative Rep. Penelope Tsernoglou",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Referred To Committee On Economic Competitiveness",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Bill Electronically Reproduced 02/24/2026",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-24",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2026-HIB-5579.htm",
+      "doc_id": 3373691
+    }
+  ],
+  "committee": {
+    "committee_id": 5089,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Economic Competitiveness"
+  },
+  "subjects": [
+    "Labor: fair employment practices",
+    "Communications: artificial intelligence"
+  ]
+}

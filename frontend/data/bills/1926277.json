@@ -1,0 +1,321 @@
+{
+  "id": 1926277,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB260",
+  "title": "Sexual and reproductive health care.",
+  "summary": "An act to amend Sections 2519, 2761, 2878, 4076, and 4521 of, to add Sections 687, 850.3, and 4318 to, and to repeal Section 601 of, the Business and Professions Code, to amend Section 56.110 of the Civil Code, to amend Section 6925 of the Family Code, to amend Sections 1367.21, 1375.61, and 111480 of, and to add Sections 1220.2, 1265.12, and 111376 to, the Health and Safety Code, to amend Sections 10123.195 and 10133.641 of the Insurance Code, to amend Sections 3405 and 4028 of, and to repeal Section 1108 of, the Penal Code, and to amend Sections 220 and 1773 of the Welfare and Institutions Code, relating to sexual and reproductive health care, and declaring the urgency thereof, to take effect immediately.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB260/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB260/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB260",
+  "sponsors": [
+    "Cecilia Aguiar-Curry (D) [Rep]",
+    "Darshana Patel (D) [Rep]",
+    "Rebecca Bauer-Kahan (D) [Rep]",
+    "Marc Berman (D) [Rep]",
+    "Jessica Caloza (D) [Rep]",
+    "Sabrina Cervantes (D) [Sen]",
+    "Robert Garcia (D) [Rep]",
+    "Lena Gonzalez (D) [Sen]",
+    "Maggy Krell (D) [Rep]",
+    "Monique Limon (D) [Sen]",
+    "Liz Ortega (D) [Rep]",
+    "Diane Papan (D) [Rep]",
+    "Gail Pellerin (D) [Rep]",
+    "Cottie Petrie-Norris (D) [Rep]",
+    "Sharon Quirk-Silva (D) [Rep]",
+    "Susan Rubio (D) [Sen]",
+    "Catherine Stefani (D) [Rep]",
+    "Aisha Wahab (D) [Sen]",
+    "Akilah Weber Pierson (D) [Sen]",
+    "Anamarie Farias (D) [Rep]"
+  ],
+  "introduced_date": "2025-09-26",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-16",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-01-17",
+      "action": "From printer. May be heard in committee February 16.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Referred to Coms. on HEALTH and B. & P.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on HEALTH. Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Re-referred to Com. on HEALTH.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Coauthors revised.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "From committee: Do pass and re-refer to Com. on B. & P. (Ayes 12. Noes 1.) (April 8). Re-referred to Com. on B. & P.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Coauthors revised.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 14. Noes 1.) (April 29). Re-referred to Com. on APPR.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "From committee: Do pass. (Ayes 11. Noes 4.) (May 14).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-19",
+      "action": "Read third time. Passed. Ordered to the Senate. (Ayes 61. Noes 11. Page 1601.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Referred to Coms. on HEALTH and B. P. & E.D.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on HEALTH.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "From committee: Amend, and do pass as amended and re-refer to Com. on B. P. & E.D. (Ayes 6. Noes 1.) (June 11).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Read second time and amended. Re-referred to Com. on B. P. & E.D.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on B. P. & E.D.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-23",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 8. Noes 2.) (June 23). Re-referred to Com. on APPR.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-07",
+      "action": "In committee: Referred to APPR. suspense file.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-29",
+      "action": "From committee: Do pass. (Ayes 5. Noes 2.) (August 29).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-29",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-05",
+      "action": "Read third time and amended. Ordered to second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-08",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-09",
+      "action": "Read third time. Urgency clause adopted. Passed. Ordered to the Assembly. (Ayes 30. Noes 8. Page 2736.).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-09",
+      "action": "In Assembly. Concurrence in Senate amendments pending.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-10",
+      "action": "Urgency clause adopted. Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 61. Noes 12. Page 3193.).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-22",
+      "action": "Enrolled and presented to the Governor at 3 p.m.",
+      "chamber": ""
+    },
+    {
+      "date": "2025-09-26",
+      "action": "Approved by the Governor.",
+      "chamber": ""
+    },
+    {
+      "date": "2025-09-26",
+      "action": "Chaptered by Secretary of State - Chapter 136, Statutes of 2025.",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-08",
+      "description": "Do pass and be re-referred to the Committee on [Business and Professions]",
+      "yea": 12,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-29",
+      "description": "Do pass and be re-referred to the Committee on [Appropriations]",
+      "yea": 14,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-14",
+      "description": "Do pass",
+      "yea": 11,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-19",
+      "description": "AB 260 Aguiar-Curry Assembly Third Reading",
+      "yea": 61,
+      "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-11",
+      "description": "Do pass as amended, but first amend, and re-refer to the Committee on [Business, Professions and Economic Development]",
+      "yea": 6,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-23",
+      "description": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+      "yea": 8,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-07",
+      "description": "Placed on suspense file",
+      "yea": 6,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-08-29",
+      "description": "Do pass",
+      "yea": 5,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-09",
+      "description": "Assembly 3rd Reading AB260 Aguiar-Curry et al. By Lim\u00f3n Urgency Clause",
+      "yea": 30,
+      "nay": 8,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-10",
+      "description": "AB 260 Aguiar-Curry Concurrence - Urgency Added",
+      "yea": 61,
+      "nay": 12,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB260#99INT",
+      "doc_id": 3063633
+    },
+    {
+      "date": "2025-03-17",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB260#98AMD",
+      "doc_id": 3178773
+    },
+    {
+      "date": "2025-06-02",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB260#97AMD",
+      "doc_id": 3253185
+    },
+    {
+      "date": "2025-06-13",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB260#96AMD",
+      "doc_id": 3255818
+    },
+    {
+      "date": "2025-06-18",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB260#95AMD",
+      "doc_id": 3257082
+    },
+    {
+      "date": "2025-09-05",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB260#94AMD",
+      "doc_id": 3267876
+    },
+    {
+      "date": "2025-09-12",
+      "type": "Enrolled",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB260#93ENR",
+      "doc_id": 3268983
+    },
+    {
+      "date": "2025-09-26",
+      "type": "Chaptered",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB260#92CHP",
+      "doc_id": 3270945
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

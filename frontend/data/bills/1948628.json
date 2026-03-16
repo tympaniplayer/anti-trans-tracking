@@ -1,0 +1,70 @@
+{
+  "id": 1948628,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A04018",
+  "title": "Establishes the New York dignity in pregnancy and childbirth act to require hospitals and other facilities that provide perinatal care to implement an evidence-based implicit bias program for all health care providers involved in the perinatal care of patients within those facilities; requires hospitals to provide expectant birthing parents with written information regarding certain patient rights; requires information related to pregnancy, if known, to be included on death certificates.",
+  "summary": "Establishes the New York dignity in pregnancy and childbirth act to require hospitals and other facilities that provide perinatal care to implement an evidence-based implicit bias program for all health care providers involved in the perinatal care of patients within those facilities; requires hospitals to provide expectant birthing parents with written information regarding certain patient rights; requires information related to pregnancy, if known, to be included on death certificates.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A04018/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A04018/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A4018",
+  "sponsors": [
+    "Phara Souffrant Forrest (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Jennifer Lunsford (D) [Rep]",
+    "Zohran Kwame Mamdani (D) [Rep]",
+    "Eddie Gibbs (D) [Rep]",
+    "Sarahana Shrestha (D) [Rep]",
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Rodneyse Bichotte Hermelyn (D) [Rep]",
+    "Emily Gallagher (D) [Rep]",
+    "Demond Meeks (D) [Rep]",
+    "Harvey Epstein (D) [Rep]",
+    "Tony Simone (D) [Rep]",
+    "Steven Raga (D) [Rep]",
+    "Yudelka Tapia (D) [Rep]",
+    "Catalina Cruz (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-30",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-30",
+      "action": "referred to health",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to health",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-30",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A04018&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A04018",
+      "doc_id": 3092706
+    }
+  ],
+  "committee": {
+    "committee_id": 369,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Health"
+  },
+  "subjects": []
+}

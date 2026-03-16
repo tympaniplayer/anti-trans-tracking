@@ -1,0 +1,54 @@
+{
+  "id": 1951486,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S04154",
+  "title": "Relates to certain discriminatory practices; relates to the qualification of professionals in education; provides for the tolling of certain statutes of limitations; provides a private cause of action for a person who is qualified for a public contract who has been deprived of equal opportunity to such public contract.",
+  "summary": "Relates to certain discriminatory practices; relates to the qualification of professionals in education; provides for the tolling of certain statutes of limitations; provides a private cause of action for a person who is qualified for a public contract who has been deprived of equal opportunity to such public contract.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S04154/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S04154/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S4154",
+  "sponsors": [
+    "James Sanders (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-03",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-03",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S04154&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S04154",
+      "doc_id": 3095293
+    }
+  ],
+  "committee": {
+    "committee_id": 433,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Investigations and Government Operations"
+  },
+  "subjects": []
+}

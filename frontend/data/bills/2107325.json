@@ -1,0 +1,64 @@
+{
+  "id": 2107325,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB4979",
+  "title": "HIGHER ED-SURVEY/BD/REPORT",
+  "summary": "Amends the Preventing Sexual Violence in Higher Education Act to make a change concerning the topics of the base survey. Amends the Board of Education Act to remove the requirement that each student member of the Board of Higher Education shall serve beginning on July 1. Amends various Acts relating to the governance of public universities. Provides that the academic major report provided by a university's governing board shall include, among other information, the average monthly student loan payment over a period of 10 (rather than 20) years based on the estimated cost of a student's education and the percentage of graduate jobs in which a graduate who holds a degree in a particular major or program of study remains continuously employed with the same employer in the State for 3 consecutive fiscal quarters (rather than the average job placement rate within 12 months after graduation for a graduate who holds a degree in a particular major or program of study). Effective immediately.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB4979/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB4979/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4979&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Katie Stuart (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-04",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "action": "Filed with the Clerk by Rep. Katie Stuart",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Assigned to Higher Education Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-04",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=207717&DocName=10400HB4979&DocNum=4979&DocTypeID=HB&LegID=166371&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3354704
+    }
+  ],
+  "committee": {
+    "committee_id": 210,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Higher Education"
+  },
+  "subjects": []
+}

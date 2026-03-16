@@ -1,0 +1,59 @@
+{
+  "id": 2051511,
+  "state": "FL",
+  "state_name": "Florida",
+  "bill_number": "S0348",
+  "title": "Statewide Health Care Coverage",
+  "summary": "Establishing the Task Force on Universal Health Care for a specified purpose; directing all agencies of state government to assist the task force, including furnishing information and advice deemed necessary by the task force; providing for the membership, meetings, and funding of the task force; requiring the task force to establish an advisory committee for a specified purpose; requiring the Agency for Health Care Administration to develop a plan for a Medicaid buy-in program or a public health care option for certain residents of this state, etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/FL/bill/S0348/2026",
+  "legiscan_url": "https://legiscan.com/FL/bill/S0348/2026",
+  "state_url": "https://www.flsenate.gov/Session/Bill/2026/348",
+  "sponsors": [
+    "Carlos Smith (D) [Sen]"
+  ],
+  "introduced_date": "2025-11-04",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-11-04",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-17",
+      "action": "Referred to Health Policy; Appropriations Committee on Health and Human Services; Appropriations",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Introduced",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-04",
+      "type": "Introduced",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/348/BillText/Filed/HTML",
+      "doc_id": 3283006
+    }
+  ],
+  "committee": {
+    "committee_id": 2689,
+    "chamber": "S",
+    "chamber_id": 28,
+    "name": "Health Policy"
+  },
+  "subjects": []
+}

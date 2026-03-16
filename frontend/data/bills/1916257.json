@@ -1,0 +1,284 @@
+{
+  "id": 1916257,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5262",
+  "title": "Correcting obsolete or erroneous references in statutes administered by the insurance commissioner.",
+  "summary": "Correcting obsolete or erroneous references in statutes administered by the insurance commissioner.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5262/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5262/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5262&Year=2025&Initiative=false",
+  "sponsors": [
+    "Claudia Kauffman (D) [Sen]",
+    "Jeff Wilson (R) [Sen]",
+    "T'wina Nobles (D) [Sen]",
+    "Sharon Shewmake (D) [Sen]",
+    "Yasmin Trudeau (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-14",
+      "action": "First reading, referred to Business, Financial Services & Trade.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-30",
+      "action": "Public hearing in the Senate Committee on Business, Financial Services & Trade at 8:00 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Executive action taken in the Senate Committee on Business, Financial Services & Trade at 8:00 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "BFT - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-14",
+      "action": "Passed to Rules Committee for second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Placed on second reading consent calendar.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Placed on second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "1st substitute bill substituted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Third reading, passed; yeas, 49; nays, 0; absent, 0; excused, 0.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "First reading, referred to Consumer Protection & Business.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Public hearing in the House Committee on Consumer Protection & Business at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Executive action taken in the House Committee on Consumer Protection & Business at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "CPB - Majority; do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Minority; do not pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Minority; without recommendation.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Referred to Appropriations.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-05",
+      "action": "Public hearing in the House Committee on Appropriations at 9:00 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Executive action taken in the House Committee on Appropriations at 10:30 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "APP - Majority; do pass with amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Minority; do not pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Minority; without recommendation.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Referred to Rules 2 Review.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Rules Committee relieved of further consideration. Placed on second reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Committee amendment not adopted.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Floor amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Third reading, passed; yeas, 83; nays, 13; absent, 0; excused, 2.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-18",
+      "action": "Senate concurred in House amendments.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-18",
+      "action": "Passed final passage; yeas, 46; nays, 2; absent, 0; excused, 1.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-19",
+      "action": "President signed.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Speaker signed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "Delivered to Governor.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Governor signed.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Chapter 243, 2025 Laws.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Effective date 7/27/2025*.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-13",
+      "description": "Senate Committee on Business, Financial Services & Trade: 1st substitute bill be substituted, do pass",
+      "yea": 9,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-03",
+      "description": "Senate 3rd Reading & Final Passage",
+      "yea": 49,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-02",
+      "description": "House Committee on Consumer Protection & Business: do pass",
+      "yea": 9,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-08",
+      "description": "House Committee on Appropriations: do pass with amendment(s)",
+      "yea": 17,
+      "nay": 13,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "House Final Passage as Amended by the House",
+      "yea": 83,
+      "nay": 13,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-18",
+      "description": "Senate Final Passage as Amended by the House",
+      "yea": 46,
+      "nay": 2,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-13",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5262.pdf",
+      "doc_id": 3053303
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5262-S.pdf",
+      "doc_id": 3122647
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Enrolled",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Passed%20Legislature/5262-S.PL.pdf",
+      "doc_id": 3216230
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Chaptered",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Session%20Laws/Senate/5262-S.SL.pdf",
+      "doc_id": 3238976
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

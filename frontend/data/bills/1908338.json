@@ -1,0 +1,68 @@
+{
+  "id": 1908338,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A01230",
+  "title": "Requires LGBT awareness curriculum or instruction.",
+  "summary": "Requires LGBT awareness curriculum or instruction.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A01230/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A01230/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A1230",
+  "sponsors": [
+    "Rebecca Seawright (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "Harry Bronson (D) [Rep]",
+    "Charles Lavine (D) [Rep]",
+    "Catalina Cruz (D) [Rep]",
+    "Steven Otis (D) [Rep]",
+    "Jeffrey Dinowitz (D) [Rep]",
+    "Harvey Epstein (D) [Rep]",
+    "Khaleel Anderson (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "David Weprin (D) [Rep]",
+    "Deborah Glick (D) [Rep]",
+    "Linda Rosenthal (D) [Rep]",
+    "Anna Kelles (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-09",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-09",
+      "action": "referred to education",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to education",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-09",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A01230&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A01230",
+      "doc_id": 3046845
+    }
+  ],
+  "committee": {
+    "committee_id": 362,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Education"
+  },
+  "subjects": []
+}

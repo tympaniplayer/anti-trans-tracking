@@ -1,0 +1,84 @@
+{
+  "id": 2112707,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB1032",
+  "title": "Prekindergarten Programs and Primary and Secondary Schools - Student Privacy Policy Requirements and Discrimination Reporting",
+  "summary": "Requiring public and nonpublic primary and secondary schools to adopt certain written student privacy policies and procedures; requiring nonpublic prekindergarten programs and nonpublic primary and secondary schools, beginning September 1, 2027, to report the number of  incidents of alleged discrimination to the State Department of Education annually; and requiring, beginning December 31, 2027, the submission of an annual report discussing relevant findings and trends for the immediately preceding reporting period.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB1032/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB1032/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1032?ys=2026RS",
+  "sponsors": [
+    "Sarah Wolek (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-09",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-09",
+      "action": "First Reading Ways and Means",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Hearing 3/04 at 1:00 p.m.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-10",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb1032f.pdf",
+      "doc_id": 3356298
+    }
+  ],
+  "committee": {
+    "committee_id": 1928,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Ways and Means"
+  },
+  "subjects": [
+    "Primary and Secondary Education",
+    "Education - Miscellaneous",
+    "Age",
+    "Age of Majority",
+    "complaints",
+    "Disabilities",
+    "Disclosure",
+    "Discrimination",
+    "Early Childhood Education",
+    "Education",
+    "Ethnic Affairs",
+    "Gender",
+    "Gender Identity and Expression",
+    "Names",
+    "Parents and Guardians",
+    "Personal Identifying Information",
+    "Primary Schools",
+    "Privacy",
+    "Private Schools",
+    "Public Schools",
+    "Racial Matters",
+    "Records",
+    "Religion",
+    "Reports",
+    "Secondary Schools",
+    "Sexual Orientation",
+    "Students",
+    "Time",
+    "Transportation"
+  ]
+}

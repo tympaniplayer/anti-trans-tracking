@@ -1,0 +1,65 @@
+{
+  "id": 2069778,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "H7034",
+  "title": "Prohibits landlords from inquiring about an applicant's prior incarceration and from discriminating against those who have been released from prison.",
+  "summary": "PROPERTY -- RHODE ISLAND FAIR HOUSING PRACTICES ACT - Prohibits landlords from inquiring about an applicant's prior incarceration and from discriminating against those who have been released from prison.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/H7034/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/H7034/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "John Lombardi (D) [Rep]",
+    "Raymond Hull (D) [Rep]",
+    "Edith Ajello (D) [Rep]",
+    "Enrique Sanchez (D) [Rep]",
+    "Cherie Cruz (D) [Rep]",
+    "Brandon Potter (D) [Rep]",
+    "Jennifer Stewart (D) [Rep]",
+    "Karen Alzate (D) [Rep]",
+    "Leonela Felix (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-09",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "action": "Introduced, referred to House Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Scheduled for hearing and/or consideration (03/18/2026)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-09",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H7034.pdf",
+      "doc_id": 3304553
+    }
+  ],
+  "committee": {
+    "committee_id": 1121,
+    "chamber": "H",
+    "chamber_id": 83,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Property",
+    "PROPERTY -- RHODE ISLAND FAIR HOUSING PRACTICES ACT"
+  ]
+}

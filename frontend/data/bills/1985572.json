@@ -1,0 +1,68 @@
+{
+  "id": 1985572,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB3431",
+  "title": "Relating to prohibitions on the provision to certain children of gender transitioning or reassignment procedures and treatments and gender-affirming therapy and counseling; creating criminal offenses.",
+  "summary": "Relating to prohibitions on the provision to certain children of gender transitioning or reassignment procedures and treatments and gender-affirming therapy and counseling; creating criminal offenses.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB3431/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB3431/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3431",
+  "sponsors": [
+    "Tony Tinderholt (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-26",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-26",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Referred to Public Health",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-26",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB03431I.htm",
+      "doc_id": 3143886
+    }
+  ],
+  "committee": {
+    "committee_id": 1892,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Public Health"
+  },
+  "subjects": [
+    "Crimes",
+    "Crimes--Miscellaneous",
+    "Health Care Providers",
+    "Minors",
+    "Minors--Crimes Against",
+    "Minors--Health & Safety",
+    "GENDER IDENTITY & EXPRESSION"
+  ]
+}

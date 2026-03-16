@@ -1,0 +1,77 @@
+{
+  "id": 2130685,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB1633",
+  "title": "Retail Supply of Electricity and Gas (Energy Savings Act of 2026)",
+  "summary": "Repealing certain provisions relating to energy salespersons and energy vendors, residential energy retailers, residential electricity supplier license terms, and green power; repealing the authority of the Public Service Commission to take certain disciplinary actions against electricity suppliers and gas suppliers; altering the amount of certain civil penalties that may be assessed with respect to electricity suppliers and gas suppliers for certain violations; and applying the Act prospectively.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB1633/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB1633/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1633?ys=2026RS",
+  "sponsors": [
+    "April Rose (R) [Rep]",
+    "Christopher Adams (R) [Rep]",
+    "Terry Baker (R) [Rep]",
+    "Jason Buckel (R) [Rep]",
+    "Wayne Hartman (R) [Rep]",
+    "Kevin Hornberger (R) [Rep]",
+    "April Fleming Miller (R) [Rep]",
+    "Jesse Pippy (R) [Rep]",
+    "Joshua Stonko (R) [Rep]",
+    "Chris Tomlinson (R) [Rep]",
+    "William Valentine (R) [Rep]",
+    "William Wivell (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-25",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-25",
+      "action": "First Reading House Rules and Executive Nominations",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-10",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb1633f.pdf",
+      "doc_id": 3389733
+    }
+  ],
+  "committee": {
+    "committee_id": 1926,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Rules and Executive Nominations"
+  },
+  "subjects": [
+    "Utility Regulation",
+    "Civil Actions",
+    "Civil Offenses",
+    "Commerce and Business",
+    "Committees and Commissions",
+    "Discipline",
+    "Energy Matters",
+    "Energy Technology and Infrastructure",
+    "Penalties and Sentences",
+    "Public Service Commission",
+    "Reports",
+    "Residential Property",
+    "Retail Sales",
+    "Rules and Regulations",
+    "Utilities",
+    "Work, Labor, and Employment"
+  ]
+}

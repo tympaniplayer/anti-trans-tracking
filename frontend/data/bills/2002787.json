@@ -1,0 +1,70 @@
+{
+  "id": 2002787,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H655",
+  "title": "To promote comprehensive and inclusive curriculum in schools",
+  "summary": "Relative to comprehensive and inclusive curriculum in public schools. Education.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H655/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H655/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H655",
+  "sponsors": [
+    "Tram Nguyen (D) [Rep]",
+    "Steven Ultrino (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-02",
+      "action": "Hearing scheduled for 09/16/2025 from 11:00 AM-5:00 PM in Gardner Auditorium",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-12-18",
+      "action": "Reporting date extended to Wednesday, March 18, 2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H655.pdf",
+      "doc_id": 3168849
+    }
+  ],
+  "committee": {
+    "committee_id": 737,
+    "chamber": "H",
+    "chamber_id": 51,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

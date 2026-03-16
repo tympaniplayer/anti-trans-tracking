@@ -1,0 +1,72 @@
+{
+  "id": 2056141,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR919",
+  "title": "Commemorating and supporting the goals of World AIDS Day.",
+  "summary": "Commemorating and supporting the goals of World AIDS Day.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR919/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR919/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/919/all-info",
+  "sponsors": [
+    "Mark Pocan (D) [Rep]",
+    "Brian Fitzpatrick (R) [Rep]",
+    "Nanette Barragan (D) [Rep]",
+    "Julia Brownley (D) [Rep]",
+    "Steve Cohen (D) [Rep]",
+    "Danny Davis (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Robin Kelly (D) [Rep]",
+    "Gwen Moore (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Mike Quigley (D) [Rep]",
+    "Terri Sewell (D) [Rep]",
+    "Darren Soto (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Ritchie Torres (D) [Rep]",
+    "Nydia Velazquez (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]"
+  ],
+  "introduced_date": "2025-12-02",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-12-02",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-02",
+      "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-03",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres919/BILLS-119hres919ih.pdf",
+      "doc_id": 3287158
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

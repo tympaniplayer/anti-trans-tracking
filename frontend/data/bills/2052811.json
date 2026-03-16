@@ -1,0 +1,59 @@
+{
+  "id": 2052811,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4746",
+  "title": "Establishing the Massachusetts consumer data privacy act",
+  "summary": "Establishing the Massachusetts consumer data privacy act",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4746/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4746/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4746",
+  "sponsors": [
+    "Advanced Information Technology, the Internet and Cybersecurity [Jnt]"
+  ],
+  "introduced_date": "2025-11-17",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-11-17",
+      "action": "Reported from the committee on Advanced Information Technology, the Internet and Cybersecurity",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-17",
+      "action": "New draft of H78, H80, H86, H96, H103 and H104",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-17",
+      "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-17",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4746.pdf",
+      "doc_id": 3284579
+    }
+  ],
+  "committee": {
+    "committee_id": 737,
+    "chamber": "H",
+    "chamber_id": 51,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

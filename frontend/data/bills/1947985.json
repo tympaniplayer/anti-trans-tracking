@@ -1,0 +1,55 @@
+{
+  "id": 1947985,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB299",
+  "title": "Mentoring to Succeed Act of 2025",
+  "summary": "A bill to establish a competitive grant program to support the establishment, expansion, or enhancement of youth mentoring programs for eligible youth, and to provide for social and emotional learning, employability skill development, career exploration, work-based learning, and other youth workforce opportunities.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB299/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB299/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/299/all-info",
+  "sponsors": [
+    "Richard Durbin (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Ruben Gallego (D) [Sen]",
+    "Andy Kim (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-29",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-01-29",
+      "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S482-484)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-04",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s299/BILLS-119s299is.pdf",
+      "doc_id": 3153465
+    }
+  ],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

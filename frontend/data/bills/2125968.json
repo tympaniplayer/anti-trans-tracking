@@ -1,0 +1,64 @@
+{
+  "id": 2125968,
+  "state": "GA",
+  "state_name": "Georgia",
+  "bill_number": "HB1480",
+  "title": "Georgia Medicare for All Act; enact",
+  "summary": "A BILL to be entitled an Act to amend Chapter 4 of Title 49 of the O.C.G.A., relating to public assistance; to amend Title 49 of the O.C.G.A., relating to social services, and an Act amending said title, approved April 15, 2014 (Ga. L. 2014, p. 293), so as to repeal provisions regarding prohibition of Medicaid expansion; to amend Titles 31, 42, and 43, relating to health, penal institutions, and professions and businesses, respectively, and an Act amending Titles 31 and 43, approved March 23, 2023 (Ga. L. 2023, p. 6), so as to repeal provisions relating to treatment of gender dysphoria; to amend Titles 1, 15, 16, 19, 20, 31, 33, 43, 45, 48, 49, and an Act amending said titles, approved May 7, 2019 (Ga. L. 2019, p. 711), so as to repeal and revise provisions relating to abortion; to provide for related matters; to provide for contingent effectiveness; to repeal conflicting laws; and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/GA/bill/HB1480/2025",
+  "legiscan_url": "https://legiscan.com/GA/bill/HB1480/2025",
+  "state_url": "https://www.legis.ga.gov/legislation/73762",
+  "sponsors": [
+    "Gabriel Sanchez (D) [Rep]",
+    "Ruwa Romman (D) [Rep]",
+    "Park Cannon (D) [Rep]",
+    "Angela Moore (D) [Rep]",
+    "Samuel Park (D) [Rep]",
+    "Sandra Scott (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-26",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "action": "House Hopper",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "House First Readers",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "House Second Readers",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-27",
+      "type": "Introduced",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/244450",
+      "doc_id": 3378776
+    }
+  ],
+  "committee": {
+    "committee_id": 4758,
+    "chamber": "H",
+    "chamber_id": 29,
+    "name": "Health"
+  },
+  "subjects": []
+}

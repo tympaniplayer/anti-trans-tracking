@@ -1,0 +1,62 @@
+{
+  "id": 1957888,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB2915",
+  "title": "INTERSCHOLASTIC SPORTS-GENDER",
+  "summary": "Amends the Interscholastic Athletic Organization Act. Provides that any athletic team or sport that is under the jurisdiction of an association or entity that provides for interscholastic athletics or athletic competition among schools and student must abide by the following: if an athletic team or sport is designated as being female, it is available only to participants who are female, based on their biological sex. Requires a school district or nonpublic school to obtain a written statement signed by a student's parent or guardian or the student verifying the student's age, biological sex, and that the student has not taken performance enhancing drugs; provides for a penalty for false or misleading statements. Prohibits a governmental entity or an association or entity that provides for interscholastic athletics or athletic competition among schools and students from entertaining a complaint, opening an investigation, or taking any other adverse action against a school district or nonpublic school for maintaining athletic teams or sports in accordance with these provisions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "education",
+    "drag",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB2915/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB2915/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2915&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Joe Sosnowski (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-05",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-05",
+      "action": "Filed with the Clerk by Rep. Joe C. Sosnowski",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-05",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=200906&DocName=10400HB2915&DocNum=2915&DocTypeID=HB&LegID=161118&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3103080
+    }
+  ],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
+  "subjects": []
+}

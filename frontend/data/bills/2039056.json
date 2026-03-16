@@ -1,0 +1,54 @@
+{
+  "id": 2039056,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S08452",
+  "title": "Enacts the regulating equality in neighborhood tenancy act; prohibits discrimination in housing based on credit scores.",
+  "summary": "Enacts the regulating equality in neighborhood tenancy act; prohibits discrimination in housing based on credit scores.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S08452/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S08452/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S8452",
+  "sponsors": [
+    "Kevin Parker (D) [Sen]"
+  ],
+  "introduced_date": "2025-07-09",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-07-09",
+      "action": "REFERRED TO RULES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-09",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S08452&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S08452",
+      "doc_id": 3261107
+    }
+  ],
+  "committee": {
+    "committee_id": 433,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Investigations and Government Operations"
+  },
+  "subjects": []
+}

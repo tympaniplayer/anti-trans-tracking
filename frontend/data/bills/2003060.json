@@ -1,0 +1,60 @@
+{
+  "id": 2003060,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H1188",
+  "title": "Relative to trans-inclusive health care access",
+  "summary": "Relative to healthcare coverage for certain gender affirming care. Financial Services.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H1188/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H1188/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H1188",
+  "sponsors": [
+    "Natalie Higgins (D) [Rep]",
+    "Christine Barber (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Financial Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-02",
+      "action": "Hearing scheduled for 10/14/2025 from 10:30 AM-01:00 PM in A-1",
+      "chamber": "J"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H1188.pdf",
+      "doc_id": 3169132
+    }
+  ],
+  "committee": {
+    "committee_id": 762,
+    "chamber": "J",
+    "chamber_id": 103,
+    "name": "Financial Services"
+  },
+  "subjects": []
+}

@@ -1,0 +1,69 @@
+{
+  "id": 2006822,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB5056",
+  "title": "Relating to human sexuality education in public schools.",
+  "summary": "Relating to human sexuality education in public schools.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB5056/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB5056/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB5056",
+  "sponsors": [
+    "Ron Reynolds (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-13",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-13",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Referred to Public Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-13",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB05056I.htm",
+      "doc_id": 3174070
+    }
+  ],
+  "committee": {
+    "committee_id": 1891,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Public Education"
+  },
+  "subjects": [
+    "Education",
+    "Education--Primary & Secondary",
+    "Education--Primary & Secondary--Curriculum",
+    "Minors",
+    "Minors--Health & Safety",
+    "SEX EDUCATION",
+    "EDUCATION, STATE BOARD OF",
+    "Education--School Districts",
+    "PARENTAL CONSENT"
+  ]
+}

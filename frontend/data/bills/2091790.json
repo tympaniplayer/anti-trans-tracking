@@ -1,0 +1,125 @@
+{
+  "id": 2091790,
+  "state": "SD",
+  "state_name": "South Dakota",
+  "bill_number": "HB1116",
+  "title": "Prohibit a video streaming service from transmitting certain advertising during children's programming and provide a penalty therefor.",
+  "summary": "Prohibit a video streaming service from transmitting certain advertising during children's programming and provide a penalty therefor.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SD/bill/HB1116/2026",
+  "legiscan_url": "https://legiscan.com/SD/bill/HB1116/2026",
+  "state_url": "https://sdlegislature.gov/#/Session/Bill/26720",
+  "sponsors": [
+    "Tom Pischke (R) [Sen]",
+    "John Shubeck (R) [Rep]",
+    "Bobbi Andera (R) [Rep]",
+    "Heather Baxter (R) [Rep]",
+    "Timothy Goodwin (R) [Rep]",
+    "Jana Hunt (R) [Rep]",
+    "Travis Ismay (R) [Rep]",
+    "Dylan Jordan (R) [Rep]",
+    "Karla Lems (R) [Rep]",
+    "Lauren Nelson (R) [Sen]",
+    "Marty Overweg (R) [Rep]",
+    "Peri Pourier (R) [Rep]",
+    "Kathy Rice (R) [Rep]",
+    "John Sjaarda (R) [Rep]",
+    "Kevin Van Diepen (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "First Reading House H.J. 124",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Referred to House State Affairs H.J. 136",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Scheduled for hearing H.J. 1",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Scheduled for hearing H.J. 1",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "State Affairs Motion to amend, Passed Amendment 1116B",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "State Affairs Do Pass Amended, Passed, YEAS 7, NAYS 5.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "House of Representatives Deferred to another day, Passed H.J. 259",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "House of Representatives Motion to amend, Passed H.J. 281 Amendment 1116F",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "House of Representatives Do Pass Amended, Failed, YEAS 23, NAYS 43. H.J. 281",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-04",
+      "description": "Do Pass Amended",
+      "yea": 7,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-10",
+      "description": "Do Pass Amended",
+      "yea": 23,
+      "nay": 43,
+      "passed": 0
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-23",
+      "type": "Introduced",
+      "url": "https://mylrc.sdlegislature.gov/api/Documents/296714.pdf",
+      "doc_id": 3330276
+    },
+    {
+      "date": "2026-02-05",
+      "type": "Comm Sub",
+      "url": "https://mylrc.sdlegislature.gov/api/Documents/301472.pdf",
+      "doc_id": 3349576
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Minors",
+    "Penalty",
+    "Technology",
+    "Telecommunications",
+    "Trade Regulation"
+  ]
+}

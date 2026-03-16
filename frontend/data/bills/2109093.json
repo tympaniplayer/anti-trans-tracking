@@ -1,0 +1,77 @@
+{
+  "id": 2109093,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "SB3722",
+  "title": "DHS-BEHAVIORAL HEALTH",
+  "summary": "Removes references to the Department of Human Services' Division of Mental Health and Division of Substance Use Prevention and Recovery in various Acts, including, but not limited to, the Substance Use Disorder Act, the Mental Health and Developmental Disabilities Code, the Overdose Prevention and Harm Reduction Act, the Illinois Public Aid Code, the Illinois Controlled Substances Act, and the County Jail Act. Amends the Mental Health and Developmental Disabilities Administrative Act and other acts to reference the Department of Human Services' Division of Behavioral Health and Recovery (rather than by the Division of Mental Health). Makes other conforming changes. Repeals the Behavioral Health Workforce Education Center Task Force Act, the Advisory Council on Early Identification and Treatment of Mental Health Conditions Act, and the Strengthening and Transforming Behavioral Health Crisis Care in Illinois Act. Repeals a provision in the Medical Assistance Article of the Illinois Public Aid Code concerning the COVID-19 public health emergency. Repeals a provision in the Health Care Workplace Violence Prevention Act requiring the Department of Human Services and the Department of Public Health to initially implement the Act as a 2-year pilot program. Repeals provisions in the Health Inpatient Facility Access Act requiring the Department of Human Services to develop and implement a strategic plan on improving access to inpatient psychiatric beds.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "bathrooms",
+    "identity_documents"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/SB3722/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/SB3722/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3722&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+  "sponsors": [
+    "David Koehler (D) [Sen]",
+    "Mattie Hunter (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "Filed with Secretary by Sen. David Koehler",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Assigned to Behavioral and Mental Health",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Added as Chief Co-Sponsor Sen. Mattie Hunter",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Do Pass Behavioral and Mental Health; 007-000-000",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Placed on Calendar Order of 2nd Reading March 12, 2026",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=208326&DocName=10400SB3722&DocNum=3722&DocTypeID=SB&LegID=166980&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3354815
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

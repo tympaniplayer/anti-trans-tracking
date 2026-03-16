@@ -1,0 +1,161 @@
+{
+  "id": 2014814,
+  "state": "ME",
+  "state_name": "Maine",
+  "bill_number": "LD1337",
+  "title": "An Act to Amend the Maine Human Rights Act Regarding Female Athletes and Safety in Women's Single-sex Shelters",
+  "summary": "An Act to Amend the Maine Human Rights Act Regarding Female Athletes and Safety in Women's Single-sex Shelters",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ME/bill/LD1337/2025",
+  "legiscan_url": "https://legiscan.com/ME/bill/LD1337/2025",
+  "state_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1337&snum=132",
+  "sponsors": [
+    "Elizabeth Caruso (R) [Rep]",
+    "Russell Black (R) [Sen]",
+    "William Faulkingham (R) [Rep]",
+    "Kimberly Haggan (R) [Rep]",
+    "Kathy Javner (R) [Rep]",
+    "James Libby (R) [Sen]",
+    "Sheila Lyman (R) [Rep]",
+    "Mathew McIntyre (R) [Rep]",
+    "Marianne Moore (R) [Sen]",
+    "Harold Stewart (R) [Sen]"
+  ],
+  "introduced_date": "2025-06-16",
+  "session": "132nd Legislature",
+  "actions": [
+    {
+      "date": "2025-03-27",
+      "action": "Committee on Judiciary suggested and ordered printed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "The Bill was REFERRED to the Committee on JUDICIARY.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "The Bill was REFERRED to the Committee on JUDICIARY  in concurrence",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Work Session Held",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Voted: Divided Report",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Work Session Reconsidered",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Voted: Divided Report",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "Reported Out: OTP-AM/ONTP",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Reports READ.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "On motion of Representative KUHN of Falmouth, REPORT B Ought Not to Pass was ACCEPTED.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "ROLL CALL NO. 491 (Yeas 73 - Nays 70 - Absent 6 - Excused 2)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "HELD.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "RELEASED.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Reports Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "On motion by Senator CARNEY of Cumberland Report B Ought Not to Pass Report ACCEPTED in concurrence. PREVAILED",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Roll Call Ordered Roll Call Number 558 Yeas 21 - Nays 13 - Excused 1 - Absent 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Placed in Legislative Files (DEAD)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-13",
+      "description": "Acc Report \"b\" Ontp RC #491",
+      "yea": 73,
+      "nay": 70,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-16",
+      "description": "Accept Report 'b' Ought Not To Pass RC #558",
+      "yea": 21,
+      "nay": 13,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0872&item=1&snum=132",
+      "doc_id": 3189518
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Housing",
+    "Emergency Shelter"
+  ]
+}

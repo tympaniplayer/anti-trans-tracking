@@ -1,0 +1,60 @@
+{
+  "id": 2002966,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H2635",
+  "title": "Creating an independent correctional oversight office to facilitate the recommendations of the Special Legislative Commission on Structural Racism in Correctional Facilities of the Commonwealth",
+  "summary": "For legislation to authorize an independent correctional oversight office to facilitate the recommendations of the Special Legislative Commission on Structural Racism in Correctional Facilities of the Commonwealth. Public Safety and Homeland Security.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H2635/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H2635/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H2635",
+  "sponsors": [
+    "Russell Holmes (D) [Rep]",
+    "Erika Uyterhoeven (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Public Safety and Homeland Security",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Hearing scheduled for 06/26/2025 from 01:00 PM-05:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Reported by committee to Clerk\u2019s Office for processing, will accompany a study order",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H2635.pdf",
+      "doc_id": 3169033
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

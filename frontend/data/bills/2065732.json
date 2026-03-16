@@ -1,0 +1,63 @@
+{
+  "id": 2065732,
+  "state": "IN",
+  "state_name": "Indiana",
+  "bill_number": "HB1338",
+  "title": "Physician standards of practice.",
+  "summary": "Physician standards of practice. Specifies that the provisions prohibiting a physician or practitioner from aiding or abetting in the provision of gender transition procedures to a minor do not prohibit a physician or other practitioner from: (1) releasing a minor's health information to another physician or other practitioner in the course of the receiving practitioner's care of the minor; or (2) discussing a minor's medical history with another physician or other practitioner providing care to the minor.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IN/bill/HB1338/2026",
+  "legiscan_url": "https://legiscan.com/IN/bill/HB1338/2026",
+  "state_url": "https://iga.in.gov/legislative/2026/bills/house/1338/details",
+  "sponsors": [
+    "Chris Campbell (D) [Rep]",
+    "Sue Errington (D) [Rep]",
+    "Matt Pierce (D) [Rep]",
+    "Edward Clere (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-06",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "action": "Coauthored by Representatives Errington, Pierce M, Clere",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-06",
+      "action": "Authored by Representative Campbell",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-06",
+      "action": "First reading: referred to Committee on Public Health",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-06",
+      "type": "Introduced",
+      "url": "https://iga.in.gov/pdf-documents/124/2026/house/bills/HB1338/HB1338.01.INTR.pdf",
+      "doc_id": 3300166
+    }
+  ],
+  "committee": {
+    "committee_id": 1300,
+    "chamber": "H",
+    "chamber_id": 37,
+    "name": "Public Health"
+  },
+  "subjects": []
+}

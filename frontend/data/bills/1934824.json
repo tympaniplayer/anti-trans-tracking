@@ -1,0 +1,141 @@
+{
+  "id": 1934824,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A03003",
+  "title": "Makes appropriations for the support of government - Aid to Localities Budget.",
+  "summary": "Makes appropriations for the support of government - Aid to Localities Budget.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A03003/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A03003/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A3003",
+  "sponsors": [
+    "Budget [Rep]"
+  ],
+  "introduced_date": "2025-01-22",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-22",
+      "action": "referred to ways and means",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-21",
+      "action": "amend and recommit to ways and means",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-21",
+      "action": "print number 3003a",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "amend and recommit to ways and means",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "print number 3003b",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "amend and recommit to ways and means",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "print number 3003c",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "amend and recommit to ways and means",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "print number 3003d",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "reported referred to rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "reported",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "rules report cal.187",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "ordered to third reading rules cal.187",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "referred to ways and means",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "substituted by s3003d",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-08",
+      "description": "Assembly Rules Committee: Favorable",
+      "yea": 18,
+      "nay": 8,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-08",
+      "description": "Assembly Ways And Means Committee: Favorable refer to committee Rules",
+      "yea": 21,
+      "nay": 9,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-21",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A03003&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A03003A",
+      "doc_id": 3136395
+    },
+    {
+      "date": "2025-01-21",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A03003&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A03003B",
+      "doc_id": 3164685
+    },
+    {
+      "date": "2025-01-21",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A03003&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A03003D",
+      "doc_id": 3231987
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

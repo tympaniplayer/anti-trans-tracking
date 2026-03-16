@@ -1,0 +1,56 @@
+{
+  "id": 2129198,
+  "state": "CT",
+  "state_name": "Connecticut",
+  "bill_number": "SB00424",
+  "title": "An Act Concerning Oversight Of Plans Pursuant To Section 504 Of The Rehabilitation Act Of 1973 And Special Education Needs In The State.",
+  "summary": "To require various reports and assessments of the needs of students with plans pursuant to Section 504 of the Rehabilitation Act of 1973, give the Office of the Educational Ombudsperson oversight over alleged discriminatory practices related to special education services, require the Department of Education to modify its special education data system for such plans, require the Department of Social Services to evaluate school services with potential Medicaid reimbursement and to require the Chief Workforce Officer to develop a strategic assessment plan to increase the capacity of school social workers and school counselors in the state.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CT/bill/SB00424/2026",
+  "legiscan_url": "https://legiscan.com/CT/bill/SB00424/2026",
+  "state_url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00424&which_year=2026",
+  "sponsors": [
+    "Government Oversight Committee [Jnt]",
+    "Robin Comey (D) [Rep]",
+    "Christopher Poulos (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-05",
+  "session": "2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-03-05",
+      "action": "Referred to Joint Committee on Government Oversight",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Public Hearing 03/10",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-04",
+      "type": "Introduced",
+      "url": "https://www.cga.ct.gov/2026/TOB/S/PDF/2026SB-00424-R00-SB.PDF",
+      "doc_id": 3384594
+    }
+  ],
+  "committee": {
+    "committee_id": 4992,
+    "chamber": "J",
+    "chamber_id": 108,
+    "name": "Government Oversight"
+  },
+  "subjects": []
+}

@@ -1,0 +1,96 @@
+{
+  "id": 1945358,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB742",
+  "title": "PROTECTS Act of 2025 Protecting Resources Of Taxpayers to Eliminate Childhood Transgender Surgeries Act of 2025",
+  "summary": "To prohibit Federal funds from being used to provide certain gender transition procedures to minors.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB742/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB742/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/742/all-info",
+  "sponsors": [
+    "Richard McCormick (R) [Rep]",
+    "Andrew Clyde (R) [Rep]",
+    "Anna Luna (R) [Rep]",
+    "Scott Franklin (R) [Rep]",
+    "Elizabeth Van Duyne (R) [Rep]",
+    "Patrick Fallon (R) [Rep]",
+    "Mike Collins (R) [Rep]",
+    "Randy Weber (R) [Rep]",
+    "Andy Harris (R) [Rep]",
+    "Glenn Grothman (R) [Rep]",
+    "Michael Guest (R) [Rep]",
+    "Ryan Zinke (R) [Rep]",
+    "Brian Babin (R) [Rep]",
+    "Riley Moore (R) [Rep]",
+    "Jake Ellzey (R) [Rep]",
+    "Ralph Norman (R) [Rep]",
+    "Daniel Webster (R) [Rep]",
+    "Jodey Arrington (R) [Rep]",
+    "Tony Wied (R) [Rep]",
+    "John Rose (R) [Rep]",
+    "Austin Scott (R) [Rep]",
+    "Abraham Hamadeh (R) [Rep]",
+    "James Baird (R) [Rep]",
+    "Burgess Owens (R) [Rep]",
+    "Lance Gooden (R) [Rep]",
+    "Ronny Jackson (R) [Rep]",
+    "Brad Finstad (R) [Rep]",
+    "John McGuire (R) [Rep]",
+    "Dusty Johnson (R) [Rep]",
+    "Andrew Ogles (R) [Rep]",
+    "Paul Gosar (R) [Rep]",
+    "Jeff Crank (R) [Rep]",
+    "Tom Tiffany (R) [Rep]",
+    "Jeff Van Drew (R) [Rep]",
+    "David Rouzer (R) [Rep]",
+    "Cory Mills (R) [Rep]",
+    "Pete Sessions (R) [Rep]",
+    "Greg Steube (R) [Rep]",
+    "Russell Fry (R) [Rep]",
+    "Sheri Biggs (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-28",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-01-28",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-26",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr742/BILLS-119hr742ih.pdf",
+      "doc_id": 3141876
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": 2039645,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB4436",
+  "title": "Cosmetic Safety for Communities of Color and Professional Salon Workers Act of 2025",
+  "summary": "To amend the Public Health Service Act with respect to cosmetic safety, with an emphasis on communities of color and professional salon workers, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB4436/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB4436/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4436/all-info",
+  "sponsors": [
+    "Janice Schakowsky (D) [Rep]",
+    "Ayanna Pressley (D) [Rep]",
+    "Debbie Dingell (D) [Rep]",
+    "Dwight Evans (D) [Rep]",
+    "Ro Khanna (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Sara Jacobs (D) [Rep]",
+    "Lloyd Doggett (D) [Rep]",
+    "Doris Matsui (D) [Rep]"
+  ],
+  "introduced_date": "2025-07-16",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-07-16",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-16",
+      "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-23",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr4436/BILLS-119hr4436ih.pdf",
+      "doc_id": 3262714
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

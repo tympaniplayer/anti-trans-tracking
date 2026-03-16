@@ -1,0 +1,84 @@
+{
+  "id": 2036189,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "SR0055",
+  "title": "A resolution to recognize June 2025 as Lesbian, Gay, Bisexual, Transgender, Queer+ (LGBTQ+) Pride Month.",
+  "summary": "A resolution to recognize June 2025 as Lesbian, Gay, Bisexual, Transgender, Queer+ (LGBTQ+) Pride Month.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/SR0055/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/SR0055/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SR-0055",
+  "sponsors": [
+    "Jeremy Moss (D) [Sen]",
+    "Sarah Anthony (D) [Sen]",
+    "Paul Wojno (D) [Sen]",
+    "Jeff Irwin (D) [Sen]",
+    "Stephanie Chang (D) [Sen]",
+    "John Cherry (D) [Sen]",
+    "Rosemary Bayer (D) [Sen]",
+    "Mary Cavanagh (D) [Sen]",
+    "Samir Singh (D) [Sen]",
+    "Kevin Hertel (D) [Sen]",
+    "Sean McCann (D) [Sen]",
+    "Darrin Camilleri (D) [Sen]",
+    "Sylvia Santana (D) [Sen]",
+    "Mallory McMorrow (D) [Sen]",
+    "Sue Shink (D) [Sen]",
+    "Erika Geiss (D) [Sen]",
+    "Veronica Klinefelt (D) [Sen]",
+    "Dayna Polehanki (D) [Sen]",
+    "Winnie Brinks (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-10",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-06-10",
+      "action": "Introduced By Senator Jeremy Moss",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-10",
+      "action": "Rules Suspended",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-10",
+      "action": "Adopted",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-09",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/resolutionintroduced/Senate/htm/2025-SIR-0055.htm",
+      "doc_id": 3253229
+    },
+    {
+      "date": "2025-06-10",
+      "type": "Enrolled",
+      "url": "https://legislature.mi.gov/documents/2025-2026/resolutionadopted/Senate/htm/2025-SAR-0055.htm",
+      "doc_id": 3253905
+    },
+    {
+      "date": "2025-06-10",
+      "type": "Enrolled",
+      "url": "https://legislature.mi.gov/documents/2025-2026/resolutionenrolled/Senate/htm/2025-SER-0055.htm",
+      "doc_id": 3255916
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

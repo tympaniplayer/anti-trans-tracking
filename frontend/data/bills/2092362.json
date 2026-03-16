@@ -1,0 +1,59 @@
+{
+  "id": 2092362,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4947",
+  "title": "Updating the mandated benefit review process",
+  "summary": "Updating the mandated benefit review process",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4947/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4947/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4947",
+  "sponsors": [
+    "Joint Committee on Financial Services [Jnt]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Reported from the committee on Financial Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "New draft of H1235",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Reported favorably by committee and referred to the Joint Committee on Health Care Financing",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-23",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4947.pdf",
+      "doc_id": 3330936
+    }
+  ],
+  "committee": {
+    "committee_id": 763,
+    "chamber": "J",
+    "chamber_id": 103,
+    "name": "Health Care Financing"
+  },
+  "subjects": []
+}

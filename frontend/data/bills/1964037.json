@@ -1,0 +1,99 @@
+{
+  "id": 1964037,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A04921",
+  "title": "Enacts the college student suicide prevention act to provide for policies, guidelines and training opportunities to effectively and appropriately prevent student suicide, intervene in crisis situations, and support college communities in postvention.",
+  "summary": "Enacts the college student suicide prevention act to provide for policies, guidelines and training opportunities to effectively and appropriately prevent student suicide, intervene in crisis situations, and support college communities in postvention.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A04921/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A04921/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A4921",
+  "sponsors": [
+    "Rodneyse Bichotte Hermelyn (D) [Rep]",
+    "Christopher Burdick (D) [Rep]",
+    "Maryjane Shimsky (D) [Rep]",
+    "Karen McMahon (D) [Rep]",
+    "Zohran Kwame Mamdani (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Christopher Eachus (D) [Rep]",
+    "Deborah Glick (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Albert Stirpe (D) [Rep]",
+    "Eddie Gibbs (D) [Rep]",
+    "Phara Souffrant Forrest (D) [Rep]",
+    "Nader Sayegh (D) [Rep]",
+    "Jodi Giglio (R) [Rep]",
+    "Sarahana Shrestha (D) [Rep]",
+    "Sarah Clark (D) [Rep]",
+    "Harvey Epstein (D) [Rep]",
+    "Amy Paulin (D) [Rep]",
+    "John Zaccaro (D) [Rep]",
+    "Emily Gallagher (D) [Rep]",
+    "Doug Smith (R) [Rep]",
+    "Robert Carroll (D) [Rep]",
+    "Tony Simone (D) [Rep]",
+    "Yudelka Tapia (D) [Rep]",
+    "Jennifer Lunsford (D) [Rep]",
+    "Maritza Davila (D) [Rep]",
+    "Anna Kelles (D) [Rep]",
+    "Michael Novakhov (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-10",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-10",
+      "action": "referred to higher education",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "amend and recommit to higher education",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-05",
+      "action": "print number 4921a",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to higher education",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-10",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A04921&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A04921",
+      "doc_id": 3111023
+    },
+    {
+      "date": "2025-02-10",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A04921&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A04921A",
+      "doc_id": 3228725
+    }
+  ],
+  "committee": {
+    "committee_id": 370,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Higher Education"
+  },
+  "subjects": []
+}

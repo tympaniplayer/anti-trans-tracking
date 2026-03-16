@@ -1,0 +1,75 @@
+{
+  "id": 1951611,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB2431",
+  "title": "ELEC CD-RANKED-CHOICE VOTING",
+  "summary": "Amends the Election Code. Provides that members of the General Assembly and the offices of Governor, Lieutenant Governor, Attorney General, Secretary of State, Comptroller, and Treasurer shall be elected by ranked-choice voting. Provides for ranked-choice ballots to be produced. Provides that voters may rank their choice for candidates for those offices and provides for interpretations of certain ballot marks. Provides that tallying ranked-choice votes proceeds in rounds. Provides that in each round, the number of votes for each continuing candidate must be counted, that each continuing ballot counts as one vote for its highest-ranked continuing candidate for that round, and that exhausted ballots are not counted for any continuing candidate. Provides that if only 2 candidates remain, the candidate with the higher vote total wins, and that if more than 2 candidates remain, the last-place candidate is eliminated and another round of tallying is to commence. Provides that rounds continue until a winner is found. Makes conforming changes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB2431/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB2431/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2431&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Nabeela Syed (D) [Rep]",
+    "Sharon Chung (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-03",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "Filed with the Clerk by Rep. Nabeela Syed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Assigned to Ethics & Elections",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Rule 19(a) / Re-referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Added Co-Sponsor Rep. Sharon Chung",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-03",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=199978&DocName=10400HB2431&DocNum=2431&DocTypeID=HB&LegID=160192&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3095411
+    }
+  ],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
+  "subjects": []
+}

@@ -1,0 +1,65 @@
+{
+  "id": 2045676,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "SB1027",
+  "title": "In assault, further providing for the offense of ethnic intimidation; in particular rights and immunities, further providing for civil rights violations; and, in employees, further providing for definitions and providing for annual officer training on hate-based intimidation.",
+  "summary": "An Act amending Titles 18 (Crimes and Offenses), 42 (Judiciary and Judicial Procedure) and 53 (Municipalities Generally) of the Pennsylvania Consolidated Statutes, in assault, further providing for the offense of ethnic intimidation; in particular rights and immunities, further providing for civil rights violations; and, in employees, further providing for definitions and providing for annual officer training on hate-based intimidation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/SB1027/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/SB1027/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/sb1027",
+  "sponsors": [
+    "Jay Costa (D) [Sen]",
+    "Steven Santarsiero (D) [Sen]",
+    "Timothy Kearney (D) [Sen]",
+    "Arthur Haywood (D) [Sen]",
+    "Vincent Hughes (D) [Sen]",
+    "Wayne Fontana (D) [Sen]",
+    "Carolyn Comitta (D) [Sen]",
+    "Patty Kim (D) [Sen]",
+    "Judy Schwank (D) [Sen]",
+    "Christine Tartaglione (D) [Sen]",
+    "John Kane (D) [Sen]",
+    "Nick Pisciottano (D) [Sen]",
+    "Amanda Cappelletti (D) [Sen]",
+    "Nikil Saval (D) [Sen]",
+    "Katie Muth (D) [Sen]",
+    "Sharif Street (D) [Sen]",
+    "Maria Collett (D) [Sen]"
+  ],
+  "introduced_date": "2025-10-03",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-10-03",
+      "action": "Referred to Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-03",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SB1027/PN1189",
+      "doc_id": 3271710
+    }
+  ],
+  "committee": {
+    "committee_id": 77,
+    "chamber": "S",
+    "chamber_id": 4,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

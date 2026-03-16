@@ -1,0 +1,65 @@
+{
+  "id": 2003094,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H2400",
+  "title": "Measuring the impact of Long COVID in the Commonwealth",
+  "summary": "For legislation to measure the impact of Long COVID. Public Health.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H2400/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H2400/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H2400",
+  "sponsors": [
+    "Mindy Domb (D) [Rep]",
+    "Marjorie Decker (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Public Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-06",
+      "action": "Hearing scheduled for 06/11/2025 from 09:00 AM-01:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-09-11",
+      "action": "Reporting date extended to Thursday, October 9, 2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-16",
+      "action": "Accompanied a new draft, see H4609",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H2400.pdf",
+      "doc_id": 3169165
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

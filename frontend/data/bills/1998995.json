@@ -1,0 +1,64 @@
+{
+  "id": 1998995,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S1179",
+  "title": "Relative to proportionality in joint venture sentencing",
+  "summary": "For legislation relative to proportionality in joint venture sentencing for accessory to murder. The Judiciary.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S1179/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S1179/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S1179",
+  "sponsors": [
+    "Liz Miranda (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on The Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-09-16",
+      "action": "Hearing scheduled for 09/23/2025 from 01:00 PM-05:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-09",
+      "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S1179.pdf",
+      "doc_id": 3164271
+    }
+  ],
+  "committee": {
+    "committee_id": 746,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

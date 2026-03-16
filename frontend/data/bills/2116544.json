@@ -1,0 +1,82 @@
+{
+  "id": 2116544,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB3869",
+  "title": "Healthy Families Act",
+  "summary": "A bill to allow Americans to earn paid sick time so that they can address their own health needs and the health needs of their families.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB3869/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB3869/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3869/all-info",
+  "sponsors": [
+    "Bernard Sanders (I) [Sen]",
+    "Charles Schumer (D) [Sen]",
+    "Patty Murray (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Lisa Rochester (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Maria Cantwell (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "John Fetterman (D) [Sen]",
+    "Ruben Gallego (D) [Sen]",
+    "Kirsten Gillibrand (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "John Hickenlooper (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Tim Kaine (D) [Sen]",
+    "Angus King (I) [Sen]",
+    "Amy Klobuchar (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Christopher Murphy (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Jack Reed (D) [Sen]",
+    "Brian Schatz (D) [Sen]",
+    "Elissa Slotkin (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Andy Kim (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-12",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-02-12",
+      "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-20",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s3869/BILLS-119s3869is.pdf",
+      "doc_id": 3371678
+    }
+  ],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": [
+    "Labor and employment"
+  ]
+}

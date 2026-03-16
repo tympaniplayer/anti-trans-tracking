@@ -1,0 +1,54 @@
+{
+  "id": 2087191,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "SB1571",
+  "title": "Modifies provisions relating to insurance coverage of orthotic, prosthetic, and assistive devices",
+  "summary": "Modifies provisions relating to insurance coverage of orthotic, prosthetic, and assistive devices",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/SB1571/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/SB1571/2026",
+  "state_url": "https://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=1584506",
+  "sponsors": [
+    "Patty Lewis (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-20",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-20",
+      "action": "S First Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Second Read and Referred S Families, Seniors and Health Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1571.pdf",
+      "doc_id": 3327599
+    }
+  ],
+  "committee": {
+    "committee_id": 5018,
+    "chamber": "S",
+    "chamber_id": 60,
+    "name": "Families, Seniors and Health"
+  },
+  "subjects": []
+}

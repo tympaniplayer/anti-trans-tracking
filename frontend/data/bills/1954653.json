@@ -1,0 +1,54 @@
+{
+  "id": 1954653,
+  "state": "KS",
+  "state_name": "Kansas",
+  "bill_number": "HB2267",
+  "title": "Prohibiting certain licensed individuals from using conversion therapy on minors.",
+  "summary": "Prohibiting certain licensed individuals from using conversion therapy on minors.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KS/bill/HB2267/2025",
+  "legiscan_url": "https://legiscan.com/KS/bill/HB2267/2025",
+  "state_url": "https://kslegislature.gov/li/b2025_26/measures/hb2267/",
+  "sponsors": [
+    "Health and Human Services [Rep]"
+  ],
+  "introduced_date": "2025-02-04",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-04",
+      "action": "House Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "House Referred to Committee on Health and Human Services",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-04",
+      "type": "Introduced",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/hb2267_00_0000.pdf",
+      "doc_id": 3098957
+    }
+  ],
+  "committee": {
+    "committee_id": 1382,
+    "chamber": "H",
+    "chamber_id": 41,
+    "name": "Health and Human Services"
+  },
+  "subjects": []
+}

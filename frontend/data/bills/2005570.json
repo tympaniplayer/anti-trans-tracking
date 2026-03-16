@@ -1,0 +1,82 @@
+{
+  "id": 2005570,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB997",
+  "title": "Rights for the TSA Workforce Act Rights for the Transportation Security Administration Workforce Act",
+  "summary": "A bill to enhance the security operations of the Transportation Security Administration and stability of the transportation security workforce by applying the personnel system under title 5, United States Code, to employees of the Transportation Security Administration, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB997/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB997/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/997/all-info",
+  "sponsors": [
+    "Brian Schatz (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "John Hickenlooper (D) [Sen]",
+    "Jeanne Shaheen (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "John Fetterman (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Ben Lujan (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Jack Reed (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "Tim Kaine (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Angus King (I) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Patty Murray (D) [Sen]",
+    "Gary Peters (D) [Sen]",
+    "Mark Kelly (D) [Sen]",
+    "Amy Klobuchar (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Catherine Cortez Masto (D) [Sen]",
+    "Michael Bennet (D) [Sen]",
+    "Lisa Rochester (D) [Sen]",
+    "Ruben Gallego (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "Angela Alsobrooks (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-12",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-03-12",
+      "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-01",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s997/BILLS-119s997is.pdf",
+      "doc_id": 3198349
+    }
+  ],
+  "committee": {
+    "committee_id": 2323,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Commerce, Science, And Transportation"
+  },
+  "subjects": [
+    "Government operations and politics"
+  ]
+}

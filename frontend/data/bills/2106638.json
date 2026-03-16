@@ -1,0 +1,109 @@
+{
+  "id": 2106638,
+  "state": "CT",
+  "state_name": "Connecticut",
+  "bill_number": "SB00005",
+  "title": "An Act Concerning Online Safety.",
+  "summary": "To (1) establish (A) various requirements concerning artificial intelligence, artificial intelligence systems, artificial intelligence technologies, artificial intelligence companions and automated employment-related decision processes, (B) an Artificial Intelligence Policy Office to be overseen by an Artificial Intelligence Policy Director, (C) an Artificial Intelligence Learning Laboratory Program, (D) a Connecticut AI Academy and require various state agencies to disseminate information concerning said academy, (E) an artificial intelligence working group, and (F) a Connecticut Technology Advisory Board; (2) require (A) subscription-based artificial intelligence providers to make consumer disclosures, (B) frontier developers to implement various internal processes concerning frontier models, (C) synthetic digital content to be detectable as synthetic digital content, (D) the Department of Economic and Community Development to develop and implement a program to bolster artificial intelligence cooperation, (E) the Labor Commissioner to establish an Artificial Intelligence Workforce Research Hub, (F) the Office of Workforce Strategy to develop, implement and promote programs to improve the skills of the state's workforce in relation to artificial intelligence and a plan to create technologist apprenticeships, (G) the Office of Health Strategy to create a program to use artificial intelligence systems to enhance health outcomes for state residents, and (H) the Attorney General, Insurance Commissioner and Commissioner of Consumer Protection to accept applications for safe harbor programs; (3) provide (A) that certain uses of an automated employment-related decision process constitute an unlawful discriminatory practice, (B) that no artificial intelligence technology shall be used to modify or impair a collective bargaining agreement or the role of a designated employee organization, (C) for the designation of artificial intelligence fellows, and (D) for the inclusion of instruction in topics such as the responsible use of emerging technologies in teacher certification preparation programs; and (4) modify (A) the \"computer science education and workforce development account\", (B) the Technology Talent and Innovation Fund Advisory Committee, and (C) the economic development strategic plan.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CT/bill/SB00005/2026",
+  "legiscan_url": "https://legiscan.com/CT/bill/SB00005/2026",
+  "state_url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00005&which_year=2026",
+  "sponsors": [
+    "General Law Committee [Jnt]",
+    "Martin Looney (D) [Sen]",
+    "Robert Duff (D) [Sen]",
+    "Saud Anwar (D) [Sen]",
+    "Jorge Cabrera (D) [Sen]",
+    "Christine Cohen (D) [Sen]",
+    "Mae Flexer (D) [Sen]",
+    "Sujata Gadkar-Wilcox (D) [Sen]",
+    "Herron Gaston (D) [Sen]",
+    "Joan Hartley (D) [Sen]",
+    "Jan Hochadel (D) [Sen]",
+    "Paul Honig (D) [Sen]",
+    "Julie Kushner (D) [Sen]",
+    "Matthew Lesser (D) [Sen]",
+    "Rick Lopes (D) [Sen]",
+    "Cici Maher (D) [Sen]",
+    "James Maroney (D) [Sen]",
+    "Martha Marx (D) [Sen]",
+    "Douglas McCrory (D) [Sen]",
+    "Patricia Miller (D) [Sen]",
+    "Norman Needleman (D) [Sen]",
+    "Catherine Osten (D) [Sen]",
+    "MD Rahman (D) [Sen]",
+    "Derek Slap (D) [Sen]",
+    "Anne Hughes (D) [Rep]",
+    "Rebecca Martinez (D) [Rep]",
+    "Nick Menapace (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-04",
+  "session": "2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "action": "Referred to Joint Committee on General Law",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Vote to Draft",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Drafted by Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Referred to Joint Committee on General Law",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Public Hearing 03/04",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-11",
+      "description": "GL Vote Tally Sheet (Vote to Draft)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-02-03",
+      "type": "Introduced",
+      "url": "https://www.cga.ct.gov/2026/TOB/S/PDF/2026SB-00005-R00-SB.PDF",
+      "doc_id": 3347161
+    },
+    {
+      "date": "2026-02-25",
+      "type": "Comm Sub",
+      "url": "https://www.cga.ct.gov/2026/TOB/S/PDF/2026SB-00005-R01-SB.PDF",
+      "doc_id": 3375876
+    }
+  ],
+  "committee": {
+    "committee_id": 1347,
+    "chamber": "J",
+    "chamber_id": 108,
+    "name": "General Law"
+  },
+  "subjects": []
+}

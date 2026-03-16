@@ -1,0 +1,338 @@
+{
+  "id": 1937249,
+  "state": "ME",
+  "state_name": "Maine",
+  "bill_number": "LD260",
+  "title": "RESOLUTION, Proposing an Amendment to the Constitution of Maine to Establish That All Maine Residents Have Equal Rights Under the Law",
+  "summary": "RESOLUTION, Proposing an Amendment to the Constitution of Maine to Establish That All Maine Residents Have Equal Rights Under the Law",
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ME/bill/LD260/2025",
+  "legiscan_url": "https://legiscan.com/ME/bill/LD260/2025",
+  "state_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=260&snum=132",
+  "sponsors": [
+    "Holly Sargent (D) [Rep]",
+    "Mana Abdi (D) [Rep]",
+    "Daniel Ankeles (D) [Rep]",
+    "Marshall Archer (D) [Rep]",
+    "Poppy Arford (D) [Rep]",
+    "Donna Bailey (D) [Sen]",
+    "Joseph Baldacci (D) [Sen]",
+    "Matthew Beck (D) [Rep]",
+    "Pinny Beebe-Center (D) [Sen]",
+    "Arthur Bell (D) [Rep]",
+    "Michelle Boyer (D) [Rep]",
+    "Michael Brennan (D) [Rep]",
+    "Stacy Brenner (D) [Sen]",
+    "William Bridgeo (D) [Rep]",
+    "Stephan Bunker (D) [Rep]",
+    "Anne Carney (D) [Sen]",
+    "Kristen Cloutier (D) [Rep]",
+    "Sally Cluchey (D) [Rep]",
+    "Lynn Copeland (D) [Rep]",
+    "Lydia Crafts (D) [Rep]",
+    "Edward Crockett (D) [Rep]",
+    "Glenn Curry (D) [Sen]",
+    "Aaron Dana (N) [Rep]",
+    "Matthea Larsen Daughtry (D) [Sen]",
+    "Flavia DeBrito (D) [Rep]",
+    "Deqa Dhalac (D) [Rep]",
+    "James Dill (D) [Rep]",
+    "Janice Dodge (D) [Rep]",
+    "Victoria Doudera (D) [Rep]",
+    "Jill Duson (D) [Sen]",
+    "Holly Eaton (D) [Rep]",
+    "Wayne Farrin (D) [Rep]",
+    "Ryan Fecteau (D) [Rep]",
+    "Gary Friedmann (D) [Rep]",
+    "Sharon Frost (I) [Rep]",
+    "Andrew Gattine (D) [Rep]",
+    "Valli Geiger (D) [Rep]",
+    "Traci Gere (D) [Rep]",
+    "Cheryl Golek (D) [Rep]",
+    "Anne Graham (D) [Rep]",
+    "Lori Gramlich (D) [Rep]",
+    "Nicole Grohoski (D) [Sen]",
+    "Tavis Hasenfus (D) [Rep]",
+    "Allison Hepler (D) [Rep]",
+    "Craig Hickman (D) [Sen]",
+    "Henry Ingwersen (D) [Sen]",
+    "Cassie Julia (D) [Rep]",
+    "Christopher Kessler (D) [Rep]",
+    "Amy Kuhn (D) [Rep]",
+    "Michel Lajoie (D) [Rep]",
+    "Mark Lawrence (D) [Sen]",
+    "Adam Lee (D) [Rep]",
+    "Grayson Lookner (D) [Rep]",
+    "Rafael Macias (D) [Rep]",
+    "Marc Malon (D) [Rep]",
+    "Anne-Marie Mastraccio (D) [Rep]",
+    "Kristi Mathieson (D) [Rep]",
+    "Ann Matlack (D) [Rep]",
+    "Julia McCabe (D) [Rep]",
+    "Michele Meyer (D) [Rep]",
+    "Nina Milliken (D) [Rep]",
+    "Christina Mitchell (D) [Rep]",
+    "Karen Montell (D) [Rep]",
+    "Matthew Moonen (D) [Rep]",
+    "Kelly Murphy (D) [Rep]",
+    "Timothy Nangle (D) [Sen]",
+    "Dani O'Halloran (D) [Rep]",
+    "Laurie Osher (D) [Rep]",
+    "Teresa Pierce (D) [Sen]",
+    "William Pluecker (I) [Rep]",
+    "Dylan Pugh (D) [Rep]",
+    "Joseph Rafferty (D) [Sen]",
+    "Ambureen Rana (D) [Rep]",
+    "D. Ray (D) [Rep]",
+    "Cameron Reny (D) [Sen]",
+    "Morgan Rielly (D) [Rep]",
+    "Tiffany Roberts-Lovell (D) [Rep]",
+    "Amy Roeder (D) [Rep]",
+    "David Rollins (D) [Rep]",
+    "Margaret Rotundo (D) [Sen]",
+    "Walter Runte (D) [Rep]",
+    "Melanie Sachs (D) [Rep]",
+    "Suzanne Salisbury (D) [Rep]",
+    "Eleanor Sato (D) [Rep]",
+    "Daniel Sayre (D) [Rep]",
+    "Daniel Shagoury (D) [Rep]",
+    "David Sinclair (D) [Rep]",
+    "Charles Skold (D) [Rep]",
+    "Holly Stover (D) [Rep]",
+    "Laura Supica (D) [Rep]",
+    "Rachel Talbot Ross (D) [Sen]",
+    "Denise Tepler (D) [Sen]",
+    "Parnell Terry (D) [Rep]",
+    "Michael Tipping (D) [Sen]",
+    "Sophia Warren (D) [Rep]",
+    "Kilton Webb (D) [Rep]",
+    "Yusuf Yusuf (D) [Rep]",
+    "Samuel Zager (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-22",
+  "session": "132nd Legislature",
+  "actions": [
+    {
+      "date": "2025-01-23",
+      "action": "Received by the Clerk of the House on January 23, 2025.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "The RESOLUTION was REFERRED to the Committee on JUDICIARY pursuant to Joint Rule 308.2 and ordered printed pursuant to Joint Rule 401.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Work Session Held",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Voted: Divided Report",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Carried over, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Reported Out: OTP-AM/ONTP",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Reports READ.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "On motion of Representative KUHN of Falmouth, TABLED pending ACCEPTANCE of Either Report.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Motion of Representative LIBBY of Auburn, to RECONSIDER its action whereby the RESOLUTION was TABLED pending ACCEPTANCE of Either Report FAILED.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "ROLL CALL NO. 74 (Yeas 71 - Nays 75 - Absent 4 - Excused 0 - Restricted - 1)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Later today assigned.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Unfinished Business",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Unfinished Business",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Unfinished Business",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Speaker laid before the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Subsequently, on motion of Representative KUHN of Falmouth, the Majority Ought to Pass as Amended Report was ACCEPTED.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "ROLL CALL NO. 91 (Yeas 74 - Nays 69 - Absent 7 - Excused 0 - Restricted - 1)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "The RESOLUTION was READ ONCE.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Committee Amendment \"A\" (H-40) was READ and ADOPTED.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Under suspension of the rules, the RESOLUTION was given its SECOND READING without REFERENCE to the Committee on Bills in the Second Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "The RESOLUTION was PASSED TO BE ENGROSSED as Amended by Committee Amendment \"A\" (H-40).",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Reports Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "On motion by Senator CARNEY of Cumberland the Majority Ought to Pass as Amended Report ACCEPTED. PREVAILED",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Roll Call Ordered Roll Call Number 119 Yeas 19 - Nays 13 - Excused 3 - Absent 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Bill READ ONCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Committee Amendment \"A\" (H-40) READ and ADOPTED",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Under suspension of the Rules, READ A SECOND TIME and PASSED TO BE ENGROSSED AS AMENDED BY Committee Amendment \"A\" (H-40) in concurrence",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "This being a Constitutional Amendment, in accordance with the provisions of Section 4 of Article X of the Constitution, a two-thirds vote of the membership of the House present was necessary.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "FAILED FINAL PASSAGE.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "ROLL CALL NO. 97 (Yeas 74 - Nays 65 - Absent 11 - Excused 0 - Restricted - 1)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-23",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "On motion by Senator ROTUNDO of Androscoggin PLACED ON THE SPECIAL APPROPRIATIONS TABLE pending FINAL PASSAGE - 2/3 Present Required In NON-CONCURRENCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-25",
+      "action": "CARRIED OVER, in the same posture, to any special or regular session of the 132nd Legislature, pursuant to Joint Order SP 800.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-08",
+      "description": "Reconsider RC #74",
+      "yea": 71,
+      "nay": 75,
+      "passed": 0
+    },
+    {
+      "date": "2025-04-17",
+      "description": "Acc Maj Otp As Amended Rep RC #91",
+      "yea": 74,
+      "nay": 69,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-22",
+      "description": "Accept Majority Ought To Pass As Amended Report RC #119",
+      "yea": 19,
+      "nay": 13,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-23",
+      "description": "Final Passage - Con Res RC #97",
+      "yea": 74,
+      "nay": 65,
+      "passed": 0
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0163&item=1&snum=132",
+      "doc_id": 3074740
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Human Rights",
+    "Equal Rights"
+  ]
+}

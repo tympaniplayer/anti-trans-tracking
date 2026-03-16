@@ -1,0 +1,60 @@
+{
+  "id": 1911481,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1247",
+  "title": "Concerning placement of individuals in juvenile rehabilitation institutions.",
+  "summary": "Concerning placement of individuals in juvenile rehabilitation institutions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1247/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1247/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1247&Year=2025&Initiative=false",
+  "sponsors": [
+    "Travis Couture (R) [Rep]",
+    "Michelle Valdez (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-13",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-10",
+      "action": "Prefiled for introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading, referred to Early Learning & Human Services.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-10",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1247.pdf",
+      "doc_id": 3048201
+    }
+  ],
+  "committee": {
+    "committee_id": 1713,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Early Learning & Human Services"
+  },
+  "subjects": []
+}

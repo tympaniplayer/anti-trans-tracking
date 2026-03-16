@@ -1,0 +1,53 @@
+{
+  "id": 1937475,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S03070",
+  "title": "Establishes masked harassment when a person wears a mask or other face covering that intentionally hides or conceals their face for the primary purpose of menacing or threatening another person or placing another person or group of persons in reasonable fear for their physical safety.",
+  "summary": "Establishes masked harassment when a person wears a mask or other face covering that intentionally hides or conceals their face for the primary purpose of menacing or threatening another person or placing another person or group of persons in reasonable fear for their physical safety.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S03070/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S03070/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S3070",
+  "sponsors": [
+    "James Skoufis (D) [Sen]",
+    "Joseph Addabbo (D) [Sen]",
+    "Leroy Comrie (D) [Sen]",
+    "Christopher Ryan (D) [Sen]",
+    "William Weber (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-23",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-23",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-17",
+      "action": "RECOMMIT, ENACTING CLAUSE STRICKEN",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-23",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S03070&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S03070",
+      "doc_id": 3074934
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,60 @@
+{
+  "id": 2008679,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S06531",
+  "title": "Prohibits discrimination on the basis of a person's caste in opportunities of employment, housing, and access to public accommodations.",
+  "summary": "Prohibits discrimination on the basis of a person's caste in opportunities of employment, housing, and access to public accommodations.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S06531/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S06531/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S6531",
+  "sponsors": [
+    "James Sanders (D) [Sen]",
+    "Cordell Cleare (D) [Sen]",
+    "Leroy Comrie (D) [Sen]",
+    "Patricia Fahy (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "Rachel May (D) [Sen]",
+    "Julia Salazar (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-17",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-17",
+      "action": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-17",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S06531&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S06531",
+      "doc_id": 3177151
+    }
+  ],
+  "committee": {
+    "committee_id": 433,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Investigations and Government Operations"
+  },
+  "subjects": []
+}

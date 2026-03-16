@@ -1,0 +1,65 @@
+{
+  "id": 2002218,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H1416",
+  "title": "To advance health equity",
+  "summary": "For legislation to establish the executive office of health equity and for an investigation by a special commission (including members of the General Court) relative to health inequities. Health Care Financing.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H1416/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H1416/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H1416",
+  "sponsors": [
+    "Bud Williams (D) [Rep]",
+    "Judith Garcia (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Health Care Financing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-03",
+      "action": "Hearing scheduled for 07/15/2025 from 10:00 AM-04:00 PM in Gardner Auditorium",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-08",
+      "action": "Reporting date extended until Wednesday, March 18, 2026",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H1416.pdf",
+      "doc_id": 3168253
+    }
+  ],
+  "committee": {
+    "committee_id": 763,
+    "chamber": "J",
+    "chamber_id": 103,
+    "name": "Health Care Financing"
+  },
+  "subjects": []
+}

@@ -1,0 +1,75 @@
+{
+  "id": 2033286,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3527",
+  "title": "Real Education and Access for Healthy Youth Act of 2025",
+  "summary": "To provide for the overall health and well-being of young people, including the promotion and attainment of lifelong sexual health and healthy relationships, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3527/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3527/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3527/all-info",
+  "sponsors": [
+    "Alma Adams (D) [Rep]",
+    "Pramila Jayapal (D) [Rep]",
+    "Don Beyer (D) [Rep]",
+    "Danny Davis (D) [Rep]",
+    "Suzanne Bonamici (D) [Rep]",
+    "Julia Brownley (D) [Rep]",
+    "Mike Quigley (D) [Rep]",
+    "Paul Tonko (D) [Rep]",
+    "Kathy Castor (D) [Rep]",
+    "Suzan DelBene (D) [Rep]",
+    "Marilyn Strickland (D) [Rep]",
+    "Joyce Beatty (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Terri Sewell (D) [Rep]",
+    "Madeleine Dean (D) [Rep]",
+    "Sean Casten (D) [Rep]",
+    "Deborah Ross (D) [Rep]",
+    "Mark Pocan (D) [Rep]",
+    "Ilhan Omar (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]"
+  ],
+  "introduced_date": "2025-05-21",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-05-21",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Energy and Commerce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-28",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3527/BILLS-119hr3527ih.pdf",
+      "doc_id": 3246771
+    }
+  ],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

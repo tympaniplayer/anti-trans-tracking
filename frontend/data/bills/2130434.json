@@ -1,0 +1,49 @@
+{
+  "id": 2130434,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A10434",
+  "title": "Establishes the \"public civil rights accountability act\" in relation to requiring civil rights compliance certification and training for public employees.",
+  "summary": "Establishes the \"public civil rights accountability act\" in relation to requiring civil rights compliance certification and training for public employees.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A10434/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A10434/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A10434",
+  "sponsors": [
+    "Stefani Zinerman (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-06",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-03-06",
+      "action": "referred to governmental employees",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-06",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A10434&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A10434",
+      "doc_id": 3387048
+    }
+  ],
+  "committee": {
+    "committee_id": 367,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Governmental Employees"
+  },
+  "subjects": []
+}

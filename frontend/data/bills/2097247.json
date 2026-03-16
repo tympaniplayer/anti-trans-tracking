@@ -1,0 +1,55 @@
+{
+  "id": 2097247,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A887",
+  "title": "Prohibits EDA from issuing subsidies for wind energy projects.",
+  "summary": "Prohibits EDA from issuing subsidies for wind energy projects.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A887/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A887/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A887",
+  "sponsors": [
+    "Gerard Scharfenberger (R) [Rep]",
+    "Victoria Flynn (R) [Rep]",
+    "Gregory Myhre (R) [Rep]",
+    "Brian Rumpf (R) [Rep]",
+    "Michael Inganamort (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Telecommunications and Utilities Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-12",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A1000/887_I1.HTM",
+      "doc_id": 3336311
+    }
+  ],
+  "committee": {
+    "committee_id": 870,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Telecommunications and Utilities"
+  },
+  "subjects": [
+    "Telecommunications and Utilities"
+  ]
+}

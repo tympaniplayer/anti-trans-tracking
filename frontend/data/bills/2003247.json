@@ -1,0 +1,80 @@
+{
+  "id": 2003247,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H2401",
+  "title": "Providing for safe and consensual sensitive examinations",
+  "summary": "Relative to safe and consensual sensitive examinations. Public Health.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H2401/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H2401/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H2401",
+  "sponsors": [
+    "Mindy Domb (D) [Rep]",
+    "Kimberly Ferguson (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Public Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Hearing scheduled for 06/23/2025 from 09:00 AM-01:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Hearing rescheduled to 06/23/2025 from 09:00 AM-01:00 PM in B-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-09-11",
+      "action": "Reporting date extended to Tuesday, October 21, 2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-20",
+      "action": "Reporting date extended to Thursday, November 20, 2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-24",
+      "action": "Reporting date extended to Friday, December 19, 2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-05",
+      "action": "Accompanied a new draft, see H4868",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H2401.pdf",
+      "doc_id": 3169332
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

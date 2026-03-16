@@ -1,0 +1,86 @@
+{
+  "id": 2019163,
+  "state": "ME",
+  "state_name": "Maine",
+  "bill_number": "LD1482",
+  "title": "An Act to Require Education Regarding Lesbian, Gay, Bisexual, Transgender, Queer, Questioning and Other Allied Communities",
+  "summary": "An Act to Require Education Regarding Lesbian, Gay, Bisexual, Transgender, Queer, Questioning and Other Allied Communities",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ME/bill/LD1482/2025",
+  "legiscan_url": "https://legiscan.com/ME/bill/LD1482/2025",
+  "state_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=1482&snum=132",
+  "sponsors": [
+    "Cheryl Golek (D) [Rep]",
+    "Nina Milliken (D) [Rep]",
+    "Laurie Osher (D) [Rep]",
+    "Ambureen Rana (D) [Rep]",
+    "Eleanor Sato (D) [Rep]",
+    "Charles Skold (D) [Rep]",
+    "Rachel Talbot Ross (D) [Sen]",
+    "Denise Tepler (D) [Sen]",
+    "Michael Tipping (D) [Sen]",
+    "Sophia Warren (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-17",
+  "session": "132nd Legislature",
+  "actions": [
+    {
+      "date": "2025-04-03",
+      "action": "Committee on Education and Cultural Affairs suggested and ordered printed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "The Bill was REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Sent for concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "The Bill was REFERRED to the Committee on EDUCATION AND CULTURAL AFFAIRS  in concurrence",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "LTW Approved by Chairs: LTW",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Reported Out: LTW",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Pursuant to Joint Rule 310.3 Placed in Legislative Files (DEAD)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=HP0974&item=1&snum=132",
+      "doc_id": 3198955
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "School Policies",
+    "Curriculum"
+  ]
+}

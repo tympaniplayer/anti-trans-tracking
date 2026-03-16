@@ -1,0 +1,72 @@
+{
+  "id": 1970596,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A05563",
+  "title": "Relates to the development of a public anti-stigma mental health education program targeting the general public and underserved populations.",
+  "summary": "Relates to the development of a public anti-stigma mental health education program targeting the general public and underserved populations.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A05563/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A05563/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A5563",
+  "sponsors": [
+    "Jo Simon (D) [Rep]",
+    "Angelo Santabarbara (D) [Rep]",
+    "Yudelka Tapia (D) [Rep]",
+    "Paula Kay (D) [Rep]",
+    "John McDonald (D) [Rep]",
+    "Jennifer Lunsford (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-14",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-14",
+      "action": "referred to mental health",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "reported referred to ways and means",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to ways and means",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-25",
+      "description": "Assembly Mental Health Committee: Favorable refer to committee Ways and Means",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-14",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A05563&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A05563",
+      "doc_id": 3120787
+    }
+  ],
+  "committee": {
+    "committee_id": 387,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

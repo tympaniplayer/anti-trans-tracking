@@ -1,0 +1,49 @@
+{
+  "id": 1964022,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0179",
+  "title": "An act relating to the membership of the State Board of Education and the reestablishment of the Vermont Department of Education",
+  "summary": "An act relating to the membership of the State Board of Education and the reestablishment of the Vermont Department of Education",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0179/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0179/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.179",
+  "sponsors": [
+    "Kate McCann (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-11",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-02-11",
+      "action": "Read first time and referred to the Committee on Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-10",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0179/H-0179%20As%20Introduced.pdf",
+      "doc_id": 3111009
+    }
+  ],
+  "committee": {
+    "committee_id": 784,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "Education"
+  },
+  "subjects": []
+}

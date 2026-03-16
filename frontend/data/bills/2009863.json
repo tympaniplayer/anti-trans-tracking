@@ -1,0 +1,494 @@
+{
+  "id": 2009863,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "S0127",
+  "title": "An act relating to housing and housing development",
+  "summary": "An act relating to housing and housing development",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/S0127/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/S0127/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/S.127",
+  "sponsors": [
+    "Economic Development, Housing and General Affairs [Sen]"
+  ],
+  "introduced_date": "2025-06-13",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-03-18",
+      "action": "Committee bill read first time & placed on Notice Calendar per Senate Rule 48",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Rules suspended on motion of Senator Baruth",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Referred to Committee on Finance per Senate Rule 31",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Rules suspended on motion of Senator Baruth",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Referred to Committee on Appropriations per Senate Rule 31",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Entered on Notice Calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Committee Bill for Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Favorable report by Committee on Finance",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Favorable report with recommendation of amendment by Committee on Appropriations",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Committee Bill for Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Favorable report by Committee on Finance",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Favorable report with recommendation of amendment by Committee on Appropriations",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Recommendation of amendment to be offered by Senator(s) Ram Hinsdale, Brock, Chittenden, and Clarkson",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Unfinished Business/Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Committee Bill for Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Favorable report by Committee on Finance",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Favorable report with recommendation of amendment by Committee on Appropriations",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Recommendation of amendment to be offered by Senator(s) Ram Hinsdale, Clarkson, Brock, and Chittenden",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Recommendation of amendment to be offered by Senator(s) Cummings, Beck, Brock, Chittenden, Gulick, Hardy, and Mattos",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Read 2nd time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Reported favorably by Senator Cummings for Committee on Finance",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Reported favorably by Senator Watson for Committee on Appropriations with recommendation of amendment",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Recommendation of amendment by Committee on Appropriations agreed to",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Senator(s) Ram Hinsdale, Clarkson, Brock, and Chittenden moved to amend",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Motion agreed to",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "3rd reading ordered",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "New Business/Third Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "Pending third reading, bill amended as moved by Senator(s) Cummings, Beck, Brock, Chittenden, Gulick, Hardy, and Mattos",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "Read 3rd time & passed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Read first time and referred to the Committee on General and Housing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Notice Calendar: Favorable with Amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Referred to Committee on Ways and Means per Rule 35(a)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Pending entry on Notice Calendar, referred to Committee on Appropriations per Rule 35(a)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Action Calendar: Favorable with Amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Action Calendar: Favorable with Amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Rep. Mihaly of Calais moved to postpone action until 5/23/2025, which was agreed to",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Action Calendar: Action postponed until 5/23/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Read second time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Rep. Mihaly of Calais reported for the Committee on General and Housing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Rep. Kimbell of Woodstock recommended for the Committee on Ways and Means",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Rep. Scheu of Middlebury recommended for the Committee on Appropriations",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Rep. North of Ferrisburgh moved to amend the report of the Committee on Ways and Means",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Rep. Bartholomew of Hartland raised a Point of Order",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Point of order ruled well taken",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Rep. Kimbell of Woodstock, Graning of Jericho, Kornheiser of Brattleboro, Marcotte of Coventry, and Mihaly of Calais moved to amend the report of the Committee on Ways and Means",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Rep. Sibilia of Dover, Hango of Berkshire, Priestley of Bradford, Boyden of Cambridge, Bartley of Fairfax, Greer of Bennington, Gregoire of Fairfield, Harrison of Chittenden, Higley of Lowell, Kleppner of Burlington, Lipsky of Stowe, Morris of Springfield, O'Brien of Tunbridge, Parsons of Newbury, and Sweeney of Shelburne moved to amend the amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Rep. Harrison of Chittenden demanded yeas and nays",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Which was disagreed to on a Roll Call Failed -- Needed 70 of 139 to Pass -- Yeas = 53, Nays = 86",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Report of the Committee on Ways and Means amended as offered by Rep. Kimbell of Woodstock, Graning of Jericho, Kornheiser of Brattleboro, Marcotte of Coventry, and Mihaly of Calais",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Report of the Committee on General and Housing amended as recommended by the Committee on Ways and Means, as amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Rep. McCoy of Poultney demanded yeas and nays",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Report of Committee on General and Housing, as amended, agreed to",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Which was agreed to on a Roll Call Passed -- Needed 68 of 136 to Pass -- Yeas = 100, Nays = 36",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Third Reading ordered",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Action Calendar: Third Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Read third time and passed in concurrence with proposal of amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Rules suspended and bill messaged forthwith to the Senate as moved by Rep. McCoy of Poultney",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "House message: House passed bill in concurrence with proposal(s) of amendment",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Entered on Notice Calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "House proposal of amendment",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Rules suspended & taken up for immediate consideration, on motion of Senator Baruth",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "House proposal of amendment; text",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "House proposal of amendment not concurred in; Committee of Conference requested, on motion of Senator Clarkson",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Committee of Conference appointed: Senators Clarkson, Ram Hinsdale, and Mattos",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Rules suspended & messaged to House forthwith, on motion of Senator Baruth",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Senate Message: House proposal of amendment not concurred in and Committee of Conference appointed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Speaker appointed Reps. Mihaly of Calais, Kimbell of Woodstock, and Marcotte of Coventry as members of the Committee of Conference on the part of the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "House message: House appointed Conference Committee members",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-30",
+      "action": "Rules suspended and taken up for immediate consideration, pending entry on Notice Calendar, as moved by Rep. McCoy of Poultney",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-30",
+      "action": "Rep. Mihaly of Calais demanded yeas and nays",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-30",
+      "action": "Committee of Conference report adopted (Senate bill)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-30",
+      "action": "Which was agreed to on a Roll Call Passed -- Needed 70 of 139 to Pass -- Yeas = 137, Nays = 2",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-30",
+      "action": "Rules suspended and bill messaged forthwith to the Senate as moved by Rep. McCoy of Poultney",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-30",
+      "action": "House message: House adopted Conference Committee report",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-30",
+      "action": "Rules suspended & taken up for immediate consideration, on motion of Senator Baruth",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-30",
+      "action": "Committee of Conference report submitted by Senator Ram Hinsdale for Committee, text",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-30",
+      "action": "Committee of Conference report adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-30",
+      "action": "As passed by Senate and House",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-30",
+      "action": "Rules suspended & ordered delivered to Governor forthwith, on motion of Senator Baruth",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-30",
+      "action": "Senate Message: Report of Committee of Conference adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-06",
+      "action": "Delivered to Governor on June 6, 2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Signed by Governor on June 12, 2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-13",
+      "action": "Senate Message: Signed by Governor June 12, 2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-23",
+      "description": "Which was disagreed to on a Roll Call Failed -- Needed 70 of 139 to Pass -- Yeas = 53, Nays = 86",
+      "yea": 53,
+      "nay": 86,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-23",
+      "description": "Which was agreed to on a Roll Call Passed -- Needed 68 of 136 to Pass -- Yeas = 100, Nays = 36",
+      "yea": 100,
+      "nay": 36,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-30",
+      "description": "Which was agreed to on a Roll Call Passed -- Needed 70 of 139 to Pass -- Yeas = 137, Nays = 2",
+      "yea": 137,
+      "nay": 2,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-03-17",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0127/S-0127%20As%20Introduced.pdf",
+      "doc_id": 3179315
+    },
+    {
+      "date": "2025-04-04",
+      "type": "Engrossed",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0127/S-0127%20As%20passed%20by%20the%20Senate%20Official.pdf",
+      "doc_id": 3202913
+    },
+    {
+      "date": "2025-06-04",
+      "type": "Enrolled",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/S-0127/S-0127%20As%20Passed%20by%20Both%20House%20and%20Senate%20Official.pdf",
+      "doc_id": 3251837
+    },
+    {
+      "date": "2025-06-19",
+      "type": "Chaptered",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/ACTS/ACT069/ACT069%20As%20Enacted.pdf",
+      "doc_id": 3257554
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

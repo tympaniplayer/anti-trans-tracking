@@ -1,0 +1,74 @@
+{
+  "id": 2080411,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "HB3502",
+  "title": "Children; adoption; eligibility; Oklahoma Children's Code; biological sex; abuse or neglect; crimes and punishments; child endangerment; effective date.",
+  "summary": "Children; adoption; eligibility; Oklahoma Children's Code; biological sex; abuse or neglect; crimes and punishments; child endangerment; effective date.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/HB3502/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/HB3502/2026",
+  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=hb3502&Session=2600",
+  "sponsors": [
+    "Collin Duel (R) [Rep]",
+    "Brian Hill (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Authored by Representative Duel",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Second Reading referred to Health and Human Services Oversight",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Referred to Children, Youth and Family Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Policy recommendation to the Health and Human Services Oversight committee; Do Pass Children, Youth and Family Services",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-18",
+      "description": "House: Children, Youth and Family Services Committee: DO PASS",
+      "yea": 4,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/hB/HB3502%20INT.PDF",
+      "doc_id": 3317453
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

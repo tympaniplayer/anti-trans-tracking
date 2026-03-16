@@ -1,0 +1,60 @@
+{
+  "id": 2125722,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "SB256",
+  "title": "AN ACT relating to interscholastic athletics.",
+  "summary": "Amend KRS 156.070 to require the Kentucky Board of Education or any agency designated to manage interscholastic athletics to train administrators and coaches on how to prevent suicide.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/SB256/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/SB256/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/sb256.html",
+  "sponsors": [
+    "Casey Chambers Armstrong (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-26",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "action": "introduced in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "to Committee on Committees (S)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb256/orig_bill.pdf",
+      "doc_id": 3378322
+    }
+  ],
+  "committee": {
+    "committee_id": 336,
+    "chamber": "S",
+    "chamber_id": 44,
+    "name": "Committee on Committees"
+  },
+  "subjects": [
+    "Athletics",
+    "Boards and Commissions",
+    "Education, Elementary and Secondary",
+    "Mental Health",
+    "Public Health"
+  ]
+}

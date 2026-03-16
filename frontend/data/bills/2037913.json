@@ -1,0 +1,94 @@
+{
+  "id": 2037913,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB1648",
+  "title": "In pupils and attendance, further providing for definitions and providing for mental health days.",
+  "summary": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in pupils and attendance, further providing for definitions and providing for mental health days.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB1648/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB1648/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb1648",
+  "sponsors": [
+    "Napoleon Nelson (D) [Rep]",
+    "Danilo Burgos (D) [Rep]",
+    "Carol Hill-Evans (D) [Rep]",
+    "Timothy Briggs (D) [Rep]",
+    "Jose Giral (D) [Rep]",
+    "Michael Schlossberg (D) [Rep]",
+    "Ben Sanchez (D) [Rep]",
+    "Nikki Rivera (D) [Rep]",
+    "Johanny Cepeda-Freytiz (D) [Rep]",
+    "Dan Williams (D) [Rep]",
+    "La'Tasha Mayes (D) [Rep]",
+    "Perry Warren (D) [Rep]",
+    "Gina Curry (D) [Rep]",
+    "Roni Green (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-24",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-06-24",
+      "action": "Referred to Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Reported as amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "First consideration",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Laid on the table",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-04",
+      "description": "House Education: PN2002 A02390, Adopt Amendment",
+      "yea": 14,
+      "nay": 12,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-04",
+      "description": "House Education: PN2002, Report Bill As Amended",
+      "yea": 14,
+      "nay": 12,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1648/PN2002",
+      "doc_id": 3258358
+    },
+    {
+      "date": "2026-02-04",
+      "type": "Amended",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1648/PN2876",
+      "doc_id": 3349798
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

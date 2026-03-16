@@ -1,0 +1,56 @@
+{
+  "id": 2091768,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "S2293",
+  "title": "Categorizes women by their biological identity at birth rather than their gender identity for purpose of organized sports.",
+  "summary": "EDUCATION -- FAIRNESS IN WOMEN'S SPORTS ACT - Categorizes women by their biological identity at birth rather than their gender identity for purpose of organized sports.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/S2293/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/S2293/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Elaine Morgan (R) [Sen]",
+    "Gordon Rogers (R) [Sen]",
+    "Thomas Paolino (R) [Sen]",
+    "Jessica de la Cruz (R) [Sen]",
+    "Leonidas Raptakis (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Introduced, referred to Senate Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Withdrawn at sponsor's request",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-23",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/SenateText26/S2293.pdf",
+      "doc_id": 3330254
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Education",
+    "EDUCATION -- FAIRNESS IN WOMEN'S SPORTS ACT"
+  ]
+}

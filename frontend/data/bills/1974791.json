@@ -1,0 +1,72 @@
+{
+  "id": 1974791,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB1393",
+  "title": "Relating to electronic health record requirements, including the recording of an individual's biological sex.",
+  "summary": "Relating to electronic health record requirements, including the recording of an individual's biological sex.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB1393/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB1393/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1393",
+  "sponsors": [
+    "Bob Hall (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-19",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-19",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Referred to Health & Human Services",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-19",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB01393I.htm",
+      "doc_id": 3129825
+    }
+  ],
+  "committee": {
+    "committee_id": 1911,
+    "chamber": "S",
+    "chamber_id": 92,
+    "name": "Health & Human Services"
+  },
+  "subjects": [
+    "Electronic Information Systems",
+    "Health",
+    "Health--Privacy/Use of Information",
+    "HEALTH & HUMAN SERVICES COMMISSION",
+    "INSURANCE, TEXAS DEPARTMENT OF",
+    "MEDICAL BOARD, TEXAS",
+    "GENDER IDENTITY & EXPRESSION"
+  ]
+}

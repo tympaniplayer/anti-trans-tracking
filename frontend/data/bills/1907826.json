@@ -1,0 +1,270 @@
+{
+  "id": 1907826,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5167",
+  "title": "Revised for 1st substitute: Making 2025-2027 fiscal biennium operating appropriations and 2023-2025 fiscal biennium second supplemental operating appropriations.",
+  "summary": "Revised for 1st substitute: Making 2025-2027 fiscal biennium operating appropriations and 2023-2025 fiscal biennium second supplemental operating appropriations.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5167/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5167/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5167&Year=2025&Initiative=false",
+  "sponsors": [
+    "June Robinson (D) [Sen]",
+    "T'wina Nobles (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-20",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "Prefiled for introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading, referred to Ways & Means.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Public hearing in the Senate Committee on Ways & Means at 4:00 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Public hearing in the Senate Committee on Ways & Means at 4:00 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Executive action taken in the Senate Committee on Ways & Means at 4:00 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "WM - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Minority; do not pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "Passed to Rules Committee for second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "Placed on second reading by Rules Committee.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-29",
+      "action": "1st substitute bill substituted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-29",
+      "action": "Floor amendment",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-29",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-29",
+      "action": "Third reading, passed; yeas, 28; nays, 21; absent, 0; excused, 0.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Read first time, rules suspended, and placed on second reading calendar.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Floor amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Third reading, passed; yeas, 54; nays, 44; absent, 0; excused, 0.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Senate refuses to concur in the House amendments.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Conference Requested.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Conference committee appointed. Senators Robinson, Stanford, Gildon.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-21",
+      "action": "Conference committee request granted.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-21",
+      "action": "Conference committee appointed. Representatives Ormsby, Macri, Couture.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-26",
+      "action": "Conference committee report; received 11:01 AM 4/26/2025.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-26",
+      "action": "Conference committee report; received 11:15 AM 4/26/2025.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-27",
+      "action": "Conference committee report adopted.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-27",
+      "action": "Passed final passage as recommended by conference committee; yeas, 52; nays, 45; absent, 0; excused, 1.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-27",
+      "action": "Conference committee report adopted.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-27",
+      "action": "Passed final passage as recommended by conference committee; yeas, 28; nays, 19; absent, 0; excused, 1.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-27",
+      "action": "President signed.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-27",
+      "action": "Speaker signed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Delivered to Governor.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Governor partially vetoed.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Chapter 424, 2025 Laws PV.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Effective date 5/20/2025*.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-27",
+      "description": "Senate Committee on Ways & Means: 1st substitute bill be substituted, do pass",
+      "yea": 15,
+      "nay": 7,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-29",
+      "description": "Senate 3rd Reading & Final Passage",
+      "yea": 28,
+      "nay": 21,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-31",
+      "description": "House Final Passage as Amended by the House",
+      "yea": 54,
+      "nay": 44,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-27",
+      "description": "House Final Passage as Recommended by the Conference Committee",
+      "yea": 52,
+      "nay": 45,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-27",
+      "description": "Senate Final Passage as Recommended by Conference Committee",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5167.pdf",
+      "doc_id": 3043523
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5167-S.pdf",
+      "doc_id": 3193927
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5167-S.E.pdf",
+      "doc_id": 3194166
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Enrolled",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Passed%20Legislature/5167-S.PL.pdf",
+      "doc_id": 3222825
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Chaptered",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Session%20Laws/Senate/5167-S.SL.pdf",
+      "doc_id": 3246055
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2097077,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A2711",
+  "title": "\"Reasonable Pediatric Questions Act\"; eliminates requirement for clinical laboratories to ask certain children questions about gender identity and sexual orientation.",
+  "summary": "\"Reasonable Pediatric Questions Act\"; eliminates requirement for clinical laboratories to ask certain children questions about gender identity and sexual orientation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A2711/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A2711/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A2711",
+  "sponsors": [
+    "Paul Kanitra (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Health Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-05",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A3000/2711_I1.HTM",
+      "doc_id": 3336137
+    }
+  ],
+  "committee": {
+    "committee_id": 4191,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Health"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

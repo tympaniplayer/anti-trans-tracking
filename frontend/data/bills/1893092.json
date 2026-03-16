@@ -1,0 +1,68 @@
+{
+  "id": 1893092,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB1470",
+  "title": "Relating to a task force to study the legal and societal barriers to equality for transgender persons.",
+  "summary": "Relating to a task force to study the legal and societal barriers to equality for transgender persons.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB1470/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB1470/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1470",
+  "sponsors": [
+    "Ron Reynolds (D) [Rep]"
+  ],
+  "introduced_date": "2024-11-25",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-25",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Referred to State Affairs",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-11-25",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB01470I.htm",
+      "doc_id": 3029148
+    }
+  ],
+  "committee": {
+    "committee_id": 1895,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "Governor",
+    "Human Relations",
+    "State Agencies, Boards & Commissions",
+    "GENDER IDENTITY & EXPRESSION",
+    "LIEUTENANT GOVERNOR",
+    "SPEAKER OF THE HOUSE",
+    "CIVIL RIGHTS DIVISION, TEXAS WORKFORCE COMMISSION",
+    "TRANSGENDER EQUALITY TASK FORCE"
+  ]
+}

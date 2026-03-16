@@ -1,0 +1,65 @@
+{
+  "id": 2069914,
+  "state": "KS",
+  "state_name": "Kansas",
+  "bill_number": "HB2426",
+  "title": "Defining the term \"gender\" to mean biological sex at birth for purposes of statutory construction, directing the division of motor vehicles to invalidate and reissue driver's licenses when necessary when necessary to correct the gender identification on such licenses and directing the office of vital statistics to invalidate and reissue birth certificates when necessary to correct the sex identification on such certificates.",
+  "summary": "Defining the term \"gender\" to mean biological sex at birth for purposes of statutory construction, directing the division of motor vehicles to invalidate and reissue driver's licenses when necessary when necessary to correct the gender identification on such licenses and directing the office of vital statistics to invalidate and reissue birth certificates when necessary to correct the sex identification on such certificates.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "identity_documents",
+    "definitions"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KS/bill/HB2426/2025",
+  "legiscan_url": "https://legiscan.com/KS/bill/HB2426/2025",
+  "state_url": "https://kslegislature.gov/li/b2025_26/measures/hb2426/",
+  "sponsors": [
+    "Susan Humphries (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-12",
+      "action": "House Prefiled for Introduction on Friday, January 9, 2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "House Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "House Referred to Committee on Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "House Hearing: Tuesday, January 13, 2026, 3:30 PM Room 582-N",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/hb2426_00_0000.pdf",
+      "doc_id": 3304689
+    }
+  ],
+  "committee": {
+    "committee_id": 1386,
+    "chamber": "H",
+    "chamber_id": 41,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

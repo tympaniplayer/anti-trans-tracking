@@ -1,0 +1,54 @@
+{
+  "id": 2116881,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "S2598",
+  "title": "Prohibits gender transition procedures for all minors, uses of public funds, discipline for health care providers, a 30 year statute of limitation, after reaching age of majority, and right to a civil action for damages.",
+  "summary": "HEALTH AND SAFETY -- RHODE ISLAND'S CHILDREN DESERVE HELP NOT HARM ACT -- MINOR'S GENDER TRANSITION - Prohibits gender transition procedures for all minors, uses of public funds, discipline for health care providers, a 30 year statute of limitation, after reaching age of majority, and right to a civil action for damages.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/S2598/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/S2598/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Elaine Morgan (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-13",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-13",
+      "action": "Introduced, referred to Senate Judiciary",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-13",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/SenateText26/S2598.pdf",
+      "doc_id": 3362264
+    }
+  ],
+  "committee": {
+    "committee_id": 1140,
+    "chamber": "S",
+    "chamber_id": 84,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Health And Safety",
+    "HEALTH AND SAFETY -- RHODE ISLAND'S CHILDREN DESERVE HELP NOT HARM ACT",
+    "HEALTH AND SAFETY -- RHODE ISLAND'S CHILDREN DESERVE HELP NOT HARM ACT -- MINOR'S GENDER TRANSITION"
+  ]
+}

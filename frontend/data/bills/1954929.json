@@ -1,0 +1,95 @@
+{
+  "id": 1954929,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A04617",
+  "title": "Creates statewide emergency and crisis response council to work in conjunction with the commissioners of mental health and addiction services to jointly approve emergency and crisis services plans submitted by local governments, and provide supports regarding the operation and financing of high-quality emergency and crisis services provided to persons experiencing a mental health, alcohol use, or substance use crisis.",
+  "summary": "Creates statewide emergency and crisis response council to work in conjunction with the commissioners of mental health and addiction services to jointly approve emergency and crisis services plans submitted by local governments, and provide supports regarding the operation and financing of high-quality emergency and crisis services provided to persons experiencing a mental health, alcohol use, or substance use crisis.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A04617/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A04617/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A4617",
+  "sponsors": [
+    "Harry Bronson (D) [Rep]",
+    "Monique Chandler-Waterman (D) [Rep]",
+    "Charles Fall (D) [Rep]",
+    "Sarah Clark (D) [Rep]",
+    "Emily Gallagher (D) [Rep]",
+    "Linda Rosenthal (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Demond Meeks (D) [Rep]",
+    "Tony Simone (D) [Rep]",
+    "Amanda Septimo (D) [Rep]",
+    "Rodneyse Bichotte Hermelyn (D) [Rep]",
+    "Chantel Jackson (D) [Rep]",
+    "Sarahana Shrestha (D) [Rep]",
+    "Albert Stirpe (D) [Rep]",
+    "Phara Souffrant Forrest (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Jennifer Lunsford (D) [Rep]",
+    "Catalina Cruz (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Brian Cunningham (D) [Rep]",
+    "Keith Brown (R) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Maryjane Shimsky (D) [Rep]",
+    "Steven Otis (D) [Rep]",
+    "Alex Bores (D) [Rep]",
+    "Robert Carroll (D) [Rep]",
+    "Anna Kelles (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Alfred Taylor (D) [Rep]",
+    "Eddie Gibbs (D) [Rep]",
+    "Steven Raga (D) [Rep]",
+    "Harvey Epstein (D) [Rep]",
+    "Zohran Kwame Mamdani (D) [Rep]",
+    "Khaleel Anderson (D) [Rep]",
+    "Claire Valdez (D) [Rep]",
+    "Christopher Burdick (D) [Rep]",
+    "Philip Ramos (D) [Rep]",
+    "Landon Dais (D) [Rep]",
+    "Gabriella Romero (D) [Rep]",
+    "Phillip Steck (D) [Rep]",
+    "Angelo Santabarbara (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-04",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-04",
+      "action": "referred to mental health",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to mental health",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-04",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A04617&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A04617",
+      "doc_id": 3099217
+    }
+  ],
+  "committee": {
+    "committee_id": 377,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Mental Health"
+  },
+  "subjects": []
+}

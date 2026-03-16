@@ -1,0 +1,54 @@
+{
+  "id": 2130069,
+  "state": "CT",
+  "state_name": "Connecticut",
+  "bill_number": "SB00470",
+  "title": "An Act Concerning The Legislative Commissioners' Recommendations For Technical And Minor Revisions To The Government Administration Statutes.",
+  "summary": "To make technical and minor revisions to the government administration statutes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CT/bill/SB00470/2026",
+  "legiscan_url": "https://legiscan.com/CT/bill/SB00470/2026",
+  "state_url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00470&which_year=2026",
+  "sponsors": [
+    "Government Administration and Elections Committee [Jnt]"
+  ],
+  "introduced_date": "2026-03-06",
+  "session": "2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-03-06",
+      "action": "Referred to Joint Committee on Government Administration and Elections",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Public Hearing 03/13",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-05",
+      "type": "Introduced",
+      "url": "https://www.cga.ct.gov/2026/TOB/S/PDF/2026SB-00470-R00-SB.PDF",
+      "doc_id": 3386373
+    }
+  ],
+  "committee": {
+    "committee_id": 1348,
+    "chamber": "J",
+    "chamber_id": 108,
+    "name": "Government Administration and Elections"
+  },
+  "subjects": []
+}

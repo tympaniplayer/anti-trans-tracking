@@ -1,0 +1,60 @@
+{
+  "id": 2057406,
+  "state": "FL",
+  "state_name": "Florida",
+  "bill_number": "S0790",
+  "title": "Education",
+  "summary": "Repealing a provision relating to prohibited training or instruction in specified concepts which constitutes discrimination on the basis of race, color, national origin, or sex; repealing a provision relating to personal titles and pronouns; deleting a prohibition against classroom instruction, in specified grades, on sexual orientation and gender identity; authorizing and encouraging Florida College System institutions, state universities, and direct-support organizations to develop programs based on diversity, equity, and inclusion principles; authorizing school library media centers to provide materials and information presenting all points of view, etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/FL/bill/S0790/2026",
+  "legiscan_url": "https://legiscan.com/FL/bill/S0790/2026",
+  "state_url": "https://www.flsenate.gov/Session/Bill/2026/790",
+  "sponsors": [
+    "Tracie Davis (D) [Sen]",
+    "Barbara Sharief (D) [Sen]"
+  ],
+  "introduced_date": "2025-12-08",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-08",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-16",
+      "action": "Referred to Education Pre-K - 12; Judiciary; Rules",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Introduced",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-08",
+      "type": "Introduced",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/790/BillText/Filed/HTML",
+      "doc_id": 3288988
+    }
+  ],
+  "committee": {
+    "committee_id": 547,
+    "chamber": "S",
+    "chamber_id": 28,
+    "name": "Education Pre-K - 12"
+  },
+  "subjects": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2021853,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB1338",
+  "title": "Ending PUSHOUT Act of 2025 Ending Punitive, Unfair, School-based Harm that is Overt and Unresponsive to Trauma Act of 2025",
+  "summary": "A bill to reduce exclusionary discipline practices in schools, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB1338/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB1338/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1338/all-info",
+  "sponsors": [
+    "Cory Booker (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-08",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-04-08",
+      "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-21",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s1338/BILLS-119s1338is.pdf",
+      "doc_id": 3217579
+    }
+  ],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

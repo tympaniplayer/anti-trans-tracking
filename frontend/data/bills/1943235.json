@@ -1,0 +1,55 @@
+{
+  "id": 1943235,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5550",
+  "title": "Funding the state transportation system using climate commitment act revenues.",
+  "summary": "Funding the state transportation system using climate commitment act revenues.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5550/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5550/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5550&Year=2025&Initiative=false",
+  "sponsors": [
+    "Drew MacEwen (R) [Sen]",
+    "Jeff Wilson (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-28",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-28",
+      "action": "First reading, referred to Transportation.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5550.pdf",
+      "doc_id": 3084522
+    }
+  ],
+  "committee": {
+    "committee_id": 961,
+    "chamber": "S",
+    "chamber_id": 98,
+    "name": "Transportation"
+  },
+  "subjects": []
+}

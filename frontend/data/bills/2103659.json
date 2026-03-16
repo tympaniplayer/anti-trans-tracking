@@ -1,0 +1,56 @@
+{
+  "id": 2103659,
+  "state": "ID",
+  "state_name": "Idaho",
+  "bill_number": "H0572",
+  "title": "Adds to existing law to establish the Pediatric Secretive Transitions Parental Rights Act.",
+  "summary": "PEDIATRIC SECRETIVE TRANSITIONS PARENTAL RIGHTS ACT -- Adds to existing law to establish the Pediatric Secretive Transitions Parental Rights Act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ID/bill/H0572/2026",
+  "legiscan_url": "https://legiscan.com/ID/bill/H0572/2026",
+  "state_url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0572/",
+  "sponsors": [
+    "State Affairs Committee [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "Introduced, read first time, referred to JRA for Printing",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Reported Printed and Referred to Judiciary, Rules & Administration",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0572.pdf",
+      "doc_id": 3343490
+    }
+  ],
+  "committee": {
+    "committee_id": 1525,
+    "chamber": "H",
+    "chamber_id": 33,
+    "name": "Judiciary, Rules and Administration"
+  },
+  "subjects": [
+    "PEDIATRIC SECRETIVE TRANSITIONS PARENTAL RIGHTS ACT"
+  ]
+}

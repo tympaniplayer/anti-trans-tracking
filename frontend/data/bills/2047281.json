@@ -1,0 +1,59 @@
+{
+  "id": 2047281,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4633",
+  "title": "Relative to restraining orders as they pertain to hate crimes",
+  "summary": "Relative to restraining orders as they pertain to hate crimes",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4633/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4633/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4633",
+  "sponsors": [
+    "Joint Committee on the Judiciary [Jnt]"
+  ],
+  "introduced_date": "2025-10-23",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-10-23",
+      "action": "Reported from the committee on The Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "New draft of H1608",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-23",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4633.pdf",
+      "doc_id": 3274548
+    }
+  ],
+  "committee": {
+    "committee_id": 737,
+    "chamber": "H",
+    "chamber_id": 51,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

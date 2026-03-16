@@ -1,0 +1,52 @@
+{
+  "id": 2097762,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A1362",
+  "title": "Requires modernization of all State blanks, forms, documents, and applications to incorporate new standards for collection of information about sex, gender, and sexual orientation.",
+  "summary": "Requires modernization of all State blanks, forms, documents, and applications to incorporate new standards for collection of information about sex, gender, and sexual orientation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A1362/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A1362/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A1362",
+  "sponsors": [
+    "Ellen Park (D) [Rep]",
+    "Roy Freiman (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly State and Local Government Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-22",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A1500/1362_I1.HTM",
+      "doc_id": 3336826
+    }
+  ],
+  "committee": {
+    "committee_id": 3085,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "State and Local Government"
+  },
+  "subjects": [
+    "State and Local Government"
+  ]
+}

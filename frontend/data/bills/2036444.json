@@ -1,0 +1,86 @@
+{
+  "id": 2036444,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A08869",
+  "title": "Authorizes the denial of access to certain public records which relate to civil investigations; requires the superintendent of state police to provide the department of law with direct, real-time access to the criminal gun clearinghouse; relates to the enforcement powers of the attorney general; authorizes the attorney general to investigate and bring any civil action addressing repeated or persistent discrimination in elementary and secondary schools; requires the compromise of any claim which the state may have for care, maintenance or treatment furnished in hospitals or other such facilities to be made accordance with parameters established by the office of the attorney general; allows the commissioner of health to waive bills or compromise bills for the maintenance, care and treatment furnished to patients in medical facilities upon the prior approval of the comptroller alone.",
+  "summary": "Authorizes the denial of access to certain public records which relate to civil investigations; requires the superintendent of state police to provide the department of law with direct, real-time access to the criminal gun clearinghouse; relates to the enforcement powers of the attorney general; authorizes the attorney general to investigate and bring any civil action addressing repeated or persistent discrimination in elementary and secondary schools; requires the compromise of any claim which the state may have for care, maintenance or treatment furnished in hospitals or other such facilities to be made accordance with parameters established by the office of the attorney general; allows the commissioner of health to waive bills or compromise bills for the maintenance, care and treatment furnished to patients in medical facilities upon the prior approval of the comptroller alone.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "bathrooms",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A08869/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A08869/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A8869",
+  "sponsors": [
+    "Gabriella Romero (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-09",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-06-09",
+      "action": "referred to ways and means",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-17",
+      "action": "reported referred to rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-17",
+      "action": "reported",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-17",
+      "action": "rules report cal.882",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-17",
+      "action": "ordered to third reading rules cal.882",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-17",
+      "action": "substituted by s8411",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-17",
+      "description": "Assembly Rules Committee: Favorable",
+      "yea": 21,
+      "nay": 9,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-17",
+      "description": "Assembly Ways And Means Committee: Favorable refer to committee Rules",
+      "yea": 22,
+      "nay": 10,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-06-09",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08869&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08869",
+      "doc_id": 3253832
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

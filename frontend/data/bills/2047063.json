@@ -1,0 +1,131 @@
+{
+  "id": 2047063,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4644",
+  "title": "Enhancing child welfare protections",
+  "summary": "Enhancing child welfare protections",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4644/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4644/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4644",
+  "sponsors": [
+    "House Committee on Ways and Means [Rep]"
+  ],
+  "introduced_date": "2025-10-22",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-10-22",
+      "action": "Reported from the committee on House Ways and Means",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "Pending new draft of H4416",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "New draft of H4416",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "Ordered to a third reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "Rules suspended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "Read third",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "Amendment 6 pending",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "Point of Order pending",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "Point of Order well taken",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "Amendment 6 laid aside",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "Amendment 3 adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "Amendment 17 adopted, as changed - 159 YEAS to 1 NAYS (See YEA and NAY No. 94 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "Amendment 5 adopted, as changed - 160 YEAS to 0 NAYS (See YEA and NAY No. 95 )",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "Published as amended, see H4646",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-10-22",
+      "description": "House  Amendment 17 adopted, as changed - 159 YEAS to 1 NAYS",
+      "yea": 159,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-22",
+      "description": "House  Amendment 5 adopted, as changed - 160 YEAS to 0 NAYS",
+      "yea": 160,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-10-22",
+      "description": "House  Passed to be engrossed - 159 YEAS to 1 NAYS",
+      "yea": 159,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4644.pdf",
+      "doc_id": 3274174
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

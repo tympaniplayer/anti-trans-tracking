@@ -1,0 +1,78 @@
+{
+  "id": 2113362,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "SB179",
+  "title": "AN ACT relating to sex-based classifications.",
+  "summary": "Create new sections of KRS Chapter 61 to define \"boy,\" \"equal,\" \"female,\" \"girl,\" \"male,\" \"man,\" \"sex,\" and \"woman\"; prohibit any state or local law, regulation, ordinance, or policy from treating males or females unfairly from similiarly situated members of the opposite sex, but permit separation of the sexes if in the interest of maintaining safety, privacy, and fairness; provide a non-exhaustive list of examples of areas in which public entities may distinguish between the sexes; require any public school, public school district, state agency, department, local government, special district or any political subdivision of those entities that collects vital statistics to identify each person as either male or female; provide that the Act may be cited as the Kentucky Women's Bill of Rights.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/SB179/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/SB179/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/sb179.html",
+  "sponsors": [
+    "Lindsey Tichenor (R) [Sen]",
+    "Shelley Frommeyer (R) [Sen]",
+    "Gary Boswell (R) [Sen]",
+    "Rick Girdler (R) [Sen]",
+    "Jimmy Higdon (R) [Sen]",
+    "Scott Madon (R) [Sen]",
+    "Robert Mills (R) [Sen]",
+    "Matt Nunn (R) [Sen]",
+    "Steve Rawlings (R) [Sen]",
+    "Aaron Reed (R) [Sen]",
+    "Gex Williams (R) [Sen]",
+    "Mike Wilson (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-10",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-10",
+      "action": "introduced in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "to Committee on Committees (S)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb179/orig_bill.pdf",
+      "doc_id": 3357075
+    }
+  ],
+  "committee": {
+    "committee_id": 336,
+    "chamber": "S",
+    "chamber_id": 44,
+    "name": "Committee on Committees"
+  },
+  "subjects": [
+    "Children and Minors",
+    "Civil Rights",
+    "Corrections Impact",
+    "Education, Elementary and Secondary",
+    "Education, Higher",
+    "Local Government",
+    "Local Mandate",
+    "Men",
+    "Short Titles and Popular Names",
+    "State Agencies",
+    "Women"
+  ]
+}

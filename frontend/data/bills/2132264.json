@@ -1,0 +1,56 @@
+{
+  "id": 2132264,
+  "state": "SC",
+  "state_name": "South Carolina",
+  "bill_number": "H5354",
+  "title": "Department of Social Services",
+  "summary": "Amend The South Carolina Code Of Laws By Adding Section 63-7-2355 So As To Require That Children In Foster Care Who Are Placed In Residential Facilities Be Assigned To Sex-specific Facilities Based On The Child's Anatomical Sex At Birth As Recognized On Their Original Birth Certificate.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms",
+    "education",
+    "identity_documents"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SC/bill/H5354/2025",
+  "legiscan_url": "https://legiscan.com/SC/bill/H5354/2025",
+  "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=5354&session=126&summary=B",
+  "sponsors": [
+    "Donald McCabe (R) [Rep]"
+  ],
+  "introduced_date": "2026-03-11",
+  "session": "126th General Assembly",
+  "actions": [
+    {
+      "date": "2026-03-11",
+      "action": "Introduced and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Referred to Committee on Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-11",
+      "type": "Introduced",
+      "url": "https://www.scstatehouse.gov/sess126_2025-2026/prever/5354_20260311.htm",
+      "doc_id": 3391036
+    }
+  ],
+  "committee": {
+    "committee_id": 708,
+    "chamber": "H",
+    "chamber_id": 85,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

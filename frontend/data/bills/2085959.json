@@ -1,0 +1,49 @@
+{
+  "id": 2085959,
+  "state": "MS",
+  "state_name": "Mississippi",
+  "bill_number": "SB2359",
+  "title": "Mississippi Civil Rights Act; enact.",
+  "summary": "An Act To Enact The Mississippi Civil Rights Act; To Define Terms; To Provide That The Right Of A Person To Be Free From Discrimination Because Of Race, Color, Religion, National Origin, Immigrant Status, Sex, Sexual Orientation, Gender Identity, Disability Or Familial Status Is A Civil Right; To Provide Remedies For Violations; And For Related Purposes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MS/bill/SB2359/2026",
+  "legiscan_url": "https://legiscan.com/MS/bill/SB2359/2026",
+  "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2359.xml",
+  "sponsors": [
+    "Derrick Simmons (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-19",
+      "action": "Referred To Judiciary, Division A",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Died In Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-19",
+      "type": "Introduced",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/SB/2300-2399/SB2359IN.htm",
+      "doc_id": 3323332
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,49 @@
+{
+  "id": 2116308,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB1926",
+  "title": "Health Care Payments Data Program.",
+  "summary": "An act to amend Section 127673 of the Health and Safety Code, relating to public health.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB1926/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB1926/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1926",
+  "sponsors": [
+    "Blanca Pacheco (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-12",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "From printer. May be heard in committee March 15.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-12",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1926#99INT",
+      "doc_id": 3361446
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,97 @@
+{
+  "id": 2038398,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HR0138",
+  "title": "A resolution to declare June 2025 as Lesbian, Gay, Bisexual, Transgender, and Queer Pride Month in the state of Michigan.",
+  "summary": "A resolution to declare June 2025 as Lesbian, Gay, Bisexual, Transgender, and Queer Pride Month in the state of Michigan.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HR0138/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HR0138/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HR-0138",
+  "sponsors": [
+    "Jason Morgan (D) [Rep]",
+    "Laurie Pohutsky (D) [Rep]",
+    "Mike McFall (D) [Rep]",
+    "Emily Dievendorf (D) [Rep]",
+    "Jason Hoskins (D) [Rep]",
+    "Noah Arbit (D) [Rep]",
+    "Morgan Foreman (D) [Rep]",
+    "Samantha Steckloff (D) [Rep]",
+    "Natalie Price (D) [Rep]",
+    "Julie Rogers (D) [Rep]",
+    "Julie Brixie (D) [Rep]",
+    "Matt Koleszar (D) [Rep]",
+    "Stephanie Young (D) [Rep]",
+    "Kelly Breen (D) [Rep]",
+    "Matt Longjohn (D) [Rep]",
+    "Betsy Coffia (D) [Rep]",
+    "Penelope Tsernoglou (D) [Rep]",
+    "Carrie Rheingans (D) [Rep]",
+    "Carol Glanville (D) [Rep]",
+    "Veronica Paiz (D) [Rep]",
+    "Tonya Myers Phillips (D) [Rep]",
+    "Regina Weiss (D) [Rep]",
+    "Erin Byrnes (D) [Rep]",
+    "Joey Andrews (D) [Rep]",
+    "Brenda Carter (D) [Rep]",
+    "Denise Mentzer (D) [Rep]",
+    "Amos O'Neal (D) [Rep]",
+    "Jasper Martus (D) [Rep]",
+    "Stephen Wooden (D) [Rep]",
+    "Phil Skaggs (D) [Rep]",
+    "Jennifer Conlin (D) [Rep]",
+    "Sharon MacDonell (D) [Rep]",
+    "John Fitzgerald (D) [Rep]",
+    "Kara Hope (D) [Rep]",
+    "Helena Scott (D) [Rep]",
+    "Angela Witwer (D) [Rep]",
+    "Ranjeev Puri (D) [Rep]",
+    "Mai Xiong (D) [Rep]",
+    "Reggie Miller (D) [Rep]",
+    "Dylan Wegela (D) [Rep]",
+    "Will Snyder (D) [Rep]",
+    "Tullio Liberati (D) [Rep]",
+    "Donavan McKinney (D) [Rep]",
+    "Tyrone Carter (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-26",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-06-26",
+      "action": "Introduced By Representative Rep. Jason Morgan",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-26",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/resolutionintroduced/House/htm/2025-HIR-0138.htm",
+      "doc_id": 3259166
+    }
+  ],
+  "committee": {
+    "committee_id": 899,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Government Operations"
+  },
+  "subjects": []
+}

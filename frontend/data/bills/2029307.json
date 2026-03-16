@@ -1,0 +1,51 @@
+{
+  "id": 2029307,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB1621",
+  "title": "Restoring Fair Housing Protections Eliminated by Trump Act of 2025",
+  "summary": "A bill to restore the fair housing mission of the Department of Housing and Urban Development, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB1621/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB1621/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/1621/all-info",
+  "sponsors": [
+    "Elizabeth Warren (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-06",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-05-06",
+      "action": "Read twice and referred to the Committee on Banking, Housing, and Urban Affairs.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-20",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s1621/BILLS-119s1621is.pdf",
+      "doc_id": 3240646
+    }
+  ],
+  "committee": {
+    "committee_id": 2321,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Banking, Housing, And Urban Affairs"
+  },
+  "subjects": [
+    "Housing and community development"
+  ]
+}

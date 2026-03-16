@@ -1,0 +1,309 @@
+{
+  "id": 1916641,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1296",
+  "title": "Promoting a safe and supportive public education system.",
+  "summary": "Promoting a safe and supportive public education system.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1296/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1296/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1296&Year=2025&Initiative=false",
+  "sponsors": [
+    "Monica Stonier (D) [Rep]",
+    "Nicole Macri (D) [Rep]",
+    "Debra Lekanoff (D) [Rep]",
+    "Beth Doglio (D) [Rep]",
+    "Liz Berry (D) [Rep]",
+    "Osman Salahuddin (D) [Rep]",
+    "Lauren Davis (D) [Rep]",
+    "Alex Ramel (D) [Rep]",
+    "Edwin Obras (D) [Rep]",
+    "Julia Reed (D) [Rep]",
+    "Timm Ormsby (D) [Rep]",
+    "Shaun Scott (D) [Rep]",
+    "Greg Nance (D) [Rep]",
+    "Steve Bergquist (D) [Rep]",
+    "Joe Fitzgibbon (D) [Rep]",
+    "Lisa Parshley (D) [Rep]",
+    "Emily Alvarado (D) [Sen]",
+    "Shelley Kloba (D) [Rep]",
+    "Gerry Pollet (D) [Rep]",
+    "Strom Peterson (D) [Rep]",
+    "Jake Fey (D) [Rep]",
+    "Tarra Simmons (D) [Rep]",
+    "Natasha Hill (D) [Rep]",
+    "Mary Fosse (D) [Rep]"
+  ],
+  "introduced_date": "2025-05-20",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-14",
+      "action": "First reading, referred to Education.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-23",
+      "action": "Public hearing in the House Committee on Education at 8:00 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-30",
+      "action": "Executive action taken in the House Committee on Education at 8:00 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-30",
+      "action": "ED - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-30",
+      "action": "Minority; do not pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Referred to Rules 2 Review.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Rules Committee relieved of further consideration. Placed on second reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "1st substitute bill substituted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Amendment ruled beyond the scope and object of the bill.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Floor amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Third reading, passed; yeas, 56; nays, 37; absent, 0; excused, 5.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-14",
+      "action": "First reading, referred to Early Learning & K-12 Education.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Public hearing in the Senate Committee on Early Learning & K-12 Education at 10:30 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Executive action taken in the Senate Committee on Early Learning & K-12 Education at 10:30 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "EDU - Majority; do pass with amendment",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Minority; do not pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "And refer to Ways & Means.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "Referred to Ways & Means.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-04",
+      "action": "Public hearing in the Senate Committee on Ways & Means at 1:30 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Executive action taken in the Senate Committee on Ways & Means at 1:30 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "WM - Majority; do pass with amendment",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Minority; do not pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Passed to Rules Committee for second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Placed on second reading by Rules Committee.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Committee amendment",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Third reading, passed; yeas, 30; nays, 19; absent, 0; excused, 0.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "House concurred in Senate amendments.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Passed final passage; yeas, 59; nays, 39; absent, 0; excused, 0.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Speaker signed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-25",
+      "action": "President signed.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-26",
+      "action": "Delivered to Governor.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Governor signed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Chapter 369, 2025 Laws.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Effective date 5/20/2025*.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-01-30",
+      "description": "House Committee on Education: 1st substitute bill be substituted, do pass",
+      "yea": 10,
+      "nay": 8,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-12",
+      "description": "House 3rd Reading & Final Passage",
+      "yea": 56,
+      "nay": 37,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-27",
+      "description": "Senate Committee on Early Learning & K-12 Education: do pass with amendment(s)",
+      "yea": 6,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-07",
+      "description": "Senate Committee on Ways & Means: do pass with amendment(s)",
+      "yea": 15,
+      "nay": 8,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-11",
+      "description": "Senate 3rd Reading & Final Passage as Amended by the Senate",
+      "yea": 30,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-24",
+      "description": "House Final Passage as Amended by the Senate",
+      "yea": 59,
+      "nay": 39,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1296.pdf",
+      "doc_id": 3053705
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1296-S.pdf",
+      "doc_id": 3094188
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1296-S.E.pdf",
+      "doc_id": 3174276
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Enrolled",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Passed%20Legislature/1296-S.PL.pdf",
+      "doc_id": 3221737
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Chaptered",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Session%20Laws/House/1296-S.SL.pdf",
+      "doc_id": 3244655
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

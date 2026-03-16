@@ -1,0 +1,88 @@
+{
+  "id": 2029231,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "B26-0231",
+  "title": "Contract No. CW108863 with La Cl\u00ednica del Pueblo, Inc. Approval and Payment Authorization Emergency Act of 2025",
+  "summary": "Contract No. CW108863 with La Cl\u00ednica del Pueblo, Inc. Approval and Payment Authorization Emergency Act of 2025",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/B26-0231/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/B26-0231/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/B26-0231",
+  "sponsors": [
+    "Phil Mendelson (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-19",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2025-04-23",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Retained by the Council",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Final Reading, CC",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-05-09",
+      "action": "Transmitted to Mayor, Response Due on May 23, 2025",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-05-19",
+      "action": "Signed by the Mayor and Enacted with Act Number A26-0071, Expires on Aug 17, 2025",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Returned from Mayor",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Act A26-0071 Published in DC Register Vol 72 and Page 006117, Expires on Aug 17, 2025",
+      "chamber": "C"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-06",
+      "description": "Final Reading, CC",
+      "yea": 12,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-04-23",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/57613/Introduction/B26-0231-Introduction.pdf",
+      "doc_id": 3231143
+    },
+    {
+      "date": "2025-05-06",
+      "type": "Enrolled",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/57613/Meeting1/Enrollment/B26-0231-Enrollment1.pdf",
+      "doc_id": 3233916
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

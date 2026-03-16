@@ -1,0 +1,73 @@
+{
+  "id": 1943766,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB949",
+  "title": "Relating to prohibitions on deceptive and unfair practices related to financial institutions discriminating in the provision of financial services to consumers and other persons.",
+  "summary": "Relating to prohibitions on deceptive and unfair practices related to financial institutions discriminating in the provision of financial services to consumers and other persons.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB949/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB949/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB949",
+  "sponsors": [
+    "Tan Parker (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-28",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-28",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Referred to Business & Commerce",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-28",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00949I.htm",
+      "doc_id": 3085197
+    }
+  ],
+  "committee": {
+    "committee_id": 1904,
+    "chamber": "S",
+    "chamber_id": 92,
+    "name": "Business & Commerce"
+  },
+  "subjects": [
+    "EQUALITY IN FINANCIAL SERVICES ACT",
+    "Business & Commerce",
+    "Business & Commerce--General",
+    "Business & Commerce--Trade Practices",
+    "Civil Remedies & Liabilities",
+    "Financial",
+    "Financial--Banks",
+    "DISCRIMINATION"
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": 2044702,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SR408",
+  "title": "A resolution recognizing September 20, 2025, as \"National LGBTQ+ Servicemembers and Veterans Day\".",
+  "summary": "A resolution recognizing September 20, 2025, as \"National LGBTQ+ Servicemembers and Veterans Day\".",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SR408/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SR408/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/408/all-info",
+  "sponsors": [
+    "Jeff Merkley (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Michael Bennet (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "John Fetterman (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Ben Lujan (D) [Sen]",
+    "Patty Murray (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Brian Schatz (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Sheldon Whitehouse (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Richard Durbin (D) [Sen]"
+  ],
+  "introduced_date": "2025-09-18",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-09-18",
+      "action": "Referred to the Committee on Veterans' Affairs. (text: CR S6738)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-09-20",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/sres408/BILLS-119sres408is.pdf",
+      "doc_id": 3270388
+    }
+  ],
+  "committee": {
+    "committee_id": 2333,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Veterans' Affairs"
+  },
+  "subjects": [
+    "Armed forces and national security"
+  ]
+}

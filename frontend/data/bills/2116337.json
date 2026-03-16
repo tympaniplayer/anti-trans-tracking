@@ -1,0 +1,87 @@
+{
+  "id": 2116337,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB1559",
+  "title": "Children in Unlicensed Settings and Pediatric Hospital Overstay Patients - Placement",
+  "summary": "Prohibiting the placement of children in unlicensed settings under the out-of-home placement program required to be established by the Social Services Administration; altering the duties of the pediatric hospital overstay coordinators; establishing the Child and Youth Placement Review Panel in the Governor's Office for Children with the Placement Manager as its head; establishing the Advisory Council on Maryland's System of Care for Children, Youth, and Families; establishing the Interagency Council on Children, Youth, and Families; etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB1559/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB1559/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1559?ys=2026RS",
+  "sponsors": [],
+  "introduced_date": "2026-02-13",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-13",
+      "action": "First Reading Appropriations and Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Hearing 3/03 at 1:00 p.m. (Appropriations)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-14",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb1559f.pdf",
+      "doc_id": 3363121
+    }
+  ],
+  "committee": {
+    "committee_id": 1922,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Appropriations"
+  },
+  "subjects": [
+    "Children",
+    "Social Services - Generally",
+    "Administrative Agencies",
+    "Children (4-12)",
+    "Committees and Commissions",
+    "Data",
+    "Demographics",
+    "Education, State Board of",
+    "Foster Care",
+    "Governor",
+    "Group Homes",
+    "Health",
+    "Health, Department of",
+    "Health Occupations",
+    "Hospitals",
+    "Hotels and Motels",
+    "Housing",
+    "Human Services, Department of",
+    "Intergovernmental Cooperation",
+    "kinship",
+    "Licenses",
+    "meetings",
+    "Mental and Behavioral Health",
+    "Patients",
+    "Plans and Proposals",
+    "Public Benefits",
+    "Records",
+    "Reports",
+    "Review Boards",
+    "Social Services",
+    "Standards and Best Practices",
+    "studies",
+    "Sunset",
+    "Youth (10-21)"
+  ]
+}

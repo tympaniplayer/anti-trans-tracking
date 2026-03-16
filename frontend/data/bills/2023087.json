@@ -1,0 +1,70 @@
+{
+  "id": 2023087,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR331",
+  "title": "Supporting the goals and ideals of \"National Youth HIV/AIDS Awareness Day\".",
+  "summary": "Supporting the goals and ideals of \"National Youth HIV/AIDS Awareness Day\".",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR331/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR331/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/331/all-info",
+  "sponsors": [
+    "Mark Pocan (D) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "Steve Cohen (D) [Rep]",
+    "Danny Davis (D) [Rep]",
+    "Dwight Evans (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Robin Kelly (D) [Rep]",
+    "Jerrold Nadler (D) [Rep]",
+    "Alexandria Ocasio-Cortez (D) [Rep]",
+    "Terri Sewell (D) [Rep]",
+    "Lateefah Simon (D) [Rep]",
+    "Maxine Waters (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Julie Johnson (D) [Rep]",
+    "Emanuel Cleaver (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-10",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-04-10",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-11",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres331/BILLS-119hres331ih.pdf",
+      "doc_id": 3209718
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

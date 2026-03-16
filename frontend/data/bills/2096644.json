@@ -1,0 +1,64 @@
+{
+  "id": 2096644,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A618",
+  "title": "Concerns false public alarms involving places of worship.",
+  "summary": "Concerns false public alarms involving places of worship.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A618/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A618/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A618",
+  "sponsors": [
+    "Gary Schaer (D) [Rep]",
+    "Alexander Schnall (D) [Rep]",
+    "Rosy Bagolie (D) [Rep]",
+    "Tennille McCoy (D) [Rep]",
+    "Michael Inganamort (R) [Rep]",
+    "Verlina Reynolds-Jackson (D) [Rep]",
+    "Sean Kean (R) [Rep]",
+    "Dawn Fantasia (R) [Rep]",
+    "Mitchelle Drulis (D) [Rep]",
+    "Anthony Verrelli (D) [Rep]",
+    "Alex Sauickie (R) [Rep]",
+    "John DiMaio (R) [Rep]",
+    "William Sampson (D) [Rep]",
+    "Robert Auth (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Judiciary Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-01",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A1000/618_I1.HTM",
+      "doc_id": 3335702
+    }
+  ],
+  "committee": {
+    "committee_id": 862,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Judiciary"
+  ]
+}

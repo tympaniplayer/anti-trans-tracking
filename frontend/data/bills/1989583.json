@@ -1,0 +1,113 @@
+{
+  "id": 1989583,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "PR26-0094",
+  "title": "Installation of Statue of Bernardo de G\u00e1lvez Commemorative Work Approval Resolution of 2025",
+  "summary": "Installation of Statue of Bernardo de G\u00e1lvez Commemorative Work Approval Resolution of 2025",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/PR26-0094/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/PR26-0094/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/PR26-0094",
+  "sponsors": [
+    "Phil Mendelson (D) [Sen]"
+  ],
+  "introduced_date": "2025-12-16",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Referred to Committee on Committee of the Whole",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-03-07",
+      "action": "Notice of Intent to Act on PR26-0094 Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-09-29",
+      "action": "Notice of Public Hearing Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-10-03",
+      "action": "Notice of Public Hearing Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "Public Hearing Held",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-12-16",
+      "action": "Committee Mark-up of PR26-0094",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-12-16",
+      "action": "Final Reading, CC",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-12-16",
+      "action": "Approved with Resolution Number R26-0281",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-12-30",
+      "action": "Notice of Mark-up filed in the Office of Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-01-06",
+      "action": "Committee Report Filed",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Resolution R26-0281, Effective from Dec 16, 2025 Published in DC Register Vol 73 and Page 002697",
+      "chamber": "C"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-12-16",
+      "description": "Final Reading, CC",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/57248/Introduction/PR26-0094-Introduction.pdf",
+      "doc_id": 3149820
+    },
+    {
+      "date": "2025-12-16",
+      "type": "Enrolled",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/57248/Meeting1/Enrollment/PR26-0094-Enrollment1.pdf",
+      "doc_id": 3371763
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

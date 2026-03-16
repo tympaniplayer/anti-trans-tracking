@@ -1,0 +1,128 @@
+{
+  "id": 1903302,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A00773",
+  "title": "Relates to the use of automated lending decision-making tools by banks for the purposes of making lending decisions; allows loan applicants to consent to or opt out of such use.",
+  "summary": "Relates to the use of automated lending decision-making tools by banks for the purposes of making lending decisions; allows loan applicants to consent to or opt out of such use.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A00773/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A00773/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A773",
+  "sponsors": [
+    "Linda Rosenthal (D) [Rep]",
+    "Micah Lasher (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-08",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "referred to banks",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "amend (t) and recommit to banks",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "print number 773a",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "reported referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "amend and recommit to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "print number 773b",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-05",
+      "action": "reported referred to rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "amend and recommit to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-15",
+      "action": "print number 773c",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-28",
+      "description": "Assembly Banks Committee: Favorable refer to committee Codes",
+      "yea": 20,
+      "nay": 8,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-05",
+      "description": "Assembly Codes Committee: Favorable refer to committee Rules",
+      "yea": 14,
+      "nay": 7,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A00773&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A00773",
+      "doc_id": 3039969
+    },
+    {
+      "date": "2025-01-08",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A00773&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A00773A",
+      "doc_id": 3243090
+    },
+    {
+      "date": "2025-01-08",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A00773&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A00773B",
+      "doc_id": 3250032
+    },
+    {
+      "date": "2025-01-08",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A00773&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A00773C",
+      "doc_id": 3320625
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

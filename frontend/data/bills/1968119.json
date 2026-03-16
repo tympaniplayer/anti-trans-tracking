@@ -1,0 +1,64 @@
+{
+  "id": 1968119,
+  "state": "GA",
+  "state_name": "Georgia",
+  "bill_number": "SB167",
+  "title": "Commerce and Trade; private entities that employ certain AI systems to guard against discrimination caused by such systems; provide",
+  "summary": "A BILL to be entitled an Act to amend Title 10 of the Official Code of Georgia Annotated, relating to commerce and trade, so as to provide broadly for private entities that employ certain AI systems to guard against discrimination caused by such systems; to provide for a description of consequential decisions for which use of automated decision systems shall be regulated; to provide for exemptions; to provide for trade secret protections; to provide for rule making; to provide for certain disclosed records by developers and deployers to be exempt from open records requirements; to provide for enforcement by the Attorney General; to provide for definitions; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "religious_exemptions",
+    "definitions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/GA/bill/SB167/2025",
+  "legiscan_url": "https://legiscan.com/GA/bill/SB167/2025",
+  "state_url": "https://www.legis.ga.gov/legislation/70305",
+  "sponsors": [
+    "Nikki Merritt (D) [Sen]",
+    "Harold Jones (D) [Sen]",
+    "RaShaun Kemp (D) [Sen]",
+    "Nabilah Islam Parkes (D) [Sen]",
+    "Michael Rhett (D) [Sen]",
+    "Donzella James (D) [Sen]",
+    "Elena Parent (D) [Sen]",
+    "Kenya Wicks (D) [Sen]",
+    "Sally Harrell (D) [Sen]",
+    "Randal Mangham (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-12",
+      "action": "Senate Hopper",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Senate Read and Referred",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-13",
+      "type": "Introduced",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/232350",
+      "doc_id": 3117086
+    }
+  ],
+  "committee": {
+    "committee_id": 3251,
+    "chamber": "S",
+    "chamber_id": 30,
+    "name": "Economic Development and Tourism"
+  },
+  "subjects": []
+}

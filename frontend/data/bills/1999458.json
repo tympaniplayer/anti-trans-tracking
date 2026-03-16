@@ -1,0 +1,66 @@
+{
+  "id": 1999458,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB4311",
+  "title": "Relating to required reintegration therapy coursework and training for certain mental health professionals.",
+  "summary": "Relating to required reintegration therapy coursework and training for certain mental health professionals.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB4311/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB4311/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB4311",
+  "sponsors": [
+    "Steve Toth (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-11",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-11",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Referred to State Affairs",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-12",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB04311I.htm",
+      "doc_id": 3172205
+    }
+  ],
+  "committee": {
+    "committee_id": 1895,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "Mental Health & Substance Abuse",
+    "REINTEGRATION THERAPY TRAINING ACT OF 2025",
+    "COUNSELING & THERAPY",
+    "GENDER IDENTITY & EXPRESSION",
+    "BEHAVIORAL HEALTH EXECUTIVE COUNCIL, TEXAS",
+    "HIGHER EDUCATION COORDINATING BOARD, TEXAS"
+  ]
+}

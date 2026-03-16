@@ -1,0 +1,152 @@
+{
+  "id": 2079787,
+  "state": "CO",
+  "state_name": "Colorado",
+  "bill_number": "HB1044",
+  "title": "Measures to Improve Black Maternal Health Equity",
+  "summary": "Concerning measures to improve equity in maternal health.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CO/bill/HB1044/2026",
+  "legiscan_url": "https://legiscan.com/CO/bill/HB1044/2026",
+  "state_url": "https://leg.colorado.gov/bills/HB26-1044",
+  "sponsors": [
+    "Regina English (D) [Rep]",
+    "Junie Joseph (D) [Rep]",
+    "Adrienne Benavidez (D) [Sen]",
+    "Tony Exum (D) [Sen]",
+    "Naquetta Ricks (D) [Rep]",
+    "Jennifer Bacon (D) [Rep]",
+    "Andrew Boesenecker (D) [Rep]",
+    "Kyle Brown (D) [Rep]",
+    "Sean Camacho (D) [Rep]",
+    "Michael Carter (D) [Rep]",
+    "Chad Clifford (D) [Rep]",
+    "Monica Duran (D) [Rep]",
+    "Lori Goldstein (D) [Rep]",
+    "Jamie Jackson (D) [Rep]",
+    "Sheila Lieder (D) [Rep]",
+    "Mandy Lindsay (D) [Rep]",
+    "Julie McCluskie (D) [Rep]",
+    "Kenny Nguyen (D) [Rep]",
+    "Jacque Phillips (D) [Rep]",
+    "Manny Rutinel (D) [Rep]",
+    "Emily Sirota (D) [Rep]",
+    "Tammy Story (D) [Rep]",
+    "Brianna Titone (D) [Rep]",
+    "Elizabeth Velasco (D) [Rep]",
+    "Jenny Willford (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-06",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Introduced In House - Assigned to Health & Human Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "House Committee on Health & Human Services Refer Amended to House Committee of the Whole",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "House Second Reading Special Order - Passed with Amendments - Committee, Floor",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "House Third Reading Passed - No Amendments",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Introduced In Senate - Assigned to Health & Human Services",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-25",
+      "description": "House Health &amp; Human Services: Refer House Bill 26-1044, as amended, to the Committee of the Whole.",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-03",
+      "description": "House: Third Reading Bill",
+      "yea": 49,
+      "nay": 13,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-25",
+      "description": "House Health &amp; Human Services: Adopt amendment L.001 (Attachment G).",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-25",
+      "description": "House Health &amp; Human Services: Adopt amendment L.002 (Attachment H).",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-25",
+      "description": "House Health &amp; Human Services: Adopt amendment L.003 (Attachment I).",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-25",
+      "description": "House Health &amp; Human Services: Adopt amendment L.005 (Attachment J).",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://leg.colorado.gov/bill_files/110785/download",
+      "doc_id": 3316823
+    },
+    {
+      "date": "1969-12-31",
+      "type": "Engrossed",
+      "url": "https://leg.colorado.gov/bill_files/112765/download",
+      "doc_id": 3381712
+    },
+    {
+      "date": "1969-12-31",
+      "type": "Engrossed",
+      "url": "https://leg.colorado.gov/bill_files/112803/download",
+      "doc_id": 3382359
+    }
+  ],
+  "committee": {
+    "committee_id": 916,
+    "chamber": "S",
+    "chamber_id": 22,
+    "name": "Health and Human Services"
+  },
+  "subjects": [
+    "Health Care & Health Insurance",
+    "Professions & Occupations",
+    "Public Health"
+  ]
+}

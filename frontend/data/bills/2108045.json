@@ -1,0 +1,66 @@
+{
+  "id": 2108045,
+  "state": "CO",
+  "state_name": "Colorado",
+  "bill_number": "HB1141",
+  "title": "Discriminatory Practices in Public Schools",
+  "summary": "Concerning civil rights violations involving discriminatory practices in public schools.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CO/bill/HB1141/2026",
+  "legiscan_url": "https://legiscan.com/CO/bill/HB1141/2026",
+  "state_url": "https://leg.colorado.gov/bills/HB26-1141",
+  "sponsors": [
+    "Jennifer Bacon (D) [Rep]",
+    "Chris Kolker (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-04",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "action": "Introduced In House - Assigned to Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "House Committee on Education Refer Amended to Appropriations",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-26",
+      "description": "House Education: Refer House Bill 26-1141, as amended, to the Committee on Appropriations.",
+      "yea": 9,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "1969-12-31",
+      "type": "Introduced",
+      "url": "https://leg.colorado.gov/bill_files/111294/download",
+      "doc_id": 3349033
+    }
+  ],
+  "committee": {
+    "committee_id": 901,
+    "chamber": "H",
+    "chamber_id": 21,
+    "name": "Appropriations"
+  },
+  "subjects": [
+    "Education & School Finance (Pre & K-12)",
+    "State Government"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": 2118678,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "SB1120",
+  "title": "Personal Income Tax Law: Corporation Tax Law: credits: CalCompetes.",
+  "summary": "An act to amend Sections 17059.2 and 23689 of the Revenue and Taxation Code, relating to taxation, and making an appropriation therefor.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/SB1120/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/SB1120/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1120",
+  "sponsors": [
+    "Jerry McNerney (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-17",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-17",
+      "action": "Introduced. Read first time. To Com. on RLS. for assignment. To print.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "From printer. May be acted upon on or after March 20.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Referred to Com. on REV. & TAX.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-17",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1120#99INT",
+      "doc_id": 3365598
+    }
+  ],
+  "committee": {
+    "committee_id": 488,
+    "chamber": "S",
+    "chamber_id": 20,
+    "name": "Revenue and Taxation"
+  },
+  "subjects": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": 1958587,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB1017",
+  "title": "Stop the Invasion of Women\u2019s Spaces Act",
+  "summary": "To prohibit an entity from receiving Federal funds if such entity permits an individual to access or use a single-sex facility on the property of such entity that does not correspond to the biological sex of such person, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms",
+    "definitions"
+  ],
+  "primary_category": "bathrooms",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB1017/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB1017/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/1017/all-info",
+  "sponsors": [
+    "Nancy Mace (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-05",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-02-05",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Referred to the House Committee on Oversight and Government Reform.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-06",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr1017/BILLS-119hr1017ih.pdf",
+      "doc_id": 3155703
+    }
+  ],
+  "committee": {
+    "committee_id": 2311,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Oversight And Government Reform"
+  },
+  "subjects": [
+    "Government operations and politics"
+  ]
+}

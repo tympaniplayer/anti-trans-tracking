@@ -1,0 +1,64 @@
+{
+  "id": 2058152,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB6564",
+  "title": "Historically Underserved Veterans Inclusion Act of 2025",
+  "summary": "To amend title 38, United States Code, to expand the Center for Minority Veterans and the Advisory Committee on Minority Veterans to include services for historically underserved veterans, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB6564/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB6564/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/6564/all-info",
+  "sponsors": [
+    "Sheila Cherfilus-McCormick (D) [Rep]",
+    "Seth Moulton (D) [Rep]",
+    "Dina Titus (D) [Rep]",
+    "Salud Carbajal (D) [Rep]"
+  ],
+  "introduced_date": "2025-12-10",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-12-10",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-10",
+      "action": "Referred to the House Committee on Veterans' Affairs.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-05",
+      "action": "Referred to the Subcommittee on Oversight and Investigations.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-30",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr6564/BILLS-119hr6564ih.pdf",
+      "doc_id": 3298888
+    }
+  ],
+  "committee": {
+    "committee_id": 2631,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Subcommittee on Oversight and Investigations"
+  },
+  "subjects": [
+    "Armed forces and national security"
+  ]
+}

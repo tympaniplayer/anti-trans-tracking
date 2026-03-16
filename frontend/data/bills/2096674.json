@@ -1,0 +1,72 @@
+{
+  "id": 2096674,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A3381",
+  "title": "Updates requirements for licensure in occupational therapy.",
+  "summary": "Updates requirements for licensure in occupational therapy.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A3381/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A3381/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A3381",
+  "sponsors": [
+    "Sterley Stanley (D) [Rep]",
+    "Luanne Peterpaul (D) [Rep]",
+    "Margie Donlon (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Regulated Professions Committee",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Reported out of Asm. Comm. with Amendments, and Referred to Assembly Health Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-12",
+      "description": "Assembly Regulated Professions Committee: Reported with Amendments",
+      "yea": 6,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-07",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A3500/3381_I1.HTM",
+      "doc_id": 3335733
+    },
+    {
+      "date": "2026-02-13",
+      "type": "Amended",
+      "url": "https://pub.njleg.gov/Bills/2026/A3500/3381_R1.HTM",
+      "doc_id": 3362628
+    }
+  ],
+  "committee": {
+    "committee_id": 4191,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Health"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

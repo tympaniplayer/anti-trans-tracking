@@ -1,0 +1,70 @@
+{
+  "id": 1997510,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S857",
+  "title": "To ensure uniform and transparent reporting of medical debt data",
+  "summary": "For legislation to ensure uniform and transparent reporting of medical debt data. Health Care Financing.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S857/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S857/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S857",
+  "sponsors": [
+    "Lydia Edwards (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Health Care Financing",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-02",
+      "action": "Hearing scheduled for 05/12/2025 from 01:00 PM-05:00 PM in Gardner Auditorium",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Accompanied by S842",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S857.pdf",
+      "doc_id": 3162735
+    }
+  ],
+  "committee": {
+    "committee_id": 746,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

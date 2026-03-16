@@ -1,0 +1,82 @@
+{
+  "id": 2108319,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "SB604",
+  "title": "Adoption, Foster Care, and Public Services - Prohibition Against Discrimination",
+  "summary": "Prohibiting a child placement agency from denying a prospective parent's application to adopt a child based on certain characteristics with certain exceptions; prohibiting the Social Services Administration of the Department of Human Services and certain agencies, institutions, and facilities from discriminating against a foster parent, a prospective foster parent, or a child in foster care based on certain characteristics; etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "bathrooms"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/SB604/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/SB604/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0604?ys=2026RS",
+  "sponsors": [
+    "Mary Washington (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "First Reading Judicial Proceedings",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Hearing 2/18 at 1:00 p.m.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-05",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/sb/sb0604f.pdf",
+      "doc_id": 3350346
+    }
+  ],
+  "committee": {
+    "committee_id": 1934,
+    "chamber": "S",
+    "chamber_id": 50,
+    "name": "Judicial Proceedings"
+  },
+  "subjects": [
+    "Family Law",
+    "Human Relations",
+    "Adoption - see also- FamLaw; FosterCare; ParentsGuardians",
+    "Applicants and Applications",
+    "Child Abuse and Neglect",
+    "Disabilities",
+    "Discrimination",
+    "Divorce",
+    "Ethnic Affairs",
+    "Fees",
+    "Foster Care",
+    "Fraud",
+    "Gender",
+    "Goods and Services",
+    "Health",
+    "Housing",
+    "Human Services, Department of",
+    "Immigrants and Citizenship",
+    "Marriage",
+    "Mental and Behavioral Health",
+    "Minors",
+    "Racial Matters",
+    "Religion",
+    "Sexual Orientation",
+    "Social Services",
+    "Support of Dependents"
+  ]
+}

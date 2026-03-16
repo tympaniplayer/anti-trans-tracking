@@ -1,0 +1,59 @@
+{
+  "id": 2067662,
+  "state": "FL",
+  "state_name": "Florida",
+  "bill_number": "S1388",
+  "title": "Offenses Evidencing Prejudice",
+  "summary": "Expanding grounds for the reclassification of offenses to include acts based on the gender or gender identity of any person; requiring that the reclassification occur if the offense was based in whole or in part on specified characteristics of any person; replacing the term \"mental or physical disability\" with the term \"disability\" and revising the definition; requiring that the reclassification of a certain offense occur if the offense was based in whole or in part on a disability of any person, etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/FL/bill/S1388/2026",
+  "legiscan_url": "https://legiscan.com/FL/bill/S1388/2026",
+  "state_url": "https://www.flsenate.gov/Session/Bill/2026/1388",
+  "sponsors": [
+    "Carlos Smith (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-07",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-16",
+      "action": "Referred to Criminal Justice; Appropriations Committee on Criminal and Civil Justice; Fiscal Policy",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Introduced",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-07",
+      "type": "Introduced",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1388/BillText/Filed/HTML",
+      "doc_id": 3302177
+    }
+  ],
+  "committee": {
+    "committee_id": 546,
+    "chamber": "S",
+    "chamber_id": 28,
+    "name": "Criminal Justice"
+  },
+  "subjects": []
+}

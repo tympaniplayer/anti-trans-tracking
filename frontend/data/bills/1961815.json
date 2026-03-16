@@ -1,0 +1,92 @@
+{
+  "id": 1961815,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB422",
+  "title": "Right to Contraception Act",
+  "summary": "A bill to protect an individual's ability to access contraceptives and to engage in contraception and to protect a health care provider's ability to provide contraceptives, contraception, and information related to contraception.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB422/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB422/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/422/all-info",
+  "sponsors": [
+    "Edward Markey (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Michael Bennet (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Lisa Rochester (D) [Sen]",
+    "Maria Cantwell (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Catherine Cortez Masto (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "Ruben Gallego (D) [Sen]",
+    "Kirsten Gillibrand (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "John Hickenlooper (D) [Sen]",
+    "Tim Kaine (D) [Sen]",
+    "Andy Kim (D) [Sen]",
+    "Amy Klobuchar (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Christopher Murphy (D) [Sen]",
+    "Patty Murray (D) [Sen]",
+    "Jon Ossoff (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Gary Peters (D) [Sen]",
+    "Jack Reed (D) [Sen]",
+    "Jacky Rosen (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Brian Schatz (D) [Sen]",
+    "Jeanne Shaheen (D) [Sen]",
+    "Elissa Slotkin (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Mark Warner (D) [Sen]",
+    "Raphael Warnock (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Sheldon Whitehouse (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "John Fetterman (D) [Sen]",
+    "Ben Lujan (D) [Sen]",
+    "Angela Alsobrooks (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-05",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-02-05",
+      "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-07",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s422/BILLS-119s422is.pdf",
+      "doc_id": 3160389
+    }
+  ],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": 2030160,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3316",
+  "title": "Stop Mental Health Stigma in Our Communities Act of 2025",
+  "summary": "To amend the Public Health Service Act to provide for a national outreach and education strategy and research to improve behavioral health among the Asian American, Native Hawaiian, and Pacific Islander population, while addressing stigma against behavioral health treatment among such population.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3316/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3316/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3316/all-info",
+  "sponsors": [
+    "Judy Chu (D) [Rep]",
+    "Suzan DelBene (D) [Rep]",
+    "Grace Meng (D) [Rep]",
+    "Kevin Mullin (D) [Rep]",
+    "Marilyn Strickland (D) [Rep]",
+    "Mark Takano (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Al Green (D) [Rep]",
+    "Jerrold Nadler (D) [Rep]",
+    "Paul Tonko (D) [Rep]",
+    "Derek Tran (D) [Rep]",
+    "Nanette Barragan (D) [Rep]",
+    "Lateefah Simon (D) [Rep]",
+    "Kathy Castor (D) [Rep]",
+    "Yvette Clarke (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Ted Lieu (D) [Rep]",
+    "Daniel Goldman (D) [Rep]",
+    "Jill Tokuda (D) [Rep]",
+    "Pramila Jayapal (D) [Rep]",
+    "Ed Case (D) [Rep]",
+    "Andre Carson (D) [Rep]",
+    "Lloyd Doggett (D) [Rep]",
+    "Stephen Lynch (D) [Rep]",
+    "Andrea Salinas (D) [Rep]",
+    "Seth Moulton (D) [Rep]",
+    "Adriano Espaillat (D) [Rep]"
+  ],
+  "introduced_date": "2025-05-09",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-05-09",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-09",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-17",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3316/BILLS-119hr3316ih.pdf",
+      "doc_id": 3239843
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

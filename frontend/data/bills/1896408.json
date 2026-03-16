@@ -1,0 +1,83 @@
+{
+  "id": 1896408,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB1601",
+  "title": "Relating to the prohibition, prevention, and remedying of certain discrimination.",
+  "summary": "Relating to the prohibition, prevention, and remedying of certain discrimination.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB1601/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB1601/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1601",
+  "sponsors": [
+    "Jon Rosenthal (D) [Rep]",
+    "Jessica Gonzalez (D) [Rep]",
+    "Lauren Ashley Simmons (D) [Rep]",
+    "Venton Jones (D) [Rep]"
+  ],
+  "introduced_date": "2024-12-12",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-12-12",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Referred to State Affairs",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-12-12",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB01601I.htm",
+      "doc_id": 3032812
+    }
+  ],
+  "committee": {
+    "committee_id": 1895,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "FATHER'S DAY",
+    "Civil Remedies & Liabilities",
+    "Courts",
+    "Courts--General",
+    "Education",
+    "Education--School Districts",
+    "Family",
+    "Family--Marriage Relationship",
+    "Housing",
+    "Housing--General",
+    "Religion",
+    "BIRTH & DEATH CERTIFICATES",
+    "CHILD CUSTODY",
+    "DISCRIMINATION",
+    "GENDER IDENTITY & EXPRESSION",
+    "SEXUAL ORIENTATION",
+    "VITAL STATISTICS & RECORDS",
+    "EDUCATION AGENCY, TEXAS",
+    "EDUCATION, COMMISSIONER OF",
+    "WORKFORCE COMMISSION, TEXAS"
+  ]
+}

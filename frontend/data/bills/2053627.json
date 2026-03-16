@@ -1,0 +1,64 @@
+{
+  "id": 2053627,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB6226",
+  "title": "Latino Youth Mental Health Empowerment Act",
+  "summary": "To amend the Public Health Service Act to provide for a national awareness and outreach campaign to improve mental health among the Hispanic and Latino youth population.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB6226/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB6226/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/6226/all-info",
+  "sponsors": [
+    "Andrea Salinas (D) [Rep]",
+    "Melanie Stansbury (D) [Rep]",
+    "Nydia Velazquez (D) [Rep]",
+    "Andre Carson (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Ritchie Torres (D) [Rep]",
+    "Nanette Barragan (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Gabe Vasquez (D) [Rep]"
+  ],
+  "introduced_date": "2025-11-20",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-11-20",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-20",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-11",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr6226/BILLS-119hr6226ih.pdf",
+      "doc_id": 3289875
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

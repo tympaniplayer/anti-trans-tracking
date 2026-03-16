@@ -1,0 +1,79 @@
+{
+  "id": 2130841,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HR426",
+  "title": "Recognizing the month of June 2026 as \"LGBTQ+ Pride Month\" in Pennsylvania.",
+  "summary": "A Resolution recognizing the month of June 2026 as \"LGBTQ+ Pride Month\" in Pennsylvania.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HR426/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HR426/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hr426",
+  "sponsors": [
+    "Jessica Benham (D) [Rep]",
+    "Andre Carroll (D) [Rep]",
+    "Malcolm Kenyatta (D) [Rep]",
+    "La'Tasha Mayes (D) [Rep]",
+    "Abigail Salisbury (D) [Rep]",
+    "Gregory Scott (D) [Rep]",
+    "Ismail Smith-Wade-El (D) [Rep]",
+    "Benjamin Waxman (D) [Rep]",
+    "Dan Frankel (D) [Rep]",
+    "Robert Freeman (D) [Rep]",
+    "Arvind Venkat (D) [Rep]",
+    "Joseph Hohenstein (D) [Rep]",
+    "Timothy Brennan (D) [Rep]",
+    "Ben Sanchez (D) [Rep]",
+    "Christopher Pielli (D) [Rep]",
+    "Jeanne McNeill (D) [Rep]",
+    "Steven Malagari (D) [Rep]",
+    "Tarik Khan (D) [Rep]",
+    "Michael Schlossberg (D) [Rep]",
+    "Stephen Samuelson (D) [Rep]",
+    "Tina Davis (D) [Rep]",
+    "David Delloso (D) [Rep]",
+    "Emily Kinkead (D) [Rep]",
+    "Mary Isaacson (D) [Rep]",
+    "Nikki Rivera (D) [Rep]",
+    "Robert Merski (D) [Rep]",
+    "Melissa Shusterman (D) [Rep]",
+    "Johanny Cepeda-Freytiz (D) [Rep]",
+    "Heather Boyd (D) [Rep]",
+    "Lisa Borowski (D) [Rep]",
+    "Joseph Ciresi (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-09",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-09",
+      "action": "Referred to State Government",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-09",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HR0426/PN2970",
+      "doc_id": 3388446
+    }
+  ],
+  "committee": {
+    "committee_id": 59,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "State Government"
+  },
+  "subjects": []
+}

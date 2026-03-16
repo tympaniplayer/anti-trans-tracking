@@ -1,0 +1,51 @@
+{
+  "id": 2096547,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A261",
+  "title": "Upgrades assault against servicemember to aggravated assault; expands crime of bias intimidation to encompass crimes and offenses committed against servicemembers.",
+  "summary": "Upgrades assault against servicemember to aggravated assault; expands crime of bias intimidation to encompass crimes and offenses committed against servicemembers.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A261/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A261/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A261",
+  "sponsors": [
+    "Paul Kanitra (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Public Safety and Preparedness Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-21",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A0500/261_I1.HTM",
+      "doc_id": 3335599
+    }
+  ],
+  "committee": {
+    "committee_id": 4934,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Public Safety and Preparedness Committee"
+  },
+  "subjects": [
+    "Public Safety and Preparedness"
+  ]
+}

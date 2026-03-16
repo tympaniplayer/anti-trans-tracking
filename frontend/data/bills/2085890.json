@@ -1,0 +1,72 @@
+{
+  "id": 2085890,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "SB558",
+  "title": "Virginia Gaming Commission established; penalties.",
+  "summary": "Virginia Gaming Commission established. Establishes the Virginia Gaming Commission as an independent agency of the Commonwealth, exclusive of the legislative, executive, or judicial branches of government, to oversee and regulate all forms of legal gambling in the Commonwealth except for the state lottery. The bill sets eligibility requirements for the appointment of a Commissioner and Virginia Gaming Commission Board members, provides powers and duties of such Commissioner and Board members, and provides for the transfer of current employees of relevant state agencies to the Commission. The bill contains numerous technical amendments.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/SB558/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/SB558/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/SB558",
+  "sponsors": [
+    "Bryce Reeves (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26100643D",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Referred to Committee on General Laws and Technology",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Fiscal Impact statement From VCSC (1/20/2026 4:29 pm)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Assigned GL&T sub: Gaming",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Incorporated by General Laws and Technology (SB195-Aird) (15-Y 0-N)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-28",
+      "description": "Incorporated by General Laws and Technology (SB195-Aird) (15-Y 0-N)",
+      "yea": 15,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB558/text/SB558",
+      "doc_id": 3323251
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

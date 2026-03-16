@@ -1,0 +1,58 @@
+{
+  "id": 2111118,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "H7597",
+  "title": "JOINT RESOLUTION MAKING AN APPROPRIATION OF $200,000 TO THE RHODE ISLAND BLACK BUSINESS ASSOCIATION (Authorizes the appropriation of the sum of $200,000 to the Rhode Island Black Business Association.)",
+  "summary": "Joint Resolution Making An Appropriation Of $200,000 To The Rhode Island Black Business Association (authorizes The Appropriation Of The Sum Of $200,000 To The Rhode Island Black Business Association.)",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/H7597/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/H7597/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "David Morales (D) [Rep]",
+    "Jennifer Stewart (D) [Rep]",
+    "Nathan Biah (D) [Rep]",
+    "Raymond Hull (D) [Rep]",
+    "John Lombardi (D) [Rep]",
+    "Leonela Felix (D) [Rep]",
+    "Joshua Giraldo (D) [Rep]",
+    "Karen Alzate (D) [Rep]",
+    "Enrique Sanchez (D) [Rep]",
+    "Edith Ajello (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-06",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "action": "Introduced, referred to House Finance",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H7597.pdf",
+      "doc_id": 3351940
+    }
+  ],
+  "committee": {
+    "committee_id": 1119,
+    "chamber": "H",
+    "chamber_id": 83,
+    "name": "Finance"
+  },
+  "subjects": []
+}

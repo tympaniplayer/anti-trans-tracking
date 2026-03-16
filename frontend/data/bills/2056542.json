@@ -1,0 +1,106 @@
+{
+  "id": 2056542,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB2087",
+  "title": "Addressing travel insurance.",
+  "summary": "Addressing travel insurance.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB2087/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB2087/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=2087&Year=2025&Initiative=false",
+  "sponsors": [
+    "Cindy Ryu (D) [Rep]",
+    "Stephanie McClintock (R) [Rep]",
+    "Julia Reed (D) [Rep]",
+    "Janice Zahn (D) [Rep]",
+    "Tarra Simmons (D) [Rep]",
+    "Sharon Santos (D) [Rep]",
+    "Melanie Morgan (D) [Rep]",
+    "Kristine Reeves (D) [Rep]",
+    "Jenny Graham (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Prefiled for introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "First reading, referred to Consumer Protection & Business.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "Public hearing in the House Committee on Consumer Protection & Business at 8:00 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Executive action taken in the House Committee on Consumer Protection & Business at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "CPB - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Minority; do not pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Minority; without recommendation.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Referred to Appropriations.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-04",
+      "description": "House Committee on Consumer Protection & Business: 1st substitute bill be substituted, do pass",
+      "yea": 12,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2087.pdf",
+      "doc_id": 3287843
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/2087-S.pdf",
+      "doc_id": 3350279
+    }
+  ],
+  "committee": {
+    "committee_id": 2759,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Appropriations"
+  },
+  "subjects": []
+}

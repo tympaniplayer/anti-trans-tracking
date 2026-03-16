@@ -1,0 +1,57 @@
+{
+  "id": 2125386,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "H7823",
+  "title": "Establishes a universal and unified healthcare system and reform the current payment system for healthcare coverage in this state.",
+  "summary": "INSURANCE -- UNIVERSAL AND UNIFIED HEALTHCARE SYSTEM ACT - Establishes a universal and unified healthcare system and reform the current payment system for healthcare coverage in this state.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/H7823/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/H7823/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Jennifer Stewart (D) [Rep]",
+    "Rebecca Kislak (D) [Rep]",
+    "Brandon Potter (D) [Rep]",
+    "Teresa Tanzi (D) [Rep]",
+    "Arthur Handy (D) [Rep]",
+    "Jennifer Boylan (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-26",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "action": "Introduced, referred to House Corporations",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-26",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H7823.pdf",
+      "doc_id": 3377740
+    }
+  ],
+  "committee": {
+    "committee_id": 1120,
+    "chamber": "H",
+    "chamber_id": 83,
+    "name": "Corporations"
+  },
+  "subjects": [
+    "Insurance",
+    "INSURANCE -- UNIVERSAL AND UNIFIED HEALTHCARE SYSTEM ACT"
+  ]
+}

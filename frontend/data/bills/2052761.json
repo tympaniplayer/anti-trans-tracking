@@ -1,0 +1,59 @@
+{
+  "id": 2052761,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S2689",
+  "title": "To promote inclusive curriculum in schools",
+  "summary": "For legislationfor legislationfor legislationfor legislation relative to celebrate and teach Native American culture and history, report the accompanying bill (Senate, No. 2689).",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S2689/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S2689/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S2689",
+  "sponsors": [
+    "Committee on Education [Jnt]"
+  ],
+  "introduced_date": "2025-11-17",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-11-17",
+      "action": "Reported from the committee on Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-17",
+      "action": "New draft of S322, S371, S412 and S444",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-17",
+      "action": "Bill reported favorably by committee and referred to the committee on Senate Ways and Means",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-17",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S2689.pdf",
+      "doc_id": 3284533
+    }
+  ],
+  "committee": {
+    "committee_id": 746,
+    "chamber": "S",
+    "chamber_id": 52,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

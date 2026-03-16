@@ -1,0 +1,68 @@
+{
+  "id": 2124905,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR1084",
+  "title": "HIV is Not a Crime Day Resolution",
+  "summary": "Support for the designation of February 28 as \"HIV is Not a Crime Awareness Day\" and affirming that people living with HIV should not be criminalized based on their HIV status.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR1084/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR1084/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/1084/all-info",
+  "sponsors": [
+    "Mark Pocan (D) [Rep]",
+    "Steve Cohen (D) [Rep]",
+    "Danny Davis (D) [Rep]",
+    "Josh Gottheimer (D) [Rep]",
+    "LaMonica McIver (D) [Rep]",
+    "Gwen Moore (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Mark Takano (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Robin Kelly (D) [Rep]",
+    "Becca Balint (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-25",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-02-25",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-26",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres1084/BILLS-119hres1084ih.pdf",
+      "doc_id": 3377040
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

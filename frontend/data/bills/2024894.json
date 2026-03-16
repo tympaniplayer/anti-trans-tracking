@@ -1,0 +1,56 @@
+{
+  "id": 2024894,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S07489",
+  "title": "Provides for temporary exemptions to educational institutions from certain requirements related to the use of multi-occupancy bathrooms and locker rooms; authorizes the use of state building aid for related facility improvements.",
+  "summary": "Provides for temporary exemptions to educational institutions from certain requirements related to the use of multi-occupancy bathrooms and locker rooms; authorizes the use of state building aid for related facility improvements.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms",
+    "religious_exemptions"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S07489/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S07489/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S7489",
+  "sponsors": [
+    "Mark Walczyk (R) [Sen]",
+    "Thomas O'Mara (R) [Sen]"
+  ],
+  "introduced_date": "2025-04-17",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-04-17",
+      "action": "REFERRED TO EDUCATION",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO EDUCATION",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-17",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S07489&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S07489",
+      "doc_id": 3215096
+    }
+  ],
+  "committee": {
+    "committee_id": 423,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Education"
+  },
+  "subjects": []
+}

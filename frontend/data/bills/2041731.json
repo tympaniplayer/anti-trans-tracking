@@ -1,0 +1,62 @@
+{
+  "id": 2041731,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A08993",
+  "title": "Increases penalties for assaulting, stalking, or harassing an elected official.",
+  "summary": "Increases penalties for assaulting, stalking, or harassing an elected official.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A08993/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A08993/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A8993",
+  "sponsors": [
+    "Keith Brown (R) [Rep]",
+    "Jodi Giglio (R) [Rep]",
+    "Michael Novakhov (R) [Rep]",
+    "Joseph Angelino (R) [Rep]",
+    "Alec Brook-Krasny (D) [Rep]",
+    "Joseph DeStefano (R) [Rep]",
+    "Anil Beephan (R) [Rep]",
+    "Karl Brabenec (R) [Rep]",
+    "John Mikulin (R) [Rep]"
+  ],
+  "introduced_date": "2025-08-13",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-08-13",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to codes",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-08-13",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08993&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08993",
+      "doc_id": 3264925
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

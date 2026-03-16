@@ -1,0 +1,64 @@
+{
+  "id": 2110684,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB5484",
+  "title": "FOIA PRIVATE INFO-GENDER",
+  "summary": "Amends the Freedom of Information Act. In the definition of \"private information\", includes gender identity, sexual orientation, and gender expression.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB5484/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB5484/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5484&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Mary Canty (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-06",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "action": "Filed with the Clerk by Rep. Mary Beth Canty",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Assigned to Executive Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=208763&DocName=10400HB5484&DocNum=5484&DocTypeID=HB&LegID=167417&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3355074
+    }
+  ],
+  "committee": {
+    "committee_id": 202,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Executive"
+  },
+  "subjects": []
+}

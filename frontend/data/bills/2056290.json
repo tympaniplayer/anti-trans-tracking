@@ -1,0 +1,87 @@
+{
+  "id": 2056290,
+  "state": "NH",
+  "state_name": "New Hampshire",
+  "bill_number": "HB1447",
+  "title": "Restricting the use of certain public and private facilities on the basis of sex and establishing that such restriction does not qualify as discrimination.",
+  "summary": "Restricting the use of certain public and private facilities on the basis of sex and establishing that such restriction does not qualify as discrimination.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NH/bill/HB1447/2026",
+  "legiscan_url": "https://legiscan.com/NH/bill/HB1447/2026",
+  "state_url": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2754&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1447",
+  "sponsors": [
+    "Lisa Mazur (R) [Rep]",
+    "Sayra Devito (R) [Rep]",
+    "Juliet Harvey-Bolia (R) [Rep]",
+    "Diane Kelley (R) [Rep]",
+    "Lori Korzen (R) [Rep]",
+    "Melissa Litchfield (R) [Rep]",
+    "Linda McGrath (R) [Rep]",
+    "Mary Murphy (R) [Rep]",
+    "Katherine Prudhomme-O'Brien (R) [Rep]",
+    "Sherri Reinfurt (R) [Rep]",
+    "Victoria Sullivan (R) [Sen]"
+  ],
+  "introduced_date": "2025-12-04",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-04",
+      "action": "Introduced 01/07/2026 and referred to Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Public Hearing: 02/20/2026 11:30 am GP 231",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Executive Session: 02/20/2026 11:30 am GP 231",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Majority Committee Report: Ought to Pass 02/20/2026 (Vote 10-7; Regular Calendar)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Minority Committee Report: Inexpedient to Legislate",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Ought to Pass: Motion Adopted Regular Calendar 184-154 03/12/2026 House Journal  8",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-12",
+      "description": "OTP",
+      "yea": 184,
+      "nay": 154,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&id=1962&txtFormat=html",
+      "doc_id": 3288590
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

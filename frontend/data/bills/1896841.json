@@ -1,0 +1,71 @@
+{
+  "id": 1896841,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5038",
+  "title": "Clarifying a hate crime offense.",
+  "summary": "Clarifying a hate crime offense.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5038/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5038/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5038&Year=2025&Initiative=false",
+  "sponsors": [
+    "Manka Dhingra (D) [Sen]",
+    "Javier Valdez (D) [Sen]",
+    "Jesse Salomon (D) [Sen]",
+    "Jamie Pedersen (D) [Sen]",
+    "Yasmin Trudeau (D) [Sen]",
+    "Jessica Bateman (D) [Sen]",
+    "Robert Hasegawa (D) [Sen]",
+    "Marko Liias (D) [Sen]",
+    "Rebecca Saldana (D) [Sen]",
+    "Vandana Slatter (D) [Sen]",
+    "Derek Stanford (D) [Sen]",
+    "Lisa Wellman (D) [Sen]",
+    "Claire Wilson (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-13",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2024-12-13",
+      "action": "Prefiled for introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading, referred to Law & Justice.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-12-13",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5038.pdf",
+      "doc_id": 3033508
+    }
+  ],
+  "committee": {
+    "committee_id": 2771,
+    "chamber": "S",
+    "chamber_id": 98,
+    "name": "Law & Justice"
+  },
+  "subjects": []
+}

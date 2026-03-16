@@ -1,0 +1,105 @@
+{
+  "id": 2070015,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB6062",
+  "title": "Modifying provisions related to individuals found to have committed criminal offenses when under the age of 18.",
+  "summary": "Modifying provisions related to individuals found to have committed criminal offenses when under the age of 18.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB6062/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB6062/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=6062&Year=2025&Initiative=false",
+  "sponsors": [
+    "Claire Wilson (D) [Sen]",
+    "T'wina Nobles (D) [Sen]",
+    "Rebecca Saldana (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "action": "Prefiled for introduction.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "First reading, referred to Human Services.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Public hearing in the Senate Committee on Human Services at 1:30 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Executive action taken in the Senate Committee on Human Services at 1:30 PM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "HS - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "And refer to Ways & Means.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Minority; do not pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Referred to Ways & Means.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Public hearing in the Senate Committee on Ways & Means at 1:30 PM.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-03",
+      "description": "Senate Committee on Human Services: 1st substitute bill be substituted, do pass",
+      "yea": 2,
+      "nay": 2,
+      "passed": 0
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/6062.pdf",
+      "doc_id": 3304865
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/6062-S.pdf",
+      "doc_id": 3348437
+    }
+  ],
+  "committee": {
+    "committee_id": 962,
+    "chamber": "S",
+    "chamber_id": 98,
+    "name": "Ways & Means"
+  },
+  "subjects": []
+}

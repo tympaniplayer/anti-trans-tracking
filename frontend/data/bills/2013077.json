@@ -1,0 +1,364 @@
+{
+  "id": 2013077,
+  "state": "NC",
+  "state_name": "North Carolina",
+  "bill_number": "S442",
+  "title": "Parents Protection Act",
+  "summary": "Parents Protection Act",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NC/bill/S442/2025",
+  "legiscan_url": "https://legiscan.com/NC/bill/S442/2025",
+  "state_url": "https://www.ncleg.gov/BillLookUp/2025/S442",
+  "sponsors": [
+    "Jim Burgin (R) [Sen]",
+    "Amy Galey (R) [Sen]",
+    "Benton Sawrey (R) [Sen]",
+    "Warren Daniel (R) [Sen]",
+    "Ralph Hise (R) [Sen]",
+    "Dana Jones (R) [Sen]",
+    "Timothy Moffitt (R) [Sen]",
+    "Buck Newton (R) [Sen]",
+    "Norman Sanderson (R) [Sen]"
+  ],
+  "introduced_date": "2025-07-03",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-03-24",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Passed 1st Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Ref To Com On Rules and Operations of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Withdrawn From Com",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Re-ref to Judiciary. If fav, re-ref to Rules and Operations of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Reptd Fav",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Re-ref Com On Rules and Operations of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Reptd Fav",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Amend Adopted A1",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Amend Adopted A3",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Amend Failed A2",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Amend Adopted A5",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Amend Failed A4",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Passed 2nd Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Passed 3rd Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Engrossed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Special Message Sent To House",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Special Message Received From Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Passed 1st Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Ref To Com On Rules, Calendar, and Operations of the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-10",
+      "action": "Withdrawn From Com",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-10",
+      "action": "Re-ref to the Com on Health, if favorable, Rules, Calendar, and Operations of the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-17",
+      "action": "Reptd Fav",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-17",
+      "action": "Re-ref Com On Rules, Calendar, and Operations of the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Reptd Fav",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Cal Pursuant Rule 36(b)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Added to Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Amend Adopted A1",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Amend Failed A2",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Amend Failed A3",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Passed 2nd Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Passed 3rd Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Special Message Sent To Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Special Message Received For Concurrence in H Amend",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Ref To Com On Rules and Operations of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Withdrawn From Com",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Placed On Cal For 06/23/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-23",
+      "action": "Concurred In H Amend S442v2",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-23",
+      "action": "Ordered Enrolled",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-24",
+      "action": "Ratified",
+      "chamber": ""
+    },
+    {
+      "date": "2025-06-25",
+      "action": "Pres. To Gov. 6/25/2025",
+      "chamber": ""
+    },
+    {
+      "date": "2025-07-03",
+      "action": "Signed by Gov. 7/3/2025",
+      "chamber": ""
+    },
+    {
+      "date": "2025-07-03",
+      "action": "Ch. SL 2025-59",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-07",
+      "description": "Amendment 1",
+      "yea": 45,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-07",
+      "description": "Amendment 3",
+      "yea": 29,
+      "nay": 16,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-07",
+      "description": "Amendment 5",
+      "yea": 29,
+      "nay": 16,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-07",
+      "description": "Second Reading",
+      "yea": 32,
+      "nay": 13,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-18",
+      "description": "A1 Blackwell Second Reading",
+      "yea": 68,
+      "nay": 39,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-18",
+      "description": "A2 Crawford Second Reading",
+      "yea": 43,
+      "nay": 65,
+      "passed": 0
+    },
+    {
+      "date": "2025-06-18",
+      "description": "A3 Morey Second Reading",
+      "yea": 45,
+      "nay": 62,
+      "passed": 0
+    },
+    {
+      "date": "2025-06-18",
+      "description": "Second Reading",
+      "yea": 74,
+      "nay": 36,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-23",
+      "description": "Motion 9 To Concur House Amend",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-03-24",
+      "type": "Introduced",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S442v0.pdf",
+      "doc_id": 3185750
+    },
+    {
+      "date": "2025-03-25",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S442v1.pdf",
+      "doc_id": 3188181
+    },
+    {
+      "date": "2025-05-07",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S442v2.pdf",
+      "doc_id": 3231913
+    },
+    {
+      "date": "2025-06-24",
+      "type": "Enrolled",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S442v3.pdf",
+      "doc_id": 3258209
+    },
+    {
+      "date": "2025-07-03",
+      "type": "Chaptered",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S442v4.pdf",
+      "doc_id": 3260495
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Adoption",
+    "Child Abuse",
+    "Child Custody",
+    "Crimes",
+    "Foster Care",
+    "Lgbtq & Gender Issues",
+    "Minors",
+    "Public",
+    "Social Services",
+    "Family Issues",
+    "Ratified",
+    "Presented",
+    "Chaptered"
+  ]
+}

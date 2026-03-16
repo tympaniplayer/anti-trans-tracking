@@ -1,0 +1,104 @@
+{
+  "id": 2019763,
+  "state": "NC",
+  "state_name": "North Carolina",
+  "bill_number": "H791",
+  "title": "Women's Safety and Protection Act",
+  "summary": "Women's Safety and Protection Act",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NC/bill/H791/2025",
+  "legiscan_url": "https://legiscan.com/NC/bill/H791/2025",
+  "state_url": "https://www.ncleg.gov/BillLookUp/2025/H791",
+  "sponsors": [
+    "Jennifer Balkcom (R) [Rep]",
+    "Sarah Stevens (R) [Rep]",
+    "Heather Rhyne (R) [Rep]",
+    "Blair Eddins (R) [Rep]",
+    "Jonathan Almond (R) [Rep]",
+    "Dean Arp (R) [Rep]",
+    "Brian Biggs (R) [Rep]",
+    "John Blust (R) [Rep]",
+    "Jerry Branson (R) [Rep]",
+    "Celeste Cairns (R) [Rep]",
+    "Kelly Hastings (R) [Rep]",
+    "Neal Jackson (R) [Rep]",
+    "Jake Johnson (R) [Rep]",
+    "Keith Kidwell (R) [Rep]",
+    "Donnie Loftis (R) [Rep]",
+    "Jeffrey McNeely (R) [Rep]",
+    "Ben Moss (R) [Rep]",
+    "Ray Pickett (R) [Rep]",
+    "Dennis Riddell (R) [Rep]",
+    "Paul Scott (R) [Rep]",
+    "Bill Ward (R) [Rep]",
+    "Jeff Zenger (R) [Rep]"
+  ],
+  "introduced_date": "2025-04-03",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-04-03",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Passed 1st Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Ref To Com On Rules, Calendar, and Operations of the House",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-03",
+      "type": "Introduced",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H791v0.pdf",
+      "doc_id": 3200557
+    },
+    {
+      "date": "2025-04-08",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H791v1.pdf",
+      "doc_id": 3204941
+    }
+  ],
+  "committee": {
+    "committee_id": 673,
+    "chamber": "H",
+    "chamber_id": 75,
+    "name": "Rules, Calendar, and Operations of the House"
+  },
+  "subjects": [
+    "Courts",
+    "Definitions",
+    "Dmv",
+    "Drivers Licenses",
+    "Lgbtq & Gender Issues",
+    "Id Systems",
+    "Licenses & Permits",
+    "Motor Vehicles",
+    "Public",
+    "Public Officials",
+    "Public Records",
+    "State Employees",
+    "State Registrar",
+    "Vital Records",
+    "Women",
+    "Records",
+    "Civil Actions"
+  ]
+}

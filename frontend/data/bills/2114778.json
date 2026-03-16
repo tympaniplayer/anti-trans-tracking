@@ -1,0 +1,108 @@
+{
+  "id": 2114778,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB1261",
+  "title": "Consumer Protection - Artificial Intelligence Toys (Artificial Intelligence Toy Safety Act)",
+  "summary": "Establishing certain child safety and data privacy requirements for certain toys featuring artificial intelligence; requiring an artificial intelligence toy to contain certain labeling; prohibiting the manufacturer of an artificial intelligence toy from using certain data for certain marketing; etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB1261/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB1261/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1261?ys=2026RS",
+  "sponsors": [
+    "Derrick Coley (D) [Rep]",
+    "Marlon Amprey (D) [Rep]",
+    "Bernice Mireku-North (D) [Rep]",
+    "Cheryl Pasteur (D) [Rep]",
+    "Denise Roberts (D) [Rep]",
+    "Mike Rogers (D) [Rep]",
+    "Malcolm Ruff (D) [Rep]",
+    "Chris Tomlinson (R) [Rep]",
+    "Jheanelle Wilkins (D) [Rep]",
+    "Greg Wims (D) [Rep]",
+    "Caylin Young (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-12",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-12",
+      "action": "First Reading Economic Matters",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Hearing 3/10 at 1:00 p.m.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Hearing canceled",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Hearing 3/03 at 1:00 p.m.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-12",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb1261f.pdf",
+      "doc_id": 3361149
+    }
+  ],
+  "committee": {
+    "committee_id": 1923,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Economic Matters"
+  },
+  "subjects": [
+    "Commercial Law - Consumer Protection",
+    "Advertising",
+    "Age",
+    "Artificial Intelligence",
+    "Auditors and Audits",
+    "Biometrics",
+    "Children (4-12)",
+    "Civil Offenses",
+    "Commerce and Business",
+    "Committees and Commissions",
+    "Consumer Protection",
+    "Cybersecurity",
+    "Data",
+    "Disclosure",
+    "Ethics",
+    "Evaluations and Reviews",
+    "Industry and Manufacturing",
+    "Information Technology",
+    "Language",
+    "Minors",
+    "Notices",
+    "Parents and Guardians",
+    "Penalties and Sentences",
+    "Personal Identifying Information",
+    "Privacy",
+    "Public Information",
+    "Reports",
+    "Safety",
+    "Standards and Best Practices",
+    "Storage",
+    "Teenagers (13-19)",
+    "Unfair Trade Practices",
+    "Video"
+  ]
+}

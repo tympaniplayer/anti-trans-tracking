@@ -1,0 +1,145 @@
+{
+  "id": 2077685,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "HB999",
+  "title": "Virginia Human rights Act: equal credit opportunities, Virginia Fair Housing Law, nondiscrimination.",
+  "summary": "Virginia Human Rights Act; equal credit opportunities; Virginia Fair Housing Law; nondiscrimination by automated decision systems. Provides that it is an unlawful discriminatory practice for any person to deploy, use, or rely on an automated decision system to make a decision pursuant to the Virginia Human Rights Act, provisions related to equal credit opportunities, or the Virginia Fair Housing Law that results in discrimination or an unlawful disparate impact or that intentionally or knowingly uses variables or data fields that serve as close proxies for protected characteristics. The bill requires a person that deploys, uses, or relies on such a system to (i) disclose the use of such system to any individual who is the subject of such decision; (ii) annually assess such system for bias, disparate impact, and discriminatory outcomes; and (ii) maintain for no fewer than two years from the date a decision is made certain documentation relating to such system.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/HB999/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/HB999/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/HB999",
+  "sponsors": [
+    "Joshua Cole (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26105175D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Referred to Committee on General Laws",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Assigned HGL sub: Housing/Consumer Protection",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "House subcommittee offered",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Subcommittee recommends reporting with substitute and referring to Appropriations (8-Y 2-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "House committee offered",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Reported from General Laws with substitute and referred to Appropriations (21-Y 0-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Committee substitute printed 26107661D-H1",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Assigned HAPP sub: General Government and Capital Outlay",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Subcommittee recommends laying on the table (5-Y 0-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Left in Committee Appropriations",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-05",
+      "description": "Subcommittee recommends reporting with substitute and referring to Appropriations (8-Y 2-N)",
+      "yea": 8,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-10",
+      "description": "Reported from General Laws with substitute and referred to Appropriations (21-Y 0-N)",
+      "yea": 21,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-11",
+      "description": "Subcommittee recommends laying on the table (5-Y 0-N)",
+      "yea": 5,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB999/text/HB999",
+      "doc_id": 3314689
+    },
+    {
+      "date": "2026-02-05",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB999/text/HB999HC1",
+      "doc_id": 3350370
+    },
+    {
+      "date": "2026-02-06",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB999/text/HB999HC2",
+      "doc_id": 3351802
+    },
+    {
+      "date": "2026-02-10",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB999/text/HB999HC3",
+      "doc_id": 3356804
+    },
+    {
+      "date": "2026-02-10",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB999/text/HB999H1",
+      "doc_id": 3357854
+    }
+  ],
+  "committee": {
+    "committee_id": 147,
+    "chamber": "H",
+    "chamber_id": 7,
+    "name": "Appropriations"
+  },
+  "subjects": []
+}

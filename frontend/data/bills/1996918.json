@@ -1,0 +1,59 @@
+{
+  "id": 1996918,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S1660",
+  "title": "To promote rehabilitation including guaranteed health, treatment, and safety for incarcerated LGBTQI+ People",
+  "summary": "For legislation to promote rehabilitation including guaranteed health, treatment, and safety for incarcerated LGBTQI+ people. Public Safety and Homeland Security.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S1660/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S1660/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S1660",
+  "sponsors": [
+    "Julian Cyr (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Public Safety and Homeland Security",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-20",
+      "action": "Hearing scheduled for 06/26/2025 from 01:00 PM-05:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-12-04",
+      "action": "Accompanied a study order, see S2798",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S1660.pdf",
+      "doc_id": 3162061
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

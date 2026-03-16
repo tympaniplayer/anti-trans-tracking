@@ -1,0 +1,58 @@
+{
+  "id": 1945929,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S03644",
+  "title": "Designates certain offenses against emergency medical services personnel, firefighters, and law enforcement officers as hate crimes; includes the definition of emergency medical services personnel, firefighters, and law enforcement officers.",
+  "summary": "Designates certain offenses against emergency medical services personnel, firefighters, and law enforcement officers as hate crimes; includes the definition of emergency medical services personnel, firefighters, and law enforcement officers.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "definitions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S03644/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S03644/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S3644",
+  "sponsors": [
+    "Dean Murray (R) [Sen]",
+    "George Borrello (R) [Sen]",
+    "Peter Oberacker (R) [Sen]",
+    "Steven Rhoads (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-29",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-29",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-29",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S03644&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S03644",
+      "doc_id": 3088163
+    }
+  ],
+  "committee": {
+    "committee_id": 417,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Codes"
+  },
+  "subjects": []
+}

@@ -1,0 +1,78 @@
+{
+  "id": 1952062,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB2342",
+  "title": "Relating to protection for a public school employee's use of terms consistent with biological sex.",
+  "summary": "Relating to protection for a public school employee's use of terms consistent with biological sex.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB2342/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB2342/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2342",
+  "sponsors": [
+    "Briscoe Cain (R) [Rep]",
+    "Cody Harris (R) [Rep]",
+    "Richard Hayes (R) [Rep]",
+    "Hillary Hickland (R) [Rep]",
+    "Lacey Hull (R) [Rep]",
+    "Helen Kerwin (R) [Rep]",
+    "William Metcalf (R) [Rep]",
+    "Tom Oliverson (R) [Rep]",
+    "Joanne Shofner (R) [Rep]",
+    "Shelby Slawson (R) [Rep]",
+    "Ellen Troxclair (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-03",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Referred to Public Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-03",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB02342I.htm",
+      "doc_id": 3095913
+    }
+  ],
+  "committee": {
+    "committee_id": 1891,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Public Education"
+  },
+  "subjects": [
+    "Education",
+    "Education--Primary & Secondary",
+    "Education--Primary & Secondary--Charter Schools",
+    "Education--Primary & Secondary--Other School Personnel",
+    "Education--Primary & Secondary--Teachers",
+    "Education--School Districts",
+    "GENDER IDENTITY & EXPRESSION"
+  ]
+}

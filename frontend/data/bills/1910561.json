@@ -1,0 +1,73 @@
+{
+  "id": 1910561,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB753",
+  "title": "Relating to prohibiting certain conduct by physicians and health care providers involving gender transitioning and gender reassignment procedures and treatments for children; creating a criminal offense.",
+  "summary": "Relating to prohibiting certain conduct by physicians and health care providers involving gender transitioning and gender reassignment procedures and treatments for children; creating a criminal offense.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB753/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB753/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB753",
+  "sponsors": [
+    "Mayes Middleton (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-10",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-10",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-10",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-07",
+      "action": "Referred to State Affairs",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-10",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00753I.htm",
+      "doc_id": 3047397
+    }
+  ],
+  "committee": {
+    "committee_id": 1919,
+    "chamber": "S",
+    "chamber_id": 92,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "Crimes",
+    "Crimes--Against Persons",
+    "Crimes--Against Persons--General",
+    "Minors",
+    "Minors--Crimes Against",
+    "Minors--Health & Safety",
+    "PHYSICIANS"
+  ]
+}

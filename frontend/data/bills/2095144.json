@@ -1,0 +1,94 @@
+{
+  "id": 2095144,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HB2441",
+  "title": "Relating To Campus Safety.",
+  "summary": "Requires students of the University of Hawaii, including transfer students, to complete training on federal laws and University policies regarding sexual misconduct prior to the completion of initial registration into the university of Hawaii system. Amends the frequency that training and programming regarding sexual misconduct is provided to university of Hawaii students and employees.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HB2441/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HB2441/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2441&year=2026",
+  "sponsors": [
+    "Terez Amato (D) [Rep]",
+    "Della au Belatti (D) [Rep]",
+    "Andrew Garrett (D) [Rep]",
+    "Tina Grandinetti (D) [Rep]",
+    "Kim Iwamoto (D) [Rep]",
+    "Kirstin Kahaloa (D) [Rep]",
+    "Jeanne Kapela (D) [Rep]",
+    "Sue Keohokapu-Lee Loy (D) [Rep]",
+    "Darius Kila (D) [Rep]",
+    "Lisa Marten (D) [Rep]",
+    "Tyson Miyake (D) [Rep]",
+    "Daynette Morikawa (D) [Rep]",
+    "Ikaika Olds (D) [Rep]",
+    "Amy Perruso (D) [Rep]",
+    "Mahina Poepoe (D) [Rep]",
+    "Kanani Souza (R) [Rep]",
+    "Adrian Tam (D) [Rep]",
+    "Shirley Ann Templo (D) [Rep]",
+    "Justin Woodson (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-28",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-27",
+      "action": "Pending introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Introduced and Pass First Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Referred to HED, JHA, FIN, referral sheet 6",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Bill scheduled to be heard by HED on Friday, 02-06-26 2:05PM in House conference room 309 VIA VIDEOCONFERENCE.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "The committee(s) on HED recommend(s) that the measure be deferred.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-27",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB2441_.HTM",
+      "doc_id": 3334394
+    }
+  ],
+  "committee": {
+    "committee_id": 2041,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Higher Education"
+  },
+  "subjects": [
+    "University of Hawaii",
+    "Campus Safety",
+    "Title IX",
+    "Registration",
+    "Training",
+    "Programming"
+  ]
+}

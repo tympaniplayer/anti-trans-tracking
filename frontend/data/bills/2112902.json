@@ -1,0 +1,60 @@
+{
+  "id": 2112902,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S09165",
+  "title": "Requires the office for the aging to make an annual report on the budget expenditures on behalf of the senior population of the state every April first.",
+  "summary": "Requires the office for the aging to make an annual report on the budget expenditures on behalf of the senior population of the state every April first.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S09165/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S09165/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S9165",
+  "sponsors": [
+    "Cordell Cleare (D) [Sen]",
+    "Robert Rolison (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-10",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-10",
+      "action": "REFERRED TO AGING",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "1ST REPORT CAL.496",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "ADVANCED TO THIRD READING",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-10",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S09165&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S09165",
+      "doc_id": 3356066
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

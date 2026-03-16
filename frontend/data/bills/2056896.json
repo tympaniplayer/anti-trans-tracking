@@ -1,0 +1,75 @@
+{
+  "id": 2056896,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "B26-0525",
+  "title": "Personal Health Data Security Amendment Act of 2025",
+  "summary": "As introduced, Bill 26-525 would prohibit geofencing around facilities that provide health services, preventing the tracking or targeting of individuals based on their location. It would require controllers (the entities that determine how and why personal health data is used) to publish clear, accessible privacy policies describing what data is collected, how it is used, and with whom it is shared.  It would also mandate consent before any collection, processing, or disclosure of personal health data, and allows individuals to withdraw consent at any time. It would also create a right to deletion.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/B26-0525/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/B26-0525/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/B26-0525",
+  "sponsors": [
+    "Christina Henderson (I) [Sen]",
+    "Anita Bonds (D) [Sen]",
+    "Charles Allen (D) [Sen]",
+    "Janeese Lewis George (D) [Sen]",
+    "Brianne Nadeau (D) [Sen]",
+    "Matthew Frumin (D) [Sen]",
+    "Robert White (D) [Sen]"
+  ],
+  "introduced_date": "2025-12-01",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-12-12",
+      "action": "Notice of Intent to Act on B26-0525 Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-12-16",
+      "action": "Referred to Committee on Health",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Notice of Public Hearing Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Notice of Public Hearing Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Roundtable Hearing",
+      "chamber": "C"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-01",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/60879/Introduction/B26-0525-Introduction.pdf",
+      "doc_id": 3288299
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

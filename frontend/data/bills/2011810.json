@@ -1,0 +1,49 @@
+{
+  "id": 2011810,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "J00540",
+  "title": "Memorializing Governor Kathy Hochul to proclaim April 6-12, 2025, as Crime Victims' Rights Week in the State of New York",
+  "summary": "Memorializing Governor Kathy Hochul to proclaim April 6-12, 2025, as Crime Victims' Rights Week in the State of New York",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/J00540/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/J00540/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/J540",
+  "sponsors": [
+    "James Tedisco (R) [Sen]"
+  ],
+  "introduced_date": "2025-03-20",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-20",
+      "action": "REFERRED TO FINANCE",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=J00540&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#J00540",
+      "doc_id": 3183044
+    }
+  ],
+  "committee": {
+    "committee_id": 428,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Finance"
+  },
+  "subjects": []
+}

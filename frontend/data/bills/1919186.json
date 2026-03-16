@@ -1,0 +1,56 @@
+{
+  "id": 1919186,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB5277",
+  "title": "Repealing of juvenile rehabilitation to 25 legislation.",
+  "summary": "Repealing of juvenile rehabilitation to 25 legislation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB5277/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB5277/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5277&Year=2025&Initiative=false",
+  "sponsors": [
+    "John Braun (R) [Sen]",
+    "Leonard Christian (R) [Sen]",
+    "Perry Dozier (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-15",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-15",
+      "action": "First reading, referred to Human Services.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/5277.pdf",
+      "doc_id": 3056232
+    }
+  ],
+  "committee": {
+    "committee_id": 4678,
+    "chamber": "S",
+    "chamber_id": 98,
+    "name": "Human Services"
+  },
+  "subjects": []
+}

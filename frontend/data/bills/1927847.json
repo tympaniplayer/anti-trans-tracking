@@ -1,0 +1,131 @@
+{
+  "id": 1927847,
+  "state": "ND",
+  "state_name": "North Dakota",
+  "bill_number": "SB2244",
+  "title": "A parent's interest in a child's upbringing.",
+  "summary": "A BILL for an Act to create and enact a new section to chapter 15.1-06 of the North Dakota Century Code, relating to parental involvement in a child's education; and to amend and reenact section 14-09-32.1 of the North Dakota Century Code, relating to a parent's interest in a child's upbringing.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ND/bill/SB2244/2025",
+  "legiscan_url": "https://legiscan.com/ND/bill/SB2244/2025",
+  "state_url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2244.html",
+  "sponsors": [
+    "Bob Paulson (R) [Sen]",
+    "Randy Lemm (R) [Sen]",
+    "Mike Wobbema (R) [Sen]",
+    "Dori Hauck (R) [Rep]",
+    "Karen Rohr (R) [Rep]",
+    "Vicky Steiner (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-06",
+  "session": "69th Legislative Assembly",
+  "actions": [
+    {
+      "date": "2025-01-17",
+      "action": "Introduced, first reading, (emergency), referred to Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-29",
+      "action": "Committee Hearing 10:00 (Judiciary)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Reported back amended, do pass, amendment placed on calendar 6 1 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Amendment adopted, placed on calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Second reading, passed, yeas 36 nays 9",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Received from Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Introduced, first reading, referred to Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Committee Hearing 10:30 (Education)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Reported back amended, do not pass, placed on calendar 8 6 0",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Amendment adopted, placed on calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "Laid over one legislative day",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Second reading, failed to pass, yeas 41 nays 49",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-05",
+      "description": "Senate Second reading",
+      "yea": 36,
+      "nay": 9,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-31",
+      "description": "House Second reading",
+      "yea": 41,
+      "nay": 49,
+      "passed": 0
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-17",
+      "type": "Introduced",
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0808-01000.pdf",
+      "doc_id": 3065174
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Engrossed",
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0808-02000.pdf",
+      "doc_id": 3096655
+    },
+    {
+      "date": "2025-03-26",
+      "type": "Amended",
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-0808-03000.pdf",
+      "doc_id": 3189485
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,47 @@
+{
+  "id": 2100489,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H2",
+  "title": "Making appropriations for the fiscal year 2027 for the maintenance of the departments, boards, commissions, institutions, and certain activities of the commonwealth, for interest, sinking fund, and serial bond requirements, and for certain permanent improvements",
+  "summary": "Making appropriations for the fiscal year 2027 for the maintenance of the departments, boards, commissions, institutions, and certain activities of the commonwealth, for interest, sinking fund, and serial bond requirements, and for certain permanent improvements",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H2/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H2/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H2",
+  "sponsors": [],
+  "introduced_date": "2026-01-29",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "action": "Read; and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H2.pdf",
+      "doc_id": 3339632
+    }
+  ],
+  "committee": {
+    "committee_id": 737,
+    "chamber": "H",
+    "chamber_id": 51,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

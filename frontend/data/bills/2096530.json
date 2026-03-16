@@ -1,0 +1,52 @@
+{
+  "id": 2096530,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A1479",
+  "title": "Permits county sheriffs to certify that law enforcement officer meets certain criteria for renewal of law enforcement license.",
+  "summary": "Permits county sheriffs to certify that law enforcement officer meets certain criteria for renewal of law enforcement license.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A1479/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A1479/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A1479",
+  "sponsors": [
+    "Antwan McClellan (R) [Rep]",
+    "Shanique Speight (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Public Safety and Preparedness Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-18",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A1500/1479_I1.HTM",
+      "doc_id": 3335582
+    }
+  ],
+  "committee": {
+    "committee_id": 4934,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Public Safety and Preparedness Committee"
+  },
+  "subjects": [
+    "Public Safety and Preparedness"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": 2023038,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB2845",
+  "title": "PROSPECT Act Preparing and Resourcing Our Student Parents and Early Childhood Teachers Act",
+  "summary": "To establish competitive Federal grants that will empower community colleges and minority-serving institutions to become incubators for infant and toddler child care talent, training, and access on their campuses and in their communities, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "sports"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB2845/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB2845/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/2845/all-info",
+  "sponsors": [
+    "Jahana Hayes (D) [Rep]",
+    "Donald Norcross (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-10",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-04-10",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Referred to the Committee on Education and Workforce, and in addition to the Committee on Ways and Means, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-24",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr2845/BILLS-119hr2845ih.pdf",
+      "doc_id": 3220447
+    }
+  ],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": [
+    "Families"
+  ]
+}

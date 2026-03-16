@@ -1,0 +1,60 @@
+{
+  "id": 2000523,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H935",
+  "title": "Limiting toxics release inventory facilities in environmental justice communities",
+  "summary": "Relative to decreasing the siting or expansion of toxics release inventory facilities within certain low income or minority populated neighborhoods. Environment and Natural Resources.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms",
+    "education"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H935/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H935/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H935",
+  "sponsors": [
+    "Michelle DuBois (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Environment and Natural Resources",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-21",
+      "action": "Hearing scheduled for 09/02/2025 from 1:00 PM-5:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Accompanied a study order, see H5149",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H935.pdf",
+      "doc_id": 3166493
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

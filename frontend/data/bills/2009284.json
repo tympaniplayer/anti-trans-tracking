@@ -1,0 +1,115 @@
+{
+  "id": 2009284,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "HF2380",
+  "title": "Disability accommodations included as protection from discrimination.",
+  "summary": "Disability accommodations included as protection from discrimination.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/HF2380/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/HF2380/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2380/",
+  "sponsors": [
+    "Kim Hicks (D) [Rep]",
+    "Danny Nadeau (R) [Rep]",
+    "Brion Curran (D) [Rep]",
+    "Jessica Hanson (D) [Rep]",
+    "Keith Allen (R) [Rep]",
+    "Luke Frederick (D) [Rep]",
+    "Mohamud Noor (D) [Rep]",
+    "Dan Wolgamott (D) [Rep]",
+    "Lucille Rehm (D) [Rep]",
+    "Bianca Virnig (D) [Rep]",
+    "Andrew Smith (D) [Rep]",
+    "Mary Clardy (D) [Rep]",
+    "Steve Gander (R) [Rep]",
+    "Gregory Davids (R) [Rep]",
+    "Dave Baker (R) [Rep]",
+    "Joe Schomacker (R) [Rep]",
+    "Kristi Pursell (D) [Rep]",
+    "Walter Hudson (R) [Rep]",
+    "Kari Rehrauer (D) [Rep]",
+    "Larry Kraft (D) [Rep]",
+    "Kelly Moller (D) [Rep]",
+    "Mike Freiberg (D) [Rep]",
+    "Peter Fischer (D) [Rep]",
+    "Aaron Repinski (R) [Rep]",
+    "Liz Reyer (D) [Rep]",
+    "Jay Xiong (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-17",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-03-17",
+      "action": "Introduction and first reading, referred to Judiciary Finance and Civil Law",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Authors added Schomacker and Pursell",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Authors added Hudson and Rehrauer",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-21",
+      "action": "Author added Kraft",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Author added Moller",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Committee report, to adopt as amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Second reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Authors added Freiberg and Fischer",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Authors added Repinski, Reyer, and Xiong",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-14",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2380/versions/0/pdf/",
+      "doc_id": 3177843
+    },
+    {
+      "date": "2026-03-09",
+      "type": "Engrossed",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2380/versions/1/pdf/",
+      "doc_id": 3388907
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

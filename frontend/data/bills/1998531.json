@@ -1,0 +1,69 @@
+{
+  "id": 1998531,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S1175",
+  "title": "Prohibiting injurious operations or offering services or products that discriminate against or injure protected classes",
+  "summary": "For legislation to prohibit injurious operations or offering services or products that discriminate against or injure protected classes. The Judiciary.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S1175/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S1175/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S1175",
+  "sponsors": [
+    "Paul Mark (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on The Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-14",
+      "action": "Hearing scheduled for 11/25/2025 from 10:00 AM-05:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-11-25",
+      "action": "Hearing rescheduled to 11/25/2025 from 10:00 AM-04:00 PM in A-2 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-11-26",
+      "action": "Hearing rescheduled to 11/25/2025 from 10:00 AM-05:00 PM in A-2 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Accompanied a study order, see S2930",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S1175.pdf",
+      "doc_id": 3163795
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,58 @@
+{
+  "id": 1990384,
+  "state": "GA",
+  "state_name": "Georgia",
+  "bill_number": "SB320",
+  "title": "\"Georgia Civil Rights Act of 2025\"; enact",
+  "summary": "A BILL to be entitled an Act to amend Titles 8, 10, 34, 35, 45, and 50 of the O.C.G.A., relating to buildings and housing, commerce and trade, labor and industrial relations, law enforcement officers and agencies, public officers and employees, and state government, respectively, so as to provide comprehensive state civil rights laws protecting individuals from discrimination in housing, public accommodations, and employment on the basis of race, color, religion, sex, sexual orientation, gender identity, age, disability, familial status, or national origin; to repeal conflicting laws; and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/GA/bill/SB320/2025",
+  "legiscan_url": "https://legiscan.com/GA/bill/SB320/2025",
+  "state_url": "https://www.legis.ga.gov/legislation/71106",
+  "sponsors": [
+    "Sonya Halpern (D) [Sen]",
+    "Harold Jones (D) [Sen]",
+    "Kim Jackson (D) [Sen]",
+    "Sally Harrell (D) [Sen]",
+    "Elena Parent (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-03",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-03",
+      "action": "Senate Hopper",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Senate Read and Referred",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-04",
+      "type": "Introduced",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/234927",
+      "doc_id": 3151002
+    }
+  ],
+  "committee": {
+    "committee_id": 619,
+    "chamber": "S",
+    "chamber_id": 30,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

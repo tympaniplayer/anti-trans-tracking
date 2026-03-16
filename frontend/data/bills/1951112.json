@@ -1,0 +1,136 @@
+{
+  "id": 1951112,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "SB0676",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 1; Title 4; Title 33; Title 56; Title 63; Title 68 and Title 71, relative to health care.",
+  "summary": "As introduced, requires gender clinics accepting funds from this state to perform gender transition procedures to also perform detransition procedures; requires insurance entities providing coverage of gender transition procedures to also cover detransition procedures; requires certain gender clinics and insurance entities to report information regarding detransition procedures to the department of health. - Amends TCA Title 1; Title 4; Title 33; Title 56; Title 63; Title 68 and Title 71.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/SB0676/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/SB0676/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB0676&ga=114",
+  "sponsors": [
+    "Brent Taylor (R) [Sen]",
+    "Jack Johnson (R) [Sen]"
+  ],
+  "introduced_date": "2025-01-31",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-31",
+      "action": "Filed for introduction",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Introduced, Passed on First Consideration",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-12",
+      "action": "Passed on Second Consideration, refer to Senate Commerce and Labor Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Placed on Senate Commerce and Labor Committee calendar for 3/4/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-25",
+      "action": "Placed on Senate Commerce and Labor Committee calendar for 3/4/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Action deferred in Senate Commerce and Labor Committee to 3/18/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Placed on Senate Commerce and Labor Committee calendar for 3/18/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Placed on Senate Commerce and Labor Committee calendar for 3/18/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Action deferred in Senate Commerce and Labor Committee to 3/25/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-19",
+      "action": "Placed on Senate Commerce and Labor Committee calendar for 3/25/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Recommended for passage with amendment/s, refer to Senate Finance, Ways, and Means Committee Ayes 5, Nays 4 PNV 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Sponsor(s) Added.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Rule #83(8) Suspended, to be heard in Senate Finance, Ways & Means Committee on 4/15/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Placed on Senate Finance, Ways, and Means Committee calendar for 4/15/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Placed on Senate Finance, Ways, and Means Committee calendar for 4/21/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Placed on Senate Finance, Ways, and Means Committee calendar for 3/17/2026",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-25",
+      "description": "SENATE COMMERCE AND LABOR COMMITTEE: Recommended for passage with amendment/s, refer to Senate Finance, Ways, and Means Committee Ayes 5, Nays 4 PNV 0",
+      "yea": 6,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-31",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0676.pdf",
+      "doc_id": 3094698
+    },
+    {
+      "date": "2025-02-03",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/SB0676.pdf",
+      "doc_id": 3096855
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Health Care"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": 2117138,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB1979",
+  "title": "Confidentiality of Medical Information Act: definitions.",
+  "summary": "An act to amend Section 56.05 of the Civil Code, relating to privacy.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "definitions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB1979/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB1979/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1979",
+  "sponsors": [
+    "Mia Bonta (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-13",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-13",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-14",
+      "action": "From printer. May be heard in committee March 16.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-13",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1979#99INT",
+      "doc_id": 3362877
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

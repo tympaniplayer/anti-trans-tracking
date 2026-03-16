@@ -1,0 +1,704 @@
+{
+  "id": 1987746,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0454",
+  "title": "An act relating to transforming Vermont\u2019s education governance, quality, and finance systems",
+  "summary": "An act relating to transforming Vermont\u2019s education governance, quality, and finance systems",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0454/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0454/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.454",
+  "sponsors": [
+    "Casey Toof (R) [Rep]",
+    "Patricia McCoy (R) [Rep]",
+    "Christoper Taylor (R) [Rep]",
+    "Joshua Dobrovich (R) [Rep]",
+    "Beth Quimby (R) [Rep]"
+  ],
+  "introduced_date": "2025-06-16",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-02-28",
+      "action": "Read first time and referred to the Committee on Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Notice Calendar: Favorable with Amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Referred to Committee on Ways and Means per Rule 35(a)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Pending entry on Notice Calendar, referred to Committee on Appropriations per Rule 35(a)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Notice Calendar: Favorable with Amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Action Calendar: Favorable with Amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Read second time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Rep. Conlon of Cornwall reported for the Committee on Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Rep. Kornheiser of Brattleboro recommended for the Committee on Ways and Means",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Rep. Mrowicki of Putney recommended for the Committee on Appropriations",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Rep. Conlon of Cornwall, Brady of Williston, Brown of Richmond, Harple of Glover, Hunter of Manchester, Long of Newfane, and McCann of Montpelier moved to amend the report of the Committee on Ways and Means, which was agreed to",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Rep. Yacovone of Morristown and Olson of Starksboro moved to amend the report of the Committee on Ways and Means, as amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Rep. Yacovone of Morristown asked and was granted leave to withdraw amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Rep. Olson of Starksboro and Yacovone of Morristown moved to amend the report of the Committee on Ways and Means, as amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Rep. Olson of Starksboro asked and was granted leave to withdraw amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Report of the Committee on Education amended as recommended by the Committee on Ways and Means, as amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Report of Committee on Education, as amended, agreed to",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Third Reading ordered",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Action Calendar: Third Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Rep. Greer of Bennington moved to amend the bill",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Rep. Greer of Bennington asked and was granted leave to withdraw amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Rep. Toof of St. Albans Town and Houghton of Essex Junction moved to amend the bill, which was agreed to",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Rep. Galfetti of Barre Town moved to amend the bill",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Rep. Galfetti of Barre Town asked and was granted leave to withdraw amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Rep. Wood of Waterbury, Kornheiser of Brattleboro, Bishop of Colchester, Cole of Hartford, Donahue of Northfield, Eastes of Guilford, Garofano of Essex, Maguire of Rutland City, McGill of Bridport, and Noyes of Wolcott moved to amend the bill, which was agreed to",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Rep. Donahue of Northfield moved to amend the bill",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Rep. McCoy of Poultney demanded yeas and nays",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Which was disagreed to on a Roll Call Failed -- Needed 72 of 143 to Pass -- Yeas = 60, Nays = 83",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Read third time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Rep. Cina of Burlington demanded yeas and nays",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Passed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Which was agreed to on a Roll Call Passed -- Needed 71 of 142 to Pass -- Yeas = 87, Nays = 55",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Read 1st time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Referred to Committee on Education per Temporary Senate Rule 44A",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Entered on Notice Calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Favorable report with proposal of amendment by Committee on Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Referred to Committee on Finance per Senate Rule 31",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Entered on Notice Calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Favorable report with proposal of amendment by Committee on Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Favorable report with proposal of amendment by Committee on Finance",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-16",
+      "action": "Referred to Committee on Appropriations per Senate Rule 31",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Entered on Notice Calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Favorable report with proposal of amendment by Committee on Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Favorable report with proposal of amendment by Committee on Finance",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Favorable report with proposal of amendment by Committee on Appropriations",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "New Business/Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Favorable report with proposal of amendment by Committee on Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Favorable report with proposal of amendment by Committee on Finance",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Favorable report with proposal of amendment by Committee on Appropriations",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Unfinished Business/Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Favorable report with proposal of amendment by Committee on Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Favorable report with proposal of amendment by Committee on Finance",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Favorable report with proposal of amendment by Committee on Appropriations",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Committed to Committee on Education on motion of Senator Baruth",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Committee on Education relieved of further consideration of the bill on motion of Senator Baruth",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Rules suspended & taken up for immediate consideration, on motion of Senator Baruth",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Consideration postponed on motion of Senator Baruth",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Consideration postponed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Unfinished Business/Second Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Read 2nd time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Proposal of amendment by Senator(s) Hardy, Bongartz, Baruth, and Ram Hinsdale; text",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Proposal of amendment by Senator(s) Hardy, Bongartz, Baruth, and Ram Hinsdale agreed to",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Proposal of amendment by Senator(s) Vyhovsky; text",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Proposal of amendment not agreed to",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Proposal of amendment by Senator(s) Vyhovsky; text",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Proposal of amendment not agreed to",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Proposal of amendment by Senator(s) Beck; text",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Senator Beck requested & granted leave to withdraw proposal of amendment",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Proposal of amendment by Senator(s) Beck; text",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Roll Call, Requested by Sen. Ingalls",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Roll Call, requested by Senator Ingalls, Failed -- Needed 15 of 30 to Pass -- Yeas = 13, Nays = 17",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Proposal of amendment not agreed to",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "3rd reading ordered",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Rules suspended & bill placed on all remaining stages of passage, on motion of Senator Baruth",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Read 3rd time & passed in concurrence with proposal of amendment",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Rules suspended & messaged to House forthwith, on motion of Senator Baruth",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Senate Message: Passed in concurrence with proposal of amendment",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Rules suspended and taken up for immediate consideration, pending entry on Notice Calendar, as moved by Rep. McCoy of Poultney",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Senate proposal of amendment not concurred in and Committee of Conference requested upon motion of Rep. Conlon of Cornwall",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Speaker appointed Reps. Conlon of Cornwall, Kornheiser of Brattleboro, and Taylor of Milton as members of the Committee of Conference on the part of the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Rules suspended and bill messaged forthwith to the Senate as moved by Rep. McCoy of Poultney",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "House message: House refused to concur in Senate proposal of amendment & requested Conference Committee; House Conference Committee members appointed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Committee of Conference appointed: Senators Bongartz, Cummings, and Beck",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Senate Message: Committee of Conference members appointed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Entered on Notice Calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Rules suspended & taken up for immediate consideration, on motion of Senator Baruth",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Committee of Conference report submitted by Senator Bongartz for Committee, text",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Point of order raised by Senator Vyhovsky on ground Conference Committee breached Sec. 771.2 of Mason's Manual of Legislative Procedure",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Point of order sustained by the President",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Rules suspended on motion of Senator Baruth",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Roll Call, Requested by Sen. Gulick",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Roll Call, requested by Senator Gulick, Passed -- Needed 22 of 29 to Pass -- Yeas = 26, Nays = 3",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Rules suspended to permit consideration of an objectionable report of Committee of Conference, on Roll Call 26-3.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Senator Chittenden explained vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Roll Call, Requested by Sen. Gulick",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Committee of Conference report adopted on roll call Passed -- Needed 15 of 29 to Pass -- Yeas = 17, Nays = 12",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Senator Douglass explained vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Senator Heffernan explained vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Senator Ingalls explained vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Senator Mattos explained vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Senator Williams explained vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Rules suspended & messaged to House forthwith, on motion of Senator Baruth",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Senate Message: Report of Committee of Conference adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Rules suspended and taken up for immediate consideration, pending entry on Notice Calendar, as moved by Rep. McCoy of Poultney",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Committee of Conference report ruled out of order on point of order raised by Rep. McCann of Montpelier",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Rep. Houghton of Essex Junction moved to suspend rules to permit consideration of an objectionable committee of conference report",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Division demanded",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Division results Yes, 113; No, 26",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Which was agreed to",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Committee of Conference report adopted (House bill)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Rep. McCoy of Poultney moved to deliver the bill to the Governor forthwith",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Rep. Headrick of Burlington demanded yeas and nays",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Which was agreed to on a Roll Call Passed -- Needed 71 of 141 to Pass -- Yeas = 96, Nays = 45",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "House message: House adopted Conference Committee report",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Delivered to the Governor on June 25, 2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "Signed by Governor on July 1, 2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "House message: Governor approved bill on July 1, 2025",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-11",
+      "description": "Roll Call Results Failed -- Needed 72 of 143 to Pass -- Yeas = 60, Nays = 83",
+      "yea": 60,
+      "nay": 83,
+      "passed": 0
+    },
+    {
+      "date": "2025-04-11",
+      "description": "Roll Call Results Passed -- Needed 71 of 142 to Pass -- Yeas = 87, Nays = 55",
+      "yea": 87,
+      "nay": 55,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-23",
+      "description": "Roll Call, requested by Senator Ingalls, Failed -- Needed 15 of 30 to Pass -- Yeas = 13, Nays = 17",
+      "yea": 13,
+      "nay": 17,
+      "passed": 0
+    },
+    {
+      "date": "2025-06-16",
+      "description": "Roll Call, requested by Senator Gulick, Passed -- Needed 22 of 29 to Pass -- Yeas = 26, Nays = 3",
+      "yea": 26,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-16",
+      "description": "Committee of Conference report adopted on roll call Passed -- Needed 15 of 29 to Pass -- Yeas = 17, Nays = 12",
+      "yea": 17,
+      "nay": 12,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-16",
+      "description": "Which was agreed to on a Roll Call Passed -- Needed 71 of 141 to Pass -- Yeas = 96, Nays = 45",
+      "yea": 96,
+      "nay": 45,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0454/H-0454%20As%20Introduced.pdf",
+      "doc_id": 3146699
+    },
+    {
+      "date": "2025-04-15",
+      "type": "Engrossed",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0454/H-0454%20As%20passed%20by%20the%20House%20Official.pdf",
+      "doc_id": 3212067
+    },
+    {
+      "date": "2025-06-19",
+      "type": "Enrolled",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0454/H-0454%20As%20Passed%20by%20Both%20House%20and%20Senate%20Official.pdf",
+      "doc_id": 3257230
+    },
+    {
+      "date": "2025-07-03",
+      "type": "Chaptered",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/ACTS/ACT073/ACT073%20As%20Enacted.pdf",
+      "doc_id": 3260497
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

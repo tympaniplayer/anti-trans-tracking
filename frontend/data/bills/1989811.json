@@ -1,0 +1,84 @@
+{
+  "id": 1989811,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "HF1762",
+  "title": "Equal rights under the law provided, discrimination based on the listed characteristics prohibited, and constitutional amendment proposed.",
+  "summary": "Equal rights under the law provided, discrimination based on the listed characteristics prohibited, and constitutional amendment proposed.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/HF1762/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/HF1762/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1762/",
+  "sponsors": [
+    "Jamie Long (D) [Rep]",
+    "Michael Howard (D) [Rep]",
+    "Josiah Hill (D) [Rep]",
+    "Mary Clardy (D) [Rep]",
+    "Larry Kraft (D) [Rep]",
+    "John Huot (D) [Rep]",
+    "Luke Frederick (D) [Rep]",
+    "Matt Norris (D) [Rep]",
+    "Liz Reyer (D) [Rep]",
+    "Ned Carroll (D) [Rep]",
+    "Kim Hicks (D) [Rep]",
+    "Nathan Coulter (D) [Rep]",
+    "Brad Tabke (D) [Rep]",
+    "Alex Falconer (D) [Rep]",
+    "Dave Pinto (D) [Rep]",
+    "Kari Rehrauer (D) [Rep]",
+    "Peter Fischer (D) [Rep]",
+    "Andrew Smith (D) [Rep]",
+    "Mike Freiberg (D) [Rep]",
+    "Robert Bierman (D) [Rep]",
+    "Zack Stephenson (D) [Rep]",
+    "Cheryl Youakim (D) [Rep]",
+    "Erin Koegel (D) [Rep]",
+    "Fue Lee (D) [Rep]",
+    "Pete Johnson (D) [Rep]",
+    "Samakab Hussein (D) [Rep]",
+    "Rick Hansen (D) [Rep]",
+    "Mohamud Noor (D) [Rep]",
+    "Bianca Virnig (D) [Rep]",
+    "Katie Jones (D) [Rep]",
+    "Amanda Hemmingsen-Jaeger (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-03",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-03-03",
+      "action": "Introduction and first reading, referred to Judiciary Finance and Civil Law",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Authors added Virnig, Jones, and Hemmingsen-Jaeger",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-28",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/1762/versions/0/pdf/",
+      "doc_id": 3150133
+    }
+  ],
+  "committee": {
+    "committee_id": 3806,
+    "chamber": "H",
+    "chamber_id": 55,
+    "name": "Judiciary Finance and Civil Law"
+  },
+  "subjects": []
+}

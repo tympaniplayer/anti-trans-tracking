@@ -1,0 +1,85 @@
+{
+  "id": 2116463,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB1380",
+  "title": "Health Insurance - Prescriptions for Gender-Affirming Care and Hormone Therapy - Coverage and Dispensing Requirements",
+  "summary": "Requiring insurers, nonprofit health service plans, and health maintenance organizations to provide coverage for a certain supply of prescription drugs used for gender-affirming care, hormone therapy, or reproductive health in certain circumstances; and altering the amount of certain prescription drugs that a pharmacist is allowed to dispense on or after January 1, 2027.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB1380/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB1380/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1380?ys=2026RS",
+  "sponsors": [
+    "Kris Fair (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-13",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-13",
+      "action": "First Reading Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "Hearing 3/13 at 1:00 p.m.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Hearing canceled",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Hearing 3/13 at 3:00 p.m.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Hearing canceled",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Hearing 3/13 at 1:30 p.m.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-13",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb1380f.pdf",
+      "doc_id": 3362088
+    }
+  ],
+  "committee": {
+    "committee_id": 5241,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Health"
+  },
+  "subjects": [
+    "Health - Insurance",
+    "Drugs",
+    "Gender Identity and Expression",
+    "Health",
+    "Health Insurance",
+    "Health Maintenance Organizations",
+    "Medical Treatments",
+    "Nonprofit Organizations",
+    "Pharmacists and Pharmacies",
+    "Weights and Measures"
+  ]
+}

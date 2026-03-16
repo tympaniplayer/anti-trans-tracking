@@ -1,0 +1,70 @@
+{
+  "id": 2057258,
+  "state": "FL",
+  "state_name": "Florida",
+  "bill_number": "H0677",
+  "title": "Education",
+  "summary": "Revises provisions relating to certain trainings & instruction, school district procedures & requirements relating to parental notification, classroom instruction, instructional materials, school personnel training, BOG reviews, state university performance-based incentives, required instruction, DEI program, & general education core courses; repeals provisions relating to personal titles; & revises provisions relating to educator preparation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "drag"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/FL/bill/H0677/2026",
+  "legiscan_url": "https://legiscan.com/FL/bill/H0677/2026",
+  "state_url": "https://www.flsenate.gov/Session/Bill/2026/677",
+  "sponsors": [
+    "Angela Nixon (D) [Rep]"
+  ],
+  "introduced_date": "2025-12-08",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-08",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-16",
+      "action": "Referred to Student Academic Success Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-16",
+      "action": "Referred to Education Administration Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-16",
+      "action": "Referred to Education & Employment Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-16",
+      "action": "Now in Student Academic Success Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "1st Reading (Original Filed Version)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-08",
+      "type": "Introduced",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/677/BillText/Filed/PDF",
+      "doc_id": 3288888
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

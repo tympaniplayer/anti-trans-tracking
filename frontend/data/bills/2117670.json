@@ -1,0 +1,104 @@
+{
+  "id": 2117670,
+  "state": "ID",
+  "state_name": "Idaho",
+  "bill_number": "H0687",
+  "title": "Adds to existing law to establish provisions regarding unbiased artificial intelligence in state government purchasing.",
+  "summary": "PROCUREMENT -- Adds to existing law to establish provisions regarding unbiased artificial intelligence in state government purchasing.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ID/bill/H0687/2026",
+  "legiscan_url": "https://legiscan.com/ID/bill/H0687/2026",
+  "state_url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0687/",
+  "sponsors": [
+    "Judiciary, Rules and Administration Committee [Rep]"
+  ],
+  "introduced_date": "2026-03-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-16",
+      "action": "Introduced, read first time, referred to JRA for Printing",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Reported Printed and Referred to Environment, Energy & Technology",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Reported out of Committee with Do Pass Recommendation, Filed for Second Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Read second time; Filed for Third Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "U.C. to hold place on third reading calendar until Monday, March 2, 2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Read Third Time in Full -- PASSED 56-11-3",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Title apvd",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "to Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Received from the House passed; filed for first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Introduced, read first time; referred to: State Affairs",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-02",
+      "description": "House Third Reading",
+      "yea": 56,
+      "nay": 11,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0687.pdf",
+      "doc_id": 3363879
+    }
+  ],
+  "committee": {
+    "committee_id": 1540,
+    "chamber": "S",
+    "chamber_id": 34,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "PROCUREMENT"
+  ]
+}

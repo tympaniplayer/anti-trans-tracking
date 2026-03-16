@@ -1,0 +1,79 @@
+{
+  "id": 2052100,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S2711",
+  "title": "Relative to the commission on LGBTQ aging",
+  "summary": "Relativerelative to the commission on LGBTQ aging\" (Senate, No. 2711)",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S2711/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S2711/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S2711",
+  "sponsors": [
+    "Rules [Sen]"
+  ],
+  "introduced_date": "2025-11-13",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-11-10",
+      "action": "Reported from the committee on Senate Rules",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-10",
+      "action": "Recommended new draft for S473",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-10",
+      "action": "Placed in the Orders of the Day for Thursday, November 13, 2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-13",
+      "action": "Substituted as a new draft for S473",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-13",
+      "action": "Ordered to a third reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-13",
+      "action": "Read third (title changed) and passed to be engrossed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-17",
+      "action": "Read; and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-10",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S2711.pdf",
+      "doc_id": 3283676
+    }
+  ],
+  "committee": {
+    "committee_id": 737,
+    "chamber": "H",
+    "chamber_id": 51,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

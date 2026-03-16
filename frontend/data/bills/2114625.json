@@ -1,0 +1,93 @@
+{
+  "id": 2114625,
+  "state": "GA",
+  "state_name": "Georgia",
+  "bill_number": "SB495",
+  "title": "\"Age-Appropriate Design Code Act\"; enact",
+  "summary": "A BILL to be entitled an Act to amend Chapter 1 of Title 10 of the Official Code of Georgia Annotated, relating to selling and other trade practices, so as to enact the \"Age-Appropriate Design Code Act\"; to provide for definitions; to provide for effective dates; to provide for related matters; to repeal conflicting laws; and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/GA/bill/SB495/2025",
+  "legiscan_url": "https://legiscan.com/GA/bill/SB495/2025",
+  "state_url": "https://www.legis.ga.gov/legislation/73129",
+  "sponsors": [
+    "Sally Harrell (D) [Sen]",
+    "Shawn Still (R) [Sen]",
+    "Ed Setzler (R) [Sen]",
+    "Bo Hatchett (R) [Sen]",
+    "Marty Harbin (R) [Sen]",
+    "Carden Summers (R) [Sen]",
+    "Frank Ginn (R) [Sen]",
+    "Ricky Williams (R) [Sen]",
+    "Lee Anderson (R) [Sen]",
+    "Elena Parent (D) [Sen]",
+    "Harold Jones (D) [Sen]",
+    "Ben Watson (R) [Sen]",
+    "Clint Dixon (R) [Sen]",
+    "Nikki Merritt (D) [Sen]",
+    "Nan Orrock (D) [Sen]",
+    "Russ Goodman (R) [Sen]",
+    "Nabilah Islam Parkes (D) [Sen]",
+    "Josh McLaurin (D) [Sen]",
+    "Max Burns (R) [Sen]",
+    "Blake Tillery (R) [Sen]",
+    "Brian Strickland (R) [Sen]",
+    "Chuck Payne (R) [Sen]",
+    "Mike Hodges (R) [Sen]",
+    "Billy Hickman (R) [Sen]",
+    "Chuck Hufstetler (R) [Sen]",
+    "Sonya Halpern (D) [Sen]",
+    "Jason T. Dickerson (R) [Sen]",
+    "Kenya Wicks (D) [Sen]",
+    "Gail Davenport (D) [Sen]",
+    "Tonya Anderson (D) [Sen]",
+    "Jaha Howard (D) [Sen]",
+    "Sam Watson (R) [Sen]",
+    "Freddie Sims (D) [Sen]",
+    "RaShaun Kemp (D) [Sen]",
+    "Kim Jackson (D) [Sen]",
+    "Ed Harbison (D) [Sen]",
+    "Randal Mangham (D) [Sen]",
+    "Drew Echols (R) [Sen]",
+    "Derek Mallow (D) [Sen]",
+    "Donzella James (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-11",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-11",
+      "action": "Senate Hopper",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Senate Read and Referred",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-12",
+      "type": "Introduced",
+      "url": "https://www.legis.ga.gov/api/legislation/document/20252026/242364",
+      "doc_id": 3359356
+    }
+  ],
+  "committee": {
+    "committee_id": 4773,
+    "chamber": "S",
+    "chamber_id": 30,
+    "name": "Children and Families"
+  },
+  "subjects": []
+}

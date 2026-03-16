@@ -1,0 +1,72 @@
+{
+  "id": 1942884,
+  "state": "ND",
+  "state_name": "North Dakota",
+  "bill_number": "SB2392",
+  "title": "The regulation of prohibited discriminatory practices; and to provide for a legislative management report.",
+  "summary": "A BILL for an Act to create and enact a new chapter to title 15, a new chapter to title 15.1, a new section to chapter 54-10, and a new chapter to title 54 of the North Dakota Century Code, relating to the regulation of prohibited discriminatory practices; and to provide for a legislative management report.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ND/bill/SB2392/2025",
+  "legiscan_url": "https://legiscan.com/ND/bill/SB2392/2025",
+  "state_url": "https://ndlegis.gov/assembly/69-2025/regular/bill-overview/bo2392.html",
+  "sponsors": [
+    "Mike Wobbema (R) [Sen]",
+    "David Hogue (R) [Sen]",
+    "Janne Myrdal (R) [Sen]",
+    "Bob Paulson (R) [Sen]",
+    "Daniel Johnston (R) [Rep]",
+    "Vicky Steiner (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-27",
+  "session": "69th Legislative Assembly",
+  "actions": [
+    {
+      "date": "2025-01-27",
+      "action": "Introduced, first reading, referred to Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "Committee Hearing 09:00 (Education)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Reported back, do not pass, placed on calendar 6 0 0",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Second reading, failed to pass, yeas 1 nays 46",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-24",
+      "description": "Senate Second reading",
+      "yea": 1,
+      "nay": 46,
+      "passed": 0
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-27",
+      "type": "Introduced",
+      "url": "https://ndlegis.gov/assembly/69-2025/regular/documents/25-1277-02000.pdf",
+      "doc_id": 3084033
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

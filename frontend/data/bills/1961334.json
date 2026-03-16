@@ -1,0 +1,70 @@
+{
+  "id": 1961334,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR119",
+  "title": "Declaring racism a public health crisis.",
+  "summary": "Declaring racism a public health crisis.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR119/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR119/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/119/all-info",
+  "sponsors": [
+    "Jahana Hayes (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Shontel Brown (D) [Rep]",
+    "Sheila Cherfilus-McCormick (D) [Rep]",
+    "Andre Carson (D) [Rep]",
+    "Jonathan Jackson (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "LaMonica McIver (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Jill Tokuda (D) [Rep]",
+    "Pramila Jayapal (D) [Rep]",
+    "Nydia Velazquez (D) [Rep]",
+    "Dwight Evans (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-06",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-02-06",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-07",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres119/BILLS-119hres119ih.pdf",
+      "doc_id": 3107608
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

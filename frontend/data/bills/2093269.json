@@ -1,0 +1,66 @@
+{
+  "id": 2093269,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB513",
+  "title": "Hate Crimes and Hate Bias - Definitions of Sexual Orientation and Hate Bias Incident",
+  "summary": "Altering the definition of \"sexual orientation\" applicable to certain hate crime statutes; and defining \"hate bias incident\" applicable to a certain requirement that the Department of State Police collect, analyze, and report certain information provided by certain law enforcement agencies.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB513/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB513/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0513?ys=2026RS",
+  "sponsors": [
+    "Joe Vogel (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-27",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-27",
+      "action": "First Reading Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Hearing 2/10 at 1:00 p.m.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-27",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0513f.pdf",
+      "doc_id": 3333536
+    }
+  ],
+  "committee": {
+    "committee_id": 1927,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Criminal Law - Substantive Crimes",
+    "Public Safety",
+    "Crimes and Punishments",
+    "Electronic Communication",
+    "Harassment",
+    "Hate Crimes",
+    "Law Enforcement",
+    "Reports",
+    "Sexual Orientation",
+    "State Police, Department of",
+    "Threats"
+  ]
+}

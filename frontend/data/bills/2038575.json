@@ -1,0 +1,112 @@
+{
+  "id": 2038575,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB4245",
+  "title": "GLOBE Act of 2025 Greater Leadership Overseas for the Benefit of Equality Act of 2025",
+  "summary": "To protect human rights and enhance opportunities for LGBTQI people around the world, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB4245/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB4245/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4245/all-info",
+  "sponsors": [
+    "Dina Titus (D) [Rep]",
+    "James McGovern (D) [Rep]",
+    "Mark Pocan (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Jared Huffman (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Robert Garcia (D) [Rep]",
+    "Jasmine Crockett (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Lateefah Simon (D) [Rep]",
+    "Nikema Williams (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Becca Balint (D) [Rep]",
+    "Jim Costa (D) [Rep]",
+    "Kevin Mullin (D) [Rep]",
+    "William Keating (D) [Rep]",
+    "Ro Khanna (D) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "Jennifer McClellan (D) [Rep]",
+    "Gwen Moore (D) [Rep]",
+    "Steve Cohen (D) [Rep]",
+    "Sean Casten (D) [Rep]",
+    "Madeleine Dean (D) [Rep]",
+    "Marilyn Strickland (D) [Rep]",
+    "Bradley Schneider (D) [Rep]",
+    "Sara Jacobs (D) [Rep]",
+    "Ilhan Omar (D) [Rep]",
+    "Seth Moulton (D) [Rep]",
+    "Josh Gottheimer (D) [Rep]",
+    "Raja Krishnamoorthi (D) [Rep]",
+    "Scott Peters (D) [Rep]",
+    "Sharice Davids (D) [Rep]",
+    "Julia Brownley (D) [Rep]",
+    "Joaquin Castro (D) [Rep]",
+    "Ted Lieu (D) [Rep]",
+    "Timothy Kennedy (D) [Rep]",
+    "Stephen Lynch (D) [Rep]",
+    "Daniel Goldman (D) [Rep]",
+    "Pramila Jayapal (D) [Rep]",
+    "Norma Torres (D) [Rep]",
+    "Nanette Barragan (D) [Rep]",
+    "Jahana Hayes (D) [Rep]",
+    "Jerrold Nadler (D) [Rep]",
+    "Gabe Amo (D) [Rep]",
+    "Grace Meng (D) [Rep]",
+    "Ami Bera (D) [Rep]",
+    "Elizabeth Fletcher (D) [Rep]",
+    "Julie Johnson (D) [Rep]",
+    "Mark DeSaulnier (D) [Rep]",
+    "Gil Cisneros (D) [Rep]",
+    "Mike Quigley (D) [Rep]",
+    "Brad Sherman (D) [Rep]",
+    "Jared Moskowitz (D) [Rep]",
+    "Josh Harder (D) [Rep]",
+    "Sarah McBride (D) [Rep]",
+    "Steven Horsford (D) [Rep]",
+    "Chrissy Houlahan (D) [Rep]"
+  ],
+  "introduced_date": "2025-06-27",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-27",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-27",
+      "action": "Referred to the Committee on Foreign Affairs, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-15",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr4245/BILLS-119hr4245ih.pdf",
+      "doc_id": 3261790
+    }
+  ],
+  "committee": {
+    "committee_id": 2305,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Foreign Affairs"
+  },
+  "subjects": [
+    "International affairs"
+  ]
+}

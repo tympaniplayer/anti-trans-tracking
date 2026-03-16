@@ -1,0 +1,115 @@
+{
+  "id": 1904272,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S01063",
+  "title": "Requires cultural awareness and competence training for medical professionals, including two hours of course work or training encompassing minority healthcare issues; provides an exemption for certain individuals; requires hospitals and facilities to request documentation of the completion of training from employees and prospective employees.",
+  "summary": "Requires cultural awareness and competence training for medical professionals, including two hours of course work or training encompassing minority healthcare issues; provides an exemption for certain individuals; requires hospitals and facilities to request documentation of the completion of training from employees and prospective employees.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "healthcare",
+    "sports",
+    "bathrooms",
+    "education",
+    "religious_exemptions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S01063/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S01063/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S1063",
+  "sponsors": [
+    "Jose Serrano (D) [Sen]",
+    "Jamaal Bailey (D) [Sen]",
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "Liz Krueger (D) [Sen]",
+    "Rachel May (D) [Sen]",
+    "Gustavo Rivera (D) [Sen]",
+    "Lea Webb (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-04",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "REFERRED TO HIGHER EDUCATION",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "COMMITTEE DISCHARGED AND COMMITTED TO RULES",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "ORDERED TO THIRD READING CAL.1464",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "referred to higher education",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "died in assembly",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "returned to senate",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO HIGHER EDUCATION",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-29",
+      "description": "Senate Rules Committee Vote",
+      "yea": 14,
+      "nay": 6,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-04",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 34,
+      "nay": 24,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-08",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S01063&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S01063",
+      "doc_id": 3040923
+    }
+  ],
+  "committee": {
+    "committee_id": 430,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Higher Education"
+  },
+  "subjects": []
+}

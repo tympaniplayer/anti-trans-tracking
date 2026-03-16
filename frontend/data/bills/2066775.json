@@ -1,0 +1,70 @@
+{
+  "id": 2066775,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB4304",
+  "title": "HIGHER ED STUDENT BILL OF RTS",
+  "summary": "Creates the Higher Education Student Bill of Rights Act. Provides that a student attending a postsecondary education institution in the State is entitled to the following rights: the right to an inclusive and safe learning environment; the right to equal access; the right to safety and respect; the right to accessibility; the right to free expression; the right to organize; the right to peaceful protest; the right to academic transparency; the right to fair evaluation; the right to educational records; the right to educational programs safeguarded from political interference; the right to career preparation; the right to educational quality; the right to due process; the right to representation; the right to institutional accountability; the right to financial transparency; the right to fair lending and borrowing practices; the right to timely refunds and withdrawals; and the right to transfer.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB4304/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB4304/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4304&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Katie Stuart (D) [Rep]",
+    "Sharon Chung (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-06",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "action": "Filed with the Clerk by Rep. Katie Stuart",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Assigned to Higher Education Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Added Chief Co-Sponsor Rep. Sharon Chung",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-06",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=206151&DocName=10400HB4304&DocNum=4304&DocTypeID=HB&LegID=164803&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3301306
+    }
+  ],
+  "committee": {
+    "committee_id": 210,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Higher Education"
+  },
+  "subjects": []
+}

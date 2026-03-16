@@ -1,0 +1,64 @@
+{
+  "id": 2051671,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4668",
+  "title": "To establish a perinatal behavioral health care workforce trust fund",
+  "summary": "To establish a perinatal behavioral health care workforce trust fund",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4668/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4668/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4668",
+  "sponsors": [
+    "Joint Committee on Mental Health, Substance Use and Recovery [Jnt]"
+  ],
+  "introduced_date": "2025-11-05",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-11-05",
+      "action": "Reported from the committee on Mental Health, Substance Use and Recovery",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-05",
+      "action": "New draft of H2208",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-05",
+      "action": "Reported favorably by committee and referred to the Joint Committee on Health Care Financing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Reporting date extended to Wednesday, March 18, 2026",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-05",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4668.pdf",
+      "doc_id": 3283203
+    }
+  ],
+  "committee": {
+    "committee_id": 763,
+    "chamber": "J",
+    "chamber_id": 103,
+    "name": "Health Care Financing"
+  },
+  "subjects": []
+}

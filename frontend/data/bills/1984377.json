@@ -1,0 +1,66 @@
+{
+  "id": 1984377,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "HB135",
+  "title": "Prohibit source of income discrimination in rental housing",
+  "summary": "To amend sections 4112.01 and 4112.02 of the Revised Code to prohibit discrimination in rental housing based on lawful source of income.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/HB135/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/HB135/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/hb135",
+  "sponsors": [
+    "Terrence Upchurch (D) [Rep]",
+    "Meredith Lawson-Rowe (D) [Rep]",
+    "Dani Isaacsohn (D) [Rep]",
+    "Lauren McNally (D) [Rep]",
+    "Ismail Mohamed (D) [Rep]",
+    "Tristan Rader (D) [Rep]",
+    "Allison Russo (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-25",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-25",
+      "action": "Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Referred to committee: Community Revitalization",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb135/00_IN/pdf/",
+      "doc_id": 3142362
+    }
+  ],
+  "committee": {
+    "committee_id": 5128,
+    "chamber": "H",
+    "chamber_id": 5,
+    "name": "Community Revitalization"
+  },
+  "subjects": [
+    "Commerce",
+    "Housing and Real Property",
+    "Housing and Real Property : Landlords and Tenants",
+    "Housing and Real Property : Real Estate Transactions",
+    "House Community Revitalization Committee"
+  ]
+}

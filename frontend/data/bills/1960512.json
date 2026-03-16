@@ -1,0 +1,63 @@
+{
+  "id": 1960512,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB2549",
+  "title": "Relating to the inclusion of a person's sex on driver's licenses, commercial driver's licenses, commercial learner's permits, and personal identification certificates.",
+  "summary": "Relating to the inclusion of a person's sex on driver's licenses, commercial driver's licenses, commercial learner's permits, and personal identification certificates.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "identity_documents"
+  ],
+  "primary_category": "identity_documents",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB2549/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB2549/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2549",
+  "sponsors": [
+    "David Lowe (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-06",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-06",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Referred to Homeland Security, Public Safety & Veterans' Affairs",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-06",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB02549I.htm",
+      "doc_id": 3106608
+    }
+  ],
+  "committee": {
+    "committee_id": 5170,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Homeland Security, Public Safety & Veterans' Affairs"
+  },
+  "subjects": [
+    "Vehicles & Traffic",
+    "Vehicles & Traffic--Driver's Licenses",
+    "IDENTIFICATION CARDS"
+  ]
+}

@@ -1,0 +1,80 @@
+{
+  "id": 1988681,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB3548",
+  "title": "Relating to local school health advisory councils and instruction regarding human sexuality, sexual orientation, and gender identity provided by public schools.",
+  "summary": "Relating to local school health advisory councils and instruction regarding human sexuality, sexual orientation, and gender identity provided by public schools.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB3548/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB3548/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3548",
+  "sponsors": [
+    "Caroline Harris Davila (R) [Rep]",
+    "Cody Harris (R) [Rep]",
+    "Richard Hayes (R) [Rep]",
+    "Hillary Hickland (R) [Rep]",
+    "Helen Kerwin (R) [Rep]",
+    "Mitch Little (R) [Rep]",
+    "William Metcalf (R) [Rep]",
+    "Tom Oliverson (R) [Rep]",
+    "Joanne Shofner (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-28",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-28",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Referred to Public Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-28",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB03548I.htm",
+      "doc_id": 3148053
+    }
+  ],
+  "committee": {
+    "committee_id": 1891,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Public Education"
+  },
+  "subjects": [
+    "Courts",
+    "Courts--Prosecuting Attorneys",
+    "Education",
+    "Education--Primary & Secondary",
+    "Education--Primary & Secondary--Curriculum",
+    "Education--Primary & Secondary--Other School Personnel",
+    "Education--Primary & Secondary--Teachers",
+    "Electronic Information Systems",
+    "GENDER IDENTITY & EXPRESSION",
+    "SEX EDUCATION",
+    "SEXUAL ORIENTATION",
+    "ATTORNEY GENERAL"
+  ]
+}

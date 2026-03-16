@@ -1,0 +1,54 @@
+{
+  "id": 1970388,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB600",
+  "title": "Pupil instruction: transgender concepts: opt out.",
+  "summary": "An act to add Section 51247 to the Education Code, relating to pupil instruction.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB600/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB600/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB600",
+  "sponsors": [
+    "Leticia Castillo (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-13",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-14",
+      "action": "From printer. May be heard in committee March 16.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Died at Desk.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-13",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB600#99INT",
+      "doc_id": 3120277
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,72 @@
+{
+  "id": 2024704,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB1266",
+  "title": "In licensing of health care facilities, providing for hospital pricing transparency; providing for acquisition of health care facilities; and conferring powers to the Department of Health and Attorney General.",
+  "summary": "An Act amending the act of July 19, 1979 (P.L.130, No.48), known as the Health Care Facilities Act, in licensing of health care facilities, providing for hospital pricing transparency; providing for acquisition of health care facilities; and conferring powers to the Department of Health and Attorney General.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB1266/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB1266/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb1266",
+  "sponsors": [
+    "Dan Williams (D) [Rep]",
+    "Kristine Howard (D) [Rep]",
+    "Melissa Shusterman (D) [Rep]",
+    "Jose Giral (D) [Rep]",
+    "Carol Hill-Evans (D) [Rep]",
+    "Christopher Pielli (D) [Rep]",
+    "Kyle Donahue (D) [Rep]",
+    "Christina Sappey (D) [Rep]",
+    "Heather Boyd (D) [Rep]",
+    "Nancy Guenst (D) [Rep]",
+    "Ben Sanchez (D) [Rep]",
+    "Danielle Otten (D) [Rep]",
+    "La'Tasha Mayes (D) [Rep]",
+    "Liz Hanbidge (D) [Rep]",
+    "Frank Burns (D) [Rep]",
+    "Lisa Borowski (D) [Rep]",
+    "Jennifer O'Mara (D) [Rep]",
+    "Joseph Webster (D) [Rep]",
+    "Keith Harris (D) [Rep]",
+    "Ed Neilson (D) [Rep]",
+    "Johanny Cepeda-Freytiz (D) [Rep]",
+    "Nikki Rivera (D) [Rep]",
+    "Tarik Khan (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-17",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-04-17",
+      "action": "Referred to Health",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1266/PN1409",
+      "doc_id": 3215871
+    }
+  ],
+  "committee": {
+    "committee_id": 1809,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "Health"
+  },
+  "subjects": []
+}

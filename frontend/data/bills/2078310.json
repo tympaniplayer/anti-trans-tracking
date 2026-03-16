@@ -1,0 +1,283 @@
+{
+  "id": 2078310,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "HB1173",
+  "title": "Virginia Human Rights Act; reasonable accommodation for known limitations related to menopause.",
+  "summary": "Virginia Human Rights Act; reasonable accommodation for known limitations related to menopause; report. Amends provisions of the Virginia Human Rights act that provide employment protections for reasonable accommodation for known limitations related to pregnancy, childbirth, or related medical conditions to include menopause. The bill also directs the Commissioner of Labor and Industry, in consultation with the Commissioner of Health, to conduct a study on menopause in the workforce, menopause accommodations in employment environments, and the scope of existing menopause-related policies and to develop best practices related to menopause accommodations in employment environments. The bill directs the Commissioners to submit such report to the Governor and General Assembly by July 1, 2028, and to post such report on the Department of Labor and Industry's website.",
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/HB1173/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/HB1173/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/HB1173",
+  "sponsors": [
+    "Kathy Tran (D) [Rep]",
+    "Bonita Anthony (D) [Rep]",
+    "Rae Cousins (D) [Rep]",
+    "Jessica Anderson (D) [Rep]",
+    "Elizabeth Bennett-Parker (D) [Sen]",
+    "Gretchen Bulova (D) [Rep]",
+    "Katrina Callsen (D) [Rep]",
+    "Karen Carnegie (D) [Rep]",
+    "Betsy Carr (D) [Rep]",
+    "Laura Jane Cohen (D) [Rep]",
+    "Nicole Cole (D) [Rep]",
+    "Lindsey Dougherty (D) [Rep]",
+    "Michael Feggans (D) [Rep]",
+    "Lily Franklin (D) [Rep]",
+    "Margaret Franklin (D) [Rep]",
+    "Debra Gardner (D) [Rep]",
+    "Jackie Glass (D) [Rep]",
+    "Elizabeth Guzman (D) [Rep]",
+    "Charniele Herring (D) [Rep]",
+    "Karen Keys-Gamarra (D) [Rep]",
+    "Amy Laufer (D) [Rep]",
+    "Destiny LeVere Bolling (D) [Rep]",
+    "Michelle Maldonado (D) [Rep]",
+    "Marty Martinez (D) [Rep]",
+    "John Chilton McAuliff (D) [Rep]",
+    "Adele McClure (D) [Rep]",
+    "Delores McQuinn (D) [Rep]",
+    "Leslie Chambers Mehta (D) [Rep]",
+    "May Nivar (D) [Rep]",
+    "Kimberly Pope Adams (D) [Rep]",
+    "Marcia Price (D) [Rep]",
+    "Sam Rasoul (D) [Rep]",
+    "Atoosa Reaser (D) [Rep]",
+    "Charlie Schmidt (D) [Rep]",
+    "Briana Sewell (D) [Rep]",
+    "Irene Shin (D) [Rep]",
+    "Joshua Thomas (D) [Rep]",
+    "Virgil Thornton (D) [Rep]",
+    "Jeion Ward (D) [Rep]",
+    "Vivian Watts (D) [Rep]",
+    "Rodney Willett (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-14",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26105214D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Referred to Committee on Labor and Commerce",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Assigned HCL sub: Subcommittee #2",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (HB1173)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Subcommittee recommends reporting (6-Y 1-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Reported from Labor and Commerce (14-Y 5-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "Read second time and engrossed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Read third time and passed House (62-Y 35-N 0-A)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Constitutional reading dispensed (on 1st reading)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Referred to Committee on Commerce and Labor",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Senate committee offered",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Reported from Commerce and Labor with substitute (9-Y 5-N)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Committee substitute printed 26108761D-S1",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Rules suspended",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Constitutional reading dispensed (on 2nd reading) (39-Y 0-N 0-A)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Passed by for the day (Voice Vote)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Read third time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Commerce and Labor Substitute agreed to",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Engrossed by Senate - committee substitute",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Passed Senate with substitute (20-Y 19-N 0-A)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (HB1173)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Senate substitute agreed to by House (62-Y 34-N 1-A)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-14",
+      "action": "Enrolled",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-14",
+      "action": "Bill text as passed House and Senate (HB1173ER)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-14",
+      "action": "Signed by Speaker",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-14",
+      "action": "Signed by President",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-12",
+      "description": "Subcommittee recommends reporting (6-Y 1-N)",
+      "yea": 6,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-12",
+      "description": "Reported from Labor and Commerce (14-Y 5-N)",
+      "yea": 14,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-17",
+      "description": "Read third time and passed House (62-Y 35-N 0-A)",
+      "yea": 62,
+      "nay": 35,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-02",
+      "description": "Reported from Commerce and Labor with substitute (9-Y 5-N)",
+      "yea": 9,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-04",
+      "description": "Constitutional reading dispensed (on 2nd reading) (39-Y 0-N 0-A)",
+      "yea": 39,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-05",
+      "description": "Passed Senate with substitute (20-Y 19-N 0-A)",
+      "yea": 20,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-09",
+      "description": "Senate substitute agreed to by House (62-Y 34-N 1-A)",
+      "yea": 62,
+      "nay": 34,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB1173/text/HB1173",
+      "doc_id": 3315326
+    },
+    {
+      "date": "2026-02-27",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB1173/text/HB1173SC1",
+      "doc_id": 3380395
+    },
+    {
+      "date": "2026-03-03",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB1173/text/HB1173S1",
+      "doc_id": 3382371
+    },
+    {
+      "date": "2026-03-14",
+      "type": "Enrolled",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB1173/text/HB1173ER",
+      "doc_id": 3394981
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,66 @@
+{
+  "id": 2129657,
+  "state": "ID",
+  "state_name": "Idaho",
+  "bill_number": "H0828",
+  "title": "Adds to existing law to establish the Merit-Based Health Care Act.",
+  "summary": "MERIT-BASED HEALTH CARE -- Adds to existing law to establish the Merit-Based Health Care Act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ID/bill/H0828/2026",
+  "legiscan_url": "https://legiscan.com/ID/bill/H0828/2026",
+  "state_url": "https://legislature.idaho.gov/sessioninfo/2026/legislation/H0828/",
+  "sponsors": [
+    "Health and Welfare Committee [Rep]"
+  ],
+  "introduced_date": "2026-03-05",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-05",
+      "action": "Introduced, read first time, referred to JRA for Printing",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Reported Printed and Referred to Business",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Reported out of Committee with Do Pass Recommendation, Filed for Second Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Read second time; Filed for Third Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "U.C. to be placed on General Orders, no objection",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.idaho.gov/wp-content/uploads/sessioninfo/2026/legislation/H0828.pdf",
+      "doc_id": 3385872
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "MERIT-BASED HEALTH CARE"
+  ]
+}

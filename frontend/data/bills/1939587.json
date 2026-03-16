@@ -1,0 +1,58 @@
+{
+  "id": 1939587,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "HB6",
+  "title": "Enact Advance Ohio Higher Education Act",
+  "summary": "To amend sections 3335.02, 3335.09, 3337.01, 3339.01, 3341.02, 3343.02, 3344.01, 3345.45, 3350.10, 3352.01, 3356.01, 3359.01, 3361.01, 3362.01, 3364.01, 4117.14, and 4117.15; to enact new section 3333.045 and sections 3345.029, 3345.0216, 3345.0217, 3345.0218, 3345.0219, 3345.382, 3345.451, 3345.452, 3345.453, 3345.454, 3345.455, 3345.456, 3345.591, 3345.80, and 3345.88; and to repeal section 3333.045 of the Revised Code to enact the Advance Ohio Higher Education Act regarding the operation of state institutions of higher education.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/HB6/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/HB6/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/hb6",
+  "sponsors": [
+    "Tom Young (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-23",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-23",
+      "action": "Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-28",
+      "action": "Referred to committee: Workforce and Higher Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb6/00_IN/pdf/",
+      "doc_id": 3079247
+    }
+  ],
+  "committee": {
+    "committee_id": 5077,
+    "chamber": "H",
+    "chamber_id": 5,
+    "name": "Workforce and Higher Education"
+  },
+  "subjects": [
+    "Education",
+    "Education : Higher Education",
+    "House Workforce and Higher Education Committee"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": 1918202,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S02005",
+  "title": "Relates to certain prostitution offenses and fines relating thereto; relates to motions to vacate judgment and motions for new sentencing; relates to investigation into acts alleged to be the unauthorized practice of massage therapy by potential victims of human trafficking; prohibits the possession of reproductive or sexual health devices from being permitted in specified criminal or civil proceedings as evidence of prostitution; relates to services for exploited individuals, services for victims of human trafficking and the interagency task force on human trafficking; establishes the victims of sexual exploitation fund; makes conforming changes; repeals provisions relating to prostitution, prostitution in a school zone, defense against patronizing a person for prostitution and a motion to dismiss information, simplified information, prosecutor's information or misdemeanor complaint.",
+  "summary": "Relates to certain prostitution offenses and fines relating thereto; relates to motions to vacate judgment and motions for new sentencing; relates to investigation into acts alleged to be the unauthorized practice of massage therapy by potential victims of human trafficking; prohibits the possession of reproductive or sexual health devices from being permitted in specified criminal or civil proceedings as evidence of prostitution; relates to services for exploited individuals, services for victims of human trafficking and the interagency task force on human trafficking; establishes the victims of sexual exploitation fund; makes conforming changes; repeals provisions relating to prostitution, prostitution in a school zone, defense against patronizing a person for prostitution and a motion to dismiss information, simplified information, prosecutor's information or misdemeanor complaint.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S02005/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S02005/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S2005",
+  "sponsors": [
+    "Liz Krueger (D) [Sen]",
+    "April Baskin (D) [Sen]",
+    "Cordell Cleare (D) [Sen]",
+    "Nathalia Fernandez (D) [Sen]",
+    "John Liu (D) [Sen]",
+    "Zellnor Myrie (D) [Sen]",
+    "Luis Sepulveda (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-14",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-14",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-14",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S02005&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S02005",
+      "doc_id": 3055203
+    }
+  ],
+  "committee": {
+    "committee_id": 417,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Codes"
+  },
+  "subjects": []
+}

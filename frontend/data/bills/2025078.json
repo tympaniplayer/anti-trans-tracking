@@ -1,0 +1,74 @@
+{
+  "id": 2025078,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB2945",
+  "title": "Housing for All Act of 2025",
+  "summary": "To address the homelessness and housing crises, to move toward the goal of providing for a home for all Americans, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB2945/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB2945/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/2945/all-info",
+  "sponsors": [
+    "Ted Lieu (D) [Rep]",
+    "Salud Carbajal (D) [Rep]",
+    "LaMonica McIver (D) [Rep]",
+    "Cleo Fields (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Yassamin Ansari (D) [Rep]",
+    "Nanette Barragan (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Jimmy Panetta (D) [Rep]",
+    "Sheila Cherfilus-McCormick (D) [Rep]",
+    "Jimmy Gomez (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Janice Schakowsky (D) [Rep]",
+    "Lateefah Simon (D) [Rep]",
+    "Seth Magaziner (D) [Rep]",
+    "Jesus Garcia (D) [Rep]",
+    "Pete Aguilar (D) [Rep]",
+    "Dwight Evans (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-17",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-04-17",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Referred to the Committee on Financial Services, and in addition to the Committees on the Judiciary, Energy and Commerce, and Transportation and Infrastructure, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-02",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr2945/BILLS-119hr2945ih.pdf",
+      "doc_id": 3228454
+    }
+  ],
+  "committee": {
+    "committee_id": 2304,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Financial Services"
+  },
+  "subjects": [
+    "Housing and community development"
+  ]
+}

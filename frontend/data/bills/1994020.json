@@ -1,0 +1,325 @@
+{
+  "id": 1994020,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB1999",
+  "title": "Relating to protection for a public employee's or student's use of terms consistent with biological sex.",
+  "summary": "Relating to protection for a public employee's or student's use of terms consistent with biological sex.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB1999/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB1999/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1999",
+  "sponsors": [
+    "Bryan Hughes (R) [Sen]",
+    "Bob Hall (R) [Sen]",
+    "Adam Hinojosa (R) [Sen]",
+    "Phil King (R) [Rep]",
+    "Lois Kolkhorst (R) [Sen]",
+    "Kevin Sparks (R) [Sen]",
+    "John Smithee (R) [Rep]"
+  ],
+  "introduced_date": "2025-05-08",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-06",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Co-author authorized",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Referred to State Affairs",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Considered in public hearing",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Testimony taken in committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Left pending in committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Considered in public hearing",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Vote taken in committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Reported favorably as substituted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Recommended for local & uncontested calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "Committee report printed and distributed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Co-author authorized",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Placed on local & uncontested calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-24",
+      "action": "Removed from local & uncontested calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Placed on intent calendar",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Co-author authorized",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Rules suspended-Regular order of business",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Record vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Read 2nd time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Amendment(s) offered FA1 Men\u00e9ndez",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Amendment fails of adoption",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Record vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Passed to engrossment",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Record vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Co-author authorized",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Rules suspended-Regular order of business",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Record vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Read 3rd time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Passed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Record vote",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Reported engrossed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-09",
+      "action": "Received from the Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Referred to State Affairs",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Considered in formal meeting",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Reported favorably w/o amendment(s)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Comte report filed with Committee Coordinator",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Committee report distributed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Committee report sent to Calendars",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-07",
+      "description": "Rules suspended-Regular order of business",
+      "yea": 20,
+      "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-07",
+      "description": "Amendment fails of adoption",
+      "yea": 11,
+      "nay": 20,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-07",
+      "description": "Record vote",
+      "yea": 31,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-08",
+      "description": "Rules suspended-Regular order of business",
+      "yea": 20,
+      "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-08",
+      "description": "Read 3rd time",
+      "yea": 20,
+      "nay": 11,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-03-06",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB01999I.htm",
+      "doc_id": 3156951
+    },
+    {
+      "date": "2025-04-07",
+      "type": "Comm Sub",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB01999S.htm",
+      "doc_id": 3203996
+    },
+    {
+      "date": "2025-05-08",
+      "type": "Engrossed",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB01999E.htm",
+      "doc_id": 3233237
+    },
+    {
+      "date": "2025-05-23",
+      "type": "Comm Sub",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB01999H.htm",
+      "doc_id": 3243950
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "City Government",
+    "City Government--Employees/Officers",
+    "County Government",
+    "County Government--Employees/Officers",
+    "Education",
+    "Education--Higher",
+    "Education--Higher--Health Institutions",
+    "Education--Higher--Institutions & Programs",
+    "Education--Primary & Secondary",
+    "Education--Primary & Secondary--Charter Schools",
+    "Education--Primary & Secondary--General",
+    "Education--School Districts",
+    "State Employees",
+    "GENDER IDENTITY & EXPRESSION"
+  ]
+}

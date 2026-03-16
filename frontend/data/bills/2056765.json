@@ -1,0 +1,84 @@
+{
+  "id": 2056765,
+  "state": "NH",
+  "state_name": "New Hampshire",
+  "bill_number": "HB1464",
+  "title": "Relative to discrimination, harassment, and violence based on political affiliation or opinion.",
+  "summary": "Relative to discrimination, harassment, and violence based on political affiliation or opinion.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NH/bill/HB1464/2026",
+  "legiscan_url": "https://legiscan.com/NH/bill/HB1464/2026",
+  "state_url": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=3119&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1464",
+  "sponsors": [
+    "Terry Roy (R) [Rep]",
+    "Claudine Burnham (R) [Rep]",
+    "Jennifer Rhodes (R) [Rep]"
+  ],
+  "introduced_date": "2025-12-04",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-04",
+      "action": "Introduced 01/07/2026 and referred to Criminal Justice and Public Safety",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Public Hearing: 01/15/2026 01:30 pm GP 159",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Executive Session: 01/23/2026 12:00 pm GP 159",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Majority Committee Report: Ought to Pass 01/23/2026 (Vote 7-5; Regular Calendar)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Minority Committee Report: Inexpedient to Legislate",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Ought to Pass: Motion Failed Regular Calendar 136-199 03/11/2026 House Journal  7",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Inexpedient to Legislate: Motion Adopted DV 242-97 03/11/2026 House Journal  7",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-11",
+      "description": "OTP",
+      "yea": 136,
+      "nay": 199,
+      "passed": 0
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&id=2331&txtFormat=html",
+      "doc_id": 3288242
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

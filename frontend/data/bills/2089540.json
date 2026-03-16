@@ -1,0 +1,129 @@
+{
+  "id": 2089540,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB2491",
+  "title": "Relating To Health Care.",
+  "summary": "Establishes a broad definition of \"qualified health care provider\" in numerous areas of existing law. Clarifies and standardizes references to specific health care providers. Updates outdated language to reflect correct terminology. Makes numerous clarifying and conforming amendments to support these changes, including but not limited to chapters related to health, education, insurance, professions and vocations, the pain patient's bill of rights, the Uniform Probate Code, minors, the Child Protective Act, and the Penal Code. Repeals the obsolete Hawaii Health Corps. Effective 1/30/2050. Implementation effective 7/1/2028. (SD1)",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB2491/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB2491/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2491&year=2026",
+  "sponsors": [
+    "Jarrett Keohokalole (D) [Sen]",
+    "Stanley Chang (D) [Sen]",
+    "Kurt Fevella (R) [Sen]",
+    "Rachele Fernandez Lamosao (D) [Sen]",
+    "Joy San Buenaventura (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-22",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-22",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Referred to HHS/CPN, JDC/WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "The committee(s) on HHS/CPN has scheduled a public hearing on 02-06-26 9:00AM; Conference Room 229 &amp; Videoconference.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "The committee(s) on HHS recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in HHS were as follows: 4 Aye(s): Senator(s) San Buenaventura, McKelvey, Kanuha, Keohokalole; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Fevella.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "The committee(s) on CPN recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in CPN were as follows: 5 Aye(s): Senator(s) Keohokalole, Fukunaga, Lamosao, McKelvey, Awa; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Reported from HHS/CPN (Stand. Com. Rep. No. 2558) with recommendation of passage on Second Reading, as amended (SD 1) and referral to JDC/WAM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Report adopted; Passed Second Reading, as amended (SD 1) and referred to JDC/WAM.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-06",
+      "description": "Senate Health and Human Services: Passed, With Amendments",
+      "yea": 4,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-06",
+      "description": "Senate Commerce and Consumer Protection: Passed, With Amendments",
+      "yea": 5,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB2491_.HTM",
+      "doc_id": 3327689
+    },
+    {
+      "date": "2026-02-19",
+      "type": "Amended",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB2491_SD1_.HTM",
+      "doc_id": 3368922
+    }
+  ],
+  "committee": {
+    "committee_id": 3756,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Health Care",
+    "Qualified Health Care Providers",
+    "Health Care Providers",
+    "Scope of Practice",
+    "Access to Health Care",
+    "Licensure",
+    "Certification",
+    "Education",
+    "Insurance",
+    "Professions and Vocations",
+    "Pain Patient's Bill of Rights",
+    "Uniform Probate Code",
+    "Children",
+    "Medical Care for Minors",
+    "Capacity Determinations",
+    "Child Protective Act",
+    "Penal Code"
+  ]
+}

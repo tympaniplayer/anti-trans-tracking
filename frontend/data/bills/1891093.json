@@ -1,0 +1,64 @@
+{
+  "id": 1891093,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB1016",
+  "title": "Relating to a public school policy regarding multi-occupancy bathrooms or changing facilities.",
+  "summary": "Relating to a public school policy regarding multi-occupancy bathrooms or changing facilities.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms",
+    "education"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB1016/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB1016/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1016",
+  "sponsors": [
+    "Steve Toth (R) [Rep]"
+  ],
+  "introduced_date": "2024-11-12",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-12",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-07",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-07",
+      "action": "Referred to State Affairs",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-11-13",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB01016I.htm",
+      "doc_id": 3027327
+    }
+  ],
+  "committee": {
+    "committee_id": 1895,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "Education",
+    "Education--Primary & Secondary",
+    "Education--Primary & Secondary--Facilities"
+  ]
+}

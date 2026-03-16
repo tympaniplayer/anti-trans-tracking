@@ -1,0 +1,85 @@
+{
+  "id": 2070241,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB63",
+  "title": "Education - Interscholastic and Intramural Junior Varsity and Varsity Teams and Locker Rooms - Designation Based on Sex (Fairness in Girls' Sports Act)",
+  "summary": "Requiring certain interscholastic and intramural junior varsity and varsity athletic teams or sports sponsored by certain schools and certain locker rooms to be expressly designated based on biological sex; prohibiting certain entities from taking certain adverse actions against a school for maintaining separate interscholastic and intramural junior varsity and varsity athletic teams or sports or locker rooms for students of the female sex; etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "education",
+    "bathrooms",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB63/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB63/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0063?ys=2026RS",
+  "sponsors": [
+    "Kathy Szeliga (R) [Rep]",
+    "Lauren Arikan (R) [Rep]",
+    "Brian Chisholm (R) [Rep]",
+    "Mark Fisher (R) [Rep]",
+    "Robin Grammer (R) [Rep]",
+    "Matt Morgan (R) [Rep]",
+    "Ryan Nawrocki (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-09-04",
+      "action": "Pre-filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "First Reading Ways and Means",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Hearing 2/05 at 1:00 p.m.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-11",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0063f.pdf",
+      "doc_id": 3307018
+    }
+  ],
+  "committee": {
+    "committee_id": 1928,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Ways and Means"
+  },
+  "subjects": [
+    "Primary and Secondary Education",
+    "Human Relations",
+    "Associations",
+    "Attorneys' Fees",
+    "Civil Actions",
+    "complaints",
+    "Damages",
+    "Education",
+    "Gender",
+    "Investigations and Inquiries",
+    "Private Schools",
+    "Public Schools",
+    "Secondary Schools",
+    "Sports and Recreation",
+    "Students",
+    "Time"
+  ]
+}

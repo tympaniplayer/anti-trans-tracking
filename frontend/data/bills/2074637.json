@@ -1,0 +1,51 @@
+{
+  "id": 2074637,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S2571",
+  "title": "Establishes task force to study and make recommendations concerning health care service needs of the lesbian, gay, bisexual, transgendered, and queer or questioning individuals, and persons with intersex conditions in the State.",
+  "summary": "Establishes task force to study and make recommendations concerning health care service needs of the lesbian, gay, bisexual, transgendered, and queer or questioning individuals, and persons with intersex conditions in the State.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S2571/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S2571/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S2571",
+  "sponsors": [
+    "Vin Gopal (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-06",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S3000/2571_I1.HTM",
+      "doc_id": 3311670
+    }
+  ],
+  "committee": {
+    "committee_id": 879,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Health, Human Services and Senior Citizens"
+  },
+  "subjects": [
+    "Health, Human Services and Senior Citizens"
+  ]
+}

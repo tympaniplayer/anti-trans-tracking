@@ -1,0 +1,69 @@
+{
+  "id": 1965653,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB581",
+  "title": "Providing for classroom instruction on sexual orientation and gender identity and for parental notification of student health care services; and establishing cause of action for violation.",
+  "summary": "An Act providing for classroom instruction on sexual orientation and gender identity and for parental notification of student health care services; and establishing cause of action for violation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB581/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB581/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb581",
+  "sponsors": [
+    "Stephanie Borowicz (R) [Rep]",
+    "Joe Hamm (R) [Rep]",
+    "Keith Greiner (R) [Rep]",
+    "Bradley Roae (R) [Rep]",
+    "Craig Staats (R) [Rep]",
+    "Stephenie Scialabba (R) [Rep]",
+    "Robert Kauffman (R) [Rep]",
+    "Andrew Kuzma (R) [Rep]",
+    "Seth Grove (R) [Rep]",
+    "Jamie Walsh (R) [Rep]",
+    "David Zimmerman (R) [Rep]",
+    "Mark Gillen (R) [Rep]",
+    "Aaron Bernstine (R) [Rep]",
+    "Robert James (R) [Rep]",
+    "Mike Jones (R) [Rep]",
+    "Wendy Fink (R) [Rep]",
+    "Dane Watro (R) [Rep]",
+    "Robert Leadbeter (R) [Rep]",
+    "Thomas Jones (R) [Rep]",
+    "Charity Grimm Krupa (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-12",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-12",
+      "action": "Referred to Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB0581/PN0590",
+      "doc_id": 3116216
+    }
+  ],
+  "committee": {
+    "committee_id": 44,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "Education"
+  },
+  "subjects": []
+}

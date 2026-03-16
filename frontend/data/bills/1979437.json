@@ -1,0 +1,54 @@
+{
+  "id": 1979437,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S05486",
+  "title": "Requires certain disclosures by automobile insurers relating to the use of telematics systems in determining insurance rates and/or discounts.",
+  "summary": "Requires certain disclosures by automobile insurers relating to the use of telematics systems in determining insurance rates and/or discounts.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S05486/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S05486/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S5486",
+  "sponsors": [
+    "Leroy Comrie (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-21",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-21",
+      "action": "REFERRED TO INSURANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO INSURANCE",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-21",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S05486&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S05486",
+      "doc_id": 3135954
+    }
+  ],
+  "committee": {
+    "committee_id": 432,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Insurance"
+  },
+  "subjects": []
+}

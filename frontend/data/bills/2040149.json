@@ -1,0 +1,84 @@
+{
+  "id": 2040149,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB2377",
+  "title": "EACH Act of 2025 Equal Access to Abortion Coverage in Health Insurance Act of 2025",
+  "summary": "A bill to ensure affordable abortion coverage and care for every person, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB2377/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB2377/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2377/all-info",
+  "sponsors": [
+    "Tammy Duckworth (D) [Sen]",
+    "Patty Murray (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Amy Klobuchar (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Jacky Rosen (D) [Sen]",
+    "Jeanne Shaheen (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "Kirsten Gillibrand (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Maria Cantwell (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Lisa Rochester (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Ruben Gallego (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Christopher Murphy (D) [Sen]",
+    "Andy Kim (D) [Sen]",
+    "Sheldon Whitehouse (D) [Sen]",
+    "John Fetterman (D) [Sen]",
+    "Catherine Cortez Masto (D) [Sen]",
+    "Mark Kelly (D) [Sen]",
+    "Ben Lujan (D) [Sen]",
+    "Margaret Hassan (D) [Sen]",
+    "Michael Bennet (D) [Sen]"
+  ],
+  "introduced_date": "2025-07-22",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-07-22",
+      "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-31",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s2377/BILLS-119s2377is.pdf",
+      "doc_id": 3263744
+    }
+  ],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

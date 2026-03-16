@@ -1,0 +1,59 @@
+{
+  "id": 2042862,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H4417",
+  "title": "Updating the juvenile justice policy and data board",
+  "summary": "Updating the juvenile justice policy and data board",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H4417/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H4417/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H4417",
+  "sponsors": [
+    "Joint Committee on Children, Families and Persons with Disabilities [Jnt]"
+  ],
+  "introduced_date": "2025-08-28",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-08-28",
+      "action": "Reported from the committee on Children, Families and Persons with Disabilities",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-28",
+      "action": "New draft of H247",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-08-28",
+      "action": "Bill reported favorably by committee and referred to the committee on House Ways and Means",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-08-28",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H4417.pdf",
+      "doc_id": 3266666
+    }
+  ],
+  "committee": {
+    "committee_id": 737,
+    "chamber": "H",
+    "chamber_id": 51,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

@@ -1,0 +1,82 @@
+{
+  "id": 2103229,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB711",
+  "title": "Data Privacy - Consumer Data, Public Records, and Message Switching System (Data Privacy Act)",
+  "summary": "Prohibiting a certain controller from selling the personal data of a consumer to a purchaser who seeks to use the data for immigration enforcement; requiring a custodian of a public record to take reasonable steps to determine whether a public record is accessed for enforcing immigration law; requiring an entity that operates a certain message switching system to take certain actions regarding system access; requiring certain procedures of certain governmental entities to account for data containing sensitive attributes; etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB711/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB711/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0711?ys=2026RS",
+  "sponsors": [
+    "Lorig Charkoudian (D) [Rep]",
+    "Jared Solomon (D) [Rep]",
+    "Sarah Wolek (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-02",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-02",
+      "action": "First Reading Economic Matters",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Hearing 2/24 at 1:00 p.m.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-02",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0711f.pdf",
+      "doc_id": 3343691
+    }
+  ],
+  "committee": {
+    "committee_id": 1923,
+    "chamber": "H",
+    "chamber_id": 49,
+    "name": "Economic Matters"
+  },
+  "subjects": [
+    "Commercial Law - Consumer Protection",
+    "Cybersecurity",
+    "Public Safety",
+    "Administrative Agencies",
+    "Commerce and Business",
+    "Consumer Protection",
+    "Data",
+    "Disclosure",
+    "Ethics",
+    "Immigrants and Citizenship",
+    "Information Technology",
+    "Information Technology, Department of",
+    "Mobile Devices",
+    "Motor Vehicles",
+    "Motor Vehicle Administration",
+    "Personal Identifying Information",
+    "Plans and Proposals",
+    "Privacy",
+    "Public Information",
+    "Public Safety and Correctional Services, Department of",
+    "Records",
+    "Rules and Regulations",
+    "Standards and Best Practices",
+    "State Police, Department of",
+    "Local Government Mandates"
+  ]
+}

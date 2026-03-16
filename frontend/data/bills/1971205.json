@@ -1,0 +1,67 @@
+{
+  "id": 1971205,
+  "state": "AK",
+  "state_name": "Alaska",
+  "bill_number": "SB101",
+  "title": "Health And Personal Safety Education",
+  "summary": "An Act relating to health and personal safety education.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AK/bill/SB101/2025",
+  "legiscan_url": "https://legiscan.com/AK/bill/SB101/2025",
+  "state_url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=SB101",
+  "sponsors": [
+    "Elvi Gray-Jackson (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-14",
+  "session": "34th Legislature",
+  "actions": [
+    {
+      "date": "2025-02-14",
+      "action": "READ THE FIRST TIME - REFERRALS",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-14",
+      "action": "EDC, HSS",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-14",
+      "action": "REFERRED TO EDUCATION",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-14",
+      "type": "Introduced",
+      "url": "https://www.akleg.gov/PDF/34/Bills/SB0101A.PDF",
+      "doc_id": 3121513
+    }
+  ],
+  "committee": {
+    "committee_id": 2142,
+    "chamber": "S",
+    "chamber_id": 14,
+    "name": "Education"
+  },
+  "subjects": [
+    "Education",
+    "Health & Social Services",
+    "Minors",
+    "School Districts",
+    "Schools",
+    "Science & Technology",
+    "Teachers"
+  ]
+}

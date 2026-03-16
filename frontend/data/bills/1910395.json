@@ -1,0 +1,518 @@
+{
+  "id": 1910395,
+  "state": "NE",
+  "state_name": "Nebraska",
+  "bill_number": "LB89",
+  "title": "Adopt the Stand With Women Act",
+  "summary": "Adopt the Stand With Women Act",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NE/bill/LB89/2025",
+  "legiscan_url": "https://legiscan.com/NE/bill/LB89/2025",
+  "state_url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=58025",
+  "sponsors": [
+    "Kathleen Kauth (N) [Sen]"
+  ],
+  "introduced_date": "2025-06-06",
+  "session": "109th Legislature",
+  "actions": [
+    {
+      "date": "2025-01-10",
+      "action": "Date of introduction",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-01-13",
+      "action": "Meyer name added",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Hunt MO4 Indefinitely postpone pursuant to Rule 6, Sec. 3(f) filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Hunt MO5 Bracket until June 9, 2025 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Hunt MO6 Recommit to the Government, Military and Veterans Affairs Committee filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-01-14",
+      "action": "Referred to Government, Military and Veterans Affairs Committee",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-01-29",
+      "action": "Notice of hearing for February 07, 2025",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Kauth priority bill",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Placed on General File with AM701",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Government, Military and Veterans Affairs AM701 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Kauth AM1024 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Hunt MO4 failed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Hunt MO185 Reconsider the vote taken on MO4 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Hunt MO185 failed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Kauth MO193 Invoke cloture pursuant to Rule 7, Sec. 10 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Kauth MO193 prevailed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Hunt MO5 failed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Government, Military and Veterans Affairs AM701 adopted",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Advanced to Enrollment and Review Initial",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Dungan FA118 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Dungan FA119 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Hunt FA123 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Conrad FA120 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Conrad FA121 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Conrad FA122 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Riepe AM1138 to AM701 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Hunt MO189 Bracket until June 9, 2025 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Hunt MO190 Recommit to the Government, Military and Veterans Affairs Committee filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Hunt MO191 Indefinitely postpone filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-22",
+      "action": "Hunt MO192 Recommit to the Government, Military and Veterans Affairs Committee filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Placed on Select File",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Kauth FA221 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-13",
+      "action": "Kauth AM1454 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "No objections to unanimous consent to withdraw and substitute amendment",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Kauth AM1024 withdrawn",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Riepe AM1138 adopted",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Dungan FA118 withdrawn",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Dungan FA119 withdrawn",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Conrad FA120 withdrawn",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Conrad FA121 withdrawn",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Conrad FA122 withdrawn",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Dungan FA239 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Cavanaugh, M. FA240 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Cavanaugh, J. MO257 Bracket until June 9, 2025 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Kauth MO258 Invoke cloture pursuant to Rule 7, Sec. 10 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Kauth MO258 prevailed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Cavanaugh, J. MO257 failed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Cavanaugh, M. FA240 lost",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Dungan FA239 lost",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Advanced to Enrollment and Review for Engrossment",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Cavanaugh, J. FA241 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-19",
+      "action": "Placed on Final Reading with ST41",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-19",
+      "action": "Enrollment and Review ST41 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-19",
+      "action": "Enrollment and Review ST41 recorded",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Hunt MO192 pending",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Hunt MO192 pending",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Kauth MO328 Invoke cloture pursuant to Rule 7, Sec. 10 filed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Kauth MO328 prevailed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Hunt MO192 failed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Hunt MO6 not considered",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Hunt MO189 not considered",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Hunt MO190 not considered",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Hunt MO191 not considered",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Cavanaugh, J. FA241 not considered",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Kauth AM1454 not considered",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Kauth FA221 not considered",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Hunt FA123 not considered",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Passed on Final Reading 33-16-0",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "President/Speaker signed",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "Presented to Governor on May 29, 2025",
+      "chamber": "L"
+    },
+    {
+      "date": "2025-06-06",
+      "action": "Approved by Governor on June 4, 2025",
+      "chamber": "L"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-22",
+      "description": "Hunt MO185 failed",
+      "yea": 15,
+      "nay": 32,
+      "passed": 0
+    },
+    {
+      "date": "2025-04-22",
+      "description": "Hunt MO5 failed",
+      "yea": 16,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2025-04-22",
+      "description": "Government, Military and Veterans Affairs AM701 adopted",
+      "yea": 33,
+      "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-22",
+      "description": "Kauth MO193 prevailed",
+      "yea": 33,
+      "nay": 16,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-22",
+      "description": "Advanced to Enrollment and Review Initial",
+      "yea": 33,
+      "nay": 16,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-22",
+      "description": "Hunt MO4 failed",
+      "yea": 15,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-14",
+      "description": "Riepe AM1138 adopted",
+      "yea": 34,
+      "nay": 8,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-14",
+      "description": "Kauth MO258 prevailed",
+      "yea": 33,
+      "nay": 14,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-14",
+      "description": "Cavanaugh, J. MO257 failed",
+      "yea": 13,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-14",
+      "description": "Cavanaugh, M. FA240 lost",
+      "yea": 15,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-14",
+      "description": "Dungan FA239 lost",
+      "yea": 15,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-14",
+      "description": "Advanced to Enrollment and Review for Engrossment",
+      "yea": 33,
+      "nay": 15,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-28",
+      "description": "Kauth MO328 prevailed",
+      "yea": 33,
+      "nay": 16,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-28",
+      "description": "Hunt MO192 failed",
+      "yea": 16,
+      "nay": 33,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-28",
+      "description": "Passed on Final Reading 33-16-0",
+      "yea": 33,
+      "nay": 16,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-10",
+      "type": "Introduced",
+      "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Intro/LB89.pdf",
+      "doc_id": 3047263
+    },
+    {
+      "date": "2025-05-19",
+      "type": "Enrolled",
+      "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Final/LB89.pdf",
+      "doc_id": 3240264
+    },
+    {
+      "date": "2025-05-19",
+      "type": "Engrossed",
+      "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Engrossed/LB89.pdf",
+      "doc_id": 3240265
+    },
+    {
+      "date": "2025-06-05",
+      "type": "Chaptered",
+      "url": "https://nebraskalegislature.gov/FloorDocs/109/PDF/Slip/LB89.pdf",
+      "doc_id": 3252499
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

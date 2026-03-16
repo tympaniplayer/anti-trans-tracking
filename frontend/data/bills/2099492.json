@@ -1,0 +1,52 @@
+{
+  "id": 2099492,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A3494",
+  "title": "Establishes \"Incarcerated Women's Protection Act\" and concerns correctional facility board of trustees.",
+  "summary": "Establishes \"Incarcerated Women's Protection Act\" and concerns correctional facility board of trustees.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A3494/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A3494/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A3494",
+  "sponsors": [
+    "Yvonne Lopez (D) [Rep]",
+    "Verlina Reynolds-Jackson (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Community Development and Women's Affairs Committee",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-13",
+      "action": "Withdrawn Because Approved P.L.2025, c.305.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-08",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A3500/3494_I1.HTM",
+      "doc_id": 3338578
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Withdrawn Because Approved"
+  ]
+}

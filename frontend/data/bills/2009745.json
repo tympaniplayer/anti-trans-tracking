@@ -1,0 +1,71 @@
+{
+  "id": 2009745,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S06593",
+  "title": "Requires the division of criminal justice services to report to the federal bureau of investigation's national use-of-force data collection program.",
+  "summary": "Requires the division of criminal justice services to report to the federal bureau of investigation's national use-of-force data collection program.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S06593/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S06593/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S6593",
+  "sponsors": [
+    "Robert Jackson (D) [Sen]",
+    "Leroy Comrie (D) [Sen]",
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Zellnor Myrie (D) [Sen]",
+    "Julia Salazar (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-18",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-18",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "REPORTED AND COMMITTED TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO CODES",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-09",
+      "description": "Senate Codes Committee Vote",
+      "yea": 9,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-03-18",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S06593&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S06593",
+      "doc_id": 3179198
+    }
+  ],
+  "committee": {
+    "committee_id": 417,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Codes"
+  },
+  "subjects": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": 2021586,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A07725",
+  "title": "Provides that instructions to the jury shall include certain defenses; provides that such instructions shall include, but not be limited to, \"Do not let bias, sympathy, prejudice, or public opinion influence your decision\"; defines the term \"bias\".",
+  "summary": "Provides that instructions to the jury shall include certain defenses; provides that such instructions shall include, but not be limited to, \"Do not let bias, sympathy, prejudice, or public opinion influence your decision\"; defines the term \"bias\".",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A07725/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A07725/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A7725",
+  "sponsors": [
+    "Latrice Walker (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-08",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-04-08",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to codes",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-08",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A07725&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A07725",
+      "doc_id": 3205309
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

@@ -1,0 +1,122 @@
+{
+  "id": 1901141,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "PR26-0001",
+  "title": "Rules of Organization and Procedure for the Council of the District of Columbia, Council Period 26, Resolution of 2025",
+  "summary": "Rules of Organization and Procedure for the Council of the District of Columbia, Council Period 26, Resolution of 2025",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/PR26-0001/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/PR26-0001/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/PR26-0001",
+  "sponsors": [
+    "Phil Mendelson (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-02",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2025-01-02",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-01-02",
+      "action": "Final Reading",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-01-02",
+      "action": "Amendment (Henderson #1)",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-01-02",
+      "action": "Amendment (Allen)",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-01-02",
+      "action": "Oral Amendments (Mendelson)",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-01-02",
+      "action": "Amendment (Henderson #2)",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-01-02",
+      "action": "Amendment (Henderson #3)",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-01-02",
+      "action": "Approved with Resolution Number R26-0001",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-01-07",
+      "action": "Retained by the Council",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-01-10",
+      "action": "Notice of Intent to Act on PR26-0001 Published in the DC Register",
+      "chamber": "C"
+    },
+    {
+      "date": "2025-02-14",
+      "action": "Resolution R26-0001, Effective from Jan 02, 2025 Published in DC Register Vol 72 and Page 001289",
+      "chamber": "C"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-01-02",
+      "description": "Final Reading",
+      "yea": 12,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-01-02",
+      "description": "Amendment (Henderson #1)",
+      "yea": 3,
+      "nay": 10,
+      "passed": 0
+    },
+    {
+      "date": "2025-01-02",
+      "description": "Amendment (Henderson #2)",
+      "yea": 6,
+      "nay": 7,
+      "passed": 0
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-02",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/56802/Introduction/PR26-0001-Introduction.pdf",
+      "doc_id": 3037965
+    },
+    {
+      "date": "2025-01-02",
+      "type": "Enrolled",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/56802/Meeting1/Enrollment/PR26-0001-Enrollment1.pdf",
+      "doc_id": 3071764
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

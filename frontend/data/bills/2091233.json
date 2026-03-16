@@ -1,0 +1,52 @@
+{
+  "id": 2091233,
+  "state": "NM",
+  "state_name": "New Mexico",
+  "bill_number": "SB65",
+  "title": "Management Of Public School Libraries",
+  "summary": "Management Of Public School Libraries",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NM/bill/SB65/2026",
+  "legiscan_url": "https://legiscan.com/NM/bill/SB65/2026",
+  "state_url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legtype=B&legno=65&year=26",
+  "sponsors": [
+    "Antoinette Sedillo Lopez (D) [Sen]",
+    "Harold Pope (D) [Sen]",
+    "Kathleen Cates (D) [Rep]",
+    "Elizabeth Stefanics (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-22",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-22",
+      "action": "Sent to SCC - Referrals: SCC/SEC/SJC",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-22",
+      "type": "Introduced",
+      "url": "https://www.nmlegis.gov/Sessions/26%20Regular/bills/senate/SB0065.pdf",
+      "doc_id": 3329537
+    }
+  ],
+  "committee": {
+    "committee_id": 2183,
+    "chamber": "S",
+    "chamber_id": 72,
+    "name": "Committees"
+  },
+  "subjects": []
+}

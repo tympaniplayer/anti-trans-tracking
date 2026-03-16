@@ -1,0 +1,159 @@
+{
+  "id": 2037599,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S2538",
+  "title": "Strengthening health care protections in the Commonwealth",
+  "summary": "Strengthening health care protections in the Commonwealth",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S2538/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S2538/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S2538",
+  "sponsors": [
+    "Senate Committee on Ways and Means [Sen]"
+  ],
+  "introduced_date": "2025-06-18",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-06-18",
+      "action": "Reported from the committee on Ways and Means",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Recommended new draft for S2522",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Order relative to subject matter adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Amendment #1 (Finegold) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Amendment #4 (Keenan) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Amendment #6 (Montigny) adopted -see  Roll Call #55 (Yeas 39 to Nays 0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Amendment #9 (Brownsberger) adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Amendment #11 (Tarr) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Amendment #12 (Tarr) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Amendment #13 (Tarr) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Amendment #15 (Tarr) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Amendment #16 (Rausch) adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Amendment #22 (Tarr) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Amendment #24 (Tarr) rejected",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Amendment #14 (Tarr) adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Amendment #21 (Tarr) rejected -see  Roll Call #56 (Yeas 5 to Nays 34)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Amendment #5 (Rodrigues) adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Substituted, as amended, for S2522",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Ordered to a third reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Read third",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-26",
+      "action": "Reprinted, as amended, see S2543",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-26",
+      "description": "Senate  Amendment #6",
+      "yea": 39,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-26",
+      "description": "Senate  Amendment #21",
+      "yea": 5,
+      "nay": 34,
+      "passed": 0
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-06-18",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S2538.pdf",
+      "doc_id": 3256951
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

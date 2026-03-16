@@ -1,0 +1,52 @@
+{
+  "id": 2096365,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A3334",
+  "title": "Clarifies policy analysis and development under \"Anti-Bullying Bill of Rights Act\"; strengthens investigations; amends definition of harassment, intimidation, and bullying; and allows anti-bullying specialists to receive remuneration.",
+  "summary": "Clarifies policy analysis and development under \"Anti-Bullying Bill of Rights Act\"; strengthens investigations; amends definition of harassment, intimidation, and bullying; and allows anti-bullying specialists to receive remuneration.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A3334/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A3334/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A3334",
+  "sponsors": [
+    "Sterley Stanley (D) [Rep]",
+    "Shanique Speight (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Education Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-07",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A3500/3334_I1.HTM",
+      "doc_id": 3335413
+    }
+  ],
+  "committee": {
+    "committee_id": 854,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Education"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

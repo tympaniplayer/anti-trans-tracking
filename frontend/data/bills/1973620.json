@@ -1,0 +1,69 @@
+{
+  "id": 1973620,
+  "state": "IA",
+  "state_name": "Iowa",
+  "bill_number": "SSB1150",
+  "title": "A bill for an act restricting county and city diversity, equity, and inclusion programs.(See SF 507.)",
+  "summary": "A bill for an act restricting county and city diversity, equity, and inclusion programs.(See SF 507.)",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IA/bill/SSB1150/2025",
+  "legiscan_url": "https://legiscan.com/IA/bill/SSB1150/2025",
+  "state_url": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=SSB1150",
+  "sponsors": [
+    "Local Government [Sen]"
+  ],
+  "introduced_date": "2025-02-18",
+  "session": "91st General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-18",
+      "action": "By COMMITTEE ON LOCAL GOVERNMENT",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Introduced, referred to Local Government.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Subcommittee: Westrich, Quirmbach, and Sires.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Subcommittee Meeting: 02/24/2025 12:00PM Room 217 Conference Room.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Subcommittee recommends passage.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-03",
+      "action": "Committee report approving bill, renumbered as SF 507.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-18",
+      "type": "Introduced",
+      "url": "https://www.legis.iowa.gov/docs/publications/LGI/91/attachments/SSB1150.html",
+      "doc_id": 3128177
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

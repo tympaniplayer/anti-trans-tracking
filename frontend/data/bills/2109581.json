@@ -1,0 +1,59 @@
+{
+  "id": 2109581,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB5249",
+  "title": "PRETRIAL RELEASE-REASONS&JUDGE",
+  "summary": "Amends the Illinois Criminal Justice Information Act. Provides that the quarterly data collected by the Pretrial Practices Data Oversight Board shall include the identity of the judges who preside over the pretrial detention hearings and the number of detention petitions each judge grants and denies. Amends the Code of Criminal Procedure of 1963. Provides that the court shall, in any order denying detention, make a written finding summarizing the court's reasons for concluding that the defendant should not be denied pretrial release, including why the defendant has been determined not to be a real and present threat to the safety of any person or persons or the community, based on the specific articulable facts of the case, or that the defendant does not have a high likelihood of willful flight from prosecution.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB5249/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB5249/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=5249&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Dan Ugaste (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "Filed with the Clerk by Rep. Dan Ugaste",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-05",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=208291&DocName=10400HB5249&DocNum=5249&DocTypeID=HB&LegID=166945&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3355380
+    }
+  ],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
+  "subjects": []
+}

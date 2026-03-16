@@ -1,0 +1,68 @@
+{
+  "id": 2108681,
+  "state": "WV",
+  "state_name": "West Virginia",
+  "bill_number": "HB5251",
+  "title": "Adding \u201csexual orientation\u201d and \u201cgender identity\u201d to the categories covered by the Human Rights Act and WV Fair Housing Act",
+  "summary": "The purpose of this bill is to add \"sexual orientation\" and \"gender identity\" to the categories covered by the Human Rights Act, prohibiting discrimination in employment and places of public accommodation. The bill adds \"age\", \"sexual orientation\" and \"gender identity\" to the categories covered by the Fair Housing Act prohibiting discrimination in housing. The bill defines \"sexual orientation\" and \"gender identity\".",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WV/bill/HB5251/2026",
+  "legiscan_url": "https://legiscan.com/WV/bill/HB5251/2026",
+  "state_url": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5251&year=2026&sessiontype=RS&btype=bill",
+  "sponsors": [
+    "Mike Pushkin (D) [Rep]",
+    "Evan Hansen (D) [Rep]",
+    "Rick Garcia (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "Filed for introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "To Government Organization then Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-05",
+      "action": "To House Government Organization",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "http://www.wvlegislature.gov/Bill_Status/bills_text.cfm?billdoc=hb5251%20intr.htm&yr=2026&sesstype=RS&i=5251",
+      "doc_id": 3349638
+    }
+  ],
+  "committee": {
+    "committee_id": 7,
+    "chamber": "H",
+    "chamber_id": 1,
+    "name": "Government Organization"
+  },
+  "subjects": [
+    "Human Rights"
+  ]
+}

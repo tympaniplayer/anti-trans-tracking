@@ -1,0 +1,75 @@
+{
+  "id": 2085784,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "SB561",
+  "title": "Public schools; reasonable accommodation based on biological sex required, civil cause of action.",
+  "summary": "Public schools; bathrooms, changing facilities, and other facilities located in public schools; reasonable accommodation based on biological sex required; civil cause of action. Requires any public school to, to the extent practicable, provide reasonable accommodation, as defined by the bill, to any student, teacher, or other employee of such public school who (i) desires greater privacy when using a multi-occupancy bathroom or changing facility located within a public school building that is designated for such student's, teacher's, or employee's sex, as defined by the bill, or when using multi-occupancy sleeping quarters while attending a public school-sponsored activity that are designated for such student's, teacher's, or employee's sex and (ii) provides a written request for reasonable accommodation to the school principal or, in the case of a student who is younger than 18 years of age, has his parent provide such written request to the school principal. The bill requires a school principal, upon receiving a written request for reasonable accommodation, to evaluate the request and, to the extent practicable, provide reasonable accommodation. The bill also requires such school principal to issue a written decision approving or denying the request for reasonable accommodation and, if denying the request, state the grounds for such denial in the written decision. The bill also provides (a) an opportunity for any student, teacher, or employee whose written request for reasonable accommodation is denied by a school principal to appeal the denial to the school board in accordance with the procedures set forth in the bill and (b) an opportunity for any student, teacher, or employee whose appeal of the principal's denial is denied by the school board to request an impartial hearing conducted by an impartial hearing officer to appeal the school board's decision in accordance with the procedures set forth in the bill. Finally, the bill creates a civil cause of action for any student, teacher, or employee who (1) as a result of the school or school board intentionally allowing a member of the opposite sex to enter a multi-occupancy bathroom or changing facility designated for such student's, employee's, or teacher's biological sex while other persons are present, encounters a member of the opposite sex while in such bathroom or facility or (2) is required by the public school to share sleeping quarters during a school-sponsored activity with a member of the opposite sex, unless such member of the opposite sex is a family member.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "bathrooms",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/SB561/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/SB561/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/SB561",
+  "sponsors": [
+    "Bryce Reeves (R) [Sen]",
+    "Tammy Brankley Mulchi (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26100803D",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Referred to Committee on Education and Health",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Assigned Education sub: Public Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (SB561)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Passed by indefinitely in Education and Health (9-Y 6-N)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-29",
+      "description": "Passed by indefinitely in Education and Health (9-Y 6-N)",
+      "yea": 9,
+      "nay": 6,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB561/text/SB561",
+      "doc_id": 3323144
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

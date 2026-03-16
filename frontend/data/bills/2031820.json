@@ -1,0 +1,99 @@
+{
+  "id": 2031820,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S08115",
+  "title": "Relates to the use of automated lending decision-making tools by banks for the purposes of making lending decisions; allows loan applicants to consent to or opt out of such use.",
+  "summary": "Relates to the use of automated lending decision-making tools by banks for the purposes of making lending decisions; allows loan applicants to consent to or opt out of such use.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S08115/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S08115/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S8115",
+  "sponsors": [
+    "James Sanders (D) [Sen]"
+  ],
+  "introduced_date": "2025-05-15",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-15",
+      "action": "REFERRED TO BANKS",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "REPORTED AND COMMITTED TO INTERNET AND TECHNOLOGY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "AMEND (T) AND RECOMMIT TO INTERNET AND TECHNOLOGY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "PRINT NUMBER 8115A",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-05",
+      "action": "AMEND AND RECOMMIT TO INTERNET AND TECHNOLOGY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-05",
+      "action": "PRINT NUMBER 8115B",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO BANKS",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-27",
+      "description": "Senate Banks Committee Vote",
+      "yea": 4,
+      "nay": 2,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-05-15",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S08115&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S08115",
+      "doc_id": 3238274
+    },
+    {
+      "date": "2025-05-15",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S08115&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S08115A",
+      "doc_id": 3249789
+    },
+    {
+      "date": "2025-05-15",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S08115&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S08115B",
+      "doc_id": 3252495
+    }
+  ],
+  "committee": {
+    "committee_id": 413,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Banks"
+  },
+  "subjects": []
+}

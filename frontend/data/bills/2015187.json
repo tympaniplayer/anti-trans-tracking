@@ -1,0 +1,61 @@
+{
+  "id": 2015187,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "SR60",
+  "title": "Recognizing the week of April 6 through 12, 2025, as \"National Library Week\" in Pennsylvania.",
+  "summary": "A Resolution recognizing the week of April 6 through 12, 2025, as \"National Library Week\" in Pennsylvania.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/SR60/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/SR60/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/sr60",
+  "sponsors": [
+    "Katie Muth (D) [Sen]",
+    "Wayne Fontana (D) [Sen]",
+    "Carolyn Comitta (D) [Sen]",
+    "Nikil Saval (D) [Sen]",
+    "Rosemary Brown (R) [Sen]",
+    "Judy Schwank (D) [Sen]",
+    "Tracy Pennycuick (R) [Sen]",
+    "Amanda Cappelletti (D) [Sen]",
+    "David Argall (R) [Sen]",
+    "Arthur Haywood (D) [Sen]",
+    "Jay Costa (D) [Sen]",
+    "Vincent Hughes (D) [Sen]",
+    "Lindsey Williams (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-26",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-26",
+      "action": "Referred to Rules & Executive Nominations",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SR0060/PN0491",
+      "doc_id": 3190059
+    }
+  ],
+  "committee": {
+    "committee_id": 83,
+    "chamber": "S",
+    "chamber_id": 4,
+    "name": "Rules & Executive Nominations"
+  },
+  "subjects": []
+}

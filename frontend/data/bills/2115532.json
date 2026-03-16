@@ -1,0 +1,53 @@
+{
+  "id": 2115532,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S3612",
+  "title": "Prohibits business entities from using consumer's personal data to set prices for merchandise or services.",
+  "summary": "Prohibits business entities from using consumer's personal data to set prices for merchandise or services.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S3612/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S3612/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S3612",
+  "sponsors": [
+    "Joseph Cryan (D) [Sen]",
+    "Joseph Lagana (D) [Sen]",
+    "Nicholas Scutari (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-19",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-19",
+      "action": "Introduced in the Senate, Referred to Senate Commerce Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-20",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S4000/3612_I1.HTM",
+      "doc_id": 3369743
+    }
+  ],
+  "committee": {
+    "committee_id": 874,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Commerce"
+  },
+  "subjects": [
+    "Commerce"
+  ]
+}

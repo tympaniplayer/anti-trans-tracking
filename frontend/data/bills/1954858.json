@@ -1,0 +1,560 @@
+{
+  "id": 1954858,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB2584",
+  "title": "INS-PRIOR AUTH HIV DRUG ACCESS",
+  "summary": "Amends the Prior Authorization Reform Act and the Illinois Public Aid Code. Provides that a health insurance issuer, the fee-for-service medical assistance program, and a Medicaid managed care organization may not require prior authorization for the following prescription drug types and their therapeutic equivalents approved by the United States Food and Drug Administration: human immunodeficiency virus pre-exposure prophylaxis and post-exposure prophylaxis medication or human immunodeficiency virus treatment medication. Effective January 1, 2027.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB2584/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB2584/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2584&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Kelly Cassidy (D) [Rep]",
+    "Terra Costa Howard (D) [Rep]",
+    "Harry Benton (D) [Rep]",
+    "Lilian Jimenez (D) [Rep]",
+    "Rita Mayfield (D) [Rep]",
+    "Edgar Gonzalez (D) [Rep]",
+    "Tracy Katz Muhl (D) [Rep]",
+    "Kevin Olickal (D) [Rep]",
+    "Will Guzzardi (D) [Rep]",
+    "Mary Canty (D) [Rep]",
+    "Laura Faver Dias (D) [Rep]",
+    "Norma Hernandez (D) [Rep]",
+    "Abdelnasser Rashid (D) [Rep]",
+    "Nabeela Syed (D) [Rep]",
+    "Barbara Hernandez (D) [Rep]",
+    "Lisa Davis (D) [Rep]",
+    "Amy Briel (D) [Rep]",
+    "Michael Crawford (D) [Rep]",
+    "Diane Blair-Sherlock (D) [Rep]",
+    "Stephanie Kifowit (D) [Rep]",
+    "Jennifer Gong-Gershowitz (D) [Rep]",
+    "Daniel Didech (D) [Rep]",
+    "Bob Morgan (D) [Rep]",
+    "Jehan Gordon-Booth (D) [Rep]",
+    "Justin Slaughter (D) [Rep]",
+    "Camille Lilly (D) [Rep]",
+    "Martha Deuter (D) [Rep]",
+    "Lindsey LaPointe (D) [Rep]",
+    "Ann Williams (D) [Rep]",
+    "Hoan Huynh (D) [Rep]",
+    "Janet Yang Rohr (D) [Rep]",
+    "Anna Moeller (D) [Rep]",
+    "Nicolle Grasse (D) [Rep]",
+    "Sara Feigenholtz (D) [Sen]",
+    "Graciela Guzman (D) [Sen]",
+    "Laura Fine (D) [Sen]",
+    "Mike Simmons (D) [Sen]",
+    "Karina Villa (D) [Sen]",
+    "Celina Villanueva (D) [Sen]",
+    "Laura Murphy (D) [Sen]",
+    "Mary Edly-Allen (D) [Sen]",
+    "Javier Cervantes (D) [Sen]",
+    "David Koehler (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-11",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-04",
+      "action": "Filed with the Clerk by Rep. Kelly M. Cassidy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Added Co-Sponsor Rep. Lilian Jim\u00e9nez",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Added Co-Sponsor Rep. Rita Mayfield",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Added Co-Sponsor Rep. Edgar Gonz\u00e1lez, Jr.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Added Co-Sponsor Rep. Tracy Katz Muhl",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Added Co-Sponsor Rep. Kevin John Olickal",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Added Co-Sponsor Rep. Will Guzzardi",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Added Co-Sponsor Rep. Mary Beth Canty",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Added Co-Sponsor Rep. Laura Faver Dias",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Added Co-Sponsor Rep. Norma Hernandez",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Added Co-Sponsor Rep. Abdelnasser Rashid",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Added Co-Sponsor Rep. Nabeela Syed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Added Co-Sponsor Rep. Barbara Hernandez",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Added Co-Sponsor Rep. Lisa Davis",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Added Co-Sponsor Rep. Amy Briel",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Added Co-Sponsor Rep. Michael Crawford",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Assigned to Insurance Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Added Co-Sponsor Rep. Diane Blair-Sherlock",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Added Co-Sponsor Rep. Stephanie A. Kifowit",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Added Co-Sponsor Rep. Jennifer Gong-Gershowitz",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Added Co-Sponsor Rep. Daniel Didech",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Added Co-Sponsor Rep. Bob Morgan",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Added Co-Sponsor Rep. Jehan Gordon-Booth",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Added Co-Sponsor Rep. Justin Slaughter",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "House Committee Amendment No. 1 Filed with Clerk by Rep. Kelly M. Cassidy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "House Committee Amendment No. 1 Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Added Co-Sponsor Rep. Camille Y. Lilly",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "House Committee Amendment No. 1 Rules Refers to Insurance Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Balanced Budget Note Requested by Rep. Kelly M. Cassidy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Correctional Note Requested by Rep. Kelly M. Cassidy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Fiscal Note Requested by Rep. Kelly M. Cassidy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Home Rule Note Requested by Rep. Kelly M. Cassidy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Housing Affordability Impact Note Requested by Rep. Kelly M. Cassidy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Judicial Note Requested by Rep. Kelly M. Cassidy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Land Conveyance Appraisal Note Requested by Rep. Kelly M. Cassidy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Pension Note Requested by Rep. Kelly M. Cassidy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Racial Impact Note Requested by Rep. Kelly M. Cassidy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "State Debt Impact Note Requested by Rep. Kelly M. Cassidy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "State Mandates Fiscal Note Requested by Rep. Kelly M. Cassidy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "House Committee Amendment No. 1 Adopted in Insurance Committee; by Voice Vote",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Do Pass as Amended / Short Debate Insurance Committee; 013-003-000",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Judicial Note Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Balanced Budget Note Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Placed on Calendar 2nd Reading - Short Debate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Housing Affordability Impact Note Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "Pension Note Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-12",
+      "action": "State Debt Impact Note Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Added Chief Co-Sponsor Rep. Terra Costa Howard",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Chief Co-Sponsor Changed to Rep. Terra Costa Howard",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Added Co-Sponsor Rep. Martha Deuter",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-24",
+      "action": "Added Co-Sponsor Rep. Lindsey LaPointe",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Second Reading - Short Debate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "Held on Calendar Order of Second Reading - Short Debate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Added Co-Sponsor Rep. Ann M. Williams",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Added Co-Sponsor Rep. Hoan Huynh",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Fiscal Note Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-02",
+      "action": "Racial Impact Note Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-04",
+      "action": "Added Co-Sponsor Rep. Janet Yang Rohr",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "House Floor Amendment No. 2 Filed with Clerk by Rep. Kelly M. Cassidy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-07",
+      "action": "House Floor Amendment No. 2 Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "House Floor Amendment No. 2 Rules Refers to Insurance Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "House Floor Amendment No. 2 Recommends Be Adopted Insurance Committee; 010-004-000",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Added Co-Sponsor Rep. Anna Moeller",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "House Floor Amendment No. 2 Adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Placed on Calendar Order of 3rd Reading - Short Debate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Third Reading - Short Debate - Passed 078-035-000",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Added Co-Sponsor Rep. Nicolle Grasse",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-11",
+      "action": "Added Chief Co-Sponsor Rep. Harry Benton",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Arrive in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Placed on Calendar Order of First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Chief Senate Sponsor Sen. Laura Fine",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-14",
+      "action": "Referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Assigned to Appropriations- Health and Human Services",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Added as Alternate Co-Sponsor Sen. Mike Simmons",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Added as Alternate Co-Sponsor Sen. Karina Villa",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Added as Alternate Chief Co-Sponsor Sen. Sara Feigenholtz",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-02",
+      "action": "Added as Alternate Chief Co-Sponsor Sen. Graciela Guzm\u00e1n",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-09",
+      "action": "Rule 2-10 Committee Deadline Established As May 23, 2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Rule 3-9(a) / Re-referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Rule 2-10 Committee Deadline Established As June 1, 2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Re-referred to Insurance",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Rule 3-9(a) / Re-referred to Assignments",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-19",
+      "action": "Added as Alternate Co-Sponsor Sen. Celina Villanueva",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-23",
+      "action": "Added as Alternate Co-Sponsor Sen. Laura M. Murphy",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-26",
+      "action": "Added as Alternate Co-Sponsor Sen. Mary Edly-Allen",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-24",
+      "action": "Added as Alternate Co-Sponsor Sen. Javier L. Cervantes",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Alternate Chief Sponsor Changed to Sen. Sara Feigenholtz",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Added as Alternate Chief Co-Sponsor Sen. Laura Fine",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Added as Alternate Co-Sponsor Sen. David Koehler",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-11",
+      "description": "Third Reading in House",
+      "yea": 78,
+      "nay": 35,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-04",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=200280&DocName=10400HB2584&DocNum=2584&DocTypeID=HB&LegID=160493&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3099149
+    },
+    {
+      "date": "2025-04-14",
+      "type": "Engrossed",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=200280&DocName=10400HB2584eng&DocNum=2584&DocTypeID=HB&LegID=160493&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3211009
+    }
+  ],
+  "committee": {
+    "committee_id": 254,
+    "chamber": "S",
+    "chamber_id": 36,
+    "name": "Assignments"
+  },
+  "subjects": []
+}

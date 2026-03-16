@@ -1,0 +1,51 @@
+{
+  "id": 2088433,
+  "state": "MS",
+  "state_name": "Mississippi",
+  "bill_number": "HB1493",
+  "title": "Mississippi Maternal Health Momnibus Act; create.",
+  "summary": "An Act Be Known As The Mississippi Maternal Health Momnibus Act; To Provide For A Variety Of Maternal Health Services For Pregnant And Postpartum Women; To Amend Section 27-65-111, Mississippi Code Of 1972, To Exempt From Sales Taxation Sales Of Children's Diapers, Diaper Bags, Diaper Rash Cream, Baby Wipes, Baby Powder And Baby Formula; To Amend Section 43-13-117, Mississippi Code Of 1972, To Provide Medicaid Coverage For Certain Services Provided By This Act; And For Related Purposes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MS/bill/HB1493/2026",
+  "legiscan_url": "https://legiscan.com/MS/bill/HB1493/2026",
+  "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1493.xml",
+  "sponsors": [
+    "Zakiya Summers (D) [Rep]",
+    "Tamarra Butler-Washington (D) [Rep]",
+    "Timaka James-Jones (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-19",
+      "action": "Referred To Public Health and Human Services;Appropriations A",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Died In Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-21",
+      "type": "Introduced",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/HB/1400-1499/HB1493IN.htm",
+      "doc_id": 3326174
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

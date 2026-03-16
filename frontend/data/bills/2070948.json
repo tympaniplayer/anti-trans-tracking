@@ -1,0 +1,104 @@
+{
+  "id": 2070948,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "HB359",
+  "title": "Private elementary or secondary school; use of public funds for tuition, standards.",
+  "summary": "Use of public funds for private elementary or secondary school tuition; standards. Establishes several requirements and conditions relating to the use of certain public funds enumerated in the bill to fund student tuition at private elementary and secondary schools in the Commonwealth, including (i) requiring all students enrolled at schools who receive such funds to take Standards of Learning assessments; (ii) requiring all such schools to receive accountability ratings from the Board of Education; and (iii) prohibiting such schools from discriminating in admissions, enrollment, discipline, retention, or access to educational programs and services on the basis of race, color, religion, national origin, sex, sexual orientation, gender identity or expression, disability, special education status, language proficiency, or socioeconomic status.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/HB359/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/HB359/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/HB359",
+  "sponsors": [
+    "Dan Helmer (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-12",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-12",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26105152D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "Referred to Committee on Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (HB359)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "House committee offered",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Reported from Education with substitute and referred to Appropriations (13-Y 7-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Committee substitute printed 26107420D-H1",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Assigned HAPP sub: Elementary & Secondary Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Subcommittee recommends continuing to (Voice Vote)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Continued to next session in Appropriations (Voice Vote)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-09",
+      "description": "Reported from Education with substitute and referred to Appropriations (13-Y 7-N)",
+      "yea": 13,
+      "nay": 7,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-12",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB359/text/HB359",
+      "doc_id": 3305680
+    },
+    {
+      "date": "2026-02-06",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB359/text/HB359HC1",
+      "doc_id": 3352247
+    },
+    {
+      "date": "2026-02-09",
+      "type": "Comm Sub",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB359/text/HB359H1",
+      "doc_id": 3353031
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,56 @@
+{
+  "id": 1975088,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0281",
+  "title": "An act relating to amending a death certificate to reflect gender identity",
+  "summary": "An act relating to amending a death certificate to reflect gender identity",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0281/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0281/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.281",
+  "sponsors": [
+    "Kate McCann (D) [Rep]",
+    "Mari Cordes (D) [Rep]",
+    "Edye Graning (D) [Rep]",
+    "Kate Logan (D) [Rep]",
+    "Jubilee McGill (D) [Rep]",
+    "Herb Olson (D) [Rep]",
+    "Phil Pouech (D) [Rep]",
+    "Monique Priestley (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-19",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-02-19",
+      "action": "Read first time and referred to the Committee on Government Operations and Military Affairs",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-19",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0281/H-0281%20As%20Introduced.pdf",
+      "doc_id": 3130100
+    }
+  ],
+  "committee": {
+    "committee_id": 4658,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "Government Operations and Military Affairs"
+  },
+  "subjects": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": 2040234,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB4618",
+  "title": "Jamie Reed Protecting Our Kids from Child Abuse Act",
+  "summary": "To establish a Federal tort against pediatric gender clinics and other entities pushing gender-transition procedures that cause bodily injury to children or harm the mental health of children.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB4618/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB4618/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4618/all-info",
+  "sponsors": [
+    "Greg Steube (R) [Rep]",
+    "Mary Miller (R) [Rep]"
+  ],
+  "introduced_date": "2025-07-22",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-07-22",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-22",
+      "action": "Referred to the Committee on the Judiciary, and in addition to the Committees on Energy and Commerce, and Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-31",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr4618/BILLS-119hr4618ih.pdf",
+      "doc_id": 3263746
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2074654,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S2692",
+  "title": "Clarifies that sexual harassment and sexual assault constitute unlawful discrimination on basis of sex.",
+  "summary": "Clarifies that sexual harassment and sexual assault constitute unlawful discrimination on basis of sex.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S2692/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S2692/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S2692",
+  "sponsors": [
+    "Britnee Timberlake (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Labor Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-07",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S3000/2692_I1.HTM",
+      "doc_id": 3311688
+    }
+  ],
+  "committee": {
+    "committee_id": 881,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Labor"
+  },
+  "subjects": [
+    "Labor"
+  ]
+}

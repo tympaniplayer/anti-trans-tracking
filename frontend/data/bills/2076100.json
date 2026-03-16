@@ -1,0 +1,54 @@
+{
+  "id": 2076100,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S854",
+  "title": "Provides that public school parent who objects to learning material or activity that parent considers harmful may receive voucher from school district to enroll student in nonpublic school.",
+  "summary": "Provides that public school parent who objects to learning material or activity that parent considers harmful may receive voucher from school district to enroll student in nonpublic school.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S854/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S854/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S854",
+  "sponsors": [
+    "Michael Testa (R) [Sen]",
+    "Joseph Pennacchio (R) [Sen]",
+    "Douglas Steinhardt (R) [Sen]",
+    "Parker Space (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Education Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-22",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S1000/854_I1.HTM",
+      "doc_id": 3313123
+    }
+  ],
+  "committee": {
+    "committee_id": 877,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Education"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

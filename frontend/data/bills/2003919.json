@@ -1,0 +1,134 @@
+{
+  "id": 2003919,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB4552",
+  "title": "Relating to a prohibition on certain discriminatory activities by governmental entities and vendors of governmental entities; providing for declaratory and injunctive relief and the withholding of certain funds from political subdivisions.",
+  "summary": "Relating to a prohibition on certain discriminatory activities by governmental entities and vendors of governmental entities; providing for declaratory and injunctive relief and the withholding of certain funds from political subdivisions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB4552/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB4552/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB4552",
+  "sponsors": [
+    "Stan Gerdes (R) [Rep]",
+    "Carl Tepper (R) [Rep]",
+    "William Metcalf (R) [Rep]",
+    "Lacey Hull (R) [Rep]",
+    "Nate Schatzline (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-12",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-12",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-03",
+      "action": "Referred to State Affairs",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Scheduled for public hearing on . . .",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Considered in public hearing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Testimony taken/registration(s) recorded in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Left pending in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Considered in public hearing",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Committee substitute considered in committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Reported favorably as substituted",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Comte report filed with Committee Coordinator",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Committee report distributed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-09",
+      "action": "Committee report sent to Calendars",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-12",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB04552I.htm",
+      "doc_id": 3170033
+    },
+    {
+      "date": "2025-05-08",
+      "type": "Comm Sub",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB04552H.htm",
+      "doc_id": 3232951
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Civil Remedies & Liabilities",
+    "Education",
+    "Education--Primary & Secondary",
+    "Education--Primary & Secondary--Charter Schools",
+    "Education--Primary & Secondary--General",
+    "Human Relations",
+    "Political Subdivisions",
+    "Purchasing",
+    "Purchasing--General",
+    "Purchasing--Local",
+    "Purchasing--State",
+    "State Agencies, Boards & Commissions",
+    "TEXAS ANTIDISCRIMINATION ACT",
+    "DISCRIMINATION",
+    "State Finances",
+    "State Finances--Management & Control",
+    "AUDITS & AUDITORS",
+    "ATTORNEY GENERAL",
+    "COMPTROLLER OF PUBLIC ACCOUNTS"
+  ]
+}

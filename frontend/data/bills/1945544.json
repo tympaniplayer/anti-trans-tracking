@@ -1,0 +1,70 @@
+{
+  "id": 1945544,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HR43",
+  "title": "Recognizing the month of April 2025 as \"Sexual Assault Awareness Month\" in Pennsylvania.",
+  "summary": "A Resolution recognizing the month of April 2025 as \"Sexual Assault Awareness Month\" in Pennsylvania.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HR43/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HR43/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hr43",
+  "sponsors": [
+    "Jeanne McNeill (D) [Rep]",
+    "Maureen Madden (D) [Rep]",
+    "Carol Hill-Evans (D) [Rep]",
+    "Lindsay Powell (D) [Rep]",
+    "Michael Schlossberg (D) [Rep]",
+    "Kristine Howard (D) [Rep]",
+    "Arvind Venkat (D) [Rep]",
+    "James Haddock (D) [Rep]",
+    "Ben Sanchez (D) [Rep]",
+    "Tarik Khan (D) [Rep]",
+    "Joseph Hohenstein (D) [Rep]",
+    "Gina Curry (D) [Rep]",
+    "Melissa Cerrato (D) [Rep]",
+    "Ed Neilson (D) [Rep]",
+    "Jennifer O'Mara (D) [Rep]",
+    "Peter Schweyer (D) [Rep]",
+    "Joseph Ciresi (D) [Rep]",
+    "Daniel Deasy (D) [Rep]",
+    "Melissa Shusterman (D) [Rep]",
+    "Steven Malagari (D) [Rep]",
+    "Scott Conklin (D) [Rep]",
+    "Joanna McClinton (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-29",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-29",
+      "action": "Referred to Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HR0043/PN0387",
+      "doc_id": 3090706
+    }
+  ],
+  "committee": {
+    "committee_id": 53,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

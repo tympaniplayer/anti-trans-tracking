@@ -1,0 +1,125 @@
+{
+  "id": 2064528,
+  "state": "NH",
+  "state_name": "New Hampshire",
+  "bill_number": "SB211",
+  "title": "Relative to biological sex in student athletics.",
+  "summary": "Relative to biological sex in student athletics.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "sports",
+    "education",
+    "definitions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NH/bill/SB211/2026",
+  "legiscan_url": "https://legiscan.com/NH/bill/SB211/2026",
+  "state_url": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=195&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=SB211",
+  "sponsors": [
+    "Kevin Avard (R) [Sen]",
+    "Timothy Lang (R) [Sen]",
+    "Daniel Innis (R) [Sen]",
+    "Ruth Ward (R) [Sen]",
+    "Daryl Abbas (R) [Sen]",
+    "Tim McGough (R) [Sen]",
+    "Victoria Sullivan (R) [Sen]",
+    "David Rochefort (R) [Sen]",
+    "William Gannon (R) [Sen]",
+    "Howard Pearl (R) [Sen]",
+    "Mark McConkey (R) [Sen]",
+    "Jim Kofalt (R) [Rep]",
+    "Jeanine Notter (R) [Rep]",
+    "Diane Pauer (R) [Rep]",
+    "Shane Sirois (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-28",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-23",
+      "action": "Introduced 01/09/2025 and Referred to Education; Senate Journal 3",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Hearing: 03/04/2025, Room 101, Legislative Office Building, 09:30 am; Senate Calendar  11",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Committee Report: Ought to Pass, 03/27/2025, Vote 2-1; Senate Calendar  14",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Special Order to the Beginning of the Regular Calendar, Without Objection; 03/27/2025; Senate Journal 9",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Sen. Prentiss Floor Amendment # 2025-1373s, Amendment Failed, Voice Vote; 03/27/2025; Senate Journal 9",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-27",
+      "action": "Ought to Pass: Regular Calendar 16Y-8N, Motion Adopted; OT3rdg; 03/27/2025; Senate Journal 9",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-28",
+      "action": "Introduced (in recess of) 03/27/2025 and referred to Education Policy and Administration House Journal  11 P. 112",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "==CANCELLED== Public Hearing: 04/07/2025 01:30 pm Legislative Office Building 205-207",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Public Hearing: 04/23/2025 10:00 am Legislative Office Building 205-207",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Executive Session: 05/20/2025 09:30 am Legislative Office Building 206-208",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Retained in Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-10-22",
+      "action": "Executive Session: 11/05/2025 02:00 pm GP 232",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-19",
+      "action": "Committee Report: Inexpedient to Legislate 11/05/2025 (Vote 16-2; Consent Calendar) House Calendar 51 P. 8",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 01/07/2026 House Journal  1",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-23",
+      "type": "Introduced",
+      "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=SI&id=202&txtFormat=html",
+      "doc_id": 3304269
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

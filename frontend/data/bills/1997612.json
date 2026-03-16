@@ -1,0 +1,59 @@
+{
+  "id": 1997612,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S2125",
+  "title": "Relative to language access and inclusion",
+  "summary": "For legislation relative to language access and inclusion. State Administration and Regulatory Oversight.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S2125/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S2125/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S2125",
+  "sponsors": [
+    "Salvatore DiDomenico (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on State Administration and Regulatory Oversight",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-07-12",
+      "action": "Hearing scheduled for 07/22/2025 from 10:00 AM-01:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-06",
+      "action": "Accompanied a new draft, see S2622",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S2125.pdf",
+      "doc_id": 3162838
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

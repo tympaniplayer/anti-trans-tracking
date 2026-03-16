@@ -1,0 +1,68 @@
+{
+  "id": 2107941,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB2199",
+  "title": "In student supports, providing for policy against gender-based bullying.",
+  "summary": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in student supports, providing for policy against gender-based bullying.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB2199/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB2199/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb2199",
+  "sponsors": [
+    "Paul Takac (D) [Rep]",
+    "Joseph Hohenstein (D) [Rep]",
+    "Nancy Guenst (D) [Rep]",
+    "Ismail Smith-Wade-El (D) [Rep]",
+    "Tarik Khan (D) [Rep]",
+    "Andre Carroll (D) [Rep]",
+    "Carol Hill-Evans (D) [Rep]",
+    "Jeanne McNeill (D) [Rep]",
+    "Benjamin Waxman (D) [Rep]",
+    "La'Tasha Mayes (D) [Rep]",
+    "Christopher Pielli (D) [Rep]",
+    "Liz Hanbidge (D) [Rep]",
+    "Ben Sanchez (D) [Rep]",
+    "Dan Frankel (D) [Rep]",
+    "Nikki Rivera (D) [Rep]",
+    "Johanny Cepeda-Freytiz (D) [Rep]",
+    "Lisa Borowski (D) [Rep]",
+    "Mary Isaacson (D) [Rep]",
+    "Emily Kinkead (D) [Rep]",
+    "Carol Kazeem (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-05",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-05",
+      "action": "Referred to Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-05",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB2199/PN2890",
+      "doc_id": 3349468
+    }
+  ],
+  "committee": {
+    "committee_id": 44,
+    "chamber": "H",
+    "chamber_id": 3,
+    "name": "Education"
+  },
+  "subjects": []
+}

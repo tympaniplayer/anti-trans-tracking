@@ -1,0 +1,65 @@
+{
+  "id": 2002852,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H1587",
+  "title": "Relative to justice for survivors",
+  "summary": "Relative to adults or children charged with crimes. The Judiciary.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H1587/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H1587/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H1587",
+  "sponsors": [
+    "Christine Barber (D) [Rep]",
+    "Brandy Fluker-Reid (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on The Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-11",
+      "action": "Hearing scheduled for 06/17/2025 from 01:00 PM-05:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-20",
+      "action": "Hearing scheduled for 06/17/2025 from 01:00 PM-05:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-20",
+      "action": "Reported by committee to Clerk\u2019s Office for processing, will accompany a study order",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H1587.pdf",
+      "doc_id": 3168917
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

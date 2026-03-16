@@ -1,0 +1,60 @@
+{
+  "id": 2070041,
+  "state": "FL",
+  "state_name": "Florida",
+  "bill_number": "S1730",
+  "title": "Child Welfare",
+  "summary": "Deleting a provision exempting a judge subject to discipline under the State Constitution from criminal prosecution under certain circumstances; authorizing interested parties to file motions requesting emergency hearings to resolve certain custody or visitation disputes; requiring a court to give all parties to an emergency hearing certain notice; revising the definition of the term \"domestic violence\"; prohibiting the infringement of the right of each parent or legal guardian to lawful custody or visitation without due process and a certain court order, etc.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "definitions"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/FL/bill/S1730/2026",
+  "legiscan_url": "https://legiscan.com/FL/bill/S1730/2026",
+  "state_url": "https://www.flsenate.gov/Session/Bill/2026/1730",
+  "sponsors": [
+    "Ana Rodriguez (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-09",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-09",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-16",
+      "action": "Referred to Judiciary; Appropriations Committee on Criminal and Civil Justice; Rules",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Introduced",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-09",
+      "type": "Introduced",
+      "url": "https://www.flsenate.gov/Session/Bill/2026/1730/BillText/Filed/HTML",
+      "doc_id": 3304893
+    }
+  ],
+  "committee": {
+    "committee_id": 558,
+    "chamber": "S",
+    "chamber_id": 28,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

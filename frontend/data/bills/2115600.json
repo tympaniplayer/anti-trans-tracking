@@ -1,0 +1,57 @@
+{
+  "id": 2115600,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "H7732",
+  "title": "Categorizes women by their biological identity at birth rather than their gender identity for purpose of organized sports.",
+  "summary": "EDUCATION -- FAIRNESS IN WOMEN'S SPORTS ACT - Categorizes women by their biological identity at birth rather than their gender identity for purpose of organized sports.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/H7732/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/H7732/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Sherry Roberts (R) [Rep]",
+    "Jon Brien (I) [Rep]",
+    "George Nardone (R) [Rep]",
+    "Marie Hopkins (R) [Rep]",
+    "Richard Fascia (R) [Rep]",
+    "Paul Santucci (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-12",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-12",
+      "action": "Introduced, referred to House Education",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Withdrawn at sponsor's request",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-12",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H7732.pdf",
+      "doc_id": 3360481
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Education",
+    "EDUCATION -- FAIRNESS IN WOMEN'S SPORTS ACT"
+  ]
+}

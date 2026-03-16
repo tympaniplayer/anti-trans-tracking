@@ -1,0 +1,55 @@
+{
+  "id": 2126192,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "H8057",
+  "title": "Decriminalizes certain commercial sexual activity. It would also include human trafficking as a racketeering activity and would allow expungements of certain convictions in \u00a7 11-34.1 after one year.",
+  "summary": "CRIMINAL OFFENSES -- COMMERCIAL SEXUAL ACTIVITY - Decriminalizes certain commercial sexual activity. It would also include human trafficking as a racketeering activity and would allow expungements of certain convictions in \u00a7 11-34.1 after one year.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/H8057/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/H8057/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Edith Ajello (D) [Rep]",
+    "Cherie Cruz (D) [Rep]",
+    "David Place (R) [Rep]",
+    "Brandon Potter (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-27",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-27",
+      "action": "Introduced, referred to House Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-27",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H8057.pdf",
+      "doc_id": 3380409
+    }
+  ],
+  "committee": {
+    "committee_id": 1121,
+    "chamber": "H",
+    "chamber_id": 83,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Criminal Offenses",
+    "CRIMINAL OFFENSES -- COMMERCIAL SEXUAL ACTIVITY"
+  ]
+}

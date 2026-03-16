@@ -1,0 +1,107 @@
+{
+  "id": 1970920,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A05478",
+  "title": "Enacts the \"gender identity respect, dignity and safety act\"; relates to the treatment and placement of incarcerated individuals based upon gender identity; requires that incarcerated individuals in state and local correctional facilities who have a gender identity different from their assigned sex at birth be addressed and have access to commissary items, clothing and other materials that are consistent with the person's gender identity; establishes that incarcerated individuals shall be presumptively placed in a correctional facility with persons of the gender that most closely aligns with such person's self-attested gender identity unless the person opts out of such placement.",
+  "summary": "Enacts the \"gender identity respect, dignity and safety act\"; relates to the treatment and placement of incarcerated individuals based upon gender identity; requires that incarcerated individuals in state and local correctional facilities who have a gender identity different from their assigned sex at birth be addressed and have access to commissary items, clothing and other materials that are consistent with the person's gender identity; establishes that incarcerated individuals shall be presumptively placed in a correctional facility with persons of the gender that most closely aligns with such person's self-attested gender identity unless the person opts out of such placement.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "bathrooms"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A05478/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A05478/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A5478",
+  "sponsors": [
+    "Emily Gallagher (D) [Rep]",
+    "Nily Rozic (D) [Rep]",
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Harvey Epstein (D) [Rep]",
+    "Harry Bronson (D) [Rep]",
+    "David Weprin (D) [Rep]",
+    "Anna Kelles (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Chantel Jackson (D) [Rep]",
+    "Christopher Burdick (D) [Rep]",
+    "Deborah Glick (D) [Rep]",
+    "Phara Souffrant Forrest (D) [Rep]",
+    "Donna Lupardo (D) [Rep]",
+    "Catalina Cruz (D) [Rep]",
+    "Eddie Gibbs (D) [Rep]",
+    "Alex Bores (D) [Rep]",
+    "Linda Rosenthal (D) [Rep]",
+    "Tony Simone (D) [Rep]",
+    "Steven Raga (D) [Rep]",
+    "Maritza Davila (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "Maryjane Shimsky (D) [Rep]",
+    "Manny De Los Santos (D) [Rep]",
+    "Sarahana Shrestha (D) [Rep]",
+    "Rodneyse Bichotte Hermelyn (D) [Rep]",
+    "Alfred Taylor (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Grace Lee (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Jeffrey Dinowitz (D) [Rep]",
+    "Yudelka Tapia (D) [Rep]",
+    "Zohran Kwame Mamdani (D) [Rep]",
+    "Gabriella Romero (D) [Rep]",
+    "Phillip Steck (D) [Rep]",
+    "Demond Meeks (D) [Rep]",
+    "Robert Carroll (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-14",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-14",
+      "action": "referred to correction",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to correction",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "amend and recommit to correction",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "print number 5478a",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-14",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A05478&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A05478",
+      "doc_id": 3121070
+    },
+    {
+      "date": "2025-02-14",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A05478&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A05478A",
+      "doc_id": 3303038
+    }
+  ],
+  "committee": {
+    "committee_id": 360,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Correction"
+  },
+  "subjects": []
+}

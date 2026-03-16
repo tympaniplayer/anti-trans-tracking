@@ -1,0 +1,57 @@
+{
+  "id": 2052198,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB5994",
+  "title": "Every Veteran Counts Act of 2025",
+  "summary": "To amend title 38, United States Code, to direct the Secretary of Veterans Affairs to maintain demographic information regarding veterans and publish such information on a website of the Department of Veterans Affairs.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB5994/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB5994/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/5994/all-info",
+  "sponsors": [
+    "Julia Brownley (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]"
+  ],
+  "introduced_date": "2025-11-10",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-11-10",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-10",
+      "action": "Referred to the House Committee on Veterans' Affairs.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-11-14",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr5994/BILLS-119hr5994ih.pdf",
+      "doc_id": 3284236
+    }
+  ],
+  "committee": {
+    "committee_id": 2316,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Veterans' Affairs"
+  },
+  "subjects": [
+    "Armed forces and national security"
+  ]
+}

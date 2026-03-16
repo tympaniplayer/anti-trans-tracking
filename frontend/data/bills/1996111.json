@@ -1,0 +1,1684 @@
+{
+  "id": 1996111,
+  "state": "NC",
+  "state_name": "North Carolina",
+  "bill_number": "S257",
+  "title": "2025 Appropriations Act",
+  "summary": "2025 Appropriations Act",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NC/bill/S257/2025",
+  "legiscan_url": "https://legiscan.com/NC/bill/S257/2025",
+  "state_url": "https://www.ncleg.gov/BillLookUp/2025/S257",
+  "sponsors": [
+    "William Jackson (R) [Sen]",
+    "Ralph Hise (R) [Sen]",
+    "Michael Lee (R) [Sen]",
+    "Norman Sanderson (R) [Sen]"
+  ],
+  "introduced_date": "2025-04-15",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-03-10",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Passed 1st Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Ref To Com On Rules and Operations of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Withdrawn From Com",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Re-ref Com On Appropriations/Base Budget",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Withdrawn From Com",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Re-ref to Appropriations/Base Budget. If fav, re-ref to Finance. If fav, re-ref to Pensions and Retirement and Aging",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Reptd Fav Com Sub with Unengrossed Amend",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Com Amend Adopted A1",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Com Amend Adopted A2",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Re-ref Com On Finance",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Reptd Fav",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Re-ref Com On Pensions and Retirement and Aging",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Reptd Fav Com Substitute",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-15",
+      "action": "Com Substitute Adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Adopted A2",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Failed A1",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Adopted A3",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Tabled A4",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Adopted A6",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Failed A5",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Adopted A8",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Failed A7",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amendment Withdrawn A9",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Tabled A10",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Adopted A12",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Failed A11",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Adopted A14",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Failed A13",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Adopted A16",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Failed A15",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Adopted A18",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Failed A17",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Adopted A20",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Failed A19",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amendment Ruled Out-of-Order A21",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Adopted A23",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Failed A22",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Adopted A25",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Failed A24",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Tabled A26",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Tabled A27",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Tabled A28",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Tabled A29",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amendment Withdrawn A30",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Adopted A32",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Failed A31",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Tabled A33",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Tabled A34",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Tabled A35",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amendment Withdrawn A36",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Adopted A38",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Failed A37",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Adopted A40",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Failed A39",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Tabled A41",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amendment Withdrawn A42",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Tabled A43",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amendment Withdrawn A44",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Tabled A45",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Tabled A46",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Tabled A47",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Adopted A49",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Failed A48",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Adopted A51",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Amend Failed A50",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "Passed 2nd Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Passed 3rd Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-17",
+      "action": "Engrossed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Regular Message Sent To House",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-28",
+      "action": "Regular Message Received From Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Passed 1st Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Ref to the Com on Appropriations, if favorable, Finance, if favorable, Pensions and Retirement",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Serial Referral To Pensions and Retirement Stricken",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Withdrawn From Com",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "Re-ref to the Com on Finance, if favorable, Appropriations, if favorable, Pensions and Retirement",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Serial Referral To Appropriations Stricken",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Serial Referral To Pensions and Retirement Stricken",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Withdrawn From Com",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-15",
+      "action": "Re-ref to the Com on Rules, Calendar, and Operations of the House, if favorable, Finance, if favorable, Appropriations, if favorable, Pensions and Retirement",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-19",
+      "action": "Reptd Fav Com Substitute",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-19",
+      "action": "Ruled Material",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-19",
+      "action": "Re-ref Com On Finance",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Reptd Fav",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Re-ref Com On Appropriations",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Reptd Fav Com Sub 2",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-20",
+      "action": "Re-ref Com On Pensions and Retirement",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Reptd Fav",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Cal Pursuant Rule 36(b)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Added to Calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A1",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A2",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A3",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A4",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A5",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A6",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A7",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A8",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A9",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Adopted A10",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A12",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A13",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A14",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A15",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A17",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A11",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A16",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A18",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A19",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A20",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A21",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amendment Withdrawn A22",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A24",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A25",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A26",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A27",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A28",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A29",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A30",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A31",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A32",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A33",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A34",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A35",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A36",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A37",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Adopted A38",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A39",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A40",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Tabled A41",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Tabled A42",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Adopted A43",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Failed A44",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Tabled A45",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Amend Adopted A23",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-21",
+      "action": "Passed 2nd Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Amend Adopted A46",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Passed 3rd Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-22",
+      "action": "Ordered Engrossed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Regular Message Sent To Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Regular Message Received For Concurrence in H Com Sub",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Ref To Com On Rules and Operations of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Withdrawn From Com",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-02",
+      "action": "Placed On Cal For 06/03/2025",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Failed Concur In H Com Sub",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Conf Com Appointed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-05",
+      "action": "Conf Com Appointed",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 10 Motion 1 To Table",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 12",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 14",
+      "yea": 44,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 16",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 18",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 2",
+      "yea": 44,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 20",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 23",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 25",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 26 Motion 1 To Table",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 27 Motion 1 To Table",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 28 Motion 1 To Table",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 29 Motion 1 To Table",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 3",
+      "yea": 47,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 32",
+      "yea": 45,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 33 Motion 1 To Table",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 34 Motion 1 To Table",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 35 Motion 1 To Table",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 38",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 4 Motion 1 To Table",
+      "yea": 25,
+      "nay": 22,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 40",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 41 Motion 1 To Table",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 43 Motion 1 To Table",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 45 Motion 1 To Table",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 46 Motion 1 To Table",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 47 Motion 1 To Table",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 49",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 51",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 6",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Amendment 8",
+      "yea": 28,
+      "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-16",
+      "description": "Second Reading",
+      "yea": 31,
+      "nay": 16,
+      "passed": 1
+    },
+    {
+      "date": "2025-04-17",
+      "description": "Third Reading",
+      "yea": 30,
+      "nay": 15,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A1 Belk Second Reading",
+      "yea": 46,
+      "nay": 66,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A10 Crawford Second Reading",
+      "yea": 113,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A11 Ball Second Reading",
+      "yea": 46,
+      "nay": 65,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A12 Ball Second Reading",
+      "yea": 42,
+      "nay": 60,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A13 Belk Second Reading",
+      "yea": 43,
+      "nay": 60,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A14 Dahle Second Reading",
+      "yea": 46,
+      "nay": 58,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A15 Greenfield Second Reading",
+      "yea": 46,
+      "nay": 59,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A16 Greenfield Second Reading",
+      "yea": 47,
+      "nay": 65,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A17 Harrison Second Reading",
+      "yea": 46,
+      "nay": 65,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A18 Cervania Second Reading",
+      "yea": 44,
+      "nay": 67,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A19 Cervania Second Reading",
+      "yea": 44,
+      "nay": 67,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A2 Belk Second Reading",
+      "yea": 46,
+      "nay": 66,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A20 Hawkins Second Reading",
+      "yea": 47,
+      "nay": 62,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A21 Hawkins Second Reading",
+      "yea": 49,
+      "nay": 57,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A23 Lambeth Second Reading",
+      "yea": 77,
+      "nay": 36,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A24 Logan Second Reading",
+      "yea": 47,
+      "nay": 60,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A25 Logan Second Reading",
+      "yea": 45,
+      "nay": 62,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A26 Logan Second Reading",
+      "yea": 46,
+      "nay": 61,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A27 Longest Second Reading",
+      "yea": 46,
+      "nay": 63,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A28 Lopez Second Reading",
+      "yea": 46,
+      "nay": 65,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A29 Lopez Second Reading",
+      "yea": 44,
+      "nay": 63,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A3 Brown, G. Second Reading",
+      "yea": 47,
+      "nay": 68,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A30 Lopez Second Reading",
+      "yea": 45,
+      "nay": 63,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A31 Lopez Second Reading",
+      "yea": 44,
+      "nay": 64,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A32 Morey Second Reading",
+      "yea": 49,
+      "nay": 60,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A33 Morey Second Reading",
+      "yea": 47,
+      "nay": 62,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A34 Prather Second Reading",
+      "yea": 44,
+      "nay": 64,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A34 Prather Second Reading M4 Previous Question",
+      "yea": 65,
+      "nay": 42,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A35 Prather Second Reading",
+      "yea": 42,
+      "nay": 63,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A36 Prather Second Reading",
+      "yea": 43,
+      "nay": 63,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A37 Prather Second Reading",
+      "yea": 41,
+      "nay": 66,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A38 Price Second Reading",
+      "yea": 98,
+      "nay": 7,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A39 Rubin Second Reading",
+      "yea": 44,
+      "nay": 63,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A4 Brown, T. Second Reading",
+      "yea": 48,
+      "nay": 65,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A40 Rubin Second Reading",
+      "yea": 46,
+      "nay": 63,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A41 Rubin Second Reading M3 To Lay On The Table",
+      "yea": 67,
+      "nay": 43,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A42 Rubin Second Reading M3 To Lay On The Table",
+      "yea": 68,
+      "nay": 42,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A43 Schietzelt Second Reading",
+      "yea": 71,
+      "nay": 37,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A44 von Haefen Second Reading",
+      "yea": 46,
+      "nay": 66,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A45 von Haefen Second Reading M3 To Lay On The Table",
+      "yea": 70,
+      "nay": 42,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A5 Buansi Second Reading",
+      "yea": 49,
+      "nay": 66,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A6 Butler Second Reading",
+      "yea": 48,
+      "nay": 67,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A7 Cervania Second Reading",
+      "yea": 41,
+      "nay": 72,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A8 Cervania Second Reading",
+      "yea": 43,
+      "nay": 69,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "A9 Clark Second Reading",
+      "yea": 46,
+      "nay": 68,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-21",
+      "description": "Second Reading",
+      "yea": 93,
+      "nay": 20,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-22",
+      "description": "A46 Arp Third Reading",
+      "yea": 106,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-22",
+      "description": "Third Reading",
+      "yea": 86,
+      "nay": 20,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-03",
+      "description": "Second Reading Motion 9 To Concur",
+      "yea": 9,
+      "nay": 37,
+      "passed": 0
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-03-10",
+      "type": "Introduced",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S257v0.pdf",
+      "doc_id": 3160921
+    },
+    {
+      "date": "2025-03-11",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S257v1.pdf",
+      "doc_id": 3165633
+    },
+    {
+      "date": "2025-04-15",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S257v2.pdf",
+      "doc_id": 3212575
+    },
+    {
+      "date": "2025-04-17",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S257v3.pdf",
+      "doc_id": 3214910
+    },
+    {
+      "date": "2025-05-19",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S257v4.pdf",
+      "doc_id": 3240135
+    },
+    {
+      "date": "2025-05-20",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S257v5.pdf",
+      "doc_id": 3241431
+    },
+    {
+      "date": "2025-05-22",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/Senate/PDF/S257v6.pdf",
+      "doc_id": 3242815
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Appropriations",
+    "Budgeting",
+    "Funding",
+    "Funds & Accounts",
+    "Grants",
+    "Highway Trust Fund",
+    "Public",
+    "Roads & Highways",
+    "Transportation",
+    "Transportation Dept.",
+    "Highway Fund",
+    "Adap",
+    "Admin. Hearings Office",
+    "Administration Dept.",
+    "Advertising & Marketing",
+    "Agriculture",
+    "Agriculture Dept.",
+    "Aids",
+    "Anesthesiology",
+    "Animals",
+    "Aoc",
+    "Appointments",
+    "Aquariums",
+    "Archaeology",
+    "Armed Forces",
+    "Arts",
+    "Auditing & Audits",
+    "Authorities",
+    "Biotechnology",
+    "Boards",
+    "Budget & Management Office",
+    "Buildings",
+    "Capital Spending",
+    "Cemeteries",
+    "Certificates Of Need",
+    "Charter Schools",
+    "Child Custody",
+    "Clinics",
+    "Coastal Resources",
+    "Colleges & Universities",
+    "Commerce",
+    "Commerce Dept.",
+    "Commissions",
+    "Communications",
+    "Community Colleges",
+    "Community Colleges Board",
+    "Community Colleges Office",
+    "Community Development",
+    "Computers",
+    "Confidentiality",
+    "Conservation",
+    "Construction",
+    "Contracts",
+    "Corporations, For-profit",
+    "Corporations, Nonprofit",
+    "Correctional Institutions",
+    "Council Of State",
+    "Counties",
+    "Court Clerks",
+    "Courts",
+    "Crimes",
+    "Cultural Resources",
+    "Natural & Cultural Resources Dept.",
+    "Curriculum",
+    "Dams",
+    "Data & Records Systems",
+    "Death & Dying",
+    "Death Benefits",
+    "Deq",
+    "Dentists & Dentistry",
+    "Dhhs",
+    "Disasters & Emergencies",
+    "Discrimination",
+    "Diseases & Health Disorders",
+    "District Court",
+    "Dmv",
+    "Economic Development",
+    "Education",
+    "Education Administration",
+    "Education Assistance Authority",
+    "Education Boards",
+    "Education, State Board Of",
+    "Educational Testing",
+    "Elections",
+    "Elections, State Board Of",
+    "Electricity Generation & Distribution",
+    "Elementary Education",
+    "Emergency Management",
+    "Emergency Services",
+    "Emerging Technologies",
+    "Eminent Domain",
+    "Employment",
+    "Entertainment Industry",
+    "Environment",
+    "Environmental Management Comn.",
+    "Esl",
+    "Evidence",
+    "Extraterritoriality",
+    "Fees",
+    "Ferries",
+    "Film Industry",
+    "Firefighters & Firefighting",
+    "Fish & Wildlife",
+    "Foods & Beverages",
+    "Foster Care",
+    "Gaming",
+    "General Assembly",
+    "Governor",
+    "Guardianship",
+    "Health Depts.",
+    "Health Services",
+    "Higher Education",
+    "Historic Sites & Monuments",
+    "Hospitals",
+    "Housing",
+    "Housing Finance Agency",
+    "Human Relations Comn.",
+    "Indigents",
+    "Industrial Comn.",
+    "Industrial Location",
+    "Information Technology",
+    "Infrastructure",
+    "Inspections",
+    "Insurance",
+    "Insurance Dept.",
+    "Insurance, Health",
+    "Insurance, Life",
+    "Insurance, Unemployment",
+    "Internet",
+    "Investments",
+    "Jails",
+    "Judicial Dept.",
+    "Justice Dept.",
+    "Juvenile Institutions",
+    "Kindergarten",
+    "Labor Dept.",
+    "Laboratories",
+    "Lakes & Rivers",
+    "Languages",
+    "Law Enforcement",
+    "Ldc",
+    "Rentals & Leasing",
+    "Lgers",
+    "License Plates",
+    "Licenses & Permits",
+    "Licensing & Certification",
+    "Literacy",
+    "Local Government",
+    "Lottery",
+    "Lt. Governor",
+    "Magistrates",
+    "Managed Care",
+    "Manufacturing",
+    "Medicaid",
+    "Medical Examiners",
+    "Medical Records",
+    "Mental Health",
+    "Minorities",
+    "Minors",
+    "Moratoriums",
+    "Motor Vehicles",
+    "Municipalities",
+    "Nutrition",
+    "Occupations",
+    "Parks & Recreation Areas",
+    "Parole & Probation",
+    "Partnerships",
+    "Personnel",
+    "Pharmaceuticals",
+    "Pharmacists & Pharmacies",
+    "Pilot Programs",
+    "Planning & Zoning",
+    "Pollution",
+    "Poverty",
+    "Pregnancy",
+    "Principals",
+    "Prison Labor",
+    "Inmates",
+    "Privacy",
+    "Private Schools",
+    "Professional Education",
+    "Property",
+    "Public Defenders",
+    "Public Health",
+    "Public Instruction Dept.",
+    "Public Officials",
+    "Purchasing",
+    "Railroad Board",
+    "Railroads",
+    "Recreation & Leisure",
+    "Reporting",
+    "Research",
+    "Rescue Squads",
+    "Resolutions, Joint",
+    "Retirement",
+    "Revenue Dept.",
+    "Safety",
+    "Salaries & Benefits",
+    "Sales & Conveyances",
+    "Sbi",
+    "School Buildings & Property",
+    "Stem",
+    "Secondary Education",
+    "Secretary Of State",
+    "Sentencing",
+    "Session Laws",
+    "Signs",
+    "Small Business",
+    "Social Services",
+    "Sports",
+    "State Auditor",
+    "State Controller",
+    "State Employees",
+    "State Treasurer",
+    "Studies",
+    "Taxation",
+    "Taxes, Privilege",
+    "Taxes, Individual Income",
+    "Teachers",
+    "Telecommunications",
+    "Telephones",
+    "Testing",
+    "Textbook Comn.",
+    "Textbooks",
+    "Titles",
+    "Tribes & Tribal Government",
+    "Tsers",
+    "Tsers Board",
+    "Tuition",
+    "Unc",
+    "Unc Board Of Governors",
+    "Unemployment",
+    "Utilities",
+    "Veterans",
+    "Victims Rights",
+    "Vocational Education",
+    "Water & Sewer Systems",
+    "Water Resources",
+    "Wildlife Resources Comn.",
+    "Women",
+    "Zoos",
+    "Lottery Fund",
+    "Records",
+    "Substance Abuse",
+    "Pamlico County",
+    "Taxes, Disposal",
+    "Superior Court",
+    "Biotechnology Center",
+    "Indigent Defense Services Office",
+    "Electronic Government",
+    "Traffic Offenses",
+    "Scholarships & Financial Aid",
+    "Tax Distribution",
+    "Zoo Fund",
+    "Lgers Board",
+    "Firemens Pension Fund",
+    "National Guard",
+    "Named Laws",
+    "Early Childhood Education",
+    "Government Employees",
+    "Highway Patrol",
+    "Lmes-mcos",
+    "Local Government Employees",
+    "Pension & Retirement Funds",
+    "Property-local Government",
+    "Property-state Government",
+    "Forensic Sciences",
+    "Grantsboro",
+    "Public Safety Dept.",
+    "Surplus Property",
+    "Motor Fleet",
+    "Blue Laws",
+    "Vouchers",
+    "Family Issues",
+    "Mobile Phones & Devices",
+    "Charter Schools Review Board",
+    "Human Resources Office",
+    "Supplemental Retirement Board",
+    "Information Technology Dept.",
+    "Monitoring & Surveillance Systems",
+    "Military Affairs Dept.",
+    "State Crime Lab",
+    "Confirmation",
+    "State Fire Marshal",
+    "Capital & Infrastructure Fund",
+    "Unc System Office",
+    "Residency",
+    "Policy Collaboratory",
+    "Food & Nutrition Programs",
+    "School Of Science & Math",
+    "School Of The Arts",
+    "Seized & Forfeited Property",
+    "Teaching Fellows Comn.",
+    "School Staff",
+    "Censorship",
+    "Adult Correction Dept.",
+    "Hygiene Products",
+    "Hie Network",
+    "Semiquincentennial Comm.",
+    "Ncinnovation Board",
+    "Cryptocurrency & Nfts",
+    "Investment Authority"
+  ]
+}

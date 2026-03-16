@@ -1,0 +1,51 @@
+{
+  "id": 2096885,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "A1996",
+  "title": "Enhances protections under Law Against Discrimination for immigrants and persons who are not United States citizens.",
+  "summary": "Enhances protections under Law Against Discrimination for immigrants and persons who are not United States citizens.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/A1996/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/A1996/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A1996",
+  "sponsors": [
+    "Annette Quijano (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced, Referred to Assembly Oversight, Reform and Federal Relations Committee",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-02",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/A2000/1996_I1.HTM",
+      "doc_id": 3335943
+    }
+  ],
+  "committee": {
+    "committee_id": 3752,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "Oversight, Reform and Federal Relations"
+  },
+  "subjects": [
+    "Oversight, Reform and Federal Relations"
+  ]
+}

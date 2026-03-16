@@ -1,0 +1,55 @@
+{
+  "id": 1927035,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S02402",
+  "title": "Provides for a tax credit for certain persons relocating to the state to provide or receive reproductive care or gender-affirming care.",
+  "summary": "Provides for a tax credit for certain persons relocating to the state to provide or receive reproductive care or gender-affirming care.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S02402/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S02402/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S2402",
+  "sponsors": [
+    "Michelle Hinchey (D) [Sen]",
+    "Brad Hoylman-Sigal (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-17",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-17",
+      "action": "REFERRED TO BUDGET AND REVENUE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO BUDGET AND REVENUE",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-17",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S02402&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S02402",
+      "doc_id": 3064355
+    }
+  ],
+  "committee": {
+    "committee_id": 3907,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Budget and Revenue"
+  },
+  "subjects": []
+}

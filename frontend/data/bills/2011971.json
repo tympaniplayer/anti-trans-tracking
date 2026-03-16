@@ -1,0 +1,54 @@
+{
+  "id": 2011971,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "HF2590",
+  "title": "Clinical art therapist licensure established, Board of Behavioral Health and Therapy membership modified, fees and civil penalties imposed, and money appropriated.",
+  "summary": "Clinical art therapist licensure established, Board of Behavioral Health and Therapy membership modified, fees and civil penalties imposed, and money appropriated.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/HF2590/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/HF2590/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2590/",
+  "sponsors": [
+    "Matt Norris (D) [Rep]",
+    "Bernie Perryman (R) [Rep]",
+    "Esther Agbaje (D) [Rep]",
+    "Alex Falconer (D) [Rep]",
+    "Liz Reyer (D) [Rep]",
+    "Peter Fischer (D) [Rep]"
+  ],
+  "introduced_date": "2025-03-20",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-03-20",
+      "action": "Introduction and first reading, referred to Health Finance and Policy",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-20",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/2590/versions/0/pdf/",
+      "doc_id": 3183194
+    }
+  ],
+  "committee": {
+    "committee_id": 4302,
+    "chamber": "H",
+    "chamber_id": 55,
+    "name": "Health Finance & Policy"
+  },
+  "subjects": []
+}

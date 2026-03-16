@@ -1,0 +1,118 @@
+{
+  "id": 2036436,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S08411",
+  "title": "Authorizes the denial of access to certain public records which relate to civil investigations; requires the superintendent of state police to provide the department of law with direct, real-time access to the criminal gun clearinghouse; relates to the enforcement powers of the attorney general; authorizes the attorney general to investigate and bring any civil action addressing repeated or persistent discrimination in elementary and secondary schools; requires the compromise of any claim which the state may have for care, maintenance or treatment furnished in hospitals or other such facilities to be made accordance with parameters established by the office of the attorney general; allows the commissioner of health to waive bills or compromise bills for the maintenance, care and treatment furnished to patients in medical facilities upon the prior approval of the comptroller alone.",
+  "summary": "Authorizes the denial of access to certain public records which relate to civil investigations; requires the superintendent of state police to provide the department of law with direct, real-time access to the criminal gun clearinghouse; relates to the enforcement powers of the attorney general; authorizes the attorney general to investigate and bring any civil action addressing repeated or persistent discrimination in elementary and secondary schools; requires the compromise of any claim which the state may have for care, maintenance or treatment furnished in hospitals or other such facilities to be made accordance with parameters established by the office of the attorney general; allows the commissioner of health to waive bills or compromise bills for the maintenance, care and treatment furnished to patients in medical facilities upon the prior approval of the comptroller alone.",
+  "status": "vetoed",
+  "status_label": "Vetoed",
+  "status_code": 5,
+  "categories": [
+    "healthcare",
+    "bathrooms",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S08411/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S08411/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S8411",
+  "sponsors": [
+    "James Skoufis (D) [Sen]"
+  ],
+  "introduced_date": "2025-10-16",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-06-09",
+      "action": "REFERRED TO RULES",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "ORDERED TO THIRD READING CAL.1947",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-12",
+      "action": "referred to ways and means",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-17",
+      "action": "substituted for a8869",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-17",
+      "action": "ordered to third reading rules cal.882",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-17",
+      "action": "passed assembly",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-17",
+      "action": "returned to senate",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-10-09",
+      "action": "DELIVERED TO GOVERNOR",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-16",
+      "action": "VETOED MEMO.53",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-12",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 38,
+      "nay": 21,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-17",
+      "description": "Assembly Floor Vote - Final Passage",
+      "yea": 88,
+      "nay": 47,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-12",
+      "description": "Senate Rules Committee Vote",
+      "yea": 13,
+      "nay": 7,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-06-09",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S08411&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S08411",
+      "doc_id": 3253828
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

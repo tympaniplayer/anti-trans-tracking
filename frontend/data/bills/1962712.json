@@ -1,0 +1,71 @@
+{
+  "id": 1962712,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB3715",
+  "title": "NONDISCRIMINATION-STATE GRANTS",
+  "summary": "Creates the Nondiscrimination in State Contracts and Grants Act. Prohibits the State from awarding a contract or grant to any person, business, or entity that engages in discrimination as defined in the Act. Defines \"discrimination\" to mean if the business or entity engages in \"sexual orientation change efforts\" or \"conversion therapy\". \"Sexual orientation change efforts\" or \"conversion therapy\" means any practices or treatments that seek to change an individual's sexual orientation, as defined by in the Illinois Human Rights Act, including efforts to change behaviors or gender expressions or to eliminate or reduce sexual or romantic attractions or feelings towards individuals of the same sex. \"Sexual orientation change efforts\" or \"conversion therapy\" does not include counseling or mental health services that provide acceptance, support, and understanding of a person without seeking to change sexual orientation or mental health services that facilitate a person's coping, social support, and gender identity exploration and development, including sexual orientation neutral interventions to prevent or address unlawful conduct or unsafe sexual practices, without seeking to change sexual orientation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "bathrooms",
+    "definitions"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB3715/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB3715/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3715&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Rita Mayfield (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-07",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-07",
+      "action": "Filed with the Clerk by Rep. Rita Mayfield",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-18",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Assigned to State Government Administration Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Rule 19(a) / Re-referred to Rules Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-07",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=202330&DocName=10400HB3715&DocNum=3715&DocTypeID=HB&LegID=162545&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3108977
+    }
+  ],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
+  "subjects": []
+}

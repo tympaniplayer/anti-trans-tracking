@@ -1,0 +1,51 @@
+{
+  "id": 2086794,
+  "state": "MS",
+  "state_name": "Mississippi",
+  "bill_number": "HB1200",
+  "title": "MS Safe Dormitories Act; establish.",
+  "summary": "An Act To Establish The \"mississippi Safe Dorms Act\"; To Declare Legislative Findings Regarding Student Safety At State Institutions Of Higher Learning; To Define Relevant Terms; To Prohibit Students Registered Under The Sex Offender Registration Laws From Residing In On-campus Housing; To Prohibit Employees Of State Institutions Of Higher Learning From Entering Into Consensual Relationships With Students Over Whom They Have Authority; To Require State Institutions Of Higher Learning To Provide Single-sex Living Facilities And Require First-year Students To Reside In Such Facilities; To Establish Exceptions For Certain Persons Entering Single-sex Facilities; To Require Institutions To Develop Materials And Procedures To Educate Students And Staff About Policies To Reduce Sexual Assault Risks; To Authorize Students Aggrieved By Violations Of This Act To File Civil Actions For Relief And Damages; To Specify A One-year Limitation Period For Filing Such Suits; To Waive Immunity For State Institutions Of Higher Learning That Violate This Act; To Provide For The Severability Of This Act; And For Related Purposes.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "bathrooms",
+    "education",
+    "definitions"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MS/bill/HB1200/2026",
+  "legiscan_url": "https://legiscan.com/MS/bill/HB1200/2026",
+  "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/HB/HB1200.xml",
+  "sponsors": [
+    "Stacey Hobgood-Wilkes (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-19",
+      "action": "Referred To Universities and Colleges;Judiciary A",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-03",
+      "action": "Died In Committee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-20",
+      "type": "Introduced",
+      "url": "https://billstatus.ls.state.ms.us/documents/2026/html/HB/1200-1299/HB1200IN.htm",
+      "doc_id": 3324214
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

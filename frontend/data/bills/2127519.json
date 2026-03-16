@@ -1,0 +1,59 @@
+{
+  "id": 2127519,
+  "state": "KS",
+  "state_name": "Kansas",
+  "bill_number": "SB522",
+  "title": "Enacting the Kansas medical freedom act to prohibit the denial of an individual's access to certain services based on such individual's medical choices.",
+  "summary": "Enacting the Kansas medical freedom act to prohibit the denial of an individual's access to certain services based on such individual's medical choices.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KS/bill/SB522/2025",
+  "legiscan_url": "https://legiscan.com/KS/bill/SB522/2025",
+  "state_url": "https://kslegislature.gov/li/b2025_26/measures/sb522/",
+  "sponsors": [
+    "Federal and State Affairs [Sen]"
+  ],
+  "introduced_date": "2026-03-02",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-02",
+      "action": "Senate Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Senate Referred to Committee on Public Health and Welfare",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Senate Hearing: Friday, March 13, 2026, 8:30 AM Room 142-S",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-02",
+      "type": "Introduced",
+      "url": "https://kslegislature.gov/li/b2025_26/measures/documents/sb522_00_0000.pdf",
+      "doc_id": 3381190
+    }
+  ],
+  "committee": {
+    "committee_id": 1411,
+    "chamber": "S",
+    "chamber_id": 42,
+    "name": "Public Health and Welfare"
+  },
+  "subjects": []
+}

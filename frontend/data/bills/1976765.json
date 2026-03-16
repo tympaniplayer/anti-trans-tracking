@@ -1,0 +1,70 @@
+{
+  "id": 1976765,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB634",
+  "title": "Korematsu-Takai Civil Liberties Protection Act of 2025",
+  "summary": "A bill to ensure due process protections of individuals in the United States against unlawful detention based solely on a protected characteristic.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB634/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB634/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/634/all-info",
+  "sponsors": [
+    "Tammy Duckworth (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Tim Kaine (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Brian Schatz (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Jack Reed (D) [Sen]",
+    "Patty Murray (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Amy Klobuchar (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Catherine Cortez Masto (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Richard Durbin (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-19",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-02-19",
+      "action": "Read twice and referred to the Committee on the Judiciary.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-12",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s634/BILLS-119s634is.pdf",
+      "doc_id": 3172036
+    }
+  ],
+  "committee": {
+    "committee_id": 2330,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crime and law enforcement"
+  ]
+}

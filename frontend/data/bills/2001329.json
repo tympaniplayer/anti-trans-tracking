@@ -1,0 +1,74 @@
+{
+  "id": 2001329,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "H1608",
+  "title": "Relative to restraining orders as they pertain to hate crimes",
+  "summary": "Relative to restraining orders as they pertain to hate crimes. The Judiciary.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/H1608/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/H1608/2025",
+  "state_url": "https://malegislature.gov/Bills/194/H1608",
+  "sponsors": [
+    "Tackey Chan (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on The Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Senate concurred",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-07",
+      "action": "Hearing scheduled for 07/15/2025 from 01:00 PM-05:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "Hearing rescheduled to 07/15/2025 from 01:00 PM-06:00 PM in A-2 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "Hearing rescheduled to 07/15/2025 from 01:00 PM-08:00 PM in A-2 and Virtual Hearing updated to New End Time",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-20",
+      "action": "Hearing scheduled for 07/15/2025 from 01:00 PM-08:00 PM in A-2",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-10-23",
+      "action": "Accompanied a new draft, see H4633",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-27",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/H1608.pdf",
+      "doc_id": 3167312
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,166 @@
+{
+  "id": 2130669,
+  "state": "CO",
+  "state_name": "Colorado",
+  "bill_number": "HJR1020",
+  "title": "International Women's Day",
+  "summary": "Concerning the designation of March 8, 2026, as \"International Women's Day\" in Colorado, and, in connection therewith, acknowledging the countless contributions that women have made in history and to contemporary society.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CO/bill/HJR1020/2026",
+  "legiscan_url": "https://legiscan.com/CO/bill/HJR1020/2026",
+  "state_url": "https://leg.colorado.gov/bills/HJR26-1020",
+  "sponsors": [
+    "Cecelia Espenoza (D) [Rep]",
+    "Naquetta Ricks (D) [Rep]",
+    "Janice Marchman (D) [Sen]",
+    "Katie Wallace (D) [Sen]",
+    "Jennifer Bacon (D) [Rep]",
+    "Andrew Boesenecker (D) [Rep]",
+    "Kyle Brown (D) [Rep]",
+    "Sean Camacho (D) [Rep]",
+    "Michael Carter (D) [Rep]",
+    "Chad Clifford (D) [Rep]",
+    "Monica Duran (D) [Rep]",
+    "Regina English (D) [Rep]",
+    "Meg Froelich (D) [Rep]",
+    "Lorena Garcia (D) [Rep]",
+    "Lindsay Gilchrist (D) [Rep]",
+    "Lori Goldstein (D) [Rep]",
+    "Eliza Hamrick (D) [Rep]",
+    "Jamie Jackson (D) [Rep]",
+    "Junie Joseph (D) [Rep]",
+    "Sheila Lieder (D) [Rep]",
+    "Mandy Lindsay (D) [Rep]",
+    "Meghan Lukens (D) [Rep]",
+    "Javier Mabrey (D) [Rep]",
+    "Matthew Martinez (D) [Rep]",
+    "Tisha Mauro (D) [Rep]",
+    "Julie McCluskie (D) [Rep]",
+    "Karen McCormick (D) [Rep]",
+    "Kenny Nguyen (D) [Rep]",
+    "Amy Paschal (D) [Rep]",
+    "Jacque Phillips (D) [Rep]",
+    "Manny Rutinel (D) [Rep]",
+    "Emily Sirota (D) [Rep]",
+    "Lesley Smith (D) [Rep]",
+    "Katie Stewart (D) [Rep]",
+    "Rebekah Stewart (D) [Rep]",
+    "Tammy Story (D) [Rep]",
+    "Brianna Titone (D) [Rep]",
+    "Steven Woodrow (D) [Rep]",
+    "Judith Amabile (D) [Sen]",
+    "Matt Ball (D) [Sen]",
+    "Adrienne Benavidez (D) [Sen]",
+    "Jeff Bridges (D) [Sen]",
+    "James Coleman (D) [Sen]",
+    "Lisa Cutter (D) [Sen]",
+    "Lindsey Daugherty (D) [Sen]",
+    "Tony Exum (D) [Sen]",
+    "Julie Gonzales (D) [Sen]",
+    "Nick Hinrichsen (D) [Sen]",
+    "Iman Jodeh (D) [Sen]",
+    "Cathy Kipp (D) [Sen]",
+    "Chris Kolker (D) [Sen]",
+    "William Lindstedt (D) [Sen]",
+    "Kyle Mullica (D) [Sen]",
+    "Dylan Roberts (D) [Sen]",
+    "Marc Snyder (D) [Sen]",
+    "Tom Sullivan (D) [Sen]",
+    "Michael Weissman (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-10",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-06",
+      "action": "Introduced In House - Assigned to",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "House Third Reading Passed with Amendments - Floor",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Introduced In Senate - Assigned to",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Senate Third Reading Laid Over to 03/11/2026 - No Amendments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-11",
+      "action": "Senate Third Reading Laid Over to 03/13/2026 - No Amendments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Senate Third Reading Passed - No Amendments",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-09",
+      "description": "House: RESOLUTIONS Amd (l.002)",
+      "yea": 63,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-09",
+      "description": "House: RESOLUTIONS Amd (l.003)",
+      "yea": 22,
+      "nay": 42,
+      "passed": 0
+    },
+    {
+      "date": "2026-03-09",
+      "description": "House: RESOLUTIONS Res",
+      "yea": 44,
+      "nay": 20,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-13",
+      "description": "Senate: Consideration of Resolutions Resolution",
+      "yea": 22,
+      "nay": 12,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "1969-12-31",
+      "type": "Introduced",
+      "url": "https://leg.colorado.gov/bill_files/112985/download",
+      "doc_id": 3387719
+    },
+    {
+      "date": "1969-12-31",
+      "type": "Engrossed",
+      "url": "https://leg.colorado.gov/bill_files/113029/download",
+      "doc_id": 3388544
+    },
+    {
+      "date": "1969-12-31",
+      "type": "Amended",
+      "url": "https://leg.colorado.gov/bill_files/113281/download",
+      "doc_id": 3394170
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

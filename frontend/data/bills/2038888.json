@@ -1,0 +1,96 @@
+{
+  "id": 2038888,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SR312",
+  "title": "A resolution recognizing June 2025, as \"LGBTQ Pride Month\".",
+  "summary": "A resolution recognizing June 2025, as \"LGBTQ Pride Month\".",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SR312/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SR312/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/312/all-info",
+  "sponsors": [
+    "Tina Smith (D) [Sen]",
+    "Angela Alsobrooks (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Michael Bennet (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Lisa Rochester (D) [Sen]",
+    "Maria Cantwell (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Catherine Cortez Masto (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "John Fetterman (D) [Sen]",
+    "Ruben Gallego (D) [Sen]",
+    "Kirsten Gillibrand (D) [Sen]",
+    "Margaret Hassan (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "John Hickenlooper (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Tim Kaine (D) [Sen]",
+    "Mark Kelly (D) [Sen]",
+    "Andy Kim (D) [Sen]",
+    "Angus King (I) [Sen]",
+    "Amy Klobuchar (D) [Sen]",
+    "Ben Lujan (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Christopher Murphy (D) [Sen]",
+    "Patty Murray (D) [Sen]",
+    "Jon Ossoff (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Gary Peters (D) [Sen]",
+    "Jack Reed (D) [Sen]",
+    "Jacky Rosen (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Brian Schatz (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Jeanne Shaheen (D) [Sen]",
+    "Elissa Slotkin (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Mark Warner (D) [Sen]",
+    "Raphael Warnock (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Sheldon Whitehouse (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-30",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-30",
+      "action": "Referred to the Committee on the Judiciary. (text: CR S4084-4085)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-09",
+      "action": "Star Print ordered on the resolution.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-07-03",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/sres312/BILLS-119sres312is.pdf",
+      "doc_id": 3260626
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

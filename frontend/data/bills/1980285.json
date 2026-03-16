@@ -1,0 +1,273 @@
+{
+  "id": 1980285,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB1388",
+  "title": "Law enforcement: settlement agreements.",
+  "summary": "An act to amend Sections 832.7 and 13510.9 of the Penal Code, relating to law enforcement.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB1388/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB1388/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1388",
+  "sponsors": [
+    "Isaac Bryan (D) [Rep]"
+  ],
+  "introduced_date": "2025-10-13",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-21",
+      "action": "Introduced. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-22",
+      "action": "From printer. May be heard in committee March 24.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-02-24",
+      "action": "Read first time.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Referred to Com. on PUB. S.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on PUB. S. Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-16",
+      "action": "In committee: Hearing postponed by committee.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-21",
+      "action": "Re-referred to Com. on PUB. S.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 1.) (April 29). Re-referred to Com. on APPR.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Assembly Rule 63 suspended. (Ayes 51. Noes 16. Page 1644.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "From committee: Amend, and do pass as amended. (Ayes 11. Noes 0.) (May 23).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "Read second time and amended. Ordered returned to second reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-27",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Read third time. Passed. Ordered to the Senate. (Ayes 69. Noes 0. Page 2018.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-18",
+      "action": "Referred to Com. on PUB. S.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-07-15",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 6. Noes 0.) (July 15). Re-referred to Com. on APPR.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-19",
+      "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-08-20",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-05",
+      "action": "Read third time and amended. Ordered to second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-08",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-09",
+      "action": "Joint Rule 61(a)(13) suspended. (Ayes 28. Noes 8. Page 2568.)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-09",
+      "action": "Read third time and amended. Ordered to second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-10",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-12",
+      "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 38. Noes 0. Page 2989.).",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-12",
+      "action": "In Assembly. Concurrence in Senate amendments pending.",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-13",
+      "action": "Joint Rules 61(a)(14) and 51(a)(4) suspended. (Ayes 59. Noes 20. Page 3413.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-13",
+      "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 74. Noes 0. Page 3476.).",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-09-24",
+      "action": "Enrolled and presented to the Governor at 3 p.m.",
+      "chamber": ""
+    },
+    {
+      "date": "2025-10-13",
+      "action": "Approved by the Governor.",
+      "chamber": ""
+    },
+    {
+      "date": "2025-10-13",
+      "action": "Chaptered by Secretary of State - Chapter 729, Statutes of 2025.",
+      "chamber": ""
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-04-29",
+      "description": "Do pass and be re-referred to the Committee on [Appropriations]",
+      "yea": 7,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-23",
+      "description": "Do pass as amended",
+      "yea": 11,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-03",
+      "description": "AB 1388 Bryan Assembly Third Reading",
+      "yea": 69,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-07-15",
+      "description": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+      "yea": 6,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-12",
+      "description": "Assembly 3rd Reading AB1388 Bryan By Arregu\u00edn",
+      "yea": 38,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-13",
+      "description": "AB 1388 Bryan Concurrence in Senate Amendments",
+      "yea": 74,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-02-21",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1388#99INT",
+      "doc_id": 3137072
+    },
+    {
+      "date": "2025-04-10",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1388#98AMD",
+      "doc_id": 3209299
+    },
+    {
+      "date": "2025-05-23",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1388#97AMD",
+      "doc_id": 3245420
+    },
+    {
+      "date": "2025-09-05",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1388#96AMD",
+      "doc_id": 3268013
+    },
+    {
+      "date": "2025-09-09",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1388#95AMD",
+      "doc_id": 3268400
+    },
+    {
+      "date": "2025-09-16",
+      "type": "Enrolled",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1388#94ENR",
+      "doc_id": 3269703
+    },
+    {
+      "date": "2025-10-13",
+      "type": "Chaptered",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1388#93CHP",
+      "doc_id": 3273297
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

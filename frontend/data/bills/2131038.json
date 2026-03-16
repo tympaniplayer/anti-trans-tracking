@@ -1,0 +1,50 @@
+{
+  "id": 2131038,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "HF4057",
+  "title": "Miscellaneous technical corrections to laws and statutes made; erroneous, obsolete, and omitted text and references corrected; and redundant, conflicting, and superseded provisions removed.",
+  "summary": "Miscellaneous technical corrections to laws and statutes made; erroneous, obsolete, and omitted text and references corrected; and redundant, conflicting, and superseded provisions removed.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/HF4057/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/HF4057/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4057/",
+  "sponsors": [
+    "Peggy Scott (R) [Rep]",
+    "Tina Liebling (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-09",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2026-03-09",
+      "action": "Introduction and first reading, referred to Judiciary Finance and Civil Law",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-06",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4057/versions/0/pdf/",
+      "doc_id": 3388709
+    }
+  ],
+  "committee": {
+    "committee_id": 3806,
+    "chamber": "H",
+    "chamber_id": 55,
+    "name": "Judiciary Finance and Civil Law"
+  },
+  "subjects": []
+}

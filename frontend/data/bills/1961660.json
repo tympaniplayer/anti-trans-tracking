@@ -1,0 +1,58 @@
+{
+  "id": 1961660,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB405",
+  "title": "Protection of Women in Olympic and Amateur Sports Act",
+  "summary": "A bill to modify eligibility requirements for amateur sports governing organizations.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB405/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB405/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/405/all-info",
+  "sponsors": [
+    "Tommy Tuberville (R) [Sen]",
+    "Mike Lee (R) [Sen]",
+    "Kevin Cramer (R) [Sen]",
+    "James Justice (R) [Sen]",
+    "Jim Banks (R) [Sen]",
+    "Shelley Capito (R) [Sen]",
+    "Steve Daines (R) [Sen]",
+    "Rick Scott (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-05",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-02-05",
+      "action": "Read twice and referred to the Committee on Commerce, Science, and Transportation.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-11",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s405/BILLS-119s405is.pdf",
+      "doc_id": 3166236
+    }
+  ],
+  "committee": {
+    "committee_id": 2323,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Commerce, Science, And Transportation"
+  },
+  "subjects": [
+    "Sports and recreation"
+  ]
+}

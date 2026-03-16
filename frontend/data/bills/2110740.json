@@ -1,0 +1,62 @@
+{
+  "id": 2110740,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "H7540",
+  "title": "Require that routine childhood and adult immunization vaccine recommendations that are developed from evidence based, medically sound scientific research by the department of health.",
+  "summary": "HEALTH AND SAFETY -- DEPARTMENT OF HEALTH - Require that routine childhood and adult immunization vaccine recommendations that are developed from evidence based, medically sound scientific research by the department of health.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/H7540/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/H7540/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Teresa Tanzi (D) [Rep]",
+    "Michelle McGaw (D) [Rep]",
+    "Leonela Felix (D) [Rep]",
+    "Raymond Hull (D) [Rep]",
+    "John Lombardi (D) [Rep]",
+    "Jennifer Stewart (D) [Rep]",
+    "Joshua Giraldo (D) [Rep]",
+    "John Edwards (D) [Rep]",
+    "David Bennett (D) [Rep]",
+    "Susan Donovan (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-06",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "action": "Introduced, referred to House Health & Human Services",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H7540.pdf",
+      "doc_id": 3351710
+    }
+  ],
+  "committee": {
+    "committee_id": 4420,
+    "chamber": "H",
+    "chamber_id": 83,
+    "name": "Health & Human Services"
+  },
+  "subjects": [
+    "Health And Safety",
+    "HEALTH AND SAFETY -- DEPARTMENT OF HEALTH"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1960766,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB2548",
+  "title": "Relating to a prohibition on public institutions of higher education requiring students to enroll in certain courses to complete a certificate or degree program, using such courses to satisfy general education requirements, funding such courses using state appropriations, or requiring related faculty practices, and to freshman student orientation at those institutions.",
+  "summary": "Relating to a prohibition on public institutions of higher education requiring students to enroll in certain courses to complete a certificate or degree program, using such courses to satisfy general education requirements, funding such courses using state appropriations, or requiring related faculty practices, and to freshman student orientation at those institutions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB2548/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB2548/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2548",
+  "sponsors": [
+    "Cody Harris (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-06",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-06",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-17",
+      "action": "Referred to Higher Education",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-06",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB02548I.htm",
+      "doc_id": 3106837
+    }
+  ],
+  "committee": {
+    "committee_id": 1880,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Higher Education"
+  },
+  "subjects": [
+    "Education",
+    "Education--Higher",
+    "Education--Higher--Faculty",
+    "Education--Higher--Institutions & Programs",
+    "EDUCATION--HIGHER--CURRICULUM",
+    "Human Relations"
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "id": 2015587,
+  "state": "NC",
+  "state_name": "North Carolina",
+  "bill_number": "H560",
+  "title": "Parents Protection Act",
+  "summary": "Parents Protection Act",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NC/bill/H560/2025",
+  "legiscan_url": "https://legiscan.com/NC/bill/H560/2025",
+  "state_url": "https://www.ncleg.gov/BillLookUp/2025/H560",
+  "sponsors": [
+    "Donnie Loftis (R) [Rep]",
+    "Neal Jackson (R) [Rep]",
+    "Brian Biggs (R) [Rep]",
+    "Jennifer Balkcom (R) [Rep]",
+    "Jonathan Almond (R) [Rep]",
+    "John Blust (R) [Rep]",
+    "Jerry Branson (R) [Rep]",
+    "Celeste Cairns (R) [Rep]",
+    "Brian Echevarria (R) [Rep]",
+    "Blair Eddins (R) [Rep]",
+    "Francis Iler (R) [Rep]",
+    "Jake Johnson (R) [Rep]",
+    "Keith Kidwell (R) [Rep]",
+    "Jeffrey McNeely (R) [Rep]",
+    "Paul Scott (R) [Rep]",
+    "Bill Ward (R) [Rep]",
+    "David Willis (R) [Rep]"
+  ],
+  "introduced_date": "2025-03-27",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-03-27",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Passed 1st Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-31",
+      "action": "Ref to the Com on Health, if favorable, Judiciary 2, if favorable, Rules, Calendar, and Operations of the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Reptd Fav Com Substitute",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Re-ref Com On Judiciary 2",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Reptd Fav",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Re-ref Com On Rules, Calendar, and Operations of the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Reptd Fav",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Cal Pursuant Rule 36(b)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Placed On Cal For 05/07/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Withdrawn From Cal",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Cal Pursuant Rule 36(b)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Withdrawn From Cal",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-12",
+      "action": "Re-ref Com On Rules, Calendar, and Operations of the House",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-27",
+      "type": "Introduced",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H560v0.pdf",
+      "doc_id": 3191456
+    },
+    {
+      "date": "2025-03-31",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H560v1.pdf",
+      "doc_id": 3194572
+    },
+    {
+      "date": "2025-04-29",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H560v2.pdf",
+      "doc_id": 3224240
+    }
+  ],
+  "committee": {
+    "committee_id": 673,
+    "chamber": "H",
+    "chamber_id": 75,
+    "name": "Rules, Calendar, and Operations of the House"
+  },
+  "subjects": [
+    "Adoption",
+    "Child Abuse",
+    "Child Custody",
+    "Crimes",
+    "Foster Care",
+    "Lgbtq & Gender Issues",
+    "Minors",
+    "Public",
+    "Social Services",
+    "Family Issues"
+  ]
+}

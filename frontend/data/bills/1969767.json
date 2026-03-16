@@ -1,0 +1,65 @@
+{
+  "id": 1969767,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "HF700",
+  "title": "Minnesota Women's Bill of Rights created, and terms for all statutes and rules defined.",
+  "summary": "Minnesota Women's Bill of Rights created, and terms for all statutes and rules defined.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/HF700/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/HF700/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/700/",
+  "sponsors": [
+    "Natalie Zeleznikar (R) [Rep]",
+    "Krista Knudsen (R) [Rep]",
+    "Kristin Robbins (R) [Rep]",
+    "Ben Davis (R) [Rep]",
+    "Elliott Engen (R) [Rep]",
+    "Pam Altendorf (R) [Rep]",
+    "Roger Skraba (R) [Rep]"
+  ],
+  "introduced_date": "2025-02-13",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-02-13",
+      "action": "Introduction and first reading, referred to Judiciary Finance and Civil Law",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-20",
+      "action": "Author added Altendorf",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Author added Skraba",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-12",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/HF/700/versions/0/pdf/",
+      "doc_id": 3119130
+    }
+  ],
+  "committee": {
+    "committee_id": 3806,
+    "chamber": "H",
+    "chamber_id": 55,
+    "name": "Judiciary Finance and Civil Law"
+  },
+  "subjects": []
+}

@@ -1,0 +1,83 @@
+{
+  "id": 2029349,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HB4467",
+  "title": "Health: other; gender reassignment procedures or treatment for minors; prohibit. Creates new act.",
+  "summary": "Health: other; gender reassignment procedures or treatment for minors; prohibit. Creates new act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HB4467/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HB4467/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4467",
+  "sponsors": [
+    "Brad Paquette (R) [Rep]",
+    "Pat Outman (R) [Rep]",
+    "Angela Rigas (R) [Rep]",
+    "Gina Johnsen (R) [Rep]",
+    "Gregory Markkanen (R) [Rep]",
+    "Joseph Pavlov (R) [Rep]",
+    "Matthew Maddock (R) [Rep]",
+    "Joseph Fox (R) [Rep]",
+    "Jaime Greene (R) [Rep]",
+    "Steve Carra (R) [Rep]",
+    "Tom Kunse (R) [Rep]",
+    "David Martin (R) [Rep]",
+    "Josh Schriver (R) [Rep]",
+    "Jason Woolford (R) [Rep]",
+    "Jennifer Wortz (R) [Rep]",
+    "Luke Meerman (R) [Rep]"
+  ],
+  "introduced_date": "2025-05-07",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2025-05-07",
+      "action": "Introduced By Representative Rep. Brad Paquette",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Read A First Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Referred To Committee On Health Policy",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-08",
+      "action": "Bill Electronically Reproduced 05/07/2025",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-07",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4467.htm",
+      "doc_id": 3231393
+    }
+  ],
+  "committee": {
+    "committee_id": 892,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Health Policy"
+  },
+  "subjects": [
+    "Health: other",
+    "Health: children"
+  ]
+}

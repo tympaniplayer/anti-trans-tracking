@@ -1,0 +1,67 @@
+{
+  "id": 1890530,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB729",
+  "title": "Relating to the prohibition of housing discrimination on the basis of sexual orientation or gender identity and to the enforcement of that prohibition.",
+  "summary": "Relating to the prohibition of housing discrimination on the basis of sexual orientation or gender identity and to the enforcement of that prohibition.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB729/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB729/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB729",
+  "sponsors": [
+    "Diego Bernal (D) [Rep]"
+  ],
+  "introduced_date": "2024-11-12",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-12",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Referred to Trade, Workforce & Economic Development",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-11-12",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/HB00729I.htm",
+      "doc_id": 3026340
+    }
+  ],
+  "committee": {
+    "committee_id": 5191,
+    "chamber": "H",
+    "chamber_id": 91,
+    "name": "Trade, Workforce & Economic Development"
+  },
+  "subjects": [
+    "Housing",
+    "Housing--General",
+    "Human Relations",
+    "DISCRIMINATION",
+    "GENDER IDENTITY & EXPRESSION",
+    "SEXUAL ORIENTATION",
+    "WORKFORCE COMMISSION, TEXAS"
+  ]
+}

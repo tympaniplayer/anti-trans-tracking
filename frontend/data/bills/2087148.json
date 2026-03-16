@@ -1,0 +1,211 @@
+{
+  "id": 2087148,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB6248",
+  "title": "Addressing travel insurance.",
+  "summary": "Addressing travel insurance.",
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB6248/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB6248/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=6248&Year=2025&Initiative=false",
+  "sponsors": [
+    "Derek Stanford (D) [Sen]",
+    "Perry Dozier (R) [Sen]",
+    "Robert Hasegawa (D) [Sen]",
+    "Claudia Kauffman (D) [Sen]",
+    "T'wina Nobles (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-10",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-21",
+      "action": "First reading, referred to Business, Trade & Economic Development.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Public hearing in the Senate Committee on Business, Trade & Economic Development at 8:00 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Executive action taken in the Senate Committee on Business, Trade & Economic Development at 8:00 AM.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "BTE - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-04",
+      "action": "Passed to Rules Committee for second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Placed on second reading by Rules Committee.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "1st substitute bill substituted",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Third reading, passed; yeas, 48; nays, 1; absent, 0; excused, 0.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-14",
+      "action": "First reading, referred to Consumer Protection & Business.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Public hearing in the House Committee on Consumer Protection & Business at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Executive action taken in the House Committee on Consumer Protection & Business at 1:30 PM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "CPB - Majority; do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Referred to Appropriations.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Public hearing in the House Committee on Appropriations at 10:30 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Executive action taken in the House Committee on Appropriations at 10:30 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "APP - Majority; do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Referred to Rules 2 Review.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Rules Committee relieved of further consideration. Placed on second reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Rules suspended. Placed on Third Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "Third reading, passed; yeas, 94; nays, 0; absent, 0; excused, 4.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "President signed.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-05",
+      "action": "Speaker signed.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Delivered to Governor.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-04",
+      "description": "Senate Committee on Business, Trade & Economic Development: 1st substitute bill be substituted, do pass",
+      "yea": 9,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-11",
+      "description": "Senate 3rd Reading & Final Passage",
+      "yea": 48,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-25",
+      "description": "House Committee on Consumer Protection & Business: do pass",
+      "yea": 14,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-02",
+      "description": "House Committee on Appropriations: do pass",
+      "yea": 29,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-04",
+      "description": "House 3rd Reading & Final Passage",
+      "yea": 94,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/6248.pdf",
+      "doc_id": 3324633
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/6248-S.pdf",
+      "doc_id": 3348973
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Enrolled",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Passed%20Legislature/6248-S.PL.pdf",
+      "doc_id": 3393424
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

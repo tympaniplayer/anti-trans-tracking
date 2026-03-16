@@ -1,0 +1,106 @@
+{
+  "id": 1943677,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1672",
+  "title": "Addressing technology used by employers in the workplace.",
+  "summary": "Addressing technology used by employers in the workplace.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1672/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1672/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1672&Year=2025&Initiative=false",
+  "sponsors": [
+    "Shelley Kloba (D) [Rep]",
+    "Monica Stonier (D) [Rep]",
+    "Mary Fosse (D) [Rep]",
+    "Beth Doglio (D) [Rep]",
+    "Lisa Parshley (D) [Rep]",
+    "Liz Berry (D) [Rep]",
+    "Julia Reed (D) [Rep]",
+    "Julio Cortes (D) [Rep]",
+    "Dan Bronoske (D) [Rep]",
+    "Cindy Ryu (D) [Rep]",
+    "Alex Ramel (D) [Rep]",
+    "Shaun Scott (D) [Rep]",
+    "Jamila Taylor (D) [Rep]",
+    "Tarra Simmons (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-28",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-28",
+      "action": "First reading, referred to Labor & Workplace Standards.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-11",
+      "action": "Public hearing in the House Committee on Labor & Workplace Standards at 10:30 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Executive action taken in the House Committee on Labor & Workplace Standards at 8:00 AM.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "LAWS - Majority; 1st substitute bill be substituted, do pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Minority; do not pass.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-21",
+      "action": "Referred to Appropriations.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-19",
+      "description": "House Committee on Labor & Workplace Standards: 1st substitute bill be substituted, do pass",
+      "yea": 6,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1672.pdf",
+      "doc_id": 3085117
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1672-S.pdf",
+      "doc_id": 3132908
+    }
+  ],
+  "committee": {
+    "committee_id": 2759,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Appropriations"
+  },
+  "subjects": []
+}

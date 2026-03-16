@@ -1,0 +1,203 @@
+{
+  "id": 2055093,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "HB1663",
+  "title": "Modifies guidelines for student participation in athletic contests organized by sex",
+  "summary": "Modifies guidelines for student participation in athletic contests organized by sex",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "sports",
+    "education"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/HB1663/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/HB1663/2026",
+  "state_url": "https://house.mo.gov/Bill.aspx?bill=HB1663&year=2026&code=R",
+  "sponsors": [
+    "Brian Seitz (R) [Rep]",
+    "Bill Irwin (R) [Rep]",
+    "John Hewkin (R) [Rep]",
+    "Ann Kelley (R) [Rep]",
+    "Ed Lewis (R) [Rep]",
+    "Melissa Schmidt (R) [Rep]",
+    "Burt Whaley (R) [Rep]",
+    "Terri Violet (R) [Rep]",
+    "Deanna Self (R) [Rep]",
+    "Holly Jones (R) [Rep]",
+    "Jeff Vernetti (R) [Rep]",
+    "Cathy Loy (R) [Rep]",
+    "Bob Titus (R) [Rep]",
+    "Lisa Durnell (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-26",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Prefiled (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Read First Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Read Second Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Referred: Emerging Issues(H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Public Hearing Completed (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Executive Session Completed (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "HCS Voted Do Pass (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "HCS Reported Do Pass (H) - AYES: 9 NOES: 4 PRESENT: 0",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Referred: Rules - Administrative(H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Executive Session Completed (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Voted Do Pass (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Reported Do Pass (H) - AYES: 6 NOES: 3 PRESENT: 0",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "Placed on the Informal Perfection Calendar (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Taken Up for Perfection (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Title of Bill - Agreed To",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "HCS Adopted (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-23",
+      "action": "Perfected (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-24",
+      "action": "Referred: Fiscal Review(H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Executive Session Completed (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Voted Do Pass (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Reported Do Pass (H) - AYES: 5 NOES: 2 PRESENT: 0",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Taken Up for Third Reading (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Third Read and Passed (H) - AYES: 98 NOES: 37 PRESENT: 2",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-26",
+      "action": "Reported to the Senate and First Read (S)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Second read and referred: Education(S)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-26",
+      "description": "House: HBs FOR THIRD READING HCS HBs 1663, 1607 & 1973",
+      "yea": 98,
+      "nay": 37,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-12-01",
+      "type": "Introduced",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/3933H.01I.pdf",
+      "doc_id": 3286447
+    },
+    {
+      "date": "2026-01-28",
+      "type": "Comm Sub",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/3933H.02C.pdf",
+      "doc_id": 3339370
+    },
+    {
+      "date": "2026-02-23",
+      "type": "Engrossed",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/3933H.02P.pdf",
+      "doc_id": 3373084
+    }
+  ],
+  "committee": {
+    "committee_id": 2263,
+    "chamber": "S",
+    "chamber_id": 60,
+    "name": "Education"
+  },
+  "subjects": []
+}

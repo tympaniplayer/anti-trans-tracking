@@ -1,0 +1,67 @@
+{
+  "id": 1910947,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A01565",
+  "title": "Establishes the homeless protection act which designates certain offenses against homeless persons as hate crimes; includes the definition of homelessness.",
+  "summary": "Establishes the homeless protection act which designates certain offenses against homeless persons as hate crimes; includes the definition of homelessness.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A01565/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A01565/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A1565",
+  "sponsors": [
+    "Linda Rosenthal (D) [Rep]",
+    "Andrew Hevesi (D) [Rep]",
+    "Demond Meeks (D) [Rep]",
+    "Alfred Taylor (D) [Rep]",
+    "Harvey Epstein (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Tony Simone (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Zohran Kwame Mamdani (D) [Rep]",
+    "Rebecca Seawright (D) [Rep]",
+    "Karines Reyes (D) [Rep]",
+    "Anna Kelles (D) [Rep]",
+    "Yudelka Tapia (D) [Rep]",
+    "Catalina Cruz (D) [Rep]"
+  ],
+  "introduced_date": "2025-01-10",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-10",
+      "action": "referred to codes",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to codes",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-10",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A01565&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A01565",
+      "doc_id": 3047754
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

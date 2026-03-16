@@ -1,0 +1,118 @@
+{
+  "id": 2070666,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "HB278",
+  "title": "Human Services - Department of Aging and Commission on Aging (The Longevity Ready Maryland Act)",
+  "summary": "Requiring the Secretary of Aging to lead implementation of the Longevity Ready Maryland Plan which is a multisector plan on aging that transforms programs, services, policies, institutions, and systems to address the growing population of older adults in the State; requiring the Department to maintain a publicly accessible resource on the Department's website for monitoring implementation of the Longevity Ready Maryland Plan; and requiring the Department of Aging to staff the Commission on Aging.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/HB278/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/HB278/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0278?ys=2026RS",
+  "sponsors": [
+    "Health [Rep]"
+  ],
+  "introduced_date": "2026-02-19",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-09-24",
+      "action": "Pre-filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "First Reading Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Hearing 2/05 at 1:45 p.m.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "Favorable with Amendments Report by Health",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Favorable with Amendments {863520/1 Adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Second Reading Passed with Amendments",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Third Reading Passed (102-32)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Referred Finance",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-19",
+      "description": "Third Reading Passed",
+      "yea": 102,
+      "nay": 32,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-11",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0278f.pdf",
+      "doc_id": 3310061
+    },
+    {
+      "date": "2026-02-17",
+      "type": "Engrossed",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0278t.pdf",
+      "doc_id": 3364640
+    }
+  ],
+  "committee": {
+    "committee_id": 1932,
+    "chamber": "S",
+    "chamber_id": 50,
+    "name": "Finance"
+  },
+  "subjects": [
+    "Elderly",
+    "Accessibility - see also- Blind; Deaf; Disabilities; etc",
+    "Aging, Department of",
+    "Committee Changes",
+    "Committees and Commissions",
+    "Elderly Persons (65+)",
+    "General Assembly",
+    "Governor",
+    "Health",
+    "Intergovernmental Cooperation",
+    "meetings",
+    "Mental and Behavioral Health",
+    "Plans and Proposals",
+    "Reports",
+    "Time",
+    "Demographics",
+    "Caregivers",
+    "Electronic Documents",
+    "internet"
+  ]
+}

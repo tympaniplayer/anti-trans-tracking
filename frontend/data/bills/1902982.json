@@ -1,0 +1,102 @@
+{
+  "id": 1902982,
+  "state": "ME",
+  "state_name": "Maine",
+  "bill_number": "LD10",
+  "title": "An Act to Add Political Affiliation as a Protected Class to the Maine Human Rights Act",
+  "summary": "An Act to Add Political Affiliation as a Protected Class to the Maine Human Rights Act",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/ME/bill/LD10/2025",
+  "legiscan_url": "https://legiscan.com/ME/bill/LD10/2025",
+  "state_url": "https://legislature.maine.gov/legis/bills/display_ps.asp?LD=10&snum=132",
+  "sponsors": [
+    "James Libby (R) [Sen]"
+  ],
+  "introduced_date": "2025-06-04",
+  "session": "132nd Legislature",
+  "actions": [
+    {
+      "date": "2025-01-08",
+      "action": "Received by the Secretary of the Senate on January 6, 2025 and REFERRED to the Committee on JUDICIARY pursuant to Joint Rule 308.2",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Work Session Held",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-03-14",
+      "action": "Voted: Divided Report",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "CARRIED OVER, in the same posture, to the next special or regular session of the 132nd Legislature, pursuant to Joint Order SP 519.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Reports READ",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Reported Out: ONTP/OTP-AM",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "On motion by Senator TALBOT ROSS of Cumberland The Majority Ought Not To Pass Report ACCEPTED",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Sent down for concurrence",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "Reports READ.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "On motion of Representative KUHN of Falmouth, the Majority Ought Not to Pass Report was ACCEPTED.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "In concurrence. ORDERED SENT FORTHWITH.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "Placed in the Legislative Files. (DEAD)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://legislature.maine.gov/legis/bills/getPDF.asp?paper=SP0023&item=1&snum=132",
+      "doc_id": 3039672
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Human Rights",
+    "Discrimination"
+  ]
+}

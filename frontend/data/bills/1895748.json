@@ -1,0 +1,62 @@
+{
+  "id": 1895748,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "HB1027",
+  "title": "Concerning housing of inmates in state correctional facilities.",
+  "summary": "Concerning housing of inmates in state correctional facilities.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/HB1027/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/HB1027/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1027&Year=2025&Initiative=false",
+  "sponsors": [
+    "Cyndy Jacobsen (R) [Rep]",
+    "Matt Marshall (R) [Rep]",
+    "Brian Burnett (R) [Rep]",
+    "Travis Couture (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-13",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2024-12-10",
+      "action": "Prefiled for introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-13",
+      "action": "First reading, referred to Community Safety.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-12",
+      "action": "By resolution, reintroduced and retained in present status.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-12-10",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/House%20Bills/1027.pdf",
+      "doc_id": 3031893
+    }
+  ],
+  "committee": {
+    "committee_id": 4994,
+    "chamber": "H",
+    "chamber_id": 97,
+    "name": "Community Safety"
+  },
+  "subjects": []
+}

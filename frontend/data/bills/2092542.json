@@ -1,0 +1,106 @@
+{
+  "id": 2092542,
+  "state": "NM",
+  "state_name": "New Mexico",
+  "bill_number": "SB111",
+  "title": "Motor Vehicle Code \"personal Info\"",
+  "summary": "Motor Vehicle Code \"personal Info\"",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NM/bill/SB111/2026",
+  "legiscan_url": "https://legiscan.com/NM/bill/SB111/2026",
+  "state_url": "https://www.nmlegis.gov/Legislation/Legislation?chamber=S&legtype=B&legno=111&year=26",
+  "sponsors": [
+    "Antoinette Sedillo Lopez (D) [Sen]",
+    "Cristina Parajon (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-03",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Sent to SCC - Referrals: SCC/SHPAC/STBTC",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "SCC: Reported by committee to fall within the purview of a 30 day session",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-07",
+      "action": "SHPAC: Reported by committee with Do Pass recommendation",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-13",
+      "action": "STBTC: Reported by committee with Do Pass recommendation",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-14",
+      "action": "Passed in the Senate - Y:26 N:16",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-15",
+      "action": "Sent to HTPWC - Referrals: HTPWC",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "HTPWC: Reported by committee with Do Pass recommendation",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Passed in the House of Representatives - Y:37 N:24",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "Signed by Governor - Chapter 11 - Mar. 3",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-14",
+      "description": "Senate Final Passage",
+      "yea": 26,
+      "nay": 16,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-18",
+      "description": "House Final Passage",
+      "yea": 37,
+      "nay": 24,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-23",
+      "type": "Introduced",
+      "url": "https://www.nmlegis.gov/Sessions/26%20Regular/bills/senate/SB0111.pdf",
+      "doc_id": 3331260
+    },
+    {
+      "date": "2026-03-04",
+      "type": "Enrolled",
+      "url": "https://www.nmlegis.gov/Sessions/26%20Regular/final/SB0111.pdf",
+      "doc_id": 3386756
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

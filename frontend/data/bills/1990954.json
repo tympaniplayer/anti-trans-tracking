@@ -1,0 +1,238 @@
+{
+  "id": 1990954,
+  "state": "WI",
+  "state_name": "Wisconsin",
+  "bill_number": "AB103",
+  "title": "School board policies related to changing a pupil\u2019s legal name and pronouns.",
+  "summary": "An Act to create 118.1255 of the statutes; Relating to: school board policies related to changing a pupil\u2019s legal name and pronouns.",
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WI/bill/AB103/2025",
+  "legiscan_url": "https://legiscan.com/WI/bill/AB103/2025",
+  "state_url": "https://docs.legis.wisconsin.gov/2025/proposals/reg/asm/bill/ab103",
+  "sponsors": [
+    "Barbara Dittrich (R) [Rep]",
+    "Elijah Behnke (R) [Rep]",
+    "Brent Jacobson (R) [Rep]",
+    "Rob Kreibich (R) [Rep]",
+    "Dave Maxey (R) [Rep]",
+    "Jerry O'Connor (R) [Rep]",
+    "Ron Tusler (R) [Rep]",
+    "Jeffrey Mursau (R) [Rep]",
+    "Andre Jacque (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-16",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-04",
+      "action": "Introduced",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Read first time and referred to Committee on Education",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-04",
+      "action": "Representative Murphy added as a coauthor",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Representative Goeben added as a coauthor",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Senator Tomczyk added as a cosponsor",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-06",
+      "action": "Public hearing held",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Representative Wichgers added as a coauthor",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Assembly Amendment 1 offered by Representative Dittrich",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Executive action taken",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Report Assembly Amendment 1 adoption recommended by Committee on Education, Ayes 7, Noes 4",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Report passage as amended recommended by Committee on Education, Ayes 7, Noes 4",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-13",
+      "action": "Referred to committee on Rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-18",
+      "action": "Placed on calendar 3-20-2025 by Committee on Rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Read a second time",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Assembly Amendment 1 adopted",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Ordered to a third reading",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Rules suspended",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Read a third time and passed, Ayes 50, Noes 43",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Ordered immediately messaged",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-03-20",
+      "action": "Received from Assembly",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-21",
+      "action": "Read first time and referred to committee on Education",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-06",
+      "action": "Public hearing held",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-09",
+      "action": "Executive action taken",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-09",
+      "action": "Report concurrence recommended by Committee on Education, Ayes 3, Noes 2",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-09",
+      "action": "Available for scheduling",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-09",
+      "action": "Placed on calendar 2-11-2026 pursuant to Senate Rule 18(1)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Read a second time",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Ordered to a third reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Rules suspended to give bill its third reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Read a third time and concurred in, Ayes 18, Noes 15",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Ordered immediately messaged",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Received from Senate concurred in",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "LRB correction (Assembly Amendment 1)",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-16",
+      "action": "Report correctly enrolled on 2-16-2026",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-03-20",
+      "description": "Assembly: Read a third time and passed",
+      "yea": 50,
+      "nay": 43,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-11",
+      "description": "Senate: Read a third time and concurred in",
+      "yea": 18,
+      "nay": 15,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-03-04",
+      "type": "Introduced",
+      "url": "https://docs.legis.wisconsin.gov/document/proposaltext/2025/REG/AB103.pdf",
+      "doc_id": 3151849
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Enrolled",
+      "url": "https://docs.legis.wisconsin.gov/document/enrolledbills/2025/REG/AB103.pdf",
+      "doc_id": 3362649
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

@@ -1,0 +1,123 @@
+{
+  "id": 2066293,
+  "state": "KY",
+  "state_name": "Kentucky",
+  "bill_number": "SB181",
+  "title": "AN ACT relating to schools and declaring an emergency.",
+  "summary": "Amend KRS 160.145 to expand existing definitions and define \"private electronic communication\" and \"qualified school volunteer\"; limit the scope of unauthorized electronic communication to private electronic communication and exclude designated types of communication from the scope of the requirement to obtain written parental consent prior to communicating outside of the traceable communication system; limit the scope of the school volunteers subject to this section to qualified school volunteers; specify that the requirement to obtain written parental consent only applies to students enrolled within the same school district as the school district employee or qualified school volunteer; permit a local school district more flexibility in disciplinary actions arising from a violation of this section; permit a written parental consent form to designate more than 1 school district employee or qualified school volunteer; provide that the written consent may be revoked by the parent who filed the consent; require notice of the revocation to be sent to the identified school district employee or qualified school volunteer; prohibit a school or school district from refusing to accept parental consent forms; prohibit requiring parental consent forms under this section as a requirement for a student to participate in an academic, athletic, or extracurricular opportunity; provide an emergency exception to permit a school district employee or qualified school volunteer to communicate electronically without prior written parental consent if the individual discloses the communication after the fact; permit a school district to reconsider allowing previously prohibited volunteers; create a new section of KRS Chapter 160 to prohibit a public school district or public charter school from entering into a nondisclosure agreement relating to unauthorized electronic communication or misconduct involving a minor or student; amend KRS 160.380 to define \"abusive conduct\"; require school district applicants to disclose being the subject of any disciplinary actions in the previous 12 months relating to abusive conduct and consent to a reference check; require school districts to conduct reference checks; require nonpublic schools and public school districts to disclose any disciplinary actions related to abusive conduct of applicants; provide immunity for disclosures made about school employee conduct; require school districts to request all related information from public and nonpublic schools and the Education Professional Standards Board (ESPB); require schools and EPSB to provide the records; require requests for information to be satisfied in 10 working days; require EPSB to create and implement procedures for information requests; require all school district applicants to list all schools of previous and current employment on the application; require a school district to internally report and investigate to completion all allegations of abusive conduct; require all records relating to an allegation of abusive conduct to be retained in an employee's personnel file unless the allegation is proven false; provide that certain requirements apply to public charter schools; amend KRS 156.160 to direct the Kentucky Board of Education to include employment standards in the voluntary certification standards for private schools; make technical corrections; amend KRS 160.151 to define \"certified nonpublic school\"; require employees of certified nonpublic schools to submit to a national and state criminal background check and a CA/N check; require certified nonpublic school personnel to have a state criminal background check every 5 years; prohibit a certified nonpublic school from hiring a violent or felony sex crime offender; require a certified nonpublic school to conduct reference checks on all applicants; prohibit a certified nonpublic school from entering into a nondisclosure agreement related to misconduct involving a minor or student; make technical corrections; amend KRS 156.095 to require the Kentucky Department of Education to develop a training related to sexual misconduct and inappropriate relationships for employees to undergo every 5 years; make technical corrections; amend KRS 161.151 to conform; require that an allegation of abusive conduct be reported pursuant to KRS 620.030; amend KRS 158.4431, 156.492, and 158.200 to conform; provide that Section 2 may be cited as Erin's Law; EMERGENCY.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education",
+    "definitions",
+    "sports"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/KY/bill/SB181/2026",
+  "legiscan_url": "https://legiscan.com/KY/bill/SB181/2026",
+  "state_url": "https://apps.legislature.ky.gov/record/26RS/sb181.html",
+  "sponsors": [
+    "Lindsey Tichenor (R) [Sen]",
+    "Gary Boswell (R) [Sen]",
+    "Donald Douglas (R) [Sen]",
+    "Shelley Frommeyer (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-28",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-06",
+      "action": "introduced in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-06",
+      "action": "to Committee on Committees (S)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "to Education (S)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "reported favorably, 1st reading, to Calendar with Committee Substitute (1)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "floor amendments (1) and (2) filed to Committee Substitute",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "2nd reading, to Rules",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-23",
+      "action": "posted for passage in the Regular Orders of the Day for Monday, January 26, 2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "3rd reading, passed with 33-0 Committee Substitute (1) and Floor Amendments (1) and (2)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "received in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "to Committee on Committees (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-01-27",
+      "description": "Senate: Third Reading RSN# 3783",
+      "yea": 33,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb181/orig_bill.pdf",
+      "doc_id": 3300745
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://apps.legislature.ky.gov/recorddocuments/bill/26RS/sb181/bill.pdf",
+      "doc_id": 3333957
+    }
+  ],
+  "committee": {
+    "committee_id": 317,
+    "chamber": "H",
+    "chamber_id": 43,
+    "name": "Committee On Committees"
+  },
+  "subjects": [
+    "Background Checks",
+    "Boards and Commissions",
+    "Children and Minors",
+    "Education, Elementary and Secondary",
+    "Effective Dates, Emergency",
+    "Parental Rights",
+    "Short Titles and Popular Names",
+    "State Agencies",
+    "Teachers"
+  ]
+}

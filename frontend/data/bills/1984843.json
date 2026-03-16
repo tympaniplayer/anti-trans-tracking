@@ -1,0 +1,59 @@
+{
+  "id": 1984843,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF1883",
+  "title": "Women's athletics exemption creation in the Human Rights Act",
+  "summary": "Women's athletics exemption creation in the Human Rights Act",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports",
+    "religious_exemptions"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF1883/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF1883/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1883/",
+  "sponsors": [
+    "Karin Housley (R) [Sen]",
+    "Julia Coleman (R) [Sen]",
+    "Carla Nelson (R) [Sen]",
+    "Warren Limmer (R) [Sen]",
+    "Michael Kreun (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "Referred to Judiciary and Public Safety",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-24",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2025/0/SF/1883/versions/0/pdf/",
+      "doc_id": 3142967
+    }
+  ],
+  "committee": {
+    "committee_id": 1748,
+    "chamber": "S",
+    "chamber_id": 56,
+    "name": "Judiciary and Public Safety"
+  },
+  "subjects": []
+}

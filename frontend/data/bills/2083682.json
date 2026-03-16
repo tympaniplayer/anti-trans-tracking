@@ -1,0 +1,57 @@
+{
+  "id": 2083682,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB3680",
+  "title": "Eliminating Bias in Algorithmic Systems Act of 2026",
+  "summary": "A bill to require agencies that use, fund, or oversee algorithms to have an office of civil rights focused on bias, discrimination, and other harms of algorithms, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB3680/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB3680/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3680/all-info",
+  "sponsors": [
+    "Edward Markey (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Cory Booker (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-15",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-01-15",
+      "action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-05",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s3680/BILLS-119s3680is.pdf",
+      "doc_id": 3350972
+    }
+  ],
+  "committee": {
+    "committee_id": 2329,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Homeland Security And Governmental Affairs"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1970494,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB1354",
+  "title": "Justice for All Act of 2025",
+  "summary": "To amend the Civil Rights Act of 1964 to clarify that disparate impacts on certain populations constitute a sufficient basis for rights of action under such Act, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB1354/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB1354/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/1354/all-info",
+  "sponsors": [
+    "Rashida Tlaib (D) [Rep]",
+    "Emanuel Cleaver (D) [Rep]",
+    "Summer Lee (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Jesus Garcia (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Sydney Kamlager-Dove (D) [Rep]",
+    "LaMonica McIver (D) [Rep]",
+    "Maxwell Frost (D) [Rep]",
+    "Alma Adams (D) [Rep]",
+    "Ayanna Pressley (D) [Rep]",
+    "Jonathan Jackson (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Kweisi Mfume (D) [Rep]",
+    "Al Green (D) [Rep]",
+    "Cleo Fields (D) [Rep]",
+    "Gregory Meeks (D) [Rep]",
+    "Valerie Foushee (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-13",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-02-13",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-13",
+      "action": "Referred to the Committee on the Judiciary, and in addition to the Committee on Education and Workforce, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-12",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr1354/BILLS-119hr1354ih.pdf",
+      "doc_id": 3172151
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

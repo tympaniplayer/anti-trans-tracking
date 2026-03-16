@@ -1,0 +1,55 @@
+{
+  "id": 2080482,
+  "state": "WA",
+  "state_name": "Washington",
+  "bill_number": "SB6167",
+  "title": "Prohibiting homebuyers from receiving multiple state-funded down payment assistance loans or grants.",
+  "summary": "Prohibiting homebuyers from receiving multiple state-funded down payment assistance loans or grants.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/WA/bill/SB6167/2025",
+  "legiscan_url": "https://legiscan.com/WA/bill/SB6167/2025",
+  "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=6167&Year=2025&Initiative=false",
+  "sponsors": [
+    "Keith Goehner (R) [Sen]",
+    "Chris Gildon (R) [Sen]"
+  ],
+  "introduced_date": "2026-01-15",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-15",
+      "action": "First reading, referred to Housing.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Public hearing in the Senate Committee on Housing at 10:30 AM.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Senate%20Bills/6167.pdf",
+      "doc_id": 3317571
+    }
+  ],
+  "committee": {
+    "committee_id": 4675,
+    "chamber": "S",
+    "chamber_id": 98,
+    "name": "Housing"
+  },
+  "subjects": []
+}

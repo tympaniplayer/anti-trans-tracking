@@ -1,0 +1,58 @@
+{
+  "id": 2101671,
+  "state": "VT",
+  "state_name": "Vermont",
+  "bill_number": "H0826",
+  "title": "An act relating to land access and opportunity",
+  "summary": "An act relating to land access and opportunity",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VT/bill/H0826/2025",
+  "legiscan_url": "https://legiscan.com/VT/bill/H0826/2025",
+  "state_url": "https://legislature.vermont.gov/bill/status/2026/H.826",
+  "sponsors": [
+    "Brian Cina (D) [Rep]",
+    "Emily Carris-Duncan (D) [Rep]",
+    "Michelle Bos-Lun (D) [Rep]",
+    "Elizabeth Burrows (D) [Rep]",
+    "Esme Cole (D) [Rep]",
+    "Saudia Lamont (D) [Rep]",
+    "Kate Logan (D) [Rep]",
+    "Jubilee McGill (D) [Rep]",
+    "Phil Pouech (D) [Rep]",
+    "Chloe Tomlinson (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-29",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "action": "Read first time and referred to the Committee on General and Housing",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-29",
+      "type": "Introduced",
+      "url": "https://legislature.vermont.gov/Documents/2026/Docs/BILLS/H-0826/H-0826%20As%20Introduced.pdf",
+      "doc_id": 3340950
+    }
+  ],
+  "committee": {
+    "committee_id": 4666,
+    "chamber": "H",
+    "chamber_id": 95,
+    "name": "General and Housing"
+  },
+  "subjects": []
+}

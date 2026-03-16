@@ -1,0 +1,57 @@
+{
+  "id": 2054822,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "HB1779",
+  "title": "Establishes the \"Defining SEX Act\"",
+  "summary": "Establishes the \"Defining SEX Act\"",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/HB1779/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/HB1779/2026",
+  "state_url": "https://house.mo.gov/Bill.aspx?bill=HB1779&year=2026&code=R",
+  "sponsors": [
+    "Cathy Loy (R) [Rep]",
+    "Josh Hurlbert (R) [Rep]",
+    "Becky Laubinger (R) [Rep]",
+    "Jeff Myers (R) [Rep]"
+  ],
+  "introduced_date": "2026-01-07",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-01",
+      "action": "Prefiled (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "Read First Time (H)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-08",
+      "action": "Read Second Time (H)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-01",
+      "type": "Introduced",
+      "url": "https://documents.house.mo.gov/billtracking/bills261/hlrbillspdf/3990H.01I.pdf",
+      "doc_id": 3286332
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

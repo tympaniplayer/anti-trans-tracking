@@ -1,0 +1,128 @@
+{
+  "id": 2092705,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HB1877",
+  "title": "Relating To The Hawaii State Lesbian, Gay, Bisexual, Transgender, Queer, Plus Commission.",
+  "summary": "Expands the membership of the Hawaii State Lesbian, Gay, Bisexual, Transgender, Queer Plus Commission from eight voting members to eleven by adding one seat for a person under the age of twenty-nine and one seat each for the appointees of the Speaker of the House of Representatives and Senate President, respectively. Effective 7/1/3000. (HD1)",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HB1877/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HB1877/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1877&year=2026",
+  "sponsors": [
+    "Adrian Tam (D) [Rep]",
+    "Terez Amato (D) [Rep]",
+    "Tina Grandinetti (D) [Rep]",
+    "Greggor Ilagan (D) [Rep]",
+    "Amy Perruso (D) [Rep]",
+    "Jackson Sayama (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-10",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Pending introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Introduced and Pass First Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Referred to HSH, JHA, referral sheet 2",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Bill scheduled to be heard by HSH on Thursday, 02-12-26 10:30AM in House conference room 329 VIA VIDEOCONFERENCE.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "The committee on HSH recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 6 Ayes: Representative(s) Marten, Olds, Amato, Hartsfield, Keohokapu-Lee Loy, Takayama; Ayes with reservations: none; 2 Noes: Representative(s) Alcos, Garcia; and 1 Excused: Representative(s) Takenouchi.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Reported from HSH (Stand. Com. Rep. No. 377-26) as amended in HD 1, recommending passage on Second Reading and referral to JHA.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Passed Second Reading as amended in HD 1 and referred to the committee(s) on JHA with none voting aye with reservations; Representative(s) Alcos, Garcia, Pierick voting no (3) and none excused (0).",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Bill scheduled to be heard by JHA on Wednesday, 03-04-26 2:00PM in House conference room 325 VIA VIDEOCONFERENCE.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-04",
+      "action": "The committee on JHA recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 7 Ayes: Representative(s) Tarnas, Poepoe, Hashem, Kahaloa, Sayama, Takayama, Shimizu; Ayes with reservations: none; 1 Noes: Representative(s) Garcia; and 2 Excused: Representative(s) Belatti, Cochran.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-06",
+      "action": "Reported from JHA (Stand. Com. Rep. No. 1129-26), recommending passage on Third Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Passed Third Reading with none voting aye with reservations; Representative(s) Alcos, Garcia, Muraoka, Pierick voting no (4) and none excused (0). Transmitted to Senate.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Received from House (Hse. Com. No. 307).",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-12",
+      "action": "Referred to HHS, WAM.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-23",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1877_.HTM",
+      "doc_id": 3331430
+    },
+    {
+      "date": "2026-02-17",
+      "type": "Amended",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1877_HD1_.HTM",
+      "doc_id": 3365406
+    }
+  ],
+  "committee": {
+    "committee_id": 4751,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Health and Human Services"
+  },
+  "subjects": [
+    "Membership",
+    "Hawaii State Lesbian, Gay, Bisexual, Transgender, Queer Plus Commission"
+  ]
+}

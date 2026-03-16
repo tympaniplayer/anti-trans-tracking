@@ -1,0 +1,77 @@
+{
+  "id": 2079113,
+  "state": "VA",
+  "state_name": "Virginia",
+  "bill_number": "HB1253",
+  "title": "Property insurance; use of aerial or satellite imagery.",
+  "summary": "Property insurance; use of aerial or satellite imagery. Prohibits an insurer from refusing to renew a policy written to insure an owner-occupied dwelling based on information obtained through the use of aerial or satellite imagery unless (i) such imagery has been captured not more than 12 months prior to the nonrenewal notice; (ii) the nonrenewal notice includes date-stamped aerial or satellite images of the insured property identifying the specific conditions that form the basis for nonrenewal and specifies any action that the insured may take to remedy such conditions; (iii) the insurer provides the insured a period of not less than 90 days to cure the identified conditions before the nonrenewal takes effect; and (iv) the insurer establishes a point of contact for the insured to submit documentation and a process to review such documentation. The bill requires the insurer to offer to renew coverage if the insured provides documentation, within the 90-day period, demonstrating that the identified conditions have been cured to the insurer's reasonable satisfaction.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/VA/bill/HB1253/2026",
+  "legiscan_url": "https://legiscan.com/VA/bill/HB1253/2026",
+  "state_url": "https://lis.virginia.gov/bill-details/20261/HB1253",
+  "sponsors": [
+    "Jackie Glass (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-14",
+  "session": "2026 Regular Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-14",
+      "action": "Prefiled and ordered printed; Offered 01-14-2026 26103345D",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Referred to Committee on Labor and Commerce",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Assigned HCL sub: Subcommittee #1",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Subcommittee recommends striking from the docket (9-Y 0-N)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "Left in Labor and Commerce",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-10",
+      "description": "Subcommittee recommends striking from the docket (9-Y 0-N)",
+      "yea": 9,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-14",
+      "type": "Introduced",
+      "url": "https://lis.virginia.gov/bill-details/20261/HB1253/text/HB1253",
+      "doc_id": 3316100
+    }
+  ],
+  "committee": {
+    "committee_id": 4178,
+    "chamber": "H",
+    "chamber_id": 7,
+    "name": "Labor and Commerce"
+  },
+  "subjects": []
+}

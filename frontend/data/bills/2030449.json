@@ -1,0 +1,151 @@
+{
+  "id": 2030449,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A08295",
+  "title": "Regulates automated decision-making by government agencies; requires agencies to conduct impact assessments; requires disclosure of automated decision-making tools utilized by governmental agencies.",
+  "summary": "Regulates automated decision-making by government agencies; requires agencies to conduct impact assessments; requires disclosure of automated decision-making tools utilized by governmental agencies.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A08295/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A08295/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A8295",
+  "sponsors": [
+    "Steven Otis (D) [Rep]",
+    "John McDonald (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "William Colton (D) [Rep]",
+    "Jessica Gonzalez-Rojas (D) [Rep]",
+    "Sarahana Shrestha (D) [Rep]",
+    "Doug Smith (R) [Rep]",
+    "Jennifer Lunsford (D) [Rep]",
+    "Dana Levenberg (D) [Rep]",
+    "Maryjane Shimsky (D) [Rep]",
+    "Amy Paulin (D) [Rep]",
+    "Rebecca Kassay (D) [Rep]",
+    "Karen McMahon (D) [Rep]",
+    "Angelo Santabarbara (D) [Rep]"
+  ],
+  "introduced_date": "2025-05-12",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-12",
+      "action": "referred to science and technology",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "amend and recommit to science and technology",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-14",
+      "action": "print number 8295a",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "amend (t) and recommit to science and technology",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-23",
+      "action": "print number 8295b",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "reported referred to rules",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "reported",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "rules report cal.406",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "ordered to third reading rules cal.406",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "amended on third reading 8295c",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-09",
+      "action": "amended on third reading 8295d",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-06-16",
+      "action": "substituted by s7599c",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-29",
+      "description": "Assembly Science And Technology Committee: Favorable refer to committee Rules",
+      "yea": 8,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-06-04",
+      "description": "Assembly Rules Committee: Favorable",
+      "yea": 28,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-05-12",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08295&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08295",
+      "doc_id": 3234846
+    },
+    {
+      "date": "2025-05-12",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08295&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08295A",
+      "doc_id": 3236864
+    },
+    {
+      "date": "2025-05-12",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08295&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08295B",
+      "doc_id": 3244076
+    },
+    {
+      "date": "2025-05-12",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08295&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08295C",
+      "doc_id": 3251877
+    },
+    {
+      "date": "2025-05-12",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08295&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08295D",
+      "doc_id": 3253786
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

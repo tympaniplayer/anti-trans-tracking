@@ -1,0 +1,61 @@
+{
+  "id": 2033895,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "SB209",
+  "title": "Enact the Jeff, Dave, and Angie Patient Right to Try Act",
+  "summary": "To enact section 3792.08 of the Revised Code regarding prescribing, dispensing, and administering drugs and to name this act the Jeff, Dave, and Angie Patient Right to Try Act.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/SB209/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/SB209/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/sb209",
+  "sponsors": [
+    "Alessandro Cutrona (R) [Sen]",
+    "Michele Reynolds (R) [Sen]",
+    "Andrew Brenner (R) [Sen]",
+    "George Lang (R) [Sen]",
+    "Kristina Roegner (R) [Sen]"
+  ],
+  "introduced_date": "2025-05-27",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-27",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-28",
+      "action": "Referred to committee: Health",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb209/00_IN/pdf/",
+      "doc_id": 3246083
+    }
+  ],
+  "committee": {
+    "committee_id": 4399,
+    "chamber": "S",
+    "chamber_id": 6,
+    "name": "Health"
+  },
+  "subjects": [
+    "Health and Human Services : Health Care",
+    "Senate Health Committee"
+  ]
+}

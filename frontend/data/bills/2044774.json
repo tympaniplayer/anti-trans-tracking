@@ -1,0 +1,68 @@
+{
+  "id": 2044774,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB2862",
+  "title": "CCAMPIS Reauthorization Act Child Care Access Means Parents In Schools Reauthorization Act",
+  "summary": "A bill to amend the Child Care Access Means Parents In School Program under the Higher Education Act of 1965.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB2862/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB2862/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2862/all-info",
+  "sponsors": [
+    "Tammy Duckworth (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Amy Klobuchar (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Kirsten Gillibrand (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Andy Kim (D) [Sen]",
+    "Raphael Warnock (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Chris Van Hollen (D) [Sen]",
+    "Mark Kelly (D) [Sen]",
+    "Ben Lujan (D) [Sen]"
+  ],
+  "introduced_date": "2025-09-18",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-09-18",
+      "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-10-10",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s2862/BILLS-119s2862is.pdf",
+      "doc_id": 3272649
+    }
+  ],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": [
+    "Education"
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": 2114713,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB1845",
+  "title": "Student safety: human trafficking.",
+  "summary": "An act to amend Sections 67380, 67381, and 67383 of, to add Section 66281.85 to, and to repeal and add Section 67381.1 of, the Education Code, relating to postsecondary education.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB1845/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB1845/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1845",
+  "sponsors": [
+    "Maggy Krell (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-11",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-11",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "From printer. May be heard in committee March 14.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-09",
+      "action": "Referred to Coms. on HIGHER ED. and JUD.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-11",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1845#99INT",
+      "doc_id": 3359474
+    }
+  ],
+  "committee": {
+    "committee_id": 458,
+    "chamber": "A",
+    "chamber_id": 19,
+    "name": "Higher Education"
+  },
+  "subjects": []
+}

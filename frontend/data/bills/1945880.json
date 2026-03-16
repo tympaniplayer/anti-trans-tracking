@@ -1,0 +1,54 @@
+{
+  "id": 1945880,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S03631",
+  "title": "Enacts the \"Effective Enforcement of Civil Rights Act\"; provides for the enactment and enforcement of local human rights laws.",
+  "summary": "Enacts the \"Effective Enforcement of Civil Rights Act\"; provides for the enactment and enforcement of local human rights laws.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S03631/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S03631/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S3631",
+  "sponsors": [
+    "Nathalia Fernandez (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-29",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-01-29",
+      "action": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-29",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S03631&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S03631",
+      "doc_id": 3088116
+    }
+  ],
+  "committee": {
+    "committee_id": 433,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Investigations and Government Operations"
+  },
+  "subjects": []
+}

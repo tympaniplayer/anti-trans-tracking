@@ -1,0 +1,54 @@
+{
+  "id": 2107581,
+  "state": "MO",
+  "state_name": "Missouri",
+  "bill_number": "SB1622",
+  "title": "Prohibits political subdivisions from taking into account any protected status when awarding contracts",
+  "summary": "Prohibits political subdivisions from taking into account any protected status when awarding contracts",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MO/bill/SB1622/2026",
+  "legiscan_url": "https://legiscan.com/MO/bill/SB1622/2026",
+  "state_url": "https://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=3394070",
+  "sponsors": [
+    "Jill Carter (R) [Sen]"
+  ],
+  "introduced_date": "2026-02-04",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-04",
+      "action": "S First Read",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Second Read and Referred S Local Government, Elections and Pensions Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-04",
+      "type": "Introduced",
+      "url": "https://www.senate.mo.gov/26info/pdf-bill/intro/SB1622.pdf",
+      "doc_id": 3348133
+    }
+  ],
+  "committee": {
+    "committee_id": 5016,
+    "chamber": "S",
+    "chamber_id": 60,
+    "name": "Local Government, Elections and Pensions"
+  },
+  "subjects": []
+}

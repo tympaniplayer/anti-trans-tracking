@@ -1,0 +1,69 @@
+{
+  "id": 2093024,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HCR4",
+  "title": "Urging The Governor To Take Action To Protect Transgender Members Of The Hawaii National Guard From Discriminatory Federal Policy And Permit Qualified Transgender Service Members To Continue Their Service.",
+  "summary": "Urging The Governor To Take Action To Protect Transgender Members Of The Hawaii National Guard From Discriminatory Federal Policy And Permit Qualified Transgender Service Members To Continue Their Service.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HCR4/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HCR4/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HCR&billnumber=4&year=2026",
+  "sponsors": [
+    "Adrian Tam (D) [Rep]",
+    "Terez Amato (D) [Rep]",
+    "Tina Grandinetti (D) [Rep]",
+    "Greggor Ilagan (D) [Rep]",
+    "Jeanne Kapela (D) [Rep]",
+    "Nicole Lowen (D) [Rep]",
+    "Lisa Marten (D) [Rep]",
+    "Amy Perruso (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "To be offered.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Offered",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-10",
+      "action": "Referred to PBS, JHA, referral sheet 15",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-24",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HCR4_.HTM",
+      "doc_id": 3332070
+    }
+  ],
+  "committee": {
+    "committee_id": 2810,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Public Safety"
+  },
+  "subjects": [
+    "Transgender Service Members",
+    "Hawai\u02bbi National Guard"
+  ]
+}

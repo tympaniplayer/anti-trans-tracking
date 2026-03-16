@@ -1,0 +1,202 @@
+{
+  "id": 2101482,
+  "state": "SD",
+  "state_name": "South Dakota",
+  "bill_number": "SB190",
+  "title": "Codify the rights of a parent.",
+  "summary": "Codify the rights of a parent.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/SD/bill/SB190/2026",
+  "legiscan_url": "https://legiscan.com/SD/bill/SB190/2026",
+  "state_url": "https://sdlegislature.gov/#/Session/Bill/27012",
+  "sponsors": [
+    "Heather Baxter (R) [Rep]",
+    "Tamara Grove (R) [Sen]",
+    "Aaron Aylward (R) [Rep]",
+    "John Carley (R) [Sen]",
+    "Carl Perry (R) [Rep]"
+  ],
+  "introduced_date": "2026-02-17",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-29",
+      "action": "First read in Senate and referred to Senate Judiciary S.J. 140",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Scheduled for hearing S.J. 1",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Judiciary Motion to amend, Passed S.J. 20 Amendment 190C",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Judiciary Do Pass Amended, Passed, YEAS 5, NAYS 2. S.J. 21",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Senate Do Pass Amended, Failed, YEAS 17, NAYS 16. S.J. 263",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-12",
+      "action": "Intent to reconsider S.J. 263",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Senate Reconsidered, Passed, YEAS 19, NAYS 15. S.J. 270",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Senate Motion to amend, Passed S.J. 270 Amendment 190F",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-17",
+      "action": "Senate Do Pass Amended, Passed, YEAS 19, NAYS 15. S.J. 271",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-18",
+      "action": "First read in House and referred to House State Affairs H.J. 356",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Scheduled for hearing",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "State Affairs Motion to amend, Passed Amendment 190G",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "State Affairs Do Pass Amended, Passed, YEAS 8, NAYS 5.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "House of Representatives Motion to amend, Passed H.J. 474 Amendment 190H",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "House of Representatives Do Pass Amended, Failed, YEAS 30, NAYS 35. H.J. 474",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-02",
+      "action": "Intent to reconsider H.J. 475",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-03",
+      "action": "House of Representatives Reconsidered, Failed, YEAS 30, NAYS 36. H.J. 484",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-10",
+      "description": "Do Pass Amended",
+      "yea": 5,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-12",
+      "description": "Do Pass Amended",
+      "yea": 17,
+      "nay": 16,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-17",
+      "description": "Reconsidered",
+      "yea": 19,
+      "nay": 15,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-17",
+      "description": "Do Pass Amended",
+      "yea": 19,
+      "nay": 15,
+      "passed": 1
+    },
+    {
+      "date": "2026-02-25",
+      "description": "Do Pass Amended",
+      "yea": 8,
+      "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-02",
+      "description": "Do Pass Amended",
+      "yea": 30,
+      "nay": 35,
+      "passed": 0
+    },
+    {
+      "date": "2026-03-03",
+      "description": "Reconsidered",
+      "yea": 30,
+      "nay": 36,
+      "passed": 0
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-01-29",
+      "type": "Introduced",
+      "url": "https://mylrc.sdlegislature.gov/api/Documents/299469.pdf",
+      "doc_id": 3340662
+    },
+    {
+      "date": "2026-02-10",
+      "type": "Comm Sub",
+      "url": "https://mylrc.sdlegislature.gov/api/Documents/302503.pdf",
+      "doc_id": 3356448
+    },
+    {
+      "date": "2026-02-18",
+      "type": "Comm Sub",
+      "url": "https://mylrc.sdlegislature.gov/api/Documents/303667.pdf",
+      "doc_id": 3365884
+    },
+    {
+      "date": "2026-02-25",
+      "type": "Comm Sub",
+      "url": "https://mylrc.sdlegislature.gov/api/Documents/304965.pdf",
+      "doc_id": 3375227
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Administrative Procedure",
+    "Attorney's Fees",
+    "Liability",
+    "Minors",
+    "Parental Control"
+  ]
+}

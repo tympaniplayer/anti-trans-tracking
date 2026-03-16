@@ -1,0 +1,114 @@
+{
+  "id": 2022254,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "SB174",
+  "title": "Regards allocation of parenting responsibilities",
+  "summary": "To amend sections 109.65, 313.121, 1713.55, 1733.242, 2108.81, 2111.08, 2151.011, 2151.23, 2151.33, 2151.90, 2301.03, 2307.50, 2317.02, 2701.03, 2705.031, 2901.30, 3101.041, 3105.011, 3105.21, 3105.63, 3105.65, 3109.03, 3109.04, 3109.043, 3109.05, 3109.051, 3109.052, 3109.054, 3109.055, 3109.06, 3109.061, 3109.09, 3109.11, 3109.12, 3109.401, 3109.41, 3109.42, 3109.43, 3109.44, 3109.47, 3109.48, 3109.50, 3109.51, 3109.52, 3109.53, 3109.55, 3109.56, 3109.58, 3109.60, 3109.65, 3109.66, 3109.68, 3109.74, 3111.13, 3111.26, 3111.381, 3113.31, 3119.01, 3119.06, 3119.07, 3119.08, 3119.24, 3119.82, 3119.87, 3119.964, 3125.03, 3125.06, 3125.43, 3127.01, 3127.11, 3127.23, 3127.35, 3310.51, 3313.205, 3313.64, 3313.666, 3313.672, 3313.712, 3313.96, 3313.98, 3319.321, 3321.01, 3323.143, 3328.01, 3332.25, 3333.26, 3345.85, 3701.503, 3780.33, 3796.24, 3902.13, 3924.47, 5104.017, 5104.018, 5104.039, 5107.02, 5120.652, 5120.653, 5123.01, 5153.16, and 5180.14; to amend, for the purpose of adopting new section numbers as indicated in parentheses, sections 3109.043 (3109.0497), 3109.051 (3109.0515), 3109.054 (3109.0550), and 3109.055 (3109.0570); to enact new sections 3109.041, 3109.042, 3109.054, and 3109.055 and sections 3109.044, 3109.045, 3109.046, 3109.047, 3109.048, 3109.049, 3109.0410, 3109.0411, 3109.0412, 3109.0414, 3109.0415, 3109.0416, 3109.0417, 3109.0418, 3109.0419, 3109.0420, 3109.0421, 3109.0422, 3109.0423, 3109.0424, 3109.0425, 3109.0426, 3109.0428, 3109.0430, 3109.0432, 3109.0433, 3109.0434, 3109.0435, 3109.0436, 3109.0439, 3109.0440, 3109.0441, 3109.0442, 3109.0445, 3109.0446, 3109.0449, 3109.0450, 3109.0451, 3109.0452, 3109.0453, 3109.0455, 3109.0456, 3109.0457, 3109.0458, 3109.0459, 3109.0461, 3109.0462, 3109.0463, 3109.0465, 3109.0466, 3109.0467, 3109.0468, 3109.0470, 3109.0471, 3109.0472, 3109.0473, 3109.0474, 3109.0475, 3109.0476, 3109.0477, 3109.0478, 3109.0479, 3109.0482, 3109.0483, 3109.0484, 3109.0485, 3109.0486, 3109.0487, 3109.0488, 3109.0489, 3109.0490, 3109.0491, 3109.0492, 3109.0493, 3109.0498, 3109.056, 3109.057, 3109.058, 3109.059, 3109.0510, 3109.0511, 3109.0512, 3109.0516, 3109.0517, 3109.0518, 3109.0519, 3109.0521, 3109.0522, 3109.0523, 3109.0524, 3109.0526, 3109.0527, 3109.0528, 3109.0529, 3119.071, and 3119.072; and to repeal sections 3109.041, 3109.042, and 3109.053 of the Revised Code regarding the allocation of parenting responsibilities in a parenting plan.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/SB174/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/SB174/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/sb174",
+  "sponsors": [
+    "Theresa Gavarone (R) [Sen]",
+    "Paula Hicks-Hudson (D) [Sen]",
+    "Jerry Cirino (R) [Sen]",
+    "Stephen Huffman (R) [Sen]",
+    "Nathan Manning (R) [Sen]",
+    "Thomas Patton (R) [Sen]",
+    "Bill Reineke (R) [Sen]"
+  ],
+  "introduced_date": "2025-11-12",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2025-04-08",
+      "action": "Introduced",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Referred to committee: Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-05",
+      "action": "Reported - Substitute: Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-12",
+      "action": "Passed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-11-18",
+      "action": "Introduced",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-11-19",
+      "action": "Referred to committee: Judiciary",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-11-05",
+      "description": "Senate Favorable Passage",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2025-11-12",
+      "description": "Senate Passed",
+      "yea": 29,
+      "nay": 2,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb174/00_IN/pdf/",
+      "doc_id": 3206919
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Comm Sub",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb174/01_RS/pdf/",
+      "doc_id": 3283274
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/sb174/02_PS/pdf/",
+      "doc_id": 3283971
+    }
+  ],
+  "committee": {
+    "committee_id": 106,
+    "chamber": "H",
+    "chamber_id": 5,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Juvenile and Family Law",
+    "Juvenile and Family Law : Child Custody and Support",
+    "Juvenile and Family Law : Domestic Relations",
+    "Juvenile and Family Law : Marriage and Divorce",
+    "Senate Judiciary Committee",
+    "House Judiciary Committee"
+  ]
+}

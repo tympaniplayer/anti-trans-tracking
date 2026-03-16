@@ -1,0 +1,75 @@
+{
+  "id": 2035416,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3688",
+  "title": "Protecting Children from Experimentation Act of 2025",
+  "summary": "To amend chapter 110 of title 18, United States Code, to prohibit gender transition procedures on minors, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3688/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3688/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3688/all-info",
+  "sponsors": [
+    "Doug LaMalfa (R) [Rep]",
+    "Glenn Grothman (R) [Rep]",
+    "Mary Miller (R) [Rep]",
+    "Paul Gosar (R) [Rep]",
+    "Troy Nehls (R) [Rep]",
+    "Claudia Tenney (R) [Rep]",
+    "Lauren Boebert (R) [Rep]",
+    "David Rouzer (R) [Rep]",
+    "Jodey Arrington (R) [Rep]",
+    "Randy Weber (R) [Rep]",
+    "Gary Palmer (R) [Rep]",
+    "Mike Bost (R) [Rep]",
+    "John Carter (R) [Rep]",
+    "Diana Harshbarger (R) [Rep]",
+    "Brian Babin (R) [Rep]",
+    "Bruce Westerman (R) [Rep]",
+    "Cory Mills (R) [Rep]",
+    "Keith Self (R) [Rep]",
+    "Garland Barr (R) [Rep]"
+  ],
+  "introduced_date": "2025-06-03",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-06-03",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-06-03",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-06-09",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3688/BILLS-119hr3688ih.pdf",
+      "doc_id": 3253287
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crime and law enforcement"
+  ]
+}

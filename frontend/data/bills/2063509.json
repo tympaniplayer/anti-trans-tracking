@@ -1,0 +1,77 @@
+{
+  "id": 2063509,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB1209",
+  "title": "Relating To Transportation.",
+  "summary": "Requires the Civil Rights Commission to receive and investigate complaints related to acts of discrimination committed by transportation network company drivers against riders with service animals and report the results of its investigation to the Department of Transportation, which shall issue penalties to transportation network companies.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB1209/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB1209/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1209&year=2026",
+  "sponsors": [
+    "Chris Lee (D) [Sen]"
+  ],
+  "introduced_date": "2025-01-17",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-01-17",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-21",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-01-27",
+      "action": "Referred to CPN/TCA, JDC.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-12-08",
+      "action": "Carried over to 2026 Regular Session.",
+      "chamber": ""
+    },
+    {
+      "date": "2026-01-21",
+      "action": "Re-Referred to CPN/TRS, JDC.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-18",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB1209_.HTM",
+      "doc_id": 3297303
+    }
+  ],
+  "committee": {
+    "committee_id": 2054,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Commerce and Consumer Protection"
+  },
+  "subjects": [
+    "Transportation Network Companies",
+    "Civil Rights Commission",
+    "Discrimination",
+    "Service Animals",
+    "Violations",
+    "Penalties",
+    "Fines"
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "id": 2016856,
+  "state": "NC",
+  "state_name": "North Carolina",
+  "bill_number": "H606",
+  "title": "Civil Procedure Amendment",
+  "summary": "Civil Procedure Amendment",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NC/bill/H606/2025",
+  "legiscan_url": "https://legiscan.com/NC/bill/H606/2025",
+  "state_url": "https://www.ncleg.gov/BillLookUp/2025/H606",
+  "sponsors": [
+    "Jonathan Almond (R) [Rep]",
+    "Dean Arp (R) [Rep]",
+    "Dennis Riddell (R) [Rep]",
+    "John Blust (R) [Rep]",
+    "Hugh Blackwell (R) [Rep]",
+    "Jake Johnson (R) [Rep]",
+    "Jeffrey McNeely (R) [Rep]",
+    "Paul Scott (R) [Rep]"
+  ],
+  "introduced_date": "2025-05-06",
+  "session": "2025-2026 Session",
+  "actions": [
+    {
+      "date": "2025-03-31",
+      "action": "Filed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Passed 1st Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-01",
+      "action": "Ref to the Com on Judiciary 2, if favorable, State and Local Government, if favorable, Rules, Calendar, and Operations of the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Reptd Fav Com Substitute",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-29",
+      "action": "Re-ref Com On State and Local Government",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Withdrawn From Com",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Re-ref Com On Rules, Calendar, and Operations of the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Reptd Fav",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Cal Pursuant Rule 36(b)",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-01",
+      "action": "Placed On Cal For 05/06/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Amend Failed A1",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Amend Adopted A2",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Passed 2nd Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Passed 3rd Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Ordered Engrossed",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Regular Message Sent To Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Regular Message Received From House",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Passed 1st Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-05-07",
+      "action": "Ref To Com On Rules and Operations of the Senate",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-05-06",
+      "description": "A1 Harrison Second Reading",
+      "yea": 47,
+      "nay": 62,
+      "passed": 0
+    },
+    {
+      "date": "2025-05-06",
+      "description": "A2 Stevens Second Reading",
+      "yea": 108,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2025-05-06",
+      "description": "Second Reading",
+      "yea": 69,
+      "nay": 41,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-03-31",
+      "type": "Introduced",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H606v0.pdf",
+      "doc_id": 3194309
+    },
+    {
+      "date": "2025-04-01",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H606v1.pdf",
+      "doc_id": 3196685
+    },
+    {
+      "date": "2025-04-29",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H606v2.pdf",
+      "doc_id": 3224195
+    },
+    {
+      "date": "2025-05-06",
+      "type": "Amended",
+      "url": "https://www.ncleg.gov/Sessions/2025/Bills/House/PDF/H606v3.pdf",
+      "doc_id": 3230516
+    }
+  ],
+  "committee": {
+    "committee_id": 698,
+    "chamber": "S",
+    "chamber_id": 76,
+    "name": "Rules and Operations of the Senate"
+  },
+  "subjects": [
+    "Civil Procedure",
+    "Courts",
+    "Health Services",
+    "Lgbtq & Gender Issues",
+    "Public",
+    "Civil Actions"
+  ]
+}

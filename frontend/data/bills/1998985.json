@@ -1,0 +1,59 @@
+{
+  "id": 1998985,
+  "state": "MA",
+  "state_name": "Massachusetts",
+  "bill_number": "S148",
+  "title": "Enhancing child welfare protections",
+  "summary": "For legislation to enhance child welfare protections. Children, Families and Persons with Disabilities.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MA/bill/S148/2025",
+  "legiscan_url": "https://legiscan.com/MA/bill/S148/2025",
+  "state_url": "https://malegislature.gov/Bills/194/S148",
+  "sponsors": [
+    "Robyn Kennedy (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-27",
+  "session": "194th General Court",
+  "actions": [
+    {
+      "date": "2025-02-27",
+      "action": "Referred to the Joint Committee on Children, Families and Persons with Disabilities",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-27",
+      "action": "House concurred",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-05-06",
+      "action": "Hearing scheduled for 05/13/2025 from 01:00 PM-05:00 PM in A-1",
+      "chamber": "J"
+    },
+    {
+      "date": "2025-11-03",
+      "action": "Accompanied a new draft, see S2659",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-10",
+      "type": "Introduced",
+      "url": "https://malegislature.gov/Bills/194/S148.pdf",
+      "doc_id": 3164262
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

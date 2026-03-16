@@ -1,0 +1,52 @@
+{
+  "id": 2024370,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S07443",
+  "title": "Relates to participation by LGBT, disability and veteran-owned businesses in state contracts.",
+  "summary": "Relates to participation by LGBT, disability and veteran-owned businesses in state contracts.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S07443/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S07443/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S7443",
+  "sponsors": [
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Peter Harckham (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "Kevin Parker (D) [Sen]"
+  ],
+  "introduced_date": "2025-04-16",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-04-16",
+      "action": "REFERRED TO VETERANS, HOMELAND SECURITY AND MILITARY AFFAIRS",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-16",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S07443&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S07443",
+      "doc_id": 3213630
+    }
+  ],
+  "committee": {
+    "committee_id": 442,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Veterans, Homeland Security and Military Affairs"
+  },
+  "subjects": []
+}

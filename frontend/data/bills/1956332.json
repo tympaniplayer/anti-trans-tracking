@@ -1,0 +1,70 @@
+{
+  "id": 1956332,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB382",
+  "title": "Dismantle DEI Act of 2025",
+  "summary": "A bill to ensure equal protection of the law, to prevent racism in the Federal Government, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB382/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB382/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/382/all-info",
+  "sponsors": [
+    "Eric Schmitt (R) [Sen]",
+    "Tom Cotton (R) [Sen]",
+    "James Lankford (R) [Sen]",
+    "Steve Daines (R) [Sen]",
+    "Tommy Tuberville (R) [Sen]",
+    "Marsha Blackburn (R) [Sen]",
+    "Roger Marshall (R) [Sen]",
+    "Cynthia Lummis (R) [Sen]",
+    "Bill Cassidy (R) [Sen]",
+    "James Risch (R) [Sen]",
+    "Kevin Cramer (R) [Sen]",
+    "Jim Banks (R) [Sen]",
+    "Tim Sheehy (R) [Sen]",
+    "Cindy Hyde-Smith (R) [Sen]",
+    "Rick Scott (R) [Sen]",
+    "Mike Lee (R) [Sen]",
+    "Mike Crapo (R) [Sen]",
+    "Ron Johnson (R) [Sen]",
+    "Josh Hawley (R) [Sen]",
+    "Ted Budd (R) [Sen]"
+  ],
+  "introduced_date": "2025-02-04",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-02-04",
+      "action": "Read twice and referred to the Committee on Homeland Security and Governmental Affairs.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-06",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s382/BILLS-119s382is.pdf",
+      "doc_id": 3157791
+    }
+  ],
+  "committee": {
+    "committee_id": 2329,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Homeland Security And Governmental Affairs"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": 2110186,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "SB659",
+  "title": "Prekindergarten Programs and Primary and Secondary Schools - Student Privacy Policy Requirements and Discrimination Reporting",
+  "summary": "Requiring public and nonpublic primary and secondary schools to adopt certain written student privacy policies and procedures; and requiring nonpublic prekindergarten programs and nonpublic primary and secondary schools to report certain information about certain incidents of alleged discrimination to the State Department of Education annually.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/SB659/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/SB659/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0659?ys=2026RS",
+  "sponsors": [
+    "Sara Love (D) [Sen]"
+  ],
+  "introduced_date": "2026-02-06",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-06",
+      "action": "First Reading Education, Energy, and the Environment",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Hearing 3/04 at 1:00 p.m.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-06",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/sb/sb0659f.pdf",
+      "doc_id": 3352398
+    }
+  ],
+  "committee": {
+    "committee_id": 4685,
+    "chamber": "S",
+    "chamber_id": 50,
+    "name": "Education, Energy, and the Environment"
+  },
+  "subjects": [
+    "Primary and Secondary Education",
+    "Education - Miscellaneous",
+    "Age",
+    "Age of Majority",
+    "complaints",
+    "Disabilities",
+    "Disclosure",
+    "Discrimination",
+    "Early Childhood Education",
+    "Education",
+    "Ethnic Affairs",
+    "Gender",
+    "Gender Identity and Expression",
+    "Names",
+    "Parents and Guardians",
+    "Personal Identifying Information",
+    "Primary Schools",
+    "Privacy",
+    "Private Schools",
+    "Public Schools",
+    "Racial Matters",
+    "Records",
+    "Religion",
+    "Reports",
+    "Secondary Schools",
+    "Sexual Orientation",
+    "Students",
+    "Time",
+    "Transportation"
+  ]
+}

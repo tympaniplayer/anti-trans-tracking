@@ -1,0 +1,78 @@
+{
+  "id": 1890447,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB115",
+  "title": "Relating to civil liability for, governmental health plan coverage of, and public funding for gender modification procedures and treatments.",
+  "summary": "Relating to civil liability for, governmental health plan coverage of, and public funding for gender modification procedures and treatments.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB115/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB115/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB115",
+  "sponsors": [
+    "Bob Hall (R) [Sen]"
+  ],
+  "introduced_date": "2024-11-12",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2024-11-12",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2024-11-12",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Referred to State Affairs",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2024-11-12",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00115I.htm",
+      "doc_id": 3026285
+    }
+  ],
+  "committee": {
+    "committee_id": 1919,
+    "chamber": "S",
+    "chamber_id": 92,
+    "name": "State Affairs"
+  },
+  "subjects": [
+    "City Government",
+    "City Government--Finance",
+    "Civil Remedies & Liabilities",
+    "County Government",
+    "County Government--Finance",
+    "Insurance",
+    "Insurance--Health & Accident",
+    "Malpractice",
+    "Malpractice--Professionals",
+    "State Finances",
+    "State Finances--Management & Control",
+    "GENDER IDENTITY & EXPRESSION",
+    "PHYSICIANS"
+  ]
+}

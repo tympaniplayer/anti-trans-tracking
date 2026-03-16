@@ -1,0 +1,51 @@
+{
+  "id": 2057903,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB3389",
+  "title": "Lowering Health Care Costs for Americans Act",
+  "summary": "A bill to lower health care costs for Americans.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB3389/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB3389/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/3389/all-info",
+  "sponsors": [
+    "Roger Marshall (R) [Sen]"
+  ],
+  "introduced_date": "2025-12-09",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-12-09",
+      "action": "Read twice and referred to the Committee on Finance.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-12-30",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s3389/BILLS-119s3389is.pdf",
+      "doc_id": 3298896
+    }
+  ],
+  "committee": {
+    "committee_id": 2326,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Finance"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

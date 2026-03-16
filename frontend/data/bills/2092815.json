@@ -1,0 +1,68 @@
+{
+  "id": 2092815,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SB2844",
+  "title": "Relating To Image-based Sexual Abuse.",
+  "summary": "Establishes the nonconsensual disclosure of intimate or private images as a criminal offense. Amends the criteria for an extended term of imprisonment to include an offender whose act of attempting to commit or committing the nonconsensual disclosure of intimate or private images against a minor or vulnerable adult resulted in the victim's death.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SB2844/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SB2844/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2844&year=2026",
+  "sponsors": [
+    "Michelle Kidani (D) [Sen]",
+    "Stanley Chang (D) [Sen]",
+    "Lynn Decoite (D) [Sen]",
+    "Brandon Elefante (D) [Sen]",
+    "Carol Fukunaga (D) [Sen]",
+    "Jarrett Keohokalole (D) [Sen]",
+    "Donna Kim (D) [Sen]",
+    "Rachele Fernandez Lamosao (D) [Sen]",
+    "Tim Richards (D) [Sen]",
+    "Joy San Buenaventura (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-23",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Introduced.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Passed First Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-30",
+      "action": "Referred to LBT/HHS, JDC.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-23",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SB2844_.HTM",
+      "doc_id": 3331919
+    }
+  ],
+  "committee": {
+    "committee_id": 4754,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Labor and Technology"
+  },
+  "subjects": []
+}

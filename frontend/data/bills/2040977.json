@@ -1,0 +1,75 @@
+{
+  "id": 2040977,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB2534",
+  "title": "Veteran Families Health Services Act of 2025",
+  "summary": "A bill to improve the reproductive assistance provided by the Department of Defense and the Department of Veterans Affairs to certain members of the Armed Forces, veterans, and their spouses or partners, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB2534/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB2534/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2534/all-info",
+  "sponsors": [
+    "Patty Murray (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Charles Schumer (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Jacky Rosen (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Amy Klobuchar (D) [Sen]",
+    "Jeanne Shaheen (D) [Sen]",
+    "John Hickenlooper (D) [Sen]",
+    "Sheldon Whitehouse (D) [Sen]",
+    "Angus King (I) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Martin Heinrich (D) [Sen]",
+    "Kirsten Gillibrand (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Ruben Gallego (D) [Sen]",
+    "Catherine Cortez Masto (D) [Sen]",
+    "Tim Kaine (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Mark Kelly (D) [Sen]"
+  ],
+  "introduced_date": "2025-07-30",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-07-30",
+      "action": "Read twice and referred to the Committee on Veterans' Affairs.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-08-07",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/s2534/BILLS-119s2534is.pdf",
+      "doc_id": 3264272
+    }
+  ],
+  "committee": {
+    "committee_id": 2333,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Veterans' Affairs"
+  },
+  "subjects": [
+    "Armed forces and national security"
+  ]
+}

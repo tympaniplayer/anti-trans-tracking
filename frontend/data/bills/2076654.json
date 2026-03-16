@@ -1,0 +1,51 @@
+{
+  "id": 2076654,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S2888",
+  "title": "Requires award of Edna Mahan trauma credits to inmates incarcerated during period of investigation into allegations of sexual abuse by correctional police officers and staff.",
+  "summary": "Requires award of Edna Mahan trauma credits to inmates incarcerated during period of investigation into allegations of sexual abuse by correctional police officers and staff.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S2888/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S2888/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S2888",
+  "sponsors": [
+    "Raj Mukherji (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-13",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-13",
+      "action": "Introduced in the Senate, Referred to Senate Judiciary Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-07",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S3000/2888_I1.HTM",
+      "doc_id": 3313670
+    }
+  ],
+  "committee": {
+    "committee_id": 880,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Judiciary"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1999797,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB2265",
+  "title": "Relating to preventing discrimination in foster care.",
+  "summary": "Relating to preventing discrimination in foster care.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB2265/2025",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB2265/2025",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB2265",
+  "sponsors": [
+    "Molly Cook (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-11",
+  "session": "89th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2025-03-11",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-11",
+      "action": "Filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Read first time",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-25",
+      "action": "Referred to Health & Human Services",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-11",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB02265I.htm",
+      "doc_id": 3165256
+    }
+  ],
+  "committee": {
+    "committee_id": 1911,
+    "chamber": "S",
+    "chamber_id": 92,
+    "name": "Health & Human Services"
+  },
+  "subjects": [
+    "Family",
+    "Family--Child Protection",
+    "DISCRIMINATION",
+    "FOSTER CARE",
+    "GENDER IDENTITY & EXPRESSION",
+    "FAMILY & PROTECTIVE SERVICES, DEPARTMENT OF",
+    "HEALTH & HUMAN SERVICES COMMISSION"
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": 2034050,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "SR48",
+  "title": "Relative to Lesbian, Gay, Bisexual, Transgender, and Queer (LGBTQ+) Pride Month.",
+  "summary": "Relative to Lesbian, Gay, Bisexual, Transgender, and Queer (LGBTQ+) Pride Month.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/SR48/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/SR48/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SR48",
+  "sponsors": [
+    "Caroline Menjivar (D) [Sen]",
+    "Christopher Cabaldon (D) [Sen]",
+    "Sabrina Cervantes (D) [Sen]",
+    "John Laird (D) [Sen]",
+    "Steve Padilla (D) [Sen]",
+    "Sasha Renee Perez (D) [Sen]",
+    "Scott Wiener (D) [Sen]"
+  ],
+  "introduced_date": "2025-06-23",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-05-27",
+      "action": "Introduced. Referred to Com. on RLS.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-04",
+      "action": "From committee: Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-06-23",
+      "action": "Read. Adopted. (Ayes 27. Noes 0. Page 1683.)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-06-23",
+      "description": "Senate 3rd Reading SR48 Menjivar et al",
+      "yea": 27,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-05-27",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SR48#99INT",
+      "doc_id": 3246559
+    },
+    {
+      "date": "2025-06-25",
+      "type": "Enrolled",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SR48#98ENR",
+      "doc_id": 3258802
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

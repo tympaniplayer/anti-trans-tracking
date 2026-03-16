@@ -1,0 +1,97 @@
+{
+  "id": 2092771,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "HB1876",
+  "title": "Relating To Mental Health.",
+  "summary": "Amends the existing prohibition on conversion therapy by prohibiting the practice on persons under the age of twenty-five and the advertisement of such practice. Explicitly provides that talk therapy in the form of pure speech is exempt from the prohibition on conversion therapy. Takes effect upon the certification by the Attorney General that the Supreme Court of the United States has overturned the holding in Chiles v. Salazar, 116 F.4th 1178 (10th Cir. 2024). Effective 7/1/3000. (HD1)",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/HB1876/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/HB1876/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1876&year=2026",
+  "sponsors": [
+    "Adrian Tam (D) [Rep]",
+    "Terez Amato (D) [Rep]",
+    "Tina Grandinetti (D) [Rep]",
+    "Greggor Ilagan (D) [Rep]",
+    "Trish La Chica (D) [Rep]",
+    "Lisa Marten (D) [Rep]",
+    "Amy Perruso (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-26",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-23",
+      "action": "Pending introduction.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Introduced and Pass First Reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-26",
+      "action": "Referred to CPC, JHA, referral sheet 2",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-06",
+      "action": "Bill scheduled to be heard by CPC on Tuesday, 02-10-26 2:00PM in House conference room 329 VIA VIDEOCONFERENCE.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "The committee on CPC recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 10 Ayes: Representative(s) Matayoshi, Grandinetti, Chun, Ilagan, Ichiyama, Kong, Lowen, Marten, Tam; Ayes with reservations: Representative(s) Iwamoto; 1 Noes: Representative(s) Pierick; and Excused: none.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Reported from CPC (Stand. Com. Rep. No. 687-26) as amended in HD 1, recommending passage on Second Reading and referral to JHA.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-20",
+      "action": "Passed Second Reading as amended in HD 1 and referred to the committee(s) on JHA with Representative(s) Alcos, Garcia, Gedeon, Matsumoto voting aye with reservations; Representative(s) Pierick voting no (1) and Representative(s) Quinlan excused (1).",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-23",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1876_.HTM",
+      "doc_id": 3331477
+    },
+    {
+      "date": "2026-02-20",
+      "type": "Amended",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1876_HD1_.HTM",
+      "doc_id": 3369588
+    }
+  ],
+  "committee": {
+    "committee_id": 4406,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Judiciary & Hawaiian Affairs"
+  },
+  "subjects": [
+    "Conversion Therapy",
+    "Sexual Orientation",
+    "Gender Identity",
+    "Talk Therapy",
+    "Age"
+  ]
+}

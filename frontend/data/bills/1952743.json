@@ -1,0 +1,71 @@
+{
+  "id": 1952743,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "HB0716",
+  "title": "AN ACT to amend Tennessee Code Annotated, Title 4, Chapter 3, Part 5; Title 9; Title 60; Title 67 and Title 68, relative to the \"Climate Resiliency Fund Act.\"",
+  "summary": "As introduced, enacts the \"Climate Resiliency Fund Act.\" - Amends TCA Title 4, Chapter 3, Part 5; Title 9; Title 60; Title 67 and Title 68.",
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/HB0716/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/HB0716/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HB0716&ga=114",
+  "sponsors": [
+    "Justin Jones (D) [Rep]"
+  ],
+  "introduced_date": "2025-02-26",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "Filed for introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-05",
+      "action": "Intro., P1C.",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "P2C, ref. to Agriculture & Natural Resources Committee- Government Operations for Review",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Assigned to s/c Agriculture & Natural Resources Subcommittee",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-19",
+      "action": "Placed on s/c cal Agriculture & Natural Resources Subcommittee for 2/26/2025",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-02-26",
+      "action": "Failed for lack of motion in: Agriculture & Natural Resources Subcommittee",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-03",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB0716.pdf",
+      "doc_id": 3096731
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Environmental Preservation"
+  ]
+}

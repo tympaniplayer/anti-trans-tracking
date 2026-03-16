@@ -1,0 +1,57 @@
+{
+  "id": 1961823,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SR67",
+  "title": "A resolution declaring racism a public health crisis.",
+  "summary": "A resolution declaring racism a public health crisis.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SR67/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SR67/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/67/all-info",
+  "sponsors": [
+    "Cory Booker (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Andy Kim (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Ron Wyden (D) [Sen]"
+  ],
+  "introduced_date": "2025-02-06",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-02-06",
+      "action": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S800-802)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-02-11",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/sres67/BILLS-119sres67is.pdf",
+      "doc_id": 3112073
+    }
+  ],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

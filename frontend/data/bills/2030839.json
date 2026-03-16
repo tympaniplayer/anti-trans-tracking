@@ -1,0 +1,92 @@
+{
+  "id": 2030839,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A08389",
+  "title": "Enacts the \"family reform act\"; provides that child support amounts shall be calculated based on the non-custodial parent's income; excludes health insurance costs and federal and state income taxes paid from the calculation of income for child support calculation purposes; decreases the amount of time courts can imprison an individual for the non-payment of child support; requires courts to collect certain demographic information in relation to orders of child support issued, modified or enforced and publish a report on such information; makes related provisions.",
+  "summary": "Enacts the \"family reform act\"; provides that child support amounts shall be calculated based on the non-custodial parent's income; excludes health insurance costs and federal and state income taxes paid from the calculation of income for child support calculation purposes; decreases the amount of time courts can imprison an individual for the non-payment of child support; requires courts to collect certain demographic information in relation to orders of child support issued, modified or enforced and publish a report on such information; makes related provisions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A08389/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A08389/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A8389",
+  "sponsors": [
+    "Noah Burroughs (D) [Rep]",
+    "Monique Chandler-Waterman (D) [Rep]",
+    "Chantel Jackson (D) [Rep]",
+    "David Weprin (D) [Rep]",
+    "Stefani Zinerman (D) [Rep]",
+    "Alfred Taylor (D) [Rep]",
+    "Larinda Hooks (D) [Rep]"
+  ],
+  "introduced_date": "2025-05-13",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-05-13",
+      "action": "referred to judiciary",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "amend and recommit to judiciary",
+      "chamber": "A"
+    },
+    {
+      "date": "2025-05-29",
+      "action": "print number 8389a",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "referred to judiciary",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "amend (t) and recommit to judiciary",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "print number 8389b",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-13",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08389&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08389",
+      "doc_id": 3235914
+    },
+    {
+      "date": "2025-05-13",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08389&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08389A",
+      "doc_id": 3248445
+    },
+    {
+      "date": "2025-05-13",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A08389&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A08389B",
+      "doc_id": 3380611
+    }
+  ],
+  "committee": {
+    "committee_id": 373,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

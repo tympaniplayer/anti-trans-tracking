@@ -1,0 +1,85 @@
+{
+  "id": 1912450,
+  "state": "AK",
+  "state_name": "Alaska",
+  "bill_number": "HB6",
+  "title": "State Fund Fiduc Duty:social/pol Interest",
+  "summary": "An Act restricting fiduciary actions by a fiduciary of a state fund, the Alaska Retirement Management Board, and the Alaska Permanent Fund Corporation Board that have the purpose of furthering social, political, or ideological interests.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/AK/bill/HB6/2025",
+  "legiscan_url": "https://legiscan.com/AK/bill/HB6/2025",
+  "state_url": "https://www.akleg.gov/basis/Bill/Detail/34?Root=HB6",
+  "sponsors": [
+    "Kevin McCabe (R) [Rep]",
+    "Sarah Vance (R) [Rep]"
+  ],
+  "introduced_date": "2025-01-22",
+  "session": "34th Legislature",
+  "actions": [
+    {
+      "date": "2025-01-22",
+      "action": "PREFILE RELEASED 1/10/25",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-22",
+      "action": "READ THE FIRST TIME - REFERRALS",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-22",
+      "action": "JUD, FIN",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-01-22",
+      "action": "REFERRED TO JUDICIARY",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-03-26",
+      "action": "COSPONSOR(S): VANCE",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-01-10",
+      "type": "Introduced",
+      "url": "https://www.akleg.gov/PDF/34/Bills/HB0006A.PDF",
+      "doc_id": 3049431
+    }
+  ],
+  "committee": {
+    "committee_id": 2135,
+    "chamber": "H",
+    "chamber_id": 13,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Abortion",
+    "Boards & Commissions",
+    "Disclosure",
+    "Employment",
+    "Environmental Concerns",
+    "Funds",
+    "Investments",
+    "Medical Care",
+    "Permanent Fund",
+    "Privacy",
+    "Public Finance",
+    "Retirement",
+    "Rights",
+    "Weapons"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": 2059223,
+  "state": "NH",
+  "state_name": "New Hampshire",
+  "bill_number": "HB1778",
+  "title": "Relative to prohibiting the use of personal identity ideology in public school instruction and policies.",
+  "summary": "Relative to prohibiting the use of personal identity ideology in public school instruction and policies.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NH/bill/HB1778/2026",
+  "legiscan_url": "https://legiscan.com/NH/bill/HB1778/2026",
+  "state_url": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=3023&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1778",
+  "sponsors": [
+    "Melissa Litchfield (R) [Rep]",
+    "Richard Nalevanko (R) [Rep]",
+    "Robert Wherry (R) [Rep]",
+    "Susan Deroy (R) [Rep]",
+    "James Thibault (R) [Rep]",
+    "Lisa Freeman (R) [Rep]",
+    "Lisa Mazur (R) [Rep]",
+    "Michael Moffett (R) [Rep]",
+    "William Gannon (R) [Sen]",
+    "Keith Murphy (R) [Sen]"
+  ],
+  "introduced_date": "2025-12-17",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-17",
+      "action": "Introduced 01/07/2026 and referred to Education Policy and Administration House Journal  1",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-28",
+      "action": "Public Hearing: 02/02/2026 01:20 pm GP 232",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Executive Session: 02/04/2026 01:20 pm GP 232",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-10",
+      "action": "Committee Report: Inexpedient to Legislate 02/04/2026 (Vote 17-0; Consent Calendar) House Calendar 7 P. 9",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Inexpedient to Legislate: Motion Adopted Voice Vote 02/19/2026 House Journal  5",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&id=2235&txtFormat=html",
+      "doc_id": 3292319
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

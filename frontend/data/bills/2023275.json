@@ -1,0 +1,79 @@
+{
+  "id": 2023275,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB2884",
+  "title": "Anti-Racism in Public Health Act of 2025",
+  "summary": "To amend the Public Health Service Act to provide for public health research and investment into understanding and eliminating structural racism and police violence.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB2884/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB2884/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/2884/all-info",
+  "sponsors": [
+    "Ayanna Pressley (D) [Rep]",
+    "Joyce Beatty (D) [Rep]",
+    "Shontel Brown (D) [Rep]",
+    "Andre Carson (D) [Rep]",
+    "Sheila Cherfilus-McCormick (D) [Rep]",
+    "Dwight Evans (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Jennifer McClellan (D) [Rep]",
+    "Jerrold Nadler (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Alexandria Ocasio-Cortez (D) [Rep]",
+    "Ilhan Omar (D) [Rep]",
+    "Mark Pocan (D) [Rep]",
+    "Delia Ramirez (D) [Rep]",
+    "Janice Schakowsky (D) [Rep]",
+    "Terri Sewell (D) [Rep]",
+    "Adam Smith (D) [Rep]",
+    "Melanie Stansbury (D) [Rep]",
+    "Mark Takano (D) [Rep]",
+    "Bennie Thompson (D) [Rep]",
+    "Ritchie Torres (D) [Rep]",
+    "Debbie Wasserman Schultz (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Doris Matsui (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-10",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-04-10",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-10",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-04-28",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr2884/BILLS-119hr2884ih.pdf",
+      "doc_id": 3224310
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Health"
+  ]
+}

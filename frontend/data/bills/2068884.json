@@ -1,0 +1,89 @@
+{
+  "id": 2068884,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HB4359",
+  "title": "LONG-TERM CARE BILL OF RIGHTS",
+  "summary": "Creates the Sexual Orientation, Gender Identity, and Gender Expression in Long-Term Care Bill of Rights Act. Establishes rights for a client who lives in a long-term care facility, or who receives home care services from a home care provider, from discrimination on the basis of actual or perceived sex, actual or perceived sexual orientation, actual or perceived gender identity, actual or perceived gender expression, or actual or perceived HIV status. Provides that an aggrieved person may enforce violations of the Act against a long-term care facility or a home care provider and the staff of the long-term care facility or home care provider through a civil action. Sets forth provisions concerning gender identity in client records; required training for all long-term care facilities and home care providers; arbitration agreements; interpretation of the Act; and enforcement of rights, including civil penalties and other administrative actions. Amends the Assisted Living and Shared Housing Act, the Nursing Home Care Act, and the Home Health, Home Services, and Home Nursing Agency Licensing Act to require compliance with the Sexual orientation, Gender Identity, and Gender Expression in Long-Term Care Bill of Rights Act. Amends the Adult Protective Services Act to include intentional misgendering and unlawful discrimination in the definition of \"abuse\".",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "bathrooms",
+    "definitions"
+  ],
+  "primary_category": "bathrooms",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HB4359/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HB4359/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4359&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "sponsors": [
+    "Nicolle Grasse (D) [Rep]",
+    "Yolanda Morris (D) [Rep]",
+    "Dagmara Avelar (D) [Rep]",
+    "Rita Mayfield (D) [Rep]",
+    "Sharon Chung (D) [Rep]"
+  ],
+  "introduced_date": "2026-01-08",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-01-08",
+      "action": "Filed with the Clerk by Rep. Nicolle Grasse",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "First Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-14",
+      "action": "Referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-01-22",
+      "action": "Added Chief Co-Sponsor Rep. Yolonda Morris",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Added Co-Sponsor Rep. Dagmara Avelar",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-11",
+      "action": "Assigned to Judiciary - Civil Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-19",
+      "action": "Added Co-Sponsor Rep. Rita Mayfield",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-25",
+      "action": "Added Co-Sponsor Rep. Sharon Chung",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-08",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=206244&DocName=10400HB4359&DocNum=4359&DocTypeID=HB&LegID=164896&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3303574
+    }
+  ],
+  "committee": {
+    "committee_id": 3301,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Judiciary - Civil"
+  },
+  "subjects": []
+}

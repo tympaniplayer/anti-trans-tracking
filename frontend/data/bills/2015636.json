@@ -1,0 +1,49 @@
+{
+  "id": 2015636,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S06922",
+  "title": "Restricts the disclosure of personal information by businesses; provides that a business that retains a customer's personal information shall make available to the customer free of charge access to, or copies of, all of the customer's personal information retained by the business.",
+  "summary": "Restricts the disclosure of personal information by businesses; provides that a business that retains a customer's personal information shall make available to the customer free of charge access to, or copies of, all of the customer's personal information retained by the business.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S06922/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S06922/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S6922",
+  "sponsors": [
+    "Brad Hoylman-Sigal (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-27",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-27",
+      "action": "REFERRED TO CONSUMER PROTECTION",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-27",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S06922&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S06922",
+      "doc_id": 3191481
+    }
+  ],
+  "committee": {
+    "committee_id": 419,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Consumer Affairs and Protection"
+  },
+  "subjects": []
+}

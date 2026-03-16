@@ -1,0 +1,73 @@
+{
+  "id": 2027745,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB3124",
+  "title": "Women and Underrepresented Minorities in STEM Booster Act of 2025",
+  "summary": "To increase the participation of historically underrepresented demographic groups in science, technology, engineering, and mathematics education and industry.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB3124/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB3124/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/3124/all-info",
+  "sponsors": [
+    "Marilyn Strickland (D) [Rep]",
+    "Shontel Brown (D) [Rep]",
+    "Ed Case (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Jonathan Jackson (D) [Rep]",
+    "Joyce Beatty (D) [Rep]",
+    "Steve Cohen (D) [Rep]",
+    "LaMonica McIver (D) [Rep]",
+    "Jared Huffman (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "George Whitesides (D) [Rep]",
+    "Melanie Stansbury (D) [Rep]",
+    "Jill Tokuda (D) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "Jahana Hayes (D) [Rep]",
+    "Dwight Evans (D) [Rep]",
+    "Veronica Escobar (D) [Rep]",
+    "Emilia Sykes (D) [Rep]"
+  ],
+  "introduced_date": "2025-04-30",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2025-04-30",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2025-04-30",
+      "action": "Referred to the House Committee on Science, Space, and Technology.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-05-13",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr3124/BILLS-119hr3124ih.pdf",
+      "doc_id": 3235266
+    }
+  ],
+  "committee": {
+    "committee_id": 2313,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Science, Space, And Technology"
+  },
+  "subjects": [
+    "Science, technology, communications"
+  ]
+}

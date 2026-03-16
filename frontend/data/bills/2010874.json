@@ -1,0 +1,58 @@
+{
+  "id": 2010874,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S06636",
+  "title": "Suspends all unnecessary travel to states that have enacted a law that voids or repeals, or has the effect of voiding or repealing, existing state or local protections against discrimination on the basis of sexual orientation, gender identity, or gender expression or have enacted a law that authorizes or requires discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression, including any law that creates an exemption to antidiscrimination laws in order to permit discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression.",
+  "summary": "Suspends all unnecessary travel to states that have enacted a law that voids or repeals, or has the effect of voiding or repealing, existing state or local protections against discrimination on the basis of sexual orientation, gender identity, or gender expression or have enacted a law that authorizes or requires discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression, including any law that creates an exemption to antidiscrimination laws in order to permit discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "religious_exemptions"
+  ],
+  "primary_category": "religious_exemptions",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S06636/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S06636/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S6636",
+  "sponsors": [
+    "Robert Jackson (D) [Sen]",
+    "Brad Hoylman-Sigal (D) [Sen]",
+    "Liz Krueger (D) [Sen]",
+    "Julia Salazar (D) [Sen]",
+    "Luis Sepulveda (D) [Sen]"
+  ],
+  "introduced_date": "2025-03-19",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2025-03-19",
+      "action": "REFERRED TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-07",
+      "action": "REFERRED TO FINANCE",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2025-03-19",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S06636&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S06636",
+      "doc_id": 3181111
+    }
+  ],
+  "committee": {
+    "committee_id": 428,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Finance"
+  },
+  "subjects": []
+}

@@ -1,0 +1,61 @@
+{
+  "id": 2124499,
+  "state": "CT",
+  "state_name": "Connecticut",
+  "bill_number": "HB05003",
+  "title": "An Act Concerning Workforce Development And Working Conditions In The State.",
+  "summary": "To increase workforce development efforts and improve working conditions in the state.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CT/bill/HB05003/2026",
+  "legiscan_url": "https://legiscan.com/CT/bill/HB05003/2026",
+  "state_url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB05003&which_year=2026",
+  "sponsors": [
+    "Labor and Public Employees Committee [Jnt]",
+    "Roland Lemar (D) [Rep]",
+    "Rebecca Martinez (D) [Rep]",
+    "Kaitlyn Shake (D) [Rep]",
+    "Kara Rochelle (D) [Rep]",
+    "Laurie Sweet (D) [Rep]",
+    "Herron Gaston (D) [Sen]",
+    "Nick Gauthier (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-26",
+  "session": "2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-02-26",
+      "action": "Referred to Joint Committee on Labor and Public Employees",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-27",
+      "action": "Public Hearing 03/03",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-02-25",
+      "type": "Introduced",
+      "url": "https://www.cga.ct.gov/2026/TOB/H/PDF/2026HB-05003-R00-HB.PDF",
+      "doc_id": 3376231
+    }
+  ],
+  "committee": {
+    "committee_id": 1355,
+    "chamber": "J",
+    "chamber_id": 108,
+    "name": "Labor and Public Employees"
+  },
+  "subjects": []
+}

@@ -1,0 +1,82 @@
+{
+  "id": 2086272,
+  "state": "MD",
+  "state_name": "Maryland",
+  "bill_number": "SB274",
+  "title": "Fair Housing and Housing Discrimination - Regulations, Intent, and Discriminatory Effect",
+  "summary": "Authorizing the Department of Housing and Community Development to adopt certain regulations related to affirmatively furthering fair housing; providing that certain discriminatory housing practices may be committed without intent; prohibiting a person from acting in a certain manner that has a discriminatory effect; and providing that certain conduct necessary to achieve certain nondiscriminatory interests does not constitute a certain violation.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MD/bill/SB274/2026",
+  "legiscan_url": "https://legiscan.com/MD/bill/SB274/2026",
+  "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0274?ys=2026RS",
+  "sponsors": [
+    "Charles Sydnor (D) [Sen]"
+  ],
+  "introduced_date": "2026-01-19",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-01-19",
+      "action": "First Reading Judicial Proceedings",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-20",
+      "action": "Hearing 2/03 at 1:00 p.m.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Hearing canceled",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-01-27",
+      "action": "Hearing 2/03 at 2:00 p.m.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-01-20",
+      "type": "Introduced",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/sb/sb0274f.pdf",
+      "doc_id": 3323671
+    }
+  ],
+  "committee": {
+    "committee_id": 1934,
+    "chamber": "S",
+    "chamber_id": 50,
+    "name": "Judicial Proceedings"
+  },
+  "subjects": [
+    "Human Relations",
+    "Housing and Community Development",
+    "Awareness and Outreach",
+    "Boundaries",
+    "Civil Actions",
+    "Civil Rights and Social Equity",
+    "Discrimination",
+    "Housing and Community Development, Department of",
+    "Housing",
+    "Intergovernmental Cooperation",
+    "Leases and Rent",
+    "Nonprofit Organizations",
+    "Penalties and Sentences",
+    "Plans and Proposals",
+    "Real Estate",
+    "Reports",
+    "Rules and Regulations"
+  ]
+}
