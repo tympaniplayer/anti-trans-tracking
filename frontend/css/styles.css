@@ -148,6 +148,56 @@ a:hover { text-decoration: underline; }
   stroke: var(--color-text);
   stroke-width: 2;
 }
+.map-container svg path.selected {
+  stroke: var(--color-primary);
+  stroke-width: 3;
+  opacity: 1;
+  filter: drop-shadow(0 0 3px rgba(92, 107, 192, 0.5));
+}
+.map-container svg path.selected:hover {
+  stroke: var(--color-primary-dark);
+  stroke-width: 3;
+}
+.map-actions {
+  display: flex;
+  justify-content: center;
+  padding: 0.5rem 0;
+}
+.btn-federal {
+  background: var(--color-surface);
+  color: var(--color-text);
+  border: 2px solid var(--color-primary);
+  border-radius: var(--radius);
+  padding: 0.5rem 1.25rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  transition: background 0.15s, color 0.15s;
+}
+.btn-federal:hover {
+  background: var(--color-primary);
+  color: #fff;
+}
+.btn-federal.active {
+  background: var(--color-primary);
+  color: #fff;
+  box-shadow: 0 0 0 3px rgba(92, 107, 192, 0.3);
+}
+.btn-federal.active .federal-count {
+  background: rgba(255, 255, 255, 0.3);
+}
+.federal-count {
+  background: var(--color-accent);
+  color: #fff;
+  font-size: 0.75rem;
+  padding: 0.1rem 0.45rem;
+  border-radius: 10px;
+  min-width: 1.2rem;
+  text-align: center;
+}
 .map-legend {
   display: flex;
   gap: 1rem;

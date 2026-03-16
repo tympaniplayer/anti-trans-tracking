@@ -4,6 +4,7 @@
  */
 const MapView = (() => {
   let stateData = {};
+  let selectedState = null;
   const tooltip = document.getElementById('map-tooltip');
 
   // Color scale for bill counts
@@ -36,6 +37,13 @@ const MapView = (() => {
 
       colorizeMap();
       attachEvents();
+      initFederalButton();
+
+      // If a state filter is already set (e.g. from URL params), apply selection
+      const currentFilter = document.getElementById('filter-state')?.value;
+      if (currentFilter) {
+        setSelection(currentFilter);
+      }
     } catch (err) {
       console.error('Failed to load map SVG:', err);
       container.innerHTML = '<div style="text-align:center;padding:2rem;color:#999">Map could not be loaded</div>';
@@ -65,6 +73,61 @@ const MapView = (() => {
       path.addEventListener('mousemove', onMouseMove);
       path.addEventListener('mouseleave', onMouseLeave);
       path.addEventListener('click', onClick);
+    });
+  }
+
+  function setSelection(stateAbbr) {
+    clearSelection();
+    selectedState = stateAbbr;
+    const container = document.getElementById('map-container');
+    if (container) {
+      const path = container.querySelector(`svg path#${CSS.escape(stateAbbr)}`);
+      if (path) {
+        path.classList.add('selected');
+      }
+    }
+    // Update federal button active state
+    const fedBtn = document.getElementById('federal-btn');
+    if (fedBtn) {
+      fedBtn.classList.toggle('active', stateAbbr === 'US');
+    }
+  }
+
+  function clearSelection() {
+    selectedState = null;
+    const container = document.getElementById('map-container');
+    if (container) {
+      const prev = container.querySelector('svg path.selected');
+      if (prev) prev.classList.remove('selected');
+    }
+    const fedBtn = document.getElementById('federal-btn');
+    if (fedBtn) fedBtn.classList.remove('active');
+  }
+
+  function initFederalButton() {
+    const btn = document.getElementById('federal-btn');
+    if (!btn) return;
+
+    // Set the count badge
+    const countEl = document.getElementById('federal-count');
+    if (countEl && stateData['US']) {
+      countEl.textContent = stateData['US'].total;
+    }
+
+    btn.addEventListener('click', () => {
+      if (selectedState === 'US') {
+        clearSelection();
+        if (typeof Filters !== 'undefined') {
+          Filters.setStateFilter('');
+        }
+      } else {
+        clearSelection();
+        selectedState = 'US';
+        btn.classList.add('active');
+        if (typeof Filters !== 'undefined') {
+          Filters.setStateFilter('US');
+        }
+      }
     });
   }
 
@@ -104,8 +167,18 @@ const MapView = (() => {
 
   function onClick(e) {
     const stateAbbr = e.target.id;
-    if (typeof Filters !== 'undefined') {
-      Filters.setStateFilter(stateAbbr);
+    if (selectedState === stateAbbr) {
+      // Toggle off: clicking the same state deselects it
+      clearSelection();
+      if (typeof Filters !== 'undefined') {
+        Filters.setStateFilter('');
+      }
+    } else {
+      // Select new state
+      setSelection(stateAbbr);
+      if (typeof Filters !== 'undefined') {
+        Filters.setStateFilter(stateAbbr);
+      }
     }
   }
 
@@ -114,5 +187,5 @@ const MapView = (() => {
     colorizeMap();
   }
 
-  return { init, refresh, colorizeMap };
+  return { init, refresh, colorizeMap, setSelection, clearSelection };
 })();
