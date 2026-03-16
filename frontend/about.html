@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About — Anti-Trans Legislation Tracker</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1 class="site-title"><a href="index.html">Anti-Trans Legislation Tracker</a></h1>
+      <nav class="site-nav">
+        <a href="index.html">Tracker</a>
+        <a href="about.html" class="active">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <article class="about-content">
+      <h2>About This Project</h2>
+
+      <p>
+        The Anti-Trans Legislation Tracker is an automated, open-data tool for monitoring
+        legislation targeting transgender people across all levels of United States government —
+        federal, state, and local.
+      </p>
+
+      <h3>How It Works</h3>
+      <p>
+        Every day, our automated scraper searches the <a href="https://legiscan.com" target="_blank" rel="noopener">LegiScan</a>
+        legislative database for bills related to transgender rights using a comprehensive set of
+        keywords. Each bill is automatically categorized by topic and its status is tracked over time.
+      </p>
+
+      <h3>Categories</h3>
+      <table class="about-table">
+        <thead>
+          <tr><th>Category</th><th>Description</th></tr>
+        </thead>
+        <tbody>
+          <tr><td><span class="cat-dot cat-healthcare"></span> Healthcare</td><td>Bills restricting gender-affirming care (puberty blockers, hormones, surgery)</td></tr>
+          <tr><td><span class="cat-dot cat-sports"></span> Sports</td><td>Bills banning transgender athletes from school/college sports</td></tr>
+          <tr><td><span class="cat-dot cat-bathrooms"></span> Bathrooms</td><td>Bills restricting access to bathrooms and changing facilities</td></tr>
+          <tr><td><span class="cat-dot cat-education"></span> Education</td><td>Bills restricting discussion of gender identity in schools, pronoun policies</td></tr>
+          <tr><td><span class="cat-dot cat-drag"></span> Drag</td><td>Bills restricting drag performances or shows</td></tr>
+          <tr><td><span class="cat-dot cat-identity_documents"></span> Identity Documents</td><td>Bills restricting changes to gender markers on IDs and birth certificates</td></tr>
+          <tr><td><span class="cat-dot cat-religious_exemptions"></span> Religious Exemptions</td><td>Bills providing religious exemptions to refuse services to trans people</td></tr>
+          <tr><td><span class="cat-dot cat-definitions"></span> Definitions</td><td>Bills defining sex in law as biological sex at birth</td></tr>
+        </tbody>
+      </table>
+
+      <h3>Data Sources</h3>
+      <p>
+        All legislative data is sourced from <a href="https://legiscan.com" target="_blank" rel="noopener">LegiScan</a>,
+        which provides comprehensive legislative tracking for all 50 states, the District of Columbia,
+        and the United States Congress.
+      </p>
+
+      <h3>Open Data</h3>
+      <p>
+        All tracked bill data is available as open JSON files that anyone can use:
+      </p>
+      <ul>
+        <li><a href="data/bills.json" target="_blank">bills.json</a> — All tracked bills with summary data</li>
+        <li><a href="data/states.json" target="_blank">states.json</a> — Per-state summary and counts</li>
+        <li><a href="data/metadata.json" target="_blank">metadata.json</a> — Overall statistics and last update time</li>
+      </ul>
+
+      <h3>Limitations</h3>
+      <ul>
+        <li>Bill categorization is automated and may occasionally miscategorize bills</li>
+        <li>Local/municipal legislation coverage depends on LegiScan's data availability</li>
+        <li>The tracker identifies bills by keyword matching — some relevant bills may be missed if they use unusual language</li>
+        <li>Data updates daily; there may be a delay between a bill's introduction and its appearance here</li>
+      </ul>
+
+      <h3>Contributing</h3>
+      <p>
+        This is an open-source project. Contributions, bug reports, and suggestions are welcome on
+        <a href="https://github.com/tympaniplayer/anti-trans-tracking" target="_blank" rel="noopener">GitHub</a>.
+      </p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>
+        Data sourced from <a href="https://legiscan.com" target="_blank" rel="noopener">LegiScan</a>.
+      </p>
+    </div>
+  </footer>
+</body>
+</html>

@@ -1,0 +1,86 @@
+{
+  "TX": {
+    "state": "TX",
+    "state_name": "Texas",
+    "total": 1,
+    "by_category": {"healthcare": 1},
+    "by_status": {"signed_into_law": 1}
+  },
+  "FL": {
+    "state": "FL",
+    "state_name": "Florida",
+    "total": 1,
+    "by_category": {"bathrooms": 1},
+    "by_status": {"introduced": 1}
+  },
+  "MO": {
+    "state": "MO",
+    "state_name": "Missouri",
+    "total": 1,
+    "by_category": {"sports": 1},
+    "by_status": {"in_committee": 1}
+  },
+  "TN": {
+    "state": "TN",
+    "state_name": "Tennessee",
+    "total": 1,
+    "by_category": {"drag": 1},
+    "by_status": {"passed_one_chamber": 1}
+  },
+  "OH": {
+    "state": "OH",
+    "state_name": "Ohio",
+    "total": 1,
+    "by_category": {"healthcare": 1},
+    "by_status": {"signed_into_law": 1}
+  },
+  "GA": {
+    "state": "GA",
+    "state_name": "Georgia",
+    "total": 1,
+    "by_category": {"definitions": 1},
+    "by_status": {"introduced": 1}
+  },
+  "IN": {
+    "state": "IN",
+    "state_name": "Indiana",
+    "total": 1,
+    "by_category": {"education": 1},
+    "by_status": {"in_committee": 1}
+  },
+  "US": {
+    "state": "US",
+    "state_name": "Federal",
+    "total": 1,
+    "by_category": {"sports": 1},
+    "by_status": {"introduced": 1}
+  },
+  "MT": {
+    "state": "MT",
+    "state_name": "Montana",
+    "total": 1,
+    "by_category": {"identity_documents": 1},
+    "by_status": {"passed_both_chambers": 1}
+  },
+  "SC": {
+    "state": "SC",
+    "state_name": "South Carolina",
+    "total": 1,
+    "by_category": {"religious_exemptions": 1},
+    "by_status": {"introduced": 1}
+  },
+  "AL": {
+    "state": "AL",
+    "state_name": "Alabama",
+    "total": 1,
+    "by_category": {"healthcare": 1},
+    "by_status": {"signed_into_law": 1}
+  },
+  "KS": {
+    "state": "KS",
+    "state_name": "Kansas",
+    "total": 1,
+    "by_category": {"definitions": 1},
+    "by_status": {"passed_one_chamber": 1}
+  }
+}

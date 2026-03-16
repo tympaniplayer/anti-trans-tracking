@@ -1,0 +1,556 @@
+/* ===== CSS Custom Properties ===== */
+:root {
+  --color-bg: #fafafa;
+  --color-surface: #ffffff;
+  --color-text: #1a1a2e;
+  --color-text-secondary: #555;
+  --color-border: #e0e0e0;
+  --color-primary: #5c6bc0;
+  --color-primary-dark: #3949ab;
+  --color-accent: #e53935;
+
+  /* Category colors */
+  --cat-healthcare: #e53935;
+  --cat-sports: #f57c00;
+  --cat-bathrooms: #fbc02d;
+  --cat-education: #1e88e5;
+  --cat-drag: #8e24aa;
+  --cat-identity_documents: #43a047;
+  --cat-religious_exemptions: #00897b;
+  --cat-definitions: #757575;
+  --cat-other: #9e9e9e;
+
+  /* Status colors */
+  --status-introduced: #90caf9;
+  --status-in_committee: #80cbc4;
+  --status-passed_one_chamber: #ffcc02;
+  --status-passed_both_chambers: #ff9800;
+  --status-signed_into_law: #e53935;
+  --status-vetoed: #4caf50;
+  --status-dead: #bdbdbd;
+
+  --radius: 6px;
+  --shadow: 0 1px 3px rgba(0,0,0,0.1);
+  --shadow-lg: 0 4px 12px rgba(0,0,0,0.1);
+  --max-width: 1200px;
+}
+
+/* ===== Reset & Base ===== */
+*, *::before, *::after { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: var(--color-bg);
+  color: var(--color-text);
+  line-height: 1.6;
+}
+a { color: var(--color-primary); text-decoration: none; }
+a:hover { text-decoration: underline; }
+.container { max-width: var(--max-width); margin: 0 auto; padding: 0 1rem; }
+
+/* ===== Header ===== */
+.site-header {
+  background: var(--color-text);
+  color: #fff;
+  padding: 0.75rem 0;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: var(--shadow-lg);
+}
+.site-header .container { display: flex; align-items: center; justify-content: space-between; }
+.site-title { margin: 0; font-size: 1.2rem; font-weight: 700; }
+.site-title a { color: #fff; }
+.site-title a:hover { text-decoration: none; }
+.site-nav a {
+  color: rgba(255,255,255,0.8);
+  margin-left: 1.5rem;
+  font-size: 0.9rem;
+  font-weight: 500;
+}
+.site-nav a:hover, .site-nav a.active { color: #fff; text-decoration: none; }
+
+/* ===== Stats Bar ===== */
+.stats-bar {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  padding: 1.5rem 0;
+  flex-wrap: wrap;
+}
+.stat {
+  text-align: center;
+  background: var(--color-surface);
+  padding: 1rem 1.5rem;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  min-width: 120px;
+}
+.stat-number { display: block; font-size: 2rem; font-weight: 700; color: var(--color-accent); }
+.stat-label { font-size: 0.8rem; color: var(--color-text-secondary); text-transform: uppercase; letter-spacing: 0.05em; }
+
+/* ===== Search ===== */
+.search-section { padding: 1rem 0; }
+.search-wrapper { position: relative; max-width: 600px; margin: 0 auto; }
+.search-input {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  padding-right: 2.5rem;
+  font-size: 1rem;
+  border: 2px solid var(--color-border);
+  border-radius: var(--radius);
+  outline: none;
+  transition: border-color 0.2s;
+}
+.search-input:focus { border-color: var(--color-primary); }
+.search-clear {
+  position: absolute;
+  right: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  background: none;
+  border: none;
+  font-size: 1.5rem;
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  padding: 0.25rem 0.5rem;
+}
+
+/* ===== Map ===== */
+.map-section {
+  padding: 1rem 0;
+}
+.map-section h2 {
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+.map-container {
+  position: relative;
+  background: var(--color-surface);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1rem;
+  overflow: hidden;
+}
+.map-container svg {
+  width: 100%;
+  height: auto;
+  max-height: 450px;
+}
+.map-container svg path {
+  stroke: #fff;
+  stroke-width: 1;
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+.map-container svg path:hover {
+  opacity: 0.8;
+  stroke: var(--color-text);
+  stroke-width: 2;
+}
+.map-legend {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  padding: 0.5rem 0;
+  flex-wrap: wrap;
+  font-size: 0.8rem;
+  color: var(--color-text-secondary);
+}
+.legend-item { display: flex; align-items: center; gap: 0.3rem; }
+.legend-color { width: 16px; height: 12px; border-radius: 2px; border: 1px solid var(--color-border); }
+.map-tooltip {
+  position: fixed;
+  background: var(--color-text);
+  color: #fff;
+  padding: 0.5rem 0.75rem;
+  border-radius: var(--radius);
+  font-size: 0.85rem;
+  pointer-events: none;
+  z-index: 200;
+  box-shadow: var(--shadow-lg);
+  white-space: nowrap;
+}
+
+/* ===== Filters + Results Layout ===== */
+.content-section {
+  display: grid;
+  grid-template-columns: 250px 1fr;
+  gap: 1.5rem;
+  padding: 1.5rem 0 3rem;
+}
+
+.filters-panel {
+  background: var(--color-surface);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1rem;
+  position: sticky;
+  top: 70px;
+  max-height: calc(100vh - 80px);
+  overflow-y: auto;
+}
+.filters-panel h3 {
+  margin: 0 0 1rem;
+  font-size: 1rem;
+  border-bottom: 2px solid var(--color-border);
+  padding-bottom: 0.5rem;
+}
+.filter-group {
+  margin-bottom: 1rem;
+}
+.filter-group > label {
+  display: block;
+  font-weight: 600;
+  font-size: 0.85rem;
+  margin-bottom: 0.35rem;
+  color: var(--color-text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+.filter-group select {
+  width: 100%;
+  padding: 0.4rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  font-size: 0.9rem;
+}
+.checkbox-group label {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.85rem;
+  padding: 0.15rem 0;
+  cursor: pointer;
+}
+.checkbox-group input[type="checkbox"] { margin: 0; }
+.date-range {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.85rem;
+}
+.date-range input {
+  flex: 1;
+  padding: 0.3rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  font-size: 0.85rem;
+}
+.btn {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: var(--radius);
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+.btn-secondary {
+  background: var(--color-border);
+  color: var(--color-text);
+  width: 100%;
+}
+.btn-secondary:hover { background: #ccc; }
+
+/* ===== Results ===== */
+.results-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+  font-size: 0.9rem;
+}
+.results-sort { display: flex; align-items: center; gap: 0.5rem; }
+.results-sort select {
+  padding: 0.3rem 0.5rem;
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+  font-size: 0.85rem;
+}
+.results-list { display: flex; flex-direction: column; gap: 0.75rem; }
+
+/* ===== Bill Card ===== */
+.bill-card {
+  background: var(--color-surface);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 1rem;
+  border-left: 4px solid var(--color-border);
+  transition: box-shadow 0.15s;
+  cursor: pointer;
+}
+.bill-card:hover { box-shadow: var(--shadow-lg); }
+.bill-card[data-category="healthcare"] { border-left-color: var(--cat-healthcare); }
+.bill-card[data-category="sports"] { border-left-color: var(--cat-sports); }
+.bill-card[data-category="bathrooms"] { border-left-color: var(--cat-bathrooms); }
+.bill-card[data-category="education"] { border-left-color: var(--cat-education); }
+.bill-card[data-category="drag"] { border-left-color: var(--cat-drag); }
+.bill-card[data-category="identity_documents"] { border-left-color: var(--cat-identity_documents); }
+.bill-card[data-category="religious_exemptions"] { border-left-color: var(--cat-religious_exemptions); }
+.bill-card[data-category="definitions"] { border-left-color: var(--cat-definitions); }
+
+.bill-card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 0.5rem;
+  margin-bottom: 0.35rem;
+}
+.bill-card-id {
+  font-weight: 700;
+  font-size: 0.95rem;
+  white-space: nowrap;
+}
+.bill-card-state {
+  font-size: 0.8rem;
+  color: var(--color-text-secondary);
+  background: #f0f0f0;
+  padding: 0.1rem 0.4rem;
+  border-radius: 3px;
+  white-space: nowrap;
+}
+.bill-card-title {
+  font-size: 0.9rem;
+  margin-bottom: 0.35rem;
+  line-height: 1.4;
+}
+.bill-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  align-items: center;
+  font-size: 0.8rem;
+}
+
+/* Category dots */
+.cat-dot {
+  display: inline-block;
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+.cat-healthcare { background: var(--cat-healthcare); }
+.cat-sports { background: var(--cat-sports); }
+.cat-bathrooms { background: var(--cat-bathrooms); }
+.cat-education { background: var(--cat-education); }
+.cat-drag { background: var(--cat-drag); }
+.cat-identity_documents { background: var(--cat-identity_documents); }
+.cat-religious_exemptions { background: var(--cat-religious_exemptions); }
+.cat-definitions { background: var(--cat-definitions); }
+.cat-other { background: var(--cat-other); }
+
+/* Category tags */
+.cat-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.25rem;
+  padding: 0.15rem 0.5rem;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  text-transform: capitalize;
+}
+.cat-tag-healthcare { background: #ffebee; color: #c62828; }
+.cat-tag-sports { background: #fff3e0; color: #e65100; }
+.cat-tag-bathrooms { background: #fffde7; color: #f57f17; }
+.cat-tag-education { background: #e3f2fd; color: #1565c0; }
+.cat-tag-drag { background: #f3e5f5; color: #6a1b9a; }
+.cat-tag-identity_documents { background: #e8f5e9; color: #2e7d32; }
+.cat-tag-religious_exemptions { background: #e0f2f1; color: #00695c; }
+.cat-tag-definitions { background: #f5f5f5; color: #424242; }
+.cat-tag-other { background: #fafafa; color: #616161; }
+
+/* Status badges */
+.status-badge {
+  display: inline-block;
+  padding: 0.15rem 0.5rem;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  font-weight: 600;
+}
+.status-introduced { background: #e3f2fd; color: #1565c0; }
+.status-in_committee { background: #e0f2f1; color: #00695c; }
+.status-passed_one_chamber { background: #fff8e1; color: #f57f17; }
+.status-passed_both_chambers { background: #fff3e0; color: #e65100; }
+.status-signed_into_law { background: #ffebee; color: #c62828; }
+.status-vetoed { background: #e8f5e9; color: #2e7d32; }
+.status-dead { background: #f5f5f5; color: #757575; }
+.status-unknown { background: #f5f5f5; color: #757575; }
+.status-draft { background: #f5f5f5; color: #757575; }
+.status-override { background: #fff3e0; color: #e65100; }
+
+/* ===== Bill Detail Page ===== */
+.back-link {
+  display: inline-block;
+  margin: 1rem 0;
+  font-size: 0.9rem;
+}
+.bill-detail {
+  background: var(--color-surface);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 2rem;
+  margin-bottom: 2rem;
+}
+.bill-detail h2 {
+  margin: 0 0 0.5rem;
+  font-size: 1.4rem;
+}
+.bill-detail-number {
+  font-size: 1rem;
+  color: var(--color-text-secondary);
+  margin-bottom: 1rem;
+}
+.bill-detail-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin-bottom: 1.5rem;
+}
+.bill-detail-section {
+  margin-bottom: 1.5rem;
+}
+.bill-detail-section h3 {
+  font-size: 1rem;
+  border-bottom: 1px solid var(--color-border);
+  padding-bottom: 0.35rem;
+  margin-bottom: 0.75rem;
+}
+.bill-detail-section p {
+  margin: 0.5rem 0;
+}
+
+/* Action timeline */
+.action-timeline {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.action-timeline li {
+  position: relative;
+  padding: 0.5rem 0 0.5rem 1.5rem;
+  border-left: 2px solid var(--color-border);
+  font-size: 0.9rem;
+}
+.action-timeline li::before {
+  content: '';
+  position: absolute;
+  left: -5px;
+  top: 0.75rem;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: var(--color-primary);
+}
+.action-timeline li:last-child { border-left-color: transparent; }
+.action-date { font-weight: 600; color: var(--color-text-secondary); font-size: 0.8rem; }
+
+/* Sponsors list */
+.sponsors-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.sponsors-list li {
+  padding: 0.25rem 0;
+  font-size: 0.9rem;
+}
+
+/* Vote table */
+.vote-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85rem;
+}
+.vote-table th, .vote-table td {
+  padding: 0.4rem 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid var(--color-border);
+}
+.vote-table th { font-weight: 600; background: #f5f5f5; }
+
+/* External links */
+.bill-links {
+  display: flex;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+}
+.bill-links a {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius);
+  background: var(--color-primary);
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+.bill-links a:hover { background: var(--color-primary-dark); text-decoration: none; }
+
+.bill-loading {
+  text-align: center;
+  padding: 3rem;
+  color: var(--color-text-secondary);
+}
+
+/* ===== About Page ===== */
+.about-content {
+  background: var(--color-surface);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 2rem;
+  margin: 1.5rem 0 3rem;
+  max-width: 800px;
+}
+.about-content h2 { margin-top: 0; }
+.about-content h3 { margin-top: 1.5rem; }
+.about-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9rem;
+  margin: 0.5rem 0;
+}
+.about-table th, .about-table td {
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+  border-bottom: 1px solid var(--color-border);
+}
+.about-table th { background: #f5f5f5; }
+
+/* ===== Footer ===== */
+.site-footer {
+  background: var(--color-text);
+  color: rgba(255,255,255,0.7);
+  padding: 1.5rem 0;
+  font-size: 0.85rem;
+  text-align: center;
+}
+.site-footer a { color: rgba(255,255,255,0.9); }
+.site-footer p { margin: 0.25rem 0; }
+
+/* ===== No Results ===== */
+.no-results {
+  text-align: center;
+  padding: 3rem 1rem;
+  color: var(--color-text-secondary);
+  font-size: 1rem;
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 768px) {
+  .content-section {
+    grid-template-columns: 1fr;
+  }
+  .filters-panel {
+    position: static;
+    max-height: none;
+  }
+  .stats-bar { gap: 0.5rem; }
+  .stat { padding: 0.75rem 1rem; min-width: 80px; }
+  .stat-number { font-size: 1.5rem; }
+  .site-header .container { flex-direction: column; gap: 0.5rem; text-align: center; }
+  .site-nav a { margin-left: 1rem; }
+  .bill-detail { padding: 1rem; }
+  .about-content { padding: 1rem; }
+  .bill-card-header { flex-direction: column; }
+}

@@ -1,0 +1,26 @@
+{
+  "last_updated": "2026-03-16T00:00:00Z",
+  "total_bills": 12,
+  "total_states": 12,
+  "by_category": {
+    "healthcare": 3,
+    "sports": 2,
+    "bathrooms": 1,
+    "drag": 1,
+    "education": 1,
+    "definitions": 2,
+    "identity_documents": 1,
+    "religious_exemptions": 1
+  },
+  "by_status": {
+    "signed_into_law": 3,
+    "introduced": 4,
+    "in_committee": 2,
+    "passed_one_chamber": 2,
+    "passed_both_chambers": 1
+  },
+  "by_level": {
+    "state": 11,
+    "federal": 1
+  }
+}

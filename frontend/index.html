@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Anti-Trans Legislation Tracker</title>
+  <meta name="description" content="Track and search anti-trans legislation at all levels of US government — local, state, and federal.">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container">
+      <h1 class="site-title"><a href="index.html">Anti-Trans Legislation Tracker</a></h1>
+      <nav class="site-nav">
+        <a href="index.html" class="active">Tracker</a>
+        <a href="about.html">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container">
+    <!-- Stats bar -->
+    <section class="stats-bar" id="stats-bar">
+      <div class="stat">
+        <span class="stat-number" id="stat-total">—</span>
+        <span class="stat-label">Total Bills</span>
+      </div>
+      <div class="stat">
+        <span class="stat-number" id="stat-states">—</span>
+        <span class="stat-label">States</span>
+      </div>
+      <div class="stat">
+        <span class="stat-number" id="stat-signed">—</span>
+        <span class="stat-label">Signed into Law</span>
+      </div>
+      <div class="stat">
+        <span class="stat-number" id="stat-active">—</span>
+        <span class="stat-label">Active Bills</span>
+      </div>
+    </section>
+
+    <!-- Search -->
+    <section class="search-section">
+      <div class="search-wrapper">
+        <input type="text" id="search-input" class="search-input" placeholder="Search bills by title, summary, state..." autocomplete="off">
+        <button id="search-clear" class="search-clear" hidden>&times;</button>
+      </div>
+    </section>
+
+    <!-- Map -->
+    <section class="map-section">
+      <h2>Bills by State</h2>
+      <div class="map-container" id="map-container">
+        <!-- SVG map loaded here -->
+      </div>
+      <div class="map-legend">
+        <span class="legend-item"><span class="legend-color" style="background:#f0f0f0"></span> 0 bills</span>
+        <span class="legend-item"><span class="legend-color" style="background:#fcbba1"></span> 1-2</span>
+        <span class="legend-item"><span class="legend-color" style="background:#fc9272"></span> 3-5</span>
+        <span class="legend-item"><span class="legend-color" style="background:#fb6a4a"></span> 6-10</span>
+        <span class="legend-item"><span class="legend-color" style="background:#de2d26"></span> 11-20</span>
+        <span class="legend-item"><span class="legend-color" style="background:#a50f15"></span> 20+</span>
+      </div>
+      <div class="map-tooltip" id="map-tooltip" hidden></div>
+    </section>
+
+    <!-- Filters + Results -->
+    <section class="content-section">
+      <aside class="filters-panel" id="filters-panel">
+        <h3>Filters</h3>
+
+        <div class="filter-group">
+          <label for="filter-state">State</label>
+          <select id="filter-state">
+            <option value="">All States</option>
+          </select>
+        </div>
+
+        <div class="filter-group">
+          <label>Government Level</label>
+          <div class="checkbox-group" id="filter-level">
+            <label><input type="checkbox" value="federal" checked> Federal</label>
+            <label><input type="checkbox" value="state" checked> State</label>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label>Category</label>
+          <div class="checkbox-group" id="filter-category">
+            <label><input type="checkbox" value="healthcare" checked> <span class="cat-dot cat-healthcare"></span> Healthcare</label>
+            <label><input type="checkbox" value="sports" checked> <span class="cat-dot cat-sports"></span> Sports</label>
+            <label><input type="checkbox" value="bathrooms" checked> <span class="cat-dot cat-bathrooms"></span> Bathrooms</label>
+            <label><input type="checkbox" value="education" checked> <span class="cat-dot cat-education"></span> Education</label>
+            <label><input type="checkbox" value="drag" checked> <span class="cat-dot cat-drag"></span> Drag</label>
+            <label><input type="checkbox" value="identity_documents" checked> <span class="cat-dot cat-identity_documents"></span> IDs</label>
+            <label><input type="checkbox" value="religious_exemptions" checked> <span class="cat-dot cat-religious_exemptions"></span> Religious Exemptions</label>
+            <label><input type="checkbox" value="definitions" checked> <span class="cat-dot cat-definitions"></span> Definitions</label>
+            <label><input type="checkbox" value="other" checked> <span class="cat-dot cat-other"></span> Other</label>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label>Status</label>
+          <div class="checkbox-group" id="filter-status">
+            <label><input type="checkbox" value="introduced" checked> Introduced</label>
+            <label><input type="checkbox" value="in_committee" checked> In Committee</label>
+            <label><input type="checkbox" value="passed_one_chamber" checked> Passed One Chamber</label>
+            <label><input type="checkbox" value="passed_both_chambers" checked> Passed Both Chambers</label>
+            <label><input type="checkbox" value="signed_into_law" checked> Signed into Law</label>
+            <label><input type="checkbox" value="vetoed" checked> Vetoed</label>
+            <label><input type="checkbox" value="dead" checked> Dead/Failed</label>
+          </div>
+        </div>
+
+        <div class="filter-group">
+          <label for="filter-date-from">Date Range</label>
+          <div class="date-range">
+            <input type="date" id="filter-date-from" placeholder="From">
+            <span>to</span>
+            <input type="date" id="filter-date-to" placeholder="To">
+          </div>
+        </div>
+
+        <button id="filters-reset" class="btn btn-secondary">Reset Filters</button>
+      </aside>
+
+      <div class="results-panel">
+        <div class="results-header">
+          <span id="results-count">Loading...</span>
+          <div class="results-sort">
+            <label for="sort-select">Sort by:</label>
+            <select id="sort-select">
+              <option value="date-desc">Newest First</option>
+              <option value="date-asc">Oldest First</option>
+              <option value="state-asc">State A-Z</option>
+              <option value="state-desc">State Z-A</option>
+            </select>
+          </div>
+        </div>
+        <div class="results-list" id="results-list">
+          <!-- Bill cards rendered here -->
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>
+        Data sourced from <a href="https://legiscan.com" target="_blank" rel="noopener">LegiScan</a>.
+        Last updated: <span id="last-updated">—</span>
+      </p>
+      <p>
+        <a href="about.html">About</a> ·
+        <a href="data/bills.json" target="_blank">Open Data (JSON)</a>
+      </p>
+    </div>
+  </footer>
+
+  <!-- Fuse.js for search -->
+  <script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+  <script src="js/app.js"></script>
+  <script src="js/map.js"></script>
+  <script src="js/search.js"></script>
+  <script src="js/filters.js"></script>
+</body>
+</html>
