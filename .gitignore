@@ -8,3 +8,5 @@ node_modules/
 .idea/
 test-results/
 playwright-report/
+scraper/cache/
+scraper/venv/

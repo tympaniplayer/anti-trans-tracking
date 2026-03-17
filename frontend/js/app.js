@@ -20,6 +20,12 @@ const App = (() => {
     other: 'Other',
   };
 
+  const SENTIMENT_LABELS = {
+    restrictive: 'Restrictive',
+    protective: 'Protective',
+    neutral: 'Neutral',
+  };
+
   const STATUS_LABELS = {
     introduced: 'Introduced',
     in_committee: 'In Committee',
@@ -138,6 +144,9 @@ const App = (() => {
             <span class="cat-dot cat-${bill.primary_category}"></span>
             ${CATEGORY_LABELS[bill.primary_category] || bill.primary_category}
           </span>
+          ${bill.sentiment ? `<span class="sentiment-badge sentiment-${bill.sentiment}">
+            ${SENTIMENT_LABELS[bill.sentiment] || bill.sentiment}
+          </span>` : ''}
           <span class="status-badge status-${bill.status}">
             ${STATUS_LABELS[bill.status] || bill.status}
           </span>

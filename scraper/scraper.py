@@ -24,6 +24,7 @@ from config import (
     STATUS_MAP,
     STATUS_SIMPLIFIED,
     STATE_NAMES,
+    SENTIMENT_LABELS,
     MAX_SEARCH_PAGES,
     MIN_RELEVANCE,
     TITLE_FILTER_KEYWORDS,
@@ -31,6 +32,7 @@ from config import (
 )
 from legiscan_client import LegiScanClient, LegiScanError
 from categorizer import categorize_bill
+from classifier import batch_classify
 
 
 def load_existing_bills():
@@ -121,7 +123,7 @@ def determine_level(bill):
     return "state"
 
 
-def process_bill(bill_data, search_info):
+def process_bill(bill_data, search_info, classification=None):
     """Process a raw bill from LegiScan into our summary format."""
     bill_id = bill_data.get("bill_id", 0)
     state = bill_data.get("state", "")
@@ -130,8 +132,13 @@ def process_bill(bill_data, search_info):
     status_code = bill_data.get("status", 0)
     bill_number = bill_data.get("bill_number", "")
 
-    # Categorize
-    cat_result = categorize_bill(title, description)
+    # Use ML classification if available, otherwise fall back to keyword matching
+    if classification:
+        cat_result = classification
+    else:
+        cat_result = categorize_bill(title, description)
+        cat_result["sentiment"] = "neutral"
+        cat_result["relevant"] = True
 
     # Get sponsors
     sponsors = []
@@ -190,6 +197,9 @@ def process_bill(bill_data, search_info):
         "status_code": status_code,
         "categories": cat_result["categories"],
         "primary_category": cat_result["primary_category"],
+        "sentiment": cat_result.get("sentiment", "neutral"),
+        "sentiment_label": SENTIMENT_LABELS.get(cat_result.get("sentiment", "neutral"), "Neutral"),
+        "relevant": cat_result.get("relevant", True),
         "level": determine_level(bill_data),
         "last_action_date": bill_data.get("last_action_date", ""),
         "last_action": bill_data.get("last_action", ""),
@@ -227,16 +237,19 @@ def generate_state_summary(bills):
                 "total": 0,
                 "by_category": defaultdict(int),
                 "by_status": defaultdict(int),
+                "by_sentiment": defaultdict(int),
             }
 
         state_data[state]["total"] += 1
         state_data[state]["by_category"][bill["primary_category"]] += 1
         state_data[state]["by_status"][bill["status"]] += 1
+        state_data[state]["by_sentiment"][bill.get("sentiment", "neutral")] += 1
 
     # Convert defaultdicts to regular dicts for JSON serialization
     for state in state_data:
         state_data[state]["by_category"] = dict(state_data[state]["by_category"])
         state_data[state]["by_status"] = dict(state_data[state]["by_status"])
+        state_data[state]["by_sentiment"] = dict(state_data[state]["by_sentiment"])
 
     return state_data
 
@@ -246,11 +259,13 @@ def generate_metadata(bills, state_data):
     category_counts = defaultdict(int)
     status_counts = defaultdict(int)
     level_counts = defaultdict(int)
+    sentiment_counts = defaultdict(int)
 
     for bill in bills:
         category_counts[bill["primary_category"]] += 1
         status_counts[bill["status"]] += 1
         level_counts[bill["level"]] += 1
+        sentiment_counts[bill.get("sentiment", "neutral")] += 1
 
     return {
         "last_updated": datetime.now(timezone.utc).isoformat(),
@@ -259,6 +274,7 @@ def generate_metadata(bills, state_data):
         "by_category": dict(category_counts),
         "by_status": dict(status_counts),
         "by_level": dict(level_counts),
+        "by_sentiment": dict(sentiment_counts),
     }
 
 
@@ -293,6 +309,8 @@ def main():
     parser = argparse.ArgumentParser(description="Anti-Trans Legislation Tracker Scraper")
     parser.add_argument("--limit", type=int, default=0,
                         help="Limit the number of bills to fetch details for (0 = no limit)")
+    parser.add_argument("--skip-classify", action="store_true",
+                        help="Skip ML classification (use keyword fallback)")
     args = parser.parse_args()
 
     if not LEGISCAN_API_KEY:
@@ -319,17 +337,59 @@ def main():
 
     # Fetch details for each bill
     print("\n--- Fetching bill details ---")
-    all_summaries = []
-    all_details = []
+    fetched_bills = []  # (bill_data, search_info) pairs
     total = len(found)
 
     for i, (bill_id, search_info) in enumerate(found.items(), 1):
         print(f"  [{i}/{total}] Fetching bill {bill_id}...")
         bill_data = fetch_bill_details(client, bill_id, existing_bills)
         if bill_data:
-            summary, detail = process_bill(bill_data, search_info)
-            all_summaries.append(summary)
-            all_details.append(detail)
+            fetched_bills.append((bill_data, search_info))
+
+    # Classify bills using ML
+    classifications = {}
+    if not args.skip_classify:
+        print("\n--- Classifying bills ---")
+        bills_for_classification = []
+        for bill_data, search_info in fetched_bills:
+            sponsors_str = ", ".join(
+                f"{s.get('name', '')} ({s.get('party', '')})"
+                for s in bill_data.get("sponsors", [])
+                if s.get("name")
+            )
+            subjects_str = ", ".join(
+                s.get("subject_name", "")
+                for s in bill_data.get("subjects", [])
+            )
+            bills_for_classification.append({
+                "bill_id": bill_data.get("bill_id", 0),
+                "title": bill_data.get("title", ""),
+                "description": bill_data.get("description", ""),
+                "sponsors": sponsors_str,
+                "subjects": subjects_str,
+            })
+        classifications = batch_classify(bills_for_classification)
+
+    # Process bills into output format
+    all_summaries = []
+    all_details = []
+    filtered_count = 0
+
+    for bill_data, search_info in fetched_bills:
+        bill_id = bill_data.get("bill_id", 0)
+        classification = classifications.get(bill_id)
+        summary, detail = process_bill(bill_data, search_info, classification)
+
+        # Filter out irrelevant bills (only when classification is available)
+        if classification and not summary.get("relevant", True):
+            filtered_count += 1
+            continue
+
+        all_summaries.append(summary)
+        all_details.append(detail)
+
+    if filtered_count > 0:
+        print(f"  Filtered out {filtered_count} irrelevant bills")
 
     # Sort by last action date (most recent first)
     all_summaries.sort(key=lambda b: b.get("last_action_date", ""), reverse=True)

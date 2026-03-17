@@ -8,6 +8,16 @@ load_dotenv()
 LEGISCAN_API_KEY = os.getenv("LEGISCAN_API_KEY", "")
 LEGISCAN_BASE_URL = "https://api.legiscan.com/"
 
+ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY", "")
+CLASSIFIER_MODEL = "claude-haiku-4-5-20251001"
+CLASSIFIER_CACHE_FILE = os.path.join(os.path.dirname(__file__), "cache", "classifications.json")
+
+SENTIMENT_LABELS = {
+    "restrictive": "Restrictive",
+    "protective": "Protective",
+    "neutral": "Neutral",
+}
+
 # Output paths (relative to repo root)
 DATA_DIR = os.path.join(os.path.dirname(__file__), "..", "frontend", "data")
 BILLS_DIR = os.path.join(DATA_DIR, "bills")

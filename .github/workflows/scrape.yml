@@ -24,9 +24,17 @@ jobs:
       - name: Install dependencies
         run: pip install -r scraper/requirements.txt
 
+      - name: Restore classification cache
+        uses: actions/cache@v4
+        with:
+          path: scraper/cache/
+          key: classification-cache-${{ github.run_id }}
+          restore-keys: classification-cache-
+
       - name: Run scraper
         env:
           LEGISCAN_API_KEY: ${{ secrets.LEGISCAN_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         working-directory: scraper
         run: python scraper.py
 

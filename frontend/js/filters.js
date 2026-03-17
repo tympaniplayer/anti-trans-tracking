@@ -24,7 +24,7 @@ const Filters = (() => {
     if (dateTo) dateTo.addEventListener('change', apply);
 
     // Checkbox groups
-    document.querySelectorAll('#filter-level input, #filter-category input, #filter-status input')
+    document.querySelectorAll('#filter-level input, #filter-category input, #filter-sentiment input, #filter-status input')
       .forEach(cb => cb.addEventListener('change', apply));
 
     // Check URL params for initial filters
@@ -42,6 +42,7 @@ const Filters = (() => {
       state: document.getElementById('filter-state')?.value || '',
       levels: getChecked('filter-level'),
       categories: getChecked('filter-category'),
+      sentiments: getChecked('filter-sentiment'),
       statuses: getChecked('filter-status'),
       dateFrom: document.getElementById('filter-date-from')?.value || '',
       dateTo: document.getElementById('filter-date-to')?.value || '',
@@ -66,6 +67,11 @@ const Filters = (() => {
     // Category filter
     if (f.categories.length > 0) {
       result = result.filter(b => f.categories.includes(b.primary_category));
+    }
+
+    // Sentiment filter
+    if (f.sentiments.length > 0) {
+      result = result.filter(b => f.sentiments.includes(b.sentiment));
     }
 
     // Status filter
@@ -126,7 +132,7 @@ const Filters = (() => {
     if (stateSelect) stateSelect.value = '';
 
     // Check all checkboxes
-    document.querySelectorAll('#filter-level input, #filter-category input, #filter-status input')
+    document.querySelectorAll('#filter-level input, #filter-category input, #filter-sentiment input, #filter-status input')
       .forEach(cb => { cb.checked = true; });
 
     // Clear date range

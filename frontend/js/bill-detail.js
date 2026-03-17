@@ -15,6 +15,12 @@
     other: 'Other',
   };
 
+  const SENTIMENT_LABELS = {
+    restrictive: 'Restrictive',
+    protective: 'Protective',
+    neutral: 'Neutral',
+  };
+
   const STATUS_LABELS = {
     introduced: 'Introduced',
     in_committee: 'In Committee',
@@ -176,6 +182,9 @@
       </div>
       <div class="bill-detail-tags">
         ${categoryTags}
+        ${bill.sentiment ? `<span class="sentiment-badge sentiment-${bill.sentiment}">
+          ${SENTIMENT_LABELS[bill.sentiment] || bill.sentiment}
+        </span>` : ''}
         ${statusBadge}
         <span style="color:var(--color-text-secondary);font-size:0.85rem">
           Level: ${bill.level === 'federal' ? 'Federal' : 'State'}
