@@ -9,9 +9,13 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
+    "education",
     "other"
   ],
-  "primary_category": "other",
+  "primary_category": "education",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

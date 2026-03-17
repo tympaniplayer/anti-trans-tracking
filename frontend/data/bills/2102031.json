@@ -10,9 +10,12 @@
   "status_code": 1,
   "categories": [
     "sports",
-    "definitions"
+    "education"
   ],
   "primary_category": "sports",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

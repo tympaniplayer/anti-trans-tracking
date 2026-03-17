@@ -9,9 +9,13 @@
   "status_label": "Engrossed",
   "status_code": 2,
   "categories": [
-    "bathrooms"
+    "bathrooms",
+    "definitions"
   ],
   "primary_category": "bathrooms",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

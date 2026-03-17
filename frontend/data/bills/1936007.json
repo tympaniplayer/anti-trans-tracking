@@ -10,10 +10,12 @@
   "status_code": 4,
   "categories": [
     "healthcare",
-    "education",
     "definitions"
   ],
   "primary_category": "healthcare",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

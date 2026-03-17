@@ -9,10 +9,13 @@
   "status_label": "Failed",
   "status_code": 6,
   "categories": [
-    "education",
-    "bathrooms"
+    "bathrooms",
+    "education"
   ],
-  "primary_category": "education",
+  "primary_category": "bathrooms",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

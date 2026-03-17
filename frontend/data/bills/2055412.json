@@ -9,9 +9,13 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "other"
+    "healthcare",
+    "definitions"
   ],
-  "primary_category": "other",
+  "primary_category": "healthcare",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

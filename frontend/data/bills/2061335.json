@@ -9,10 +9,14 @@
   "status_label": "Engrossed",
   "status_code": 2,
   "categories": [
-    "education",
-    "definitions"
+    "bathrooms",
+    "definitions",
+    "education"
   ],
-  "primary_category": "education",
+  "primary_category": "bathrooms",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

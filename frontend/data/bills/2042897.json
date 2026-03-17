@@ -9,10 +9,12 @@
   "status_label": "Enrolled",
   "status_code": 3,
   "categories": [
-    "healthcare",
-    "education"
+    "healthcare"
   ],
   "primary_category": "healthcare",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

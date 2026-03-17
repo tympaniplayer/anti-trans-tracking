@@ -9,10 +9,12 @@
   "status_label": "Engrossed",
   "status_code": 2,
   "categories": [
-    "healthcare",
     "identity_documents"
   ],
-  "primary_category": "healthcare",
+  "primary_category": "identity_documents",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

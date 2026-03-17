@@ -9,10 +9,14 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "education",
-    "identity_documents"
+    "definitions",
+    "identity_documents",
+    "education"
   ],
-  "primary_category": "education",
+  "primary_category": "definitions",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

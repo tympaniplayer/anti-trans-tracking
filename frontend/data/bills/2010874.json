@@ -9,9 +9,12 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "religious_exemptions"
+    "other"
   ],
-  "primary_category": "religious_exemptions",
+  "primary_category": "other",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

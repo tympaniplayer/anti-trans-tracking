@@ -9,11 +9,13 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "bathrooms",
-    "education",
+    "identity_documents",
     "definitions"
   ],
-  "primary_category": "bathrooms",
+  "primary_category": "identity_documents",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

@@ -9,9 +9,13 @@
   "status_label": "Passed",
   "status_code": 4,
   "categories": [
-    "religious_exemptions"
+    "religious_exemptions",
+    "other"
   ],
   "primary_category": "religious_exemptions",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

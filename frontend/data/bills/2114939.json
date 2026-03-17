@@ -10,9 +10,14 @@
   "status_code": 1,
   "categories": [
     "healthcare",
-    "definitions"
+    "identity_documents",
+    "education",
+    "other"
   ],
   "primary_category": "healthcare",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
   "level": "federal",
   "last_action_date": "",
   "last_action": "",

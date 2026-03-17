@@ -10,9 +10,13 @@
   "status_code": 2,
   "categories": [
     "bathrooms",
+    "identity_documents",
     "definitions"
   ],
   "primary_category": "bathrooms",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

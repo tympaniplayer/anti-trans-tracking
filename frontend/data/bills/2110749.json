@@ -13,6 +13,9 @@
     "religious_exemptions"
   ],
   "primary_category": "healthcare",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

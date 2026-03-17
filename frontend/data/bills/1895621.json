@@ -9,9 +9,13 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "definitions"
+    "definitions",
+    "identity_documents"
   ],
   "primary_category": "definitions",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

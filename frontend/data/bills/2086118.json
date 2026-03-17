@@ -9,11 +9,12 @@
   "status_label": "Failed",
   "status_code": 6,
   "categories": [
-    "education",
-    "identity_documents",
-    "healthcare"
+    "identity_documents"
   ],
-  "primary_category": "education",
+  "primary_category": "identity_documents",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

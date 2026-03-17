@@ -12,6 +12,9 @@
     "healthcare"
   ],
   "primary_category": "healthcare",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
   "level": "federal",
   "last_action_date": "",
   "last_action": "",
@@ -81,7 +84,9 @@
     "Steve Cohen (D) [Rep]",
     "James Walkinshaw (D) [Rep]",
     "Ayanna Pressley (D) [Rep]",
-    "Robert Menendez (D) [Rep]"
+    "Robert Menendez (D) [Rep]",
+    "Mary Gay Scanlon (D) [Rep]",
+    "Sarah McBride (D) [Rep]"
   ],
   "introduced_date": "2025-03-31",
   "session": "119th Congress",

@@ -9,9 +9,12 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "other"
+    "definitions"
   ],
-  "primary_category": "other",
+  "primary_category": "definitions",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

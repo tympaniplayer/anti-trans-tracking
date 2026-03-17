@@ -9,11 +9,13 @@
   "status_label": "Engrossed",
   "status_code": 2,
   "categories": [
-    "education",
     "healthcare",
     "definitions"
   ],
-  "primary_category": "education",
+  "primary_category": "healthcare",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

@@ -9,9 +9,13 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "sports"
+    "sports",
+    "education"
   ],
   "primary_category": "sports",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

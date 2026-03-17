@@ -9,9 +9,13 @@
   "status_label": "Enrolled",
   "status_code": 3,
   "categories": [
-    "education"
+    "education",
+    "identity_documents"
   ],
   "primary_category": "education",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

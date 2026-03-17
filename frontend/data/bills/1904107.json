@@ -9,10 +9,13 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "healthcare",
-    "bathrooms"
+    "identity_documents",
+    "other"
   ],
-  "primary_category": "healthcare",
+  "primary_category": "identity_documents",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",

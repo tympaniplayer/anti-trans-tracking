@@ -9,10 +9,13 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "education",
+    "healthcare",
     "definitions"
   ],
-  "primary_category": "education",
+  "primary_category": "healthcare",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
