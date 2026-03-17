@@ -5,9 +5,9 @@
   "bill_number": "HB3586",
   "title": "Children; Right to Raise Act; adoption; eligibility; Oklahoma Children's Code; biological sex; abuse or neglect; crimes and punishments; child endangerment; effective date.",
   "summary": "Children; Right to Raise Act; adoption; eligibility; Oklahoma Children's Code; biological sex; abuse or neglect; crimes and punishments; child endangerment; effective date.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
   "categories": [
     "education",
     "definitions"
@@ -28,7 +28,7 @@
     "Clay Staires (R) [Rep]",
     "Gabe Woolley (R) [Rep]"
   ],
-  "introduced_date": "2026-02-02",
+  "introduced_date": "2026-03-16",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -90,6 +90,21 @@
       "date": "2026-03-11",
       "action": "Referred for engrossment",
       "chamber": "H"
+    },
+    {
+      "date": "2026-03-16",
+      "action": "Engrossed, signed, to Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-16",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-16",
+      "action": "Coauthored by Representative Woolley",
+      "chamber": "S"
     }
   ],
   "votes": [

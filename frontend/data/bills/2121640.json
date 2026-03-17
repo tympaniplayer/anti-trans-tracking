@@ -33,6 +33,11 @@
       "date": "2026-02-21",
       "action": "From printer. May be heard in committee March 23.",
       "chamber": "A"
+    },
+    {
+      "date": "2026-03-16",
+      "action": "Referred to Com. on JUD.",
+      "chamber": "A"
     }
   ],
   "votes": [],
@@ -44,6 +49,11 @@
       "doc_id": 3371182
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 463,
+    "chamber": "A",
+    "chamber_id": 19,
+    "name": "Judiciary"
+  },
   "subjects": []
 }

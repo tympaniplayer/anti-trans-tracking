@@ -5,9 +5,9 @@
   "bill_number": "H0752",
   "title": "Adds to existing law to prohibit a person from entering a restroom or changing room of the opposite sex, to provide a penalty, and to provide exceptions.",
   "summary": "INDECENCY AND OBSCENITY -- Adds to existing law to prohibit a person from entering a restroom or changing room of the opposite sex, to provide a penalty, and to provide exceptions.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
   "categories": [
     "bathrooms"
   ],
@@ -21,7 +21,7 @@
   "sponsors": [
     "Ways and Means Committee [Rep]"
   ],
-  "introduced_date": "2026-02-23",
+  "introduced_date": "2026-03-16",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -43,9 +43,32 @@
       "date": "2026-03-13",
       "action": "Read second time; Filed for Third Reading",
       "chamber": "H"
+    },
+    {
+      "date": "2026-03-16",
+      "action": "Read Third Time in Full -- PASSED 54-15-1",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-16",
+      "action": "Title apvd",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-16",
+      "action": "to Senate",
+      "chamber": "H"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-03-16",
+      "description": "House Third Reading",
+      "yea": 54,
+      "nay": 15,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "0000-00-00",

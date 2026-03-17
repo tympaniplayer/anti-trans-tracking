@@ -103,6 +103,11 @@
       "date": "2026-02-26",
       "action": "House read second time",
       "chamber": "H"
+    },
+    {
+      "date": "2026-03-16",
+      "action": "House HHS Committee action: Do Pass, voting: (7-5-0-0-0-0)",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -133,6 +138,13 @@
       "yea": 16,
       "nay": 11,
       "passed": 1
+    },
+    {
+      "date": "2026-03-16",
+      "description": "House Health & Human Services Committee Action (DP)",
+      "yea": 7,
+      "nay": 5,
+      "passed": 1
     }
   ],
   "texts": [
@@ -150,10 +162,10 @@
     }
   ],
   "committee": {
-    "committee_id": 1096,
+    "committee_id": 1101,
     "chamber": "H",
     "chamber_id": 15,
-    "name": "Health and Human Services"
+    "name": "Rules"
   },
   "subjects": [
     "Definitions",

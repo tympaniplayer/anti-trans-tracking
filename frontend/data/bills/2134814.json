@@ -1,0 +1,52 @@
+{
+  "id": 2134814,
+  "state": "HI",
+  "state_name": "Hawaii",
+  "bill_number": "SR158",
+  "title": "Requesting The Legislative Reference Bureau To Conduct A Study On The Cost And Scope Of A Comprehensive, Statewide Survey Of Mh, Lgbtqia+, And Qtpi+ Communities In Hawaii.",
+  "summary": "Requesting The Legislative Reference Bureau To Conduct A Study On The Cost And Scope Of A Comprehensive, Statewide Survey Of Mh, Lgbtqia+, And Qtpi+ Communities In Hawaii.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/HI/bill/SR158/2026",
+  "legiscan_url": "https://legiscan.com/HI/bill/SR158/2026",
+  "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SR&billnumber=158&year=2026",
+  "sponsors": [
+    "Chris Lee (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-16",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-16",
+      "action": "Offered.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-16",
+      "type": "Introduced",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/SR158_.HTM",
+      "doc_id": 3396469
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "DOH",
+    "LRB",
+    "LGBTQIA+",
+    "QTPI+",
+    "Comprehensive Survey",
+    "M\u0101h\u016b",
+    "Report"
+  ]
+}
