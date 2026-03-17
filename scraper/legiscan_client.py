@@ -57,7 +57,7 @@ class LegiScanClient:
 
     def search(self, query, state=None, year=2, page=1):
         """
-        Search for bills by keyword.
+        Search for bills by keyword using getSearch (includes title in results).
 
         Args:
             query: Search query string
@@ -75,15 +75,17 @@ class LegiScanClient:
             if state_id:
                 params["state"] = state_id
 
-        data = self._request("getSearchRaw", **params)
+        data = self._request("getSearch", **params)
         search_result = data.get("searchresult", {})
 
         summary = search_result.get("summary", {})
-        results = search_result.get("results", [])
 
-        # Handle both list format (current API) and dict format (legacy)
-        if isinstance(results, dict):
-            results = list(results.values())
+        # getSearch returns results as numbered keys alongside summary/status
+        results = []
+        if isinstance(search_result, dict):
+            for key, val in search_result.items():
+                if key not in ("summary", "status") and isinstance(val, dict):
+                    results.append(val)
 
         return {"summary": summary, "results": results}
 

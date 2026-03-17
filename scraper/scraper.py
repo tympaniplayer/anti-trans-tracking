@@ -26,6 +26,7 @@ from config import (
     STATE_NAMES,
     MAX_SEARCH_PAGES,
     MIN_RELEVANCE,
+    TITLE_FILTER_KEYWORDS,
     LEGISCAN_API_KEY,
 )
 from legiscan_client import LegiScanClient, LegiScanError
@@ -41,9 +42,16 @@ def load_existing_bills():
     return {}
 
 
+def title_is_relevant(title):
+    """Check if a bill title contains any trans-related keywords."""
+    title_lower = title.lower()
+    return any(kw in title_lower for kw in TITLE_FILTER_KEYWORDS)
+
+
 def search_all_keywords(client):
     """Search LegiScan for all configured keywords and collect unique bill IDs."""
     found_bills = {}  # bill_id -> search result entry
+    skipped = 0
 
     for keyword in SEARCH_KEYWORDS:
         print(f"Searching for: {keyword}")
@@ -63,6 +71,10 @@ def search_all_keywords(client):
                     relevance = bill_info.get("relevance", 0)
                     if relevance < MIN_RELEVANCE:
                         continue
+                    title = bill_info.get("title", "")
+                    if not title_is_relevant(title):
+                        skipped += 1
+                        continue
                     bill_id = bill_info.get("bill_id")
                     if bill_id and bill_id not in found_bills:
                         found_bills[bill_id] = bill_info
@@ -80,6 +92,7 @@ def search_all_keywords(client):
             print(f"  Error searching for '{keyword}': {e}")
             continue
 
+    print(f"  Skipped {skipped} bills with irrelevant titles")
     return found_bills
 
 

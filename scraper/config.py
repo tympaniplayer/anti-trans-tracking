@@ -185,7 +185,28 @@ STATE_IDS = {
 API_DELAY = 0.5
 
 # Maximum number of search result pages to fetch per keyword
-MAX_SEARCH_PAGES = 10
+# getSearch returns 50 results per page
+MAX_SEARCH_PAGES = 50
 
 # Minimum relevance score (0-100) for search results to be included
 MIN_RELEVANCE = 50
+
+# Keywords that must appear in a bill's title to be considered relevant.
+# Bills matching search keywords only in their full text (not title) are filtered out.
+TITLE_FILTER_KEYWORDS = [
+    "transgender", "gender identity", "gender expression", "gender transition",
+    "gender affirming", "gender dysphoria", "gender reassign", "gender marker",
+    "biological sex", "sex assigned", "sex change", "change of sex", "sex-based",
+    "sex based", "sex designation", "cross-sex",
+    "puberty block", "hormone",
+    "nonbinary", "non-binary", "cisgender", "transsexual",
+    "lgbtq", "lgbt", "sexual orientation", "sogi",
+    "title ix", "birth certificate",
+    "pronoun",
+    "drag queen", "drag show", "adult cabaret", "male or female impersonat",
+    "bathroom", "restroom", "locker room", "intimate space",
+    "conversion therapy",
+    "women's sport", "girls' sport", "female athlet",
+    "dei", "diversity equity",
+    "discrimination", "protected class", "hate crime", "civil rights",
+]
