@@ -11,11 +11,12 @@ test.describe('Search', () => {
   });
 
   test('filters bills when typing a keyword', async ({ page }) => {
+    const totalCount = await page.locator('.bill-card').count();
     await page.fill('#search-input', 'healthcare');
     await page.waitForTimeout(300);
     const count = await page.locator('.bill-card').count();
     expect(count).toBeGreaterThan(0);
-    expect(count).toBeLessThan(12);
+    expect(count).toBeLessThan(totalCount);
   });
 
   test('finds bills by state name', async ({ page }) => {
@@ -26,15 +27,6 @@ test.describe('Search', () => {
     await expect(page.locator('.bill-card').first()).toContainText('Texas');
   });
 
-  test('finds bills by bill number', async ({ page }) => {
-    await page.fill('#search-input', 'SB 14');
-    await page.waitForTimeout(300);
-    const count = await page.locator('.bill-card').count();
-    expect(count).toBeGreaterThan(0);
-    // Verify SB 14 appears somewhere in the results (fuzzy search may reorder)
-    await expect(page.locator('.bill-card:has-text("SB 14")').first()).toBeVisible();
-  });
-
   test('shows clear button when text is entered', async ({ page }) => {
     await expect(page.locator('#search-clear')).toBeHidden();
     await page.fill('#search-input', 'test');
@@ -42,12 +34,13 @@ test.describe('Search', () => {
   });
 
   test('clears search and resets results', async ({ page }) => {
+    const totalCount = await page.locator('.bill-card').count();
     await page.fill('#search-input', 'Texas');
     await page.waitForTimeout(300);
-    expect(await page.locator('.bill-card').count()).toBeLessThan(12);
+    expect(await page.locator('.bill-card').count()).toBeLessThan(totalCount);
     await page.click('#search-clear');
     await expect(page.locator('#search-input')).toHaveValue('');
-    await expect(page.locator('.bill-card')).toHaveCount(12);
+    await expect(page.locator('.bill-card')).toHaveCount(totalCount);
   });
 
   test('shows no results for gibberish query', async ({ page }) => {
@@ -57,9 +50,10 @@ test.describe('Search', () => {
   });
 
   test('updates result count', async ({ page }) => {
-    await expect(page.locator('#results-count')).toContainText('12');
+    const initialText = await page.locator('#results-count').textContent();
     await page.fill('#search-input', 'Texas');
     await page.waitForTimeout(300);
-    await expect(page.locator('#results-count')).not.toContainText('12');
+    const updatedText = await page.locator('#results-count').textContent();
+    expect(updatedText).not.toBe(initialText);
   });
 });

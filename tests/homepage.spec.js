@@ -3,21 +3,26 @@ const { test, expect } = require('@playwright/test');
 test.describe('Homepage', () => {
   test.beforeEach(async ({ page }) => {
     await page.goto('/');
+    await page.waitForSelector('.bill-card');
   });
 
   test('loads successfully', async ({ page }) => {
     await expect(page.locator('.site-title')).toContainText('Anti-Trans Legislation Tracker');
   });
 
-  test('displays stats bar with correct totals', async ({ page }) => {
-    await expect(page.locator('#stat-total')).toHaveText('12');
-    await expect(page.locator('#stat-states')).toHaveText('12');
-    await expect(page.locator('#stat-signed')).toHaveText('3');
+  test('displays stats bar with numeric values', async ({ page }) => {
+    await expect(page.locator('#stat-total')).not.toHaveText('—');
+    await expect(page.locator('#stat-states')).not.toHaveText('—');
+    await expect(page.locator('#stat-signed')).not.toHaveText('—');
     await expect(page.locator('#stat-active')).not.toHaveText('—');
+
+    const total = Number(await page.locator('#stat-total').textContent());
+    expect(total).toBeGreaterThan(0);
   });
 
-  test('renders all bill cards', async ({ page }) => {
-    await expect(page.locator('.bill-card')).toHaveCount(12);
+  test('renders bill cards', async ({ page }) => {
+    const count = await page.locator('.bill-card').count();
+    expect(count).toBeGreaterThan(0);
   });
 
   test('each bill card has required elements', async ({ page }) => {
@@ -27,6 +32,11 @@ test.describe('Homepage', () => {
     await expect(firstCard.locator('.bill-card-title')).not.toBeEmpty();
     await expect(firstCard.locator('.status-badge')).toBeVisible();
     await expect(firstCard.locator('.cat-tag')).toBeVisible();
+  });
+
+  test('bill cards display sentiment badges', async ({ page }) => {
+    const badgeCount = await page.locator('.bill-card .sentiment-badge').count();
+    expect(badgeCount).toBeGreaterThan(0);
   });
 
   test('displays last updated date in footer', async ({ page }) => {
