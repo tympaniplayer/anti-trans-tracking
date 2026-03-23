@@ -76,7 +76,8 @@
     "Melissa Cerrato (D) [Rep]",
     "Mary Isaacson (D) [Rep]",
     "Joshua Siegel (D) [Rep]",
-    "Mary Jo Daley (D) [Rep]"
+    "Mary Jo Daley (D) [Rep]",
+    "Paul Friel (D) [Rep]"
   ],
   "introduced_date": "2025-06-02",
   "session": "2025-2026 Regular Session",
@@ -84,6 +85,21 @@
     {
       "date": "2025-06-02",
       "action": "Referred to Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-19",
+      "action": "Reported as committed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-19",
+      "action": "First consideration",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-19",
+      "action": "Laid on the table",
       "chamber": "H"
     }
   ],
@@ -104,11 +120,6 @@
       "doc_id": 3250488
     }
   ],
-  "committee": {
-    "committee_id": 53,
-    "chamber": "H",
-    "chamber_id": 3,
-    "name": "Judiciary"
-  },
+  "committee": [],
   "subjects": []
 }

@@ -1292,6 +1292,57 @@
     "session": "2025-2026 Regular Session"
   },
   {
+    "id": 2132406,
+    "state": "PA",
+    "state_name": "Pennsylvania",
+    "bill_number": "HR433",
+    "title": "Recognizing March 31, 2026, as \"Transgender Day of Visibility\" in Pennsylvania.",
+    "summary": "A Resolution recognizing March 31, 2026, as \"Transgender Day of Visibility\" in Pennsylvania.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/PA/bill/HR433/2025",
+    "legiscan_url": "https://legiscan.com/PA/bill/HR433/2025",
+    "state_url": "https://www.palegis.us/legislation/bills/2025/hr433",
+    "sponsors": [
+      "Ismail Smith-Wade-El (D) [Rep]",
+      "Andre Carroll (D) [Rep]",
+      "Jessica Benham (D) [Rep]",
+      "La'Tasha Mayes (D) [Rep]",
+      "Abigail Salisbury (D) [Rep]",
+      "Gregory Scott (D) [Rep]",
+      "Malcolm Kenyatta (D) [Rep]",
+      "Paul Takac (D) [Rep]",
+      "Joseph Hohenstein (D) [Rep]",
+      "Nancy Guenst (D) [Rep]",
+      "Nikki Rivera (D) [Rep]",
+      "Melissa Shusterman (D) [Rep]",
+      "Benjamin Waxman (D) [Rep]",
+      "Jeanne McNeill (D) [Rep]",
+      "Dan Frankel (D) [Rep]",
+      "Carol Hill-Evans (D) [Rep]",
+      "Ben Sanchez (D) [Rep]",
+      "Lindsay Powell (D) [Rep]",
+      "Danilo Burgos (D) [Rep]",
+      "Robert Merski (D) [Rep]",
+      "Justin Fleming (D) [Rep]",
+      "Heather Boyd (D) [Rep]",
+      "Johanny Cepeda-Freytiz (D) [Rep]"
+    ],
+    "introduced_date": "2026-03-12",
+    "session": "2025-2026 Regular Session"
+  },
+  {
     "id": 2058733,
     "state": "WI",
     "state_name": "Wisconsin",
@@ -1411,57 +1462,6 @@
       "Dora Drake (D) [Sen]"
     ],
     "introduced_date": "2025-12-17",
-    "session": "2025-2026 Regular Session"
-  },
-  {
-    "id": 2132406,
-    "state": "PA",
-    "state_name": "Pennsylvania",
-    "bill_number": "HR433",
-    "title": "Recognizing March 31, 2026, as \"Transgender Day of Visibility\" in Pennsylvania.",
-    "summary": "A Resolution recognizing March 31, 2026, as \"Transgender Day of Visibility\" in Pennsylvania.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/PA/bill/HR433/2025",
-    "legiscan_url": "https://legiscan.com/PA/bill/HR433/2025",
-    "state_url": "https://www.palegis.us/legislation/bills/2025/hr433",
-    "sponsors": [
-      "Ismail Smith-Wade-El (D) [Rep]",
-      "Andre Carroll (D) [Rep]",
-      "Jessica Benham (D) [Rep]",
-      "La'Tasha Mayes (D) [Rep]",
-      "Abigail Salisbury (D) [Rep]",
-      "Gregory Scott (D) [Rep]",
-      "Malcolm Kenyatta (D) [Rep]",
-      "Paul Takac (D) [Rep]",
-      "Joseph Hohenstein (D) [Rep]",
-      "Nancy Guenst (D) [Rep]",
-      "Nikki Rivera (D) [Rep]",
-      "Melissa Shusterman (D) [Rep]",
-      "Benjamin Waxman (D) [Rep]",
-      "Jeanne McNeill (D) [Rep]",
-      "Dan Frankel (D) [Rep]",
-      "Carol Hill-Evans (D) [Rep]",
-      "Ben Sanchez (D) [Rep]",
-      "Lindsay Powell (D) [Rep]",
-      "Danilo Burgos (D) [Rep]",
-      "Robert Merski (D) [Rep]",
-      "Justin Fleming (D) [Rep]",
-      "Heather Boyd (D) [Rep]",
-      "Johanny Cepeda-Freytiz (D) [Rep]"
-    ],
-    "introduced_date": "2026-03-12",
     "session": "2025-2026 Regular Session"
   },
   {
@@ -2143,7 +2143,8 @@
       "George Latimer (D) [Rep]",
       "Greg Landsman (D) [Rep]",
       "Jesus Garcia (D) [Rep]",
-      "April McClain-Delaney (D) [Rep]"
+      "April McClain-Delaney (D) [Rep]",
+      "Delia Ramirez (D) [Rep]"
     ],
     "introduced_date": "2025-06-04",
     "session": "119th Congress"
@@ -2367,6 +2368,53 @@
     "session": "2026 Regular Session"
   },
   {
+    "id": 2065686,
+    "state": "CA",
+    "state_name": "California",
+    "bill_number": "AB1540",
+    "title": "988 Suicide & Crisis Lifeline: LGBTQ+ youth.",
+    "summary": "An act to add Section 53123.7 to the Government Code, relating to mental health, and declaring the urgency thereof, to take effect immediately.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/CA/bill/AB1540/2025",
+    "legiscan_url": "https://legiscan.com/CA/bill/AB1540/2025",
+    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1540",
+    "sponsors": [
+      "Mark Gonzalez (D) [Rep]",
+      "Alex Lee (D) [Rep]",
+      "Chris Ward (D) [Rep]",
+      "Dawn Addis (D) [Rep]",
+      "Mia Bonta (D) [Rep]",
+      "Sade Elhawary (D) [Rep]",
+      "Lena Gonzalez (D) [Sen]",
+      "Matt Haney (D) [Rep]",
+      "John Harabedian (D) [Rep]",
+      "Corey Jackson (D) [Rep]",
+      "Caroline Menjivar (D) [Sen]",
+      "Steve Padilla (D) [Sen]",
+      "Gail Pellerin (D) [Rep]",
+      "Sasha Renee Perez (D) [Sen]",
+      "Pilar Schiavo (D) [Rep]",
+      "Jose Solache (D) [Rep]",
+      "Greg Wallis (R) [Rep]",
+      "Scott Wiener (D) [Sen]",
+      "Rick Zbur (D) [Rep]"
+    ],
+    "introduced_date": "2026-01-05",
+    "session": "2025-2026 Regular Session"
+  },
+  {
     "id": 1969812,
     "state": "NY",
     "state_name": "New York",
@@ -2545,62 +2593,15 @@
     "session": "2026-2027 Regular Session"
   },
   {
-    "id": 2065686,
-    "state": "CA",
-    "state_name": "California",
-    "bill_number": "AB1540",
-    "title": "988 Suicide & Crisis Lifeline: LGBTQ+ youth.",
-    "summary": "An act to add Section 53123.7 to the Government Code, relating to mental health, and declaring the urgency thereof, to take effect immediately.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/CA/bill/AB1540/2025",
-    "legiscan_url": "https://legiscan.com/CA/bill/AB1540/2025",
-    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1540",
-    "sponsors": [
-      "Mark Gonzalez (D) [Rep]",
-      "Alex Lee (D) [Rep]",
-      "Chris Ward (D) [Rep]",
-      "Dawn Addis (D) [Rep]",
-      "Tasha Boerner Horvath (D) [Rep]",
-      "Mia Bonta (D) [Rep]",
-      "Sade Elhawary (D) [Rep]",
-      "Lena Gonzalez (D) [Sen]",
-      "John Harabedian (D) [Rep]",
-      "Corey Jackson (D) [Rep]",
-      "Caroline Menjivar (D) [Sen]",
-      "Steve Padilla (D) [Sen]",
-      "Gail Pellerin (D) [Rep]",
-      "Sasha Renee Perez (D) [Sen]",
-      "Pilar Schiavo (D) [Rep]",
-      "Jose Solache (D) [Rep]",
-      "Greg Wallis (R) [Rep]",
-      "Scott Wiener (D) [Sen]",
-      "Rick Zbur (D) [Rep]"
-    ],
-    "introduced_date": "2026-01-05",
-    "session": "2025-2026 Regular Session"
-  },
-  {
     "id": 2051551,
     "state": "FL",
     "state_name": "Florida",
     "bill_number": "H0317",
     "title": "Gay and Transgender Panic Legal Defenses",
     "summary": "Prohibits use of nonviolent sexual advance or specified perceptions or beliefs about another person as defense to criminal offense, to excuse or justify person's conduct, or to mitigate severity of offense.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
+    "status": "dead",
+    "status_label": "Failed",
+    "status_code": 6,
     "categories": [
       "other"
     ],
@@ -2619,7 +2620,7 @@
       "Daryl Campbell (D) [Rep]",
       "Mitch Rosenwald (D) [Rep]"
     ],
-    "introduced_date": "2025-11-04",
+    "introduced_date": "2026-03-13",
     "session": "2026 Regular Session"
   },
   {
@@ -3390,7 +3391,8 @@
       "Andrew Hevesi (D) [Rep]",
       "Maryjane Shimsky (D) [Rep]",
       "Alex Bores (D) [Rep]",
-      "Jo Simon (D) [Rep]"
+      "Jo Simon (D) [Rep]",
+      "Grace Lee (D) [Rep]"
     ],
     "introduced_date": "2025-03-06",
     "session": "2025-2026 General Assembly"
@@ -4444,35 +4446,6 @@
     "session": "194th General Court"
   },
   {
-    "id": 2000815,
-    "state": "MA",
-    "state_name": "Massachusetts",
-    "bill_number": "H2501",
-    "title": "Relative to LGBTQ+ health disparities",
-    "summary": "Relative to LGBTQ+ health disparities. Public Health.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/MA/bill/H2501/2025",
-    "legiscan_url": "https://legiscan.com/MA/bill/H2501/2025",
-    "state_url": "https://malegislature.gov/Bills/194/H2501",
-    "sponsors": [
-      "Samantha Montano (D) [Rep]"
-    ],
-    "introduced_date": "2025-02-27",
-    "session": "194th General Court"
-  },
-  {
     "id": 1908338,
     "state": "NY",
     "state_name": "New York",
@@ -4906,6 +4879,35 @@
     ],
     "introduced_date": "2026-01-06",
     "session": "114th General Assembly"
+  },
+  {
+    "id": 2000815,
+    "state": "MA",
+    "state_name": "Massachusetts",
+    "bill_number": "H2501",
+    "title": "Relative to LGBTQ+ health disparities",
+    "summary": "Relative to LGBTQ+ health disparities. Public Health.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/MA/bill/H2501/2025",
+    "legiscan_url": "https://legiscan.com/MA/bill/H2501/2025",
+    "state_url": "https://malegislature.gov/Bills/194/H2501",
+    "sponsors": [
+      "Samantha Montano (D) [Rep]"
+    ],
+    "introduced_date": "2025-02-27",
+    "session": "194th General Court"
   },
   {
     "id": 2000129,
@@ -5371,7 +5373,8 @@
       "Hillary Scholten (D) [Rep]",
       "Diana DeGette (D) [Rep]",
       "April McClain-Delaney (D) [Rep]",
-      "Delia Ramirez (D) [Rep]"
+      "Delia Ramirez (D) [Rep]",
+      "Sarah McBride (D) [Rep]"
     ],
     "introduced_date": "2025-06-26",
     "session": "119th Congress"
@@ -5417,36 +5420,6 @@
       "Andy Kim (D) [Sen]"
     ],
     "introduced_date": "2025-06-27",
-    "session": "119th Congress"
-  },
-  {
-    "id": 2044469,
-    "state": "US",
-    "state_name": "Federal",
-    "bill_number": "SB2826",
-    "title": "988 LGBTQ+ Youth Access Act of 2025",
-    "summary": "A bill to direct the Secretary of Health and Human Services to dedicate sufficient resources for the support of LGBTQ+ youth seeking help from the 9-8-8 suicide prevention hotline, and for other purposes.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "federal",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/US/bill/SB2826/2025",
-    "legiscan_url": "https://legiscan.com/US/bill/SB2826/2025",
-    "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2826/all-info",
-    "sponsors": [
-      "Tammy Baldwin (D) [Sen]",
-      "Lisa Murkowski (R) [Sen]"
-    ],
-    "introduced_date": "2025-09-17",
     "session": "119th Congress"
   },
   {
@@ -5617,7 +5590,8 @@
       "Haley Stevens (D) [Rep]",
       "Seth Magaziner (D) [Rep]",
       "Salud Carbajal (D) [Rep]",
-      "Mark DeSaulnier (D) [Rep]"
+      "Mark DeSaulnier (D) [Rep]",
+      "Luis Correa (D) [Rep]"
     ],
     "introduced_date": "2025-09-17",
     "session": "119th Congress"
@@ -5711,37 +5685,6 @@
     "session": "194th General Court"
   },
   {
-    "id": 2002661,
-    "state": "MA",
-    "state_name": "Massachusetts",
-    "bill_number": "H2656",
-    "title": "To promote rehabilitation including guaranteed health, treatment, and safety for incarcerated LGBTQI+ People",
-    "summary": "For legislation to promote rehabilitation including guaranteed health, treatment and safety for incarcerated LGBTQI+ persons. Public Safety and Homeland Security.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare",
-      "other"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/MA/bill/H2656/2025",
-    "legiscan_url": "https://legiscan.com/MA/bill/H2656/2025",
-    "state_url": "https://malegislature.gov/Bills/194/H2656",
-    "sponsors": [
-      "Jack Lewis (D) [Rep]",
-      "Samantha Montano (D) [Rep]"
-    ],
-    "introduced_date": "2025-02-27",
-    "session": "194th General Court"
-  },
-  {
     "id": 1967308,
     "state": "NY",
     "state_name": "New York",
@@ -5808,7 +5751,8 @@
     "state_url": "https://www.nysenate.gov/legislation/bills/2025/A8054",
     "sponsors": [
       "Steven Raga (D) [Rep]",
-      "Karines Reyes (D) [Rep]"
+      "Karines Reyes (D) [Rep]",
+      "Catalina Cruz (D) [Rep]"
     ],
     "introduced_date": "2025-04-22",
     "session": "2025-2026 General Assembly"
@@ -5934,37 +5878,6 @@
     ],
     "introduced_date": "2025-06-19",
     "session": "2025-2026 Regular Session"
-  },
-  {
-    "id": 2085195,
-    "state": "TN",
-    "state_name": "Tennessee",
-    "bill_number": "SB1745",
-    "title": "AN ACT to amend Tennessee Code Annotated, Title 4, Chapter 21, relative to discrimination.",
-    "summary": "As introduced, enacts the \"Banning Bostock Act.\" - Amends TCA Title 4, Chapter 21.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "definitions",
-      "healthcare",
-      "other"
-    ],
-    "primary_category": "definitions",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/TN/bill/SB1745/2025",
-    "legiscan_url": "https://legiscan.com/TN/bill/SB1745/2025",
-    "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB1745&ga=114",
-    "sponsors": [
-      "Janince Bowling (R) [Sen]"
-    ],
-    "introduced_date": "2026-01-16",
-    "session": "114th General Assembly"
   },
   {
     "id": 2017046,
@@ -6184,6 +6097,98 @@
     "session": "2025-2026 Regular Session"
   },
   {
+    "id": 2085195,
+    "state": "TN",
+    "state_name": "Tennessee",
+    "bill_number": "SB1745",
+    "title": "AN ACT to amend Tennessee Code Annotated, Title 4, Chapter 21, relative to discrimination.",
+    "summary": "As introduced, enacts the \"Banning Bostock Act.\" - Amends TCA Title 4, Chapter 21.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "definitions",
+      "healthcare",
+      "other"
+    ],
+    "primary_category": "definitions",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/TN/bill/SB1745/2025",
+    "legiscan_url": "https://legiscan.com/TN/bill/SB1745/2025",
+    "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB1745&ga=114",
+    "sponsors": [
+      "Janince Bowling (R) [Sen]"
+    ],
+    "introduced_date": "2026-01-16",
+    "session": "114th General Assembly"
+  },
+  {
+    "id": 2002661,
+    "state": "MA",
+    "state_name": "Massachusetts",
+    "bill_number": "H2656",
+    "title": "To promote rehabilitation including guaranteed health, treatment, and safety for incarcerated LGBTQI+ People",
+    "summary": "For legislation to promote rehabilitation including guaranteed health, treatment and safety for incarcerated LGBTQI+ persons. Public Safety and Homeland Security.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare",
+      "other"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/MA/bill/H2656/2025",
+    "legiscan_url": "https://legiscan.com/MA/bill/H2656/2025",
+    "state_url": "https://malegislature.gov/Bills/194/H2656",
+    "sponsors": [
+      "Jack Lewis (D) [Rep]",
+      "Samantha Montano (D) [Rep]"
+    ],
+    "introduced_date": "2025-02-27",
+    "session": "194th General Court"
+  },
+  {
+    "id": 2044469,
+    "state": "US",
+    "state_name": "Federal",
+    "bill_number": "SB2826",
+    "title": "988 LGBTQ+ Youth Access Act of 2025",
+    "summary": "A bill to direct the Secretary of Health and Human Services to dedicate sufficient resources for the support of LGBTQ+ youth seeking help from the 9-8-8 suicide prevention hotline, and for other purposes.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "federal",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/US/bill/SB2826/2025",
+    "legiscan_url": "https://legiscan.com/US/bill/SB2826/2025",
+    "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/2826/all-info",
+    "sponsors": [
+      "Tammy Baldwin (D) [Sen]",
+      "Lisa Murkowski (R) [Sen]"
+    ],
+    "introduced_date": "2025-09-17",
+    "session": "119th Congress"
+  },
+  {
     "id": 1927877,
     "state": "IL",
     "state_name": "Illinois",
@@ -6301,6 +6306,57 @@
     ],
     "introduced_date": "2026-01-14",
     "session": "2026 Regular Regular Session"
+  },
+  {
+    "id": 2102399,
+    "state": "CA",
+    "state_name": "California",
+    "bill_number": "SB934",
+    "title": "Sexual orientation or gender identity change efforts: actions for recovery of damages: statute of limitations.",
+    "summary": "An act to add Section 340.12 to the Code of Civil Procedure, relating to civil actions.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare",
+      "identity_documents"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/CA/bill/SB934/2025",
+    "legiscan_url": "https://legiscan.com/CA/bill/SB934/2025",
+    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB934",
+    "sponsors": [
+      "Scott Wiener (D) [Sen]",
+      "Alex Lee (D) [Rep]",
+      "Rebecca Bauer-Kahan (D) [Rep]",
+      "Mia Bonta (D) [Rep]",
+      "Christopher Cabaldon (D) [Sen]",
+      "Sabrina Cervantes (D) [Sen]",
+      "Maria Durazo (D) [Sen]",
+      "Sade Elhawary (D) [Rep]",
+      "Lena Gonzalez (D) [Sen]",
+      "Matt Haney (D) [Rep]",
+      "Corey Jackson (D) [Rep]",
+      "John Laird (D) [Sen]",
+      "Mark Gonzalez (D) [Rep]",
+      "Caroline Menjivar (D) [Sen]",
+      "Steve Padilla (D) [Sen]",
+      "Sasha Renee Perez (D) [Sen]",
+      "Lola Smallwood-Cuevas (D) [Sen]",
+      "Jose Solache (D) [Rep]",
+      "Aisha Wahab (D) [Sen]",
+      "Chris Ward (D) [Rep]",
+      "Lori Wilson (D) [Rep]",
+      "Rick Zbur (D) [Rep]"
+    ],
+    "introduced_date": "2026-01-29",
+    "session": "2025-2026 Regular Session"
   },
   {
     "id": 2110841,
@@ -6840,7 +6896,8 @@
       "Melissa Cerrato (D) [Rep]",
       "Mary Isaacson (D) [Rep]",
       "Joshua Siegel (D) [Rep]",
-      "Mary Jo Daley (D) [Rep]"
+      "Mary Jo Daley (D) [Rep]",
+      "Paul Friel (D) [Rep]"
     ],
     "introduced_date": "2025-06-02",
     "session": "2025-2026 Regular Session"
@@ -7716,6 +7773,35 @@
     "session": "109th Legislature"
   },
   {
+    "id": 2112615,
+    "state": "MD",
+    "state_name": "Maryland",
+    "bill_number": "SB950",
+    "title": "Conversion Therapy - Prohibitions and Causes of Action",
+    "summary": "Clarifying that injury resulting from conversion therapy is cognizable for purposes of a health care malpractice action; establishing certain procedures in an action for health care malpractice resulting from conversion therapy; removing the limitation on noneconomic damages to a claimant in an action for health care malpractice resulting from conversion therapy; etc.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/MD/bill/SB950/2026",
+    "legiscan_url": "https://legiscan.com/MD/bill/SB950/2026",
+    "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0950?ys=2026RS",
+    "sponsors": [
+      "Cheryl Kagan (D) [Sen]"
+    ],
+    "introduced_date": "2026-02-06",
+    "session": "2026 Regular Session"
+  },
+  {
     "id": 2047396,
     "state": "WI",
     "state_name": "Wisconsin",
@@ -7834,35 +7920,6 @@
     ],
     "introduced_date": "2026-03-13",
     "session": "2025-2026 Regular Session"
-  },
-  {
-    "id": 2112615,
-    "state": "MD",
-    "state_name": "Maryland",
-    "bill_number": "SB950",
-    "title": "Conversion Therapy - Prohibitions and Causes of Action",
-    "summary": "Clarifying that injury resulting from conversion therapy is cognizable for purposes of a health care malpractice action; establishing certain procedures in an action for health care malpractice resulting from conversion therapy; removing the limitation on noneconomic damages to a claimant in an action for health care malpractice resulting from conversion therapy; etc.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/MD/bill/SB950/2026",
-    "legiscan_url": "https://legiscan.com/MD/bill/SB950/2026",
-    "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/SB0950?ys=2026RS",
-    "sponsors": [
-      "Cheryl Kagan (D) [Sen]"
-    ],
-    "introduced_date": "2026-02-06",
-    "session": "2026 Regular Session"
   },
   {
     "id": 2113959,
@@ -10251,6 +10308,42 @@
     "session": "2026 Regular Session"
   },
   {
+    "id": 2093279,
+    "state": "HI",
+    "state_name": "Hawaii",
+    "bill_number": "SB3024",
+    "title": "Relating To Sex-based Discrimination.",
+    "summary": "Clarifies and strengthens the State's protections against sex-based harassment, sex discrimination, and retaliation that occur in public schools, public charter schools, or at the University of Hawaii, including discrimination based on gender identity or expression, sexual orientation, pregnancy, and pregnancy-related conditions. Establishes procedures for investigations and decision-making. Requires mandatory reporting by certain employees. Requires the Department of the Attorney General to conduct a comprehensive legal review. Effective 7/1/2050. (SD1)",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "education",
+      "definitions"
+    ],
+    "primary_category": "education",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/HI/bill/SB3024/2026",
+    "legiscan_url": "https://legiscan.com/HI/bill/SB3024/2026",
+    "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3024&year=2026",
+    "sponsors": [
+      "Chris Lee (D) [Sen]",
+      "Stanley Chang (D) [Sen]",
+      "Troy Hashimoto (D) [Sen]",
+      "Karl Rhoads (D) [Sen]",
+      "Joy San Buenaventura (D) [Sen]",
+      "Les Ihara (D) [Sen]",
+      "Dru Kanuha (D) [Sen]"
+    ],
+    "introduced_date": "2026-01-23",
+    "session": "2026 Regular Session"
+  },
+  {
     "id": 1903061,
     "state": "NY",
     "state_name": "New York",
@@ -10289,42 +10382,6 @@
     ],
     "introduced_date": "2025-01-08",
     "session": "2025-2026 General Assembly"
-  },
-  {
-    "id": 2093279,
-    "state": "HI",
-    "state_name": "Hawaii",
-    "bill_number": "SB3024",
-    "title": "Relating To Sex-based Discrimination.",
-    "summary": "Clarifies and strengthens the State's protections against sex-based harassment, sex discrimination, and retaliation that occur in public schools, public charter schools, or at the University of Hawaii, including discrimination based on gender identity or expression, sexual orientation, pregnancy, and pregnancy-related conditions. Establishes procedures for investigations and decision-making. Requires mandatory reporting by certain employees. Requires the Department of the Attorney General to conduct a comprehensive legal review. Effective 7/1/2050. (SD1)",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "education",
-      "definitions"
-    ],
-    "primary_category": "education",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/HI/bill/SB3024/2026",
-    "legiscan_url": "https://legiscan.com/HI/bill/SB3024/2026",
-    "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3024&year=2026",
-    "sponsors": [
-      "Chris Lee (D) [Sen]",
-      "Stanley Chang (D) [Sen]",
-      "Troy Hashimoto (D) [Sen]",
-      "Karl Rhoads (D) [Sen]",
-      "Joy San Buenaventura (D) [Sen]",
-      "Les Ihara (D) [Sen]",
-      "Dru Kanuha (D) [Sen]"
-    ],
-    "introduced_date": "2026-01-23",
-    "session": "2026 Regular Session"
   },
   {
     "id": 1956429,
@@ -11764,6 +11821,7 @@
       "Kimberly Banta (R) [Rep]",
       "Emily Callaway (R) [Rep]",
       "Steven Doan (R) [Rep]",
+      "Ryan Dotson (R) [Rep]",
       "Savannah Maddox (R) [Rep]",
       "Jason Nemes (R) [Rep]",
       "Felicia Rabourn (R) [Rep]",
@@ -11815,56 +11873,6 @@
     "session": "2026 Regular Session"
   },
   {
-    "id": 2102399,
-    "state": "CA",
-    "state_name": "California",
-    "bill_number": "SB934",
-    "title": "Sexual orientation change efforts: remedies.",
-    "summary": "An act relating to healing arts.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/CA/bill/SB934/2025",
-    "legiscan_url": "https://legiscan.com/CA/bill/SB934/2025",
-    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB934",
-    "sponsors": [
-      "Scott Wiener (D) [Sen]",
-      "Alex Lee (D) [Rep]",
-      "Rebecca Bauer-Kahan (D) [Rep]",
-      "Mia Bonta (D) [Rep]",
-      "Christopher Cabaldon (D) [Sen]",
-      "Sabrina Cervantes (D) [Sen]",
-      "Maria Durazo (D) [Sen]",
-      "Sade Elhawary (D) [Rep]",
-      "Lena Gonzalez (D) [Sen]",
-      "Matt Haney (D) [Rep]",
-      "Corey Jackson (D) [Rep]",
-      "John Laird (D) [Sen]",
-      "Mark Gonzalez (D) [Rep]",
-      "Caroline Menjivar (D) [Sen]",
-      "Steve Padilla (D) [Sen]",
-      "Sasha Renee Perez (D) [Sen]",
-      "Lola Smallwood-Cuevas (D) [Sen]",
-      "Jose Solache (D) [Rep]",
-      "Aisha Wahab (D) [Sen]",
-      "Chris Ward (D) [Rep]",
-      "Lori Wilson (D) [Rep]",
-      "Rick Zbur (D) [Rep]"
-    ],
-    "introduced_date": "2026-01-29",
-    "session": "2025-2026 Regular Session"
-  },
-  {
     "id": 2054274,
     "state": "NH",
     "state_name": "New Hampshire",
@@ -11910,9 +11918,9 @@
     "bill_number": "HB1299",
     "title": "Permitting classification of individuals based on biological sex under certain limited circumstances and establishing that certain biological sex distinctions do not qualify as discrimination.",
     "summary": "Permitting classification of individuals based on biological sex under certain limited circumstances and establishing that certain biological sex distinctions do not qualify as discrimination.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
+    "status": "passed_one_chamber",
+    "status_label": "Engrossed",
+    "status_code": 2,
     "categories": [
       "definitions",
       "sports",
@@ -11942,7 +11950,7 @@
       "Victoria Sullivan (R) [Sen]",
       "Ruth Ward (R) [Sen]"
     ],
-    "introduced_date": "2025-12-01",
+    "introduced_date": "2026-03-17",
     "session": "2026 Regular Session"
   },
   {
@@ -12045,9 +12053,9 @@
     "bill_number": "HB1447",
     "title": "Restricting the use of certain public and private facilities on the basis of sex and establishing that such restriction does not qualify as discrimination.",
     "summary": "Restricting the use of certain public and private facilities on the basis of sex and establishing that such restriction does not qualify as discrimination.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
+    "status": "passed_one_chamber",
+    "status_label": "Engrossed",
+    "status_code": 2,
     "categories": [
       "bathrooms",
       "definitions"
@@ -12075,7 +12083,7 @@
       "Sherri Reinfurt (R) [Rep]",
       "Victoria Sullivan (R) [Sen]"
     ],
-    "introduced_date": "2025-12-04",
+    "introduced_date": "2026-03-17",
     "session": "2026 Regular Session"
   },
   {
@@ -12401,6 +12409,75 @@
     "session": "132nd Legislature"
   },
   {
+    "id": 2135628,
+    "state": "MN",
+    "state_name": "Minnesota",
+    "bill_number": "HF4469",
+    "title": "Health plan coverage of conversion therapy for minors and vulnerable adults prohibited, and commissioner of human rights required to protect Minnesotans from conversion therapy.",
+    "summary": "Health plan coverage of conversion therapy for minors and vulnerable adults prohibited, and commissioner of human rights required to protect Minnesotans from conversion therapy.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/MN/bill/HF4469/2025",
+    "legiscan_url": "https://legiscan.com/MN/bill/HF4469/2025",
+    "state_url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4469/",
+    "sponsors": [
+      "Athena Hollins (D) [Rep]",
+      "Brion Curran (D) [Rep]",
+      "David Gottfried (D) [Rep]",
+      "Leigh Finke (D) [Rep]",
+      "Alicia Kozlowski (D) [Rep]",
+      "Cheryl Youakim (D) [Rep]",
+      "Kaela Berg (D) [Rep]",
+      "Sydney Jordan (D) [Rep]",
+      "Heather Keeler (D) [Rep]",
+      "Jessica Hanson (D) [Rep]"
+    ],
+    "introduced_date": "2026-03-18",
+    "session": "94th Legislature 2025-2026"
+  },
+  {
+    "id": 2136704,
+    "state": "MN",
+    "state_name": "Minnesota",
+    "bill_number": "SF4707",
+    "title": "Health plan coverage of conversion therapy prohibition for minors and vulnerable adults",
+    "summary": "Health plan coverage of conversion therapy prohibition for minors and vulnerable adults",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/MN/bill/SF4707/2025",
+    "legiscan_url": "https://legiscan.com/MN/bill/SF4707/2025",
+    "state_url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4707/",
+    "sponsors": [
+      "David Dibble (D) [Sen]",
+      "Erin Maye Quade (D) [Sen]",
+      "Clare Oumou Verbeten (D) [Sen]"
+    ],
+    "introduced_date": "2026-03-23",
+    "session": "94th Legislature 2025-2026"
+  },
+  {
     "id": 1974791,
     "state": "TX",
     "state_name": "Texas",
@@ -12429,6 +12506,36 @@
     ],
     "introduced_date": "2025-02-19",
     "session": "89th Legislature Regular Session"
+  },
+  {
+    "id": 2135952,
+    "state": "US",
+    "state_name": "Federal",
+    "bill_number": "HB7981",
+    "title": "To amend the Elementary and Secondary Education Act of 1965 to prohibit funds under such Act from being provided to public elementary and secondary schools that provide counseling, therapy, or guidance related to gender identity to students under 18 years of age, and for other purposes.",
+    "summary": "To amend the Elementary and Secondary Education Act of 1965 to prohibit funds under such Act from being provided to public elementary and secondary schools that provide counseling, therapy, or guidance related to gender identity to students under 18 years of age, and for other purposes.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "education",
+      "healthcare"
+    ],
+    "primary_category": "education",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "federal",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/US/bill/HB7981/2025",
+    "legiscan_url": "https://legiscan.com/US/bill/HB7981/2025",
+    "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/7981/all-info",
+    "sponsors": [
+      "Anna Luna (R) [Rep]"
+    ],
+    "introduced_date": "2026-03-18",
+    "session": "119th Congress"
   },
   {
     "id": 2088662,
@@ -13539,9 +13646,9 @@
     "bill_number": "SB1177",
     "title": "Public monies; gender transition; prohibition",
     "summary": "Public monies; gender transition; prohibition",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
+    "status": "passed_one_chamber",
+    "status_label": "Engrossed",
+    "status_code": 2,
     "categories": [
       "healthcare",
       "definitions"
@@ -13563,7 +13670,7 @@
       "Thomas Shope (R) [Sen]",
       "Neal Carter (R) [Rep]"
     ],
-    "introduced_date": "2026-01-20",
+    "introduced_date": "2026-03-18",
     "session": "Fifty-seventh Legislature - Second Regular Session (2026)"
   },
   {
@@ -14039,9 +14146,9 @@
     "bill_number": "HB1376",
     "title": "Relative to a parent's ability to raise their child in a manner consistent with the child's biological sex.",
     "summary": "Relative to a parent's ability to raise their child in a manner consistent with the child's biological sex.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
+    "status": "passed_one_chamber",
+    "status_label": "Engrossed",
+    "status_code": 2,
     "categories": [
       "definitions",
       "education",
@@ -14070,7 +14177,7 @@
       "Keith Murphy (R) [Sen]",
       "Kevin Avard (R) [Sen]"
     ],
-    "introduced_date": "2025-12-02",
+    "introduced_date": "2026-03-17",
     "session": "2026 Regular Session"
   },
   {
@@ -14292,38 +14399,6 @@
     ],
     "introduced_date": "2026-03-16",
     "session": "2026 Regular Session"
-  },
-  {
-    "id": 2112661,
-    "state": "US",
-    "state_name": "Federal",
-    "bill_number": "HB7420",
-    "title": "To amend chapter 55 of title 18, United States Code, to establish a criminal offense for the transportation of a minor for a gender transition procedure.",
-    "summary": "To amend chapter 55 of title 18, United States Code, to establish a criminal offense for the transportation of a minor for a gender transition procedure.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "federal",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/US/bill/HB7420/2025",
-    "legiscan_url": "https://legiscan.com/US/bill/HB7420/2025",
-    "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/7420/all-info",
-    "sponsors": [
-      "Dan Crenshaw (R) [Rep]",
-      "Elijah Crane (R) [Rep]",
-      "Russell Fry (R) [Rep]",
-      "Anna Luna (R) [Rep]"
-    ],
-    "introduced_date": "2026-02-09",
-    "session": "119th Congress"
   },
   {
     "id": 2054765,
@@ -15526,6 +15601,37 @@
     "session": "89th Legislature Regular Session"
   },
   {
+    "id": 2085784,
+    "state": "VA",
+    "state_name": "Virginia",
+    "bill_number": "SB561",
+    "title": "Public schools; reasonable accommodation based on biological sex required, civil cause of action.",
+    "summary": "Public schools; bathrooms, changing facilities, and other facilities located in public schools; reasonable accommodation based on biological sex required; civil cause of action. Requires any public school to, to the extent practicable, provide reasonable accommodation, as defined by the bill, to any student, teacher, or other employee of such public school who (i) desires greater privacy when using a multi-occupancy bathroom or changing facility located within a public school building that is designated for such student's, teacher's, or employee's sex, as defined by the bill, or when using multi-occupancy sleeping quarters while attending a public school-sponsored activity that are designated for such student's, teacher's, or employee's sex and (ii) provides a written request for reasonable accommodation to the school principal or, in the case of a student who is younger than 18 years of age, has his parent provide such written request to the school principal. The bill requires a school principal, upon receiving a written request for reasonable accommodation, to evaluate the request and, to the extent practicable, provide reasonable accommodation. The bill also requires such school principal to issue a written decision approving or denying the request for reasonable accommodation and, if denying the request, state the grounds for such denial in the written decision. The bill also provides (a) an opportunity for any student, teacher, or employee whose written request for reasonable accommodation is denied by a school principal to appeal the denial to the school board in accordance with the procedures set forth in the bill and (b) an opportunity for any student, teacher, or employee whose appeal of the principal's denial is denied by the school board to request an impartial hearing conducted by an impartial hearing officer to appeal the school board's decision in accordance with the procedures set forth in the bill. Finally, the bill creates a civil cause of action for any student, teacher, or employee who (1) as a result of the school or school board intentionally allowing a member of the opposite sex to enter a multi-occupancy bathroom or changing facility designated for such student's, employee's, or teacher's biological sex while other persons are present, encounters a member of the opposite sex while in such bathroom or facility or (2) is required by the public school to share sleeping quarters during a school-sponsored activity with a member of the opposite sex, unless such member of the opposite sex is a family member.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "bathrooms",
+      "definitions"
+    ],
+    "primary_category": "bathrooms",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/VA/bill/SB561/2026",
+    "legiscan_url": "https://legiscan.com/VA/bill/SB561/2026",
+    "state_url": "https://lis.virginia.gov/bill-details/20261/SB561",
+    "sponsors": [
+      "Bryce Reeves (R) [Sen]",
+      "Tammy Brankley Mulchi (R) [Sen]"
+    ],
+    "introduced_date": "2026-01-14",
+    "session": "2026 Regular Regular Session"
+  },
+  {
     "id": 2063827,
     "state": "HI",
     "state_name": "Hawaii",
@@ -15556,37 +15662,6 @@
     ],
     "introduced_date": "2025-01-17",
     "session": "2026 Regular Session"
-  },
-  {
-    "id": 2085784,
-    "state": "VA",
-    "state_name": "Virginia",
-    "bill_number": "SB561",
-    "title": "Public schools; reasonable accommodation based on biological sex required, civil cause of action.",
-    "summary": "Public schools; bathrooms, changing facilities, and other facilities located in public schools; reasonable accommodation based on biological sex required; civil cause of action. Requires any public school to, to the extent practicable, provide reasonable accommodation, as defined by the bill, to any student, teacher, or other employee of such public school who (i) desires greater privacy when using a multi-occupancy bathroom or changing facility located within a public school building that is designated for such student's, teacher's, or employee's sex, as defined by the bill, or when using multi-occupancy sleeping quarters while attending a public school-sponsored activity that are designated for such student's, teacher's, or employee's sex and (ii) provides a written request for reasonable accommodation to the school principal or, in the case of a student who is younger than 18 years of age, has his parent provide such written request to the school principal. The bill requires a school principal, upon receiving a written request for reasonable accommodation, to evaluate the request and, to the extent practicable, provide reasonable accommodation. The bill also requires such school principal to issue a written decision approving or denying the request for reasonable accommodation and, if denying the request, state the grounds for such denial in the written decision. The bill also provides (a) an opportunity for any student, teacher, or employee whose written request for reasonable accommodation is denied by a school principal to appeal the denial to the school board in accordance with the procedures set forth in the bill and (b) an opportunity for any student, teacher, or employee whose appeal of the principal's denial is denied by the school board to request an impartial hearing conducted by an impartial hearing officer to appeal the school board's decision in accordance with the procedures set forth in the bill. Finally, the bill creates a civil cause of action for any student, teacher, or employee who (1) as a result of the school or school board intentionally allowing a member of the opposite sex to enter a multi-occupancy bathroom or changing facility designated for such student's, employee's, or teacher's biological sex while other persons are present, encounters a member of the opposite sex while in such bathroom or facility or (2) is required by the public school to share sleeping quarters during a school-sponsored activity with a member of the opposite sex, unless such member of the opposite sex is a family member.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "bathrooms",
-      "definitions"
-    ],
-    "primary_category": "bathrooms",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/VA/bill/SB561/2026",
-    "legiscan_url": "https://legiscan.com/VA/bill/SB561/2026",
-    "state_url": "https://lis.virginia.gov/bill-details/20261/SB561",
-    "sponsors": [
-      "Bryce Reeves (R) [Sen]",
-      "Tammy Brankley Mulchi (R) [Sen]"
-    ],
-    "introduced_date": "2026-01-14",
-    "session": "2026 Regular Regular Session"
   },
   {
     "id": 2075730,

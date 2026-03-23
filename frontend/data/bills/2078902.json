@@ -5,9 +5,9 @@
   "bill_number": "SB1177",
   "title": "Public monies; gender transition; prohibition",
   "summary": "Public monies; gender transition; prohibition",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
   "categories": [
     "healthcare",
     "definitions"
@@ -29,7 +29,7 @@
     "Thomas Shope (R) [Sen]",
     "Neal Carter (R) [Rep]"
   ],
-  "introduced_date": "2026-01-20",
+  "introduced_date": "2026-03-18",
   "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
   "actions": [
     {
@@ -81,6 +81,16 @@
       "date": "2026-03-02",
       "action": "Senate Committee of the Whole action: Do Pass",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-18",
+      "action": "Senate third reading PASSED voting: (17-9-4-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-18",
+      "action": "Transmit to House",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -103,6 +113,13 @@
       "description": "Senate - Committee of the Whole (DP)",
       "yea": 0,
       "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-18",
+      "description": "Senate - Third Reading",
+      "yea": 17,
+      "nay": 9,
       "passed": 1
     }
   ],

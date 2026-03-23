@@ -5,9 +5,9 @@
   "bill_number": "H0317",
   "title": "Gay and Transgender Panic Legal Defenses",
   "summary": "Prohibits use of nonviolent sexual advance or specified perceptions or beliefs about another person as defense to criminal offense, to excuse or justify person's conduct, or to mitigate severity of offense.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "other"
   ],
@@ -26,7 +26,7 @@
     "Daryl Campbell (D) [Rep]",
     "Mitch Rosenwald (D) [Rep]"
   ],
-  "introduced_date": "2025-11-04",
+  "introduced_date": "2026-03-13",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -52,6 +52,11 @@
     {
       "date": "2026-01-13",
       "action": "1st Reading (Original Filed Version)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Died in Criminal Justice Subcommittee",
       "chamber": "H"
     }
   ],

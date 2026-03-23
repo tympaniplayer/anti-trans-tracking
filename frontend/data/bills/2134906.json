@@ -31,6 +31,11 @@
       "date": "2026-03-16",
       "action": "Offered.",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-19",
+      "action": "Referred to HHS.",
+      "chamber": "S"
     }
   ],
   "votes": [],
@@ -42,7 +47,12 @@
       "doc_id": 3396628
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 4751,
+    "chamber": "S",
+    "chamber_id": 32,
+    "name": "Health and Human Services"
+  },
   "subjects": [
     "DOH",
     "LRB",

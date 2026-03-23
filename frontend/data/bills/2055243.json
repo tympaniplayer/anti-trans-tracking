@@ -5,9 +5,9 @@
   "bill_number": "HB1376",
   "title": "Relative to a parent's ability to raise their child in a manner consistent with the child's biological sex.",
   "summary": "Relative to a parent's ability to raise their child in a manner consistent with the child's biological sex.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
   "categories": [
     "definitions",
     "education",
@@ -36,7 +36,7 @@
     "Keith Murphy (R) [Sen]",
     "Kevin Avard (R) [Sen]"
   ],
-  "introduced_date": "2025-12-02",
+  "introduced_date": "2026-03-17",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -73,6 +73,11 @@
       "date": "2026-03-11",
       "action": "Ought to Pass with Amendment 2026-0865h: Motion Adopted Regular Calendar 171-143 03/11/2026 House Journal  7",
       "chamber": "H"
+    },
+    {
+      "date": "2026-03-17",
+      "action": "Introduced 03/12/2026 and Referred to Children and Family Law; Senate Journal 7",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -92,6 +97,11 @@
       "doc_id": 3287782
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 2881,
+    "chamber": "S",
+    "chamber_id": 68,
+    "name": "Children and Family Law"
+  },
   "subjects": []
 }

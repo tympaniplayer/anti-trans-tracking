@@ -1,0 +1,61 @@
+{
+  "id": 2135628,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "HF4469",
+  "title": "Health plan coverage of conversion therapy for minors and vulnerable adults prohibited, and commissioner of human rights required to protect Minnesotans from conversion therapy.",
+  "summary": "Health plan coverage of conversion therapy for minors and vulnerable adults prohibited, and commissioner of human rights required to protect Minnesotans from conversion therapy.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/HF4469/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/HF4469/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4469/",
+  "sponsors": [
+    "Athena Hollins (D) [Rep]",
+    "Brion Curran (D) [Rep]",
+    "David Gottfried (D) [Rep]",
+    "Leigh Finke (D) [Rep]",
+    "Alicia Kozlowski (D) [Rep]",
+    "Cheryl Youakim (D) [Rep]",
+    "Kaela Berg (D) [Rep]",
+    "Sydney Jordan (D) [Rep]",
+    "Heather Keeler (D) [Rep]",
+    "Jessica Hanson (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-18",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2026-03-18",
+      "action": "Introduction and first reading, referred to Judiciary Finance and Civil Law",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-18",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/4469/versions/0/pdf/",
+      "doc_id": 3398155
+    }
+  ],
+  "committee": {
+    "committee_id": 3806,
+    "chamber": "H",
+    "chamber_id": 55,
+    "name": "Judiciary Finance and Civil Law"
+  },
+  "subjects": []
+}

@@ -1,0 +1,59 @@
+{
+  "id": 2136704,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF4707",
+  "title": "Health plan coverage of conversion therapy prohibition for minors and vulnerable adults",
+  "summary": "Health plan coverage of conversion therapy prohibition for minors and vulnerable adults",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF4707/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF4707/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4707/",
+  "sponsors": [
+    "David Dibble (D) [Sen]",
+    "Erin Maye Quade (D) [Sen]",
+    "Clare Oumou Verbeten (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-23",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2026-03-23",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Referred to Health and Human Services",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-19",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4707/versions/0/pdf/",
+      "doc_id": 3400705
+    }
+  ],
+  "committee": {
+    "committee_id": 1745,
+    "chamber": "S",
+    "chamber_id": 56,
+    "name": "Health and Human Services"
+  },
+  "subjects": []
+}

@@ -1,0 +1,51 @@
+{
+  "id": 2135952,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB7981",
+  "title": "To amend the Elementary and Secondary Education Act of 1965 to prohibit funds under such Act from being provided to public elementary and secondary schools that provide counseling, therapy, or guidance related to gender identity to students under 18 years of age, and for other purposes.",
+  "summary": "To amend the Elementary and Secondary Education Act of 1965 to prohibit funds under such Act from being provided to public elementary and secondary schools that provide counseling, therapy, or guidance related to gender identity to students under 18 years of age, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education",
+    "healthcare"
+  ],
+  "primary_category": "education",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB7981/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB7981/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/7981/all-info",
+  "sponsors": [
+    "Anna Luna (R) [Rep]"
+  ],
+  "introduced_date": "2026-03-18",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-03-18",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-18",
+      "action": "Referred to the House Committee on Education and Workforce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": []
+}

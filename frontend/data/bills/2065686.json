@@ -26,10 +26,10 @@
     "Alex Lee (D) [Rep]",
     "Chris Ward (D) [Rep]",
     "Dawn Addis (D) [Rep]",
-    "Tasha Boerner Horvath (D) [Rep]",
     "Mia Bonta (D) [Rep]",
     "Sade Elhawary (D) [Rep]",
     "Lena Gonzalez (D) [Sen]",
+    "Matt Haney (D) [Rep]",
     "John Harabedian (D) [Rep]",
     "Corey Jackson (D) [Rep]",
     "Caroline Menjivar (D) [Sen]",
@@ -69,9 +69,27 @@
       "date": "2026-02-18",
       "action": "Re-referred to Com. on HEALTH.",
       "chamber": "A"
+    },
+    {
+      "date": "2026-03-18",
+      "action": "From committee: Amend, and do pass as amended and re-refer to Com. on C. & C. (Ayes 12. Noes 3.) (March 17).",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-19",
+      "action": "Read second time and amended.",
+      "chamber": "A"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-03-17",
+      "description": "Do pass as amended and be re-referred to the Committee on [Communications and Conveyance]",
+      "yea": 12,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2026-01-05",
@@ -84,13 +102,14 @@
       "type": "Amended",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1540#98AMD",
       "doc_id": 3365617
+    },
+    {
+      "date": "2026-03-19",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1540#97AMD",
+      "doc_id": 3399853
     }
   ],
-  "committee": {
-    "committee_id": 457,
-    "chamber": "A",
-    "chamber_id": 19,
-    "name": "Health"
-  },
+  "committee": [],
   "subjects": []
 }

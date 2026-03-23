@@ -61,6 +61,16 @@
       "date": "2026-03-16",
       "action": "to Senate",
       "chamber": "H"
+    },
+    {
+      "date": "2026-03-17",
+      "action": "Received from the House passed; filed for first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-17",
+      "action": "Introduced, read first time; referred to: Judiciary & Rules",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -80,7 +90,12 @@
       "doc_id": 3372353
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 1537,
+    "chamber": "S",
+    "chamber_id": 34,
+    "name": "Judiciary and Rules"
+  },
   "subjects": [
     "INDECENCY AND OBSCENITY"
   ]

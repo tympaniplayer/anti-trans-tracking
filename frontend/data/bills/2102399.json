@@ -3,13 +3,14 @@
   "state": "CA",
   "state_name": "California",
   "bill_number": "SB934",
-  "title": "Sexual orientation change efforts: remedies.",
-  "summary": "An act relating to healing arts.",
+  "title": "Sexual orientation or gender identity change efforts: actions for recovery of damages: statute of limitations.",
+  "summary": "An act to add Section 340.12 to the Code of Civil Procedure, relating to civil actions.",
   "status": "introduced",
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "healthcare"
+    "healthcare",
+    "identity_documents"
   ],
   "primary_category": "healthcare",
   "sentiment": "protective",
@@ -62,6 +63,11 @@
       "date": "2026-02-11",
       "action": "Referred to Com. on RLS.",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-19",
+      "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
+      "chamber": "S"
     }
   ],
   "votes": [],
@@ -71,6 +77,12 @@
       "type": "Introduced",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB934#99INT",
       "doc_id": 3341953
+    },
+    {
+      "date": "2026-03-19",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB934#98AMD",
+      "doc_id": 3399920
     }
   ],
   "committee": {

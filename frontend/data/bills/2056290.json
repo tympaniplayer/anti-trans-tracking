@@ -5,9 +5,9 @@
   "bill_number": "HB1447",
   "title": "Restricting the use of certain public and private facilities on the basis of sex and establishing that such restriction does not qualify as discrimination.",
   "summary": "Restricting the use of certain public and private facilities on the basis of sex and establishing that such restriction does not qualify as discrimination.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
   "categories": [
     "bathrooms",
     "definitions"
@@ -35,7 +35,7 @@
     "Sherri Reinfurt (R) [Rep]",
     "Victoria Sullivan (R) [Sen]"
   ],
-  "introduced_date": "2025-12-04",
+  "introduced_date": "2026-03-17",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -67,6 +67,11 @@
       "date": "2026-03-12",
       "action": "Ought to Pass: Motion Adopted Regular Calendar 184-154 03/12/2026 House Journal  8",
       "chamber": "H"
+    },
+    {
+      "date": "2026-03-17",
+      "action": "Introduced 03/12/2026 and Referred to Judiciary; Senate Journal 7",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -86,6 +91,11 @@
       "doc_id": 3288590
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 1273,
+    "chamber": "S",
+    "chamber_id": 68,
+    "name": "Judiciary"
+  },
   "subjects": []
 }

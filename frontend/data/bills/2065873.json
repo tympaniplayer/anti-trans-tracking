@@ -112,6 +112,11 @@
       "date": "2026-03-09",
       "action": "House read second time",
       "chamber": "H"
+    },
+    {
+      "date": "2026-03-18",
+      "action": "House JUD Committee action: Do Pass, voting: (6-3-0-0-0-0)",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -142,6 +147,13 @@
       "yea": 16,
       "nay": 12,
       "passed": 1
+    },
+    {
+      "date": "2026-03-18",
+      "description": "House Judiciary Committee Action (DP)",
+      "yea": 6,
+      "nay": 3,
+      "passed": 1
     }
   ],
   "texts": [
@@ -159,10 +171,10 @@
     }
   ],
   "committee": {
-    "committee_id": 1097,
+    "committee_id": 1101,
     "chamber": "H",
     "chamber_id": 15,
-    "name": "Judiciary"
+    "name": "Rules"
   },
   "subjects": [
     "Civil Liability",

@@ -76,6 +76,11 @@
       "date": "2026-02-18",
       "action": "Introduced, read first time; referred to: Education",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-20",
+      "action": "Reported out of committee; to 14th Order for amendment",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -95,12 +100,7 @@
       "doc_id": 3328717
     }
   ],
-  "committee": {
-    "committee_id": 1534,
-    "chamber": "S",
-    "chamber_id": 34,
-    "name": "Education"
-  },
+  "committee": [],
   "subjects": [
     "EDUCATION"
   ]

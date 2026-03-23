@@ -47,6 +47,11 @@
       "date": "2026-02-05",
       "action": "Hearing: 02/11/2026, Room 103, State House, 01:20 pm; Senate Calendar  5",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-18",
+      "action": "Committee Report: Ought to Pass with Amendment # 2026-1217s, 03/26/2026, Vote 3-1; Senate Calendar  11",
+      "chamber": "S"
     }
   ],
   "votes": [],
@@ -58,11 +63,6 @@
       "doc_id": 3285509
     }
   ],
-  "committee": {
-    "committee_id": 1273,
-    "chamber": "S",
-    "chamber_id": 68,
-    "name": "Judiciary"
-  },
+  "committee": [],
   "subjects": []
 }

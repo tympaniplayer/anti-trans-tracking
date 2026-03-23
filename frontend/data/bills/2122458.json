@@ -33,9 +33,22 @@
       "date": "2026-02-23",
       "action": "REFERRED TO HEALTH",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-17",
+      "action": "REPORTED AND COMMITTED TO FINANCE",
+      "chamber": "S"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-03-17",
+      "description": "Senate Health Committee Vote",
+      "yea": 9,
+      "nay": 5,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2026-02-23",
@@ -45,10 +58,10 @@
     }
   ],
   "committee": {
-    "committee_id": 429,
+    "committee_id": 428,
     "chamber": "S",
     "chamber_id": 74,
-    "name": "Health"
+    "name": "Finance"
   },
   "subjects": []
 }

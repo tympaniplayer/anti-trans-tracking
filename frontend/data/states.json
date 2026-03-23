@@ -19,8 +19,8 @@
     "total": 35,
     "by_category": {
       "other": 15,
-      "healthcare": 14,
-      "education": 2,
+      "healthcare": 13,
+      "education": 3,
       "sports": 2,
       "definitions": 2
     },
@@ -196,26 +196,6 @@
       "restrictive": 2
     }
   },
-  "WI": {
-    "state": "WI",
-    "state_name": "Wisconsin",
-    "total": 25,
-    "by_category": {
-      "other": 4,
-      "education": 6,
-      "identity_documents": 5,
-      "healthcare": 6,
-      "definitions": 4
-    },
-    "by_status": {
-      "introduced": 22,
-      "passed_both_chambers": 3
-    },
-    "by_sentiment": {
-      "protective": 17,
-      "restrictive": 8
-    }
-  },
   "PA": {
     "state": "PA",
     "state_name": "Pennsylvania",
@@ -234,6 +214,26 @@
     "by_sentiment": {
       "protective": 8,
       "restrictive": 2
+    }
+  },
+  "WI": {
+    "state": "WI",
+    "state_name": "Wisconsin",
+    "total": 25,
+    "by_category": {
+      "other": 4,
+      "education": 6,
+      "identity_documents": 5,
+      "healthcare": 6,
+      "definitions": 4
+    },
+    "by_status": {
+      "introduced": 22,
+      "passed_both_chambers": 3
+    },
+    "by_sentiment": {
+      "protective": 17,
+      "restrictive": 8
     }
   },
   "TX": {
@@ -344,7 +344,8 @@
       "other": 1
     },
     "by_status": {
-      "introduced": 4
+      "introduced": 3,
+      "dead": 1
     },
     "by_sentiment": {
       "protective": 2,
@@ -403,19 +404,19 @@
   "MN": {
     "state": "MN",
     "state_name": "Minnesota",
-    "total": 15,
+    "total": 17,
     "by_category": {
       "education": 5,
-      "healthcare": 2,
+      "healthcare": 4,
       "definitions": 4,
       "identity_documents": 2,
       "sports": 2
     },
     "by_status": {
-      "introduced": 15
+      "introduced": 17
     },
     "by_sentiment": {
-      "protective": 5,
+      "protective": 7,
       "restrictive": 9,
       "neutral": 1
     }
@@ -553,8 +554,8 @@
       "sports": 2
     },
     "by_status": {
-      "introduced": 6,
-      "passed_one_chamber": 4,
+      "introduced": 3,
+      "passed_one_chamber": 7,
       "vetoed": 1
     },
     "by_sentiment": {
@@ -622,8 +623,8 @@
       "identity_documents": 1
     },
     "by_status": {
-      "introduced": 8,
-      "passed_one_chamber": 7
+      "introduced": 7,
+      "passed_one_chamber": 8
     },
     "by_sentiment": {
       "protective": 7,
