@@ -5,9 +5,9 @@
   "bill_number": "SB324",
   "title": "Prohibiting conversion therapy.",
   "summary": "An Act to amend 448.02 (9) (intro.); to create 51.608, 448.02 (3m), 455.09 (1m) and 457.26 (1m) of the statutes; Relating to: prohibiting conversion therapy.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "healthcare"
   ],
@@ -70,7 +70,7 @@
     "Angelito Tenorio (D) [Rep]",
     "Robyn Vining (D) [Rep]"
   ],
-  "introduced_date": "2025-06-12",
+  "introduced_date": "2026-03-23",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -92,6 +92,11 @@
       "date": "2026-01-09",
       "action": "Representative J. Jacobson added as a cosponsor",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "chamber": "S"
     }
   ],
   "votes": [],
@@ -103,11 +108,6 @@
       "doc_id": 3255183
     }
   ],
-  "committee": {
-    "committee_id": 5126,
-    "chamber": "S",
-    "chamber_id": 100,
-    "name": "Government Operations, Labor and Economic Development"
-  },
+  "committee": [],
   "subjects": []
 }

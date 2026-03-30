@@ -1,0 +1,60 @@
+{
+  "id": 2138983,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SCR32",
+  "title": "A concurrent resolution supporting the goals and ideals of International Transgender Day of Visibility.",
+  "summary": "A concurrent resolution supporting the goals and ideals of International Transgender Day of Visibility.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SCR32/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SCR32/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/32/all-info",
+  "sponsors": [
+    "Brian Schatz (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Peter Welch (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "John Fetterman (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-26",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-03-26",
+      "action": "Submitted in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-26",
+      "action": "Read twice and referred to the Committee on the Judiciary. (text: CR S1675)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [],
+  "committee": {
+    "committee_id": 2330,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

@@ -104,6 +104,21 @@
       "date": "2026-03-18",
       "action": "Placed on cal. Judiciary Committee for 3/23/2026",
       "chamber": "H"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Rec. for pass. if am., ref. to Calendar & Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-25",
+      "action": "Placed on cal. Calendar & Rules Committee for 3/26/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-26",
+      "action": "H. Placed on Regular Calendar for 3/30/2026",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -112,6 +127,13 @@
       "description": "HOUSE CIVIL JUSTICE SUBCOMMITTEE: Rec for pass if am by s/c ref. to Judiciary Committee",
       "yea": 6,
       "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-23",
+      "description": "HOUSE JUDICIARY COMMITTEE: Rec. for pass. if am., ref. to Calendar & Rules Committee",
+      "yea": 16,
+      "nay": 4,
       "passed": 1
     }
   ],
@@ -124,10 +146,10 @@
     }
   ],
   "committee": {
-    "committee_id": 2486,
+    "committee_id": 2469,
     "chamber": "H",
     "chamber_id": 89,
-    "name": "Judiciary"
+    "name": "Calendar and Rules"
   },
   "subjects": [
     "State Government"

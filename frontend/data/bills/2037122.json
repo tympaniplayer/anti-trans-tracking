@@ -5,9 +5,9 @@
   "bill_number": "SB320",
   "title": "Grants for LGBTQIA+ rights training for school counselors and school social workers and making an appropriation. (FE)",
   "summary": "An Act to create 20.255 (2) (fi) and 115.403 of the statutes; Relating to: grants for LGBTQIA+ rights training for school counselors and school social workers and making an appropriation. (FE)",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "education"
   ],
@@ -69,7 +69,7 @@
     "Clinton Anderson (D) [Rep]",
     "Tara Johnson (D) [Rep]"
   ],
-  "introduced_date": "2025-06-12",
+  "introduced_date": "2026-03-23",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -96,6 +96,11 @@
       "date": "2026-01-09",
       "action": "Representative J. Jacobson added as a cosponsor",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "chamber": "S"
     }
   ],
   "votes": [],
@@ -107,11 +112,6 @@
       "doc_id": 3255245
     }
   ],
-  "committee": {
-    "committee_id": 1066,
-    "chamber": "S",
-    "chamber_id": 100,
-    "name": "Education"
-  },
+  "committee": [],
   "subjects": []
 }

@@ -5,9 +5,9 @@
   "bill_number": "SB223",
   "title": "Discrimination in employment, housing, public accommodations, education, insurance coverage, national guard, jury duty, and adoption and in the receipt of mental health or vocational rehabilitation services.",
   "summary": "An Act to amend 15.04 (1) (g), 16.765 (1), 16.765 (2), 36.09 (1) (e), 36.11 (3) (a), 36.12 (1), 36.29 (1), 38.04 (13) (b), 38.23 (1), 38.23 (4), 47.02 (3m) (f), 48.82 (1) (a), 48.82 (6), 51.90, 66.0125 (3) (a), 66.0125 (3) (c) 1. b., 66.0125 (9), 66.1011 (1), 66.1201 (2m), 66.1213 (3), 66.1301 (2m), 66.1331 (2m), 66.1333 (3) (e) 2., 86.195 (5) (c), 106.50 (1), 106.50 (1m) (h), 106.50 (1m) (nm), 106.50 (5m) (f) 1., 106.52 (3) (a) 1., 106.52 (3) (a) 2., 106.52 (3) (a) 3., 106.52 (3) (a) 4., 106.52 (3) (a) 5., 106.52 (3) (b), 106.52 (3) (c), 106.52 (3) (d), 106.52 (3) (e), 106.58, 111.31 (1), 111.31 (2), 111.31 (3), 111.321, 111.36 (title), 111.36 (1) (br), 111.36 (1) (c), 111.36 (1) (d) 1., 111.36 (1) (d) 2., 111.36 (2), 111.70 (2), 111.81 (12) (b), 111.85 (2) (b), 118.019 (2d), 118.13 (1), 118.20 (1), 118.40 (4) (b) 2., 194.025, 224.77 (1) (o), 227.10 (3) (a), 230.01 (2) (b), 230.18, 234.29, 321.37, 440.45 (1), 440.45 (2), 452.14 (3) (n), 625.12 (2), 632.35 and 756.001 (3); to create 106.50 (1m) (kf), 106.50 (1m) (kg), 106.52 (1) (cp), 106.52 (1) (cr), 111.32 (7h), 111.32 (7j), 118.13 (1m) and 628.34 (3) (c) of the statutes; Relating to: discrimination in employment, housing, public accommodations, education, insurance coverage, national guard, jury duty, and adoption and in the receipt of mental health or vocational rehabilitation services.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "education",
     "healthcare",
@@ -66,7 +66,7 @@
     "Angelito Tenorio (D) [Rep]",
     "Kalan Haywood (D) [Rep]"
   ],
-  "introduced_date": "2025-04-25",
+  "introduced_date": "2026-03-23",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -77,6 +77,11 @@
     {
       "date": "2025-04-25",
       "action": "Read first time and referred to Committee on Government Operations, Labor and Economic Development",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Failed to pass pursuant to Senate Joint Resolution 1",
       "chamber": "S"
     }
   ],
@@ -89,11 +94,6 @@
       "doc_id": 3222144
     }
   ],
-  "committee": {
-    "committee_id": 5126,
-    "chamber": "S",
-    "chamber_id": 100,
-    "name": "Government Operations, Labor and Economic Development"
-  },
+  "committee": [],
   "subjects": []
 }

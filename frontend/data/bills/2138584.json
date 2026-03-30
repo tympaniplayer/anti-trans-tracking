@@ -1,0 +1,53 @@
+{
+  "id": 2138584,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "HB796",
+  "title": "Ensure inmates, prisoners housed according to biological sex",
+  "summary": "To amend sections 751.08, 5120.10, and 5120.16 of the Revised Code to ensure that jail inmates, city infirmary inmates, and prisoners under control of the department of rehabilitation and correction are housed in accordance with their biological sex.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "identity_documents",
+    "other"
+  ],
+  "primary_category": "identity_documents",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/HB796/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/HB796/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/hb796",
+  "sponsors": [
+    "Josh Williams (R) [Rep]"
+  ],
+  "introduced_date": "2026-03-25",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2026-03-25",
+      "action": "Introduced",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb796/00_IN/pdf/",
+      "doc_id": 3405463
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Crimes, Corrections, and Law Enforcement",
+    "Crimes, Corrections, and Law Enforcement : Crime and Punishment",
+    "Crimes, Corrections, and Law Enforcement : Prisons and Jails",
+    "Housing and Real Property"
+  ]
+}

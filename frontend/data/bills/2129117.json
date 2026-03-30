@@ -34,9 +34,22 @@
       "date": "2026-03-04",
       "action": "Introduced In House - Assigned to Judiciary",
       "chamber": "H"
+    },
+    {
+      "date": "2026-03-25",
+      "action": "House Committee on Judiciary Refer Unamended to House Committee of the Whole",
+      "chamber": "H"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-03-25",
+      "description": "House Judiciary: Refer House Bill 26-1322 to the Committee of the Whole.",
+      "yea": 7,
+      "nay": 2,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "1969-12-31",
@@ -45,12 +58,7 @@
       "doc_id": 3384508
     }
   ],
-  "committee": {
-    "committee_id": 907,
-    "chamber": "H",
-    "chamber_id": 21,
-    "name": "Judiciary"
-  },
+  "committee": [],
   "subjects": [
     "Civil Law"
   ]

@@ -5,9 +5,9 @@
   "bill_number": "AB311",
   "title": "Changing an individual\u2019s sex on a birth certificate.",
   "summary": "An Act to amend 69.15 (1) (a) and 69.15 (4) (b); to create 69.01 (1m), 69.115 and 69.12 (2m) of the statutes; Relating to: changing an individual\u2019s sex on a birth certificate.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "identity_documents"
   ],
@@ -41,7 +41,7 @@
     "Van Wanggaard (R) [Sen]",
     "Romaine Quinn (R) [Sen]"
   ],
-  "introduced_date": "2025-06-06",
+  "introduced_date": "2026-03-23",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -83,6 +83,11 @@
       "date": "2026-01-15",
       "action": "Referred to committee on Rules",
       "chamber": "A"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "chamber": "A"
     }
   ],
   "votes": [],
@@ -94,11 +99,6 @@
       "doc_id": 3252789
     }
   ],
-  "committee": {
-    "committee_id": 1049,
-    "chamber": "A",
-    "chamber_id": 99,
-    "name": "Rules"
-  },
+  "committee": [],
   "subjects": []
 }

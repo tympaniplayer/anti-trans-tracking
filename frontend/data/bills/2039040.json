@@ -5,9 +5,9 @@
   "bill_number": "AB316",
   "title": "Grants for LGBTQIA+ rights training for school counselors and school social workers and making an appropriation. (FE)",
   "summary": "An Act to create 20.255 (2) (fi) and 115.403 of the statutes; Relating to: grants for LGBTQIA+ rights training for school counselors and school social workers and making an appropriation. (FE)",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "education"
   ],
@@ -70,7 +70,7 @@
     "Dianne Hesselbein (D) [Sen]",
     "Dora Drake (D) [Sen]"
   ],
-  "introduced_date": "2025-07-08",
+  "introduced_date": "2026-03-23",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -92,6 +92,11 @@
       "date": "2026-01-08",
       "action": "Representative J. Jacobson added as a coauthor",
       "chamber": "A"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "chamber": "A"
     }
   ],
   "votes": [],
@@ -103,11 +108,6 @@
       "doc_id": 3260988
     }
   ],
-  "committee": {
-    "committee_id": 1028,
-    "chamber": "A",
-    "chamber_id": 99,
-    "name": "Education"
-  },
+  "committee": [],
   "subjects": []
 }

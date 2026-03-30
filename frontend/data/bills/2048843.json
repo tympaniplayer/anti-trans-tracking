@@ -1,0 +1,238 @@
+{
+  "id": 2048843,
+  "state": "OK",
+  "state_name": "Oklahoma",
+  "bill_number": "SB904",
+  "title": "State Medicaid program; gender transition; public funds shall not be used for certain medical procedures. Emergency.",
+  "summary": "State Medicaid program; gender transition; public funds shall not be used for certain medical procedures. Emergency.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OK/bill/SB904/2026",
+  "legiscan_url": "https://legiscan.com/OK/bill/SB904/2026",
+  "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=sb904&Session=2600",
+  "sponsors": [
+    "Todd Gollihare (R) [Sen]",
+    "Chris Kannady (R) [Rep]",
+    "Preston Stinson (R) [Rep]",
+    "Paul Rosino (R) [Sen]",
+    "David Bullard (R) [Sen]",
+    "Ally Seifried (R) [Sen]",
+    "Grant Green (R) [Sen]",
+    "Kristen Thompson (R) [Sen]",
+    "Chuck Hall (R) [Sen]",
+    "Warren Hamilton (R) [Sen]"
+  ],
+  "introduced_date": "2026-03-26",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-02-03",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-03",
+      "action": "Authored by Senator Rosino",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-04",
+      "action": "Second Reading referred to Health and Human Services Committee then to Appropriations Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-06",
+      "action": "Coauthored by Representative Archer (principal House author)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Reported Do Pass Health and Human Services committee; CR filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Referred to Appropriations",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-02-10",
+      "action": "Remove as principal author Representative Archer and substitute with Representative Stinson",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Reported Do Pass, amended by committee substitute Appropriations committee; CR filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-05",
+      "action": "Title stricken",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-03-10",
+      "action": "Placed on General Order",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-17",
+      "action": "Remove as author Senator Rosino; authored by Senator Gollihare",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-17",
+      "action": "Coauthored by Senator Hall",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-17",
+      "action": "Coauthored by Senator Green",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-17",
+      "action": "Coauthored by Senator Seifried",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-17",
+      "action": "Coauthored by Senator Thompson",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-17",
+      "action": "Coauthored by Senator Rosino",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Coauthored by Senator Hamilton",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Remove as principal author Representative Stinson and substitute with Representative Kannady",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Coauthored by Representative Stinson",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-25",
+      "action": "General Order, Amended by Floor Substitute",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-25",
+      "action": "Title restored",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-25",
+      "action": "Coauthored by Senator Bullard",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-25",
+      "action": "Advanced to Third Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-25",
+      "action": "Ayes: 38 Nays: 8",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-25",
+      "action": "Measure and Emergency passed: Ayes: 39 Nays: 8",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-25",
+      "action": "Referred for engrossment",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-26",
+      "action": "Engrossed to House",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-26",
+      "action": "First Reading",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2025-02-10",
+      "description": "Senate: Health & Human Services Committee: DO PASS",
+      "yea": 8,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2025-03-05",
+      "description": "Senate: Appropriations Committee: DO PASS AMENDED CS",
+      "yea": 20,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-25",
+      "description": "Senate: AMENDMENT",
+      "yea": 36,
+      "nay": 8,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-25",
+      "description": "Senate: THIRD READING",
+      "yea": 39,
+      "nay": 8,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-01-16",
+      "type": "Introduced",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20INT/SB/SB904%20INT.PDF",
+      "doc_id": 3277531
+    },
+    {
+      "date": "2025-03-05",
+      "type": "Comm Sub",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20COMMITTEE%20SUBS/SCS/SB904%20CS.PDF",
+      "doc_id": 3277532
+    },
+    {
+      "date": "2025-03-06",
+      "type": "Amended",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20FLR/SFLR/SB904%20SFLR.PDF",
+      "doc_id": 3277533
+    },
+    {
+      "date": "2026-03-26",
+      "type": "Engrossed",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENGR/SB/SB904%20ENGR.PDF",
+      "doc_id": 3405960
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

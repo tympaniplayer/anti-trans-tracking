@@ -5,9 +5,9 @@
   "bill_number": "AB1157",
   "title": "Pupil discrimination and private schools participating in a parental choice program or the Special Needs Scholarship Program, discrimination based on gender identity or gender expression, and providing a penalty.",
   "summary": "An Act to amend 118.019 (2d), 118.13 (1), 118.13 (2) (a), 118.13 (3) (a) 3., 118.13 (3) (b) 1. and 2., 118.13 (4), 118.20 (1) and 118.40 (4) (b) 2.; to create 118.13 (1m) of the statutes; Relating to: pupil discrimination and private schools participating in a parental choice program or the Special Needs Scholarship Program, discrimination based on gender identity or gender expression, and providing a penalty.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "education"
   ],
@@ -55,7 +55,7 @@
     "Melissa Ratcliff (D) [Sen]",
     "Jeff Smith (D) [Sen]"
   ],
-  "introduced_date": "2026-03-13",
+  "introduced_date": "2026-03-23",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -77,6 +77,11 @@
       "date": "2026-03-20",
       "action": "Representative J. Jacobson added as a coauthor",
       "chamber": "A"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "chamber": "A"
     }
   ],
   "votes": [],
@@ -88,11 +93,6 @@
       "doc_id": 3394206
     }
   ],
-  "committee": {
-    "committee_id": 1028,
-    "chamber": "A",
-    "chamber_id": 99,
-    "name": "Education"
-  },
+  "committee": [],
   "subjects": []
 }

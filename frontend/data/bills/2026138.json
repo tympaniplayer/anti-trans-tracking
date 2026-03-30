@@ -5,9 +5,9 @@
   "bill_number": "AB215",
   "title": "Eliminating the publication requirement for a name change petition seeking to conform an individual\u2019s name with the individual\u2019s gender identity.",
   "summary": "An Act to renumber and amend 786.37 (4); to create 786.37 (4) (a) (intro.) and 786.37 (4) (a) 2. of the statutes; Relating to: eliminating the publication requirement for a name change petition seeking to conform an individual\u2019s name with the individual\u2019s gender identity.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "identity_documents"
   ],
@@ -63,7 +63,7 @@
     "Dora Drake (D) [Sen]",
     "Jeff Smith (D) [Sen]"
   ],
-  "introduced_date": "2025-04-23",
+  "introduced_date": "2026-03-23",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -74,6 +74,11 @@
     {
       "date": "2025-04-23",
       "action": "Read first time and referred to Committee on Judiciary",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Failed to pass pursuant to Senate Joint Resolution 1",
       "chamber": "A"
     }
   ],
@@ -86,11 +91,6 @@
       "doc_id": 3219761
     }
   ],
-  "committee": {
-    "committee_id": 2989,
-    "chamber": "A",
-    "chamber_id": 99,
-    "name": "Judiciary"
-  },
+  "committee": [],
   "subjects": []
 }

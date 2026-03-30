@@ -68,6 +68,11 @@
       "date": "2026-03-19",
       "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on RLS.",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-25",
+      "action": "Re-referred to Coms. on JUD. and APPR.",
+      "chamber": "S"
     }
   ],
   "votes": [],
@@ -86,10 +91,10 @@
     }
   ],
   "committee": {
-    "committee_id": 489,
+    "committee_id": 482,
     "chamber": "S",
     "chamber_id": 20,
-    "name": "Rules"
+    "name": "Judiciary"
   },
   "subjects": []
 }

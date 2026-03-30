@@ -79,6 +79,11 @@
       "date": "2026-03-19",
       "action": "Read second time and amended.",
       "chamber": "A"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Re-referred to Com. on C. & C.",
+      "chamber": "A"
     }
   ],
   "votes": [
@@ -110,6 +115,11 @@
       "doc_id": 3399853
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 3669,
+    "chamber": "A",
+    "chamber_id": 19,
+    "name": "Communications and Conveyance"
+  },
   "subjects": []
 }

@@ -23,7 +23,9 @@
   "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SJR0589&ga=114",
   "sponsors": [
     "Jack Johnson (R) [Sen]",
-    "Jessie Seal (R) [Sen]"
+    "Jessie Seal (R) [Sen]",
+    "John Stevens (R) [Sen]",
+    "Bo Watson (R) [Sen]"
   ],
   "introduced_date": "2026-01-14",
   "session": "114th General Assembly",
@@ -62,9 +64,32 @@
       "date": "2026-03-17",
       "action": "Placed on Senate Finance, Ways, and Means Committee calendar for 3/24/2026",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-24",
+      "action": "Recommended for adoption by Senate Finance, Ways, and Means Committee, refer Senate Calendar Committee",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-24",
+      "action": "Sponsor(s) Added.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-27",
+      "action": "Placed on Senate Regular Calendar for 3/30/2026",
+      "chamber": "S"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-03-24",
+      "description": "SENATE FINANCE, WAYS AND MEANS COMMITTEE: Recommended for adoption by Senate Finance, Ways, and Means Committee, refer Senate Calendar Committee",
+      "yea": 9,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2026-01-14",
@@ -73,12 +98,7 @@
       "doc_id": 3316222
     }
   ],
-  "committee": {
-    "committee_id": 2496,
-    "chamber": "S",
-    "chamber_id": 90,
-    "name": "Finance, Ways and Means"
-  },
+  "committee": [],
   "subjects": [
     "Memorials, Congress"
   ]

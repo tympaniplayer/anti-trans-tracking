@@ -1,0 +1,83 @@
+{
+  "id": 2138112,
+  "state": "DE",
+  "state_name": "Delaware",
+  "bill_number": "HCR106",
+  "title": "Recognizing March 31st As International Transgender Day Of Visibility In The State Of Delaware.",
+  "summary": "Recognizing March 31st As International Transgender Day Of Visibility In The State Of Delaware.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DE/bill/HCR106/2025",
+  "legiscan_url": "https://legiscan.com/DE/bill/HCR106/2025",
+  "state_url": "https://legis.delaware.gov/BillDetail?LegislationId=142995",
+  "sponsors": [
+    "DeShanna Neal (D) [Rep]",
+    "Eric Morrison (D) [Rep]",
+    "Daniel Cruce (D) [Sen]",
+    "Debra Heffernan (D) [Rep]",
+    "Kendra Johnson (D) [Rep]",
+    "Mara Gorman (D) [Rep]",
+    "Melanie Ross Levin (D) [Rep]",
+    "Cyndie Romer (D) [Rep]",
+    "Stephanie Bolden (D) [Rep]",
+    "David Sokola (D) [Sen]",
+    "Russ Huxtable (D) [Sen]",
+    "Stephanie Hansen (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-25",
+  "session": "153rd General Assembly",
+  "actions": [
+    {
+      "date": "2026-03-25",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-25",
+      "action": "Passed In House by Voice Vote",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-25",
+      "action": "Passed By Senate. Votes: 14 YES 3 NO 1 NOT VOTING 3 ABSENT",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-03-25",
+      "description": "House Third Reading",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-25",
+      "description": "Senate Third Reading",
+      "yea": 14,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Draft",
+      "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=142995&legislationTypeId=3&docTypeId=2&legislationName=HCR106",
+      "doc_id": 3404302
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

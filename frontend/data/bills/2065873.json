@@ -117,6 +117,26 @@
       "date": "2026-03-18",
       "action": "House JUD Committee action: Do Pass, voting: (6-3-0-0-0-0)",
       "chamber": "H"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "House RULES Committee action: constitutional and in proper form, voting: (8-0-0-0-0-0)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "House consent calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-24",
+      "action": "House majority caucus: Do pass",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-24",
+      "action": "House minority caucus: Do pass",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -154,6 +174,13 @@
       "yea": 6,
       "nay": 3,
       "passed": 1
+    },
+    {
+      "date": "2026-03-23",
+      "description": "House Rules Committee Action (C&P)",
+      "yea": 8,
+      "nay": 0,
+      "passed": 1
     }
   ],
   "texts": [
@@ -170,12 +197,7 @@
       "doc_id": 3378547
     }
   ],
-  "committee": {
-    "committee_id": 1101,
-    "chamber": "H",
-    "chamber_id": 15,
-    "name": "Rules"
-  },
+  "committee": [],
   "subjects": [
     "Civil Liability",
     "Courts And Civil Proceedings - Title 12",

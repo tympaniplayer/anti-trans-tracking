@@ -5,9 +5,9 @@
   "bill_number": "SB312",
   "title": "Changing an individual\u2019s sex on a birth certificate.",
   "summary": "An Act to amend 69.15 (1) (a) and 69.15 (4) (b); to create 69.01 (1m), 69.115 and 69.12 (2m) of the statutes; Relating to: changing an individual\u2019s sex on a birth certificate.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "identity_documents"
   ],
@@ -41,7 +41,7 @@
     "Scott Allen (R) [Rep]",
     "Elijah Behnke (R) [Rep]"
   ],
-  "introduced_date": "2025-06-04",
+  "introduced_date": "2026-03-23",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -58,6 +58,11 @@
       "date": "2025-09-22",
       "action": "Senate Amendment 1 offered by Senator Nass",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "chamber": "S"
     }
   ],
   "votes": [],
@@ -69,11 +74,6 @@
       "doc_id": 3251819
     }
   ],
-  "committee": {
-    "committee_id": 5127,
-    "chamber": "S",
-    "chamber_id": 100,
-    "name": "Licensing, Regulatory Reform, State and Federal Affairs"
-  },
+  "committee": [],
   "subjects": []
 }

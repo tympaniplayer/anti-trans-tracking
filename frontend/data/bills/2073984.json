@@ -3,8 +3,8 @@
   "state": "OK",
   "state_name": "Oklahoma",
   "bill_number": "HB3130",
-  "title": "Gender transition procedures; state funds; parental rights; severability clause; judicial review; venue; unprofessional conduct within the Oklahoma Allopathic Medical and Surgical Licensure and Supervision Act; gender transition procedure misconduct; unprofessional conduct within the Physician Assistant Act; Oklahoma Nursing Practice Act; Oklahoma Osteopathic Medicine Act; health services for minors; definition; referrals; aiding and abetting; emergency.",
-  "summary": "Gender transition procedures; state funds; parental rights; severability clause; judicial review; venue; unprofessional conduct within the Oklahoma Allopathic Medical and Surgical Licensure and Supervision Act; gender transition procedure misconduct; unprofessional conduct within the Physician Assistant Act; Oklahoma Nursing Practice Act; Oklahoma Osteopathic Medicine Act; health services for minors; definition; referrals; aiding and abetting; emergency.",
+  "title": "Gender transition procedures; health services for minors; definition; referrals and aiding and abetting; punitive damages; exempting immunity protection for employees in certain actions; emergency.",
+  "summary": "Gender transition procedures; health services for minors; definition; referrals and aiding and abetting; punitive damages; exempting immunity protection for employees in certain actions; emergency.",
   "status": "introduced",
   "status_label": "Introduced",
   "status_code": 1,
@@ -21,15 +21,15 @@
   "last_action": "",
   "url": "https://legiscan.com/OK/bill/HB3130/2026",
   "legiscan_url": "https://legiscan.com/OK/bill/HB3130/2026",
-  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=hb3130&Session=2600",
+  "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3130&Session=2600",
   "sponsors": [
     "Kevin West (R) [Rep]",
     "David Bullard (R) [Sen]",
     "Denise Hader (R) [Rep]",
     "Jim Olsen (R) [Rep]",
+    "Cody Maynard (R) [Rep]",
     "Stacy Jo Adams (R) [Rep]",
-    "Gabe Woolley (R) [Rep]",
-    "Cody Maynard (R) [Rep]"
+    "Gabe Woolley (R) [Rep]"
   ],
   "introduced_date": "2026-02-02",
   "session": "2026 Regular Session",
@@ -78,6 +78,31 @@
       "date": "2026-03-02",
       "action": "Coauthored by Representative(s) Adams, CrosswhiteHader",
       "chamber": "H"
+    },
+    {
+      "date": "2026-03-25",
+      "action": "General Order",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-25",
+      "action": "Coauthored by Representative(s) Maynard",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-25",
+      "action": "Amended by floor substitute",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-25",
+      "action": "Third Reading, Measure and Emergency passed: Ayes: 71 Nays: 21",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-25",
+      "action": "Referred for engrossment",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -93,6 +118,13 @@
       "description": "House: Government Oversight Committee: DO PASS AS AMENDED BY CS",
       "yea": 16,
       "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-25",
+      "description": "House: THIRD READING",
+      "yea": 71,
+      "nay": 21,
       "passed": 1
     }
   ],

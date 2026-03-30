@@ -71,6 +71,36 @@
       "date": "2026-03-17",
       "action": "Introduced, read first time; referred to: Judiciary & Rules",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-24",
+      "action": "Reported out of Committee with Do Pass Recommendation; Filed for second reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-25",
+      "action": "Read second time; filed for Third Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-27",
+      "action": "Read third time in full -- PASSED 28-7-0",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-27",
+      "action": "Title apvd",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-27",
+      "action": "to House",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-27",
+      "action": "Returned from Senate Passed; to JRA for Enrolling",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -79,6 +109,13 @@
       "description": "House Third Reading",
       "yea": 54,
       "nay": 15,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-27",
+      "description": "Senate Third Reading",
+      "yea": 28,
+      "nay": 7,
       "passed": 1
     }
   ],
@@ -90,12 +127,7 @@
       "doc_id": 3372353
     }
   ],
-  "committee": {
-    "committee_id": 1537,
-    "chamber": "S",
-    "chamber_id": 34,
-    "name": "Judiciary and Rules"
-  },
+  "committee": [],
   "subjects": [
     "INDECENCY AND OBSCENITY"
   ]

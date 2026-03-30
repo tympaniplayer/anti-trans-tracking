@@ -5,9 +5,9 @@
   "bill_number": "SB120",
   "title": "School board policies related to changing a pupil\u2019s legal name and pronouns.",
   "summary": "An Act to create 118.1255 of the statutes; Relating to: school board policies related to changing a pupil\u2019s legal name and pronouns.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "education",
     "identity_documents"
@@ -35,7 +35,7 @@
     "Jeffrey Mursau (R) [Rep]",
     "Joy Goeben (R) [Rep]"
   ],
-  "introduced_date": "2025-03-07",
+  "introduced_date": "2026-03-23",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -76,6 +76,11 @@
     {
       "date": "2026-01-09",
       "action": "Available for scheduling",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Failed to pass pursuant to Senate Joint Resolution 1",
       "chamber": "S"
     }
   ],

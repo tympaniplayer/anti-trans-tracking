@@ -3,16 +3,16 @@
   "state": "NH",
   "state_name": "New Hampshire",
   "bill_number": "SB459",
-  "title": "Relative to biological sex in student athletics and prisons.",
-  "summary": "Relative to biological sex in student athletics and prisons.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "title": "Exempting classification of individuals based on biological sex from the definition of an unlawful discriminatory practice in certain limited circumstances.",
+  "summary": "Exempting classification of individuals based on biological sex from the definition of an unlawful discriminatory practice in certain limited circumstances.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
   "categories": [
-    "sports",
-    "other"
+    "religious_exemptions",
+    "definitions"
   ],
-  "primary_category": "sports",
+  "primary_category": "religious_exemptions",
   "sentiment": "restrictive",
   "sentiment_label": "Restrictive",
   "relevant": true,
@@ -35,7 +35,7 @@
     "Mark Pearson (R) [Rep]",
     "Lilli Walsh (R) [Rep]"
   ],
-  "introduced_date": "2025-11-21",
+  "introduced_date": "2026-03-27",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -52,17 +52,73 @@
       "date": "2026-03-18",
       "action": "Committee Report: Ought to Pass with Amendment # 2026-1217s, 03/26/2026, Vote 3-1; Senate Calendar  11",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-26",
+      "action": "Special Order to the end of the Calendar, Without Objection, Motion Adopted; 03/26/2026; Senate Journal 7",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-26",
+      "action": "Committee Amendment # 2026-1217s, Amendment Failed, Voice Vote; 03/26/2026; Senate Journal 7",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-26",
+      "action": "Sen. Lang Moved Reconsideration on the Previous Vote, Regular Calendar 15Y-9N, Motion Adopted; 03/26/2026; Senate Journal 7",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-26",
+      "action": "Committee Amendment # 2026-1217s, Amendment Adopted, Voice Vote; 03/26/2026; Senate Journal 7",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-26",
+      "action": "Ought to Pass with Amendment #2026-1217s, Regular Calendar 15Y-9N, Motion Adopted; OT3rdg; 03/26/2026; Senate Journal 7",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-27",
+      "action": "Introduced (in recess of) 03/26/2026 and referred to Judiciary House Journal  9",
+      "chamber": "H"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-03-26",
+      "description": "Reconsideration",
+      "yea": 15,
+      "nay": 9,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-26",
+      "description": "Ought to Pass w/Amendment",
+      "yea": 15,
+      "nay": 9,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "0000-00-00",
       "type": "Introduced",
       "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&id=1421&txtFormat=html",
       "doc_id": 3285509
+    },
+    {
+      "date": "2026-03-26",
+      "type": "Amended",
+      "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&txtFormat=html&v=SA&id=1421",
+      "doc_id": 3406136
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 1250,
+    "chamber": "H",
+    "chamber_id": 67,
+    "name": "Judiciary"
+  },
   "subjects": []
 }

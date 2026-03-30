@@ -5,9 +5,9 @@
   "bill_number": "AB361",
   "title": "Eliminating criminal defenses of adequate provocation, self-defense, or not guilty by reason of mental disease or defect if the claim is based on the victim\u2019s gender identity or sexual orientation.",
   "summary": "An Act to renumber and amend 971.15 (2); to create 939.44 (3), 939.48 (5m) and 971.15 (2) (b) of the statutes; Relating to: eliminating criminal defenses of adequate provocation, self-defense, or not guilty by reason of mental disease or defect if the claim is based on the victim\u2019s gender identity or sexual orientation.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "definitions",
     "other"
@@ -74,7 +74,7 @@
     "Jamie Wall (D) [Sen]",
     "Robert Wirch (D) [Sen]"
   ],
-  "introduced_date": "2025-07-17",
+  "introduced_date": "2026-03-23",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -91,6 +91,11 @@
       "date": "2026-01-08",
       "action": "Representative J. Jacobson added as a coauthor",
       "chamber": "A"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Failed to pass pursuant to Senate Joint Resolution 1",
+      "chamber": "A"
     }
   ],
   "votes": [],
@@ -102,11 +107,6 @@
       "doc_id": 3262089
     }
   ],
-  "committee": {
-    "committee_id": 2989,
-    "chamber": "A",
-    "chamber_id": 99,
-    "name": "Judiciary"
-  },
+  "committee": [],
   "subjects": []
 }

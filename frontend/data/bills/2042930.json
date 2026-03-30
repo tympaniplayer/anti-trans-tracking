@@ -5,9 +5,9 @@
   "bill_number": "AB400",
   "title": "A civil cause of action for a minor injured by a gender transition procedure.",
   "summary": "An Act to create 895.039 of the statutes; Relating to: a civil cause of action for a minor injured by a gender transition procedure.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "healthcare"
   ],
@@ -43,7 +43,7 @@
     "Julian Bradley (R) [Sen]",
     "Steve Nass (R) [Sen]"
   ],
-  "introduced_date": "2025-08-29",
+  "introduced_date": "2026-03-23",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -89,6 +89,11 @@
     {
       "date": "2026-02-12",
       "action": "Laid on the table",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Failed to pass pursuant to Senate Joint Resolution 1",
       "chamber": "A"
     }
   ],

@@ -5,9 +5,9 @@
   "bill_number": "AJR108",
   "title": "Equality of rights on the basis of sex, gender identity, race, color, sexual orientation, disability, religion, national origin, marital status, family status, age, ancestry, or any other immutable characteristic and creating a private cause of action for violations of those rights by state actors (first consideration).",
   "summary": "To create section 27 of article I of the constitution; Relating to: equality of rights on the basis of sex, gender identity, race, color, sexual orientation, disability, religion, national origin, marital status, family status, age, ancestry, or any other immutable characteristic and creating a private cause of action for violations of those rights by state actors (first consideration).",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "definitions",
     "other"
@@ -74,7 +74,7 @@
     "Robert Wirch (D) [Sen]",
     "Sarah Keyeski (D) [Sen]"
   ],
-  "introduced_date": "2025-10-24",
+  "introduced_date": "2026-03-23",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -96,6 +96,11 @@
       "date": "2026-02-09",
       "action": "Representative J. Jacobson added as a coauthor",
       "chamber": "A"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Failed to adopt pursuant to Senate Joint Resolution 1",
+      "chamber": "A"
     }
   ],
   "votes": [],
@@ -107,11 +112,6 @@
       "doc_id": 3274684
     }
   ],
-  "committee": {
-    "committee_id": 3000,
-    "chamber": "A",
-    "chamber_id": 99,
-    "name": "State Affairs"
-  },
+  "committee": [],
   "subjects": []
 }

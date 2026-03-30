@@ -16,19 +16,19 @@
   "US": {
     "state": "US",
     "state_name": "Federal",
-    "total": 35,
+    "total": 37,
     "by_category": {
-      "other": 15,
+      "other": 17,
       "healthcare": 13,
       "education": 3,
       "sports": 2,
       "definitions": 2
     },
     "by_status": {
-      "introduced": 35
+      "introduced": 37
     },
     "by_sentiment": {
-      "protective": 26,
+      "protective": 28,
       "restrictive": 9
     }
   },
@@ -75,17 +75,17 @@
   "DE": {
     "state": "DE",
     "state_name": "Delaware",
-    "total": 2,
+    "total": 3,
     "by_category": {
-      "other": 1,
+      "other": 2,
       "healthcare": 1
     },
     "by_status": {
-      "passed_one_chamber": 1,
+      "passed_one_chamber": 2,
       "introduced": 1
     },
     "by_sentiment": {
-      "protective": 1,
+      "protective": 2,
       "restrictive": 1
     }
   },
@@ -121,24 +121,6 @@
       "neutral": 1
     }
   },
-  "NE": {
-    "state": "NE",
-    "state_name": "Nebraska",
-    "total": 4,
-    "by_category": {
-      "sports": 1,
-      "healthcare": 3
-    },
-    "by_status": {
-      "dead": 1,
-      "introduced": 3
-    },
-    "by_sentiment": {
-      "neutral": 1,
-      "protective": 1,
-      "restrictive": 2
-    }
-  },
   "WA": {
     "state": "WA",
     "state_name": "Washington",
@@ -155,6 +137,24 @@
     },
     "by_sentiment": {
       "protective": 3,
+      "restrictive": 2
+    }
+  },
+  "NE": {
+    "state": "NE",
+    "state_name": "Nebraska",
+    "total": 4,
+    "by_category": {
+      "sports": 1,
+      "healthcare": 3
+    },
+    "by_status": {
+      "dead": 1,
+      "introduced": 3
+    },
+    "by_sentiment": {
+      "neutral": 1,
+      "protective": 1,
       "restrictive": 2
     }
   },
@@ -228,7 +228,7 @@
       "definitions": 4
     },
     "by_status": {
-      "introduced": 22,
+      "dead": 22,
       "passed_both_chambers": 3
     },
     "by_sentiment": {
@@ -335,6 +335,23 @@
       "restrictive": 3
     }
   },
+  "OK": {
+    "state": "OK",
+    "state_name": "Oklahoma",
+    "total": 11,
+    "by_category": {
+      "healthcare": 6,
+      "identity_documents": 2,
+      "education": 3
+    },
+    "by_status": {
+      "introduced": 8,
+      "passed_one_chamber": 3
+    },
+    "by_sentiment": {
+      "restrictive": 11
+    }
+  },
   "FL": {
     "state": "FL",
     "state_name": "Florida",
@@ -344,29 +361,12 @@
       "other": 1
     },
     "by_status": {
-      "introduced": 3,
-      "dead": 1
+      "dead": 3,
+      "introduced": 1
     },
     "by_sentiment": {
       "protective": 2,
       "restrictive": 2
-    }
-  },
-  "OK": {
-    "state": "OK",
-    "state_name": "Oklahoma",
-    "total": 10,
-    "by_category": {
-      "healthcare": 5,
-      "identity_documents": 2,
-      "education": 3
-    },
-    "by_status": {
-      "introduced": 8,
-      "passed_one_chamber": 2
-    },
-    "by_sentiment": {
-      "restrictive": 10
     }
   },
   "NM": {
@@ -551,11 +551,12 @@
       "definitions": 6,
       "bathrooms": 2,
       "other": 1,
-      "sports": 2
+      "religious_exemptions": 1,
+      "sports": 1
     },
     "by_status": {
-      "introduced": 3,
-      "passed_one_chamber": 7,
+      "introduced": 2,
+      "passed_one_chamber": 8,
       "vetoed": 1
     },
     "by_sentiment": {
@@ -755,16 +756,18 @@
   "OH": {
     "state": "OH",
     "state_name": "Ohio",
-    "total": 3,
+    "total": 4,
     "by_category": {
       "healthcare": 2,
-      "definitions": 1
+      "definitions": 1,
+      "identity_documents": 1
     },
     "by_status": {
-      "introduced": 3
+      "introduced": 4
     },
     "by_sentiment": {
-      "protective": 3
+      "protective": 3,
+      "restrictive": 1
     }
   },
   "IN": {
@@ -789,7 +792,7 @@
       "bathrooms": 1
     },
     "by_status": {
-      "passed_both_chambers": 1
+      "signed_into_law": 1
     },
     "by_sentiment": {
       "restrictive": 1

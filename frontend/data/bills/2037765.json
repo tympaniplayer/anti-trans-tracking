@@ -5,9 +5,9 @@
   "bill_number": "SJR73",
   "title": "Recognizing June 2025 as LGBTQ Pride Month.",
   "summary": "Relating to: recognizing June 2025 as LGBTQ Pride Month.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "other"
   ],
@@ -72,7 +72,7 @@
     "Robyn Vining (D) [Rep]",
     "Kalan Haywood (D) [Rep]"
   ],
-  "introduced_date": "2025-06-19",
+  "introduced_date": "2026-03-23",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -93,6 +93,11 @@
     {
       "date": "2026-01-09",
       "action": "Representative J. Jacobson added as a cosponsor",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Failed to adopt pursuant to Senate Joint Resolution 1",
       "chamber": "S"
     }
   ],

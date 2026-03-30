@@ -5,9 +5,9 @@
   "bill_number": "SJR115",
   "title": "Proclaiming November 20 in 2025 and 2026 as Wisconsin\u2019s Transgender Day of Remembrance.",
   "summary": "Relating to: proclaiming November 20 in 2025 and 2026 as Wisconsin\u2019s Transgender Day of Remembrance.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "other"
   ],
@@ -56,7 +56,7 @@
     "Christine Sinicki (D) [Rep]",
     "Deb Andraca (D) [Rep]"
   ],
-  "introduced_date": "2025-12-12",
+  "introduced_date": "2026-03-23",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -82,6 +82,11 @@
     {
       "date": "2026-03-19",
       "action": "Representative J. Jacobson added as a cosponsor",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Failed to adopt pursuant to Senate Joint Resolution 1",
       "chamber": "S"
     }
   ],

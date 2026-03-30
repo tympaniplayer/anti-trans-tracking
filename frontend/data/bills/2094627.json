@@ -5,9 +5,9 @@
   "bill_number": "HB1161",
   "title": "Amend provisions related to changing rooms, sleeping quarters, and restrooms.",
   "summary": "Amend provisions related to changing rooms, sleeping quarters, and restrooms.",
-  "status": "passed_both_chambers",
-  "status_label": "Enrolled",
-  "status_code": 3,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "bathrooms"
   ],
@@ -30,7 +30,7 @@
     "Tim Reed (R) [Rep]",
     "Kent Roe (R) [Rep]"
   ],
-  "introduced_date": "2026-03-05",
+  "introduced_date": "2026-03-30",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -116,6 +116,11 @@
     {
       "date": "2026-03-11",
       "action": "Delivered to the Governor on March 11, 2026 H.J. 556",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "Signed by the Governor on March 30, 2026",
       "chamber": "H"
     }
   ],

@@ -49,6 +49,16 @@
       "date": "2026-03-10",
       "action": "Referred to PBS, JHA, referral sheet 15",
       "chamber": "H"
+    },
+    {
+      "date": "2026-03-24",
+      "action": "Resolution scheduled to be heard by PBS on Friday, 03-27-26 10:00AM in conference room 411 VIA VIDEOCONFERENCE.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-27",
+      "action": "The committee on PBS recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 7 Ayes: Representative(s) Belatti, Iwamoto, Hashem, Ichiyama, Woodson, Souza; Ayes with reservations: Representative(s) Shimizu; 0 Noes: none; and 2 Excused: Representative(s) Morikawa, Poepoe.",
+      "chamber": "H"
     }
   ],
   "votes": [],
@@ -60,12 +70,7 @@
       "doc_id": 3332070
     }
   ],
-  "committee": {
-    "committee_id": 2810,
-    "chamber": "H",
-    "chamber_id": 31,
-    "name": "Public Safety"
-  },
+  "committee": [],
   "subjects": [
     "Transgender Service Members",
     "Hawai\u02bbi National Guard"

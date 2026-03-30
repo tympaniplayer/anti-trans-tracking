@@ -91,6 +91,26 @@
       "date": "2026-03-18",
       "action": "Transmit to House",
       "chamber": "H"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Introduced in House and read first time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Assigned to House HHS Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Assigned to House RULES Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-24",
+      "action": "House read second time",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -137,7 +157,12 @@
       "doc_id": 3383979
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 1096,
+    "chamber": "H",
+    "chamber_id": 15,
+    "name": "Health and Human Services"
+  },
   "subjects": [
     "Definitions",
     "Gender Transition",

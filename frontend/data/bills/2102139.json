@@ -46,6 +46,11 @@
       "date": "2026-01-29",
       "action": "Not Printed",
       "chamber": "H"
+    },
+    {
+      "date": "2026-01-29",
+      "action": "Action Postponed Indefinitely",
+      "chamber": "H"
     }
   ],
   "votes": [],
@@ -57,11 +62,6 @@
       "doc_id": 3341570
     }
   ],
-  "committee": {
-    "committee_id": 2179,
-    "chamber": "H",
-    "chamber_id": 71,
-    "name": "Rules & Order of Business"
-  },
+  "committee": [],
   "subjects": []
 }

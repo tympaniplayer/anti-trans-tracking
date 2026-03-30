@@ -5,9 +5,9 @@
   "bill_number": "S1642",
   "title": "Gender Identity Employment Practices",
   "summary": "Citing this act as the \"Freedom of Conscience in the Workplace Act\"; specifying an employment policy of this state relating to a person's sex; providing applicability; prohibiting employees and contractors of certain employers from being required to use certain pronouns or requiring such employers to use a pronoun that does not correspond to the employee's or contractor's sex; prohibiting the inclusion on certain forms of specified options relating to an applicant's sex; providing that it is an unlawful employment practice for certain employers to require certain training, instruction, or activity as a condition of employment, etc.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "definitions",
     "identity_documents"
@@ -26,7 +26,7 @@
     "Governmental Oversight and Accountability [Sen]",
     "Stan McClain (R) [Sen]"
   ],
-  "introduced_date": "2026-01-09",
+  "introduced_date": "2026-03-13",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -68,6 +68,11 @@
       "date": "2026-02-04",
       "action": "CS by Governmental Oversight and Accountability read 1st time",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-13",
+      "action": "Died in Judiciary",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -93,11 +98,6 @@
       "doc_id": 3345971
     }
   ],
-  "committee": {
-    "committee_id": 558,
-    "chamber": "S",
-    "chamber_id": 28,
-    "name": "Judiciary"
-  },
+  "committee": [],
   "subjects": []
 }
