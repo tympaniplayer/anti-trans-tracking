@@ -59,6 +59,16 @@
       "date": "2026-03-27",
       "action": "The committee on PBS recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 7 Ayes: Representative(s) Belatti, Iwamoto, Hashem, Ichiyama, Woodson, Souza; Ayes with reservations: Representative(s) Shimizu; 0 Noes: none; and 2 Excused: Representative(s) Morikawa, Poepoe.",
       "chamber": "H"
+    },
+    {
+      "date": "2026-04-01",
+      "action": "Reported from PBS (Stand. Com. Rep. No. 1600-26) as amended in HD 1, recommending referral to JHA.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-01",
+      "action": "Report adopted; referred to the committee(s) on JHA as amended in HD 1 with Representative(s) Gedeon, Matsumoto, Shimizu voting aye with reservations; Representative(s) Alcos, Garcia, Muraoka, Pierick voting no (4) and none excused (0).",
+      "chamber": "H"
     }
   ],
   "votes": [],
@@ -68,9 +78,20 @@
       "type": "Introduced",
       "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HR3_.HTM",
       "doc_id": 3331680
+    },
+    {
+      "date": "2026-03-31",
+      "type": "Amended",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HR3_HD1_.HTM",
+      "doc_id": 3409244
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 4406,
+    "chamber": "H",
+    "chamber_id": 31,
+    "name": "Judiciary & Hawaiian Affairs"
+  },
   "subjects": [
     "Transgender Service Members",
     "Hawai\u02bbi National Guard"

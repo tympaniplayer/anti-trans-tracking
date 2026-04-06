@@ -5,9 +5,9 @@
   "bill_number": "HB3130",
   "title": "Gender transition procedures; health services for minors; definition; referrals and aiding and abetting; punitive damages; exempting immunity protection for employees in certain actions; emergency.",
   "summary": "Gender transition procedures; health services for minors; definition; referrals and aiding and abetting; punitive damages; exempting immunity protection for employees in certain actions; emergency.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
   "categories": [
     "healthcare",
     "definitions"
@@ -31,7 +31,7 @@
     "Stacy Jo Adams (R) [Rep]",
     "Gabe Woolley (R) [Rep]"
   ],
-  "introduced_date": "2026-02-02",
+  "introduced_date": "2026-03-30",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -103,6 +103,21 @@
       "date": "2026-03-25",
       "action": "Referred for engrossment",
       "chamber": "H"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "Engrossed, signed, to Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "First Reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-01",
+      "action": "Second Reading referred to Health and Human Services",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -146,8 +161,19 @@
       "type": "Amended",
       "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20FLR/HFLR/HB3130%20HFLR.PDF",
       "doc_id": 3382339
+    },
+    {
+      "date": "2026-03-30",
+      "type": "Engrossed",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENGR/hB/HB3130%20ENGR.PDF",
+      "doc_id": 3408266
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 1229,
+    "chamber": "S",
+    "chamber_id": 80,
+    "name": "Health and Human Services"
+  },
   "subjects": []
 }

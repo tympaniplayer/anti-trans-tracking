@@ -5,9 +5,9 @@
   "bill_number": "AB104",
   "title": "Prohibiting gender transition medical intervention for individuals under 18 years of age.",
   "summary": "An Act to amend 441.07 (2), 448.02 (6), 448.02 (9) (intro.) and 448.978 (2) (intro.); to create 146.36, 441.07 (1j), 448.02 (3m) and 448.978 (1v) of the statutes; Relating to: prohibiting gender transition medical intervention for individuals under 18 years of age.",
-  "status": "passed_both_chambers",
-  "status_label": "Enrolled",
-  "status_code": 3,
+  "status": "vetoed",
+  "status_label": "Vetoed",
+  "status_code": 5,
   "categories": [
     "healthcare",
     "definitions"
@@ -54,7 +54,7 @@
     "Romaine Quinn (R) [Sen]",
     "Eric Wimberger (R) [Sen]"
   ],
-  "introduced_date": "2026-02-16",
+  "introduced_date": "2026-03-31",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -200,6 +200,11 @@
     {
       "date": "2026-03-26",
       "action": "Presented to the Governor on 3-26-2026",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-31",
+      "action": "Report vetoed by the Governor on 3-31-2026",
       "chamber": "A"
     }
   ],

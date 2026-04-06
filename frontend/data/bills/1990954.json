@@ -5,9 +5,9 @@
   "bill_number": "AB103",
   "title": "School board policies related to changing a pupil\u2019s legal name and pronouns.",
   "summary": "An Act to create 118.1255 of the statutes; Relating to: school board policies related to changing a pupil\u2019s legal name and pronouns.",
-  "status": "passed_both_chambers",
-  "status_label": "Enrolled",
-  "status_code": 3,
+  "status": "vetoed",
+  "status_label": "Vetoed",
+  "status_code": 5,
   "categories": [
     "education",
     "identity_documents"
@@ -33,7 +33,7 @@
     "Jeffrey Mursau (R) [Rep]",
     "Andre Jacque (R) [Sen]"
   ],
-  "introduced_date": "2026-02-16",
+  "introduced_date": "2026-03-31",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -209,6 +209,11 @@
     {
       "date": "2026-03-26",
       "action": "Presented to the Governor on 3-26-2026",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-31",
+      "action": "Report vetoed by the Governor on 3-31-2026",
       "chamber": "A"
     }
   ],

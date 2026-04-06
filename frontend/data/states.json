@@ -16,20 +16,20 @@
   "US": {
     "state": "US",
     "state_name": "Federal",
-    "total": 37,
+    "total": 36,
     "by_category": {
       "other": 17,
       "healthcare": 13,
-      "education": 3,
+      "education": 2,
       "sports": 2,
       "definitions": 2
     },
     "by_status": {
-      "introduced": 37
+      "introduced": 36
     },
     "by_sentiment": {
       "protective": 28,
-      "restrictive": 9
+      "restrictive": 8
     }
   },
   "NJ": {
@@ -87,6 +87,25 @@
     "by_sentiment": {
       "protective": 2,
       "restrictive": 1
+    }
+  },
+  "TN": {
+    "state": "TN",
+    "state_name": "Tennessee",
+    "total": 7,
+    "by_category": {
+      "other": 1,
+      "definitions": 4,
+      "sports": 1,
+      "education": 1
+    },
+    "by_status": {
+      "introduced": 5,
+      "passed_one_chamber": 2
+    },
+    "by_sentiment": {
+      "protective": 1,
+      "restrictive": 6
     }
   },
   "ND": {
@@ -196,6 +215,26 @@
       "restrictive": 2
     }
   },
+  "HI": {
+    "state": "HI",
+    "state_name": "Hawaii",
+    "total": 18,
+    "by_category": {
+      "identity_documents": 6,
+      "other": 4,
+      "definitions": 4,
+      "education": 3,
+      "sports": 1
+    },
+    "by_status": {
+      "introduced": 16,
+      "passed_one_chamber": 2
+    },
+    "by_sentiment": {
+      "protective": 17,
+      "restrictive": 1
+    }
+  },
   "PA": {
     "state": "PA",
     "state_name": "Pennsylvania",
@@ -229,7 +268,7 @@
     },
     "by_status": {
       "dead": 22,
-      "passed_both_chambers": 3
+      "vetoed": 3
     },
     "by_sentiment": {
       "protective": 17,
@@ -273,26 +312,6 @@
     },
     "by_sentiment": {
       "protective": 4
-    }
-  },
-  "HI": {
-    "state": "HI",
-    "state_name": "Hawaii",
-    "total": 18,
-    "by_category": {
-      "identity_documents": 6,
-      "other": 4,
-      "definitions": 4,
-      "education": 3,
-      "sports": 1
-    },
-    "by_status": {
-      "introduced": 16,
-      "passed_one_chamber": 2
-    },
-    "by_sentiment": {
-      "protective": 17,
-      "restrictive": 1
     }
   },
   "MI": {
@@ -345,8 +364,8 @@
       "education": 3
     },
     "by_status": {
-      "introduced": 8,
-      "passed_one_chamber": 3
+      "introduced": 7,
+      "passed_one_chamber": 4
     },
     "by_sentiment": {
       "restrictive": 11
@@ -457,22 +476,6 @@
       "restrictive": 6
     }
   },
-  "TN": {
-    "state": "TN",
-    "state_name": "Tennessee",
-    "total": 6,
-    "by_category": {
-      "definitions": 4,
-      "sports": 1,
-      "education": 1
-    },
-    "by_status": {
-      "introduced": 6
-    },
-    "by_sentiment": {
-      "restrictive": 6
-    }
-  },
   "KS": {
     "state": "KS",
     "state_name": "Kansas",
@@ -543,6 +546,22 @@
       "protective": 1
     }
   },
+  "CO": {
+    "state": "CO",
+    "state_name": "Colorado",
+    "total": 2,
+    "by_category": {
+      "healthcare": 2
+    },
+    "by_status": {
+      "introduced": 1,
+      "dead": 1
+    },
+    "by_sentiment": {
+      "protective": 1,
+      "restrictive": 1
+    }
+  },
   "NH": {
     "state": "NH",
     "state_name": "New Hampshire",
@@ -562,22 +581,6 @@
     "by_sentiment": {
       "restrictive": 10,
       "protective": 1
-    }
-  },
-  "CO": {
-    "state": "CO",
-    "state_name": "Colorado",
-    "total": 2,
-    "by_category": {
-      "healthcare": 2
-    },
-    "by_status": {
-      "introduced": 1,
-      "dead": 1
-    },
-    "by_sentiment": {
-      "protective": 1,
-      "restrictive": 1
     }
   },
   "LA": {
@@ -708,19 +711,18 @@
   "ID": {
     "state": "ID",
     "state_name": "Idaho",
-    "total": 4,
+    "total": 3,
     "by_category": {
       "definitions": 1,
-      "education": 1,
       "bathrooms": 2
     },
     "by_status": {
       "introduced": 2,
-      "passed_one_chamber": 2
+      "signed_into_law": 1
     },
     "by_sentiment": {
       "protective": 1,
-      "restrictive": 3
+      "restrictive": 2
     }
   },
   "AK": {

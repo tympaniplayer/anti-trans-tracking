@@ -84,6 +84,11 @@
       "date": "2026-03-12",
       "action": "First Reading",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-01",
+      "action": "Second Reading referred to Health and Human Services",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -128,6 +133,11 @@
       "doc_id": 3391737
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 1229,
+    "chamber": "S",
+    "chamber_id": 80,
+    "name": "Health and Human Services"
+  },
   "subjects": []
 }

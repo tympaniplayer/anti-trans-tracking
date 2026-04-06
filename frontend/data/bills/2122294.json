@@ -5,9 +5,9 @@
   "bill_number": "H0752",
   "title": "Adds to existing law to prohibit a person from entering a restroom or changing room of the opposite sex, to provide a penalty, and to provide exceptions.",
   "summary": "INDECENCY AND OBSCENITY -- Adds to existing law to prohibit a person from entering a restroom or changing room of the opposite sex, to provide a penalty, and to provide exceptions.",
-  "status": "passed_one_chamber",
-  "status_label": "Engrossed",
-  "status_code": 2,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "bathrooms"
   ],
@@ -24,7 +24,7 @@
   "sponsors": [
     "Ways and Means Committee [Rep]"
   ],
-  "introduced_date": "2026-03-16",
+  "introduced_date": "2026-04-01",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -100,6 +100,36 @@
     {
       "date": "2026-03-27",
       "action": "Returned from Senate Passed; to JRA for Enrolling",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "Reported Enrolled; Signed by Speaker; Transmitted to Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "Received from the House enrolled/signed by Speaker",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "Signed by President; returned to House",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "Returned Signed by the President; Ordered Transmitted to Governor",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-31",
+      "action": "Delivered to Governor at 4:50 p.m. on March 30, 2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-01",
+      "action": "Reported Signed by Governor on March 31, 2026 Session Law Chapter Effective:",
       "chamber": "H"
     }
   ],

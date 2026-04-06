@@ -1,0 +1,54 @@
+{
+  "id": 2139645,
+  "state": "TN",
+  "state_name": "Tennessee",
+  "bill_number": "HJR1253",
+  "title": "A RESOLUTION to honor Transgender Day of Visibility and the resilience, contributions, and dignity of the transgender community in Tennessee.",
+  "summary": "Transgender Day of Visibility",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TN/bill/HJR1253/2025",
+  "legiscan_url": "https://legiscan.com/TN/bill/HJR1253/2025",
+  "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HJR1253&ga=114",
+  "sponsors": [
+    "Aftyn Behn (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-31",
+  "session": "114th General Assembly",
+  "actions": [
+    {
+      "date": "2026-03-31",
+      "action": "Filed for introduction",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-02",
+      "action": "Intro., placed on H. consent cal. for 4/6/2026",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-31",
+      "type": "Draft",
+      "url": "https://www.capitol.tn.gov/Bills/114/Bill/HJR1253.pdf",
+      "doc_id": 3408499
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Memorials, Recognition"
+  ]
+}

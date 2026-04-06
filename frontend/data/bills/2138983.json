@@ -49,12 +49,21 @@
     }
   ],
   "votes": [],
-  "texts": [],
+  "texts": [
+    {
+      "date": "2026-03-31",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/sconres32/BILLS-119sconres32is.pdf",
+      "doc_id": 3408350
+    }
+  ],
   "committee": {
     "committee_id": 2330,
     "chamber": "S",
     "chamber_id": 115,
     "name": "Judiciary"
   },
-  "subjects": []
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
 }

@@ -25,7 +25,40 @@
     "Karen McCormick (D) [Rep]",
     "Alex Valdez (D) [Rep]",
     "Lisa Cutter (D) [Sen]",
-    "Kyle Mullica (D) [Sen]"
+    "Kyle Mullica (D) [Sen]",
+    "Jennifer Bacon (D) [Rep]",
+    "Andrew Boesenecker (D) [Rep]",
+    "Kyle Brown (D) [Rep]",
+    "Sean Camacho (D) [Rep]",
+    "Michael Carter (D) [Rep]",
+    "Chad Clifford (D) [Rep]",
+    "Monica Duran (D) [Rep]",
+    "Meg Froelich (D) [Rep]",
+    "Lorena Garcia (D) [Rep]",
+    "Lindsay Gilchrist (D) [Rep]",
+    "Lori Goldstein (D) [Rep]",
+    "Eliza Hamrick (D) [Rep]",
+    "Junie Joseph (D) [Rep]",
+    "Sheila Lieder (D) [Rep]",
+    "Mandy Lindsay (D) [Rep]",
+    "Javier Mabrey (D) [Rep]",
+    "Matthew Martinez (D) [Rep]",
+    "Tisha Mauro (D) [Rep]",
+    "Julie McCluskie (D) [Rep]",
+    "Kenny Nguyen (D) [Rep]",
+    "Amy Paschal (D) [Rep]",
+    "Manny Rutinel (D) [Rep]",
+    "Gretchen Rydin (D) [Rep]",
+    "Emily Sirota (D) [Rep]",
+    "Lesley Smith (D) [Rep]",
+    "Katie Stewart (D) [Rep]",
+    "Rebekah Stewart (D) [Rep]",
+    "Tammy Story (D) [Rep]",
+    "Brianna Titone (D) [Rep]",
+    "Elizabeth Velasco (D) [Rep]",
+    "Jenny Willford (D) [Rep]",
+    "Steven Woodrow (D) [Rep]",
+    "Yara Zokaie (D) [Rep]"
   ],
   "introduced_date": "2026-03-04",
   "session": "2026 Regular Session",
@@ -39,6 +72,21 @@
       "date": "2026-03-25",
       "action": "House Committee on Judiciary Refer Unamended to House Committee of the Whole",
       "chamber": "H"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "House Second Reading Laid Over Daily - No Amendments",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-01",
+      "action": "House Second Reading Special Order - Passed with Amendments - Floor",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-02",
+      "action": "House Third Reading Passed - No Amendments",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -48,6 +96,34 @@
       "yea": 7,
       "nay": 2,
       "passed": 1
+    },
+    {
+      "date": "2026-04-01",
+      "description": "House: MISC Limit",
+      "yea": 37,
+      "nay": 25,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-01",
+      "description": "House: Committee of the Whole Amd (h.001)",
+      "yea": 20,
+      "nay": 36,
+      "passed": 0
+    },
+    {
+      "date": "2026-04-01",
+      "description": "House: Committee of the Whole Amd (h.002)",
+      "yea": 22,
+      "nay": 35,
+      "passed": 0
+    },
+    {
+      "date": "2026-04-02",
+      "description": "House: Third Reading Bill",
+      "yea": 40,
+      "nay": 23,
+      "passed": 1
     }
   ],
   "texts": [
@@ -56,6 +132,18 @@
       "type": "Introduced",
       "url": "https://leg.colorado.gov/bill_files/112888/download",
       "doc_id": 3384508
+    },
+    {
+      "date": "1969-12-31",
+      "type": "Engrossed",
+      "url": "https://leg.colorado.gov/bill_files/113946/download",
+      "doc_id": 3410354
+    },
+    {
+      "date": "1969-12-31",
+      "type": "Engrossed",
+      "url": "https://leg.colorado.gov/bill_files/113985/download",
+      "doc_id": 3411096
     }
   ],
   "committee": [],

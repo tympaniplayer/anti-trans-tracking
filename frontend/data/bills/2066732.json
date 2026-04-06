@@ -112,6 +112,11 @@
       "date": "2026-03-25",
       "action": "Placed on cal. Judiciary Committee for 4/1/2026",
       "chamber": "H"
+    },
+    {
+      "date": "2026-04-01",
+      "action": "Taken off notice for cal. in Judiciary Committee",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -137,12 +142,7 @@
       "doc_id": 3322364
     }
   ],
-  "committee": {
-    "committee_id": 2486,
-    "chamber": "H",
-    "chamber_id": 89,
-    "name": "Judiciary"
-  },
+  "committee": [],
   "subjects": [
     "Sex Discrimination"
   ]

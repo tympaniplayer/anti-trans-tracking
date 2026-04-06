@@ -116,6 +116,26 @@
       "date": "2026-03-25",
       "action": "House GOV Committee action: Do Pass, voting: (4-3-0-0-0-0)",
       "chamber": "H"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "House RULES Committee action: constitutional and in proper form, voting: (8-0-0-0-0-0)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "House consent calendar",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-31",
+      "action": "House majority caucus: Do pass",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-31",
+      "action": "House minority caucus: Do pass",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -153,6 +173,13 @@
       "yea": 4,
       "nay": 3,
       "passed": 1
+    },
+    {
+      "date": "2026-03-30",
+      "description": "House Rules Committee Action (C&P)",
+      "yea": 8,
+      "nay": 0,
+      "passed": 1
     }
   ],
   "texts": [
@@ -169,12 +196,7 @@
       "doc_id": 3372255
     }
   ],
-  "committee": {
-    "committee_id": 1101,
-    "chamber": "H",
-    "chamber_id": 15,
-    "name": "Rules"
-  },
+  "committee": [],
   "subjects": [
     "Courts And Civil Proceedings - Title 12",
     "Gender Detransition Procedures",

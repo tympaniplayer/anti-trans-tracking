@@ -3,8 +3,8 @@
   "state": "OK",
   "state_name": "Oklahoma",
   "bill_number": "SB904",
-  "title": "State Medicaid program; gender transition; public funds shall not be used for certain medical procedures. Emergency.",
-  "summary": "State Medicaid program; gender transition; public funds shall not be used for certain medical procedures. Emergency.",
+  "title": "Gender transition procedures; prohibiting certain use of public funds and state facilities; providing criminal penalty. Emergency.",
+  "summary": "Gender transition procedures; prohibiting certain use of public funds and state facilities; providing criminal penalty. Emergency.",
   "status": "passed_one_chamber",
   "status_label": "Engrossed",
   "status_code": 2,
@@ -175,6 +175,16 @@
       "date": "2026-03-26",
       "action": "First Reading",
       "chamber": "H"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "Second Reading referred to Health and Human Services Oversight",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "Referred to Public Health",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -233,6 +243,11 @@
       "doc_id": 3405960
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 1214,
+    "chamber": "H",
+    "chamber_id": 79,
+    "name": "Public Health"
+  },
   "subjects": []
 }

@@ -21,7 +21,7 @@
   "last_action": "",
   "url": "https://legiscan.com/MO/bill/SB1085/2026",
   "legiscan_url": "https://legiscan.com/MO/bill/SB1085/2026",
-  "state_url": "https://www.senate.mo.gov/26info/BTS_Web/Bill.aspx?SessionType=R&BillID=174",
+  "state_url": "https://www.senate.mo.gov/BillTracking/Bills/Billinformation?year=2026&billid=174",
   "sponsors": [
     "Joe Nicola (R) [Sen]"
   ],
@@ -52,6 +52,16 @@
       "date": "2026-02-17",
       "action": "SCS Voted Do Pass S Education Committee (4425S.03C)",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-31",
+      "action": "Reported from S Education Committee w/SCS",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-07",
+      "action": "Formal Calendar S Bills for Perfection",
+      "chamber": "S"
     }
   ],
   "votes": [],
@@ -67,6 +77,12 @@
       "type": "Comm Sub",
       "url": "https://www.senate.mo.gov/26info/pdf-bill/SCSfromResearch/SB1085.pdf",
       "doc_id": 3365657
+    },
+    {
+      "date": "2026-04-01",
+      "type": "Comm Sub",
+      "url": "https://www.senate.mo.gov/26info/pdf-bill/comm/SB1085.pdf",
+      "doc_id": 3410003
     }
   ],
   "committee": [],

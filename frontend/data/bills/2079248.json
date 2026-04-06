@@ -5,9 +5,9 @@
   "bill_number": "SJR0589",
   "title": "A RESOLUTION to affirm Tennessee's commitment to fairness, safety, and equal opportunity in women's sports and to urge federal action to preserve the original intent of Title IX.",
   "summary": "Urges Congress to enact legislation reaffirming and preserving the equal opportunities in athletics guaranteed to women and girls by Title IX and recognizing that allowing males to compete in women's athletics violates the purpose and meaning of Title IX.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
   "categories": [
     "sports"
   ],
@@ -25,9 +25,26 @@
     "Jack Johnson (R) [Sen]",
     "Jessie Seal (R) [Sen]",
     "John Stevens (R) [Sen]",
-    "Bo Watson (R) [Sen]"
+    "Bo Watson (R) [Sen]",
+    "Ferrell Haile (R) [Sen]",
+    "Paul Bailey (R) [Sen]",
+    "Janince Bowling (R) [Sen]",
+    "Rusty Crowe (R) [Sen]",
+    "Todd Gardenhire (R) [Sen]",
+    "Robert Harshbarger (R) [Sen]",
+    "Tom Hatcher (R) [Sen]",
+    "Joseph Hensley (R) [Sen]",
+    "Becky Massey (R) [Sen]",
+    "Mark Pody (R) [Sen]",
+    "Bill Powers (R) [Sen]",
+    "Shane Reeves (R) [Sen]",
+    "Paul Rose (R) [Sen]",
+    "Brent Taylor (R) [Sen]",
+    "Page Walley (R) [Sen]",
+    "Dawn White (R) [Sen]",
+    "Adam Lowe (R) [Sen]"
   ],
-  "introduced_date": "2026-01-14",
+  "introduced_date": "2026-03-30",
   "session": "114th General Assembly",
   "actions": [
     {
@@ -79,6 +96,31 @@
       "date": "2026-03-27",
       "action": "Placed on Senate Regular Calendar for 3/30/2026",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "Sponsor(s) Added.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "Adopted, Ayes 27, Nays 4, PNV 1",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "Engrossed; ready for transmission to House",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-02",
+      "action": "Ref. to Education Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-02",
+      "action": "Assigned to s/c Higher Education Subcommittee",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -87,6 +129,13 @@
       "description": "SENATE FINANCE, WAYS AND MEANS COMMITTEE: Recommended for adoption by Senate Finance, Ways, and Means Committee, refer Senate Calendar Committee",
       "yea": 9,
       "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-30",
+      "description": "FLOOR VOTE: Motion to Adopt",
+      "yea": 27,
+      "nay": 4,
       "passed": 1
     }
   ],
