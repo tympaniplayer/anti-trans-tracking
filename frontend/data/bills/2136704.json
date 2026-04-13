@@ -24,7 +24,9 @@
   "sponsors": [
     "David Dibble (D) [Sen]",
     "Erin Maye Quade (D) [Sen]",
-    "Clare Oumou Verbeten (D) [Sen]"
+    "Clare Oumou Verbeten (D) [Sen]",
+    "Lindsey Port (D) [Sen]",
+    "Liz Boldon (D) [Sen]"
   ],
   "introduced_date": "2026-03-23",
   "session": "94th Legislature 2025-2026",
@@ -38,6 +40,21 @@
       "date": "2026-03-23",
       "action": "Referred to Health and Human Services",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-09",
+      "action": "Authors added Port; Boldon",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Comm report: To pass and re-referred to Commerce and Consumer Protection",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Pursuant to Senate Concurrent Resolution No. 6, referred to Rules and Administration",
+      "chamber": "S"
     }
   ],
   "votes": [],
@@ -50,10 +67,10 @@
     }
   ],
   "committee": {
-    "committee_id": 1745,
+    "committee_id": 1750,
     "chamber": "S",
     "chamber_id": 56,
-    "name": "Health and Human Services"
+    "name": "Rules and Administration"
   },
   "subjects": []
 }

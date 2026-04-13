@@ -47,6 +47,11 @@
       "date": "2026-01-28",
       "action": "Hearing Conducted S Families, Seniors and Health Committee",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-08",
+      "action": "Voted Do Pass S Families, Seniors and Health Committee",
+      "chamber": "S"
     }
   ],
   "votes": [],
@@ -58,11 +63,6 @@
       "doc_id": 3288518
     }
   ],
-  "committee": {
-    "committee_id": 5018,
-    "chamber": "S",
-    "chamber_id": 60,
-    "name": "Families, Seniors and Health"
-  },
+  "committee": [],
   "subjects": []
 }

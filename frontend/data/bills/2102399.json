@@ -78,9 +78,27 @@
       "date": "2026-04-02",
       "action": "Set for hearing April 7.",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-08",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 10. Noes 2.) (April 7). Re-referred to Com. on APPR.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-10",
+      "action": "Set for hearing April 20.",
+      "chamber": "S"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-04-07",
+      "description": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+      "yea": 10,
+      "nay": 2,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2026-01-29",
@@ -96,10 +114,10 @@
     }
   ],
   "committee": {
-    "committee_id": 482,
+    "committee_id": 475,
     "chamber": "S",
     "chamber_id": 20,
-    "name": "Judiciary"
+    "name": "Appropriations"
   },
   "subjects": []
 }

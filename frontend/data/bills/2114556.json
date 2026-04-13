@@ -25,7 +25,8 @@
   "sponsors": [
     "Alyse Galvin (I) [Rep]",
     "Sara Hannan (D) [Rep]",
-    "Andrea Story (D) [Rep]"
+    "Andrea Story (D) [Rep]",
+    "Genevieve Mina (D) [Rep]"
   ],
   "introduced_date": "2026-02-11",
   "session": "34th Legislature",
@@ -53,6 +54,11 @@
     {
       "date": "2026-03-02",
       "action": "COSPONSOR(S): STORY",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-09",
+      "action": "COSPONSOR(S): MINA",
       "chamber": "H"
     }
   ],

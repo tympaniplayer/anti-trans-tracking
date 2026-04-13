@@ -154,6 +154,16 @@
       "date": "2026-03-25",
       "action": "Public Hearing Held (S)",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-08",
+      "action": "Executive Session Held (S)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-08",
+      "action": "Voted Do Pass (S)",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -192,11 +202,6 @@
       "doc_id": 3355830
     }
   ],
-  "committee": {
-    "committee_id": 5018,
-    "chamber": "S",
-    "chamber_id": 60,
-    "name": "Families, Seniors and Health"
-  },
+  "committee": [],
   "subjects": []
 }

@@ -40,6 +40,16 @@
       "date": "2025-03-24",
       "action": "Introduction and first reading, referred to Education Policy",
       "chamber": "H"
+    },
+    {
+      "date": "2026-04-07",
+      "action": "Motion to suspend rules",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-07",
+      "action": "Motion did not prevail 90 votes required to suspend rules",
+      "chamber": "H"
     }
   ],
   "votes": [],
@@ -51,11 +61,6 @@
       "doc_id": 3186198
     }
   ],
-  "committee": {
-    "committee_id": 2699,
-    "chamber": "H",
-    "chamber_id": 55,
-    "name": "Education Policy"
-  },
+  "committee": [],
   "subjects": []
 }

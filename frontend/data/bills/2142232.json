@@ -1,0 +1,58 @@
+{
+  "id": 2142232,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR1162",
+  "title": "Supporting the goals and ideals of Glisten's (formerly GLSEN's) 2026 Day of Silence in bringing attention to anti-LGBTQI+ bullying, harassment, discrimination, and other forms of victimization faced by individuals in schools, and calling communities across the country to action to demand equal educational opportunity, basic civil rights protections, and freedom from erasure for all students, particularly LGBTQI+ young people, in K-12 schools.",
+  "summary": "Supporting the goals and ideals of Glisten's (formerly GLSEN's) 2026 Day of Silence in bringing attention to anti-LGBTQI+ bullying, harassment, discrimination, and other forms of victimization faced by individuals in schools, and calling communities across the country to action to demand equal educational opportunity, basic civil rights protections, and freedom from erasure for all students, particularly LGBTQI+ young people, in K-12 schools.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR1162/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR1162/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/1162/all-info",
+  "sponsors": [
+    "Mark Takano (D) [Rep]",
+    "Lateefah Simon (D) [Rep]"
+  ],
+  "introduced_date": "2026-04-09",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-04-09",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-09",
+      "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-04-09",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres1162/BILLS-119hres1162ih.pdf",
+      "doc_id": 3415872
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": []
+}

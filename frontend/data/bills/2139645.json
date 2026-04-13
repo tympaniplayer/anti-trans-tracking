@@ -22,7 +22,9 @@
   "legiscan_url": "https://legiscan.com/TN/bill/HJR1253/2025",
   "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HJR1253&ga=114",
   "sponsors": [
-    "Aftyn Behn (D) [Rep]"
+    "Aftyn Behn (D) [Rep]",
+    "Gabby Salinas (D) [Rep]",
+    "Justin Pearson (D) [Rep]"
   ],
   "introduced_date": "2026-03-31",
   "session": "114th General Assembly",
@@ -35,6 +37,21 @@
     {
       "date": "2026-04-02",
       "action": "Intro., placed on H. consent cal. for 4/6/2026",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-06",
+      "action": "Objected to on Consent Calendar.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-06",
+      "action": "Sponsor(s) Added.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-06",
+      "action": "Re-ref. Health Subcommittee",
       "chamber": "H"
     }
   ],

@@ -57,6 +57,16 @@
       "date": "2026-03-26",
       "action": "Set for hearing April 6.",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-07",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (April 6). Re-referred to Com. on APPR.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-10",
+      "action": "Set for hearing April 20.",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -64,6 +74,13 @@
       "date": "2026-03-24",
       "description": "Do pass, but first be re-referred to the Committee on [Privacy, Digital Technologies, and Consumer Protection]",
       "yea": 11,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-06",
+      "description": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+      "yea": 7,
       "nay": 0,
       "passed": 1
     }
@@ -77,10 +94,10 @@
     }
   ],
   "committee": {
-    "committee_id": 5262,
+    "committee_id": 475,
     "chamber": "S",
     "chamber_id": 20,
-    "name": "Privacy, Digital Technologies, and Consumer Protection"
+    "name": "Appropriations"
   },
   "subjects": []
 }

@@ -23,7 +23,7 @@
   "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=sb904&Session=2600",
   "sponsors": [
     "Todd Gollihare (R) [Sen]",
-    "Chris Kannady (R) [Rep]",
+    "Erick Harris (R) [Rep]",
     "Preston Stinson (R) [Rep]",
     "Paul Rosino (R) [Sen]",
     "David Bullard (R) [Sen]",
@@ -185,6 +185,16 @@
       "date": "2026-03-30",
       "action": "Referred to Public Health",
       "chamber": "H"
+    },
+    {
+      "date": "2026-04-06",
+      "action": "Remove Representative Kannady as principal House author and substitute with Representative Harris",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-08",
+      "action": "Policy recommendation to the Health and Human Services Oversight committee; Do Pass Public Health",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -215,6 +225,13 @@
       "yea": 39,
       "nay": 8,
       "passed": 1
+    },
+    {
+      "date": "2026-04-08",
+      "description": "House: Public Health Committee: DO PASS",
+      "yea": 5,
+      "nay": 1,
+      "passed": 1
     }
   ],
   "texts": [
@@ -243,11 +260,6 @@
       "doc_id": 3405960
     }
   ],
-  "committee": {
-    "committee_id": 1214,
-    "chamber": "H",
-    "chamber_id": 79,
-    "name": "Public Health"
-  },
+  "committee": [],
   "subjects": []
 }

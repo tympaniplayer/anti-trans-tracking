@@ -32,7 +32,8 @@
     "Sydney Jordan (D) [Rep]",
     "Heather Keeler (D) [Rep]",
     "Jessica Hanson (D) [Rep]",
-    "Kristi Pursell (D) [Rep]"
+    "Kristi Pursell (D) [Rep]",
+    "Bianca Virnig (D) [Rep]"
   ],
   "introduced_date": "2026-03-18",
   "session": "94th Legislature 2025-2026",
@@ -45,6 +46,11 @@
     {
       "date": "2026-03-25",
       "action": "Author added Pursell",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-07",
+      "action": "Author added Virnig",
       "chamber": "H"
     }
   ],

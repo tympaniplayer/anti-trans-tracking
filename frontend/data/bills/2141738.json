@@ -1,0 +1,66 @@
+{
+  "id": 2141738,
+  "state": "MN",
+  "state_name": "Minnesota",
+  "bill_number": "SF5017",
+  "title": "Prohibition repeal in conversion therapy with minors and vulnerable adults",
+  "summary": "Prohibition repeal in conversion therapy with minors and vulnerable adults",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MN/bill/SF5017/2025",
+  "legiscan_url": "https://legiscan.com/MN/bill/SF5017/2025",
+  "state_url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/5017/",
+  "sponsors": [
+    "Nathan Wesenberg (R) [Sen]",
+    "Bill Lieske (R) [Sen]",
+    "Michael Holmstrom (R) [Sen]",
+    "Andrew Mathews (R) [Sen]",
+    "Eric Lucero (R) [Sen]"
+  ],
+  "introduced_date": "2026-04-09",
+  "session": "94th Legislature 2025-2026",
+  "actions": [
+    {
+      "date": "2026-04-09",
+      "action": "Introduction and first reading",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-09",
+      "action": "Referred to Health and Human Services",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Author added Lucero",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-04-07",
+      "type": "Introduced",
+      "url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/5017/versions/0/pdf/",
+      "doc_id": 3413754
+    }
+  ],
+  "committee": {
+    "committee_id": 1745,
+    "chamber": "S",
+    "chamber_id": 56,
+    "name": "Health and Human Services"
+  },
+  "subjects": []
+}

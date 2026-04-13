@@ -23,7 +23,9 @@
   "state_url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3376/",
   "sponsors": [
     "Drew Roach (R) [Rep]",
-    "Jimmy Gordon (R) [Rep]"
+    "Jimmy Gordon (R) [Rep]",
+    "Marj Fogelman (R) [Rep]",
+    "Krista Knudsen (R) [Rep]"
   ],
   "introduced_date": "2026-02-17",
   "session": "94th Legislature 2025-2026",
@@ -36,6 +38,16 @@
     {
       "date": "2026-02-23",
       "action": "Author added Gordon",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-07",
+      "action": "Author added Fogelman",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-09",
+      "action": "Author added Knudsen",
       "chamber": "H"
     }
   ],

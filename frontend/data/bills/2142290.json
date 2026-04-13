@@ -1,0 +1,47 @@
+{
+  "id": 2142290,
+  "state": "IL",
+  "state_name": "Illinois",
+  "bill_number": "HR0794",
+  "title": "LGBTQIA+ MONTH",
+  "summary": "Declares July 2026 as LGBTQIA+ Veterans Month in the State of Illinois. Calls upon all residents to honor the service of LGBTQIA+ veterans, support their pursuit of justice, and celebrate their enduring contributions to our nation and our community.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/IL/bill/HR0794/2025",
+  "legiscan_url": "https://legiscan.com/IL/bill/HR0794/2025",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=794&GAID=18&DocTypeID=HR&SessionID=114&GA=104",
+  "sponsors": [
+    "Robyn Gabel (D) [Rep]"
+  ],
+  "introduced_date": "2026-04-10",
+  "session": "104th General Assembly",
+  "actions": [
+    {
+      "date": "2026-04-10",
+      "action": "Filed with the Clerk by Rep. Robyn Gabel",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-04-10",
+      "type": "Introduced",
+      "url": "https://www.ilga.gov/Legislation/BillStatus/FullText?LegDocId=210318&DocName=10400HR0794&DocNum=794&DocTypeID=HR&LegID=168242&GAID=18&SessionID=114&SpecSess=&Session=",
+      "doc_id": 3416045
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

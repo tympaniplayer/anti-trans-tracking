@@ -1,0 +1,56 @@
+{
+  "id": 2141170,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S09764",
+  "title": "Provides that the judge shall not prohibit a parent from undergoing gender reassignment.",
+  "summary": "Provides that the judge shall not prohibit a parent from undergoing gender reassignment.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "identity_documents"
+  ],
+  "primary_category": "identity_documents",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S09764/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S09764/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S9764",
+  "sponsors": [
+    "Luis Sepulveda (D) [Sen]",
+    "Robert Jackson (D) [Sen]",
+    "John Liu (D) [Sen]",
+    "Rachel May (D) [Sen]",
+    "Julia Salazar (D) [Sen]"
+  ],
+  "introduced_date": "2026-04-06",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-04-06",
+      "action": "REFERRED TO CHILDREN AND FAMILIES",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-04-06",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S09764&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S09764",
+      "doc_id": 3411833
+    }
+  ],
+  "committee": {
+    "committee_id": 414,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Children and Families"
+  },
+  "subjects": []
+}

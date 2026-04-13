@@ -16,19 +16,19 @@
   "US": {
     "state": "US",
     "state_name": "Federal",
-    "total": 36,
+    "total": 37,
     "by_category": {
       "other": 17,
       "healthcare": 13,
-      "education": 2,
+      "education": 3,
       "sports": 2,
       "definitions": 2
     },
     "by_status": {
-      "introduced": 36
+      "introduced": 37
     },
     "by_sentiment": {
-      "protective": 28,
+      "protective": 29,
       "restrictive": 8
     }
   },
@@ -54,21 +54,21 @@
   "NY": {
     "state": "NY",
     "state_name": "New York",
-    "total": 47,
+    "total": 49,
     "by_category": {
       "other": 12,
       "education": 11,
-      "identity_documents": 4,
-      "healthcare": 18,
+      "identity_documents": 5,
+      "healthcare": 19,
       "bathrooms": 2
     },
     "by_status": {
-      "introduced": 44,
+      "introduced": 46,
       "signed_into_law": 1,
       "passed_one_chamber": 2
     },
     "by_sentiment": {
-      "protective": 45,
+      "protective": 47,
       "restrictive": 2
     }
   },
@@ -227,12 +227,36 @@
       "sports": 1
     },
     "by_status": {
-      "introduced": 16,
-      "passed_one_chamber": 2
+      "introduced": 14,
+      "passed_one_chamber": 3,
+      "signed_into_law": 1
     },
     "by_sentiment": {
       "protective": 17,
       "restrictive": 1
+    }
+  },
+  "TX": {
+    "state": "TX",
+    "state_name": "Texas",
+    "total": 60,
+    "by_category": {
+      "other": 7,
+      "identity_documents": 11,
+      "definitions": 9,
+      "education": 13,
+      "healthcare": 13,
+      "sports": 3,
+      "bathrooms": 4
+    },
+    "by_status": {
+      "introduced": 55,
+      "signed_into_law": 2,
+      "passed_one_chamber": 3
+    },
+    "by_sentiment": {
+      "protective": 19,
+      "restrictive": 41
     }
   },
   "PA": {
@@ -273,29 +297,6 @@
     "by_sentiment": {
       "protective": 17,
       "restrictive": 8
-    }
-  },
-  "TX": {
-    "state": "TX",
-    "state_name": "Texas",
-    "total": 60,
-    "by_category": {
-      "other": 7,
-      "identity_documents": 11,
-      "definitions": 9,
-      "education": 13,
-      "healthcare": 13,
-      "sports": 3,
-      "bathrooms": 4
-    },
-    "by_status": {
-      "introduced": 55,
-      "signed_into_law": 2,
-      "passed_one_chamber": 3
-    },
-    "by_sentiment": {
-      "protective": 19,
-      "restrictive": 41
     }
   },
   "VT": {
@@ -423,20 +424,20 @@
   "MN": {
     "state": "MN",
     "state_name": "Minnesota",
-    "total": 17,
+    "total": 18,
     "by_category": {
       "education": 5,
-      "healthcare": 4,
+      "healthcare": 5,
       "definitions": 4,
       "identity_documents": 2,
       "sports": 2
     },
     "by_status": {
-      "introduced": 17
+      "introduced": 18
     },
     "by_sentiment": {
       "protective": 7,
-      "restrictive": 9,
+      "restrictive": 10,
       "neutral": 1
     }
   },
@@ -461,18 +462,19 @@
   "IL": {
     "state": "IL",
     "state_name": "Illinois",
-    "total": 13,
+    "total": 14,
     "by_category": {
       "healthcare": 7,
+      "other": 1,
       "definitions": 3,
       "education": 1,
       "bathrooms": 2
     },
     "by_status": {
-      "introduced": 13
+      "introduced": 14
     },
     "by_sentiment": {
-      "protective": 7,
+      "protective": 8,
       "restrictive": 6
     }
   },

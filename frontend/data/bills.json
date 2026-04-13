@@ -386,94 +386,6 @@
     "session": "119th Congress"
   },
   {
-    "id": 2139258,
-    "state": "US",
-    "state_name": "Federal",
-    "bill_number": "HCR82",
-    "title": "Supporting the goals and ideals of International Transgender Day of Visibility.",
-    "summary": "Supporting the goals and ideals of International Transgender Day of Visibility.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "federal",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/US/bill/HCR82/2025",
-    "legiscan_url": "https://legiscan.com/US/bill/HCR82/2025",
-    "state_url": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/82/all-info",
-    "sponsors": [
-      "Sara Jacobs (D) [Rep]",
-      "Pramila Jayapal (D) [Rep]",
-      "Mark Takano (D) [Rep]",
-      "Becca Balint (D) [Rep]",
-      "Suzanne Bonamici (D) [Rep]",
-      "Troy Carter (D) [Rep]",
-      "Ed Case (D) [Rep]",
-      "Sheila Cherfilus-McCormick (D) [Rep]",
-      "Judy Chu (D) [Rep]",
-      "Emanuel Cleaver (D) [Rep]",
-      "Angela Craig (D) [Rep]",
-      "Sharice Davids (D) [Rep]",
-      "Danny Davis (D) [Rep]",
-      "Madeleine Dean (D) [Rep]",
-      "Diana DeGette (D) [Rep]",
-      "Maxine Dexter (D) [Rep]",
-      "Adriano Espaillat (D) [Rep]",
-      "Elizabeth Fletcher (D) [Rep]",
-      "Maxwell Frost (D) [Rep]",
-      "Robert Garcia (D) [Rep]",
-      "Sylvia Garcia (D) [Rep]",
-      "Jesus Garcia (D) [Rep]",
-      "Daniel Goldman (D) [Rep]",
-      "Henry Johnson (D) [Rep]",
-      "Julie Johnson (D) [Rep]",
-      "Robin Kelly (D) [Rep]",
-      "Raja Krishnamoorthi (D) [Rep]",
-      "Ted Lieu (D) [Rep]",
-      "Stephen Lynch (D) [Rep]",
-      "Seth Magaziner (D) [Rep]",
-      "Sarah McBride (D) [Rep]",
-      "Jennifer McClellan (D) [Rep]",
-      "Betty McCollum (D) [Rep]",
-      "James McGovern (D) [Rep]",
-      "LaMonica McIver (D) [Rep]",
-      "Dave Min (D) [Rep]",
-      "Gwen Moore (D) [Rep]",
-      "Kevin Mullin (D) [Rep]",
-      "Eleanor Norton (D) [Rep]",
-      "Scott Peters (D) [Rep]",
-      "Mark Pocan (D) [Rep]",
-      "Ayanna Pressley (D) [Rep]",
-      "Mike Quigley (D) [Rep]",
-      "Delia Ramirez (D) [Rep]",
-      "Emily Randall (D) [Rep]",
-      "Andrea Salinas (D) [Rep]",
-      "Linda Sanchez (D) [Rep]",
-      "Mary Gay Scanlon (D) [Rep]",
-      "Janice Schakowsky (D) [Rep]",
-      "Lateefah Simon (D) [Rep]",
-      "Eric Sorensen (D) [Rep]",
-      "Eric Swalwell (D) [Rep]",
-      "Rashida Tlaib (D) [Rep]",
-      "Jill Tokuda (D) [Rep]",
-      "Paul Tonko (D) [Rep]",
-      "Ritchie Torres (D) [Rep]",
-      "Nydia Velazquez (D) [Rep]",
-      "James Walkinshaw (D) [Rep]",
-      "Frederica Wilson (D) [Rep]",
-      "April McClain-Delaney (D) [Rep]"
-    ],
-    "introduced_date": "2026-03-27",
-    "session": "119th Congress"
-  },
-  {
     "id": 2114883,
     "state": "US",
     "state_name": "Federal",
@@ -607,6 +519,94 @@
       "Julie Johnson (D) [Rep]"
     ],
     "introduced_date": "2026-02-11",
+    "session": "119th Congress"
+  },
+  {
+    "id": 2139258,
+    "state": "US",
+    "state_name": "Federal",
+    "bill_number": "HCR82",
+    "title": "Supporting the goals and ideals of International Transgender Day of Visibility.",
+    "summary": "Supporting the goals and ideals of International Transgender Day of Visibility.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "federal",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/US/bill/HCR82/2025",
+    "legiscan_url": "https://legiscan.com/US/bill/HCR82/2025",
+    "state_url": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/82/all-info",
+    "sponsors": [
+      "Sara Jacobs (D) [Rep]",
+      "Pramila Jayapal (D) [Rep]",
+      "Mark Takano (D) [Rep]",
+      "Becca Balint (D) [Rep]",
+      "Suzanne Bonamici (D) [Rep]",
+      "Troy Carter (D) [Rep]",
+      "Ed Case (D) [Rep]",
+      "Sheila Cherfilus-McCormick (D) [Rep]",
+      "Judy Chu (D) [Rep]",
+      "Emanuel Cleaver (D) [Rep]",
+      "Angela Craig (D) [Rep]",
+      "Sharice Davids (D) [Rep]",
+      "Danny Davis (D) [Rep]",
+      "Madeleine Dean (D) [Rep]",
+      "Diana DeGette (D) [Rep]",
+      "Maxine Dexter (D) [Rep]",
+      "Adriano Espaillat (D) [Rep]",
+      "Elizabeth Fletcher (D) [Rep]",
+      "Maxwell Frost (D) [Rep]",
+      "Robert Garcia (D) [Rep]",
+      "Sylvia Garcia (D) [Rep]",
+      "Jesus Garcia (D) [Rep]",
+      "Daniel Goldman (D) [Rep]",
+      "Henry Johnson (D) [Rep]",
+      "Julie Johnson (D) [Rep]",
+      "Robin Kelly (D) [Rep]",
+      "Raja Krishnamoorthi (D) [Rep]",
+      "Ted Lieu (D) [Rep]",
+      "Stephen Lynch (D) [Rep]",
+      "Seth Magaziner (D) [Rep]",
+      "Sarah McBride (D) [Rep]",
+      "Jennifer McClellan (D) [Rep]",
+      "Betty McCollum (D) [Rep]",
+      "James McGovern (D) [Rep]",
+      "LaMonica McIver (D) [Rep]",
+      "Dave Min (D) [Rep]",
+      "Gwen Moore (D) [Rep]",
+      "Kevin Mullin (D) [Rep]",
+      "Eleanor Norton (D) [Rep]",
+      "Scott Peters (D) [Rep]",
+      "Mark Pocan (D) [Rep]",
+      "Ayanna Pressley (D) [Rep]",
+      "Mike Quigley (D) [Rep]",
+      "Delia Ramirez (D) [Rep]",
+      "Emily Randall (D) [Rep]",
+      "Andrea Salinas (D) [Rep]",
+      "Linda Sanchez (D) [Rep]",
+      "Mary Gay Scanlon (D) [Rep]",
+      "Janice Schakowsky (D) [Rep]",
+      "Lateefah Simon (D) [Rep]",
+      "Eric Sorensen (D) [Rep]",
+      "Eric Swalwell (D) [Rep]",
+      "Rashida Tlaib (D) [Rep]",
+      "Jill Tokuda (D) [Rep]",
+      "Paul Tonko (D) [Rep]",
+      "Ritchie Torres (D) [Rep]",
+      "Nydia Velazquez (D) [Rep]",
+      "James Walkinshaw (D) [Rep]",
+      "Frederica Wilson (D) [Rep]",
+      "April McClain-Delaney (D) [Rep]"
+    ],
+    "introduced_date": "2026-03-27",
     "session": "119th Congress"
   },
   {
@@ -822,35 +822,6 @@
     "session": "153rd General Assembly"
   },
   {
-    "id": 2139645,
-    "state": "TN",
-    "state_name": "Tennessee",
-    "bill_number": "HJR1253",
-    "title": "A RESOLUTION to honor Transgender Day of Visibility and the resilience, contributions, and dignity of the transgender community in Tennessee.",
-    "summary": "Transgender Day of Visibility",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/TN/bill/HJR1253/2025",
-    "legiscan_url": "https://legiscan.com/TN/bill/HJR1253/2025",
-    "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HJR1253&ga=114",
-    "sponsors": [
-      "Aftyn Behn (D) [Rep]"
-    ],
-    "introduced_date": "2026-03-31",
-    "session": "114th General Assembly"
-  },
-  {
     "id": 2038428,
     "state": "US",
     "state_name": "Federal",
@@ -1009,6 +980,37 @@
     ],
     "introduced_date": "2025-06-26",
     "session": "119th Congress"
+  },
+  {
+    "id": 2139645,
+    "state": "TN",
+    "state_name": "Tennessee",
+    "bill_number": "HJR1253",
+    "title": "A RESOLUTION to honor Transgender Day of Visibility and the resilience, contributions, and dignity of the transgender community in Tennessee.",
+    "summary": "Transgender Day of Visibility",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/TN/bill/HJR1253/2025",
+    "legiscan_url": "https://legiscan.com/TN/bill/HJR1253/2025",
+    "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HJR1253&ga=114",
+    "sponsors": [
+      "Aftyn Behn (D) [Rep]",
+      "Gabby Salinas (D) [Rep]",
+      "Justin Pearson (D) [Rep]"
+    ],
+    "introduced_date": "2026-03-31",
+    "session": "114th General Assembly"
   },
   {
     "id": 1904673,
@@ -1563,6 +1565,35 @@
     "session": "2026 Regular Session"
   },
   {
+    "id": 1893092,
+    "state": "TX",
+    "state_name": "Texas",
+    "bill_number": "HB1470",
+    "title": "Relating to a task force to study the legal and societal barriers to equality for transgender persons.",
+    "summary": "Relating to a task force to study the legal and societal barriers to equality for transgender persons.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/TX/bill/HB1470/2025",
+    "legiscan_url": "https://legiscan.com/TX/bill/HB1470/2025",
+    "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1470",
+    "sponsors": [
+      "Ron Reynolds (D) [Rep]"
+    ],
+    "introduced_date": "2024-11-25",
+    "session": "89th Legislature Regular Session"
+  },
+  {
     "id": 2132406,
     "state": "PA",
     "state_name": "Pennsylvania",
@@ -1735,35 +1766,6 @@
     ],
     "introduced_date": "2026-03-23",
     "session": "2025-2026 Regular Session"
-  },
-  {
-    "id": 1893092,
-    "state": "TX",
-    "state_name": "Texas",
-    "bill_number": "HB1470",
-    "title": "Relating to a task force to study the legal and societal barriers to equality for transgender persons.",
-    "summary": "Relating to a task force to study the legal and societal barriers to equality for transgender persons.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/TX/bill/HB1470/2025",
-    "legiscan_url": "https://legiscan.com/TX/bill/HB1470/2025",
-    "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1470",
-    "sponsors": [
-      "Ron Reynolds (D) [Rep]"
-    ],
-    "introduced_date": "2024-11-25",
-    "session": "89th Legislature Regular Session"
   },
   {
     "id": 1984665,
@@ -2394,6 +2396,36 @@
       "Kirsten Gillibrand (D) [Sen]"
     ],
     "introduced_date": "2025-06-04",
+    "session": "119th Congress"
+  },
+  {
+    "id": 2142232,
+    "state": "US",
+    "state_name": "Federal",
+    "bill_number": "HR1162",
+    "title": "Supporting the goals and ideals of Glisten's (formerly GLSEN's) 2026 Day of Silence in bringing attention to anti-LGBTQI+ bullying, harassment, discrimination, and other forms of victimization faced by individuals in schools, and calling communities across the country to action to demand equal educational opportunity, basic civil rights protections, and freedom from erasure for all students, particularly LGBTQI+ young people, in K-12 schools.",
+    "summary": "Supporting the goals and ideals of Glisten's (formerly GLSEN's) 2026 Day of Silence in bringing attention to anti-LGBTQI+ bullying, harassment, discrimination, and other forms of victimization faced by individuals in schools, and calling communities across the country to action to demand equal educational opportunity, basic civil rights protections, and freedom from erasure for all students, particularly LGBTQI+ young people, in K-12 schools.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "education"
+    ],
+    "primary_category": "education",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "federal",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/US/bill/HR1162/2025",
+    "legiscan_url": "https://legiscan.com/US/bill/HR1162/2025",
+    "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/1162/all-info",
+    "sponsors": [
+      "Mark Takano (D) [Rep]",
+      "Lateefah Simon (D) [Rep]"
+    ],
+    "introduced_date": "2026-04-09",
     "session": "119th Congress"
   },
   {
@@ -4897,7 +4929,8 @@
       "Gustavo Rivera (D) [Sen]",
       "Kristen Gonzalez (D) [Sen]",
       "Peter Harckham (D) [Sen]",
-      "Robert Jackson (D) [Sen]"
+      "Robert Jackson (D) [Sen]",
+      "Lea Webb (D) [Sen]"
     ],
     "introduced_date": "2026-02-23",
     "session": "2025-2026 General Assembly"
@@ -5109,6 +5142,35 @@
     ],
     "introduced_date": "2026-01-06",
     "session": "114th General Assembly"
+  },
+  {
+    "id": 2142290,
+    "state": "IL",
+    "state_name": "Illinois",
+    "bill_number": "HR0794",
+    "title": "LGBTQIA+ MONTH",
+    "summary": "Declares July 2026 as LGBTQIA+ Veterans Month in the State of Illinois. Calls upon all residents to honor the service of LGBTQIA+ veterans, support their pursuit of justice, and celebrate their enduring contributions to our nation and our community.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/IL/bill/HR0794/2025",
+    "legiscan_url": "https://legiscan.com/IL/bill/HR0794/2025",
+    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=794&GAID=18&DocTypeID=HR&SessionID=114&GA=104",
+    "sponsors": [
+      "Robyn Gabel (D) [Rep]"
+    ],
+    "introduced_date": "2026-04-10",
+    "session": "104th General Assembly"
   },
   {
     "id": 2000129,
@@ -5792,7 +5854,10 @@
       "Seth Magaziner (D) [Rep]",
       "Salud Carbajal (D) [Rep]",
       "Mark DeSaulnier (D) [Rep]",
-      "Luis Correa (D) [Rep]"
+      "Luis Correa (D) [Rep]",
+      "William Keating (D) [Rep]",
+      "Frank Mrvan (D) [Rep]",
+      "Pat Ryan (D) [Rep]"
     ],
     "introduced_date": "2025-09-17",
     "session": "119th Congress"
@@ -7428,6 +7493,35 @@
     "session": "2026 Regular Session"
   },
   {
+    "id": 2141199,
+    "state": "NY",
+    "state_name": "New York",
+    "bill_number": "S09817",
+    "title": "Establishes a private right of action against mental health professionals who engaged in sexual orientation change efforts, revives such actions otherwise barred by the existing statute of limitations and grants trial preference to such actions.",
+    "summary": "Establishes a private right of action against mental health professionals who engaged in sexual orientation change efforts, revives such actions otherwise barred by the existing statute of limitations and grants trial preference to such actions.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NY/bill/S09817/2025",
+    "legiscan_url": "https://legiscan.com/NY/bill/S09817/2025",
+    "state_url": "https://www.nysenate.gov/legislation/bills/2025/S9817",
+    "sponsors": [
+      "James Skoufis (D) [Sen]"
+    ],
+    "introduced_date": "2026-04-06",
+    "session": "2025-2026 General Assembly"
+  },
+  {
     "id": 2103948,
     "state": "AZ",
     "state_name": "Arizona",
@@ -7693,35 +7787,6 @@
     "session": "89th Legislature Regular Session"
   },
   {
-    "id": 2002200,
-    "state": "MA",
-    "state_name": "Massachusetts",
-    "bill_number": "H1252",
-    "title": "Relative to gender identity in insurance",
-    "summary": "Relative to gender identity in insurance. Financial Services.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/MA/bill/H1252/2025",
-    "legiscan_url": "https://legiscan.com/MA/bill/H1252/2025",
-    "state_url": "https://malegislature.gov/Bills/194/H1252",
-    "sponsors": [
-      "Jay Livingstone (D) [Rep]"
-    ],
-    "introduced_date": "2025-02-27",
-    "session": "194th General Court"
-  },
-  {
     "id": 1891581,
     "state": "TX",
     "state_name": "Texas",
@@ -7750,6 +7815,35 @@
     ],
     "introduced_date": "2024-11-12",
     "session": "89th Legislature Regular Session"
+  },
+  {
+    "id": 2002200,
+    "state": "MA",
+    "state_name": "Massachusetts",
+    "bill_number": "H1252",
+    "title": "Relative to gender identity in insurance",
+    "summary": "Relative to gender identity in insurance. Financial Services.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/MA/bill/H1252/2025",
+    "legiscan_url": "https://legiscan.com/MA/bill/H1252/2025",
+    "state_url": "https://malegislature.gov/Bills/194/H1252",
+    "sponsors": [
+      "Jay Livingstone (D) [Rep]"
+    ],
+    "introduced_date": "2025-02-27",
+    "session": "194th General Court"
   },
   {
     "id": 1959620,
@@ -8410,6 +8504,35 @@
     "session": "89th Legislature Regular Session"
   },
   {
+    "id": 1953649,
+    "state": "NY",
+    "state_name": "New York",
+    "bill_number": "A04427",
+    "title": "Prohibits the use of external consumer data and information sources being used when determining insurance rates; provides that no insurer shall unfairly discriminate based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; or use any external consumer data and information sources, as well as any algorithms or predictive models that use external consumer data and information sources, in a way that unfairly discriminates based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; makes related provisions; defines terms.",
+    "summary": "Prohibits the use of external consumer data and information sources being used when determining insurance rates; provides that no insurer shall unfairly discriminate based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; or use any external consumer data and information sources, as well as any algorithms or predictive models that use external consumer data and information sources, in a way that unfairly discriminates based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; makes related provisions; defines terms.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NY/bill/A04427/2025",
+    "legiscan_url": "https://legiscan.com/NY/bill/A04427/2025",
+    "state_url": "https://www.nysenate.gov/legislation/bills/2025/A4427",
+    "sponsors": [
+      "Brian Cunningham (D) [Rep]"
+    ],
+    "introduced_date": "2025-02-04",
+    "session": "2025-2026 General Assembly"
+  },
+  {
     "id": 2090855,
     "state": "KY",
     "state_name": "Kentucky",
@@ -8438,35 +8561,6 @@
     ],
     "introduced_date": "2026-01-22",
     "session": "2026 Regular Session"
-  },
-  {
-    "id": 1953649,
-    "state": "NY",
-    "state_name": "New York",
-    "bill_number": "A04427",
-    "title": "Prohibits the use of external consumer data and information sources being used when determining insurance rates; provides that no insurer shall unfairly discriminate based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; or use any external consumer data and information sources, as well as any algorithms or predictive models that use external consumer data and information sources, in a way that unfairly discriminates based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; makes related provisions; defines terms.",
-    "summary": "Prohibits the use of external consumer data and information sources being used when determining insurance rates; provides that no insurer shall unfairly discriminate based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; or use any external consumer data and information sources, as well as any algorithms or predictive models that use external consumer data and information sources, in a way that unfairly discriminates based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; makes related provisions; defines terms.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NY/bill/A04427/2025",
-    "legiscan_url": "https://legiscan.com/NY/bill/A04427/2025",
-    "state_url": "https://www.nysenate.gov/legislation/bills/2025/A4427",
-    "sponsors": [
-      "Brian Cunningham (D) [Rep]"
-    ],
-    "introduced_date": "2025-02-04",
-    "session": "2025-2026 General Assembly"
   },
   {
     "id": 1975088,
@@ -9187,7 +9281,8 @@
       "Daniel Goldman (D) [Rep]",
       "Craig Goldman (R) [Rep]",
       "Judy Chu (D) [Rep]",
-      "Debbie Wasserman Schultz (D) [Rep]"
+      "Debbie Wasserman Schultz (D) [Rep]",
+      "Ritchie Torres (D) [Rep]"
     ],
     "introduced_date": "2025-06-27",
     "session": "119th Congress"
@@ -9361,15 +9456,45 @@
     "session": "2026 Regular Session"
   },
   {
+    "id": 2093798,
+    "state": "HI",
+    "state_name": "Hawaii",
+    "bill_number": "SR9",
+    "title": "Requesting The United States Congress To Pass Legislation To Amend The Civil Rights Act Of 1964 To Prohibit Discrimination On The Basis Of Sex, Sexual Orientation, And Gender Identity In Employment, Housing, Public Accommodations, Education, Federally Funded Programs, Credit, And Jury Service.",
+    "summary": "Requesting The United States Congress To Pass Legislation To Amend The Civil Rights Act Of 1964 To Prohibit Discrimination On The Basis Of Sex, Sexual Orientation, And Gender Identity In Employment, Housing, Public Accommodations, Education, Federally Funded Programs, Credit, And Jury Service.",
+    "status": "signed_into_law",
+    "status_label": "Passed",
+    "status_code": 4,
+    "categories": [
+      "definitions",
+      "other"
+    ],
+    "primary_category": "definitions",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/HI/bill/SR9/2026",
+    "legiscan_url": "https://legiscan.com/HI/bill/SR9/2026",
+    "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SR&billnumber=9&year=2026",
+    "sponsors": [
+      "Karl Rhoads (D) [Sen]"
+    ],
+    "introduced_date": "2026-04-09",
+    "session": "2026 Regular Session"
+  },
+  {
     "id": 2093691,
     "state": "HI",
     "state_name": "Hawaii",
     "bill_number": "SCR11",
     "title": "Requesting The United States Congress To Pass Legislation To Amend The Civil Rights Act Of 1964 To Prohibit Discrimination On The Basis Of Sex, Sexual Orientation, And Gender Identity In Employment, Housing, Public Accommodations, Education, Federally Funded Programs, Credit, And Jury Service.",
     "summary": "Requesting The United States Congress To Pass Legislation To Amend The Civil Rights Act Of 1964 To Prohibit Discrimination On The Basis Of Sex, Sexual Orientation, And Gender Identity In Employment, Housing, Public Accommodations, Education, Federally Funded Programs, Credit, And Jury Service.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
+    "status": "passed_one_chamber",
+    "status_label": "Engrossed",
+    "status_code": 2,
     "categories": [
       "definitions",
       "education",
@@ -9389,37 +9514,7 @@
     "sponsors": [
       "Karl Rhoads (D) [Sen]"
     ],
-    "introduced_date": "2026-01-28",
-    "session": "2026 Regular Session"
-  },
-  {
-    "id": 2093798,
-    "state": "HI",
-    "state_name": "Hawaii",
-    "bill_number": "SR9",
-    "title": "Requesting The United States Congress To Pass Legislation To Amend The Civil Rights Act Of 1964 To Prohibit Discrimination On The Basis Of Sex, Sexual Orientation, And Gender Identity In Employment, Housing, Public Accommodations, Education, Federally Funded Programs, Credit, And Jury Service.",
-    "summary": "Requesting The United States Congress To Pass Legislation To Amend The Civil Rights Act Of 1964 To Prohibit Discrimination On The Basis Of Sex, Sexual Orientation, And Gender Identity In Employment, Housing, Public Accommodations, Education, Federally Funded Programs, Credit, And Jury Service.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "definitions",
-      "other"
-    ],
-    "primary_category": "definitions",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/HI/bill/SR9/2026",
-    "legiscan_url": "https://legiscan.com/HI/bill/SR9/2026",
-    "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SR&billnumber=9&year=2026",
-    "sponsors": [
-      "Karl Rhoads (D) [Sen]"
-    ],
-    "introduced_date": "2026-01-28",
+    "introduced_date": "2026-04-09",
     "session": "2026 Regular Session"
   },
   {
@@ -9487,9 +9582,44 @@
     "state_url": "https://www.revisor.mn.gov/bills/94/2026/0/HF/3376/",
     "sponsors": [
       "Drew Roach (R) [Rep]",
-      "Jimmy Gordon (R) [Rep]"
+      "Jimmy Gordon (R) [Rep]",
+      "Marj Fogelman (R) [Rep]",
+      "Krista Knudsen (R) [Rep]"
     ],
     "introduced_date": "2026-02-17",
+    "session": "94th Legislature 2025-2026"
+  },
+  {
+    "id": 2141738,
+    "state": "MN",
+    "state_name": "Minnesota",
+    "bill_number": "SF5017",
+    "title": "Prohibition repeal in conversion therapy with minors and vulnerable adults",
+    "summary": "Prohibition repeal in conversion therapy with minors and vulnerable adults",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/MN/bill/SF5017/2025",
+    "legiscan_url": "https://legiscan.com/MN/bill/SF5017/2025",
+    "state_url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/5017/",
+    "sponsors": [
+      "Nathan Wesenberg (R) [Sen]",
+      "Bill Lieske (R) [Sen]",
+      "Michael Holmstrom (R) [Sen]",
+      "Andrew Mathews (R) [Sen]",
+      "Eric Lucero (R) [Sen]"
+    ],
+    "introduced_date": "2026-04-09",
     "session": "94th Legislature 2025-2026"
   },
   {
@@ -9589,36 +9719,6 @@
     "session": "89th Legislature Regular Session"
   },
   {
-    "id": 2118265,
-    "state": "WV",
-    "state_name": "West Virginia",
-    "bill_number": "HB5674",
-    "title": "Prohibiting civil rights violations based on disability, gender identity or sexual orientation",
-    "summary": "The purpose of this bill is to prohibit civil rights violations based on disability gender identity, or sexual orientation. The bill provides that evidence of constitutionally protected speech or associations is not admissible in criminal prosecutions except in certain situations. The bill provides for sentencing alternatives for persons convicted of violations. And, the amendments to this section are to be known as \"Angel's Law\".",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "definitions",
-      "other"
-    ],
-    "primary_category": "definitions",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/WV/bill/HB5674/2026",
-    "legiscan_url": "https://legiscan.com/WV/bill/HB5674/2026",
-    "state_url": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5674&year=2026&sessiontype=RS&btype=bill",
-    "sponsors": [
-      "John Williams (D) [Rep]"
-    ],
-    "introduced_date": "2026-02-17",
-    "session": "2026 Regular Session"
-  },
-  {
     "id": 2084013,
     "state": "IL",
     "state_name": "Illinois",
@@ -9659,6 +9759,36 @@
     ],
     "introduced_date": "2026-01-16",
     "session": "104th General Assembly"
+  },
+  {
+    "id": 2118265,
+    "state": "WV",
+    "state_name": "West Virginia",
+    "bill_number": "HB5674",
+    "title": "Prohibiting civil rights violations based on disability, gender identity or sexual orientation",
+    "summary": "The purpose of this bill is to prohibit civil rights violations based on disability gender identity, or sexual orientation. The bill provides that evidence of constitutionally protected speech or associations is not admissible in criminal prosecutions except in certain situations. The bill provides for sentencing alternatives for persons convicted of violations. And, the amendments to this section are to be known as \"Angel's Law\".",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "definitions",
+      "other"
+    ],
+    "primary_category": "definitions",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/WV/bill/HB5674/2026",
+    "legiscan_url": "https://legiscan.com/WV/bill/HB5674/2026",
+    "state_url": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5674&year=2026&sessiontype=RS&btype=bill",
+    "sponsors": [
+      "John Williams (D) [Rep]"
+    ],
+    "introduced_date": "2026-02-17",
+    "session": "2026 Regular Session"
   },
   {
     "id": 2064502,
@@ -10062,7 +10192,8 @@
     "sponsors": [
       "Alyse Galvin (I) [Rep]",
       "Sara Hannan (D) [Rep]",
-      "Andrea Story (D) [Rep]"
+      "Andrea Story (D) [Rep]",
+      "Genevieve Mina (D) [Rep]"
     ],
     "introduced_date": "2026-02-11",
     "session": "34th Legislature"
@@ -10701,6 +10832,36 @@
     "session": "136th General Assembly"
   },
   {
+    "id": 1937927,
+    "state": "KS",
+    "state_name": "Kansas",
+    "bill_number": "HB2071",
+    "title": "Enacting the help not harm act to restrict the use of state funds to promote gender transitioning, prohibit healthcare providers from providing gender transition whose gender identity is inconsistent with the child's sex, authorize a civil cause of action against healthcare providers for providing such treatments, require professional discipline against a healthcare provider who performs such treatment and prohibit professional liability insurance from covering damages for healthcare providers that provide gender transition treatment to children and adding violation of the act to the definition of unprofessional conduct for physicians.",
+    "summary": "Enacting the help not harm act to restrict the use of state funds to promote gender transitioning, prohibit healthcare providers from providing gender transition whose gender identity is inconsistent with the child's sex, authorize a civil cause of action against healthcare providers for providing such treatments, require professional discipline against a healthcare provider who performs such treatment and prohibit professional liability insurance from covering damages for healthcare providers that provide gender transition treatment to children and adding violation of the act to the definition of unprofessional conduct for physicians.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare",
+      "definitions"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/KS/bill/HB2071/2025",
+    "legiscan_url": "https://legiscan.com/KS/bill/HB2071/2025",
+    "state_url": "https://kslegislature.gov/li/b2025_26/measures/hb2071/",
+    "sponsors": [
+      "Health and Human Services [Rep]"
+    ],
+    "introduced_date": "2025-01-23",
+    "session": "2025-2026 Regular Session"
+  },
+  {
     "id": 1965653,
     "state": "PA",
     "state_name": "Pennsylvania",
@@ -11099,36 +11260,6 @@
       "Sarah Keyeski (D) [Sen]"
     ],
     "introduced_date": "2026-03-23",
-    "session": "2025-2026 Regular Session"
-  },
-  {
-    "id": 1937927,
-    "state": "KS",
-    "state_name": "Kansas",
-    "bill_number": "HB2071",
-    "title": "Enacting the help not harm act to restrict the use of state funds to promote gender transitioning, prohibit healthcare providers from providing gender transition whose gender identity is inconsistent with the child's sex, authorize a civil cause of action against healthcare providers for providing such treatments, require professional discipline against a healthcare provider who performs such treatment and prohibit professional liability insurance from covering damages for healthcare providers that provide gender transition treatment to children and adding violation of the act to the definition of unprofessional conduct for physicians.",
-    "summary": "Enacting the help not harm act to restrict the use of state funds to promote gender transitioning, prohibit healthcare providers from providing gender transition whose gender identity is inconsistent with the child's sex, authorize a civil cause of action against healthcare providers for providing such treatments, require professional discipline against a healthcare provider who performs such treatment and prohibit professional liability insurance from covering damages for healthcare providers that provide gender transition treatment to children and adding violation of the act to the definition of unprofessional conduct for physicians.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare",
-      "definitions"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/KS/bill/HB2071/2025",
-    "legiscan_url": "https://legiscan.com/KS/bill/HB2071/2025",
-    "state_url": "https://kslegislature.gov/li/b2025_26/measures/hb2071/",
-    "sponsors": [
-      "Health and Human Services [Rep]"
-    ],
-    "introduced_date": "2025-01-23",
     "session": "2025-2026 Regular Session"
   },
   {
@@ -12192,6 +12323,40 @@
     "session": "2026 Regular Session"
   },
   {
+    "id": 2016290,
+    "state": "IL",
+    "state_name": "Illinois",
+    "bill_number": "HB4030",
+    "title": "SEX-BASED TERMS ACT",
+    "summary": "Creates the Definitions of Sex-Based Terms Act. Defines, for purposes of State statutes and administrative rules, the meaning of the following terms: \"boy\", \"father\", \"female\", \"girl\", \"male\", \"man\", \"mother\", \"sex\", and \"woman\".",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "definitions"
+    ],
+    "primary_category": "definitions",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/IL/bill/HB4030/2025",
+    "legiscan_url": "https://legiscan.com/IL/bill/HB4030/2025",
+    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4030&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+    "sponsors": [
+      "David Friess (R) [Rep]",
+      "Blaine Wilhour (R) [Rep]",
+      "Adam Niemerg (R) [Rep]",
+      "Jed Davis (R) [Rep]",
+      "Brad Halbrook (R) [Rep]",
+      "Chris Miller (R) [Rep]"
+    ],
+    "introduced_date": "2025-03-28",
+    "session": "104th General Assembly"
+  },
+  {
     "id": 2018782,
     "state": "NY",
     "state_name": "New York",
@@ -12249,40 +12414,6 @@
     ],
     "introduced_date": "2025-01-08",
     "session": "2025-2026 General Assembly"
-  },
-  {
-    "id": 2016290,
-    "state": "IL",
-    "state_name": "Illinois",
-    "bill_number": "HB4030",
-    "title": "SEX-BASED TERMS ACT",
-    "summary": "Creates the Definitions of Sex-Based Terms Act. Defines, for purposes of State statutes and administrative rules, the meaning of the following terms: \"boy\", \"father\", \"female\", \"girl\", \"male\", \"man\", \"mother\", \"sex\", and \"woman\".",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "definitions"
-    ],
-    "primary_category": "definitions",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/IL/bill/HB4030/2025",
-    "legiscan_url": "https://legiscan.com/IL/bill/HB4030/2025",
-    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4030&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
-    "sponsors": [
-      "David Friess (R) [Rep]",
-      "Blaine Wilhour (R) [Rep]",
-      "Adam Niemerg (R) [Rep]",
-      "Jed Davis (R) [Rep]",
-      "Brad Halbrook (R) [Rep]",
-      "Chris Miller (R) [Rep]"
-    ],
-    "introduced_date": "2025-03-28",
-    "session": "104th General Assembly"
   },
   {
     "id": 2056290,
@@ -12357,6 +12488,39 @@
       "Luis Sepulveda (D) [Sen]"
     ],
     "introduced_date": "2025-06-09",
+    "session": "2025-2026 General Assembly"
+  },
+  {
+    "id": 2141170,
+    "state": "NY",
+    "state_name": "New York",
+    "bill_number": "S09764",
+    "title": "Provides that the judge shall not prohibit a parent from undergoing gender reassignment.",
+    "summary": "Provides that the judge shall not prohibit a parent from undergoing gender reassignment.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "identity_documents"
+    ],
+    "primary_category": "identity_documents",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NY/bill/S09764/2025",
+    "legiscan_url": "https://legiscan.com/NY/bill/S09764/2025",
+    "state_url": "https://www.nysenate.gov/legislation/bills/2025/S9764",
+    "sponsors": [
+      "Luis Sepulveda (D) [Sen]",
+      "Robert Jackson (D) [Sen]",
+      "John Liu (D) [Sen]",
+      "Rachel May (D) [Sen]",
+      "Julia Salazar (D) [Sen]"
+    ],
+    "introduced_date": "2026-04-06",
     "session": "2025-2026 General Assembly"
   },
   {
@@ -12619,6 +12783,36 @@
     "session": "94th Legislature 2025-2026"
   },
   {
+    "id": 1974791,
+    "state": "TX",
+    "state_name": "Texas",
+    "bill_number": "SB1393",
+    "title": "Relating to electronic health record requirements, including the recording of an individual's biological sex.",
+    "summary": "Relating to electronic health record requirements, including the recording of an individual's biological sex.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare",
+      "identity_documents"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/TX/bill/SB1393/2025",
+    "legiscan_url": "https://legiscan.com/TX/bill/SB1393/2025",
+    "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1393",
+    "sponsors": [
+      "Bob Hall (R) [Sen]"
+    ],
+    "introduced_date": "2025-02-19",
+    "session": "89th Legislature Regular Session"
+  },
+  {
     "id": 2014814,
     "state": "ME",
     "state_name": "Maine",
@@ -12658,37 +12852,6 @@
     "session": "132nd Legislature"
   },
   {
-    "id": 2136704,
-    "state": "MN",
-    "state_name": "Minnesota",
-    "bill_number": "SF4707",
-    "title": "Health plan coverage of conversion therapy prohibition for minors and vulnerable adults",
-    "summary": "Health plan coverage of conversion therapy prohibition for minors and vulnerable adults",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/MN/bill/SF4707/2025",
-    "legiscan_url": "https://legiscan.com/MN/bill/SF4707/2025",
-    "state_url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4707/",
-    "sponsors": [
-      "David Dibble (D) [Sen]",
-      "Erin Maye Quade (D) [Sen]",
-      "Clare Oumou Verbeten (D) [Sen]"
-    ],
-    "introduced_date": "2026-03-23",
-    "session": "94th Legislature 2025-2026"
-  },
-  {
     "id": 2135628,
     "state": "MN",
     "state_name": "Minnesota",
@@ -12722,40 +12885,44 @@
       "Sydney Jordan (D) [Rep]",
       "Heather Keeler (D) [Rep]",
       "Jessica Hanson (D) [Rep]",
-      "Kristi Pursell (D) [Rep]"
+      "Kristi Pursell (D) [Rep]",
+      "Bianca Virnig (D) [Rep]"
     ],
     "introduced_date": "2026-03-18",
     "session": "94th Legislature 2025-2026"
   },
   {
-    "id": 1974791,
-    "state": "TX",
-    "state_name": "Texas",
-    "bill_number": "SB1393",
-    "title": "Relating to electronic health record requirements, including the recording of an individual's biological sex.",
-    "summary": "Relating to electronic health record requirements, including the recording of an individual's biological sex.",
+    "id": 2136704,
+    "state": "MN",
+    "state_name": "Minnesota",
+    "bill_number": "SF4707",
+    "title": "Health plan coverage of conversion therapy prohibition for minors and vulnerable adults",
+    "summary": "Health plan coverage of conversion therapy prohibition for minors and vulnerable adults",
     "status": "introduced",
     "status_label": "Introduced",
     "status_code": 1,
     "categories": [
-      "healthcare",
-      "identity_documents"
+      "healthcare"
     ],
     "primary_category": "healthcare",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
     "relevant": true,
     "level": "state",
     "last_action_date": "",
     "last_action": "",
-    "url": "https://legiscan.com/TX/bill/SB1393/2025",
-    "legiscan_url": "https://legiscan.com/TX/bill/SB1393/2025",
-    "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=SB1393",
+    "url": "https://legiscan.com/MN/bill/SF4707/2025",
+    "legiscan_url": "https://legiscan.com/MN/bill/SF4707/2025",
+    "state_url": "https://www.revisor.mn.gov/bills/94/2026/0/SF/4707/",
     "sponsors": [
-      "Bob Hall (R) [Sen]"
+      "David Dibble (D) [Sen]",
+      "Erin Maye Quade (D) [Sen]",
+      "Clare Oumou Verbeten (D) [Sen]",
+      "Lindsey Port (D) [Sen]",
+      "Liz Boldon (D) [Sen]"
     ],
-    "introduced_date": "2025-02-19",
-    "session": "89th Legislature Regular Session"
+    "introduced_date": "2026-03-23",
+    "session": "94th Legislature 2025-2026"
   },
   {
     "id": 2088662,
@@ -13070,6 +13237,36 @@
     "session": "Fifty-seventh Legislature - Second Regular Session (2026)"
   },
   {
+    "id": 2065907,
+    "state": "AZ",
+    "state_name": "Arizona",
+    "bill_number": "SB1095",
+    "title": "Gender transition; minors; prohibitions",
+    "summary": "Gender transition; minors; prohibitions",
+    "status": "passed_one_chamber",
+    "status_label": "Engrossed",
+    "status_code": 2,
+    "categories": [
+      "healthcare",
+      "definitions"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/AZ/bill/SB1095/2026",
+    "legiscan_url": "https://legiscan.com/AZ/bill/SB1095/2026",
+    "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/83770",
+    "sponsors": [
+      "Mark Finchem (R) [Sen]"
+    ],
+    "introduced_date": "2026-02-23",
+    "session": "Fifty-seventh Legislature - Second Regular Session (2026)"
+  },
+  {
     "id": 2042930,
     "state": "WI",
     "state_name": "Wisconsin",
@@ -13116,36 +13313,6 @@
     ],
     "introduced_date": "2026-03-23",
     "session": "2025-2026 Regular Session"
-  },
-  {
-    "id": 2065907,
-    "state": "AZ",
-    "state_name": "Arizona",
-    "bill_number": "SB1095",
-    "title": "Gender transition; minors; prohibitions",
-    "summary": "Gender transition; minors; prohibitions",
-    "status": "passed_one_chamber",
-    "status_label": "Engrossed",
-    "status_code": 2,
-    "categories": [
-      "healthcare",
-      "definitions"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/AZ/bill/SB1095/2026",
-    "legiscan_url": "https://legiscan.com/AZ/bill/SB1095/2026",
-    "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/83770",
-    "sponsors": [
-      "Mark Finchem (R) [Sen]"
-    ],
-    "introduced_date": "2026-02-23",
-    "session": "Fifty-seventh Legislature - Second Regular Session (2026)"
   },
   {
     "id": 1977561,
@@ -13772,35 +13939,6 @@
     "session": "2026 Regular Session"
   },
   {
-    "id": 2081725,
-    "state": "OK",
-    "state_name": "Oklahoma",
-    "bill_number": "HB3798",
-    "title": "State health insurance coverage; gender transition procedures; effective date.",
-    "summary": "State health insurance coverage; gender transition procedures; effective date.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/OK/bill/HB3798/2026",
-    "legiscan_url": "https://legiscan.com/OK/bill/HB3798/2026",
-    "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3798&Session=2600",
-    "sponsors": [
-      "Chris Sneed (R) [Rep]"
-    ],
-    "introduced_date": "2026-02-02",
-    "session": "2026 Regular Session"
-  },
-  {
     "id": 1992971,
     "state": "WI",
     "state_name": "Wisconsin",
@@ -13858,6 +13996,35 @@
     ],
     "introduced_date": "2026-03-31",
     "session": "2025-2026 Regular Session"
+  },
+  {
+    "id": 2081725,
+    "state": "OK",
+    "state_name": "Oklahoma",
+    "bill_number": "HB3798",
+    "title": "State health insurance coverage; gender transition procedures; effective date.",
+    "summary": "State health insurance coverage; gender transition procedures; effective date.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/OK/bill/HB3798/2026",
+    "legiscan_url": "https://legiscan.com/OK/bill/HB3798/2026",
+    "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3798&Session=2600",
+    "sponsors": [
+      "Chris Sneed (R) [Rep]"
+    ],
+    "introduced_date": "2026-02-02",
+    "session": "2026 Regular Session"
   },
   {
     "id": 2078902,
@@ -14317,7 +14484,7 @@
     "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=sb904&Session=2600",
     "sponsors": [
       "Todd Gollihare (R) [Sen]",
-      "Chris Kannady (R) [Rep]",
+      "Erick Harris (R) [Rep]",
       "Preston Stinson (R) [Rep]",
       "Paul Rosino (R) [Sen]",
       "David Bullard (R) [Sen]",
@@ -15645,6 +15812,38 @@
     "session": "103rd Legislature"
   },
   {
+    "id": 2048168,
+    "state": "OK",
+    "state_name": "Oklahoma",
+    "bill_number": "HB1225",
+    "title": "Vital records; amendment of certificate or records; biological sex; effective date.",
+    "summary": "Vital records; amendment of certificate or records; biological sex; effective date.",
+    "status": "passed_one_chamber",
+    "status_label": "Engrossed",
+    "status_code": 2,
+    "categories": [
+      "identity_documents",
+      "definitions"
+    ],
+    "primary_category": "identity_documents",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/OK/bill/HB1225/2026",
+    "legiscan_url": "https://legiscan.com/OK/bill/HB1225/2026",
+    "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb1225&Session=2600",
+    "sponsors": [
+      "Kevin West (R) [Rep]",
+      "Micheal Bergstrom (R) [Sen]",
+      "Gabe Woolley (R) [Rep]"
+    ],
+    "introduced_date": "2026-03-12",
+    "session": "2026 Regular Session"
+  },
+  {
     "id": 2064528,
     "state": "NH",
     "state_name": "New Hampshire",
@@ -15685,38 +15884,6 @@
       "Shane Sirois (R) [Rep]"
     ],
     "introduced_date": "2025-03-28",
-    "session": "2026 Regular Session"
-  },
-  {
-    "id": 2048168,
-    "state": "OK",
-    "state_name": "Oklahoma",
-    "bill_number": "HB1225",
-    "title": "Vital records; amendment of certificate or records; biological sex; effective date.",
-    "summary": "Vital records; amendment of certificate or records; biological sex; effective date.",
-    "status": "passed_one_chamber",
-    "status_label": "Engrossed",
-    "status_code": 2,
-    "categories": [
-      "identity_documents",
-      "definitions"
-    ],
-    "primary_category": "identity_documents",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/OK/bill/HB1225/2026",
-    "legiscan_url": "https://legiscan.com/OK/bill/HB1225/2026",
-    "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb1225&Session=2600",
-    "sponsors": [
-      "Kevin West (R) [Rep]",
-      "Micheal Bergstrom (R) [Sen]",
-      "Gabe Woolley (R) [Rep]"
-    ],
-    "introduced_date": "2026-03-12",
     "session": "2026 Regular Session"
   },
   {
@@ -15884,38 +16051,6 @@
     "session": "2026-2027 Regular Session"
   },
   {
-    "id": 2063827,
-    "state": "HI",
-    "state_name": "Hawaii",
-    "bill_number": "HB268",
-    "title": "Relating To Sex-based Athletic Competitions In Sports.",
-    "summary": "Requires the department of education to designate athletic sports teams based on the biological sex assigned to players at birth. Prevents males from participating in female sports.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "sports",
-      "education"
-    ],
-    "primary_category": "sports",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/HI/bill/HB268/2026",
-    "legiscan_url": "https://legiscan.com/HI/bill/HB268/2026",
-    "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=268&year=2026",
-    "sponsors": [
-      "David Alcos (R) [Rep]",
-      "Diamond Garcia (R) [Rep]",
-      "Gene Ward (R) [Rep]"
-    ],
-    "introduced_date": "2025-01-17",
-    "session": "2026 Regular Session"
-  },
-  {
     "id": 2099142,
     "state": "NJ",
     "state_name": "New Jersey",
@@ -15954,6 +16089,38 @@
     ],
     "introduced_date": "2026-01-13",
     "session": "2026-2027 Regular Session"
+  },
+  {
+    "id": 2063827,
+    "state": "HI",
+    "state_name": "Hawaii",
+    "bill_number": "HB268",
+    "title": "Relating To Sex-based Athletic Competitions In Sports.",
+    "summary": "Requires the department of education to designate athletic sports teams based on the biological sex assigned to players at birth. Prevents males from participating in female sports.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "sports",
+      "education"
+    ],
+    "primary_category": "sports",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/HI/bill/HB268/2026",
+    "legiscan_url": "https://legiscan.com/HI/bill/HB268/2026",
+    "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=268&year=2026",
+    "sponsors": [
+      "David Alcos (R) [Rep]",
+      "Diamond Garcia (R) [Rep]",
+      "Gene Ward (R) [Rep]"
+    ],
+    "introduced_date": "2025-01-17",
+    "session": "2026 Regular Session"
   },
   {
     "id": 1966407,
