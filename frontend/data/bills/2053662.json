@@ -92,6 +92,11 @@
       "date": "2026-04-08",
       "action": "Executive Session: 04/08/2026 10:30 am GP 230",
       "chamber": "H"
+    },
+    {
+      "date": "2026-04-15",
+      "action": "Committee Report: Inexpedient to Legislate 04/08/2026 (Vote 18-0; Consent Calendar)",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -124,11 +129,6 @@
       "doc_id": 3406136
     }
   ],
-  "committee": {
-    "committee_id": 1250,
-    "chamber": "H",
-    "chamber_id": 67,
-    "name": "Judiciary"
-  },
+  "committee": [],
   "subjects": []
 }

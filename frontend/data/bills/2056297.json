@@ -3,16 +3,18 @@
   "state": "NH",
   "state_name": "New Hampshire",
   "bill_number": "HB1442",
-  "title": "Limiting the use of certain facilities on the basis of sex and redefining the term \"gender identity.\"",
-  "summary": "Limiting the use of certain facilities on the basis of sex and redefining the term \"gender identity.\"",
+  "title": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
+  "summary": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
   "status": "passed_one_chamber",
   "status_label": "Engrossed",
   "status_code": 2,
   "categories": [
+    "definitions",
+    "sports",
     "bathrooms",
-    "definitions"
+    "healthcare"
   ],
-  "primary_category": "bathrooms",
+  "primary_category": "definitions",
   "sentiment": "restrictive",
   "sentiment_label": "Restrictive",
   "relevant": true,
@@ -104,6 +106,16 @@
       "date": "2026-04-07",
       "action": "Committee Report: Ought to Pass with Amendment # 2026-1384s, 04/16/2026, Vote 3-2; Senate Calendar  14",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-16",
+      "action": "Committee Amendment # 2026-1384s, Amendment Adopted, Voice Vote; 04/16/2026; Senate Journal 9",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-16",
+      "action": "Ought to Pass with Amendment # 2026-1384s, Regular Calendar 15Y-8N, Motion Adopted; OT3rdg; 04/16/2026; Senate Journal 9",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -134,6 +146,13 @@
       "yea": 181,
       "nay": 164,
       "passed": 1
+    },
+    {
+      "date": "2026-04-16",
+      "description": "Ought to Pass w/Amendment",
+      "yea": 15,
+      "nay": 8,
+      "passed": 1
     }
   ],
   "texts": [
@@ -142,6 +161,12 @@
       "type": "Introduced",
       "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&id=1937&txtFormat=html",
       "doc_id": 3288592
+    },
+    {
+      "date": "2026-04-16",
+      "type": "Amended",
+      "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&txtFormat=html&v=SA&id=1937",
+      "doc_id": 3420044
     }
   ],
   "committee": [],

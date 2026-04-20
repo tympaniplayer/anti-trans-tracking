@@ -1,0 +1,95 @@
+{
+  "id": 2139787,
+  "state": "LA",
+  "state_name": "Louisiana",
+  "bill_number": "HB1137",
+  "title": "Prohibits intentional discrimination based on compelled speech with respect to using certain pronouns, names, or honorifics",
+  "summary": "Prohibits intentional discrimination based on compelled speech with respect to using certain pronouns, names, or honorifics",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions",
+    "other"
+  ],
+  "primary_category": "definitions",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/LA/bill/HB1137/2026",
+  "legiscan_url": "https://legiscan.com/LA/bill/HB1137/2026",
+  "state_url": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB1137&sbi=y",
+  "sponsors": [
+    "Raymond Crews (R) [Rep]"
+  ],
+  "introduced_date": "2026-03-31",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-31",
+      "action": "Read by title. Lies over under the rules.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-01",
+      "action": "Read by title, under the rules, referred to the Committee on Labor and Industrial Relations.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-09",
+      "action": "Reported favorably (6-4).",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Read by title, ordered engrossed, passed to 3rd reading.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-14",
+      "action": "Scheduled for floor debate on 04/15/2026.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-15",
+      "action": "Read third time by title, amended, roll called on final passage, yeas 66, nays 32. Finally passed, title adopted, ordered to the Senate.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-04-15",
+      "description": "House Vote on HB 1137 FINAL PASSAGE (#557)",
+      "yea": 66,
+      "nay": 32,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1457280",
+      "doc_id": 3408713
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1460612",
+      "doc_id": 3415458
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Engrossed",
+      "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1463085",
+      "doc_id": 3419710
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "EMPLOYMENT/DISCRIMINATN"
+  ]
+}

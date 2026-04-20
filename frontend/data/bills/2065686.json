@@ -26,6 +26,9 @@
     "Alex Lee (D) [Rep]",
     "Chris Ward (D) [Rep]",
     "Dawn Addis (D) [Rep]",
+    "Cecilia Aguiar-Curry (D) [Rep]",
+    "Josh Becker (D) [Sen]",
+    "Tasha Boerner Horvath (D) [Rep]",
     "Mia Bonta (D) [Rep]",
     "Sade Elhawary (D) [Rep]",
     "Lena Gonzalez (D) [Sen]",
@@ -38,6 +41,7 @@
     "Sasha Renee Perez (D) [Sen]",
     "Pilar Schiavo (D) [Rep]",
     "Jose Solache (D) [Rep]",
+    "Catherine Stefani (D) [Rep]",
     "Greg Wallis (R) [Rep]",
     "Scott Wiener (D) [Sen]",
     "Rick Zbur (D) [Rep]"
@@ -84,6 +88,16 @@
       "date": "2026-03-23",
       "action": "Re-referred to Com. on C. & C.",
       "chamber": "A"
+    },
+    {
+      "date": "2026-04-15",
+      "action": "Coauthors revised.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-15",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (April 15). Re-referred to Com. on APPR.",
+      "chamber": "A"
     }
   ],
   "votes": [
@@ -92,6 +106,13 @@
       "description": "Do pass as amended and be re-referred to the Committee on [Communications and Conveyance]",
       "yea": 12,
       "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-15",
+      "description": "Do pass and be re-referred to the Committee on [Appropriations]",
+      "yea": 7,
+      "nay": 0,
       "passed": 1
     }
   ],
@@ -116,10 +137,10 @@
     }
   ],
   "committee": {
-    "committee_id": 3669,
+    "committee_id": 449,
     "chamber": "A",
     "chamber_id": 19,
-    "name": "Communications and Conveyance"
+    "name": "Appropriations"
   },
   "subjects": []
 }

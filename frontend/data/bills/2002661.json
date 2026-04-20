@@ -58,6 +58,11 @@
       "date": "2026-03-19",
       "action": "Reporting date extended to Monday, June 15, 2026",
       "chamber": "H"
+    },
+    {
+      "date": "2026-04-15",
+      "action": "Committee recommended bill ought to pass and referred to the committee on House Ways and Means",
+      "chamber": "H"
     }
   ],
   "votes": [],
@@ -70,10 +75,10 @@
     }
   ],
   "committee": {
-    "committee_id": 763,
-    "chamber": "J",
-    "chamber_id": 103,
-    "name": "Health Care Financing"
+    "committee_id": 737,
+    "chamber": "H",
+    "chamber_id": 51,
+    "name": "Ways and Means"
   },
   "subjects": []
 }

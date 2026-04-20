@@ -5,9 +5,9 @@
   "bill_number": "HR0794",
   "title": "LGBTQIA+ MONTH",
   "summary": "Declares July 2026 as LGBTQIA+ Veterans Month in the State of Illinois. Calls upon all residents to honor the service of LGBTQIA+ veterans, support their pursuit of justice, and celebrate their enduring contributions to our nation and our community.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "other"
   ],
@@ -24,12 +24,22 @@
   "sponsors": [
     "Robyn Gabel (D) [Rep]"
   ],
-  "introduced_date": "2026-04-10",
+  "introduced_date": "2026-04-14",
   "session": "104th General Assembly",
   "actions": [
     {
       "date": "2026-04-10",
       "action": "Filed with the Clerk by Rep. Robyn Gabel",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-14",
+      "action": "Resolution Adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-14",
+      "action": "Referred to Rules Committee",
       "chamber": "H"
     }
   ],
@@ -42,6 +52,11 @@
       "doc_id": 3416045
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
   "subjects": []
 }

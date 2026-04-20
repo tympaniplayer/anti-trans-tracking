@@ -83,6 +83,11 @@
       "date": "2026-03-25",
       "action": "Hearing: 04/02/2026, Room 100, State House, 10:00 am; Senate Calendar  12",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-17",
+      "action": "Committee Report: Ought to Pass with Amendment # 2026-1542s, 04/23/2026, Vote 2-1; Senate Calendar  15A",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -102,11 +107,6 @@
       "doc_id": 3287782
     }
   ],
-  "committee": {
-    "committee_id": 2881,
-    "chamber": "S",
-    "chamber_id": 68,
-    "name": "Children and Family Law"
-  },
+  "committee": [],
   "subjects": []
 }

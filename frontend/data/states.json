@@ -16,19 +16,19 @@
   "US": {
     "state": "US",
     "state_name": "Federal",
-    "total": 37,
+    "total": 39,
     "by_category": {
-      "other": 17,
+      "other": 18,
       "healthcare": 13,
-      "education": 3,
+      "education": 4,
       "sports": 2,
       "definitions": 2
     },
     "by_status": {
-      "introduced": 37
+      "introduced": 39
     },
     "by_sentiment": {
-      "protective": 29,
+      "protective": 31,
       "restrictive": 8
     }
   },
@@ -424,20 +424,21 @@
   "MN": {
     "state": "MN",
     "state_name": "Minnesota",
-    "total": 18,
+    "total": 20,
     "by_category": {
       "education": 5,
-      "healthcare": 5,
+      "other": 1,
+      "healthcare": 6,
       "definitions": 4,
       "identity_documents": 2,
       "sports": 2
     },
     "by_status": {
-      "introduced": 18
+      "introduced": 20
     },
     "by_sentiment": {
-      "protective": 7,
-      "restrictive": 10,
+      "protective": 8,
+      "restrictive": 11,
       "neutral": 1
     }
   },
@@ -471,7 +472,8 @@
       "bathrooms": 2
     },
     "by_status": {
-      "introduced": 14
+      "introduced": 13,
+      "signed_into_law": 1
     },
     "by_sentiment": {
       "protective": 8,
@@ -569,9 +571,9 @@
     "state_name": "New Hampshire",
     "total": 11,
     "by_category": {
-      "definitions": 6,
-      "bathrooms": 2,
+      "definitions": 7,
       "other": 1,
+      "bathrooms": 1,
       "religious_exemptions": 1,
       "sports": 1
     },
@@ -588,15 +590,17 @@
   "LA": {
     "state": "LA",
     "state_name": "Louisiana",
-    "total": 1,
+    "total": 2,
     "by_category": {
-      "other": 1
+      "other": 1,
+      "definitions": 1
     },
     "by_status": {
-      "introduced": 1
+      "introduced": 2
     },
     "by_sentiment": {
-      "protective": 1
+      "protective": 1,
+      "restrictive": 1
     }
   },
   "GA": {
@@ -644,8 +648,8 @@
     "by_category": {
       "other": 2,
       "healthcare": 11,
-      "definitions": 1,
       "education": 2,
+      "definitions": 1,
       "bathrooms": 2,
       "identity_documents": 1
     },

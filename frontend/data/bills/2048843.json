@@ -195,6 +195,11 @@
       "date": "2026-04-08",
       "action": "Policy recommendation to the Health and Human Services Oversight committee; Do Pass Public Health",
       "chamber": "H"
+    },
+    {
+      "date": "2026-04-16",
+      "action": "CR; Do Pass Health and Human Services Oversight Committee",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -231,6 +236,13 @@
       "description": "House: Public Health Committee: DO PASS",
       "yea": 5,
       "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-15",
+      "description": "House: Health and Human Services Oversight Committee: DO PASS",
+      "yea": 11,
+      "nay": 2,
       "passed": 1
     }
   ],

@@ -72,6 +72,11 @@
       "date": "2026-04-10",
       "action": "Held on Calendar Order of Second Reading - Short Debate",
       "chamber": "H"
+    },
+    {
+      "date": "2026-04-17",
+      "action": "Rule 19(a) / Re-referred to Rules Committee",
+      "chamber": "H"
     }
   ],
   "votes": [],
@@ -83,6 +88,11 @@
       "doc_id": 3330343
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 235,
+    "chamber": "H",
+    "chamber_id": 35,
+    "name": "Rules"
+  },
   "subjects": []
 }
