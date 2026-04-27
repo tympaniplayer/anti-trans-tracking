@@ -168,6 +168,21 @@
       "date": "2026-04-02",
       "action": "Received from House, Passed on First Consideration",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-22",
+      "action": "Senate substituted House Bill for companion Senate Bill.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-22",
+      "action": "Amendment withdrawn. (Amendment 1 - SA0147)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-22",
+      "action": "Passed Senate, Ayes 24, Nays 6",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -218,6 +233,13 @@
       "description": "FLOOR VOTE: REGULAR CALENDAR PREVIOUS QUESTION AS AMENDED PASSAGE ON THIRD CONSIDERATION",
       "yea": 72,
       "nay": 19,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-22",
+      "description": "FLOOR VOTE: Third Consideration",
+      "yea": 24,
+      "nay": 6,
       "passed": 1
     }
   ],

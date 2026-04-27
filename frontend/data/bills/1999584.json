@@ -3,8 +3,8 @@
   "state": "NY",
   "state_name": "New York",
   "bill_number": "A06746",
-  "title": "Requires school districts and charter schools to include instruction on the political, economic, and social contributions, and lifeways of lesbian, gay, bisexual, transgender, queer, intersex, and asexual people, in an appropriate place in the curriculum of middle school and high school students.",
-  "summary": "Requires school districts and charter schools to include instruction on the political, economic, and social contributions, and lifeways of lesbian, gay, bisexual, transgender, queer, intersex, and asexual people, in an appropriate place in the curriculum of middle school and high school students.",
+  "title": "Requires school districts and charter schools to establish a task force to make recommendations on model curriculum or instruction on the political, economic, and social contributions of lesbian, gay, bisexual, transgender, queer, intersex, and asexual people, in an appropriate place in the curriculum of middle school and high school students.",
+  "summary": "Requires school districts and charter schools to establish a task force to make recommendations on model curriculum or instruction on the political, economic, and social contributions of lesbian, gay, bisexual, transgender, queer, intersex, and asexual people, in an appropriate place in the curriculum of middle school and high school students.",
   "status": "introduced",
   "status_label": "Introduced",
   "status_code": 1,
@@ -42,6 +42,16 @@
       "date": "2026-01-07",
       "action": "referred to education",
       "chamber": "A"
+    },
+    {
+      "date": "2026-04-24",
+      "action": "amend (t) and recommit to education",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-24",
+      "action": "print number 6746a",
+      "chamber": "A"
     }
   ],
   "votes": [],
@@ -51,6 +61,12 @@
       "type": "Introduced",
       "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06746&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06746",
       "doc_id": 3164897
+    },
+    {
+      "date": "2025-03-11",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06746&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06746A",
+      "doc_id": 3425905
     }
   ],
   "committee": {

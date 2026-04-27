@@ -35,6 +35,16 @@
       "date": "2026-04-06",
       "action": "REFERRED TO CHILDREN AND FAMILIES",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-21",
+      "action": "1ST REPORT CAL.728",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-22",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
     }
   ],
   "votes": [],
@@ -46,11 +56,6 @@
       "doc_id": 3411833
     }
   ],
-  "committee": {
-    "committee_id": 414,
-    "chamber": "S",
-    "chamber_id": 74,
-    "name": "Children and Families"
-  },
+  "committee": [],
   "subjects": []
 }

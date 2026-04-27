@@ -27,10 +27,12 @@
     "Erick Harris (R) [Rep]",
     "Kristen Thompson (R) [Sen]",
     "Denise Hader (R) [Rep]",
+    "Max Wolfley (R) [Rep]",
     "Cody Maynard (R) [Rep]",
-    "Collin Duel (R) [Rep]",
     "Clay Staires (R) [Rep]",
-    "Gabe Woolley (R) [Rep]"
+    "Gabe Woolley (R) [Rep]",
+    "Collin Duel (R) [Rep]",
+    "Julie McIntosh (R) [Sen]"
   ],
   "introduced_date": "2026-03-16",
   "session": "2026 Regular Session",
@@ -114,6 +116,26 @@
       "date": "2026-04-01",
       "action": "Second Reading referred to Health and Human Services",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-20",
+      "action": "Reported Do Pass Health and Human Services committee; CR filed",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-21",
+      "action": "Coauthored by Representative Wolfley",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-21",
+      "action": "Coauthored by Senator McIntosh",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-22",
+      "action": "Placed on General Order",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -136,6 +158,13 @@
       "description": "House: THIRD READING",
       "yea": 75,
       "nay": 15,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-20",
+      "description": "Senate: Health & Human Services Committee: DO PASS",
+      "yea": 10,
+      "nay": 2,
       "passed": 1
     }
   ],
@@ -163,13 +192,14 @@
       "type": "Engrossed",
       "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENGR/hB/HB3586%20ENGR.PDF",
       "doc_id": 3394889
+    },
+    {
+      "date": "2026-04-21",
+      "type": "Amended",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20FLR/SFLR/HB3586%20SFLR.PDF",
+      "doc_id": 3422665
     }
   ],
-  "committee": {
-    "committee_id": 1229,
-    "chamber": "S",
-    "chamber_id": 80,
-    "name": "Health and Human Services"
-  },
+  "committee": [],
   "subjects": []
 }

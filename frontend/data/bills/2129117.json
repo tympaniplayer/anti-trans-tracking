@@ -5,9 +5,9 @@
   "bill_number": "HB1322",
   "title": "Civil Actions for Conversion Therapy Survivors",
   "summary": "Concerning civil actions against certain individuals engaging in conversion therapy efforts.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
   "categories": [
     "healthcare"
   ],
@@ -60,7 +60,7 @@
     "Steven Woodrow (D) [Rep]",
     "Yara Zokaie (D) [Rep]"
   ],
-  "introduced_date": "2026-03-04",
+  "introduced_date": "2026-04-20",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -87,6 +87,11 @@
       "date": "2026-04-02",
       "action": "House Third Reading Passed - No Amendments",
       "chamber": "H"
+    },
+    {
+      "date": "2026-04-20",
+      "action": "Introduced In Senate - Assigned to Judiciary",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -146,7 +151,12 @@
       "doc_id": 3411096
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 917,
+    "chamber": "S",
+    "chamber_id": 22,
+    "name": "Judiciary"
+  },
   "subjects": [
     "Civil Law"
   ]

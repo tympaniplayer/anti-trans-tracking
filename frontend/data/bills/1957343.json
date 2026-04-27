@@ -25,7 +25,14 @@
   "legiscan_url": "https://legiscan.com/TN/bill/SB0936/2025",
   "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=SB0936&ga=114",
   "sponsors": [
-    "Paul Rose (R) [Sen]"
+    "Paul Rose (R) [Sen]",
+    "Paul Bailey (R) [Sen]",
+    "Janince Bowling (R) [Sen]",
+    "Ferrell Haile (R) [Sen]",
+    "Joseph Hensley (R) [Sen]",
+    "Adam Lowe (R) [Sen]",
+    "John Stevens (R) [Sen]",
+    "Dawn White (R) [Sen]"
   ],
   "introduced_date": "2025-02-05",
   "session": "114th General Assembly",
@@ -64,6 +71,21 @@
       "date": "2025-03-18",
       "action": "Recommended for passage with amendment/s, refer to Senate Calendar Committee Ayes 7, Nays 1 PNV 0",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-21",
+      "action": "Placed on Senate Regular Calendar for 4/22/2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-22",
+      "action": "Companion House Bill substituted",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-24",
+      "action": "Sponsor(s) Added.",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -89,12 +111,7 @@
       "doc_id": 3106403
     }
   ],
-  "committee": {
-    "committee_id": 2502,
-    "chamber": "S",
-    "chamber_id": 90,
-    "name": "Calendar"
-  },
+  "committee": [],
   "subjects": [
     "State Government"
   ]

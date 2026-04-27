@@ -41,6 +41,16 @@
       "date": "2026-03-17",
       "action": "REPORTED AND COMMITTED TO FINANCE",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-22",
+      "action": "AMEND (T) AND RECOMMIT TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-22",
+      "action": "PRINT NUMBER 9275A",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -58,6 +68,12 @@
       "type": "Introduced",
       "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S09275&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S09275",
       "doc_id": 3372520
+    },
+    {
+      "date": "2026-02-23",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S09275&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S09275A",
+      "doc_id": 3423865
     }
   ],
   "committee": {

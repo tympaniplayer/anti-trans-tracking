@@ -5,9 +5,9 @@
   "bill_number": "HB1137",
   "title": "Prohibits intentional discrimination based on compelled speech with respect to using certain pronouns, names, or honorifics",
   "summary": "Prohibits intentional discrimination based on compelled speech with respect to using certain pronouns, names, or honorifics",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
   "categories": [
     "definitions",
     "other"
@@ -25,7 +25,7 @@
   "sponsors": [
     "Raymond Crews (R) [Rep]"
   ],
-  "introduced_date": "2026-03-31",
+  "introduced_date": "2026-04-20",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -57,6 +57,16 @@
       "date": "2026-04-15",
       "action": "Read third time by title, amended, roll called on final passage, yeas 66, nays 32. Finally passed, title adopted, ordered to the Senate.",
       "chamber": "H"
+    },
+    {
+      "date": "2026-04-20",
+      "action": "Received in the Senate. Read first time by title and placed on the Calendar for a second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-21",
+      "action": "Read second time by title and referred to the Committee on Labor and Industrial Relations.",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -88,7 +98,12 @@
       "doc_id": 3419710
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 1187,
+    "chamber": "S",
+    "chamber_id": 46,
+    "name": "Labor & Industrial Relations"
+  },
   "subjects": [
     "EMPLOYMENT/DISCRIMINATN"
   ]

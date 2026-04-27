@@ -88,6 +88,11 @@
       "date": "2026-04-10",
       "action": "Set for hearing April 20.",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-20",
+      "action": "April 20 hearing: Placed on APPR. suspense file.",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -96,6 +101,13 @@
       "description": "Do pass, but first be re-referred to the Committee on [Appropriations]",
       "yea": 10,
       "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-20",
+      "description": "Placed on suspense file",
+      "yea": 7,
+      "nay": 0,
       "passed": 1
     }
   ],

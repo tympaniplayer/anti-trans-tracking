@@ -54,21 +54,21 @@
   "NY": {
     "state": "NY",
     "state_name": "New York",
-    "total": 49,
+    "total": 50,
     "by_category": {
       "other": 12,
-      "education": 11,
+      "education": 12,
       "identity_documents": 5,
       "healthcare": 19,
       "bathrooms": 2
     },
     "by_status": {
-      "introduced": 46,
+      "introduced": 47,
       "signed_into_law": 1,
       "passed_one_chamber": 2
     },
     "by_sentiment": {
-      "protective": 47,
+      "protective": 48,
       "restrictive": 2
     }
   },
@@ -177,24 +177,6 @@
       "restrictive": 2
     }
   },
-  "MA": {
-    "state": "MA",
-    "state_name": "Massachusetts",
-    "total": 20,
-    "by_category": {
-      "other": 10,
-      "healthcare": 5,
-      "education": 4,
-      "identity_documents": 1
-    },
-    "by_status": {
-      "introduced": 19,
-      "passed_one_chamber": 1
-    },
-    "by_sentiment": {
-      "protective": 20
-    }
-  },
   "CA": {
     "state": "CA",
     "state_name": "California",
@@ -213,6 +195,24 @@
     "by_sentiment": {
       "protective": 5,
       "restrictive": 2
+    }
+  },
+  "MA": {
+    "state": "MA",
+    "state_name": "Massachusetts",
+    "total": 20,
+    "by_category": {
+      "other": 10,
+      "healthcare": 5,
+      "education": 4,
+      "identity_documents": 1
+    },
+    "by_status": {
+      "introduced": 19,
+      "passed_one_chamber": 1
+    },
+    "by_sentiment": {
+      "protective": 20
     }
   },
   "HI": {
@@ -472,8 +472,7 @@
       "bathrooms": 2
     },
     "by_status": {
-      "introduced": 13,
-      "signed_into_law": 1
+      "introduced": 14
     },
     "by_sentiment": {
       "protective": 8,
@@ -558,7 +557,7 @@
       "healthcare": 2
     },
     "by_status": {
-      "introduced": 1,
+      "passed_one_chamber": 1,
       "dead": 1
     },
     "by_sentiment": {
@@ -596,7 +595,8 @@
       "definitions": 1
     },
     "by_status": {
-      "introduced": 2
+      "introduced": 1,
+      "passed_one_chamber": 1
     },
     "by_sentiment": {
       "protective": 1,
@@ -712,6 +712,20 @@
     "by_sentiment": {
       "protective": 1,
       "restrictive": 7
+    }
+  },
+  "NC": {
+    "state": "NC",
+    "state_name": "North Carolina",
+    "total": 1,
+    "by_category": {
+      "other": 1
+    },
+    "by_status": {
+      "introduced": 1
+    },
+    "by_sentiment": {
+      "protective": 1
     }
   },
   "ID": {

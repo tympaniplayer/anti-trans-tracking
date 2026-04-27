@@ -136,6 +136,11 @@
       "date": "2026-03-31",
       "action": "House minority caucus: Do pass",
       "chamber": "H"
+    },
+    {
+      "date": "2026-04-21",
+      "action": "House Committee of the Whole action: Do Pass",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -178,6 +183,13 @@
       "date": "2026-03-30",
       "description": "House Rules Committee Action (C&P)",
       "yea": 8,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-21",
+      "description": "House - Committee of the Whole (DP)",
+      "yea": 0,
       "nay": 0,
       "passed": 1
     }
