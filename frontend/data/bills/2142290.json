@@ -36,6 +36,11 @@
       "date": "2026-04-14",
       "action": "Referred to Rules Committee",
       "chamber": "H"
+    },
+    {
+      "date": "2026-04-27",
+      "action": "Assigned to State Government Administration Committee",
+      "chamber": "H"
     }
   ],
   "votes": [],
@@ -48,10 +53,10 @@
     }
   ],
   "committee": {
-    "committee_id": 235,
+    "committee_id": 239,
     "chamber": "H",
     "chamber_id": 35,
-    "name": "Rules"
+    "name": "State Government Administration"
   },
   "subjects": []
 }

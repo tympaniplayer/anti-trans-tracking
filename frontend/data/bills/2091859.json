@@ -23,7 +23,8 @@
   "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4554&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
   "sponsors": [
     "Laura Faver Dias (D) [Rep]",
-    "Lindsey LaPointe (D) [Rep]"
+    "Lindsey LaPointe (D) [Rep]",
+    "Sharon Chung (D) [Rep]"
   ],
   "introduced_date": "2026-01-23",
   "session": "104th General Assembly",
@@ -76,6 +77,11 @@
     {
       "date": "2026-04-17",
       "action": "Rule 19(a) / Re-referred to Rules Committee",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-29",
+      "action": "Added Co-Sponsor Rep. Sharon Chung",
       "chamber": "H"
     }
   ],

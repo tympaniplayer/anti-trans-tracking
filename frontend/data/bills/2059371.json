@@ -1,0 +1,138 @@
+{
+  "id": 2059371,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "HB2103",
+  "title": "Further providing for the title of the act, for findings and declaration of policy, for right to freedom from discrimination in employment, housing and public accommodation, for definitions, for unlawful discriminatory practices and for prohibition of certain real estate practices; providing for protection of religious exercise; and further providing for powers and duties of the commission and for construction and exclusiveness of remedy.",
+  "summary": "An Act amending the act of October 27, 1955 (P.L.744, No.222), known as the Pennsylvania Human Relations Act, further providing for the title of the act, for findings and declaration of policy, for right to freedom from discrimination in employment, housing and public accommodation, for definitions, for unlawful discriminatory practices and for prohibition of certain real estate practices; providing for protection of religious exercise; and further providing for powers and duties of the commission and for construction and exclusiveness of remedy.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "definitions",
+    "other"
+  ],
+  "primary_category": "definitions",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/HB2103/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/HB2103/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/hb2103",
+  "sponsors": [
+    "Benjamin Waxman (D) [Rep]",
+    "Tarik Khan (D) [Rep]",
+    "Ben Sanchez (D) [Rep]",
+    "Joseph Hohenstein (D) [Rep]",
+    "Nikki Rivera (D) [Rep]",
+    "Johanny Cepeda-Freytiz (D) [Rep]",
+    "Mary Jo Daley (D) [Rep]",
+    "Maureen Madden (D) [Rep]",
+    "Emily Kinkead (D) [Rep]",
+    "Gregory Scott (D) [Rep]",
+    "Perry Warren (D) [Rep]",
+    "David Madsen (D) [Rep]",
+    "Roni Green (D) [Rep]",
+    "Tina Davis (D) [Rep]",
+    "Abigail Salisbury (D) [Rep]",
+    "Ana Tiburcio (D) [Rep]"
+  ],
+  "introduced_date": "2026-04-28",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2025-12-17",
+      "action": "Referred to Housing & Community Development",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Reported as committed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "First consideration",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-02-02",
+      "action": "Laid on the table",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-24",
+      "action": "Removed from table",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-27",
+      "action": "Second consideration, with amendments",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-27",
+      "action": "Re-committed to Appropriations",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-28",
+      "action": "Re-reported as committed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-28",
+      "action": "Third consideration and final passage (101-100)",
+      "chamber": "H"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-02-02",
+      "description": "House Housing &amp; Community Development: PN2712, Report Bill As Committed",
+      "yea": 26,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-27",
+      "description": "House Floor: PN2712 A02740",
+      "yea": 101,
+      "nay": 99,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-28",
+      "description": "House Appropriations: PN2712, Re-report Bill As Committed",
+      "yea": 22,
+      "nay": 15,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-28",
+      "description": "House Floor: PN3285, FINAL PASSAGE",
+      "yea": 101,
+      "nay": 100,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2025-12-17",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB2103/PN2712",
+      "doc_id": 3291689
+    },
+    {
+      "date": "2026-04-27",
+      "type": "Amended",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB2103/PN3285",
+      "doc_id": 3426472
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

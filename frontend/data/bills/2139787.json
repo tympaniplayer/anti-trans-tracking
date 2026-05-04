@@ -67,6 +67,11 @@
       "date": "2026-04-21",
       "action": "Read second time by title and referred to the Committee on Labor and Industrial Relations.",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-29",
+      "action": "Reported with amendments.",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -98,12 +103,7 @@
       "doc_id": 3419710
     }
   ],
-  "committee": {
-    "committee_id": 1187,
-    "chamber": "S",
-    "chamber_id": 46,
-    "name": "Labor & Industrial Relations"
-  },
+  "committee": [],
   "subjects": [
     "EMPLOYMENT/DISCRIMINATN"
   ]

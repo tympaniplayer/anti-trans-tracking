@@ -75,6 +75,16 @@
       "date": "2026-02-25",
       "action": "print number 6596b",
       "chamber": "A"
+    },
+    {
+      "date": "2026-04-24",
+      "action": "amend (t) and recommit to health",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-24",
+      "action": "print number 6596c",
+      "chamber": "A"
     }
   ],
   "votes": [],
@@ -96,6 +106,12 @@
       "type": "Amended",
       "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06596&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06596B",
       "doc_id": 3379422
+    },
+    {
+      "date": "2025-03-06",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06596&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06596C",
+      "doc_id": 3426252
     }
   ],
   "committee": {

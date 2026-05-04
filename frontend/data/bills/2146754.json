@@ -1,0 +1,54 @@
+{
+  "id": 2146754,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB8573",
+  "title": "To prohibit gender transition procedures on minors, to authorize the Secretary of Health and Human Services to impose civil penalties on persons who perform gender transition procedures on minors, and for other purposes.",
+  "summary": "To prohibit gender transition procedures on minors, to authorize the Secretary of Health and Human Services to impose civil penalties on persons who perform gender transition procedures on minors, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB8573/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB8573/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/8573/all-info",
+  "sponsors": [
+    "Diana Harshbarger (R) [Rep]",
+    "Addison McDowell (R) [Rep]",
+    "Marlin Stutzman (R) [Rep]",
+    "Mary Miller (R) [Rep]",
+    "Russell Fry (R) [Rep]"
+  ],
+  "introduced_date": "2026-04-29",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-04-29",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-29",
+      "action": "Referred to the Committee on Energy and Commerce, and in addition to the Committee on the Judiciary, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": []
+}

@@ -92,6 +92,21 @@
       "date": "2026-04-20",
       "action": "Introduced In Senate - Assigned to Judiciary",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-27",
+      "action": "Senate Committee on Judiciary Refer Amended to Senate Committee of the Whole",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-30",
+      "action": "Senate Second Reading Laid Over Daily - No Amendments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-01",
+      "action": "Senate Second Reading Laid Over to 05/04/2026 - No Amendments",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -151,12 +166,7 @@
       "doc_id": 3411096
     }
   ],
-  "committee": {
-    "committee_id": 917,
-    "chamber": "S",
-    "chamber_id": 22,
-    "name": "Judiciary"
-  },
+  "committee": [],
   "subjects": [
     "Civil Law"
   ]

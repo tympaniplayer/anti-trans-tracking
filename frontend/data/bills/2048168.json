@@ -25,7 +25,8 @@
   "sponsors": [
     "Kevin West (R) [Rep]",
     "Micheal Bergstrom (R) [Sen]",
-    "Gabe Woolley (R) [Rep]"
+    "Gabe Woolley (R) [Rep]",
+    "George Burns (R) [Sen]"
   ],
   "introduced_date": "2026-03-12",
   "session": "2026 Regular Session",
@@ -104,6 +105,36 @@
       "date": "2026-04-22",
       "action": "Placed on General Order",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-29",
+      "action": "Coauthored by Senator Burns",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-29",
+      "action": "General Order, Considered",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-29",
+      "action": "Measure and Emergency passed: Ayes: 37 Nays: 8",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-29",
+      "action": "Referred for engrossment",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-29",
+      "action": "Engrossed to House",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-29",
+      "action": "SA's received",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -126,6 +157,13 @@
       "description": "Senate: Health & Human Services Committee: DO PASS AMENDED CS",
       "yea": 9,
       "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-29",
+      "description": "Senate: THIRD READING",
+      "yea": 37,
+      "nay": 8,
       "passed": 1
     }
   ],
@@ -165,6 +203,12 @@
       "type": "Amended",
       "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20FLR/SFLR/HB1225%20SFLR.PDF",
       "doc_id": 3423162
+    },
+    {
+      "date": "2026-04-29",
+      "type": "Engrossed",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20AMENDMENTS/Amendment%20and%20Engr/HB1225%20SAHB%20AND%20ENGR.PDF",
+      "doc_id": 3428348
     }
   ],
   "committee": [],

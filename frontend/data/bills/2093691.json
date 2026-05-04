@@ -5,9 +5,9 @@
   "bill_number": "SCR11",
   "title": "Requesting The United States Congress To Pass Legislation To Amend The Civil Rights Act Of 1964 To Prohibit Discrimination On The Basis Of Sex, Sexual Orientation, And Gender Identity In Employment, Housing, Public Accommodations, Education, Federally Funded Programs, Credit, And Jury Service.",
   "summary": "Requesting The United States Congress To Pass Legislation To Amend The Civil Rights Act Of 1964 To Prohibit Discrimination On The Basis Of Sex, Sexual Orientation, And Gender Identity In Employment, Housing, Public Accommodations, Education, Federally Funded Programs, Credit, And Jury Service.",
-  "status": "passed_one_chamber",
-  "status_label": "Engrossed",
-  "status_code": 2,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "definitions",
     "education",
@@ -27,7 +27,7 @@
   "sponsors": [
     "Karl Rhoads (D) [Sen]"
   ],
-  "introduced_date": "2026-04-09",
+  "introduced_date": "2026-04-27",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -104,6 +104,16 @@
       "date": "2026-04-24",
       "action": "Transmitted to Senate.",
       "chamber": "H"
+    },
+    {
+      "date": "2026-04-27",
+      "action": "Received from House (Hse. Com. No. 826).",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-27",
+      "action": "Resolution adopted in final form.",
+      "chamber": "S"
     }
   ],
   "votes": [

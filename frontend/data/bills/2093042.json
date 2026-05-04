@@ -5,9 +5,9 @@
   "bill_number": "HR3",
   "title": "Urging The Governor To Take Action To Protect Transgender Members Of The Hawaii National Guard From Discriminatory Federal Policy And Permit Qualified Transgender Service Members To Continue Their Service.",
   "summary": "Urging The Governor To Take Action To Protect Transgender Members Of The Hawaii National Guard From Discriminatory Federal Policy And Permit Qualified Transgender Service Members To Continue Their Service.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "identity_documents",
     "other"
@@ -32,7 +32,7 @@
     "Lisa Marten (D) [Rep]",
     "Amy Perruso (D) [Rep]"
   ],
-  "introduced_date": "2026-01-23",
+  "introduced_date": "2026-04-27",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -69,6 +69,26 @@
       "date": "2026-04-01",
       "action": "Report adopted; referred to the committee(s) on JHA as amended in HD 1 with Representative(s) Gedeon, Matsumoto, Shimizu voting aye with reservations; Representative(s) Alcos, Garcia, Muraoka, Pierick voting no (4) and none excused (0).",
       "chamber": "H"
+    },
+    {
+      "date": "2026-04-27",
+      "action": "Re-referred to PBS, referral sheet 34",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-27",
+      "action": "Reconsideration of action taken on 04-01-26.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-27",
+      "action": "Adopted with Representative(s) Gedeon voting aye with reservations; Representative(s) Alcos, Garcia, Matsumoto, Muraoka, Pierick voting no (5) and Representative(s) Todd excused (1).",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-27",
+      "action": "Resolution adopted in final form.",
+      "chamber": "H"
     }
   ],
   "votes": [],
@@ -86,12 +106,7 @@
       "doc_id": 3409244
     }
   ],
-  "committee": {
-    "committee_id": 4406,
-    "chamber": "H",
-    "chamber_id": 31,
-    "name": "Judiciary & Hawaiian Affairs"
-  },
+  "committee": [],
   "subjects": [
     "Transgender Service Members",
     "Hawai\u02bbi National Guard"

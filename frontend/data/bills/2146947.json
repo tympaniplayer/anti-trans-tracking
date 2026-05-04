@@ -1,0 +1,52 @@
+{
+  "id": 2146947,
+  "state": "OH",
+  "state_name": "Ohio",
+  "bill_number": "HB838",
+  "title": "Prohibit certain coverage for gender reassignment surgery",
+  "summary": "To amend sections 4117.10, 5747.50, 5747.502, 5747.504, 5747.505, 5747.51, and 5747.53 and to enact sections 9.051, 5164.21, and 5747.506 of the Revised Code to prohibit coverage for gender reassignment surgery under Medicaid and state and local authority employee health insurance plans.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/OH/bill/HB838/2025",
+  "legiscan_url": "https://legiscan.com/OH/bill/HB838/2025",
+  "state_url": "https://www.legislature.ohio.gov/legislation/136/hb838",
+  "sponsors": [
+    "Josh Williams (R) [Rep]"
+  ],
+  "introduced_date": "2026-04-30",
+  "session": "136th General Assembly",
+  "actions": [
+    {
+      "date": "2026-04-30",
+      "action": "Introduced",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://search-prod.lis.state.oh.us/api/v2/general_assembly_136/legislation/hb838/00_IN/pdf/",
+      "doc_id": 3429090
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Commerce : Insurance",
+    "Finance and Appropriations",
+    "Health and Human Services : Health Care",
+    "State and Local Government"
+  ]
+}

@@ -89,6 +89,11 @@
       "date": "2026-04-15",
       "action": "Hearing: 04/21/2026, Room 100, State House, 01:40 pm; Senate Calendar  15",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-30",
+      "action": "Committee Report: Ought to Pass, 05/07/2026, Vote 3-2; Senate Calendar  17",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -122,11 +127,6 @@
       "doc_id": 3286942
     }
   ],
-  "committee": {
-    "committee_id": 1273,
-    "chamber": "S",
-    "chamber_id": 68,
-    "name": "Judiciary"
-  },
+  "committee": [],
   "subjects": []
 }

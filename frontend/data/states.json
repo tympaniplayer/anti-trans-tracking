@@ -16,20 +16,20 @@
   "US": {
     "state": "US",
     "state_name": "Federal",
-    "total": 39,
+    "total": 41,
     "by_category": {
       "other": 18,
-      "healthcare": 13,
+      "healthcare": 15,
       "education": 4,
       "sports": 2,
       "definitions": 2
     },
     "by_status": {
-      "introduced": 39
+      "introduced": 41
     },
     "by_sentiment": {
       "protective": 31,
-      "restrictive": 8
+      "restrictive": 10
     }
   },
   "NJ": {
@@ -101,7 +101,8 @@
     },
     "by_status": {
       "introduced": 5,
-      "passed_one_chamber": 2
+      "passed_one_chamber": 1,
+      "passed_both_chambers": 1
     },
     "by_sentiment": {
       "protective": 1,
@@ -227,9 +228,9 @@
       "sports": 1
     },
     "by_status": {
-      "introduced": 14,
-      "passed_one_chamber": 3,
-      "signed_into_law": 1
+      "signed_into_law": 3,
+      "introduced": 13,
+      "passed_one_chamber": 2
     },
     "by_sentiment": {
       "protective": 17,
@@ -262,20 +263,21 @@
   "PA": {
     "state": "PA",
     "state_name": "Pennsylvania",
-    "total": 10,
+    "total": 11,
     "by_category": {
       "other": 4,
       "identity_documents": 2,
-      "definitions": 2,
+      "definitions": 3,
       "education": 1,
       "healthcare": 1
     },
     "by_status": {
       "introduced": 9,
-      "signed_into_law": 1
+      "signed_into_law": 1,
+      "passed_one_chamber": 1
     },
     "by_sentiment": {
-      "protective": 8,
+      "protective": 9,
       "restrictive": 2
     }
   },
@@ -366,7 +368,8 @@
     },
     "by_status": {
       "introduced": 7,
-      "passed_one_chamber": 4
+      "passed_one_chamber": 3,
+      "passed_both_chambers": 1
     },
     "by_sentiment": {
       "restrictive": 11
@@ -778,18 +781,18 @@
   "OH": {
     "state": "OH",
     "state_name": "Ohio",
-    "total": 4,
+    "total": 5,
     "by_category": {
-      "healthcare": 2,
+      "healthcare": 3,
       "definitions": 1,
       "identity_documents": 1
     },
     "by_status": {
-      "introduced": 4
+      "introduced": 5
     },
     "by_sentiment": {
       "protective": 3,
-      "restrictive": 1
+      "restrictive": 2
     }
   },
   "IN": {

@@ -111,6 +111,11 @@
       "date": "2026-03-25",
       "action": "Senate JUDE Committee action: Do Pass Amended, voting: (4-3-0-0)",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-27",
+      "action": "Senate RULES Committee action: Proper For Consideration, voting: (5-4-0-0)",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -148,6 +153,13 @@
       "yea": 4,
       "nay": 3,
       "passed": 1
+    },
+    {
+      "date": "2026-04-27",
+      "description": "Senate Rules Committee Action (PFC)",
+      "yea": 5,
+      "nay": 4,
+      "passed": 1
     }
   ],
   "texts": [
@@ -164,12 +176,7 @@
       "doc_id": 3375074
     }
   ],
-  "committee": {
-    "committee_id": 1114,
-    "chamber": "S",
-    "chamber_id": 16,
-    "name": "Rules"
-  },
+  "committee": [],
   "subjects": [
     "Criminal Code - Title 13",
     "Drag Shows",
