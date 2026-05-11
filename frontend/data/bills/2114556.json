@@ -27,7 +27,8 @@
     "Sara Hannan (D) [Rep]",
     "Andrea Story (D) [Rep]",
     "Genevieve Mina (D) [Rep]",
-    "Carolyn Hall (D) [Rep]"
+    "Carolyn Hall (D) [Rep]",
+    "Ashley Carrick (D) [Rep]"
   ],
   "introduced_date": "2026-02-11",
   "session": "34th Legislature",
@@ -65,6 +66,11 @@
     {
       "date": "2026-04-21",
       "action": "COSPONSOR(S): HALL",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-06",
+      "action": "COSPONSOR(S): CARRICK",
       "chamber": "H"
     }
   ],

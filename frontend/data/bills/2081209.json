@@ -5,9 +5,9 @@
   "bill_number": "HB3586",
   "title": "Children; Right to Raise Act; adoption; eligibility; Oklahoma Children's Code; biological sex; abuse or neglect; crimes and punishments; child endangerment; effective date.",
   "summary": "Children; Right to Raise Act; adoption; eligibility; Oklahoma Children's Code; biological sex; abuse or neglect; crimes and punishments; child endangerment; effective date.",
-  "status": "passed_both_chambers",
-  "status_label": "Enrolled",
-  "status_code": 3,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "identity_documents",
     "definitions",
@@ -41,7 +41,7 @@
     "George Burns (R) [Sen]",
     "Shane Jett (R) [Rep]"
   ],
-  "introduced_date": "2026-04-30",
+  "introduced_date": "2026-05-06",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -212,6 +212,11 @@
     {
       "date": "2026-04-30",
       "action": "Sent to Governor",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-06",
+      "action": "Approved by Governor 05/05/2026",
       "chamber": "H"
     }
   ],

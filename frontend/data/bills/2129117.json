@@ -5,9 +5,9 @@
   "bill_number": "HB1322",
   "title": "Civil Actions for Conversion Therapy Survivors",
   "summary": "Concerning civil actions against certain individuals engaging in conversion therapy efforts.",
-  "status": "passed_one_chamber",
-  "status_label": "Engrossed",
-  "status_code": 2,
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
   "categories": [
     "healthcare"
   ],
@@ -24,7 +24,7 @@
   "sponsors": [
     "Karen McCormick (D) [Rep]",
     "Alex Valdez (D) [Rep]",
-    "Lisa Cutter (D) [Sen]",
+    "Lisa Cutter (D) [Rep]",
     "Kyle Mullica (D) [Sen]",
     "Jennifer Bacon (D) [Rep]",
     "Andrew Boesenecker (D) [Rep]",
@@ -58,9 +58,27 @@
     "Elizabeth Velasco (D) [Rep]",
     "Jenny Willford (D) [Rep]",
     "Steven Woodrow (D) [Rep]",
-    "Yara Zokaie (D) [Rep]"
+    "Yara Zokaie (D) [Rep]",
+    "Judith Amabile (D) [Rep]",
+    "Matt Ball (D) [Sen]",
+    "Adrienne Benavidez (D) [Sen]",
+    "Jeff Bridges (D) [Rep]",
+    "James Coleman (D) [Sen]",
+    "Jessie Danielson (D) [Sen]",
+    "Lindsey Daugherty (D) [Sen]",
+    "Tony Exum (D) [Sen]",
+    "Julie Gonzales (D) [Sen]",
+    "Nick Hinrichsen (D) [Sen]",
+    "Cathy Kipp (D) [Sen]",
+    "Chris Kolker (D) [Sen]",
+    "William Lindstedt (D) [Sen]",
+    "Dylan Roberts (D) [Sen]",
+    "Marc Snyder (D) [Rep]",
+    "Tom Sullivan (D) [Sen]",
+    "Katie Wallace (D) [Sen]",
+    "Michael Weissman (D) [Rep]"
   ],
-  "introduced_date": "2026-04-20",
+  "introduced_date": "2026-05-07",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -107,6 +125,26 @@
       "date": "2026-05-01",
       "action": "Senate Second Reading Laid Over to 05/04/2026 - No Amendments",
       "chamber": "S"
+    },
+    {
+      "date": "2026-05-04",
+      "action": "Senate Second Reading Passed with Amendments - Committee, Floor",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-05",
+      "action": "Senate Third Reading Passed - No Amendments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-06",
+      "action": "House Considered Senate Amendments - Result was to Laid Over Daily",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-07",
+      "action": "House Considered Senate Amendments - Result was to Concur - Repass",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -144,6 +182,34 @@
       "yea": 40,
       "nay": 23,
       "passed": 1
+    },
+    {
+      "date": "2026-04-27",
+      "description": "Senate Judiciary: Refer House Bill 26-1322, as amended, to the Committee of the Whole.",
+      "yea": 5,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-05-05",
+      "description": "Senate: Third Reading Bill",
+      "yea": 23,
+      "nay": 12,
+      "passed": 1
+    },
+    {
+      "date": "2026-05-07",
+      "description": "House: Senate Amendments Concur",
+      "yea": 42,
+      "nay": 22,
+      "passed": 1
+    },
+    {
+      "date": "2026-05-07",
+      "description": "House: Senate Amendments Repass",
+      "yea": 41,
+      "nay": 23,
+      "passed": 1
     }
   ],
   "texts": [
@@ -164,6 +230,18 @@
       "type": "Engrossed",
       "url": "https://leg.colorado.gov/bill_files/113985/download",
       "doc_id": 3411096
+    },
+    {
+      "date": "1969-12-31",
+      "type": "Amended",
+      "url": "https://leg.colorado.gov/bill_files/115721/download",
+      "doc_id": 3430733
+    },
+    {
+      "date": "1969-12-31",
+      "type": "Amended",
+      "url": "https://leg.colorado.gov/bill_files/115777/download",
+      "doc_id": 3431622
     }
   ],
   "committee": [],

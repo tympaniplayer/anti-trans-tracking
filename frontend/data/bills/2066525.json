@@ -5,9 +5,9 @@
   "bill_number": "LB731",
   "title": "Adopt the Gender Transition Malpractice Accountability Act, provide an exemption to the time limitation to commence certain actions relating to professional negligence, require insurance coverage for certain treatments and procedures arising as a result of a gender-altering procedure, and change provisions relating to civil actions under the Let Them Grow Act",
   "summary": "Adopt the Gender Transition Malpractice Accountability Act, provide an exemption to the time limitation to commence certain actions relating to professional negligence, require insurance coverage for certain treatments and procedures arising as a result of a gender-altering procedure, and change provisions relating to civil actions under the Let Them Grow Act",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "healthcare",
     "definitions"
@@ -25,7 +25,7 @@
   "sponsors": [
     "Kathleen Kauth (N) [Sen]"
   ],
-  "introduced_date": "2026-01-07",
+  "introduced_date": "2026-04-17",
   "session": "109th Legislature",
   "actions": [
     {
@@ -57,6 +57,11 @@
       "date": "2026-01-15",
       "action": "Notice of hearing for January 29, 2026",
       "chamber": "L"
+    },
+    {
+      "date": "2026-04-17",
+      "action": "Indefinitely postponed",
+      "chamber": "L"
     }
   ],
   "votes": [],
@@ -68,11 +73,6 @@
       "doc_id": 3301097
     }
   ],
-  "committee": {
-    "committee_id": 1444,
-    "chamber": "L",
-    "chamber_id": 64,
-    "name": "Judiciary"
-  },
+  "committee": [],
   "subjects": []
 }

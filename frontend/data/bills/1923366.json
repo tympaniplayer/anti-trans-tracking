@@ -5,9 +5,9 @@
   "bill_number": "LB367",
   "title": "Prohibit conversion therapy and provide for disciplinary sanctions and a deceptive trade practice",
   "summary": "Prohibit conversion therapy and provide for disciplinary sanctions and a deceptive trade practice",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "healthcare"
   ],
@@ -24,7 +24,7 @@
   "sponsors": [
     "Megan Hunt (N) [Sen]"
   ],
-  "introduced_date": "2025-01-16",
+  "introduced_date": "2026-04-17",
   "session": "109th Legislature",
   "actions": [
     {
@@ -60,6 +60,11 @@
     {
       "date": "2026-01-07",
       "action": "Title printed. Carryover bill",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-04-17",
+      "action": "Indefinitely postponed",
       "chamber": "L"
     }
   ],

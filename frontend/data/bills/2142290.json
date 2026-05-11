@@ -22,7 +22,8 @@
   "legiscan_url": "https://legiscan.com/IL/bill/HR0794/2025",
   "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=794&GAID=18&DocTypeID=HR&SessionID=114&GA=104",
   "sponsors": [
-    "Robyn Gabel (D) [Rep]"
+    "Robyn Gabel (D) [Rep]",
+    "Nicolle Grasse (D) [Rep]"
   ],
   "introduced_date": "2026-04-10",
   "session": "104th General Assembly",
@@ -41,6 +42,21 @@
       "date": "2026-04-27",
       "action": "Assigned to State Government Administration Committee",
       "chamber": "H"
+    },
+    {
+      "date": "2026-05-06",
+      "action": "Recommends Be Adopted State Government Administration Committee; 006-003-000",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-07",
+      "action": "Placed on Calendar Order of Resolutions",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-08",
+      "action": "Added Chief Co-Sponsor Rep. Nicolle Grasse",
+      "chamber": "H"
     }
   ],
   "votes": [],
@@ -52,11 +68,6 @@
       "doc_id": 3416045
     }
   ],
-  "committee": {
-    "committee_id": 239,
-    "chamber": "H",
-    "chamber_id": 35,
-    "name": "State Government Administration"
-  },
+  "committee": [],
   "subjects": []
 }

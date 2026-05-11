@@ -2623,35 +2623,6 @@
     "session": "103rd Legislature"
   },
   {
-    "id": 2110117,
-    "state": "MD",
-    "state_name": "Maryland",
-    "bill_number": "HB1011",
-    "title": "Workgroup on Supporting Transgender and Gender Diverse Students - Established",
-    "summary": "Establishing the Workgroup on Supporting Transgender and Gender Diverse Students to study ways to support transgender and gender diverse students and, on or before December 1, 2026, make recommendations regarding statewide statutory and regulatory policies.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "education"
-    ],
-    "primary_category": "education",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/MD/bill/HB1011/2026",
-    "legiscan_url": "https://legiscan.com/MD/bill/HB1011/2026",
-    "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1011?ys=2026RS",
-    "sponsors": [
-      "Kris Fair (D) [Rep]"
-    ],
-    "introduced_date": "2026-02-06",
-    "session": "2026 Regular Session"
-  },
-  {
     "id": 2065686,
     "state": "CA",
     "state_name": "California",
@@ -2701,6 +2672,35 @@
     ],
     "introduced_date": "2026-01-05",
     "session": "2025-2026 Regular Session"
+  },
+  {
+    "id": 2110117,
+    "state": "MD",
+    "state_name": "Maryland",
+    "bill_number": "HB1011",
+    "title": "Workgroup on Supporting Transgender and Gender Diverse Students - Established",
+    "summary": "Establishing the Workgroup on Supporting Transgender and Gender Diverse Students to study ways to support transgender and gender diverse students and, on or before December 1, 2026, make recommendations regarding statewide statutory and regulatory policies.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "education"
+    ],
+    "primary_category": "education",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/MD/bill/HB1011/2026",
+    "legiscan_url": "https://legiscan.com/MD/bill/HB1011/2026",
+    "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB1011?ys=2026RS",
+    "sponsors": [
+      "Kris Fair (D) [Rep]"
+    ],
+    "introduced_date": "2026-02-06",
+    "session": "2026 Regular Session"
   },
   {
     "id": 1969812,
@@ -3276,6 +3276,35 @@
     "session": "2026 Regular Session"
   },
   {
+    "id": 2147697,
+    "state": "NJ",
+    "state_name": "New Jersey",
+    "bill_number": "AJR177",
+    "title": "Designates June 2026 as LGBTQ+ Pride Month in New Jersey.",
+    "summary": "Designates June 2026 as LGBTQ+ Pride Month in New Jersey.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NJ/bill/AJR177/2026",
+    "legiscan_url": "https://legiscan.com/NJ/bill/AJR177/2026",
+    "state_url": "https://www.njleg.state.nj.us/bill-search/2026/AJR177",
+    "sponsors": [
+      "Luanne Peterpaul (D) [Rep]"
+    ],
+    "introduced_date": "2026-05-07",
+    "session": "2026-2027 Regular Session"
+  },
+  {
     "id": 1947275,
     "state": "ND",
     "state_name": "North Dakota",
@@ -3550,7 +3579,14 @@
       "Jo Simon (D) [Rep]",
       "Diana Moreno (D) [Rep]",
       "Harry Bronson (D) [Rep]",
-      "Andrew Hevesi (D) [Rep]"
+      "Andrew Hevesi (D) [Rep]",
+      "Karines Reyes (D) [Rep]",
+      "Anna Kelles (D) [Rep]",
+      "Rebecca Seawright (D) [Rep]",
+      "Emily Gallagher (D) [Rep]",
+      "Tony Simone (D) [Rep]",
+      "Karen McMahon (D) [Rep]",
+      "Jordan Wright (D) [Rep]"
     ],
     "introduced_date": "2026-01-30",
     "session": "2025-2026 General Assembly"
@@ -3581,6 +3617,8 @@
     "sponsors": [
       "Nathalia Fernandez (D) [Sen]",
       "Joseph Addabbo (D) [Sen]",
+      "Erik Bottcher (D) [Sen]",
+      "Gustavo Rivera (D) [Sen]",
       "Christopher Ryan (D) [Sen]",
       "Jeremy Zellner (D) [Sen]"
     ],
@@ -3688,7 +3726,10 @@
       "Alex Bores (D) [Rep]",
       "Jo Simon (D) [Rep]",
       "Grace Lee (D) [Rep]",
-      "Diana Moreno (D) [Rep]"
+      "Diana Moreno (D) [Rep]",
+      "Jordan Wright (D) [Rep]",
+      "Emily Gallagher (D) [Rep]",
+      "Deborah Glick (D) [Rep]"
     ],
     "introduced_date": "2025-03-06",
     "session": "2025-2026 General Assembly"
@@ -4045,6 +4086,7 @@
     "state_url": "https://www.nysenate.gov/legislation/bills/2025/S9275",
     "sponsors": [
       "Gustavo Rivera (D) [Sen]",
+      "Erik Bottcher (D) [Sen]",
       "Kristen Gonzalez (D) [Sen]",
       "Peter Harckham (D) [Sen]",
       "Robert Jackson (D) [Sen]",
@@ -5298,7 +5340,8 @@
     "legiscan_url": "https://legiscan.com/IL/bill/HR0794/2025",
     "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=794&GAID=18&DocTypeID=HR&SessionID=114&GA=104",
     "sponsors": [
-      "Robyn Gabel (D) [Rep]"
+      "Robyn Gabel (D) [Rep]",
+      "Nicolle Grasse (D) [Rep]"
     ],
     "introduced_date": "2026-04-10",
     "session": "104th General Assembly"
@@ -5593,6 +5636,35 @@
     ],
     "introduced_date": "2025-10-15",
     "session": "119th Congress"
+  },
+  {
+    "id": 1927877,
+    "state": "IL",
+    "state_name": "Illinois",
+    "bill_number": "SR0010",
+    "title": "CONDEMNS-CONVERSION THERAPY",
+    "summary": "Condemns the practice of conversion therapy on any population as unethical and fraudulent. Asserts that no licensed professional operating in the State of Illinois should engage in this practice, whether with minors or adults, as it violates the ethical standards of professional behavioral healthcare. Condemns conversion therapy as described herein, regardless of the target population or how the service is marketed or titled. Acknowledges that conversion therapy is not a legitimate form of therapy but is a dangerous and discredited practice that has no place in a professional setting, and that any professional engaging in such practices is in violation of the ethical guidelines governing their licensure. Encourages the Illinois Department of Public Health to launch a statewide public awareness campaign to educate communities about the harms of conversion therapy and its fraudulent nature, to collaborate with the Department of Financial and Professional Regulation to investigate and hold accountable practitioners offering conversion therapy under false pretenses, to develop guidelines for healthcare professionals to recognize, report, and prevent practices associated with conversion therapy, and to support outreach initiatives to connect survivors of conversion therapy with affirming mental health resources.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/IL/bill/SR0010/2025",
+    "legiscan_url": "https://legiscan.com/IL/bill/SR0010/2025",
+    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=10&GAID=18&DocTypeID=SR&SessionID=114&GA=104",
+    "sponsors": [
+      "Mary Edly-Allen (D) [Sen]"
+    ],
+    "introduced_date": "2025-01-17",
+    "session": "104th General Assembly"
   },
   {
     "id": 2024765,
@@ -6594,35 +6666,6 @@
     "session": "194th General Court"
   },
   {
-    "id": 1927877,
-    "state": "IL",
-    "state_name": "Illinois",
-    "bill_number": "SR0010",
-    "title": "CONDEMNS-CONVERSION THERAPY",
-    "summary": "Condemns the practice of conversion therapy on any population as unethical and fraudulent. Asserts that no licensed professional operating in the State of Illinois should engage in this practice, whether with minors or adults, as it violates the ethical standards of professional behavioral healthcare. Condemns conversion therapy as described herein, regardless of the target population or how the service is marketed or titled. Acknowledges that conversion therapy is not a legitimate form of therapy but is a dangerous and discredited practice that has no place in a professional setting, and that any professional engaging in such practices is in violation of the ethical guidelines governing their licensure. Encourages the Illinois Department of Public Health to launch a statewide public awareness campaign to educate communities about the harms of conversion therapy and its fraudulent nature, to collaborate with the Department of Financial and Professional Regulation to investigate and hold accountable practitioners offering conversion therapy under false pretenses, to develop guidelines for healthcare professionals to recognize, report, and prevent practices associated with conversion therapy, and to support outreach initiatives to connect survivors of conversion therapy with affirming mental health resources.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/IL/bill/SR0010/2025",
-    "legiscan_url": "https://legiscan.com/IL/bill/SR0010/2025",
-    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=10&GAID=18&DocTypeID=SR&SessionID=114&GA=104",
-    "sponsors": [
-      "Mary Edly-Allen (D) [Sen]"
-    ],
-    "introduced_date": "2025-01-17",
-    "session": "104th General Assembly"
-  },
-  {
     "id": 1951809,
     "state": "TX",
     "state_name": "Texas",
@@ -6865,9 +6908,9 @@
     "bill_number": "HB1322",
     "title": "Civil Actions for Conversion Therapy Survivors",
     "summary": "Concerning civil actions against certain individuals engaging in conversion therapy efforts.",
-    "status": "passed_one_chamber",
-    "status_label": "Engrossed",
-    "status_code": 2,
+    "status": "passed_both_chambers",
+    "status_label": "Enrolled",
+    "status_code": 3,
     "categories": [
       "healthcare"
     ],
@@ -6884,7 +6927,7 @@
     "sponsors": [
       "Karen McCormick (D) [Rep]",
       "Alex Valdez (D) [Rep]",
-      "Lisa Cutter (D) [Sen]",
+      "Lisa Cutter (D) [Rep]",
       "Kyle Mullica (D) [Sen]",
       "Jennifer Bacon (D) [Rep]",
       "Andrew Boesenecker (D) [Rep]",
@@ -6918,9 +6961,27 @@
       "Elizabeth Velasco (D) [Rep]",
       "Jenny Willford (D) [Rep]",
       "Steven Woodrow (D) [Rep]",
-      "Yara Zokaie (D) [Rep]"
+      "Yara Zokaie (D) [Rep]",
+      "Judith Amabile (D) [Rep]",
+      "Matt Ball (D) [Sen]",
+      "Adrienne Benavidez (D) [Sen]",
+      "Jeff Bridges (D) [Rep]",
+      "James Coleman (D) [Sen]",
+      "Jessie Danielson (D) [Sen]",
+      "Lindsey Daugherty (D) [Sen]",
+      "Tony Exum (D) [Sen]",
+      "Julie Gonzales (D) [Sen]",
+      "Nick Hinrichsen (D) [Sen]",
+      "Cathy Kipp (D) [Sen]",
+      "Chris Kolker (D) [Sen]",
+      "William Lindstedt (D) [Sen]",
+      "Dylan Roberts (D) [Sen]",
+      "Marc Snyder (D) [Rep]",
+      "Tom Sullivan (D) [Sen]",
+      "Katie Wallace (D) [Sen]",
+      "Michael Weissman (D) [Rep]"
     ],
-    "introduced_date": "2026-04-20",
+    "introduced_date": "2026-05-07",
     "session": "2026 Regular Session"
   },
   {
@@ -8304,9 +8365,9 @@
     "bill_number": "LB367",
     "title": "Prohibit conversion therapy and provide for disciplinary sanctions and a deceptive trade practice",
     "summary": "Prohibit conversion therapy and provide for disciplinary sanctions and a deceptive trade practice",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
+    "status": "dead",
+    "status_label": "Failed",
+    "status_code": 6,
     "categories": [
       "healthcare"
     ],
@@ -8323,7 +8384,7 @@
     "sponsors": [
       "Megan Hunt (N) [Sen]"
     ],
-    "introduced_date": "2025-01-16",
+    "introduced_date": "2026-04-17",
     "session": "109th Legislature"
   },
   {
@@ -8726,6 +8787,39 @@
       "Kim Kendall (R) [Rep]"
     ],
     "introduced_date": "2025-12-03",
+    "session": "2026 Regular Session"
+  },
+  {
+    "id": 2048168,
+    "state": "OK",
+    "state_name": "Oklahoma",
+    "bill_number": "HB1225",
+    "title": "Vital records; requiring certificates of birth to contain accurate biological sex designations; clarifying certain requirement and prohibitions; emergency.",
+    "summary": "Vital records; requiring certificates of birth to contain accurate biological sex designations; clarifying certain requirement and prohibitions; emergency.",
+    "status": "passed_both_chambers",
+    "status_label": "Enrolled",
+    "status_code": 3,
+    "categories": [
+      "identity_documents",
+      "definitions"
+    ],
+    "primary_category": "identity_documents",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/OK/bill/HB1225/2026",
+    "legiscan_url": "https://legiscan.com/OK/bill/HB1225/2026",
+    "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb1225&Session=2600",
+    "sponsors": [
+      "Kevin West (R) [Rep]",
+      "Micheal Bergstrom (R) [Sen]",
+      "Gabe Woolley (R) [Rep]",
+      "George Burns (R) [Sen]"
+    ],
+    "introduced_date": "2026-05-05",
     "session": "2026 Regular Session"
   },
   {
@@ -9143,39 +9237,6 @@
     ],
     "introduced_date": "2025-04-28",
     "session": "2025-2026 Regular Session"
-  },
-  {
-    "id": 2048168,
-    "state": "OK",
-    "state_name": "Oklahoma",
-    "bill_number": "HB1225",
-    "title": "Vital records; requiring certificates of birth to contain accurate biological sex designations; clarifying certain requirement and prohibitions; emergency.",
-    "summary": "Vital records; requiring certificates of birth to contain accurate biological sex designations; clarifying certain requirement and prohibitions; emergency.",
-    "status": "passed_one_chamber",
-    "status_label": "Engrossed",
-    "status_code": 2,
-    "categories": [
-      "identity_documents",
-      "definitions"
-    ],
-    "primary_category": "identity_documents",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/OK/bill/HB1225/2026",
-    "legiscan_url": "https://legiscan.com/OK/bill/HB1225/2026",
-    "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb1225&Session=2600",
-    "sponsors": [
-      "Kevin West (R) [Rep]",
-      "Micheal Bergstrom (R) [Sen]",
-      "Gabe Woolley (R) [Rep]",
-      "George Burns (R) [Sen]"
-    ],
-    "introduced_date": "2026-03-12",
-    "session": "2026 Regular Session"
   },
   {
     "id": 1999641,
@@ -10148,9 +10209,9 @@
     "bill_number": "LB731",
     "title": "Adopt the Gender Transition Malpractice Accountability Act, provide an exemption to the time limitation to commence certain actions relating to professional negligence, require insurance coverage for certain treatments and procedures arising as a result of a gender-altering procedure, and change provisions relating to civil actions under the Let Them Grow Act",
     "summary": "Adopt the Gender Transition Malpractice Accountability Act, provide an exemption to the time limitation to commence certain actions relating to professional negligence, require insurance coverage for certain treatments and procedures arising as a result of a gender-altering procedure, and change provisions relating to civil actions under the Let Them Grow Act",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
+    "status": "dead",
+    "status_label": "Failed",
+    "status_code": 6,
     "categories": [
       "healthcare",
       "definitions"
@@ -10168,7 +10229,7 @@
     "sponsors": [
       "Kathleen Kauth (N) [Sen]"
     ],
-    "introduced_date": "2026-01-07",
+    "introduced_date": "2026-04-17",
     "session": "109th Legislature"
   },
   {
@@ -10213,9 +10274,9 @@
     "bill_number": "LB732",
     "title": "Change provisions relating to the ability of a health care practitioner to provide cross-sex hormones and puberty blockers under the Let Them Grow Act",
     "summary": "Change provisions relating to the ability of a health care practitioner to provide cross-sex hormones and puberty blockers under the Let Them Grow Act",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
+    "status": "dead",
+    "status_label": "Failed",
+    "status_code": 6,
     "categories": [
       "healthcare"
     ],
@@ -10232,7 +10293,7 @@
     "sponsors": [
       "Kathleen Kauth (N) [Sen]"
     ],
-    "introduced_date": "2026-01-07",
+    "introduced_date": "2026-04-17",
     "session": "109th Legislature"
   },
   {
@@ -10525,7 +10586,8 @@
       "Sara Hannan (D) [Rep]",
       "Andrea Story (D) [Rep]",
       "Genevieve Mina (D) [Rep]",
-      "Carolyn Hall (D) [Rep]"
+      "Carolyn Hall (D) [Rep]",
+      "Ashley Carrick (D) [Rep]"
     ],
     "introduced_date": "2026-02-11",
     "session": "34th Legislature"
@@ -14350,6 +14412,45 @@
     "session": "2026 Regular Session"
   },
   {
+    "id": 2048843,
+    "state": "OK",
+    "state_name": "Oklahoma",
+    "bill_number": "SB904",
+    "title": "Gender transition procedures; prohibiting certain use of public funds and state facilities; providing criminal penalty. Emergency.",
+    "summary": "Gender transition procedures; prohibiting certain use of public funds and state facilities; providing criminal penalty. Emergency.",
+    "status": "passed_both_chambers",
+    "status_label": "Enrolled",
+    "status_code": 3,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/OK/bill/SB904/2026",
+    "legiscan_url": "https://legiscan.com/OK/bill/SB904/2026",
+    "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=sb904&Session=2600",
+    "sponsors": [
+      "Todd Gollihare (R) [Sen]",
+      "Erick Harris (R) [Rep]",
+      "Preston Stinson (R) [Rep]",
+      "Cody Maynard (R) [Rep]",
+      "Paul Rosino (R) [Sen]",
+      "David Bullard (R) [Sen]",
+      "Ally Seifried (R) [Sen]",
+      "Grant Green (R) [Sen]",
+      "Kristen Thompson (R) [Sen]",
+      "Chuck Hall (R) [Sen]",
+      "Warren Hamilton (R) [Sen]"
+    ],
+    "introduced_date": "2026-05-06",
+    "session": "2026 Regular Session"
+  },
+  {
     "id": 2078902,
     "state": "AZ",
     "state_name": "Arizona",
@@ -14531,45 +14632,6 @@
     ],
     "introduced_date": "2025-03-06",
     "session": "103rd Legislature"
-  },
-  {
-    "id": 2048843,
-    "state": "OK",
-    "state_name": "Oklahoma",
-    "bill_number": "SB904",
-    "title": "Gender transition procedures; prohibiting certain use of public funds and state facilities; providing criminal penalty. Emergency.",
-    "summary": "Gender transition procedures; prohibiting certain use of public funds and state facilities; providing criminal penalty. Emergency.",
-    "status": "passed_one_chamber",
-    "status_label": "Engrossed",
-    "status_code": 2,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/OK/bill/SB904/2026",
-    "legiscan_url": "https://legiscan.com/OK/bill/SB904/2026",
-    "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=sb904&Session=2600",
-    "sponsors": [
-      "Todd Gollihare (R) [Sen]",
-      "Erick Harris (R) [Rep]",
-      "Preston Stinson (R) [Rep]",
-      "Paul Rosino (R) [Sen]",
-      "David Bullard (R) [Sen]",
-      "Ally Seifried (R) [Sen]",
-      "Grant Green (R) [Sen]",
-      "Kristen Thompson (R) [Sen]",
-      "Chuck Hall (R) [Sen]",
-      "Warren Hamilton (R) [Sen]",
-      "Cody Maynard (R) [Rep]"
-    ],
-    "introduced_date": "2026-03-26",
-    "session": "2026 Regular Session"
   },
   {
     "id": 2048634,
@@ -14999,37 +15061,8 @@
       "Addison McDowell (R) [Rep]",
       "Marlin Stutzman (R) [Rep]",
       "Mary Miller (R) [Rep]",
-      "Russell Fry (R) [Rep]"
-    ],
-    "introduced_date": "2026-04-29",
-    "session": "119th Congress"
-  },
-  {
-    "id": 2146848,
-    "state": "US",
-    "state_name": "Federal",
-    "bill_number": "SB4426",
-    "title": "A bill to prohibit gender transition procedures on minors, to authorize the Secretary of Health and Human Services to impose civil penalties on persons who perform gender transition procedures on minors, and for other purposes.",
-    "summary": "A bill to prohibit gender transition procedures on minors, to authorize the Secretary of Health and Human Services to impose civil penalties on persons who perform gender transition procedures on minors, and for other purposes.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "federal",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/US/bill/SB4426/2025",
-    "legiscan_url": "https://legiscan.com/US/bill/SB4426/2025",
-    "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/4426/all-info",
-    "sponsors": [
-      "Roger Marshall (R) [Sen]",
-      "Mike Lee (R) [Sen]"
+      "Russell Fry (R) [Rep]",
+      "Greg Steube (R) [Rep]"
     ],
     "introduced_date": "2026-04-29",
     "session": "119th Congress"
@@ -15121,9 +15154,9 @@
     "bill_number": "HB3586",
     "title": "Children; Right to Raise Act; adoption; eligibility; Oklahoma Children's Code; biological sex; abuse or neglect; crimes and punishments; child endangerment; effective date.",
     "summary": "Children; Right to Raise Act; adoption; eligibility; Oklahoma Children's Code; biological sex; abuse or neglect; crimes and punishments; child endangerment; effective date.",
-    "status": "passed_both_chambers",
-    "status_label": "Enrolled",
-    "status_code": 3,
+    "status": "signed_into_law",
+    "status_label": "Passed",
+    "status_code": 4,
     "categories": [
       "identity_documents",
       "definitions",
@@ -15157,7 +15190,7 @@
       "George Burns (R) [Sen]",
       "Shane Jett (R) [Rep]"
     ],
-    "introduced_date": "2026-04-30",
+    "introduced_date": "2026-05-06",
     "session": "2026 Regular Session"
   },
   {
@@ -16919,6 +16952,36 @@
     "session": "114th General Assembly"
   },
   {
+    "id": 1987248,
+    "state": "TX",
+    "state_name": "Texas",
+    "bill_number": "HB3478",
+    "title": "Relating to the definitions of child abuse and neglect and the temporary emergency jurisdiction of a court in this state over a child at risk of receiving certain prohibited gender transitioning or gender reassignment procedures or treatments.",
+    "summary": "Relating to the definitions of child abuse and neglect and the temporary emergency jurisdiction of a court in this state over a child at risk of receiving certain prohibited gender transitioning or gender reassignment procedures or treatments.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare",
+      "definitions"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/TX/bill/HB3478/2025",
+    "legiscan_url": "https://legiscan.com/TX/bill/HB3478/2025",
+    "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3478",
+    "sponsors": [
+      "David Lowe (R) [Rep]"
+    ],
+    "introduced_date": "2025-02-27",
+    "session": "89th Legislature Regular Session"
+  },
+  {
     "id": 1952062,
     "state": "TX",
     "state_name": "Texas",
@@ -16956,36 +17019,6 @@
       "Ellen Troxclair (R) [Rep]"
     ],
     "introduced_date": "2025-02-03",
-    "session": "89th Legislature Regular Session"
-  },
-  {
-    "id": 1987248,
-    "state": "TX",
-    "state_name": "Texas",
-    "bill_number": "HB3478",
-    "title": "Relating to the definitions of child abuse and neglect and the temporary emergency jurisdiction of a court in this state over a child at risk of receiving certain prohibited gender transitioning or gender reassignment procedures or treatments.",
-    "summary": "Relating to the definitions of child abuse and neglect and the temporary emergency jurisdiction of a court in this state over a child at risk of receiving certain prohibited gender transitioning or gender reassignment procedures or treatments.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare",
-      "definitions"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/TX/bill/HB3478/2025",
-    "legiscan_url": "https://legiscan.com/TX/bill/HB3478/2025",
-    "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3478",
-    "sponsors": [
-      "David Lowe (R) [Rep]"
-    ],
-    "introduced_date": "2025-02-27",
     "session": "89th Legislature Regular Session"
   },
   {
@@ -17472,9 +17505,9 @@
     "bill_number": "HB1271",
     "title": "AN ACT to amend Tennessee Code Annotated, Title 1; Title 3; Title 4; Title 5; Title 6; Title 7 and Title 8, relative to biological sex.",
     "summary": "As introduced, declares that the policy of this state is that there are only two sexes, a biological male and a biological female. - Amends TCA Title 1; Title 3; Title 4; Title 5; Title 6; Title 7 and Title 8.",
-    "status": "passed_both_chambers",
-    "status_label": "Enrolled",
-    "status_code": 3,
+    "status": "signed_into_law",
+    "status_label": "Passed",
+    "status_code": 4,
     "categories": [
       "definitions",
       "identity_documents",
@@ -17503,7 +17536,7 @@
       "Gino Bulso (R) [Rep]",
       "Michele Reneau (R) [Rep]"
     ],
-    "introduced_date": "2026-04-28",
+    "introduced_date": "2026-05-07",
     "session": "114th General Assembly"
   },
   {
@@ -18101,7 +18134,8 @@
       "Steven Raga (D) [Rep]",
       "Grace Lee (D) [Rep]",
       "Jordan Wright (D) [Rep]",
-      "Dana Levenberg (D) [Rep]"
+      "Dana Levenberg (D) [Rep]",
+      "Anna Kelles (D) [Rep]"
     ],
     "introduced_date": "2025-03-18",
     "session": "2025-2026 General Assembly"

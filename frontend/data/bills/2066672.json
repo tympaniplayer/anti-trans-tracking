@@ -5,9 +5,9 @@
   "bill_number": "LB732",
   "title": "Change provisions relating to the ability of a health care practitioner to provide cross-sex hormones and puberty blockers under the Let Them Grow Act",
   "summary": "Change provisions relating to the ability of a health care practitioner to provide cross-sex hormones and puberty blockers under the Let Them Grow Act",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "healthcare"
   ],
@@ -24,7 +24,7 @@
   "sponsors": [
     "Kathleen Kauth (N) [Sen]"
   ],
-  "introduced_date": "2026-01-07",
+  "introduced_date": "2026-04-17",
   "session": "109th Legislature",
   "actions": [
     {
@@ -70,6 +70,11 @@
     {
       "date": "2026-02-17",
       "action": "Placed on General File",
+      "chamber": "L"
+    },
+    {
+      "date": "2026-04-17",
+      "action": "Indefinitely postponed",
       "chamber": "L"
     }
   ],

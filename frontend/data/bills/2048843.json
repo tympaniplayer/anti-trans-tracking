@@ -5,9 +5,9 @@
   "bill_number": "SB904",
   "title": "Gender transition procedures; prohibiting certain use of public funds and state facilities; providing criminal penalty. Emergency.",
   "summary": "Gender transition procedures; prohibiting certain use of public funds and state facilities; providing criminal penalty. Emergency.",
-  "status": "passed_one_chamber",
-  "status_label": "Engrossed",
-  "status_code": 2,
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
   "categories": [
     "healthcare"
   ],
@@ -25,16 +25,16 @@
     "Todd Gollihare (R) [Sen]",
     "Erick Harris (R) [Rep]",
     "Preston Stinson (R) [Rep]",
+    "Cody Maynard (R) [Rep]",
     "Paul Rosino (R) [Sen]",
     "David Bullard (R) [Sen]",
     "Ally Seifried (R) [Sen]",
     "Grant Green (R) [Sen]",
     "Kristen Thompson (R) [Sen]",
     "Chuck Hall (R) [Sen]",
-    "Warren Hamilton (R) [Sen]",
-    "Cody Maynard (R) [Rep]"
+    "Warren Hamilton (R) [Sen]"
   ],
-  "introduced_date": "2026-03-26",
+  "introduced_date": "2026-05-06",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -201,6 +201,46 @@
       "date": "2026-04-16",
       "action": "CR; Do Pass Health and Human Services Oversight Committee",
       "chamber": "H"
+    },
+    {
+      "date": "2026-05-06",
+      "action": "General Order",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-06",
+      "action": "Coauthored by Representative(s) Maynard",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-06",
+      "action": "Third Reading, Measure and Emergency passed: Ayes: 77 Nays: 14",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-06",
+      "action": "Signed, returned to Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-06",
+      "action": "Referred for enrollment",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-06",
+      "action": "Enrolled, to House",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-06",
+      "action": "Signed, returned to Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-06",
+      "action": "Sent to Governor",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -245,6 +285,13 @@
       "yea": 11,
       "nay": 2,
       "passed": 1
+    },
+    {
+      "date": "2026-05-06",
+      "description": "House: THIRD READING",
+      "yea": 77,
+      "nay": 14,
+      "passed": 1
     }
   ],
   "texts": [
@@ -277,6 +324,12 @@
       "type": "Amended",
       "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20FLR/HFLR/SB904%20HFLR.PDF",
       "doc_id": 3421659
+    },
+    {
+      "date": "2026-05-06",
+      "type": "Enrolled",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/SB/SB904%20ENR.PDF",
+      "doc_id": 3432969
     }
   ],
   "committee": [],

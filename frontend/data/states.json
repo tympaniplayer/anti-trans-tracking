@@ -16,38 +16,38 @@
   "US": {
     "state": "US",
     "state_name": "Federal",
-    "total": 41,
+    "total": 40,
     "by_category": {
       "other": 18,
-      "healthcare": 15,
+      "healthcare": 14,
       "education": 4,
       "sports": 2,
       "definitions": 2
     },
     "by_status": {
-      "introduced": 41
+      "introduced": 40
     },
     "by_sentiment": {
       "protective": 31,
-      "restrictive": 10
+      "restrictive": 9
     }
   },
   "NJ": {
     "state": "NJ",
     "state_name": "New Jersey",
-    "total": 23,
+    "total": 24,
     "by_category": {
-      "other": 7,
+      "other": 8,
       "identity_documents": 6,
       "healthcare": 5,
       "education": 3,
       "sports": 2
     },
     "by_status": {
-      "introduced": 23
+      "introduced": 24
     },
     "by_sentiment": {
-      "protective": 19,
+      "protective": 20,
       "restrictive": 4
     }
   },
@@ -102,7 +102,7 @@
     "by_status": {
       "introduced": 5,
       "passed_one_chamber": 1,
-      "passed_both_chambers": 1
+      "signed_into_law": 1
     },
     "by_sentiment": {
       "protective": 1,
@@ -169,8 +169,7 @@
       "healthcare": 3
     },
     "by_status": {
-      "dead": 1,
-      "introduced": 3
+      "dead": 4
     },
     "by_sentiment": {
       "neutral": 1,
@@ -368,8 +367,9 @@
     },
     "by_status": {
       "introduced": 7,
-      "passed_one_chamber": 3,
-      "passed_both_chambers": 1
+      "passed_both_chambers": 2,
+      "passed_one_chamber": 1,
+      "signed_into_law": 1
     },
     "by_sentiment": {
       "restrictive": 11
@@ -560,7 +560,7 @@
       "healthcare": 2
     },
     "by_status": {
-      "passed_one_chamber": 1,
+      "passed_both_chambers": 1,
       "dead": 1
     },
     "by_sentiment": {

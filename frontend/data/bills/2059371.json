@@ -87,6 +87,16 @@
       "date": "2026-04-28",
       "action": "Third consideration and final passage (101-100)",
       "chamber": "H"
+    },
+    {
+      "date": "2026-04-28",
+      "action": "In the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-07",
+      "action": "Referred to State Government",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -133,6 +143,11 @@
       "doc_id": 3426472
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 84,
+    "chamber": "S",
+    "chamber_id": 4,
+    "name": "State Government"
+  },
   "subjects": []
 }

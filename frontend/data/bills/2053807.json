@@ -69,6 +69,16 @@
       "date": "2026-04-08",
       "action": "Executive Session: 04/08/2026 10:30 am GP 230",
       "chamber": "H"
+    },
+    {
+      "date": "2026-05-05",
+      "action": "Majority Committee Report: Ought to Pass 04/08/2026 (Vote 9-8; Regular Calendar)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-05",
+      "action": "Minority Committee Report: Inexpedient to Legislate",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -88,11 +98,6 @@
       "doc_id": 3285706
     }
   ],
-  "committee": {
-    "committee_id": 1250,
-    "chamber": "H",
-    "chamber_id": 67,
-    "name": "Judiciary"
-  },
+  "committee": [],
   "subjects": []
 }

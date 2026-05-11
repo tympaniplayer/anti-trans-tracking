@@ -5,9 +5,9 @@
   "bill_number": "HB1271",
   "title": "AN ACT to amend Tennessee Code Annotated, Title 1; Title 3; Title 4; Title 5; Title 6; Title 7 and Title 8, relative to biological sex.",
   "summary": "As introduced, declares that the policy of this state is that there are only two sexes, a biological male and a biological female. - Amends TCA Title 1; Title 3; Title 4; Title 5; Title 6; Title 7 and Title 8.",
-  "status": "passed_both_chambers",
-  "status_label": "Enrolled",
-  "status_code": 3,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "definitions",
     "identity_documents",
@@ -36,7 +36,7 @@
     "Gino Bulso (R) [Rep]",
     "Michele Reneau (R) [Rep]"
   ],
-  "introduced_date": "2026-04-28",
+  "introduced_date": "2026-05-07",
   "session": "114th General Assembly",
   "actions": [
     {
@@ -193,6 +193,21 @@
       "date": "2026-04-30",
       "action": "Signed by H. Speaker",
       "chamber": "H"
+    },
+    {
+      "date": "2026-05-05",
+      "action": "Signed by Senate Speaker",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-06",
+      "action": "Transmitted to Governor for his action.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-07",
+      "action": "Signed by Governor.",
+      "chamber": ""
     }
   ],
   "votes": [

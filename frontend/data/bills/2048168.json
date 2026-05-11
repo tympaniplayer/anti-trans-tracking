@@ -5,9 +5,9 @@
   "bill_number": "HB1225",
   "title": "Vital records; requiring certificates of birth to contain accurate biological sex designations; clarifying certain requirement and prohibitions; emergency.",
   "summary": "Vital records; requiring certificates of birth to contain accurate biological sex designations; clarifying certain requirement and prohibitions; emergency.",
-  "status": "passed_one_chamber",
-  "status_label": "Engrossed",
-  "status_code": 2,
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
   "categories": [
     "identity_documents",
     "definitions"
@@ -28,7 +28,7 @@
     "Gabe Woolley (R) [Rep]",
     "George Burns (R) [Sen]"
   ],
-  "introduced_date": "2026-03-12",
+  "introduced_date": "2026-05-05",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -135,6 +135,36 @@
       "date": "2026-04-29",
       "action": "SA's received",
       "chamber": "H"
+    },
+    {
+      "date": "2026-05-05",
+      "action": "SA's read, adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-05",
+      "action": "Fourth Reading, Measure and Emergency Passed: Ayes: 70 Nays: 17",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-05",
+      "action": "Referred for enrollment",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-05",
+      "action": "Enrolled, signed, to Senate",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-05",
+      "action": "Enrolled measure signed, returned to House",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-05",
+      "action": "Sent to Governor",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -164,6 +194,13 @@
       "description": "Senate: THIRD READING",
       "yea": 37,
       "nay": 8,
+      "passed": 1
+    },
+    {
+      "date": "2026-05-05",
+      "description": "House: FOURTH READING",
+      "yea": 70,
+      "nay": 17,
       "passed": 1
     }
   ],
@@ -209,6 +246,12 @@
       "type": "Engrossed",
       "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20AMENDMENTS/Amendment%20and%20Engr/HB1225%20SAHB%20AND%20ENGR.PDF",
       "doc_id": 3428348
+    },
+    {
+      "date": "2026-05-05",
+      "type": "Enrolled",
+      "url": "https://www.oklegislature.gov/cf_pdf/2025-26%20ENR/hB/HB1225%20ENR.PDF",
+      "doc_id": 3431626
     }
   ],
   "committee": [],
