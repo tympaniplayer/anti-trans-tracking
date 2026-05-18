@@ -81,7 +81,7 @@
     },
     {
       "date": "2026-04-08",
-      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 10. Noes 2.) (April 7). Re-referred to Com. on APPR.",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 10. Noes 2. Page 3757.) (April 7). Re-referred to Com. on APPR.",
       "chamber": "S"
     },
     {
@@ -97,6 +97,16 @@
     {
       "date": "2026-05-08",
       "action": "Set for hearing May 14.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-14",
+      "action": "From committee: Do pass as amended. (Ayes 5. Noes 2.) (May 14).",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-14",
+      "action": "Read second time and amended. Ordered to second reading.",
       "chamber": "S"
     }
   ],
@@ -114,6 +124,13 @@
       "yea": 7,
       "nay": 0,
       "passed": 1
+    },
+    {
+      "date": "2026-05-14",
+      "description": "Do pass as amended",
+      "yea": 5,
+      "nay": 2,
+      "passed": 1
     }
   ],
   "texts": [
@@ -128,13 +145,14 @@
       "type": "Amended",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB934#98AMD",
       "doc_id": 3399920
+    },
+    {
+      "date": "2026-05-14",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB934#97AMD",
+      "doc_id": 3437533
     }
   ],
-  "committee": {
-    "committee_id": 475,
-    "chamber": "S",
-    "chamber_id": 20,
-    "name": "Appropriations"
-  },
+  "committee": [],
   "subjects": []
 }

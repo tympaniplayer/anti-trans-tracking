@@ -1,0 +1,52 @@
+{
+  "id": 2148979,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A11306",
+  "title": "Establishes a private right of action against mental health professionals who engaged in sexual orientation change efforts, revives such actions otherwise barred by the existing statute of limitations and grants trial preference to such actions.",
+  "summary": "Establishes a private right of action against mental health professionals who engaged in sexual orientation change efforts, revives such actions otherwise barred by the existing statute of limitations and grants trial preference to such actions.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A11306/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A11306/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A11306",
+  "sponsors": [
+    "Deborah Glick (D) [Rep]"
+  ],
+  "introduced_date": "2026-05-11",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-05-11",
+      "action": "referred to judiciary",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-05-11",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A11306&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A11306",
+      "doc_id": 3434486
+    }
+  ],
+  "committee": {
+    "committee_id": 373,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}

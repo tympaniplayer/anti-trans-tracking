@@ -72,12 +72,22 @@
     },
     {
       "date": "2026-05-05",
-      "action": "Majority Committee Report: Ought to Pass 04/08/2026 (Vote 9-8; Regular Calendar)",
+      "action": "Majority Committee Report: Ought to Pass 04/08/2026 (Vote 9-8; Regular Calendar) House Calendar 19 P. 25",
       "chamber": "H"
     },
     {
       "date": "2026-05-05",
       "action": "Minority Committee Report: Inexpedient to Legislate",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-14",
+      "action": "Special Order to after Executive Departments and Administration (Rep. Lynn): Motion Adopted Voice Vote 05/14/2026 House Journal  13",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-14",
+      "action": "Ought to Pass: Motion Adopted Regular Calendar 179-159 05/14/2026 House Journal  13",
       "chamber": "H"
     }
   ],
@@ -88,6 +98,13 @@
       "yea": 16,
       "nay": 8,
       "passed": 1
+    },
+    {
+      "date": "2026-05-14",
+      "description": "OTP",
+      "yea": 179,
+      "nay": 159,
+      "passed": 1
     }
   ],
   "texts": [
@@ -96,6 +113,12 @@
       "type": "Introduced",
       "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&id=1340&txtFormat=html",
       "doc_id": 3285706
+    },
+    {
+      "date": "2026-05-14",
+      "type": "Enrolled",
+      "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&v=HP&id=1340",
+      "doc_id": 3437034
     }
   ],
   "committee": [],

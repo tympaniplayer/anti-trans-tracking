@@ -41,6 +41,11 @@
       "date": "2026-01-08",
       "action": "Read Second Time (H)",
       "chamber": "H"
+    },
+    {
+      "date": "2026-05-15",
+      "action": "Referred: Emerging Issues(H)",
+      "chamber": "H"
     }
   ],
   "votes": [],
@@ -52,6 +57,11 @@
       "doc_id": 3287731
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 3196,
+    "chamber": "H",
+    "chamber_id": 59,
+    "name": "Emerging Issues"
+  },
   "subjects": []
 }

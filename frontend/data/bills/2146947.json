@@ -31,6 +31,11 @@
       "date": "2026-04-30",
       "action": "Introduced",
       "chamber": "H"
+    },
+    {
+      "date": "2026-05-13",
+      "action": "Referred to committee: Insurance",
+      "chamber": "H"
     }
   ],
   "votes": [],
@@ -42,11 +47,17 @@
       "doc_id": 3429090
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 105,
+    "chamber": "H",
+    "chamber_id": 5,
+    "name": "Insurance"
+  },
   "subjects": [
     "Commerce : Insurance",
     "Finance and Appropriations",
     "Health and Human Services : Health Care",
-    "State and Local Government"
+    "State and Local Government",
+    "House Insurance Committee"
   ]
 }

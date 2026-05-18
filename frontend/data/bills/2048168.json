@@ -5,9 +5,9 @@
   "bill_number": "HB1225",
   "title": "Vital records; requiring certificates of birth to contain accurate biological sex designations; clarifying certain requirement and prohibitions; emergency.",
   "summary": "Vital records; requiring certificates of birth to contain accurate biological sex designations; clarifying certain requirement and prohibitions; emergency.",
-  "status": "passed_both_chambers",
-  "status_label": "Enrolled",
-  "status_code": 3,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "identity_documents",
     "definitions"
@@ -28,7 +28,7 @@
     "Gabe Woolley (R) [Rep]",
     "George Burns (R) [Sen]"
   ],
-  "introduced_date": "2026-05-05",
+  "introduced_date": "2026-05-11",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -164,6 +164,11 @@
     {
       "date": "2026-05-05",
       "action": "Sent to Governor",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-11",
+      "action": "Approved by Governor 05/07/2026",
       "chamber": "H"
     }
   ],

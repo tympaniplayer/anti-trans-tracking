@@ -54,21 +54,21 @@
   "NY": {
     "state": "NY",
     "state_name": "New York",
-    "total": 50,
+    "total": 54,
     "by_category": {
       "other": 12,
-      "education": 12,
+      "education": 13,
       "identity_documents": 5,
-      "healthcare": 19,
+      "healthcare": 22,
       "bathrooms": 2
     },
     "by_status": {
-      "introduced": 47,
+      "introduced": 51,
       "signed_into_law": 1,
       "passed_one_chamber": 2
     },
     "by_sentiment": {
-      "protective": 48,
+      "protective": 52,
       "restrictive": 2
     }
   },
@@ -100,9 +100,9 @@
       "education": 1
     },
     "by_status": {
-      "introduced": 5,
-      "passed_one_chamber": 1,
-      "signed_into_law": 1
+      "introduced": 4,
+      "signed_into_law": 2,
+      "passed_one_chamber": 1
     },
     "by_sentiment": {
       "protective": 1,
@@ -183,7 +183,8 @@
     "total": 7,
     "by_category": {
       "healthcare": 4,
-      "education": 2,
+      "education": 1,
+      "identity_documents": 1,
       "bathrooms": 1
     },
     "by_status": {
@@ -367,9 +368,8 @@
     },
     "by_status": {
       "introduced": 7,
-      "passed_both_chambers": 2,
-      "passed_one_chamber": 1,
-      "signed_into_law": 1
+      "signed_into_law": 3,
+      "passed_one_chamber": 1
     },
     "by_sentiment": {
       "restrictive": 11
@@ -573,10 +573,11 @@
     "state_name": "New Hampshire",
     "total": 11,
     "by_category": {
-      "definitions": 7,
+      "definitions": 6,
       "other": 1,
       "bathrooms": 1,
       "religious_exemptions": 1,
+      "healthcare": 1,
       "sports": 1
     },
     "by_status": {

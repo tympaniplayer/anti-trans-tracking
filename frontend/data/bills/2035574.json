@@ -72,6 +72,11 @@
       "date": "2025-06-04",
       "action": "Referred to the Committee on the Judiciary, and in addition to the Committees on Education and Workforce, Armed Services, Oversight and Government Reform, Financial Services, Energy and Commerce, Foreign Affairs, and Homeland Security, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
       "chamber": "H"
+    },
+    {
+      "date": "2025-06-05",
+      "action": "Referred to the Subcommittee on Transportation and Maritime Security.",
+      "chamber": "H"
     }
   ],
   "votes": [],
@@ -84,10 +89,10 @@
     }
   ],
   "committee": {
-    "committee_id": 2309,
+    "committee_id": 4016,
     "chamber": "H",
     "chamber_id": 114,
-    "name": "Judiciary"
+    "name": "Subcommittee on Transportation and Maritime Security"
   },
   "subjects": [
     "Civil rights and liberties, minority issues"

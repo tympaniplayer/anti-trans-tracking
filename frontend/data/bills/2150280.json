@@ -1,0 +1,52 @@
+{
+  "id": 2150280,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S10466",
+  "title": "Provides that prescription labels for gonadotropin-releasing hormone agonists, pubertal suppressants, anabolic steroids, alpha reductase inhibitors, progestins, or drug classes for hormone replacement therapy maybe include the name of the dispensing practice instead of the prescriber; provides for notice to patients.",
+  "summary": "Provides that prescription labels for gonadotropin-releasing hormone agonists, pubertal suppressants, anabolic steroids, alpha reductase inhibitors, progestins, or drug classes for hormone replacement therapy maybe include the name of the dispensing practice instead of the prescriber; provides for notice to patients.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S10466/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S10466/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S10466",
+  "sponsors": [
+    "Erik Bottcher (D) [Sen]"
+  ],
+  "introduced_date": "2026-05-15",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-05-15",
+      "action": "REFERRED TO HIGHER EDUCATION",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-05-15",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S10466&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S10466",
+      "doc_id": 3437326
+    }
+  ],
+  "committee": {
+    "committee_id": 430,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Higher Education"
+  },
+  "subjects": []
+}

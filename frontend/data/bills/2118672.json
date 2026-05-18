@@ -4,15 +4,16 @@
   "state_name": "California",
   "bill_number": "SB1114",
   "title": "Data collection: sexual orientation, gender identity, and intersex status: disclosure.",
-  "summary": "An act to amend Sections 44230.6 and 66027 of the Education Code, and to amend Section 8310.8 of the Government Code, relating to data collection.",
+  "summary": "An act to amend Sections 44230.6 and 66027 of the Education Code, to amend Section 8310.8 of, and to add Section 8310.8.5 to, the Government Code, and to amend Section 1808 of the Vehicle Code, relating to data collection.",
   "status": "introduced",
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
+    "identity_documents",
     "education",
-    "identity_documents"
+    "other"
   ],
-  "primary_category": "education",
+  "primary_category": "identity_documents",
   "sentiment": "protective",
   "sentiment_label": "Protective",
   "relevant": true,
@@ -23,7 +24,8 @@
   "legiscan_url": "https://legiscan.com/CA/bill/SB1114/2025",
   "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1114",
   "sponsors": [
-    "Christopher Cabaldon (D) [Sen]"
+    "Christopher Cabaldon (D) [Sen]",
+    "Rick Zbur (D) [Rep]"
   ],
   "introduced_date": "2026-02-17",
   "session": "2025-2026 Regular Session",
@@ -60,11 +62,6 @@
     },
     {
       "date": "2026-04-07",
-      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0.) (April 6). Re-referred to Com. on APPR.",
-      "chamber": "S"
-    },
-    {
-      "date": "2026-04-07",
       "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 0. Page 3741.) (April 6). Re-referred to Com. on APPR.",
       "chamber": "S"
     },
@@ -81,6 +78,16 @@
     {
       "date": "2026-05-08",
       "action": "Set for hearing May 14.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-14",
+      "action": "From committee: Do pass as amended. (Ayes 5. Noes 0.) (May 14).",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-14",
+      "action": "Read second time and amended. Ordered to second reading.",
       "chamber": "S"
     }
   ],
@@ -105,6 +112,13 @@
       "yea": 7,
       "nay": 0,
       "passed": 1
+    },
+    {
+      "date": "2026-05-14",
+      "description": "Do pass as amended",
+      "yea": 5,
+      "nay": 0,
+      "passed": 1
     }
   ],
   "texts": [
@@ -113,13 +127,14 @@
       "type": "Introduced",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1114#99INT",
       "doc_id": 3365592
+    },
+    {
+      "date": "2026-05-14",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1114#98AMD",
+      "doc_id": 3437543
     }
   ],
-  "committee": {
-    "committee_id": 475,
-    "chamber": "S",
-    "chamber_id": 20,
-    "name": "Appropriations"
-  },
+  "committee": [],
   "subjects": []
 }

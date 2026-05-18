@@ -28,7 +28,9 @@
     "Andrea Story (D) [Rep]",
     "Genevieve Mina (D) [Rep]",
     "Carolyn Hall (D) [Rep]",
-    "Ashley Carrick (D) [Rep]"
+    "Ashley Carrick (D) [Rep]",
+    "Donna Mears (D) [Rep]",
+    "Ted Eischeid (D) [Rep]"
   ],
   "introduced_date": "2026-02-11",
   "session": "34th Legislature",
@@ -41,11 +43,6 @@
     {
       "date": "2026-02-11",
       "action": "STA, JUD",
-      "chamber": "H"
-    },
-    {
-      "date": "2026-02-11",
-      "action": "REFERRED TO STATE AFFAIRS",
       "chamber": "H"
     },
     {
@@ -72,6 +69,36 @@
       "date": "2026-05-06",
       "action": "COSPONSOR(S): CARRICK",
       "chamber": "H"
+    },
+    {
+      "date": "2026-05-15",
+      "action": "STA RPT 4DP 3DNP",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-15",
+      "action": "DP: HOLLAND, HIMSCHOOT, STORY, CARRICK",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-15",
+      "action": "DNP: VANCE, MCCABE, ST. CLAIR",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-15",
+      "action": "FN1: ZERO(GOV)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-15",
+      "action": "REFERRED TO JUDICIARY",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-15",
+      "action": "COSPONSOR(S): MEARS, EISCHEID",
+      "chamber": "H"
     }
   ],
   "votes": [],
@@ -84,10 +111,10 @@
     }
   ],
   "committee": {
-    "committee_id": 2139,
+    "committee_id": 2135,
     "chamber": "H",
     "chamber_id": 13,
-    "name": "State Affairs"
+    "name": "Judiciary"
   },
   "subjects": [
     "Age Of Persons",

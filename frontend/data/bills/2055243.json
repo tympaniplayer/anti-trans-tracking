@@ -3,17 +3,16 @@
   "state": "NH",
   "state_name": "New Hampshire",
   "bill_number": "HB1376",
-  "title": "Relative to a parent's ability to raise their child in a manner consistent with the child's biological sex.",
-  "summary": "Relative to a parent's ability to raise their child in a manner consistent with the child's biological sex.",
+  "title": "Relative to a parent's ability to raise their child in a manner consistent with the child's biological sex and relative to breast surgeries for minors.",
+  "summary": "Relative to a parent's ability to raise their child in a manner consistent with the child's biological sex and relative to breast surgeries for minors.",
   "status": "passed_one_chamber",
   "status_label": "Engrossed",
   "status_code": 2,
   "categories": [
-    "definitions",
-    "education",
-    "healthcare"
+    "healthcare",
+    "definitions"
   ],
-  "primary_category": "definitions",
+  "primary_category": "healthcare",
   "sentiment": "restrictive",
   "sentiment_label": "Restrictive",
   "relevant": true,
@@ -88,6 +87,21 @@
       "date": "2026-04-20",
       "action": "Committee Report: Ought to Pass with Amendment # 2026-1542s, 05/14/2026, Vote 2-1; Senate Calendar  18",
       "chamber": "S"
+    },
+    {
+      "date": "2026-05-14",
+      "action": "Committee Amendment # 2026-1542s, Amendment Adopted, Voice Vote; 05/14/2026; Senate Journal 12",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-14",
+      "action": "Sen. Reardon Floor Amendment # 2026-1938s, Amendment Adopted, Voice Vote; 05/14/2026; Senate Journal 12",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-14",
+      "action": "Ought to Pass with Amendments #2026-1542s and #2026-1938s, Motion Adopted, Voice Vote; OT3rdg; 05/14/2026; Senate Journal 12",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -105,6 +119,12 @@
       "type": "Introduced",
       "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&id=2247&txtFormat=html",
       "doc_id": 3287782
+    },
+    {
+      "date": "2026-05-14",
+      "type": "Amended",
+      "url": "https://gc.nh.gov/bill_status/legacy/bs2016/billText.aspx?sy=2026&txtFormat=html&v=SA&id=2247",
+      "doc_id": 3437112
     }
   ],
   "committee": [],

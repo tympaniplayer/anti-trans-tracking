@@ -103,6 +103,11 @@
       "date": "2026-05-06",
       "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
       "chamber": "A"
+    },
+    {
+      "date": "2026-05-14",
+      "action": "From committee: Do pass. (Ayes 11. Noes 1.) (May 14).",
+      "chamber": "A"
     }
   ],
   "votes": [
@@ -118,6 +123,13 @@
       "description": "Do pass and be re-referred to the Committee on [Appropriations]",
       "yea": 7,
       "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-05-14",
+      "description": "Do pass",
+      "yea": 11,
+      "nay": 1,
       "passed": 1
     }
   ],
@@ -141,11 +153,6 @@
       "doc_id": 3399853
     }
   ],
-  "committee": {
-    "committee_id": 449,
-    "chamber": "A",
-    "chamber_id": 19,
-    "name": "Appropriations"
-  },
+  "committee": [],
   "subjects": []
 }

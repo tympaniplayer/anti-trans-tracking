@@ -23,7 +23,13 @@
   "legiscan_url": "https://legiscan.com/LA/bill/HB1137/2026",
   "state_url": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB1137&sbi=y",
   "sponsors": [
-    "Raymond Crews (R) [Rep]"
+    "Raymond Crews (R) [Rep]",
+    "Adam Bass (R) [Sen]",
+    "Rick Edmonds (R) [Sen]",
+    "Blake Miguez (R) [Sen]",
+    "John Morris (R) [Sen]",
+    "Alan Seabaugh (R) [Sen]",
+    "Valarie Hodges (R) [Sen]"
   ],
   "introduced_date": "2026-04-20",
   "session": "2026 Regular Session",
@@ -82,6 +88,11 @@
       "date": "2026-05-05",
       "action": "Reported without Legislative Bureau amendments. Read by title and passed to third reading and final passage.",
       "chamber": "S"
+    },
+    {
+      "date": "2026-05-13",
+      "action": "Rules suspended. Senate floor amendments read and adopted. Read by title, passed by a vote of 26 yeas and 9 nays, and ordered returned to the House. Motion to reconsider tabled.",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -90,6 +101,20 @@
       "description": "House Vote on HB 1137 FINAL PASSAGE (#557)",
       "yea": 66,
       "nay": 32,
+      "passed": 1
+    },
+    {
+      "date": "2026-05-13",
+      "description": "Senate Vote on HB 1137 FINAL PASSAGE (#859)",
+      "yea": 26,
+      "nay": 9,
+      "passed": 1
+    },
+    {
+      "date": "2026-05-13",
+      "description": "Senate Vote on HB 1137 CO-AUTHORS (#860)",
+      "yea": 5,
+      "nay": 0,
       "passed": 1
     }
   ],

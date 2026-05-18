@@ -32,6 +32,11 @@
       "date": "2026-03-25",
       "action": "Introduced",
       "chamber": "H"
+    },
+    {
+      "date": "2026-05-13",
+      "action": "Referred to committee: Public Safety",
+      "chamber": "H"
     }
   ],
   "votes": [],
@@ -43,11 +48,17 @@
       "doc_id": 3405463
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 5076,
+    "chamber": "H",
+    "chamber_id": 5,
+    "name": "Public Safety"
+  },
   "subjects": [
     "Crimes, Corrections, and Law Enforcement",
     "Crimes, Corrections, and Law Enforcement : Crime and Punishment",
     "Crimes, Corrections, and Law Enforcement : Prisons and Jails",
-    "Housing and Real Property"
+    "Housing and Real Property",
+    "House Public Safety Committee"
   ]
 }

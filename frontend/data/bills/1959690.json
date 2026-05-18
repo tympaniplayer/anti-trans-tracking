@@ -36,7 +36,7 @@
     "Gino Bulso (R) [Rep]",
     "Michele Reneau (R) [Rep]"
   ],
-  "introduced_date": "2026-05-07",
+  "introduced_date": "2026-05-15",
   "session": "114th General Assembly",
   "actions": [
     {
@@ -208,6 +208,16 @@
       "date": "2026-05-07",
       "action": "Signed by Governor.",
       "chamber": ""
+    },
+    {
+      "date": "2026-05-15",
+      "action": "Pub. Ch. 938",
+      "chamber": ""
+    },
+    {
+      "date": "2026-05-15",
+      "action": "Effective date(s) 05/07/2026",
+      "chamber": ""
     }
   ],
   "votes": [
@@ -274,6 +284,12 @@
       "type": "Draft",
       "url": "https://www.capitol.tn.gov/Bills/114/Bill/HB1271.pdf",
       "doc_id": 3105508
+    },
+    {
+      "date": "2026-05-11",
+      "type": "Chaptered",
+      "url": "https://publications.tnsosfiles.com/acts/114/pub/pc0938.pdf",
+      "doc_id": 3437038
     }
   ],
   "committee": [],

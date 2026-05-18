@@ -61,6 +61,16 @@
       "date": "2025-05-08",
       "action": "Bill Electronically Reproduced 05/07/2025",
       "chamber": "H"
+    },
+    {
+      "date": "2026-05-13",
+      "action": "Reported With Recommendation For Referral To Committee On Government Operations",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-13",
+      "action": "Recommendation Concurred In",
+      "chamber": "H"
     }
   ],
   "votes": [],
@@ -72,12 +82,7 @@
       "doc_id": 3231393
     }
   ],
-  "committee": {
-    "committee_id": 892,
-    "chamber": "H",
-    "chamber_id": 53,
-    "name": "Health Policy"
-  },
+  "committee": [],
   "subjects": [
     "Health: other",
     "Health: children"
