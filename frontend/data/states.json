@@ -63,9 +63,9 @@
       "bathrooms": 2
     },
     "by_status": {
-      "introduced": 51,
+      "introduced": 50,
       "signed_into_law": 1,
-      "passed_one_chamber": 2
+      "passed_one_chamber": 3
     },
     "by_sentiment": {
       "protective": 52,
@@ -190,8 +190,9 @@
     "by_status": {
       "signed_into_law": 1,
       "dead": 1,
-      "introduced": 4,
-      "vetoed": 1
+      "introduced": 3,
+      "vetoed": 1,
+      "passed_one_chamber": 1
     },
     "by_sentiment": {
       "protective": 5,
@@ -593,18 +594,20 @@
   "LA": {
     "state": "LA",
     "state_name": "Louisiana",
-    "total": 2,
+    "total": 3,
     "by_category": {
       "other": 1,
-      "definitions": 1
+      "definitions": 1,
+      "healthcare": 1
     },
     "by_status": {
-      "introduced": 1,
+      "introduced": 2,
       "passed_one_chamber": 1
     },
     "by_sentiment": {
       "protective": 1,
-      "restrictive": 1
+      "restrictive": 1,
+      "neutral": 1
     }
   },
   "GA": {

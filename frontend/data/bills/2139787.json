@@ -26,10 +26,10 @@
     "Raymond Crews (R) [Rep]",
     "Adam Bass (R) [Sen]",
     "Rick Edmonds (R) [Sen]",
+    "Valarie Hodges (R) [Sen]",
     "Blake Miguez (R) [Sen]",
     "John Morris (R) [Sen]",
-    "Alan Seabaugh (R) [Sen]",
-    "Valarie Hodges (R) [Sen]"
+    "Alan Seabaugh (R) [Sen]"
   ],
   "introduced_date": "2026-04-20",
   "session": "2026 Regular Session",
@@ -93,6 +93,21 @@
       "date": "2026-05-13",
       "action": "Rules suspended. Senate floor amendments read and adopted. Read by title, passed by a vote of 26 yeas and 9 nays, and ordered returned to the House. Motion to reconsider tabled.",
       "chamber": "S"
+    },
+    {
+      "date": "2026-05-18",
+      "action": "Received from the Senate with amendments.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-19",
+      "action": "Scheduled for concurrence on 05/20/2026.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-20",
+      "action": "Read by title, roll called, yeas 70, nays 24, Senate amendments concurred in.",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -116,6 +131,13 @@
       "yea": 5,
       "nay": 0,
       "passed": 1
+    },
+    {
+      "date": "2026-05-20",
+      "description": "House Vote on HB 1137 CONCUR IN SENATE AMENDMENTS (#1447)",
+      "yea": 70,
+      "nay": 24,
+      "passed": 1
     }
   ],
   "texts": [
@@ -136,6 +158,12 @@
       "type": "Engrossed",
       "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1463085",
       "doc_id": 3419710
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Enrolled",
+      "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1475456",
+      "doc_id": 3440241
     }
   ],
   "committee": [],

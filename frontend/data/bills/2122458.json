@@ -52,6 +52,21 @@
       "date": "2026-04-22",
       "action": "PRINT NUMBER 9275A",
       "chamber": "S"
+    },
+    {
+      "date": "2026-05-19",
+      "action": "1ST REPORT CAL.1214",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-20",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-21",
+      "action": "ADVANCED TO THIRD READING",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -60,6 +75,13 @@
       "description": "Senate Health Committee Vote",
       "yea": 9,
       "nay": 5,
+      "passed": 1
+    },
+    {
+      "date": "2026-05-19",
+      "description": "Senate Finance Committee Vote",
+      "yea": 14,
+      "nay": 6,
       "passed": 1
     }
   ],
@@ -77,11 +99,6 @@
       "doc_id": 3423865
     }
   ],
-  "committee": {
-    "committee_id": 428,
-    "chamber": "S",
-    "chamber_id": 74,
-    "name": "Finance"
-  },
+  "committee": [],
   "subjects": []
 }

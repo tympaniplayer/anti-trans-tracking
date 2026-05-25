@@ -5,9 +5,9 @@
   "bill_number": "S09764",
   "title": "Provides that the judge shall not prohibit a parent from undergoing gender reassignment.",
   "summary": "Provides that the judge shall not prohibit a parent from undergoing gender reassignment.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
   "categories": [
     "identity_documents"
   ],
@@ -28,7 +28,7 @@
     "Rachel May (D) [Sen]",
     "Julia Salazar (D) [Sen]"
   ],
-  "introduced_date": "2026-04-06",
+  "introduced_date": "2026-05-19",
   "session": "2025-2026 General Assembly",
   "actions": [
     {
@@ -50,9 +50,39 @@
       "date": "2026-04-27",
       "action": "ADVANCED TO THIRD READING",
       "chamber": "S"
+    },
+    {
+      "date": "2026-05-19",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-19",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-19",
+      "action": "referred to judiciary",
+      "chamber": "A"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-04-21",
+      "description": "Senate Children And Families Committee Vote",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-05-19",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 43,
+      "nay": 16,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2026-04-06",
@@ -61,6 +91,11 @@
       "doc_id": 3411833
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 373,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Judiciary"
+  },
   "subjects": []
 }

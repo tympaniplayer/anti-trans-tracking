@@ -1,0 +1,59 @@
+{
+  "id": 2150471,
+  "state": "LA",
+  "state_name": "Louisiana",
+  "bill_number": "HR290",
+  "title": "Requests the Louisiana Department of Health to study the effects of gender affirming therapy on mental health",
+  "summary": "Requests the Louisiana Department of Health to study the effects of gender affirming therapy on mental health",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/LA/bill/HR290/2026",
+  "legiscan_url": "https://legiscan.com/LA/bill/HR290/2026",
+  "state_url": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HR290&sbi=y",
+  "sponsors": [
+    "Jessica Domangue (R) [Rep]"
+  ],
+  "introduced_date": "2026-05-18",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-05-18",
+      "action": "Read by title. Lies over under the rules.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-19",
+      "action": "Read by title, under the rules, referred to the Committee on Health and Welfare.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Introduced",
+      "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1473238",
+      "doc_id": 3437710
+    }
+  ],
+  "committee": {
+    "committee_id": 1171,
+    "chamber": "H",
+    "chamber_id": 45,
+    "name": "Health and Welfare"
+  },
+  "subjects": [
+    "HEALTH"
+  ]
+}

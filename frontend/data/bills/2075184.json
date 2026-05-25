@@ -33,9 +33,22 @@
       "date": "2026-01-13",
       "action": "Introduced in the Senate, Referred to Senate State Government, Wagering, Tourism & Historic Preservation Committee",
       "chamber": "S"
+    },
+    {
+      "date": "2026-05-21",
+      "action": "Reported from Senate Committee, 2nd Reading",
+      "chamber": "S"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-05-21",
+      "description": "Senate State Government, Wagering, Tourism & Historic Preservation Committee: Reported Favorably",
+      "yea": 4,
+      "nay": 1,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2026-01-07",
@@ -44,13 +57,8 @@
       "doc_id": 3312214
     }
   ],
-  "committee": {
-    "committee_id": 886,
-    "chamber": "S",
-    "chamber_id": 70,
-    "name": "State Government, Wagering, Tourism & Historic Preservation"
-  },
+  "committee": [],
   "subjects": [
-    "State Government, Wagering, Tourism & Historic Preservation"
+    "2nd Reading in the Senate"
   ]
 }

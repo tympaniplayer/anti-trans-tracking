@@ -4,15 +4,13 @@
   "state_name": "Tennessee",
   "bill_number": "HB1271",
   "title": "AN ACT to amend Tennessee Code Annotated, Title 1; Title 3; Title 4; Title 5; Title 6; Title 7 and Title 8, relative to biological sex.",
-  "summary": "As introduced, declares that the policy of this state is that there are only two sexes, a biological male and a biological female. - Amends TCA Title 1; Title 3; Title 4; Title 5; Title 6; Title 7 and Title 8.",
+  "summary": "As enacted, requires each governmental entity to revise any existing ordinance, resolution, rule, policy, and procedure that includes a reference to a natural person's sex or gender to state that those terms are defined as the immutable characteristics of the person's reproductive system that identify the person as male or female, as determined by anatomy and genetics testing at the time of birth; makes related changes. - Amends TCA Title 1; Title 3; Title 4; Title 5; Title 6; Title 7 and Title 8.",
   "status": "signed_into_law",
   "status_label": "Passed",
   "status_code": 4,
   "categories": [
     "definitions",
-    "identity_documents",
-    "healthcare",
-    "education"
+    "identity_documents"
   ],
   "primary_category": "definitions",
   "sentiment": "restrictive",

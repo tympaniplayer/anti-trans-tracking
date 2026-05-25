@@ -5,9 +5,9 @@
   "bill_number": "SB934",
   "title": "Sexual orientation or gender identity change efforts: actions for recovery of damages: statute of limitations.",
   "summary": "An act to add Section 340.12 to the Code of Civil Procedure, relating to civil actions.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
   "categories": [
     "healthcare",
     "identity_documents"
@@ -46,7 +46,7 @@
     "Lori Wilson (D) [Rep]",
     "Rick Zbur (D) [Rep]"
   ],
-  "introduced_date": "2026-01-29",
+  "introduced_date": "2026-05-19",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -108,6 +108,21 @@
       "date": "2026-05-14",
       "action": "Read second time and amended. Ordered to second reading.",
       "chamber": "S"
+    },
+    {
+      "date": "2026-05-18",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-19",
+      "action": "Read third time. Passed. (Ayes 30. Noes 9.) Ordered to the Assembly.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-20",
+      "action": "In Assembly. Read first time. Held at Desk.",
+      "chamber": "A"
     }
   ],
   "votes": [
@@ -130,6 +145,13 @@
       "description": "Do pass as amended",
       "yea": 5,
       "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-05-19",
+      "description": "Senate 3rd Reading SB934 Wiener et al",
+      "yea": 30,
+      "nay": 9,
       "passed": 1
     }
   ],

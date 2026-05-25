@@ -116,6 +116,11 @@
       "date": "2026-04-16",
       "action": "Ought to Pass with Amendment # 2026-1384s, Regular Calendar 15Y-8N, Motion Adopted; OT3rdg; 04/16/2026; Senate Journal 9",
       "chamber": "S"
+    },
+    {
+      "date": "2026-05-21",
+      "action": "House Concurs with Senate Amendment 2026-1384s (Rep. Lynn): Motion Adopted Regular Calendar 184-155 05/21/2026 House Journal  14",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -152,6 +157,13 @@
       "description": "Ought to Pass w/Amendment",
       "yea": 15,
       "nay": 8,
+      "passed": 1
+    },
+    {
+      "date": "2026-05-21",
+      "description": "Concur",
+      "yea": 184,
+      "nay": 155,
       "passed": 1
     }
   ],

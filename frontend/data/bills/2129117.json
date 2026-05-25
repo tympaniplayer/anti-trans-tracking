@@ -145,6 +145,21 @@
       "date": "2026-05-07",
       "action": "House Considered Senate Amendments - Result was to Concur - Repass",
       "chamber": "H"
+    },
+    {
+      "date": "2026-05-21",
+      "action": "Signed by the Speaker of the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-21",
+      "action": "Signed by the President of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-21",
+      "action": "Sent to the Governor",
+      "chamber": ""
     }
   ],
   "votes": [
@@ -249,6 +264,12 @@
       "type": "Amended",
       "url": "https://leg.colorado.gov/bill_files/115777/download",
       "doc_id": 3431622
+    },
+    {
+      "date": "1969-12-31",
+      "type": "Enrolled",
+      "url": "https://leg.colorado.gov/bill_files/116598/download",
+      "doc_id": 3440052
     }
   ],
   "committee": [],
