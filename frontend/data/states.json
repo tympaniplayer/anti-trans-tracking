@@ -44,7 +44,8 @@
       "sports": 2
     },
     "by_status": {
-      "introduced": 24
+      "introduced": 23,
+      "passed_one_chamber": 1
     },
     "by_sentiment": {
       "protective": 20,
@@ -54,21 +55,21 @@
   "NY": {
     "state": "NY",
     "state_name": "New York",
-    "total": 54,
+    "total": 53,
     "by_category": {
       "other": 12,
       "education": 13,
       "identity_documents": 5,
-      "healthcare": 22,
+      "healthcare": 21,
       "bathrooms": 2
     },
     "by_status": {
-      "introduced": 50,
+      "introduced": 49,
       "signed_into_law": 1,
       "passed_one_chamber": 3
     },
     "by_sentiment": {
-      "protective": 52,
+      "protective": 51,
       "restrictive": 2
     }
   },
@@ -89,6 +90,22 @@
       "restrictive": 1
     }
   },
+  "ND": {
+    "state": "ND",
+    "state_name": "North Dakota",
+    "total": 2,
+    "by_category": {
+      "bathrooms": 1,
+      "sports": 1
+    },
+    "by_status": {
+      "signed_into_law": 1,
+      "introduced": 1
+    },
+    "by_sentiment": {
+      "restrictive": 2
+    }
+  },
   "TN": {
     "state": "TN",
     "state_name": "Tennessee",
@@ -107,22 +124,6 @@
     "by_sentiment": {
       "protective": 1,
       "restrictive": 6
-    }
-  },
-  "ND": {
-    "state": "ND",
-    "state_name": "North Dakota",
-    "total": 2,
-    "by_category": {
-      "bathrooms": 1,
-      "sports": 1
-    },
-    "by_status": {
-      "signed_into_law": 1,
-      "introduced": 1
-    },
-    "by_sentiment": {
-      "restrictive": 2
     }
   },
   "UT": {
@@ -160,6 +161,28 @@
       "restrictive": 2
     }
   },
+  "CA": {
+    "state": "CA",
+    "state_name": "California",
+    "total": 7,
+    "by_category": {
+      "healthcare": 4,
+      "education": 1,
+      "identity_documents": 1,
+      "bathrooms": 1
+    },
+    "by_status": {
+      "signed_into_law": 1,
+      "dead": 1,
+      "passed_one_chamber": 3,
+      "vetoed": 1,
+      "introduced": 1
+    },
+    "by_sentiment": {
+      "protective": 5,
+      "restrictive": 2
+    }
+  },
   "NE": {
     "state": "NE",
     "state_name": "Nebraska",
@@ -174,28 +197,6 @@
     "by_sentiment": {
       "neutral": 1,
       "protective": 1,
-      "restrictive": 2
-    }
-  },
-  "CA": {
-    "state": "CA",
-    "state_name": "California",
-    "total": 7,
-    "by_category": {
-      "healthcare": 4,
-      "education": 1,
-      "identity_documents": 1,
-      "bathrooms": 1
-    },
-    "by_status": {
-      "signed_into_law": 1,
-      "dead": 1,
-      "introduced": 3,
-      "vetoed": 1,
-      "passed_one_chamber": 1
-    },
-    "by_sentiment": {
-      "protective": 5,
       "restrictive": 2
     }
   },
@@ -248,8 +249,8 @@
       "definitions": 9,
       "education": 13,
       "healthcare": 13,
-      "sports": 3,
-      "bathrooms": 4
+      "bathrooms": 4,
+      "sports": 3
     },
     "by_status": {
       "introduced": 55,
@@ -602,7 +603,7 @@
     },
     "by_status": {
       "introduced": 2,
-      "passed_one_chamber": 1
+      "passed_both_chambers": 1
     },
     "by_sentiment": {
       "protective": 1,

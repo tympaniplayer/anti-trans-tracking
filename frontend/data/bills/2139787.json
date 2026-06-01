@@ -5,9 +5,9 @@
   "bill_number": "HB1137",
   "title": "Prohibits intentional discrimination based on compelled speech with respect to using certain pronouns, names, or honorifics",
   "summary": "Prohibits intentional discrimination based on compelled speech with respect to using certain pronouns, names, or honorifics",
-  "status": "passed_one_chamber",
-  "status_label": "Engrossed",
-  "status_code": 2,
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
   "categories": [
     "definitions",
     "other"
@@ -31,7 +31,7 @@
     "John Morris (R) [Sen]",
     "Alan Seabaugh (R) [Sen]"
   ],
-  "introduced_date": "2026-04-20",
+  "introduced_date": "2026-05-25",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -107,6 +107,21 @@
     {
       "date": "2026-05-20",
       "action": "Read by title, roll called, yeas 70, nays 24, Senate amendments concurred in.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-25",
+      "action": "Enrolled and signed by the Speaker of the House.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-25",
+      "action": "Signed by the President of the Senate.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-26",
+      "action": "Sent to the Governor for executive approval.",
       "chamber": "H"
     }
   ],

@@ -56,6 +56,16 @@
       "date": "2026-01-07",
       "action": "referred to higher education",
       "chamber": "A"
+    },
+    {
+      "date": "2026-05-28",
+      "action": "amend (t) and recommit to higher education",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-28",
+      "action": "print number 6927a",
+      "chamber": "A"
     }
   ],
   "votes": [],
@@ -65,6 +75,12 @@
       "type": "Introduced",
       "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06927&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06927",
       "doc_id": 3179762
+    },
+    {
+      "date": "2025-03-18",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A06927&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A06927A",
+      "doc_id": 3442655
     }
   ],
   "committee": {

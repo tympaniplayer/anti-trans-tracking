@@ -517,7 +517,8 @@
       "Nikki Budzinski (D) [Rep]",
       "Seth Magaziner (D) [Rep]",
       "George Latimer (D) [Rep]",
-      "Julie Johnson (D) [Rep]"
+      "Julie Johnson (D) [Rep]",
+      "Analilia Mejia (D) [Rep]"
     ],
     "introduced_date": "2026-02-11",
     "session": "119th Congress"
@@ -984,37 +985,6 @@
     "session": "119th Congress"
   },
   {
-    "id": 2139645,
-    "state": "TN",
-    "state_name": "Tennessee",
-    "bill_number": "HJR1253",
-    "title": "A RESOLUTION to honor Transgender Day of Visibility and the resilience, contributions, and dignity of the transgender community in Tennessee.",
-    "summary": "Transgender Day of Visibility",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/TN/bill/HJR1253/2025",
-    "legiscan_url": "https://legiscan.com/TN/bill/HJR1253/2025",
-    "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HJR1253&ga=114",
-    "sponsors": [
-      "Aftyn Behn (D) [Rep]",
-      "Gabby Salinas (D) [Rep]",
-      "Justin Pearson (D) [Rep]"
-    ],
-    "introduced_date": "2026-03-31",
-    "session": "114th General Assembly"
-  },
-  {
     "id": 1904673,
     "state": "ND",
     "state_name": "North Dakota",
@@ -1052,6 +1022,37 @@
     ],
     "introduced_date": "2025-05-02",
     "session": "69th Legislative Assembly"
+  },
+  {
+    "id": 2139645,
+    "state": "TN",
+    "state_name": "Tennessee",
+    "bill_number": "HJR1253",
+    "title": "A RESOLUTION to honor Transgender Day of Visibility and the resilience, contributions, and dignity of the transgender community in Tennessee.",
+    "summary": "Transgender Day of Visibility",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/TN/bill/HJR1253/2025",
+    "legiscan_url": "https://legiscan.com/TN/bill/HJR1253/2025",
+    "state_url": "https://wapp.capitol.tn.gov/apps/Billinfo/Default?BillNumber=HJR1253&ga=114",
+    "sponsors": [
+      "Aftyn Behn (D) [Rep]",
+      "Gabby Salinas (D) [Rep]",
+      "Justin Pearson (D) [Rep]"
+    ],
+    "introduced_date": "2026-03-31",
+    "session": "114th General Assembly"
   },
   {
     "id": 2069138,
@@ -1154,36 +1155,6 @@
     "session": "2025-2026 Regular Session"
   },
   {
-    "id": 1934460,
-    "state": "NE",
-    "state_name": "Nebraska",
-    "bill_number": "LB605",
-    "title": "Require each school board to adopt a policy relating to transgender student participation in extracurricular activities sponsored by a school or an athletics or activities association",
-    "summary": "Require each school board to adopt a policy relating to transgender student participation in extracurricular activities sponsored by a school or an athletics or activities association",
-    "status": "dead",
-    "status_label": "Failed",
-    "status_code": 6,
-    "categories": [
-      "sports",
-      "education"
-    ],
-    "primary_category": "sports",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NE/bill/LB605/2025",
-    "legiscan_url": "https://legiscan.com/NE/bill/LB605/2025",
-    "state_url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59468",
-    "sponsors": [
-      "Jane Raybould (N) [Sen]"
-    ],
-    "introduced_date": "2025-03-13",
-    "session": "109th Legislature"
-  },
-  {
     "id": 1980384,
     "state": "CA",
     "state_name": "California",
@@ -1213,6 +1184,36 @@
     ],
     "introduced_date": "2025-10-13",
     "session": "2025-2026 Regular Session"
+  },
+  {
+    "id": 1934460,
+    "state": "NE",
+    "state_name": "Nebraska",
+    "bill_number": "LB605",
+    "title": "Require each school board to adopt a policy relating to transgender student participation in extracurricular activities sponsored by a school or an athletics or activities association",
+    "summary": "Require each school board to adopt a policy relating to transgender student participation in extracurricular activities sponsored by a school or an athletics or activities association",
+    "status": "dead",
+    "status_label": "Failed",
+    "status_code": 6,
+    "categories": [
+      "sports",
+      "education"
+    ],
+    "primary_category": "sports",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NE/bill/LB605/2025",
+    "legiscan_url": "https://legiscan.com/NE/bill/LB605/2025",
+    "state_url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59468",
+    "sponsors": [
+      "Jane Raybould (N) [Sen]"
+    ],
+    "introduced_date": "2025-03-13",
+    "session": "109th Legislature"
   },
   {
     "id": 1997724,
@@ -2219,9 +2220,9 @@
     "bill_number": "SB1114",
     "title": "Data collection: sexual orientation, gender identity, and intersex status: disclosure.",
     "summary": "An act to amend Sections 44230.6 and 66027 of the Education Code, to amend Section 8310.8 of, and to add Section 8310.8.5 to, the Government Code, and to amend Section 1808 of the Vehicle Code, relating to data collection.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
+    "status": "passed_one_chamber",
+    "status_label": "Engrossed",
+    "status_code": 2,
     "categories": [
       "identity_documents",
       "education",
@@ -2241,7 +2242,7 @@
       "Christopher Cabaldon (D) [Sen]",
       "Rick Zbur (D) [Rep]"
     ],
-    "introduced_date": "2026-02-17",
+    "introduced_date": "2026-05-26",
     "session": "2025-2026 Regular Session"
   },
   {
@@ -2636,9 +2637,9 @@
     "bill_number": "AB1540",
     "title": "988 Suicide & Crisis Lifeline: LGBTQ+ youth.",
     "summary": "An act to add Section 53123.7 to the Government Code, relating to mental health, and declaring the urgency thereof, to take effect immediately.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
+    "status": "passed_one_chamber",
+    "status_label": "Engrossed",
+    "status_code": 2,
     "categories": [
       "healthcare"
     ],
@@ -2677,7 +2678,7 @@
       "Scott Wiener (D) [Sen]",
       "Rick Zbur (D) [Rep]"
     ],
-    "introduced_date": "2026-01-05",
+    "introduced_date": "2026-05-27",
     "session": "2025-2026 Regular Session"
   },
   {
@@ -3287,9 +3288,9 @@
     "bill_number": "S2953",
     "title": "Establishes \"LGBTQIA+ Pride Month\" in New Jersey.",
     "summary": "Establishes \"LGBTQIA+ Pride Month\" in New Jersey.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
+    "status": "passed_one_chamber",
+    "status_label": "Engrossed",
+    "status_code": 2,
     "categories": [
       "other"
     ],
@@ -3306,9 +3307,12 @@
     "sponsors": [
       "Raj Mukherji (D) [Rep]",
       "Vin Gopal (D) [Sen]",
-      "Angela Mcknight (D) [Rep]"
+      "Angela Mcknight (D) [Rep]",
+      "Patrick Diegnan (D) [Rep]",
+      "Linda Greenstein (D) [Rep]",
+      "Teresa Ruiz (D) [Rep]"
     ],
-    "introduced_date": "2026-01-13",
+    "introduced_date": "2026-05-28",
     "session": "2026-2027 Regular Session"
   },
   {
@@ -3750,6 +3754,41 @@
     "session": "2025-2026 General Assembly"
   },
   {
+    "id": 2122458,
+    "state": "NY",
+    "state_name": "New York",
+    "bill_number": "S09275",
+    "title": "Requires Medicaid to cover gender-affirming care regardless of federal funding; prohibits discriminatory practices by health care entities including hospitals, certain professionals, and insurers; requires insurance coverage for services or treatments for gender dysphoria or gender incongruence.",
+    "summary": "Requires Medicaid to cover gender-affirming care regardless of federal funding; prohibits discriminatory practices by health care entities including hospitals, certain professionals, and insurers; requires insurance coverage for services or treatments for gender dysphoria or gender incongruence.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NY/bill/S09275/2025",
+    "legiscan_url": "https://legiscan.com/NY/bill/S09275/2025",
+    "state_url": "https://www.nysenate.gov/legislation/bills/2025/S9275",
+    "sponsors": [
+      "Gustavo Rivera (D) [Sen]",
+      "Erik Bottcher (D) [Sen]",
+      "Kristen Gonzalez (D) [Sen]",
+      "Peter Harckham (D) [Sen]",
+      "Robert Jackson (D) [Sen]",
+      "Lea Webb (D) [Sen]",
+      "Jeremy Zellner (D) [Sen]"
+    ],
+    "introduced_date": "2026-02-23",
+    "session": "2025-2026 General Assembly"
+  },
+  {
     "id": 1984943,
     "state": "TX",
     "state_name": "Texas",
@@ -4075,41 +4114,6 @@
     ],
     "introduced_date": "2026-01-13",
     "session": "2026-2027 Regular Session"
-  },
-  {
-    "id": 2122458,
-    "state": "NY",
-    "state_name": "New York",
-    "bill_number": "S09275",
-    "title": "Requires Medicaid to cover gender-affirming care regardless of federal funding; prohibits discriminatory practices by health care entities including hospitals, certain professionals, and insurers; requires insurance coverage for services or treatments for gender dysphoria or gender incongruence.",
-    "summary": "Requires Medicaid to cover gender-affirming care regardless of federal funding; prohibits discriminatory practices by health care entities including hospitals, certain professionals, and insurers; requires insurance coverage for services or treatments for gender dysphoria or gender incongruence.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NY/bill/S09275/2025",
-    "legiscan_url": "https://legiscan.com/NY/bill/S09275/2025",
-    "state_url": "https://www.nysenate.gov/legislation/bills/2025/S9275",
-    "sponsors": [
-      "Gustavo Rivera (D) [Sen]",
-      "Erik Bottcher (D) [Sen]",
-      "Kristen Gonzalez (D) [Sen]",
-      "Peter Harckham (D) [Sen]",
-      "Robert Jackson (D) [Sen]",
-      "Lea Webb (D) [Sen]",
-      "Jeremy Zellner (D) [Sen]"
-    ],
-    "introduced_date": "2026-02-23",
-    "session": "2025-2026 General Assembly"
   },
   {
     "id": 1900683,
@@ -8663,77 +8667,6 @@
     "session": "2025-2026 Regular Session"
   },
   {
-    "id": 1959236,
-    "state": "VT",
-    "state_name": "Vermont",
-    "bill_number": "H0169",
-    "title": "An act relating to amending the prohibitions against discrimination in public accommodations and housing",
-    "summary": "An act relating to amending the prohibitions against discrimination in public accommodations and housing",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/VT/bill/H0169/2025",
-    "legiscan_url": "https://legiscan.com/VT/bill/H0169/2025",
-    "state_url": "https://legislature.vermont.gov/bill/status/2026/H.169",
-    "sponsors": [
-      "Leonora Dodge (D) [Rep]",
-      "Kevin Christie (D) [Rep]",
-      "Esme Cole (D) [Rep]",
-      "Angela Arsenault (D) [Rep]",
-      "John Bartholomew (D) [Rep]",
-      "Daisy Berbeco (D) [Rep]",
-      "Tiffany Bluemle (D) [Rep]",
-      "Michelle Bos-Lun (D) [Rep]",
-      "Mollie Burke (D) [Rep]",
-      "Emily Carris-Duncan (D) [Rep]",
-      "Conor Casey (D) [Rep]",
-      "Ela Chapin (D) [Rep]",
-      "Thomas Charlton (R) [Rep]",
-      "Brian Cina (D) [Rep]",
-      "Mari Cordes (D) [Rep]",
-      "Abbey Duke (D) [Rep]",
-      "Ian Goodnow (D) [Rep]",
-      "Leanne Harple (D) [Rep]",
-      "Troy Headrick (I) [Rep]",
-      "Philip Hooper (D) [Rep]",
-      "Robert Hooper (D) [Rep]",
-      "Mary Howard (D) [Rep]",
-      "Chris Keyser (R) [Rep]",
-      "Emilie Krasnow (D) [Rep]",
-      "Saudia Lamont (D) [Rep]",
-      "Kate Logan (D) [Rep]",
-      "James Masland (D) [Rep]",
-      "Kate McCann (D) [Rep]",
-      "Jubilee McGill (D) [Rep]",
-      "Brian Minier (D) [Rep]",
-      "Michael Mrowicki (D) [Rep]",
-      "Herb Olson (D) [Rep]",
-      "Gayle Pezzo (D) [Rep]",
-      "Phil Pouech (D) [Rep]",
-      "Monique Priestley (D) [Rep]",
-      "Barbara Rachelson (D) [Rep]",
-      "Laura Sibilia (I) [Rep]",
-      "Heather Surprenant (D) [Rep]",
-      "Shawn Sweeney (D) [Rep]",
-      "Chloe Tomlinson (D) [Rep]",
-      "Dara Torre (D) [Rep]",
-      "Edward Waszazak (D) [Rep]",
-      "Chea Evans (D) [Rep]"
-    ],
-    "introduced_date": "2025-02-07",
-    "session": "2025-2026 Session"
-  },
-  {
     "id": 1890436,
     "state": "TX",
     "state_name": "Texas",
@@ -8805,6 +8738,110 @@
     "session": "89th Legislature Regular Session"
   },
   {
+    "id": 1959236,
+    "state": "VT",
+    "state_name": "Vermont",
+    "bill_number": "H0169",
+    "title": "An act relating to amending the prohibitions against discrimination in public accommodations and housing",
+    "summary": "An act relating to amending the prohibitions against discrimination in public accommodations and housing",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/VT/bill/H0169/2025",
+    "legiscan_url": "https://legiscan.com/VT/bill/H0169/2025",
+    "state_url": "https://legislature.vermont.gov/bill/status/2026/H.169",
+    "sponsors": [
+      "Leonora Dodge (D) [Rep]",
+      "Kevin Christie (D) [Rep]",
+      "Esme Cole (D) [Rep]",
+      "Angela Arsenault (D) [Rep]",
+      "John Bartholomew (D) [Rep]",
+      "Daisy Berbeco (D) [Rep]",
+      "Tiffany Bluemle (D) [Rep]",
+      "Michelle Bos-Lun (D) [Rep]",
+      "Mollie Burke (D) [Rep]",
+      "Emily Carris-Duncan (D) [Rep]",
+      "Conor Casey (D) [Rep]",
+      "Ela Chapin (D) [Rep]",
+      "Thomas Charlton (R) [Rep]",
+      "Brian Cina (D) [Rep]",
+      "Mari Cordes (D) [Rep]",
+      "Abbey Duke (D) [Rep]",
+      "Ian Goodnow (D) [Rep]",
+      "Leanne Harple (D) [Rep]",
+      "Troy Headrick (I) [Rep]",
+      "Philip Hooper (D) [Rep]",
+      "Robert Hooper (D) [Rep]",
+      "Mary Howard (D) [Rep]",
+      "Chris Keyser (R) [Rep]",
+      "Emilie Krasnow (D) [Rep]",
+      "Saudia Lamont (D) [Rep]",
+      "Kate Logan (D) [Rep]",
+      "James Masland (D) [Rep]",
+      "Kate McCann (D) [Rep]",
+      "Jubilee McGill (D) [Rep]",
+      "Brian Minier (D) [Rep]",
+      "Michael Mrowicki (D) [Rep]",
+      "Herb Olson (D) [Rep]",
+      "Gayle Pezzo (D) [Rep]",
+      "Phil Pouech (D) [Rep]",
+      "Monique Priestley (D) [Rep]",
+      "Barbara Rachelson (D) [Rep]",
+      "Laura Sibilia (I) [Rep]",
+      "Heather Surprenant (D) [Rep]",
+      "Shawn Sweeney (D) [Rep]",
+      "Chloe Tomlinson (D) [Rep]",
+      "Dara Torre (D) [Rep]",
+      "Edward Waszazak (D) [Rep]",
+      "Chea Evans (D) [Rep]"
+    ],
+    "introduced_date": "2025-02-07",
+    "session": "2025-2026 Session"
+  },
+  {
+    "id": 2048168,
+    "state": "OK",
+    "state_name": "Oklahoma",
+    "bill_number": "HB1225",
+    "title": "Vital records; requiring certificates of birth to contain accurate biological sex designations; clarifying certain requirement and prohibitions; emergency.",
+    "summary": "Vital records; requiring certificates of birth to contain accurate biological sex designations; clarifying certain requirement and prohibitions; emergency.",
+    "status": "signed_into_law",
+    "status_label": "Passed",
+    "status_code": 4,
+    "categories": [
+      "identity_documents",
+      "definitions"
+    ],
+    "primary_category": "identity_documents",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/OK/bill/HB1225/2026",
+    "legiscan_url": "https://legiscan.com/OK/bill/HB1225/2026",
+    "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb1225&Session=2600",
+    "sponsors": [
+      "Kevin West (R) [Rep]",
+      "Micheal Bergstrom (R) [Sen]",
+      "Gabe Woolley (R) [Rep]",
+      "George Burns (R) [Sen]"
+    ],
+    "introduced_date": "2026-05-11",
+    "session": "2026 Regular Session"
+  },
+  {
     "id": 2056337,
     "state": "FL",
     "state_name": "Florida",
@@ -8841,39 +8878,6 @@
       "Kim Kendall (R) [Rep]"
     ],
     "introduced_date": "2025-12-03",
-    "session": "2026 Regular Session"
-  },
-  {
-    "id": 2048168,
-    "state": "OK",
-    "state_name": "Oklahoma",
-    "bill_number": "HB1225",
-    "title": "Vital records; requiring certificates of birth to contain accurate biological sex designations; clarifying certain requirement and prohibitions; emergency.",
-    "summary": "Vital records; requiring certificates of birth to contain accurate biological sex designations; clarifying certain requirement and prohibitions; emergency.",
-    "status": "signed_into_law",
-    "status_label": "Passed",
-    "status_code": 4,
-    "categories": [
-      "identity_documents",
-      "definitions"
-    ],
-    "primary_category": "identity_documents",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/OK/bill/HB1225/2026",
-    "legiscan_url": "https://legiscan.com/OK/bill/HB1225/2026",
-    "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb1225&Session=2600",
-    "sponsors": [
-      "Kevin West (R) [Rep]",
-      "Micheal Bergstrom (R) [Sen]",
-      "Gabe Woolley (R) [Rep]",
-      "George Burns (R) [Sen]"
-    ],
-    "introduced_date": "2026-05-11",
     "session": "2026 Regular Session"
   },
   {
@@ -8971,6 +8975,37 @@
     "session": "2026 Regular Session"
   },
   {
+    "id": 2069794,
+    "state": "FL",
+    "state_name": "Florida",
+    "bill_number": "S1642",
+    "title": "Gender Identity Employment Practices",
+    "summary": "Citing this act as the \"Freedom of Conscience in the Workplace Act\"; specifying an employment policy of this state relating to a person's sex; providing applicability; prohibiting employees and contractors of certain employers from being required to use certain pronouns or requiring such employers to use a pronoun that does not correspond to the employee's or contractor's sex; prohibiting the inclusion on certain forms of specified options relating to an applicant's sex; providing that it is an unlawful employment practice for certain employers to require certain training, instruction, or activity as a condition of employment, etc.",
+    "status": "dead",
+    "status_label": "Failed",
+    "status_code": 6,
+    "categories": [
+      "definitions",
+      "identity_documents"
+    ],
+    "primary_category": "definitions",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/FL/bill/S1642/2026",
+    "legiscan_url": "https://legiscan.com/FL/bill/S1642/2026",
+    "state_url": "https://www.flsenate.gov/Session/Bill/2026/1642",
+    "sponsors": [
+      "Governmental Oversight and Accountability [Sen]",
+      "Stan McClain (R) [Sen]"
+    ],
+    "introduced_date": "2026-03-13",
+    "session": "2026 Regular Session"
+  },
+  {
     "id": 1975088,
     "state": "VT",
     "state_name": "Vermont",
@@ -9038,37 +9073,6 @@
     ],
     "introduced_date": "2025-03-11",
     "session": "2025-2026 Session"
-  },
-  {
-    "id": 2069794,
-    "state": "FL",
-    "state_name": "Florida",
-    "bill_number": "S1642",
-    "title": "Gender Identity Employment Practices",
-    "summary": "Citing this act as the \"Freedom of Conscience in the Workplace Act\"; specifying an employment policy of this state relating to a person's sex; providing applicability; prohibiting employees and contractors of certain employers from being required to use certain pronouns or requiring such employers to use a pronoun that does not correspond to the employee's or contractor's sex; prohibiting the inclusion on certain forms of specified options relating to an applicant's sex; providing that it is an unlawful employment practice for certain employers to require certain training, instruction, or activity as a condition of employment, etc.",
-    "status": "dead",
-    "status_label": "Failed",
-    "status_code": 6,
-    "categories": [
-      "definitions",
-      "identity_documents"
-    ],
-    "primary_category": "definitions",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/FL/bill/S1642/2026",
-    "legiscan_url": "https://legiscan.com/FL/bill/S1642/2026",
-    "state_url": "https://www.flsenate.gov/Session/Bill/2026/1642",
-    "sponsors": [
-      "Governmental Oversight and Accountability [Sen]",
-      "Stan McClain (R) [Sen]"
-    ],
-    "introduced_date": "2026-03-13",
-    "session": "2026 Regular Session"
   },
   {
     "id": 1908771,
@@ -10203,36 +10207,6 @@
     "session": "104th General Assembly"
   },
   {
-    "id": 2118265,
-    "state": "WV",
-    "state_name": "West Virginia",
-    "bill_number": "HB5674",
-    "title": "Prohibiting civil rights violations based on disability, gender identity or sexual orientation",
-    "summary": "The purpose of this bill is to prohibit civil rights violations based on disability gender identity, or sexual orientation. The bill provides that evidence of constitutionally protected speech or associations is not admissible in criminal prosecutions except in certain situations. The bill provides for sentencing alternatives for persons convicted of violations. And, the amendments to this section are to be known as \"Angel's Law\".",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "definitions",
-      "other"
-    ],
-    "primary_category": "definitions",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/WV/bill/HB5674/2026",
-    "legiscan_url": "https://legiscan.com/WV/bill/HB5674/2026",
-    "state_url": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5674&year=2026&sessiontype=RS&btype=bill",
-    "sponsors": [
-      "John Williams (D) [Rep]"
-    ],
-    "introduced_date": "2026-02-17",
-    "session": "2026 Regular Session"
-  },
-  {
     "id": 2064502,
     "state": "NH",
     "state_name": "New Hampshire",
@@ -10259,6 +10233,36 @@
     "sponsors": [
       "Kevin Avard (R) [Sen]",
       "Timothy Lang (R) [Sen]"
+    ],
+    "introduced_date": "2026-02-17",
+    "session": "2026 Regular Session"
+  },
+  {
+    "id": 2118265,
+    "state": "WV",
+    "state_name": "West Virginia",
+    "bill_number": "HB5674",
+    "title": "Prohibiting civil rights violations based on disability, gender identity or sexual orientation",
+    "summary": "The purpose of this bill is to prohibit civil rights violations based on disability gender identity, or sexual orientation. The bill provides that evidence of constitutionally protected speech or associations is not admissible in criminal prosecutions except in certain situations. The bill provides for sentencing alternatives for persons convicted of violations. And, the amendments to this section are to be known as \"Angel's Law\".",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "definitions",
+      "other"
+    ],
+    "primary_category": "definitions",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/WV/bill/HB5674/2026",
+    "legiscan_url": "https://legiscan.com/WV/bill/HB5674/2026",
+    "state_url": "http://www.wvlegislature.gov/Bill_Status/Bills_history.cfm?input=5674&year=2026&sessiontype=RS&btype=bill",
+    "sponsors": [
+      "John Williams (D) [Rep]"
     ],
     "introduced_date": "2026-02-17",
     "session": "2026 Regular Session"
@@ -10569,6 +10573,36 @@
     "session": "89th Legislature Regular Session"
   },
   {
+    "id": 2127780,
+    "state": "NJ",
+    "state_name": "New Jersey",
+    "bill_number": "S3796",
+    "title": "Prohibits juror disqualification based on gender identity or sexual orientation; codifies procedures when discriminatory use of peremptory challenges is alleged.",
+    "summary": "Prohibits juror disqualification based on gender identity or sexual orientation; codifies procedures when discriminatory use of peremptory challenges is alleged.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "identity_documents",
+      "other"
+    ],
+    "primary_category": "identity_documents",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NJ/bill/S3796/2026",
+    "legiscan_url": "https://legiscan.com/NJ/bill/S3796/2026",
+    "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S3796",
+    "sponsors": [
+      "Teresa Ruiz (D) [Rep]"
+    ],
+    "introduced_date": "2026-03-05",
+    "session": "2026-2027 Regular Session"
+  },
+  {
     "id": 1895621,
     "state": "SC",
     "state_name": "South Carolina",
@@ -10608,36 +10642,6 @@
     ],
     "introduced_date": "2025-01-14",
     "session": "126th General Assembly"
-  },
-  {
-    "id": 2127780,
-    "state": "NJ",
-    "state_name": "New Jersey",
-    "bill_number": "S3796",
-    "title": "Prohibits juror disqualification based on gender identity or sexual orientation; codifies procedures when discriminatory use of peremptory challenges is alleged.",
-    "summary": "Prohibits juror disqualification based on gender identity or sexual orientation; codifies procedures when discriminatory use of peremptory challenges is alleged.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "identity_documents",
-      "other"
-    ],
-    "primary_category": "identity_documents",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NJ/bill/S3796/2026",
-    "legiscan_url": "https://legiscan.com/NJ/bill/S3796/2026",
-    "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S3796",
-    "sponsors": [
-      "Teresa Ruiz (D) [Rep]"
-    ],
-    "introduced_date": "2026-03-05",
-    "session": "2026-2027 Regular Session"
   },
   {
     "id": 1950031,
@@ -11066,6 +11070,42 @@
     "session": "2025-2026 Regular Session"
   },
   {
+    "id": 2093279,
+    "state": "HI",
+    "state_name": "Hawaii",
+    "bill_number": "SB3024",
+    "title": "Relating To Sex-based Discrimination.",
+    "summary": "Clarifies and strengthens the State's protections against sex-based harassment, sex discrimination, and retaliation that occur in public schools, public charter schools, or at the University of Hawaii, including discrimination based on gender identity or expression, sexual orientation, pregnancy, and pregnancy-related conditions. Establishes procedures for investigations and decision-making. Requires mandatory reporting by certain employees. Requires the Department of the Attorney General to conduct a comprehensive legal review. Effective 7/1/2050. (SD1)",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "education",
+      "definitions"
+    ],
+    "primary_category": "education",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/HI/bill/SB3024/2026",
+    "legiscan_url": "https://legiscan.com/HI/bill/SB3024/2026",
+    "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3024&year=2026",
+    "sponsors": [
+      "Chris Lee (D) [Sen]",
+      "Stanley Chang (D) [Sen]",
+      "Troy Hashimoto (D) [Sen]",
+      "Karl Rhoads (D) [Sen]",
+      "Joy San Buenaventura (D) [Sen]",
+      "Les Ihara (D) [Sen]",
+      "Dru Kanuha (D) [Sen]"
+    ],
+    "introduced_date": "2026-01-23",
+    "session": "2026 Regular Session"
+  },
+  {
     "id": 2091859,
     "state": "IL",
     "state_name": "Illinois",
@@ -11122,46 +11162,11 @@
     "sponsors": [
       "Mary Edly-Allen (D) [Sen]",
       "Rachel Ventura (D) [Sen]",
-      "Lakesia Collins (D) [Sen]"
+      "Lakesia Collins (D) [Sen]",
+      "Mark Walker (D) [Sen]"
     ],
     "introduced_date": "2026-01-29",
     "session": "104th General Assembly"
-  },
-  {
-    "id": 2093279,
-    "state": "HI",
-    "state_name": "Hawaii",
-    "bill_number": "SB3024",
-    "title": "Relating To Sex-based Discrimination.",
-    "summary": "Clarifies and strengthens the State's protections against sex-based harassment, sex discrimination, and retaliation that occur in public schools, public charter schools, or at the University of Hawaii, including discrimination based on gender identity or expression, sexual orientation, pregnancy, and pregnancy-related conditions. Establishes procedures for investigations and decision-making. Requires mandatory reporting by certain employees. Requires the Department of the Attorney General to conduct a comprehensive legal review. Effective 7/1/2050. (SD1)",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "education",
-      "definitions"
-    ],
-    "primary_category": "education",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/HI/bill/SB3024/2026",
-    "legiscan_url": "https://legiscan.com/HI/bill/SB3024/2026",
-    "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3024&year=2026",
-    "sponsors": [
-      "Chris Lee (D) [Sen]",
-      "Stanley Chang (D) [Sen]",
-      "Troy Hashimoto (D) [Sen]",
-      "Karl Rhoads (D) [Sen]",
-      "Joy San Buenaventura (D) [Sen]",
-      "Les Ihara (D) [Sen]",
-      "Dru Kanuha (D) [Sen]"
-    ],
-    "introduced_date": "2026-01-23",
-    "session": "2026 Regular Session"
   },
   {
     "id": 2093269,
@@ -11191,6 +11196,36 @@
     ],
     "introduced_date": "2026-01-27",
     "session": "2026 Regular Session"
+  },
+  {
+    "id": 1937927,
+    "state": "KS",
+    "state_name": "Kansas",
+    "bill_number": "HB2071",
+    "title": "Enacting the help not harm act to restrict the use of state funds to promote gender transitioning, prohibit healthcare providers from providing gender transition whose gender identity is inconsistent with the child's sex, authorize a civil cause of action against healthcare providers for providing such treatments, require professional discipline against a healthcare provider who performs such treatment and prohibit professional liability insurance from covering damages for healthcare providers that provide gender transition treatment to children and adding violation of the act to the definition of unprofessional conduct for physicians.",
+    "summary": "Enacting the help not harm act to restrict the use of state funds to promote gender transitioning, prohibit healthcare providers from providing gender transition whose gender identity is inconsistent with the child's sex, authorize a civil cause of action against healthcare providers for providing such treatments, require professional discipline against a healthcare provider who performs such treatment and prohibit professional liability insurance from covering damages for healthcare providers that provide gender transition treatment to children and adding violation of the act to the definition of unprofessional conduct for physicians.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare",
+      "definitions"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/KS/bill/HB2071/2025",
+    "legiscan_url": "https://legiscan.com/KS/bill/HB2071/2025",
+    "state_url": "https://kslegislature.gov/li/b2025_26/measures/hb2071/",
+    "sponsors": [
+      "Health and Human Services [Rep]"
+    ],
+    "introduced_date": "2025-01-23",
+    "session": "2025-2026 Regular Session"
   },
   {
     "id": 1903061,
@@ -11231,36 +11266,6 @@
     ],
     "introduced_date": "2025-01-08",
     "session": "2025-2026 General Assembly"
-  },
-  {
-    "id": 1937927,
-    "state": "KS",
-    "state_name": "Kansas",
-    "bill_number": "HB2071",
-    "title": "Enacting the help not harm act to restrict the use of state funds to promote gender transitioning, prohibit healthcare providers from providing gender transition whose gender identity is inconsistent with the child's sex, authorize a civil cause of action against healthcare providers for providing such treatments, require professional discipline against a healthcare provider who performs such treatment and prohibit professional liability insurance from covering damages for healthcare providers that provide gender transition treatment to children and adding violation of the act to the definition of unprofessional conduct for physicians.",
-    "summary": "Enacting the help not harm act to restrict the use of state funds to promote gender transitioning, prohibit healthcare providers from providing gender transition whose gender identity is inconsistent with the child's sex, authorize a civil cause of action against healthcare providers for providing such treatments, require professional discipline against a healthcare provider who performs such treatment and prohibit professional liability insurance from covering damages for healthcare providers that provide gender transition treatment to children and adding violation of the act to the definition of unprofessional conduct for physicians.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare",
-      "definitions"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/KS/bill/HB2071/2025",
-    "legiscan_url": "https://legiscan.com/KS/bill/HB2071/2025",
-    "state_url": "https://kslegislature.gov/li/b2025_26/measures/hb2071/",
-    "sponsors": [
-      "Health and Human Services [Rep]"
-    ],
-    "introduced_date": "2025-01-23",
-    "session": "2025-2026 Regular Session"
   },
   {
     "id": 2063731,
@@ -13404,35 +13409,6 @@
     "session": "94th Legislature 2025-2026"
   },
   {
-    "id": 2088662,
-    "state": "NY",
-    "state_name": "New York",
-    "bill_number": "S09007",
-    "title": "Enacts into law major components of legislation necessary to implement the state health and mental hygiene budget for the 2026-2027 state fiscal year; repeals the state Medicaid spending cap and related processes (Part A); extends certain health provisions (Part B); extends certain provisions of law relating to the health care reform act; extends provisions relating to the distribution of pool allocations and graduate medical education; extends provisions relating to health care initiative pool distributions; extends payment provisions for general hospitals; extends provisions relating to assessments on covered lives (Part C); relates to insurance coverage for medical malpractice paid for by funds from the hospital excess liability pool; extends portions of the New York Health Care Reform Act of 1996 (Part D); makes technical corrections and updates (Part F); relates to automated external defibrillators (Part G); enhances requirements for notices of material transactions (Part H); establishes an office of the state medical indemnity fund ombudsperson and a medical indemnity fund advisory panel to advocate for, assist and represent the interests of qualified plaintiffs; relates to the effectiveness of certain provisions relating to payments from the New York state medical indemnity fund (Part I) relates to temporary health care services agencies and protecting individuals engaged to provide health care services by such agencies (Part J); relates to providing approval to operate a mobile integrated and community paramedicine program; extends authorization for the community-based paramedicine demonstration program; authorizes certified nurse practitioners and licensed physicians to prescribe and order a non-patient specific regimen for administering immunizations to an emergency medical services practitioner; extends hospital services outside the facility and into patients' residences (Part K); restores capital rate reductions for nursing homes; adjusts premiums for the Medicaid buy-in for working persons with disabilities (Part L); relates to the definition of healthcare services for purposes of the amount payable for certain services provided to certain eligible persons who are also beneficiaries under part B of title XVII of the federal social security act or are also qualified Medicare beneficiaries; extends the cooling off period for health maintenance organization plan contracts with hospitals from two months to one hundred twenty days (Part M); increases hospital, nursing home and certified home health agency fee-for-service reimbursement rates (Part O); directs the commissioners of the department of health, office of mental health, office for people with developmental disabilities, office of addiction services and supports, office of temporary and disability assistance, office of children and family services and the directors of the state office for the aging and office of victim services to establish a state fiscal year 2026-2027 targeted inflationary increase for projecting for the effects of inflation upon rates of payments, contracts, or any other form of reimbursement for certain programs and services; requires such commissioners and director to provide funding to support a 4% targeted inflationary increase for such programs and services (Part P); relates to integrated behavioral health services programs (Part Q); changes \"substance use\" to substance-related and addictive disorder claims for purposes of the insurance law and public health law (Part R); relates to minimum amounts of certain state aid to the city of New York (Part T); extends government rates for behavioral services and referencing the office of addiction services and supports (Part U); enacts the \"New York affordable drug manufacturing act\" to direct the commissioner of health to enter into partnerships to increase competition for generic prescription drugs (Part V); relates to establishing the \"340B prescription drug anti-discrimination act\"; prohibits pharmaceutical manufacturers and pharmacy benefit managers from discriminating against covered entities and New York state pharmacies based on participation in the drug discount program authorized by section 340B of the federal public health service act (Part W); establishes the New York state abortion clinical training program within the department of health for the purpose of training health care practitioners in the performance of abortion and related reproductive health care services; requires the commissioner of health to submit a report to the governor and the legislature (Part X); expands the purposes of the drug treatment and public education fund to include prevention and recovery programs; requires reporting to be made available on the office of addiction services and supports' website (Part Y); extends for two years the requirement for OPWDD to give a 90-day notice to the Senate, Assembly, and labor organizations of any closures or transfer of a state operated individualized residential alternative (Part Z); extends the care demonstration program (Part AA); makes permanent coverage for services provided by school-based health centers for medical assistance recipients (Part BB); establishes the \"recovery ready workplace act\" which provides for the certification of an employer to become a recovery ready workplace (Part CC); provides that for a substance use disorder outpatient treatment episode of care by a provider licensed, certified or otherwise authorized by the office of addiction services and supports, an insured shall only be responsible for a cost sharing fee not to exceed two hundred fifty dollars (Part DD); limits the reimbursement amount of certain overpayment of Medicaid claims where such overpayment was due to the provider's submission of records which were not in accordance with program requirements at the time but which were in accordance with requirements as of the date of the claim (Part EE); provides that any person may give consent for reproductive health care, including contraception and abortions, for themself and without providing a reason (Part FF); authorizes the commissioner of health to approve certain reimbursement rates for certain programs established by not-for-profit and public skilled nursing facilities in upstate New York nursing home regions that are designed to work collaboratively on efforts to improve nursing home efficiency, staffing, and quality of care (Part GG); provides that services to medical assistance recipients suffering from traumatic brain injuries or qualifying for nursing home diversion and transition services shall be provided outside of managed programs (Part HH); directs the department of health to annually report on food security trends (Part II); requires the office for the aging to make an annual report on the budget expenditures on behalf of the senior population of the state every April first (Part JJ); establishes a gender-affirming care access program to provide support and increase access to gender-affirming care including certain medical and surgical care (Part KK); requires the Medicaid inspector general to comply with standards relating to the audit and review of medical assistance program funds (Part LL); expands health care services provided by telehealth to include services delivered through a facility licensed under article twenty-eight of the public health law that is eligible to be designated or has received a designation as a federally qualified health center, including those facilities that are also licensed under article thirty-one or article thirty-two of the mental hygiene law (Part MM).",
-    "summary": "Enacts into law major components of legislation necessary to implement the state health and mental hygiene budget for the 2026-2027 state fiscal year; repeals the state Medicaid spending cap and related processes (Part A); extends certain health provisions (Part B); extends certain provisions of law relating to the health care reform act; extends provisions relating to the distribution of pool allocations and graduate medical education; extends provisions relating to health care initiative pool distributions; extends payment provisions for general hospitals; extends provisions relating to assessments on covered lives (Part C); relates to insurance coverage for medical malpractice paid for by funds from the hospital excess liability pool; extends portions of the New York Health Care Reform Act of 1996 (Part D); makes technical corrections and updates (Part F); relates to automated external defibrillators (Part G); enhances requirements for notices of material transactions (Part H); establishes an office of the state medical indemnity fund ombudsperson and a medical indemnity fund advisory panel to advocate for, assist and represent the interests of qualified plaintiffs; relates to the effectiveness of certain provisions relating to payments from the New York state medical indemnity fund (Part I) relates to temporary health care services agencies and protecting individuals engaged to provide health care services by such agencies (Part J); relates to providing approval to operate a mobile integrated and community paramedicine program; extends authorization for the community-based paramedicine demonstration program; authorizes certified nurse practitioners and licensed physicians to prescribe and order a non-patient specific regimen for administering immunizations to an emergency medical services practitioner; extends hospital services outside the facility and into patients' residences (Part K); restores capital rate reductions for nursing homes; adjusts premiums for the Medicaid buy-in for working persons with disabilities (Part L); relates to the definition of healthcare services for purposes of the amount payable for certain services provided to certain eligible persons who are also beneficiaries under part B of title XVII of the federal social security act or are also qualified Medicare beneficiaries; extends the cooling off period for health maintenance organization plan contracts with hospitals from two months to one hundred twenty days (Part M); increases hospital, nursing home and certified home health agency fee-for-service reimbursement rates (Part O); directs the commissioners of the department of health, office of mental health, office for people with developmental disabilities, office of addiction services and supports, office of temporary and disability assistance, office of children and family services and the directors of the state office for the aging and office of victim services to establish a state fiscal year 2026-2027 targeted inflationary increase for projecting for the effects of inflation upon rates of payments, contracts, or any other form of reimbursement for certain programs and services; requires such commissioners and director to provide funding to support a 4% targeted inflationary increase for such programs and services (Part P); relates to integrated behavioral health services programs (Part Q); changes \"substance use\" to substance-related and addictive disorder claims for purposes of the insurance law and public health law (Part R); relates to minimum amounts of certain state aid to the city of New York (Part T); extends government rates for behavioral services and referencing the office of addiction services and supports (Part U); enacts the \"New York affordable drug manufacturing act\" to direct the commissioner of health to enter into partnerships to increase competition for generic prescription drugs (Part V); relates to establishing the \"340B prescription drug anti-discrimination act\"; prohibits pharmaceutical manufacturers and pharmacy benefit managers from discriminating against covered entities and New York state pharmacies based on participation in the drug discount program authorized by section 340B of the federal public health service act (Part W); establishes the New York state abortion clinical training program within the department of health for the purpose of training health care practitioners in the performance of abortion and related reproductive health care services; requires the commissioner of health to submit a report to the governor and the legislature (Part X); expands the purposes of the drug treatment and public education fund to include prevention and recovery programs; requires reporting to be made available on the office of addiction services and supports' website (Part Y); extends for two years the requirement for OPWDD to give a 90-day notice to the Senate, Assembly, and labor organizations of any closures or transfer of a state operated individualized residential alternative (Part Z); extends the care demonstration program (Part AA); makes permanent coverage for services provided by school-based health centers for medical assistance recipients (Part BB); establishes the \"recovery ready workplace act\" which provides for the certification of an employer to become a recovery ready workplace (Part CC); provides that for a substance use disorder outpatient treatment episode of care by a provider licensed, certified or otherwise authorized by the office of addiction services and supports, an insured shall only be responsible for a cost sharing fee not to exceed two hundred fifty dollars (Part DD); limits the reimbursement amount of certain overpayment of Medicaid claims where such overpayment was due to the provider's submission of records which were not in accordance with program requirements at the time but which were in accordance with requirements as of the date of the claim (Part EE); provides that any person may give consent for reproductive health care, including contraception and abortions, for themself and without providing a reason (Part FF); authorizes the commissioner of health to approve certain reimbursement rates for certain programs established by not-for-profit and public skilled nursing facilities in upstate New York nursing home regions that are designed to work collaboratively on efforts to improve nursing home efficiency, staffing, and quality of care (Part GG); provides that services to medical assistance recipients suffering from traumatic brain injuries or qualifying for nursing home diversion and transition services shall be provided outside of managed programs (Part HH); directs the department of health to annually report on food security trends (Part II); requires the office for the aging to make an annual report on the budget expenditures on behalf of the senior population of the state every April first (Part JJ); establishes a gender-affirming care access program to provide support and increase access to gender-affirming care including certain medical and surgical care (Part KK); requires the Medicaid inspector general to comply with standards relating to the audit and review of medical assistance program funds (Part LL); expands health care services provided by telehealth to include services delivered through a facility licensed under article twenty-eight of the public health law that is eligible to be designated or has received a designation as a federally qualified health center, including those facilities that are also licensed under article thirty-one or article thirty-two of the mental hygiene law (Part MM).",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NY/bill/S09007/2025",
-    "legiscan_url": "https://legiscan.com/NY/bill/S09007/2025",
-    "state_url": "https://www.nysenate.gov/legislation/bills/2025/S9007",
-    "sponsors": [
-      "Budget [Sen]"
-    ],
-    "introduced_date": "2026-01-21",
-    "session": "2025-2026 General Assembly"
-  },
-  {
     "id": 2113823,
     "state": "WV",
     "state_name": "West Virginia",
@@ -14046,35 +14022,6 @@
     "session": "89th Legislature Regular Session"
   },
   {
-    "id": 2108426,
-    "state": "CO",
-    "state_name": "Colorado",
-    "bill_number": "HB1128",
-    "title": "Limitation on Gender Transition Procedure Claims",
-    "summary": "Concerning the statute of limitations for youth gender transition procedures.",
-    "status": "dead",
-    "status_label": "Failed",
-    "status_code": 6,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/CO/bill/HB1128/2026",
-    "legiscan_url": "https://legiscan.com/CO/bill/HB1128/2026",
-    "state_url": "https://leg.colorado.gov/bills/HB26-1128",
-    "sponsors": [
-      "Ken Degraaf (R) [Rep]"
-    ],
-    "introduced_date": "2026-03-09",
-    "session": "2026 Regular Session"
-  },
-  {
     "id": 2055927,
     "state": "MO",
     "state_name": "Missouri",
@@ -14102,6 +14049,35 @@
       "Joe Nicola (R) [Sen]"
     ],
     "introduced_date": "2026-01-07",
+    "session": "2026 Regular Session"
+  },
+  {
+    "id": 2108426,
+    "state": "CO",
+    "state_name": "Colorado",
+    "bill_number": "HB1128",
+    "title": "Limitation on Gender Transition Procedure Claims",
+    "summary": "Concerning the statute of limitations for youth gender transition procedures.",
+    "status": "dead",
+    "status_label": "Failed",
+    "status_code": 6,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/CO/bill/HB1128/2026",
+    "legiscan_url": "https://legiscan.com/CO/bill/HB1128/2026",
+    "state_url": "https://leg.colorado.gov/bills/HB26-1128",
+    "sponsors": [
+      "Ken Degraaf (R) [Rep]"
+    ],
+    "introduced_date": "2026-03-09",
     "session": "2026 Regular Session"
   },
   {
@@ -15807,69 +15783,6 @@
     "session": "89th Legislature Regular Session"
   },
   {
-    "id": 1942362,
-    "state": "KS",
-    "state_name": "Kansas",
-    "bill_number": "SB76",
-    "title": "Requiring employees of school districts and postsecondary educational institutions to use the name and pronouns consistent with a student's biological sex and birth certificate and authorizing a cause of action for violations therefor.",
-    "summary": "Requiring employees of school districts and postsecondary educational institutions to use the name and pronouns consistent with a student's biological sex and birth certificate and authorizing a cause of action for violations therefor.",
-    "status": "passed_one_chamber",
-    "status_label": "Engrossed",
-    "status_code": 2,
-    "categories": [
-      "identity_documents",
-      "education",
-      "definitions"
-    ],
-    "primary_category": "identity_documents",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/KS/bill/SB76/2025",
-    "legiscan_url": "https://legiscan.com/KS/bill/SB76/2025",
-    "state_url": "https://kslegislature.gov/li/b2025_26/measures/sb76/",
-    "sponsors": [
-      "Education [Sen]"
-    ],
-    "introduced_date": "2025-02-25",
-    "session": "2025-2026 Regular Session"
-  },
-  {
-    "id": 1890561,
-    "state": "TX",
-    "state_name": "Texas",
-    "bill_number": "HB1123",
-    "title": "Relating to interscholastic athletic competition based on biological sex, requirements for physical examinations and genetic testing in interscholastic athletics, and the adoption of rules by the University Interscholastic League to implement these requirements.",
-    "summary": "Relating to interscholastic athletic competition based on biological sex, requirements for physical examinations and genetic testing in interscholastic athletics, and the adoption of rules by the University Interscholastic League to implement these requirements.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "sports",
-      "education"
-    ],
-    "primary_category": "sports",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/TX/bill/HB1123/2025",
-    "legiscan_url": "https://legiscan.com/TX/bill/HB1123/2025",
-    "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1123",
-    "sponsors": [
-      "Janie Lopez (R) [Rep]",
-      "Terri Leo-Wilson (R) [Rep]",
-      "Carrie Isaac (R) [Rep]"
-    ],
-    "introduced_date": "2024-11-12",
-    "session": "89th Legislature Regular Session"
-  },
-  {
     "id": 1890533,
     "state": "TX",
     "state_name": "Texas",
@@ -15906,6 +15819,69 @@
     ],
     "introduced_date": "2025-04-24",
     "session": "89th Legislature Regular Session"
+  },
+  {
+    "id": 1890561,
+    "state": "TX",
+    "state_name": "Texas",
+    "bill_number": "HB1123",
+    "title": "Relating to interscholastic athletic competition based on biological sex, requirements for physical examinations and genetic testing in interscholastic athletics, and the adoption of rules by the University Interscholastic League to implement these requirements.",
+    "summary": "Relating to interscholastic athletic competition based on biological sex, requirements for physical examinations and genetic testing in interscholastic athletics, and the adoption of rules by the University Interscholastic League to implement these requirements.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "sports",
+      "education"
+    ],
+    "primary_category": "sports",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/TX/bill/HB1123/2025",
+    "legiscan_url": "https://legiscan.com/TX/bill/HB1123/2025",
+    "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1123",
+    "sponsors": [
+      "Janie Lopez (R) [Rep]",
+      "Terri Leo-Wilson (R) [Rep]",
+      "Carrie Isaac (R) [Rep]"
+    ],
+    "introduced_date": "2024-11-12",
+    "session": "89th Legislature Regular Session"
+  },
+  {
+    "id": 1942362,
+    "state": "KS",
+    "state_name": "Kansas",
+    "bill_number": "SB76",
+    "title": "Requiring employees of school districts and postsecondary educational institutions to use the name and pronouns consistent with a student's biological sex and birth certificate and authorizing a cause of action for violations therefor.",
+    "summary": "Requiring employees of school districts and postsecondary educational institutions to use the name and pronouns consistent with a student's biological sex and birth certificate and authorizing a cause of action for violations therefor.",
+    "status": "passed_one_chamber",
+    "status_label": "Engrossed",
+    "status_code": 2,
+    "categories": [
+      "identity_documents",
+      "education",
+      "definitions"
+    ],
+    "primary_category": "identity_documents",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/KS/bill/SB76/2025",
+    "legiscan_url": "https://legiscan.com/KS/bill/SB76/2025",
+    "state_url": "https://kslegislature.gov/li/b2025_26/measures/sb76/",
+    "sponsors": [
+      "Education [Sen]"
+    ],
+    "introduced_date": "2025-02-25",
+    "session": "2025-2026 Regular Session"
   },
   {
     "id": 1890388,
@@ -16255,9 +16231,9 @@
     "bill_number": "HB1137",
     "title": "Prohibits intentional discrimination based on compelled speech with respect to using certain pronouns, names, or honorifics",
     "summary": "Prohibits intentional discrimination based on compelled speech with respect to using certain pronouns, names, or honorifics",
-    "status": "passed_one_chamber",
-    "status_label": "Engrossed",
-    "status_code": 2,
+    "status": "passed_both_chambers",
+    "status_label": "Enrolled",
+    "status_code": 3,
     "categories": [
       "definitions",
       "other"
@@ -16281,7 +16257,7 @@
       "John Morris (R) [Sen]",
       "Alan Seabaugh (R) [Sen]"
     ],
-    "introduced_date": "2026-04-20",
+    "introduced_date": "2026-05-25",
     "session": "2026 Regular Session"
   },
   {
@@ -17219,36 +17195,6 @@
     "session": "103rd Legislature"
   },
   {
-    "id": 1941547,
-    "state": "WA",
-    "state_name": "Washington",
-    "bill_number": "HB1629",
-    "title": "Concerning restrictions on the placement of inmates of different biological sexes in correctional facilities.",
-    "summary": "Concerning restrictions on the placement of inmates of different biological sexes in correctional facilities.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "identity_documents",
-      "definitions"
-    ],
-    "primary_category": "identity_documents",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/WA/bill/HB1629/2025",
-    "legiscan_url": "https://legiscan.com/WA/bill/HB1629/2025",
-    "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1629&Year=2025&Initiative=false",
-    "sponsors": [
-      "Michelle Valdez (R) [Rep]"
-    ],
-    "introduced_date": "2025-01-27",
-    "session": "2025-2026 Regular Session"
-  },
-  {
     "id": 1984917,
     "state": "TX",
     "state_name": "Texas",
@@ -17285,6 +17231,36 @@
     ],
     "introduced_date": "2025-02-26",
     "session": "89th Legislature Regular Session"
+  },
+  {
+    "id": 1941547,
+    "state": "WA",
+    "state_name": "Washington",
+    "bill_number": "HB1629",
+    "title": "Concerning restrictions on the placement of inmates of different biological sexes in correctional facilities.",
+    "summary": "Concerning restrictions on the placement of inmates of different biological sexes in correctional facilities.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "identity_documents",
+      "definitions"
+    ],
+    "primary_category": "identity_documents",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/WA/bill/HB1629/2025",
+    "legiscan_url": "https://legiscan.com/WA/bill/HB1629/2025",
+    "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=1629&Year=2025&Initiative=false",
+    "sponsors": [
+      "Michelle Valdez (R) [Rep]"
+    ],
+    "introduced_date": "2025-01-27",
+    "session": "2025-2026 Regular Session"
   },
   {
     "id": 1990954,
@@ -18158,36 +18134,6 @@
     "session": "Fifty-seventh Legislature - Second Regular Session (2026)"
   },
   {
-    "id": 2005610,
-    "state": "NY",
-    "state_name": "New York",
-    "bill_number": "S06422",
-    "title": "Provides that prescription labels for gonadotropin-releasing hormone agonists, pubertal suppressants, anabolic steroids, alpha reductase inhibitors, progestins, or drug classes for hormone replacement therapy maybe include the name of the dispensing practice instead of the prescriber; provides for notice to patients.",
-    "summary": "Provides that prescription labels for gonadotropin-releasing hormone agonists, pubertal suppressants, anabolic steroids, alpha reductase inhibitors, progestins, or drug classes for hormone replacement therapy maybe include the name of the dispensing practice instead of the prescriber; provides for notice to patients.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NY/bill/S06422/2025",
-    "legiscan_url": "https://legiscan.com/NY/bill/S06422/2025",
-    "state_url": "https://www.nysenate.gov/legislation/bills/2025/S6422",
-    "sponsors": [
-      "Brad Hoylman-Sigal (D) [Sen]",
-      "Jeremy Cooney (D) [Sen]"
-    ],
-    "introduced_date": "2025-03-13",
-    "session": "2025-2026 General Assembly"
-  },
-  {
     "id": 2010140,
     "state": "NY",
     "state_name": "New York",
@@ -18234,6 +18180,36 @@
       "Anna Kelles (D) [Rep]"
     ],
     "introduced_date": "2025-03-18",
+    "session": "2025-2026 General Assembly"
+  },
+  {
+    "id": 2005610,
+    "state": "NY",
+    "state_name": "New York",
+    "bill_number": "S06422",
+    "title": "Provides that prescription labels for gonadotropin-releasing hormone agonists, pubertal suppressants, anabolic steroids, alpha reductase inhibitors, progestins, or drug classes for hormone replacement therapy maybe include the name of the dispensing practice instead of the prescriber; provides for notice to patients.",
+    "summary": "Provides that prescription labels for gonadotropin-releasing hormone agonists, pubertal suppressants, anabolic steroids, alpha reductase inhibitors, progestins, or drug classes for hormone replacement therapy maybe include the name of the dispensing practice instead of the prescriber; provides for notice to patients.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NY/bill/S06422/2025",
+    "legiscan_url": "https://legiscan.com/NY/bill/S06422/2025",
+    "state_url": "https://www.nysenate.gov/legislation/bills/2025/S6422",
+    "sponsors": [
+      "Brad Hoylman-Sigal (D) [Sen]",
+      "Jeremy Cooney (D) [Sen]"
+    ],
+    "introduced_date": "2025-03-13",
     "session": "2025-2026 General Assembly"
   },
   {

@@ -5,9 +5,9 @@
   "bill_number": "SB1114",
   "title": "Data collection: sexual orientation, gender identity, and intersex status: disclosure.",
   "summary": "An act to amend Sections 44230.6 and 66027 of the Education Code, to amend Section 8310.8 of, and to add Section 8310.8.5 to, the Government Code, and to amend Section 1808 of the Vehicle Code, relating to data collection.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
   "categories": [
     "identity_documents",
     "education",
@@ -27,7 +27,7 @@
     "Christopher Cabaldon (D) [Sen]",
     "Rick Zbur (D) [Rep]"
   ],
-  "introduced_date": "2026-02-17",
+  "introduced_date": "2026-05-26",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -94,6 +94,16 @@
       "date": "2026-05-18",
       "action": "Read second time. Ordered to third reading.",
       "chamber": "S"
+    },
+    {
+      "date": "2026-05-26",
+      "action": "Read third time. Passed. (Ayes 30. Noes 0.) Ordered to the Assembly.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-26",
+      "action": "In Assembly. Read first time. Held at Desk.",
+      "chamber": "A"
     }
   ],
   "votes": [
@@ -122,6 +132,13 @@
       "date": "2026-05-14",
       "description": "Do pass as amended",
       "yea": 5,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-05-26",
+      "description": "Senate 3rd Reading SB1114 Cabaldon et al",
+      "yea": 30,
       "nay": 0,
       "passed": 1
     }

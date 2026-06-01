@@ -5,9 +5,9 @@
   "bill_number": "S2953",
   "title": "Establishes \"LGBTQIA+ Pride Month\" in New Jersey.",
   "summary": "Establishes \"LGBTQIA+ Pride Month\" in New Jersey.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
   "categories": [
     "other"
   ],
@@ -24,9 +24,12 @@
   "sponsors": [
     "Raj Mukherji (D) [Rep]",
     "Vin Gopal (D) [Sen]",
-    "Angela Mcknight (D) [Rep]"
+    "Angela Mcknight (D) [Rep]",
+    "Patrick Diegnan (D) [Rep]",
+    "Linda Greenstein (D) [Rep]",
+    "Teresa Ruiz (D) [Rep]"
   ],
-  "introduced_date": "2026-01-13",
+  "introduced_date": "2026-05-28",
   "session": "2026-2027 Regular Session",
   "actions": [
     {
@@ -38,6 +41,16 @@
       "date": "2026-05-21",
       "action": "Reported from Senate Committee, 2nd Reading",
       "chamber": "S"
+    },
+    {
+      "date": "2026-05-28",
+      "action": "Passed by the Senate (29-7)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-28",
+      "action": "Received in the Assembly, Referred to Assembly State and Local Government Committee",
+      "chamber": "A"
     }
   ],
   "votes": [
@@ -46,6 +59,13 @@
       "description": "Senate State Government, Wagering, Tourism & Historic Preservation Committee: Reported Favorably",
       "yea": 4,
       "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-05-28",
+      "description": "Senate Floor: Third Reading - Final Passage",
+      "yea": 29,
+      "nay": 7,
       "passed": 1
     }
   ],
@@ -57,8 +77,13 @@
       "doc_id": 3312214
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 3085,
+    "chamber": "A",
+    "chamber_id": 69,
+    "name": "State and Local Government"
+  },
   "subjects": [
-    "2nd Reading in the Senate"
+    "State and Local Government"
   ]
 }
