@@ -3,14 +3,13 @@
   "state": "CA",
   "state_name": "California",
   "bill_number": "SB934",
-  "title": "Sexual orientation or gender identity change efforts: actions for recovery of damages: statute of limitations.",
-  "summary": "An act to add Section 340.12 to the Code of Civil Procedure, relating to civil actions.",
+  "title": "Sexual orientation or gender identity change efforts.",
+  "summary": "An act to amend Sections 865, 865.1, and 865.2 of the Business and Professions Code, and to add Section 340.51 to the Code of Civil Procedure, relating to sexual orientation or gender identity change efforts.",
   "status": "passed_one_chamber",
   "status_label": "Engrossed",
   "status_code": 2,
   "categories": [
-    "healthcare",
-    "identity_documents"
+    "healthcare"
   ],
   "primary_category": "healthcare",
   "sentiment": "protective",
@@ -128,6 +127,11 @@
       "date": "2026-05-26",
       "action": "Referred to Com. on JUD.",
       "chamber": "A"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on JUD.",
+      "chamber": "A"
     }
   ],
   "votes": [
@@ -178,6 +182,12 @@
       "type": "Amended",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB934#97AMD",
       "doc_id": 3437533
+    },
+    {
+      "date": "2026-06-03",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB934#96AMD",
+      "doc_id": 3445424
     }
   ],
   "committee": {

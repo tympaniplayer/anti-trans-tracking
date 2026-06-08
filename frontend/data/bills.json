@@ -518,7 +518,8 @@
       "Seth Magaziner (D) [Rep]",
       "George Latimer (D) [Rep]",
       "Julie Johnson (D) [Rep]",
-      "Analilia Mejia (D) [Rep]"
+      "Analilia Mejia (D) [Rep]",
+      "Josh Gottheimer (D) [Rep]"
     ],
     "introduced_date": "2026-02-11",
     "session": "119th Congress"
@@ -1085,35 +1086,6 @@
     "session": "2026 General Session"
   },
   {
-    "id": 1919603,
-    "state": "NY",
-    "state_name": "New York",
-    "bill_number": "J00215",
-    "title": "Memorializing Governor Kathy Hochul to proclaim November 20, 2025, as Transgender Day of Remembrance in the State of New York",
-    "summary": "Memorializing Governor Kathy Hochul to proclaim November 20, 2025, as Transgender Day of Remembrance in the State of New York",
-    "status": "signed_into_law",
-    "status_label": "Passed",
-    "status_code": 4,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NY/bill/J00215/2025",
-    "legiscan_url": "https://legiscan.com/NY/bill/J00215/2025",
-    "state_url": "https://www.nysenate.gov/legislation/bills/2025/J215",
-    "sponsors": [
-      "Kevin Parker (D) [Sen]"
-    ],
-    "introduced_date": "2025-01-22",
-    "session": "2025-2026 General Assembly"
-  },
-  {
     "id": 1941624,
     "state": "WA",
     "state_name": "Washington",
@@ -1153,6 +1125,35 @@
     ],
     "introduced_date": "2026-03-11",
     "session": "2025-2026 Regular Session"
+  },
+  {
+    "id": 1919603,
+    "state": "NY",
+    "state_name": "New York",
+    "bill_number": "J00215",
+    "title": "Memorializing Governor Kathy Hochul to proclaim November 20, 2025, as Transgender Day of Remembrance in the State of New York",
+    "summary": "Memorializing Governor Kathy Hochul to proclaim November 20, 2025, as Transgender Day of Remembrance in the State of New York",
+    "status": "signed_into_law",
+    "status_label": "Passed",
+    "status_code": 4,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NY/bill/J00215/2025",
+    "legiscan_url": "https://legiscan.com/NY/bill/J00215/2025",
+    "state_url": "https://www.nysenate.gov/legislation/bills/2025/J215",
+    "sponsors": [
+      "Kevin Parker (D) [Sen]"
+    ],
+    "introduced_date": "2025-01-22",
+    "session": "2025-2026 General Assembly"
   },
   {
     "id": 1980384,
@@ -2512,7 +2513,8 @@
       "Angela Craig (D) [Rep]",
       "Raja Krishnamoorthi (D) [Rep]",
       "Pramila Jayapal (D) [Rep]",
-      "Judy Chu (D) [Rep]"
+      "Judy Chu (D) [Rep]",
+      "Josh Gottheimer (D) [Rep]"
     ],
     "introduced_date": "2026-04-09",
     "session": "119th Congress"
@@ -2582,6 +2584,52 @@
     ],
     "introduced_date": "2025-03-05",
     "session": "2025-2026 General Assembly"
+  },
+  {
+    "id": 2152858,
+    "state": "MI",
+    "state_name": "Michigan",
+    "bill_number": "SR0128",
+    "title": "A resolution to recognize June 2026 as Lesbian, Gay, Bisexual, Transgender, Queer+ (LGBTQ+) Pride Month.",
+    "summary": "A resolution to recognize June 2026 as Lesbian, Gay, Bisexual, Transgender, Queer+ (LGBTQ+) Pride Month.",
+    "status": "signed_into_law",
+    "status_label": "Passed",
+    "status_code": 4,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/MI/bill/SR0128/2025",
+    "legiscan_url": "https://legiscan.com/MI/bill/SR0128/2025",
+    "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SR-0128",
+    "sponsors": [
+      "Jeremy Moss (D) [Sen]",
+      "Dayna Polehanki (D) [Sen]",
+      "Sue Shink (D) [Sen]",
+      "Winnie Brinks (D) [Sen]",
+      "Rosemary Bayer (D) [Sen]",
+      "Sean McCann (D) [Sen]",
+      "Paul Wojno (D) [Sen]",
+      "Veronica Klinefelt (D) [Sen]",
+      "John Cherry (D) [Sen]",
+      "Stephanie Chang (D) [Sen]",
+      "Darrin Camilleri (D) [Sen]",
+      "Jeff Irwin (D) [Sen]",
+      "Mallory McMorrow (D) [Sen]",
+      "Mary Cavanagh (D) [Sen]",
+      "Samir Singh (D) [Sen]",
+      "Kevin Hertel (D) [Sen]",
+      "Erika Geiss (D) [Sen]",
+      "Sarah Anthony (D) [Sen]"
+    ],
+    "introduced_date": "2026-06-04",
+    "session": "103rd Legislature"
   },
   {
     "id": 2036189,
@@ -3316,6 +3364,35 @@
     "session": "2026-2027 Regular Session"
   },
   {
+    "id": 2152063,
+    "state": "NJ",
+    "state_name": "New Jersey",
+    "bill_number": "A5162",
+    "title": "Establishes \"LGBTQIA+ Pride Month\" in New Jersey.",
+    "summary": "Establishes \"LGBTQIA+ Pride Month\" in New Jersey.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NJ/bill/A5162/2026",
+    "legiscan_url": "https://legiscan.com/NJ/bill/A5162/2026",
+    "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A5162",
+    "sponsors": [
+      "Luanne Peterpaul (D) [Rep]"
+    ],
+    "introduced_date": "2026-06-01",
+    "session": "2026-2027 Regular Session"
+  },
+  {
     "id": 1947275,
     "state": "ND",
     "state_name": "North Dakota",
@@ -3605,42 +3682,6 @@
     "session": "2025-2026 General Assembly"
   },
   {
-    "id": 2103601,
-    "state": "NY",
-    "state_name": "New York",
-    "bill_number": "S09093",
-    "title": "Establishes a twenty-four hour, toll-free hotline and website for lesbian, gay, bisexual, transgender, queer or questioning plus (LGBTQ+) individuals who are experiencing emotional distress, suicidal ideation, or crisis-related challenges, which shall provide immediate support, referrals, resource lists, and other information.",
-    "summary": "Establishes a twenty-four hour, toll-free hotline and website for lesbian, gay, bisexual, transgender, queer or questioning plus (LGBTQ+) individuals who are experiencing emotional distress, suicidal ideation, or crisis-related challenges, which shall provide immediate support, referrals, resource lists, and other information.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NY/bill/S09093/2025",
-    "legiscan_url": "https://legiscan.com/NY/bill/S09093/2025",
-    "state_url": "https://www.nysenate.gov/legislation/bills/2025/S9093",
-    "sponsors": [
-      "Nathalia Fernandez (D) [Sen]",
-      "Joseph Addabbo (D) [Sen]",
-      "Erik Bottcher (D) [Sen]",
-      "Samra Brouk (D) [Sen]",
-      "Gustavo Rivera (D) [Sen]",
-      "Christopher Ryan (D) [Sen]",
-      "Lea Webb (D) [Sen]",
-      "Jeremy Zellner (D) [Sen]"
-    ],
-    "introduced_date": "2026-02-02",
-    "session": "2025-2026 General Assembly"
-  },
-  {
     "id": 1997220,
     "state": "MA",
     "state_name": "Massachusetts",
@@ -3699,6 +3740,114 @@
     "session": "194th General Court"
   },
   {
+    "id": 2103601,
+    "state": "NY",
+    "state_name": "New York",
+    "bill_number": "S09093",
+    "title": "Establishes a twenty-four hour, toll-free hotline and website for lesbian, gay, bisexual, transgender, queer or questioning plus (LGBTQ+) individuals who are experiencing emotional distress, suicidal ideation, or crisis-related challenges, which shall provide immediate support, referrals, resource lists, and other information.",
+    "summary": "Establishes a twenty-four hour, toll-free hotline and website for lesbian, gay, bisexual, transgender, queer or questioning plus (LGBTQ+) individuals who are experiencing emotional distress, suicidal ideation, or crisis-related challenges, which shall provide immediate support, referrals, resource lists, and other information.",
+    "status": "passed_one_chamber",
+    "status_label": "Engrossed",
+    "status_code": 2,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NY/bill/S09093/2025",
+    "legiscan_url": "https://legiscan.com/NY/bill/S09093/2025",
+    "state_url": "https://www.nysenate.gov/legislation/bills/2025/S9093",
+    "sponsors": [
+      "Nathalia Fernandez (D) [Sen]",
+      "Joseph Addabbo (D) [Sen]",
+      "Erik Bottcher (D) [Sen]",
+      "Samra Brouk (D) [Sen]",
+      "Gustavo Rivera (D) [Sen]",
+      "Christopher Ryan (D) [Sen]",
+      "Lea Webb (D) [Sen]",
+      "Jeremy Zellner (D) [Sen]"
+    ],
+    "introduced_date": "2026-06-03",
+    "session": "2025-2026 General Assembly"
+  },
+  {
+    "id": 2153025,
+    "state": "MI",
+    "state_name": "Michigan",
+    "bill_number": "HR0329",
+    "title": "A resolution to declare June 2026 as Lesbian, Gay, Bisexual, Transgender, and Queer Pride Month in the state of Michigan.",
+    "summary": "A resolution to declare June 2026 as Lesbian, Gay, Bisexual, Transgender, and Queer Pride Month in the state of Michigan.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/MI/bill/HR0329/2025",
+    "legiscan_url": "https://legiscan.com/MI/bill/HR0329/2025",
+    "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HR-0329",
+    "sponsors": [
+      "Jason Morgan (D) [Rep]",
+      "Mike McFall (D) [Rep]",
+      "Laurie Pohutsky (D) [Rep]",
+      "Emily Dievendorf (D) [Rep]",
+      "Jason Hoskins (D) [Rep]",
+      "Noah Arbit (D) [Rep]",
+      "Kelly Breen (D) [Rep]",
+      "Carrie Rheingans (D) [Rep]",
+      "Penelope Tsernoglou (D) [Rep]",
+      "Donavan McKinney (D) [Rep]",
+      "Morgan Foreman (D) [Rep]",
+      "Mai Xiong (D) [Rep]",
+      "Matt Longjohn (D) [Rep]",
+      "Jasper Martus (D) [Rep]",
+      "Jennifer Conlin (D) [Rep]",
+      "John Fitzgerald (D) [Rep]",
+      "Sharon MacDonell (D) [Rep]",
+      "Stephanie Young (D) [Rep]",
+      "Matt Koleszar (D) [Rep]",
+      "Angela Witwer (D) [Rep]",
+      "Jimmie Wilson (D) [Rep]",
+      "Kara Hope (D) [Rep]",
+      "Helena Scott (D) [Rep]",
+      "Regina Weiss (D) [Rep]",
+      "Stephen Wooden (D) [Rep]",
+      "Julie Brixie (D) [Rep]",
+      "Natalie Price (D) [Rep]",
+      "Kristian Grant (D) [Rep]",
+      "Ranjeev Puri (D) [Rep]",
+      "Reggie Miller (D) [Rep]",
+      "Erin Byrnes (D) [Rep]",
+      "Tonya Myers Phillips (D) [Rep]",
+      "Tyrone Carter (D) [Rep]",
+      "Carol Glanville (D) [Rep]",
+      "Veronica Paiz (D) [Rep]",
+      "Joey Andrews (D) [Rep]",
+      "Julie Rogers (D) [Rep]",
+      "Dylan Wegela (D) [Rep]",
+      "Phil Skaggs (D) [Rep]",
+      "Will Snyder (D) [Rep]",
+      "Kimberly Edwards (D) [Rep]",
+      "Cynthia Neeley (D) [Rep]",
+      "Samantha Steckloff (D) [Rep]",
+      "Denise Mentzer (D) [Rep]"
+    ],
+    "introduced_date": "2026-06-04",
+    "session": "103rd Legislature"
+  },
+  {
     "id": 1993740,
     "state": "NY",
     "state_name": "New York",
@@ -3748,7 +3897,8 @@
       "Sarahana Shrestha (D) [Rep]",
       "Harry Bronson (D) [Rep]",
       "Didi Barrett (D) [Rep]",
-      "Brian Cunningham (D) [Rep]"
+      "Brian Cunningham (D) [Rep]",
+      "Steven Otis (D) [Rep]"
     ],
     "introduced_date": "2025-03-06",
     "session": "2025-2026 General Assembly"
@@ -5384,9 +5534,9 @@
     "bill_number": "HR0794",
     "title": "LGBTQIA+ MONTH",
     "summary": "Declares July 2026 as LGBTQIA+ Veterans Month in the State of Illinois. Calls upon all residents to honor the service of LGBTQIA+ veterans, support their pursuit of justice, and celebrate their enduring contributions to our nation and our community.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
+    "status": "signed_into_law",
+    "status_label": "Passed",
+    "status_code": 4,
     "categories": [
       "other"
     ],
@@ -5402,9 +5552,12 @@
     "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=794&GAID=18&DocTypeID=HR&SessionID=114&GA=104",
     "sponsors": [
       "Robyn Gabel (D) [Rep]",
-      "Nicolle Grasse (D) [Rep]"
+      "Nicolle Grasse (D) [Rep]",
+      "Stephanie Kifowit (D) [Rep]",
+      "Amy Briel (D) [Rep]",
+      "Michelle Mussman (D) [Rep]"
     ],
-    "introduced_date": "2026-04-10",
+    "introduced_date": "2026-06-01",
     "session": "104th General Assembly"
   },
   {
@@ -5703,14 +5856,13 @@
     "state": "CA",
     "state_name": "California",
     "bill_number": "SB934",
-    "title": "Sexual orientation or gender identity change efforts: actions for recovery of damages: statute of limitations.",
-    "summary": "An act to add Section 340.12 to the Code of Civil Procedure, relating to civil actions.",
+    "title": "Sexual orientation or gender identity change efforts.",
+    "summary": "An act to amend Sections 865, 865.1, and 865.2 of the Business and Professions Code, and to add Section 340.51 to the Code of Civil Procedure, relating to sexual orientation or gender identity change efforts.",
     "status": "passed_one_chamber",
     "status_label": "Engrossed",
     "status_code": 2,
     "categories": [
-      "healthcare",
-      "identity_documents"
+      "healthcare"
     ],
     "primary_category": "healthcare",
     "sentiment": "protective",
@@ -5777,6 +5929,36 @@
     ],
     "introduced_date": "2025-01-17",
     "session": "104th General Assembly"
+  },
+  {
+    "id": 1951809,
+    "state": "TX",
+    "state_name": "Texas",
+    "bill_number": "HB2339",
+    "title": "Relating to prohibiting public institutions of higher education from offering programs or courses in LGBTQ or DEI studies.",
+    "summary": "Relating to prohibiting public institutions of higher education from offering programs or courses in LGBTQ or DEI studies.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "education",
+      "definitions"
+    ],
+    "primary_category": "education",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/TX/bill/HB2339/2025",
+    "legiscan_url": "https://legiscan.com/TX/bill/HB2339/2025",
+    "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2339",
+    "sponsors": [
+      "Brian Harrison (R) [Rep]"
+    ],
+    "introduced_date": "2025-02-03",
+    "session": "89th Legislature Regular Session"
   },
   {
     "id": 2024765,
@@ -6781,34 +6963,47 @@
     "session": "194th General Court"
   },
   {
-    "id": 1951809,
-    "state": "TX",
-    "state_name": "Texas",
-    "bill_number": "HB2339",
-    "title": "Relating to prohibiting public institutions of higher education from offering programs or courses in LGBTQ or DEI studies.",
-    "summary": "Relating to prohibiting public institutions of higher education from offering programs or courses in LGBTQ or DEI studies.",
+    "id": 2152463,
+    "state": "PA",
+    "state_name": "Pennsylvania",
+    "bill_number": "SR329",
+    "title": "Recognizing the month of June 2026 as \"LGBTQ+ Pride Month\" in Pennsylvania in celebration of past, present and future LGBTQ+ accomplishments and contributions to this Commonwealth and in commemoration of the 57th anniversary of the Stonewall Inn demonstrations.",
+    "summary": "A Resolution recognizing the month of June 2026 as \"LGBTQ+ Pride Month\" in Pennsylvania in celebration of past, present and future LGBTQ+ accomplishments and contributions to this Commonwealth and in commemoration of the 57th anniversary of the Stonewall Inn demonstrations.",
     "status": "introduced",
     "status_label": "Introduced",
     "status_code": 1,
     "categories": [
-      "education",
-      "definitions"
+      "other"
     ],
-    "primary_category": "education",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
     "relevant": true,
     "level": "state",
     "last_action_date": "",
     "last_action": "",
-    "url": "https://legiscan.com/TX/bill/HB2339/2025",
-    "legiscan_url": "https://legiscan.com/TX/bill/HB2339/2025",
-    "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB2339",
+    "url": "https://legiscan.com/PA/bill/SR329/2025",
+    "legiscan_url": "https://legiscan.com/PA/bill/SR329/2025",
+    "state_url": "https://www.palegis.us/legislation/bills/2025/sr329",
     "sponsors": [
-      "Brian Harrison (R) [Rep]"
+      "Sharif Street (D) [Sen]",
+      "Nikil Saval (D) [Sen]",
+      "Lisa Boscola (D) [Sen]",
+      "Christine Tartaglione (D) [Sen]",
+      "Vincent Hughes (D) [Sen]",
+      "Arthur Haywood (D) [Sen]",
+      "Timothy Kearney (D) [Sen]",
+      "Steven Santarsiero (D) [Sen]",
+      "Carolyn Comitta (D) [Sen]",
+      "Amanda Cappelletti (D) [Sen]",
+      "Jay Costa (D) [Sen]",
+      "Martin Flynn (D) [Sen]",
+      "Patty Kim (D) [Sen]",
+      "Lindsey Williams (D) [Sen]",
+      "Judy Schwank (D) [Sen]"
     ],
-    "introduced_date": "2025-02-03",
-    "session": "89th Legislature Regular Session"
+    "introduced_date": "2026-06-01",
+    "session": "2025-2026 Regular Session"
   },
   {
     "id": 2079094,
@@ -6972,9 +7167,9 @@
     "bill_number": "HB1322",
     "title": "Civil Actions for Conversion Therapy Survivors",
     "summary": "Concerning civil actions against certain individuals engaging in conversion therapy efforts.",
-    "status": "passed_both_chambers",
-    "status_label": "Enrolled",
-    "status_code": 3,
+    "status": "signed_into_law",
+    "status_label": "Passed",
+    "status_code": 4,
     "categories": [
       "healthcare"
     ],
@@ -7039,13 +7234,13 @@
       "Cathy Kipp (D) [Sen]",
       "Chris Kolker (D) [Sen]",
       "William Lindstedt (D) [Sen]",
-      "Dylan Roberts (D) [Sen]",
+      "Dylan Roberts (D) [Rep]",
       "Marc Snyder (D) [Rep]",
       "Tom Sullivan (D) [Sen]",
       "Katie Wallace (D) [Sen]",
       "Michael Weissman (D) [Rep]"
     ],
-    "introduced_date": "2026-05-07",
+    "introduced_date": "2026-06-01",
     "session": "2026 Regular Session"
   },
   {
@@ -8452,35 +8647,6 @@
     "session": "2025-2026 General Assembly"
   },
   {
-    "id": 1923366,
-    "state": "NE",
-    "state_name": "Nebraska",
-    "bill_number": "LB367",
-    "title": "Prohibit conversion therapy and provide for disciplinary sanctions and a deceptive trade practice",
-    "summary": "Prohibit conversion therapy and provide for disciplinary sanctions and a deceptive trade practice",
-    "status": "dead",
-    "status_label": "Failed",
-    "status_code": 6,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NE/bill/LB367/2025",
-    "legiscan_url": "https://legiscan.com/NE/bill/LB367/2025",
-    "state_url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59621",
-    "sponsors": [
-      "Megan Hunt (N) [Sen]"
-    ],
-    "introduced_date": "2026-04-17",
-    "session": "109th Legislature"
-  },
-  {
     "id": 2112615,
     "state": "MD",
     "state_name": "Maryland",
@@ -8545,6 +8711,35 @@
     ],
     "introduced_date": "2026-02-11",
     "session": "2026 Regular Session"
+  },
+  {
+    "id": 1923366,
+    "state": "NE",
+    "state_name": "Nebraska",
+    "bill_number": "LB367",
+    "title": "Prohibit conversion therapy and provide for disciplinary sanctions and a deceptive trade practice",
+    "summary": "Prohibit conversion therapy and provide for disciplinary sanctions and a deceptive trade practice",
+    "status": "dead",
+    "status_label": "Failed",
+    "status_code": 6,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NE/bill/LB367/2025",
+    "legiscan_url": "https://legiscan.com/NE/bill/LB367/2025",
+    "state_url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59621",
+    "sponsors": [
+      "Megan Hunt (N) [Sen]"
+    ],
+    "introduced_date": "2026-04-17",
+    "session": "109th Legislature"
   },
   {
     "id": 2047396,
@@ -8738,6 +8933,39 @@
     "session": "89th Legislature Regular Session"
   },
   {
+    "id": 2048168,
+    "state": "OK",
+    "state_name": "Oklahoma",
+    "bill_number": "HB1225",
+    "title": "Vital records; requiring certificates of birth to contain accurate biological sex designations; clarifying certain requirement and prohibitions; emergency.",
+    "summary": "Vital records; requiring certificates of birth to contain accurate biological sex designations; clarifying certain requirement and prohibitions; emergency.",
+    "status": "signed_into_law",
+    "status_label": "Passed",
+    "status_code": 4,
+    "categories": [
+      "identity_documents",
+      "definitions"
+    ],
+    "primary_category": "identity_documents",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/OK/bill/HB1225/2026",
+    "legiscan_url": "https://legiscan.com/OK/bill/HB1225/2026",
+    "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb1225&Session=2600",
+    "sponsors": [
+      "Kevin West (R) [Rep]",
+      "Micheal Bergstrom (R) [Sen]",
+      "Gabe Woolley (R) [Rep]",
+      "George Burns (R) [Sen]"
+    ],
+    "introduced_date": "2026-05-11",
+    "session": "2026 Regular Session"
+  },
+  {
     "id": 1959236,
     "state": "VT",
     "state_name": "Vermont",
@@ -8807,39 +9035,6 @@
     ],
     "introduced_date": "2025-02-07",
     "session": "2025-2026 Session"
-  },
-  {
-    "id": 2048168,
-    "state": "OK",
-    "state_name": "Oklahoma",
-    "bill_number": "HB1225",
-    "title": "Vital records; requiring certificates of birth to contain accurate biological sex designations; clarifying certain requirement and prohibitions; emergency.",
-    "summary": "Vital records; requiring certificates of birth to contain accurate biological sex designations; clarifying certain requirement and prohibitions; emergency.",
-    "status": "signed_into_law",
-    "status_label": "Passed",
-    "status_code": 4,
-    "categories": [
-      "identity_documents",
-      "definitions"
-    ],
-    "primary_category": "identity_documents",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/OK/bill/HB1225/2026",
-    "legiscan_url": "https://legiscan.com/OK/bill/HB1225/2026",
-    "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb1225&Session=2600",
-    "sponsors": [
-      "Kevin West (R) [Rep]",
-      "Micheal Bergstrom (R) [Sen]",
-      "Gabe Woolley (R) [Rep]",
-      "George Burns (R) [Sen]"
-    ],
-    "introduced_date": "2026-05-11",
-    "session": "2026 Regular Session"
   },
   {
     "id": 2056337,
@@ -9577,64 +9772,6 @@
     "session": "91st General Assembly"
   },
   {
-    "id": 2076520,
-    "state": "NJ",
-    "state_name": "New Jersey",
-    "bill_number": "S2618",
-    "title": "Removes exclusion of affectional or sexual orientation and gender identity or expression from affirmative action programs under public works contracts.",
-    "summary": "Removes exclusion of affectional or sexual orientation and gender identity or expression from affirmative action programs under public works contracts.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NJ/bill/S2618/2026",
-    "legiscan_url": "https://legiscan.com/NJ/bill/S2618/2026",
-    "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S2618",
-    "sponsors": [
-      "Vin Gopal (D) [Sen]"
-    ],
-    "introduced_date": "2026-01-13",
-    "session": "2026-2027 Regular Session"
-  },
-  {
-    "id": 2097649,
-    "state": "NJ",
-    "state_name": "New Jersey",
-    "bill_number": "A2306",
-    "title": "Removes exclusion of affectional or sexual orientation and gender identity or expression from affirmative action programs under public works contracts.",
-    "summary": "Removes exclusion of affectional or sexual orientation and gender identity or expression from affirmative action programs under public works contracts.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NJ/bill/A2306/2026",
-    "legiscan_url": "https://legiscan.com/NJ/bill/A2306/2026",
-    "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A2306",
-    "sponsors": [
-      "Luanne Peterpaul (D) [Rep]"
-    ],
-    "introduced_date": "2026-01-13",
-    "session": "2026-2027 Regular Session"
-  },
-  {
     "id": 1981888,
     "state": "IA",
     "state_name": "Iowa",
@@ -9695,6 +9832,64 @@
     ],
     "introduced_date": "2025-02-20",
     "session": "91st General Assembly"
+  },
+  {
+    "id": 2076520,
+    "state": "NJ",
+    "state_name": "New Jersey",
+    "bill_number": "S2618",
+    "title": "Removes exclusion of affectional or sexual orientation and gender identity or expression from affirmative action programs under public works contracts.",
+    "summary": "Removes exclusion of affectional or sexual orientation and gender identity or expression from affirmative action programs under public works contracts.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NJ/bill/S2618/2026",
+    "legiscan_url": "https://legiscan.com/NJ/bill/S2618/2026",
+    "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S2618",
+    "sponsors": [
+      "Vin Gopal (D) [Sen]"
+    ],
+    "introduced_date": "2026-01-13",
+    "session": "2026-2027 Regular Session"
+  },
+  {
+    "id": 2097649,
+    "state": "NJ",
+    "state_name": "New Jersey",
+    "bill_number": "A2306",
+    "title": "Removes exclusion of affectional or sexual orientation and gender identity or expression from affirmative action programs under public works contracts.",
+    "summary": "Removes exclusion of affectional or sexual orientation and gender identity or expression from affirmative action programs under public works contracts.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NJ/bill/A2306/2026",
+    "legiscan_url": "https://legiscan.com/NJ/bill/A2306/2026",
+    "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A2306",
+    "sponsors": [
+      "Luanne Peterpaul (D) [Rep]"
+    ],
+    "introduced_date": "2026-01-13",
+    "session": "2026-2027 Regular Session"
   },
   {
     "id": 2067626,
@@ -10450,35 +10645,6 @@
     "session": "103rd Legislature"
   },
   {
-    "id": 2037845,
-    "state": "US",
-    "state_name": "Federal",
-    "bill_number": "HB4061",
-    "title": "District of Columbia Local Juror Non-Discrimination Act of 2025",
-    "summary": "To amend title 11, District of Columbia Official Code, to prohibit the exclusion of individuals from service on a District of Columbia jury on account of sexual orientation or gender identity.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "federal",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/US/bill/HB4061/2025",
-    "legiscan_url": "https://legiscan.com/US/bill/HB4061/2025",
-    "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4061/all-info",
-    "sponsors": [
-      "Eleanor Norton (D) [Rep]"
-    ],
-    "introduced_date": "2025-06-20",
-    "session": "119th Congress"
-  },
-  {
     "id": 2053807,
     "state": "NH",
     "state_name": "New Hampshire",
@@ -10509,6 +10675,35 @@
     ],
     "introduced_date": "2026-03-16",
     "session": "2026 Regular Session"
+  },
+  {
+    "id": 2037845,
+    "state": "US",
+    "state_name": "Federal",
+    "bill_number": "HB4061",
+    "title": "District of Columbia Local Juror Non-Discrimination Act of 2025",
+    "summary": "To amend title 11, District of Columbia Official Code, to prohibit the exclusion of individuals from service on a District of Columbia jury on account of sexual orientation or gender identity.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "federal",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/US/bill/HB4061/2025",
+    "legiscan_url": "https://legiscan.com/US/bill/HB4061/2025",
+    "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/4061/all-info",
+    "sponsors": [
+      "Eleanor Norton (D) [Rep]"
+    ],
+    "introduced_date": "2025-06-20",
+    "session": "119th Congress"
   },
   {
     "id": 1892256,
@@ -10919,36 +11114,6 @@
     "session": "103rd Legislature"
   },
   {
-    "id": 2085959,
-    "state": "MS",
-    "state_name": "Mississippi",
-    "bill_number": "SB2359",
-    "title": "Mississippi Civil Rights Act; enact.",
-    "summary": "An Act To Enact The Mississippi Civil Rights Act; To Define Terms; To Provide That The Right Of A Person To Be Free From Discrimination Because Of Race, Color, Religion, National Origin, Immigrant Status, Sex, Sexual Orientation, Gender Identity, Disability Or Familial Status Is A Civil Right; To Provide Remedies For Violations; And For Related Purposes.",
-    "status": "dead",
-    "status_label": "Failed",
-    "status_code": 6,
-    "categories": [
-      "definitions",
-      "other"
-    ],
-    "primary_category": "definitions",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/MS/bill/SB2359/2026",
-    "legiscan_url": "https://legiscan.com/MS/bill/SB2359/2026",
-    "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2359.xml",
-    "sponsors": [
-      "Derrick Simmons (D) [Sen]"
-    ],
-    "introduced_date": "2026-02-03",
-    "session": "2026 Regular Session"
-  },
-  {
     "id": 1970613,
     "state": "TX",
     "state_name": "Texas",
@@ -11038,6 +11203,36 @@
     ],
     "introduced_date": "2024-11-12",
     "session": "89th Legislature Regular Session"
+  },
+  {
+    "id": 2085959,
+    "state": "MS",
+    "state_name": "Mississippi",
+    "bill_number": "SB2359",
+    "title": "Mississippi Civil Rights Act; enact.",
+    "summary": "An Act To Enact The Mississippi Civil Rights Act; To Define Terms; To Provide That The Right Of A Person To Be Free From Discrimination Because Of Race, Color, Religion, National Origin, Immigrant Status, Sex, Sexual Orientation, Gender Identity, Disability Or Familial Status Is A Civil Right; To Provide Remedies For Violations; And For Related Purposes.",
+    "status": "dead",
+    "status_label": "Failed",
+    "status_code": 6,
+    "categories": [
+      "definitions",
+      "other"
+    ],
+    "primary_category": "definitions",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/MS/bill/SB2359/2026",
+    "legiscan_url": "https://legiscan.com/MS/bill/SB2359/2026",
+    "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2359.xml",
+    "sponsors": [
+      "Derrick Simmons (D) [Sen]"
+    ],
+    "introduced_date": "2026-02-03",
+    "session": "2026 Regular Session"
   },
   {
     "id": 1936007,
@@ -12613,6 +12808,40 @@
     "session": "2025-2026 General Assembly"
   },
   {
+    "id": 2016290,
+    "state": "IL",
+    "state_name": "Illinois",
+    "bill_number": "HB4030",
+    "title": "SEX-BASED TERMS ACT",
+    "summary": "Creates the Definitions of Sex-Based Terms Act. Defines, for purposes of State statutes and administrative rules, the meaning of the following terms: \"boy\", \"father\", \"female\", \"girl\", \"male\", \"man\", \"mother\", \"sex\", and \"woman\".",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "definitions"
+    ],
+    "primary_category": "definitions",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/IL/bill/HB4030/2025",
+    "legiscan_url": "https://legiscan.com/IL/bill/HB4030/2025",
+    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4030&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+    "sponsors": [
+      "David Friess (R) [Rep]",
+      "Blaine Wilhour (R) [Rep]",
+      "Adam Niemerg (R) [Rep]",
+      "Jed Davis (R) [Rep]",
+      "Brad Halbrook (R) [Rep]",
+      "Chris Miller (R) [Rep]"
+    ],
+    "introduced_date": "2025-03-28",
+    "session": "104th General Assembly"
+  },
+  {
     "id": 2041778,
     "state": "MI",
     "state_name": "Michigan",
@@ -12804,40 +13033,6 @@
     ],
     "introduced_date": "2026-03-17",
     "session": "2026 Regular Session"
-  },
-  {
-    "id": 2016290,
-    "state": "IL",
-    "state_name": "Illinois",
-    "bill_number": "HB4030",
-    "title": "SEX-BASED TERMS ACT",
-    "summary": "Creates the Definitions of Sex-Based Terms Act. Defines, for purposes of State statutes and administrative rules, the meaning of the following terms: \"boy\", \"father\", \"female\", \"girl\", \"male\", \"man\", \"mother\", \"sex\", and \"woman\".",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "definitions"
-    ],
-    "primary_category": "definitions",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/IL/bill/HB4030/2025",
-    "legiscan_url": "https://legiscan.com/IL/bill/HB4030/2025",
-    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4030&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
-    "sponsors": [
-      "David Friess (R) [Rep]",
-      "Blaine Wilhour (R) [Rep]",
-      "Adam Niemerg (R) [Rep]",
-      "Jed Davis (R) [Rep]",
-      "Brad Halbrook (R) [Rep]",
-      "Chris Miller (R) [Rep]"
-    ],
-    "introduced_date": "2025-03-28",
-    "session": "104th General Assembly"
   },
   {
     "id": 2056290,
@@ -13959,36 +14154,6 @@
     "session": "2026 Regular Session"
   },
   {
-    "id": 2055412,
-    "state": "MO",
-    "state_name": "Missouri",
-    "bill_number": "SB861",
-    "title": "Modifies provisions relating to gender transition",
-    "summary": "Modifies provisions relating to gender transition",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare",
-      "definitions"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/MO/bill/SB861/2026",
-    "legiscan_url": "https://legiscan.com/MO/bill/SB861/2026",
-    "state_url": "https://www.senate.mo.gov/BillTracking/Bills/Billinformation?year=2026&billid=380",
-    "sponsors": [
-      "Mike Moon (R) [Sen]"
-    ],
-    "introduced_date": "2026-01-07",
-    "session": "2026 Regular Session"
-  },
-  {
     "id": 1968421,
     "state": "TX",
     "state_name": "Texas",
@@ -14020,6 +14185,36 @@
     ],
     "introduced_date": "2025-05-24",
     "session": "89th Legislature Regular Session"
+  },
+  {
+    "id": 2055412,
+    "state": "MO",
+    "state_name": "Missouri",
+    "bill_number": "SB861",
+    "title": "Modifies provisions relating to gender transition",
+    "summary": "Modifies provisions relating to gender transition",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare",
+      "definitions"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/MO/bill/SB861/2026",
+    "legiscan_url": "https://legiscan.com/MO/bill/SB861/2026",
+    "state_url": "https://www.senate.mo.gov/BillTracking/Bills/Billinformation?year=2026&billid=380",
+    "sponsors": [
+      "Mike Moon (R) [Sen]"
+    ],
+    "introduced_date": "2026-01-07",
+    "session": "2026 Regular Session"
   },
   {
     "id": 2055927,
@@ -14079,6 +14274,49 @@
     ],
     "introduced_date": "2026-03-09",
     "session": "2026 Regular Session"
+  },
+  {
+    "id": 2029346,
+    "state": "MI",
+    "state_name": "Michigan",
+    "bill_number": "HB4468",
+    "title": "Insurance: health insurers; coverage for adverse consequences related to gender transition and reversal of gender transition; require. Amends 1956 PA 218 (MCL 500.100 - 500.8302) by adding sec. 3406ww.",
+    "summary": "Insurance: health insurers; coverage for adverse consequences related to gender transition and reversal of gender transition; require. Amends 1956 PA 218 (MCL 500.100 - 500.8302) by adding sec. 3406ww.",
+    "status": "passed_one_chamber",
+    "status_label": "Engrossed",
+    "status_code": 2,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/MI/bill/HB4468/2025",
+    "legiscan_url": "https://legiscan.com/MI/bill/HB4468/2025",
+    "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4468",
+    "sponsors": [
+      "Tom Kunse (R) [Rep]",
+      "Pat Outman (R) [Rep]",
+      "Angela Rigas (R) [Rep]",
+      "Gina Johnsen (R) [Rep]",
+      "Gregory Markkanen (R) [Rep]",
+      "Joseph Pavlov (R) [Rep]",
+      "Matthew Maddock (R) [Rep]",
+      "Joseph Fox (R) [Rep]",
+      "Jaime Greene (R) [Rep]",
+      "Brad Paquette (R) [Rep]",
+      "David Martin (R) [Rep]",
+      "Josh Schriver (R) [Rep]",
+      "Jason Woolford (R) [Rep]",
+      "Jennifer Wortz (R) [Rep]",
+      "Luke Meerman (R) [Rep]"
+    ],
+    "introduced_date": "2026-06-03",
+    "session": "103rd Legislature"
   },
   {
     "id": 2055358,
@@ -14453,35 +14691,6 @@
     "session": "2025-2026 Regular Session"
   },
   {
-    "id": 2081725,
-    "state": "OK",
-    "state_name": "Oklahoma",
-    "bill_number": "HB3798",
-    "title": "State health insurance coverage; gender transition procedures; effective date.",
-    "summary": "State health insurance coverage; gender transition procedures; effective date.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/OK/bill/HB3798/2026",
-    "legiscan_url": "https://legiscan.com/OK/bill/HB3798/2026",
-    "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3798&Session=2600",
-    "sponsors": [
-      "Chris Sneed (R) [Rep]"
-    ],
-    "introduced_date": "2026-02-02",
-    "session": "2026 Regular Session"
-  },
-  {
     "id": 2048843,
     "state": "OK",
     "state_name": "Oklahoma",
@@ -14518,6 +14727,35 @@
       "Warren Hamilton (R) [Sen]"
     ],
     "introduced_date": "2026-05-13",
+    "session": "2026 Regular Session"
+  },
+  {
+    "id": 2081725,
+    "state": "OK",
+    "state_name": "Oklahoma",
+    "bill_number": "HB3798",
+    "title": "State health insurance coverage; gender transition procedures; effective date.",
+    "summary": "State health insurance coverage; gender transition procedures; effective date.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/OK/bill/HB3798/2026",
+    "legiscan_url": "https://legiscan.com/OK/bill/HB3798/2026",
+    "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3798&Session=2600",
+    "sponsors": [
+      "Chris Sneed (R) [Rep]"
+    ],
+    "introduced_date": "2026-02-02",
     "session": "2026 Regular Session"
   },
   {
@@ -14585,49 +14823,6 @@
       "Dan Lauwers (R) [Sen]",
       "Ricky Outman (R) [Sen]",
       "Lana Theis (R) [Sen]"
-    ],
-    "introduced_date": "2025-05-07",
-    "session": "103rd Legislature"
-  },
-  {
-    "id": 2029346,
-    "state": "MI",
-    "state_name": "Michigan",
-    "bill_number": "HB4468",
-    "title": "Insurance: health insurers; coverage for adverse consequences related to gender transition and reversal of gender transition; require. Amends 1956 PA 218 (MCL 500.100 - 500.8302) by adding sec. 3406ww.",
-    "summary": "Insurance: health insurers; coverage for adverse consequences related to gender transition and reversal of gender transition; require. Amends 1956 PA 218 (MCL 500.100 - 500.8302) by adding sec. 3406ww.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/MI/bill/HB4468/2025",
-    "legiscan_url": "https://legiscan.com/MI/bill/HB4468/2025",
-    "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4468",
-    "sponsors": [
-      "Tom Kunse (R) [Rep]",
-      "Pat Outman (R) [Rep]",
-      "Angela Rigas (R) [Rep]",
-      "Gina Johnsen (R) [Rep]",
-      "Gregory Markkanen (R) [Rep]",
-      "Joseph Pavlov (R) [Rep]",
-      "Matthew Maddock (R) [Rep]",
-      "Joseph Fox (R) [Rep]",
-      "Jaime Greene (R) [Rep]",
-      "Brad Paquette (R) [Rep]",
-      "David Martin (R) [Rep]",
-      "Josh Schriver (R) [Rep]",
-      "Jason Woolford (R) [Rep]",
-      "Jennifer Wortz (R) [Rep]",
-      "Luke Meerman (R) [Rep]"
     ],
     "introduced_date": "2025-05-07",
     "session": "103rd Legislature"
@@ -15061,6 +15256,50 @@
     "session": "2026 Regular Session"
   },
   {
+    "id": 2029349,
+    "state": "MI",
+    "state_name": "Michigan",
+    "bill_number": "HB4467",
+    "title": "Health: other; gender reassignment procedures or treatment for minors; prohibit. Creates new act.",
+    "summary": "Health: other; gender reassignment procedures or treatment for minors; prohibit. Creates new act.",
+    "status": "passed_one_chamber",
+    "status_label": "Engrossed",
+    "status_code": 2,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/MI/bill/HB4467/2025",
+    "legiscan_url": "https://legiscan.com/MI/bill/HB4467/2025",
+    "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4467",
+    "sponsors": [
+      "Brad Paquette (R) [Rep]",
+      "Pat Outman (R) [Rep]",
+      "Angela Rigas (R) [Rep]",
+      "Gina Johnsen (R) [Rep]",
+      "Gregory Markkanen (R) [Rep]",
+      "Joseph Pavlov (R) [Rep]",
+      "Matthew Maddock (R) [Rep]",
+      "Joseph Fox (R) [Rep]",
+      "Jaime Greene (R) [Rep]",
+      "Steve Carra (R) [Rep]",
+      "Tom Kunse (R) [Rep]",
+      "David Martin (R) [Rep]",
+      "Josh Schriver (R) [Rep]",
+      "Jason Woolford (R) [Rep]",
+      "Jennifer Wortz (R) [Rep]",
+      "Luke Meerman (R) [Rep]"
+    ],
+    "introduced_date": "2026-06-03",
+    "session": "103rd Legislature"
+  },
+  {
     "id": 2029168,
     "state": "SC",
     "state_name": "South Carolina",
@@ -15103,40 +15342,6 @@
     "session": "126th General Assembly"
   },
   {
-    "id": 2146754,
-    "state": "US",
-    "state_name": "Federal",
-    "bill_number": "HB8573",
-    "title": "To prohibit gender transition procedures on minors, to authorize the Secretary of Health and Human Services to impose civil penalties on persons who perform gender transition procedures on minors, and for other purposes.",
-    "summary": "To prohibit gender transition procedures on minors, to authorize the Secretary of Health and Human Services to impose civil penalties on persons who perform gender transition procedures on minors, and for other purposes.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "federal",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/US/bill/HB8573/2025",
-    "legiscan_url": "https://legiscan.com/US/bill/HB8573/2025",
-    "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/8573/all-info",
-    "sponsors": [
-      "Diana Harshbarger (R) [Rep]",
-      "Addison McDowell (R) [Rep]",
-      "Marlin Stutzman (R) [Rep]",
-      "Mary Miller (R) [Rep]",
-      "Russell Fry (R) [Rep]",
-      "Greg Steube (R) [Rep]"
-    ],
-    "introduced_date": "2026-04-29",
-    "session": "119th Congress"
-  },
-  {
     "id": 2029235,
     "state": "MI",
     "state_name": "Michigan",
@@ -15168,50 +15373,6 @@
       "Ricky Outman (R) [Sen]",
       "Lana Theis (R) [Sen]",
       "Jonathan Lindsey (R) [Sen]"
-    ],
-    "introduced_date": "2025-05-07",
-    "session": "103rd Legislature"
-  },
-  {
-    "id": 2029349,
-    "state": "MI",
-    "state_name": "Michigan",
-    "bill_number": "HB4467",
-    "title": "Health: other; gender reassignment procedures or treatment for minors; prohibit. Creates new act.",
-    "summary": "Health: other; gender reassignment procedures or treatment for minors; prohibit. Creates new act.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/MI/bill/HB4467/2025",
-    "legiscan_url": "https://legiscan.com/MI/bill/HB4467/2025",
-    "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-HB-4467",
-    "sponsors": [
-      "Brad Paquette (R) [Rep]",
-      "Pat Outman (R) [Rep]",
-      "Angela Rigas (R) [Rep]",
-      "Gina Johnsen (R) [Rep]",
-      "Gregory Markkanen (R) [Rep]",
-      "Joseph Pavlov (R) [Rep]",
-      "Matthew Maddock (R) [Rep]",
-      "Joseph Fox (R) [Rep]",
-      "Jaime Greene (R) [Rep]",
-      "Steve Carra (R) [Rep]",
-      "Tom Kunse (R) [Rep]",
-      "David Martin (R) [Rep]",
-      "Josh Schriver (R) [Rep]",
-      "Jason Woolford (R) [Rep]",
-      "Jennifer Wortz (R) [Rep]",
-      "Luke Meerman (R) [Rep]"
     ],
     "introduced_date": "2025-05-07",
     "session": "103rd Legislature"
@@ -16010,6 +16171,42 @@
     "session": "2025-2026 Regular Session"
   },
   {
+    "id": 2139787,
+    "state": "LA",
+    "state_name": "Louisiana",
+    "bill_number": "HB1137",
+    "title": "Prohibits intentional discrimination based on compelled speech with respect to using certain pronouns, names, or honorifics",
+    "summary": "Prohibits intentional discrimination based on compelled speech with respect to using certain pronouns, names, or honorifics",
+    "status": "signed_into_law",
+    "status_label": "Passed",
+    "status_code": 4,
+    "categories": [
+      "definitions",
+      "other"
+    ],
+    "primary_category": "definitions",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/LA/bill/HB1137/2026",
+    "legiscan_url": "https://legiscan.com/LA/bill/HB1137/2026",
+    "state_url": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB1137&sbi=y",
+    "sponsors": [
+      "Raymond Crews (R) [Rep]",
+      "Adam Bass (R) [Sen]",
+      "Rick Edmonds (R) [Sen]",
+      "Valarie Hodges (R) [Sen]",
+      "Blake Miguez (R) [Sen]",
+      "John Morris (R) [Sen]",
+      "Alan Seabaugh (R) [Sen]"
+    ],
+    "introduced_date": "2026-05-29",
+    "session": "2026 Regular Session"
+  },
+  {
     "id": 2035544,
     "state": "WI",
     "state_name": "Wisconsin",
@@ -16225,42 +16422,6 @@
     "session": "2026 Regular Session"
   },
   {
-    "id": 2139787,
-    "state": "LA",
-    "state_name": "Louisiana",
-    "bill_number": "HB1137",
-    "title": "Prohibits intentional discrimination based on compelled speech with respect to using certain pronouns, names, or honorifics",
-    "summary": "Prohibits intentional discrimination based on compelled speech with respect to using certain pronouns, names, or honorifics",
-    "status": "passed_both_chambers",
-    "status_label": "Enrolled",
-    "status_code": 3,
-    "categories": [
-      "definitions",
-      "other"
-    ],
-    "primary_category": "definitions",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/LA/bill/HB1137/2026",
-    "legiscan_url": "https://legiscan.com/LA/bill/HB1137/2026",
-    "state_url": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB1137&sbi=y",
-    "sponsors": [
-      "Raymond Crews (R) [Rep]",
-      "Adam Bass (R) [Sen]",
-      "Rick Edmonds (R) [Sen]",
-      "Valarie Hodges (R) [Sen]",
-      "Blake Miguez (R) [Sen]",
-      "John Morris (R) [Sen]",
-      "Alan Seabaugh (R) [Sen]"
-    ],
-    "introduced_date": "2026-05-25",
-    "session": "2026 Regular Session"
-  },
-  {
     "id": 2080057,
     "state": "SC",
     "state_name": "South Carolina",
@@ -16346,6 +16507,35 @@
     "session": "103rd Legislature"
   },
   {
+    "id": 2060121,
+    "state": "AZ",
+    "state_name": "Arizona",
+    "bill_number": "HCR2003",
+    "title": "Interscholastic; intramural athletics; biological sex",
+    "summary": "Interscholastic; intramural athletics; biological sex",
+    "status": "passed_one_chamber",
+    "status_label": "Engrossed",
+    "status_code": 2,
+    "categories": [
+      "sports"
+    ],
+    "primary_category": "sports",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/AZ/bill/HCR2003/2026",
+    "legiscan_url": "https://legiscan.com/AZ/bill/HCR2003/2026",
+    "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/83656",
+    "sponsors": [
+      "Selina Bliss (R) [Rep]"
+    ],
+    "introduced_date": "2026-02-23",
+    "session": "Fifty-seventh Legislature - Second Regular Session (2026)"
+  },
+  {
     "id": 2064528,
     "state": "NH",
     "state_name": "New Hampshire",
@@ -16387,35 +16577,6 @@
     ],
     "introduced_date": "2025-03-28",
     "session": "2026 Regular Session"
-  },
-  {
-    "id": 2060121,
-    "state": "AZ",
-    "state_name": "Arizona",
-    "bill_number": "HCR2003",
-    "title": "Interscholastic; intramural athletics; biological sex",
-    "summary": "Interscholastic; intramural athletics; biological sex",
-    "status": "passed_one_chamber",
-    "status_label": "Engrossed",
-    "status_code": 2,
-    "categories": [
-      "sports"
-    ],
-    "primary_category": "sports",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/AZ/bill/HCR2003/2026",
-    "legiscan_url": "https://legiscan.com/AZ/bill/HCR2003/2026",
-    "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/83656",
-    "sponsors": [
-      "Selina Bliss (R) [Rep]"
-    ],
-    "introduced_date": "2026-02-23",
-    "session": "Fifty-seventh Legislature - Second Regular Session (2026)"
   },
   {
     "id": 1957343,
@@ -17035,36 +17196,6 @@
     "session": "89th Legislature Regular Session"
   },
   {
-    "id": 1985572,
-    "state": "TX",
-    "state_name": "Texas",
-    "bill_number": "HB3431",
-    "title": "Relating to prohibitions on the provision to certain children of gender transitioning or reassignment procedures and treatments and gender-affirming therapy and counseling; creating criminal offenses.",
-    "summary": "Relating to prohibitions on the provision to certain children of gender transitioning or reassignment procedures and treatments and gender-affirming therapy and counseling; creating criminal offenses.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare",
-      "definitions"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/TX/bill/HB3431/2025",
-    "legiscan_url": "https://legiscan.com/TX/bill/HB3431/2025",
-    "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3431",
-    "sponsors": [
-      "Tony Tinderholt (R) [Rep]"
-    ],
-    "introduced_date": "2025-02-26",
-    "session": "89th Legislature Regular Session"
-  },
-  {
     "id": 1987248,
     "state": "TX",
     "state_name": "Texas",
@@ -17092,6 +17223,36 @@
       "David Lowe (R) [Rep]"
     ],
     "introduced_date": "2025-02-27",
+    "session": "89th Legislature Regular Session"
+  },
+  {
+    "id": 1985572,
+    "state": "TX",
+    "state_name": "Texas",
+    "bill_number": "HB3431",
+    "title": "Relating to prohibitions on the provision to certain children of gender transitioning or reassignment procedures and treatments and gender-affirming therapy and counseling; creating criminal offenses.",
+    "summary": "Relating to prohibitions on the provision to certain children of gender transitioning or reassignment procedures and treatments and gender-affirming therapy and counseling; creating criminal offenses.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare",
+      "definitions"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/TX/bill/HB3431/2025",
+    "legiscan_url": "https://legiscan.com/TX/bill/HB3431/2025",
+    "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB3431",
+    "sponsors": [
+      "Tony Tinderholt (R) [Rep]"
+    ],
+    "introduced_date": "2025-02-26",
     "session": "89th Legislature Regular Session"
   },
   {
@@ -18632,9 +18793,9 @@
     "bill_number": "HB4466",
     "title": "Health: licensing; sanctions for performing gender reassignment procedures or treatment to minors; provide for. Amends secs. 16221 & 16226 of 1978 PA 368 (MCL 333.16221 & 333.16226). TIE BAR WITH: HB 4467'25",
     "summary": "Health: licensing; sanctions for performing gender reassignment procedures or treatment to minors; provide for. Amends secs. 16221 & 16226 of 1978 PA 368 (MCL 333.16221 & 333.16226). TIE BAR WITH: HB 4467'25",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
+    "status": "passed_one_chamber",
+    "status_label": "Engrossed",
+    "status_code": 2,
     "categories": [
       "healthcare"
     ],
@@ -18666,7 +18827,7 @@
       "Jennifer Wortz (R) [Rep]",
       "Luke Meerman (R) [Rep]"
     ],
-    "introduced_date": "2025-05-07",
+    "introduced_date": "2026-06-03",
     "session": "103rd Legislature"
   },
   {

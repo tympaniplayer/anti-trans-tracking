@@ -5,9 +5,9 @@
   "bill_number": "HB4468",
   "title": "Insurance: health insurers; coverage for adverse consequences related to gender transition and reversal of gender transition; require. Amends 1956 PA 218 (MCL 500.100 - 500.8302) by adding sec. 3406ww.",
   "summary": "Insurance: health insurers; coverage for adverse consequences related to gender transition and reversal of gender transition; require. Amends 1956 PA 218 (MCL 500.100 - 500.8302) by adding sec. 3406ww.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
   "categories": [
     "healthcare"
   ],
@@ -38,7 +38,7 @@
     "Jennifer Wortz (R) [Rep]",
     "Luke Meerman (R) [Rep]"
   ],
-  "introduced_date": "2025-05-07",
+  "introduced_date": "2026-06-03",
   "session": "103rd Legislature",
   "actions": [
     {
@@ -70,15 +70,86 @@
       "date": "2026-05-13",
       "action": "Recommendation Concurred In",
       "chamber": "H"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "Rule Suspended",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "Motion To Discharge Committee Approved",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "Placed On Second Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "Read A Second Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "Amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "Placed On Third Reading",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "Placed On Immediate Passage",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "Read A Third Time",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "Passed; Given Immediate Effect Roll Call #178 Yeas 58 Nays 48 Excused 0 Not Voting 4",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "Transmitted",
+      "chamber": "H"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-05-13",
+      "description": "Reported With Recommendation For Referral To Committee On Government Operations",
+      "yea": 10,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-06-03",
+      "description": "House Third Reading: Given Immediate Effect Roll Call #178",
+      "yea": 58,
+      "nay": 48,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2025-05-07",
       "type": "Introduced",
       "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/House/htm/2025-HIB-4468.htm",
       "doc_id": 3231390
+    },
+    {
+      "date": "2026-06-03",
+      "type": "Engrossed",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billengrossed/House/htm/2025-HEBH-4468.htm",
+      "doc_id": 3445315
     }
   ],
   "committee": [],

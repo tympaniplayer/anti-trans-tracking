@@ -1,0 +1,86 @@
+{
+  "id": 2152858,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "SR0128",
+  "title": "A resolution to recognize June 2026 as Lesbian, Gay, Bisexual, Transgender, Queer+ (LGBTQ+) Pride Month.",
+  "summary": "A resolution to recognize June 2026 as Lesbian, Gay, Bisexual, Transgender, Queer+ (LGBTQ+) Pride Month.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/SR0128/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/SR0128/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SR-0128",
+  "sponsors": [
+    "Jeremy Moss (D) [Sen]",
+    "Dayna Polehanki (D) [Sen]",
+    "Sue Shink (D) [Sen]",
+    "Winnie Brinks (D) [Sen]",
+    "Rosemary Bayer (D) [Sen]",
+    "Sean McCann (D) [Sen]",
+    "Paul Wojno (D) [Sen]",
+    "Veronica Klinefelt (D) [Sen]",
+    "John Cherry (D) [Sen]",
+    "Stephanie Chang (D) [Sen]",
+    "Darrin Camilleri (D) [Sen]",
+    "Jeff Irwin (D) [Sen]",
+    "Mallory McMorrow (D) [Sen]",
+    "Mary Cavanagh (D) [Sen]",
+    "Samir Singh (D) [Sen]",
+    "Kevin Hertel (D) [Sen]",
+    "Erika Geiss (D) [Sen]",
+    "Sarah Anthony (D) [Sen]"
+  ],
+  "introduced_date": "2026-06-04",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2026-06-04",
+      "action": "Introduced By Senator Jeremy Moss",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-04",
+      "action": "Rules Suspended",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-04",
+      "action": "Adopted",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-06-03",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/resolutionintroduced/Senate/htm/2026-SIR-0128.htm",
+      "doc_id": 3445047
+    },
+    {
+      "date": "2026-06-04",
+      "type": "Enrolled",
+      "url": "https://legislature.mi.gov/documents/2025-2026/resolutionadopted/Senate/htm/2026-SAR-0128.htm",
+      "doc_id": 3445702
+    },
+    {
+      "date": "2026-06-04",
+      "type": "Enrolled",
+      "url": "https://legislature.mi.gov/documents/2025-2026/resolutionenrolled/Senate/htm/2026-SER-0128.htm",
+      "doc_id": 3445703
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

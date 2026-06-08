@@ -5,9 +5,9 @@
   "bill_number": "HR0794",
   "title": "LGBTQIA+ MONTH",
   "summary": "Declares July 2026 as LGBTQIA+ Veterans Month in the State of Illinois. Calls upon all residents to honor the service of LGBTQIA+ veterans, support their pursuit of justice, and celebrate their enduring contributions to our nation and our community.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "other"
   ],
@@ -23,9 +23,12 @@
   "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=794&GAID=18&DocTypeID=HR&SessionID=114&GA=104",
   "sponsors": [
     "Robyn Gabel (D) [Rep]",
-    "Nicolle Grasse (D) [Rep]"
+    "Nicolle Grasse (D) [Rep]",
+    "Stephanie Kifowit (D) [Rep]",
+    "Amy Briel (D) [Rep]",
+    "Michelle Mussman (D) [Rep]"
   ],
-  "introduced_date": "2026-04-10",
+  "introduced_date": "2026-06-01",
   "session": "104th General Assembly",
   "actions": [
     {
@@ -56,6 +59,26 @@
     {
       "date": "2026-05-08",
       "action": "Added Chief Co-Sponsor Rep. Nicolle Grasse",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-01",
+      "action": "Resolution Adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-01",
+      "action": "Added Co-Sponsor Rep. Amy Briel",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-01",
+      "action": "Added Co-Sponsor Rep. Michelle Mussman",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-01",
+      "action": "Added Chief Co-Sponsor Rep. Stephanie A. Kifowit",
       "chamber": "H"
     }
   ],

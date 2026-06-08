@@ -5,9 +5,9 @@
   "bill_number": "HB1137",
   "title": "Prohibits intentional discrimination based on compelled speech with respect to using certain pronouns, names, or honorifics",
   "summary": "Prohibits intentional discrimination based on compelled speech with respect to using certain pronouns, names, or honorifics",
-  "status": "passed_both_chambers",
-  "status_label": "Enrolled",
-  "status_code": 3,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "definitions",
     "other"
@@ -31,7 +31,7 @@
     "John Morris (R) [Sen]",
     "Alan Seabaugh (R) [Sen]"
   ],
-  "introduced_date": "2026-05-25",
+  "introduced_date": "2026-05-29",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -123,6 +123,16 @@
       "date": "2026-05-26",
       "action": "Sent to the Governor for executive approval.",
       "chamber": "H"
+    },
+    {
+      "date": "2026-05-29",
+      "action": "Signed by the Governor. Becomes Act No. 579.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-29",
+      "action": "Effective date: 08/01/2026.",
+      "chamber": "H"
     }
   ],
   "votes": [
@@ -179,6 +189,12 @@
       "type": "Enrolled",
       "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1475456",
       "doc_id": 3440241
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Chaptered",
+      "url": "https://www.legis.la.gov/Legis/ViewDocument.aspx?d=1480354",
+      "doc_id": 3446301
     }
   ],
   "committee": [],

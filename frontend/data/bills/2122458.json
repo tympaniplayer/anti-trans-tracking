@@ -67,6 +67,11 @@
       "date": "2026-05-21",
       "action": "ADVANCED TO THIRD READING",
       "chamber": "S"
+    },
+    {
+      "date": "2026-06-05",
+      "action": "COMMITTED TO RULES",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -99,6 +104,11 @@
       "doc_id": 3423865
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 439,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Rules"
+  },
   "subjects": []
 }

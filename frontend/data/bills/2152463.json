@@ -1,0 +1,66 @@
+{
+  "id": 2152463,
+  "state": "PA",
+  "state_name": "Pennsylvania",
+  "bill_number": "SR329",
+  "title": "Recognizing the month of June 2026 as \"LGBTQ+ Pride Month\" in Pennsylvania in celebration of past, present and future LGBTQ+ accomplishments and contributions to this Commonwealth and in commemoration of the 57th anniversary of the Stonewall Inn demonstrations.",
+  "summary": "A Resolution recognizing the month of June 2026 as \"LGBTQ+ Pride Month\" in Pennsylvania in celebration of past, present and future LGBTQ+ accomplishments and contributions to this Commonwealth and in commemoration of the 57th anniversary of the Stonewall Inn demonstrations.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/PA/bill/SR329/2025",
+  "legiscan_url": "https://legiscan.com/PA/bill/SR329/2025",
+  "state_url": "https://www.palegis.us/legislation/bills/2025/sr329",
+  "sponsors": [
+    "Sharif Street (D) [Sen]",
+    "Nikil Saval (D) [Sen]",
+    "Lisa Boscola (D) [Sen]",
+    "Christine Tartaglione (D) [Sen]",
+    "Vincent Hughes (D) [Sen]",
+    "Arthur Haywood (D) [Sen]",
+    "Timothy Kearney (D) [Sen]",
+    "Steven Santarsiero (D) [Sen]",
+    "Carolyn Comitta (D) [Sen]",
+    "Amanda Cappelletti (D) [Sen]",
+    "Jay Costa (D) [Sen]",
+    "Martin Flynn (D) [Sen]",
+    "Patty Kim (D) [Sen]",
+    "Lindsey Williams (D) [Sen]",
+    "Judy Schwank (D) [Sen]"
+  ],
+  "introduced_date": "2026-06-01",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-06-01",
+      "action": "Referred to Rules & Executive Nominations",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-06-01",
+      "type": "Introduced",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/SR0329/PN1753",
+      "doc_id": 3443735
+    }
+  ],
+  "committee": {
+    "committee_id": 83,
+    "chamber": "S",
+    "chamber_id": 4,
+    "name": "Rules & Executive Nominations"
+  },
+  "subjects": []
+}

@@ -5,9 +5,9 @@
   "bill_number": "S09093",
   "title": "Establishes a twenty-four hour, toll-free hotline and website for lesbian, gay, bisexual, transgender, queer or questioning plus (LGBTQ+) individuals who are experiencing emotional distress, suicidal ideation, or crisis-related challenges, which shall provide immediate support, referrals, resource lists, and other information.",
   "summary": "Establishes a twenty-four hour, toll-free hotline and website for lesbian, gay, bisexual, transgender, queer or questioning plus (LGBTQ+) individuals who are experiencing emotional distress, suicidal ideation, or crisis-related challenges, which shall provide immediate support, referrals, resource lists, and other information.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
   "categories": [
     "healthcare"
   ],
@@ -31,16 +31,49 @@
     "Lea Webb (D) [Sen]",
     "Jeremy Zellner (D) [Sen]"
   ],
-  "introduced_date": "2026-02-02",
+  "introduced_date": "2026-06-03",
   "session": "2025-2026 General Assembly",
   "actions": [
     {
       "date": "2026-02-02",
       "action": "REFERRED TO MENTAL HEALTH",
       "chamber": "S"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "COMMITTEE DISCHARGED AND COMMITTED TO RULES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "ORDERED TO THIRD READING CAL.1645",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-04",
+      "action": "referred to mental health",
+      "chamber": "A"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-06-03",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 55,
+      "nay": 6,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2026-02-02",
@@ -50,9 +83,9 @@
     }
   ],
   "committee": {
-    "committee_id": 4467,
-    "chamber": "S",
-    "chamber_id": 74,
+    "committee_id": 377,
+    "chamber": "A",
+    "chamber_id": 73,
     "name": "Mental Health"
   },
   "subjects": []

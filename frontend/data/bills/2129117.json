@@ -5,9 +5,9 @@
   "bill_number": "HB1322",
   "title": "Civil Actions for Conversion Therapy Survivors",
   "summary": "Concerning civil actions against certain individuals engaging in conversion therapy efforts.",
-  "status": "passed_both_chambers",
-  "status_label": "Enrolled",
-  "status_code": 3,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "healthcare"
   ],
@@ -72,13 +72,13 @@
     "Cathy Kipp (D) [Sen]",
     "Chris Kolker (D) [Sen]",
     "William Lindstedt (D) [Sen]",
-    "Dylan Roberts (D) [Sen]",
+    "Dylan Roberts (D) [Rep]",
     "Marc Snyder (D) [Rep]",
     "Tom Sullivan (D) [Sen]",
     "Katie Wallace (D) [Sen]",
     "Michael Weissman (D) [Rep]"
   ],
-  "introduced_date": "2026-05-07",
+  "introduced_date": "2026-06-01",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -159,6 +159,11 @@
     {
       "date": "2026-05-21",
       "action": "Sent to the Governor",
+      "chamber": ""
+    },
+    {
+      "date": "2026-06-01",
+      "action": "Governor Signed",
       "chamber": ""
     }
   ],
@@ -270,6 +275,12 @@
       "type": "Enrolled",
       "url": "https://leg.colorado.gov/bill_files/116598/download",
       "doc_id": 3440052
+    },
+    {
+      "date": "1969-12-31",
+      "type": "Chaptered",
+      "url": "https://leg.colorado.gov/bill_files/116973/download",
+      "doc_id": 3444981
     }
   ],
   "committee": [],

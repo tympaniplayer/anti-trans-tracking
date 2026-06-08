@@ -1,0 +1,100 @@
+{
+  "id": 2153025,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "HR0329",
+  "title": "A resolution to declare June 2026 as Lesbian, Gay, Bisexual, Transgender, and Queer Pride Month in the state of Michigan.",
+  "summary": "A resolution to declare June 2026 as Lesbian, Gay, Bisexual, Transgender, and Queer Pride Month in the state of Michigan.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/HR0329/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/HR0329/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-HR-0329",
+  "sponsors": [
+    "Jason Morgan (D) [Rep]",
+    "Mike McFall (D) [Rep]",
+    "Laurie Pohutsky (D) [Rep]",
+    "Emily Dievendorf (D) [Rep]",
+    "Jason Hoskins (D) [Rep]",
+    "Noah Arbit (D) [Rep]",
+    "Kelly Breen (D) [Rep]",
+    "Carrie Rheingans (D) [Rep]",
+    "Penelope Tsernoglou (D) [Rep]",
+    "Donavan McKinney (D) [Rep]",
+    "Morgan Foreman (D) [Rep]",
+    "Mai Xiong (D) [Rep]",
+    "Matt Longjohn (D) [Rep]",
+    "Jasper Martus (D) [Rep]",
+    "Jennifer Conlin (D) [Rep]",
+    "John Fitzgerald (D) [Rep]",
+    "Sharon MacDonell (D) [Rep]",
+    "Stephanie Young (D) [Rep]",
+    "Matt Koleszar (D) [Rep]",
+    "Angela Witwer (D) [Rep]",
+    "Jimmie Wilson (D) [Rep]",
+    "Kara Hope (D) [Rep]",
+    "Helena Scott (D) [Rep]",
+    "Regina Weiss (D) [Rep]",
+    "Stephen Wooden (D) [Rep]",
+    "Julie Brixie (D) [Rep]",
+    "Natalie Price (D) [Rep]",
+    "Kristian Grant (D) [Rep]",
+    "Ranjeev Puri (D) [Rep]",
+    "Reggie Miller (D) [Rep]",
+    "Erin Byrnes (D) [Rep]",
+    "Tonya Myers Phillips (D) [Rep]",
+    "Tyrone Carter (D) [Rep]",
+    "Carol Glanville (D) [Rep]",
+    "Veronica Paiz (D) [Rep]",
+    "Joey Andrews (D) [Rep]",
+    "Julie Rogers (D) [Rep]",
+    "Dylan Wegela (D) [Rep]",
+    "Phil Skaggs (D) [Rep]",
+    "Will Snyder (D) [Rep]",
+    "Kimberly Edwards (D) [Rep]",
+    "Cynthia Neeley (D) [Rep]",
+    "Samantha Steckloff (D) [Rep]",
+    "Denise Mentzer (D) [Rep]"
+  ],
+  "introduced_date": "2026-06-04",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2026-06-04",
+      "action": "Introduced By Representative Rep. Jason Morgan",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-04",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-06-04",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/resolutionintroduced/House/htm/2026-HIR-0329.htm",
+      "doc_id": 3445786
+    }
+  ],
+  "committee": {
+    "committee_id": 899,
+    "chamber": "H",
+    "chamber_id": 53,
+    "name": "Government Operations"
+  },
+  "subjects": []
+}

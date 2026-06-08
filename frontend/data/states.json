@@ -16,39 +16,39 @@
   "US": {
     "state": "US",
     "state_name": "Federal",
-    "total": 40,
+    "total": 39,
     "by_category": {
       "other": 18,
-      "healthcare": 14,
+      "healthcare": 13,
       "education": 4,
       "sports": 2,
       "definitions": 2
     },
     "by_status": {
-      "introduced": 40
+      "introduced": 39
     },
     "by_sentiment": {
       "protective": 31,
-      "restrictive": 9
+      "restrictive": 8
     }
   },
   "NJ": {
     "state": "NJ",
     "state_name": "New Jersey",
-    "total": 24,
+    "total": 25,
     "by_category": {
-      "other": 8,
+      "other": 9,
       "identity_documents": 6,
       "healthcare": 5,
       "education": 3,
       "sports": 2
     },
     "by_status": {
-      "introduced": 23,
+      "introduced": 24,
       "passed_one_chamber": 1
     },
     "by_sentiment": {
-      "protective": 20,
+      "protective": 21,
       "restrictive": 4
     }
   },
@@ -64,9 +64,9 @@
       "bathrooms": 2
     },
     "by_status": {
-      "introduced": 49,
+      "introduced": 48,
       "signed_into_law": 1,
-      "passed_one_chamber": 3
+      "passed_one_chamber": 4
     },
     "by_sentiment": {
       "protective": 51,
@@ -265,21 +265,21 @@
   "PA": {
     "state": "PA",
     "state_name": "Pennsylvania",
-    "total": 11,
+    "total": 12,
     "by_category": {
-      "other": 4,
+      "other": 5,
       "identity_documents": 2,
       "definitions": 3,
       "education": 1,
       "healthcare": 1
     },
     "by_status": {
-      "introduced": 9,
+      "introduced": 10,
       "signed_into_law": 1,
       "passed_one_chamber": 1
     },
     "by_sentiment": {
-      "protective": 9,
+      "protective": 10,
       "restrictive": 2
     }
   },
@@ -322,21 +322,21 @@
   "MI": {
     "state": "MI",
     "state_name": "Michigan",
-    "total": 19,
+    "total": 21,
     "by_category": {
-      "other": 3,
+      "other": 5,
       "definitions": 1,
       "healthcare": 9,
       "sports": 3,
       "bathrooms": 3
     },
     "by_status": {
-      "signed_into_law": 1,
-      "introduced": 16,
-      "passed_one_chamber": 2
+      "signed_into_law": 2,
+      "introduced": 14,
+      "passed_one_chamber": 5
     },
     "by_sentiment": {
-      "protective": 2,
+      "protective": 4,
       "restrictive": 17
     }
   },
@@ -477,7 +477,8 @@
       "bathrooms": 2
     },
     "by_status": {
-      "introduced": 14
+      "introduced": 13,
+      "signed_into_law": 1
     },
     "by_sentiment": {
       "protective": 8,
@@ -562,7 +563,7 @@
       "healthcare": 2
     },
     "by_status": {
-      "passed_both_chambers": 1,
+      "signed_into_law": 1,
       "dead": 1
     },
     "by_sentiment": {
@@ -603,7 +604,7 @@
     },
     "by_status": {
       "introduced": 2,
-      "passed_both_chambers": 1
+      "signed_into_law": 1
     },
     "by_sentiment": {
       "protective": 1,
