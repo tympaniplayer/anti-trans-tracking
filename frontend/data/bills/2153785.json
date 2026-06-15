@@ -1,0 +1,68 @@
+{
+  "id": 2153785,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SR766",
+  "title": "A resolution acknowledging and apologizing for the mistreatment of, and discrimination against, lesbian, gay, bisexual, and transgender individuals who served the United States in the uniformed services, the Foreign Service, and the Federal civil service and committing to the pursuit of equal rights, protections, and respect for all LGBT servicemembers and Federal civil servants.",
+  "summary": "A resolution acknowledging and apologizing for the mistreatment of, and discrimination against, lesbian, gay, bisexual, and transgender individuals who served the United States in the uniformed services, the Foreign Service, and the Federal civil service and committing to the pursuit of equal rights, protections, and respect for all LGBT servicemembers and Federal civil servants.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SR766/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SR766/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/766/all-info",
+  "sponsors": [
+    "Tim Kaine (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Michael Bennet (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Richard Durbin (D) [Sen]",
+    "John Fetterman (D) [Sen]",
+    "Ruben Gallego (D) [Sen]",
+    "Kirsten Gillibrand (D) [Sen]",
+    "Angus King (I) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Jeff Merkley (D) [Sen]",
+    "Patty Murray (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Brian Schatz (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Jeanne Shaheen (D) [Sen]",
+    "Sheldon Whitehouse (D) [Sen]",
+    "Ron Wyden (D) [Sen]"
+  ],
+  "introduced_date": "2026-06-11",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-06-11",
+      "action": "Submitted in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-11",
+      "action": "Referred to the Committee on Homeland Security and Governmental Affairs. (text: CR S2766-2768)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [],
+  "committee": {
+    "committee_id": 2329,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Homeland Security And Governmental Affairs"
+  },
+  "subjects": []
+}

@@ -339,54 +339,6 @@
     "session": "119th Congress"
   },
   {
-    "id": 2018602,
-    "state": "US",
-    "state_name": "Federal",
-    "bill_number": "SCR11",
-    "title": "A concurrent resolution supporting the goals and ideals of International Transgender Day of Visibility.",
-    "summary": "A concurrent resolution supporting the goals and ideals of International Transgender Day of Visibility.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "federal",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/US/bill/SCR11/2025",
-    "legiscan_url": "https://legiscan.com/US/bill/SCR11/2025",
-    "state_url": "https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/11/all-info",
-    "sponsors": [
-      "Brian Schatz (D) [Sen]",
-      "John Fetterman (D) [Sen]",
-      "Jacky Rosen (D) [Sen]",
-      "Edward Markey (D) [Sen]",
-      "Richard Durbin (D) [Sen]",
-      "Tina Smith (D) [Sen]",
-      "Ron Wyden (D) [Sen]",
-      "Jeff Merkley (D) [Sen]",
-      "Tammy Baldwin (D) [Sen]",
-      "Mazie Hirono (D) [Sen]",
-      "Cory Booker (D) [Sen]",
-      "Sheldon Whitehouse (D) [Sen]",
-      "Chris Van Hollen (D) [Sen]",
-      "Alex Padilla (D) [Sen]",
-      "Peter Welch (D) [Sen]",
-      "Elizabeth Warren (D) [Sen]",
-      "Richard Blumenthal (D) [Sen]",
-      "Christopher Coons (D) [Sen]",
-      "Adam Schiff (D) [Sen]",
-      "Tammy Duckworth (D) [Sen]"
-    ],
-    "introduced_date": "2025-03-31",
-    "session": "119th Congress"
-  },
-  {
     "id": 2114883,
     "state": "US",
     "state_name": "Federal",
@@ -522,6 +474,54 @@
       "Josh Gottheimer (D) [Rep]"
     ],
     "introduced_date": "2026-02-11",
+    "session": "119th Congress"
+  },
+  {
+    "id": 2018602,
+    "state": "US",
+    "state_name": "Federal",
+    "bill_number": "SCR11",
+    "title": "A concurrent resolution supporting the goals and ideals of International Transgender Day of Visibility.",
+    "summary": "A concurrent resolution supporting the goals and ideals of International Transgender Day of Visibility.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "federal",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/US/bill/SCR11/2025",
+    "legiscan_url": "https://legiscan.com/US/bill/SCR11/2025",
+    "state_url": "https://www.congress.gov/bill/119th-congress/senate-concurrent-resolution/11/all-info",
+    "sponsors": [
+      "Brian Schatz (D) [Sen]",
+      "John Fetterman (D) [Sen]",
+      "Jacky Rosen (D) [Sen]",
+      "Edward Markey (D) [Sen]",
+      "Richard Durbin (D) [Sen]",
+      "Tina Smith (D) [Sen]",
+      "Ron Wyden (D) [Sen]",
+      "Jeff Merkley (D) [Sen]",
+      "Tammy Baldwin (D) [Sen]",
+      "Mazie Hirono (D) [Sen]",
+      "Cory Booker (D) [Sen]",
+      "Sheldon Whitehouse (D) [Sen]",
+      "Chris Van Hollen (D) [Sen]",
+      "Alex Padilla (D) [Sen]",
+      "Peter Welch (D) [Sen]",
+      "Elizabeth Warren (D) [Sen]",
+      "Richard Blumenthal (D) [Sen]",
+      "Christopher Coons (D) [Sen]",
+      "Adam Schiff (D) [Sen]",
+      "Tammy Duckworth (D) [Sen]"
+    ],
+    "introduced_date": "2025-03-31",
     "session": "119th Congress"
   },
   {
@@ -2247,6 +2247,39 @@
     "session": "2025-2026 Regular Session"
   },
   {
+    "id": 2153732,
+    "state": "US",
+    "state_name": "Federal",
+    "bill_number": "HR1357",
+    "title": "Acknowledging and apologizing for the mistreatment of, and discrimination against, lesbian, gay, bisexual, and transgender individuals who served the United States in the uniformed services, the Foreign Service, and the Federal civil service and committing to the pursuit of equal rights, protections, and respect for all LGBT servicemembers and Federal civil servants.",
+    "summary": "Acknowledging and apologizing for the mistreatment of, and discrimination against, lesbian, gay, bisexual, and transgender individuals who served the United States in the uniformed services, the Foreign Service, and the Federal civil service and committing to the pursuit of equal rights, protections, and respect for all LGBT servicemembers and Federal civil servants.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "federal",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/US/bill/HR1357/2025",
+    "legiscan_url": "https://legiscan.com/US/bill/HR1357/2025",
+    "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/1357/all-info",
+    "sponsors": [
+      "Jennifer McClellan (D) [Rep]",
+      "Mark Takano (D) [Rep]",
+      "Raja Krishnamoorthi (D) [Rep]",
+      "Eleanor Norton (D) [Rep]",
+      "Gil Cisneros (D) [Rep]"
+    ],
+    "introduced_date": "2026-06-11",
+    "session": "119th Congress"
+  },
+  {
     "id": 1992673,
     "state": "NY",
     "state_name": "New York",
@@ -3324,7 +3357,9 @@
     "legiscan_url": "https://legiscan.com/NJ/bill/AJR177/2026",
     "state_url": "https://www.njleg.state.nj.us/bill-search/2026/AJR177",
     "sponsors": [
-      "Luanne Peterpaul (D) [Rep]"
+      "Luanne Peterpaul (D) [Rep]",
+      "Annette Quijano (D) [Rep]",
+      "Vincent Kearney (D) [Rep]"
     ],
     "introduced_date": "2026-05-07",
     "session": "2026-2027 Regular Session"
@@ -3387,7 +3422,8 @@
     "legiscan_url": "https://legiscan.com/NJ/bill/A5162/2026",
     "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A5162",
     "sponsors": [
-      "Luanne Peterpaul (D) [Rep]"
+      "Luanne Peterpaul (D) [Rep]",
+      "Annette Quijano (D) [Rep]"
     ],
     "introduced_date": "2026-06-01",
     "session": "2026-2027 Regular Session"
@@ -5887,6 +5923,7 @@
       "Matt Haney (D) [Rep]",
       "Corey Jackson (D) [Rep]",
       "John Laird (D) [Sen]",
+      "Josh Lowenthal (D) [Rep]",
       "Mark Gonzalez (D) [Rep]",
       "Caroline Menjivar (D) [Sen]",
       "Steve Padilla (D) [Sen]",
@@ -6365,7 +6402,11 @@
       "Herbert Conaway Jr. (D) [Rep]",
       "Jared Moskowitz (D) [Rep]",
       "Andre Carson (D) [Rep]",
-      "Gabe Amo (D) [Rep]"
+      "Gabe Amo (D) [Rep]",
+      "Josh Riley (D) [Rep]",
+      "James Himes (D) [Rep]",
+      "Kathy Castor (D) [Rep]",
+      "Brittany Pettersen (D) [Rep]"
     ],
     "introduced_date": "2025-09-17",
     "session": "119th Congress"
@@ -7064,6 +7105,53 @@
     ],
     "introduced_date": "2026-01-14",
     "session": "2026 Regular Regular Session"
+  },
+  {
+    "id": 2153785,
+    "state": "US",
+    "state_name": "Federal",
+    "bill_number": "SR766",
+    "title": "A resolution acknowledging and apologizing for the mistreatment of, and discrimination against, lesbian, gay, bisexual, and transgender individuals who served the United States in the uniformed services, the Foreign Service, and the Federal civil service and committing to the pursuit of equal rights, protections, and respect for all LGBT servicemembers and Federal civil servants.",
+    "summary": "A resolution acknowledging and apologizing for the mistreatment of, and discrimination against, lesbian, gay, bisexual, and transgender individuals who served the United States in the uniformed services, the Foreign Service, and the Federal civil service and committing to the pursuit of equal rights, protections, and respect for all LGBT servicemembers and Federal civil servants.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "federal",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/US/bill/SR766/2025",
+    "legiscan_url": "https://legiscan.com/US/bill/SR766/2025",
+    "state_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/766/all-info",
+    "sponsors": [
+      "Tim Kaine (D) [Sen]",
+      "Tammy Baldwin (D) [Sen]",
+      "Michael Bennet (D) [Sen]",
+      "Richard Blumenthal (D) [Sen]",
+      "Christopher Coons (D) [Sen]",
+      "Richard Durbin (D) [Sen]",
+      "John Fetterman (D) [Sen]",
+      "Ruben Gallego (D) [Sen]",
+      "Kirsten Gillibrand (D) [Sen]",
+      "Angus King (I) [Sen]",
+      "Edward Markey (D) [Sen]",
+      "Jeff Merkley (D) [Sen]",
+      "Patty Murray (D) [Sen]",
+      "Alex Padilla (D) [Sen]",
+      "Brian Schatz (D) [Sen]",
+      "Adam Schiff (D) [Sen]",
+      "Jeanne Shaheen (D) [Sen]",
+      "Sheldon Whitehouse (D) [Sen]",
+      "Ron Wyden (D) [Sen]"
+    ],
+    "introduced_date": "2026-06-11",
+    "session": "119th Congress"
   },
   {
     "id": 2110841,
@@ -9076,41 +9164,6 @@
     "session": "2026 Regular Session"
   },
   {
-    "id": 2054444,
-    "state": "NH",
-    "state_name": "New Hampshire",
-    "bill_number": "CACR25",
-    "title": "Relative to the right to marry. Providing that the right to marry is a fundamental civil right and that the state shall protect the right of every individual, regardless of sex, gender identity, sexual orientation, or race, to marry and to have their marriage legally recognized.",
-    "summary": "Relative to the right to marry. Providing that the right to marry is a fundamental civil right and that the state shall protect the right of every individual, regardless of sex, gender identity, sexual orientation, or race, to marry and to have their marriage legally recognized.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NH/bill/CACR25/2026",
-    "legiscan_url": "https://legiscan.com/NH/bill/CACR25/2026",
-    "state_url": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2956&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=CACR25",
-    "sponsors": [
-      "Alice Wade (D) [Rep]",
-      "Billie Butler (D) [Rep]",
-      "Alissandra Murray (D) [Rep]",
-      "Christal Lloyd (D) [Rep]",
-      "Dylan Germana (D) [Rep]",
-      "David Watters (D) [Sen]",
-      "Donovan Fenton (D) [Sen]"
-    ],
-    "introduced_date": "2025-12-01",
-    "session": "2026 Regular Session"
-  },
-  {
     "id": 1953649,
     "state": "NY",
     "state_name": "New York",
@@ -9803,6 +9856,36 @@
     "session": "91st General Assembly"
   },
   {
+    "id": 2067626,
+    "state": "UT",
+    "state_name": "Utah",
+    "bill_number": "HB0183",
+    "title": "Sex Designation Amendments",
+    "summary": "Sex Designation Amendments",
+    "status": "dead",
+    "status_label": "Failed",
+    "status_code": 6,
+    "categories": [
+      "identity_documents"
+    ],
+    "primary_category": "identity_documents",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/UT/bill/HB0183/2026",
+    "legiscan_url": "https://legiscan.com/UT/bill/HB0183/2026",
+    "state_url": "https://le.utah.gov/~2026/bills/static/HB0183.html",
+    "sponsors": [
+      "Mark Strong (R) [Rep]",
+      "Heidi Balderree (R) [Sen]"
+    ],
+    "introduced_date": "2026-03-06",
+    "session": "2026 General Session"
+  },
+  {
     "id": 1977922,
     "state": "IA",
     "state_name": "Iowa",
@@ -9890,36 +9973,6 @@
     ],
     "introduced_date": "2026-01-13",
     "session": "2026-2027 Regular Session"
-  },
-  {
-    "id": 2067626,
-    "state": "UT",
-    "state_name": "Utah",
-    "bill_number": "HB0183",
-    "title": "Sex Designation Amendments",
-    "summary": "Sex Designation Amendments",
-    "status": "dead",
-    "status_label": "Failed",
-    "status_code": 6,
-    "categories": [
-      "identity_documents"
-    ],
-    "primary_category": "identity_documents",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/UT/bill/HB0183/2026",
-    "legiscan_url": "https://legiscan.com/UT/bill/HB0183/2026",
-    "state_url": "https://le.utah.gov/~2026/bills/static/HB0183.html",
-    "sponsors": [
-      "Mark Strong (R) [Rep]",
-      "Heidi Balderree (R) [Sen]"
-    ],
-    "introduced_date": "2026-03-06",
-    "session": "2026 General Session"
   },
   {
     "id": 2038606,
@@ -10264,6 +10317,42 @@
     "session": "94th Legislature 2025-2026"
   },
   {
+    "id": 1896408,
+    "state": "TX",
+    "state_name": "Texas",
+    "bill_number": "HB1601",
+    "title": "Relating to the prohibition, prevention, and remedying of certain discrimination.",
+    "summary": "Relating to the prohibition, prevention, and remedying of certain discrimination.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "definitions",
+      "education",
+      "identity_documents",
+      "healthcare",
+      "other"
+    ],
+    "primary_category": "definitions",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/TX/bill/HB1601/2025",
+    "legiscan_url": "https://legiscan.com/TX/bill/HB1601/2025",
+    "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1601",
+    "sponsors": [
+      "Jon Rosenthal (D) [Rep]",
+      "Jessica Gonzalez (D) [Rep]",
+      "Lauren Ashley Simmons (D) [Rep]",
+      "Venton Jones (D) [Rep]"
+    ],
+    "introduced_date": "2024-12-12",
+    "session": "89th Legislature Regular Session"
+  },
+  {
     "id": 2041629,
     "state": "AL",
     "state_name": "Alabama",
@@ -10322,42 +10411,6 @@
     ],
     "introduced_date": "2026-02-26",
     "session": "2026 Regular Session"
-  },
-  {
-    "id": 1896408,
-    "state": "TX",
-    "state_name": "Texas",
-    "bill_number": "HB1601",
-    "title": "Relating to the prohibition, prevention, and remedying of certain discrimination.",
-    "summary": "Relating to the prohibition, prevention, and remedying of certain discrimination.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "definitions",
-      "education",
-      "identity_documents",
-      "healthcare",
-      "other"
-    ],
-    "primary_category": "definitions",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/TX/bill/HB1601/2025",
-    "legiscan_url": "https://legiscan.com/TX/bill/HB1601/2025",
-    "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1601",
-    "sponsors": [
-      "Jon Rosenthal (D) [Rep]",
-      "Jessica Gonzalez (D) [Rep]",
-      "Lauren Ashley Simmons (D) [Rep]",
-      "Venton Jones (D) [Rep]"
-    ],
-    "introduced_date": "2024-12-12",
-    "session": "89th Legislature Regular Session"
   },
   {
     "id": 2084013,
@@ -10651,9 +10704,9 @@
     "bill_number": "SB552",
     "title": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
     "summary": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
-    "status": "passed_one_chamber",
-    "status_label": "Engrossed",
-    "status_code": 2,
+    "status": "passed_both_chambers",
+    "status_label": "Enrolled",
+    "status_code": 3,
     "categories": [
       "definitions",
       "identity_documents"
@@ -10673,7 +10726,7 @@
       "Timothy Lang (R) [Sen]",
       "Regina Birdsell (R) [Sen]"
     ],
-    "introduced_date": "2026-03-16",
+    "introduced_date": "2026-06-10",
     "session": "2026 Regular Session"
   },
   {
@@ -11205,36 +11258,6 @@
     "session": "89th Legislature Regular Session"
   },
   {
-    "id": 2085959,
-    "state": "MS",
-    "state_name": "Mississippi",
-    "bill_number": "SB2359",
-    "title": "Mississippi Civil Rights Act; enact.",
-    "summary": "An Act To Enact The Mississippi Civil Rights Act; To Define Terms; To Provide That The Right Of A Person To Be Free From Discrimination Because Of Race, Color, Religion, National Origin, Immigrant Status, Sex, Sexual Orientation, Gender Identity, Disability Or Familial Status Is A Civil Right; To Provide Remedies For Violations; And For Related Purposes.",
-    "status": "dead",
-    "status_label": "Failed",
-    "status_code": 6,
-    "categories": [
-      "definitions",
-      "other"
-    ],
-    "primary_category": "definitions",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/MS/bill/SB2359/2026",
-    "legiscan_url": "https://legiscan.com/MS/bill/SB2359/2026",
-    "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2359.xml",
-    "sponsors": [
-      "Derrick Simmons (D) [Sen]"
-    ],
-    "introduced_date": "2026-02-03",
-    "session": "2026 Regular Session"
-  },
-  {
     "id": 1936007,
     "state": "KS",
     "state_name": "Kansas",
@@ -11263,6 +11286,36 @@
     ],
     "introduced_date": "2025-02-18",
     "session": "2025-2026 Regular Session"
+  },
+  {
+    "id": 2085959,
+    "state": "MS",
+    "state_name": "Mississippi",
+    "bill_number": "SB2359",
+    "title": "Mississippi Civil Rights Act; enact.",
+    "summary": "An Act To Enact The Mississippi Civil Rights Act; To Define Terms; To Provide That The Right Of A Person To Be Free From Discrimination Because Of Race, Color, Religion, National Origin, Immigrant Status, Sex, Sexual Orientation, Gender Identity, Disability Or Familial Status Is A Civil Right; To Provide Remedies For Violations; And For Related Purposes.",
+    "status": "dead",
+    "status_label": "Failed",
+    "status_code": 6,
+    "categories": [
+      "definitions",
+      "other"
+    ],
+    "primary_category": "definitions",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/MS/bill/SB2359/2026",
+    "legiscan_url": "https://legiscan.com/MS/bill/SB2359/2026",
+    "state_url": "https://billstatus.ls.state.ms.us/2026/pdf/history/SB/SB2359.xml",
+    "sponsors": [
+      "Derrick Simmons (D) [Sen]"
+    ],
+    "introduced_date": "2026-02-03",
+    "session": "2026 Regular Session"
   },
   {
     "id": 2093279,
@@ -11423,46 +11476,6 @@
     "session": "2025-2026 Regular Session"
   },
   {
-    "id": 1903061,
-    "state": "NY",
-    "state_name": "New York",
-    "bill_number": "A00725",
-    "title": "Requires every physician, physician assistant, specialist assistant, registered nurse and licensed practical nurse to complete course work or training regarding human immunodeficiency virus and sexually transmitted infections testing and the elements of sexual health including sexual orientation and gender identity.",
-    "summary": "Requires every physician, physician assistant, specialist assistant, registered nurse and licensed practical nurse to complete course work or training regarding human immunodeficiency virus and sexually transmitted infections testing and the elements of sexual health including sexual orientation and gender identity.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare",
-      "education"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NY/bill/A00725/2025",
-    "legiscan_url": "https://legiscan.com/NY/bill/A00725/2025",
-    "state_url": "https://www.nysenate.gov/legislation/bills/2025/A725",
-    "sponsors": [
-      "Linda Rosenthal (D) [Rep]",
-      "Emily Gallagher (D) [Rep]",
-      "Jo Simon (D) [Rep]",
-      "Jessica Gonzalez-Rojas (D) [Rep]",
-      "Chantel Jackson (D) [Rep]",
-      "Christopher Burdick (D) [Rep]",
-      "Phara Souffrant Forrest (D) [Rep]",
-      "Rebecca Seawright (D) [Rep]",
-      "Sarah Clark (D) [Rep]",
-      "Jennifer Lunsford (D) [Rep]",
-      "Steven Raga (D) [Rep]"
-    ],
-    "introduced_date": "2025-01-08",
-    "session": "2025-2026 General Assembly"
-  },
-  {
     "id": 2063731,
     "state": "HI",
     "state_name": "Hawaii",
@@ -11532,6 +11545,46 @@
     ],
     "introduced_date": "2025-01-21",
     "session": "2026 Regular Session"
+  },
+  {
+    "id": 1903061,
+    "state": "NY",
+    "state_name": "New York",
+    "bill_number": "A00725",
+    "title": "Requires every physician, physician assistant, specialist assistant, registered nurse and licensed practical nurse to complete course work or training regarding human immunodeficiency virus and sexually transmitted infections testing and the elements of sexual health including sexual orientation and gender identity.",
+    "summary": "Requires every physician, physician assistant, specialist assistant, registered nurse and licensed practical nurse to complete course work or training regarding human immunodeficiency virus and sexually transmitted infections testing and the elements of sexual health including sexual orientation and gender identity.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare",
+      "education"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NY/bill/A00725/2025",
+    "legiscan_url": "https://legiscan.com/NY/bill/A00725/2025",
+    "state_url": "https://www.nysenate.gov/legislation/bills/2025/A725",
+    "sponsors": [
+      "Linda Rosenthal (D) [Rep]",
+      "Emily Gallagher (D) [Rep]",
+      "Jo Simon (D) [Rep]",
+      "Jessica Gonzalez-Rojas (D) [Rep]",
+      "Chantel Jackson (D) [Rep]",
+      "Christopher Burdick (D) [Rep]",
+      "Phara Souffrant Forrest (D) [Rep]",
+      "Rebecca Seawright (D) [Rep]",
+      "Sarah Clark (D) [Rep]",
+      "Jennifer Lunsford (D) [Rep]",
+      "Steven Raga (D) [Rep]"
+    ],
+    "introduced_date": "2025-01-08",
+    "session": "2025-2026 General Assembly"
   },
   {
     "id": 1956429,
@@ -12606,7 +12659,9 @@
       "Jennifer McClellan (D) [Rep]",
       "Judy Chu (D) [Rep]",
       "Sharice Davids (D) [Rep]",
-      "Seth Magaziner (D) [Rep]"
+      "Seth Magaziner (D) [Rep]",
+      "Frederica Wilson (D) [Rep]",
+      "Maxwell Frost (D) [Rep]"
     ],
     "introduced_date": "2025-01-16",
     "session": "119th Congress"
@@ -13893,9 +13948,9 @@
     "bill_number": "SB1095",
     "title": "Gender transition; minors; prohibitions",
     "summary": "Gender transition; minors; prohibitions",
-    "status": "passed_one_chamber",
-    "status_label": "Engrossed",
-    "status_code": 2,
+    "status": "passed_both_chambers",
+    "status_label": "Enrolled",
+    "status_code": 3,
     "categories": [
       "healthcare",
       "definitions"
@@ -13913,7 +13968,7 @@
     "sponsors": [
       "Mark Finchem (R) [Sen]"
     ],
-    "introduced_date": "2026-02-23",
+    "introduced_date": "2026-06-10",
     "session": "Fifty-seventh Legislature - Second Regular Session (2026)"
   },
   {
@@ -14474,9 +14529,9 @@
     "bill_number": "SB1015",
     "title": "Gender transition procedures; provider liability",
     "summary": "Gender transition procedures; provider liability",
-    "status": "passed_one_chamber",
-    "status_label": "Engrossed",
-    "status_code": 2,
+    "status": "passed_both_chambers",
+    "status_label": "Enrolled",
+    "status_code": 3,
     "categories": [
       "healthcare"
     ],
@@ -14493,7 +14548,7 @@
     "sponsors": [
       "Janae Shamp (R) [Sen]"
     ],
-    "introduced_date": "2026-02-23",
+    "introduced_date": "2026-06-10",
     "session": "Fifty-seventh Legislature - Second Regular Session (2026)"
   },
   {
@@ -16513,9 +16568,9 @@
     "bill_number": "HCR2003",
     "title": "Interscholastic; intramural athletics; biological sex",
     "summary": "Interscholastic; intramural athletics; biological sex",
-    "status": "passed_one_chamber",
-    "status_label": "Engrossed",
-    "status_code": 2,
+    "status": "signed_into_law",
+    "status_label": "Passed",
+    "status_code": 4,
     "categories": [
       "sports"
     ],
@@ -16532,7 +16587,7 @@
     "sponsors": [
       "Selina Bliss (R) [Rep]"
     ],
-    "introduced_date": "2026-02-23",
+    "introduced_date": "2026-06-12",
     "session": "Fifty-seventh Legislature - Second Regular Session (2026)"
   },
   {
@@ -18632,9 +18687,9 @@
     "bill_number": "SB1094",
     "title": "Civil liability; gender reassignment surgery",
     "summary": "Civil liability; gender reassignment surgery",
-    "status": "passed_one_chamber",
-    "status_label": "Engrossed",
-    "status_code": 2,
+    "status": "passed_both_chambers",
+    "status_label": "Enrolled",
+    "status_code": 3,
     "categories": [
       "healthcare",
       "identity_documents"
@@ -18652,7 +18707,7 @@
     "sponsors": [
       "John Kavanagh (R) [Sen]"
     ],
-    "introduced_date": "2026-02-27",
+    "introduced_date": "2026-06-10",
     "session": "Fifty-seventh Legislature - Second Regular Session (2026)"
   },
   {

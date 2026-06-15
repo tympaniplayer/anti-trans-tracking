@@ -5,9 +5,9 @@
   "bill_number": "SB1094",
   "title": "Civil liability; gender reassignment surgery",
   "summary": "Civil liability; gender reassignment surgery",
-  "status": "passed_one_chamber",
-  "status_label": "Engrossed",
-  "status_code": 2,
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
   "categories": [
     "healthcare",
     "identity_documents"
@@ -25,7 +25,7 @@
   "sponsors": [
     "John Kavanagh (R) [Sen]"
   ],
-  "introduced_date": "2026-02-27",
+  "introduced_date": "2026-06-10",
   "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
   "actions": [
     {
@@ -142,6 +142,21 @@
       "date": "2026-04-08",
       "action": "House Committee of the Whole action: Do Pass",
       "chamber": "H"
+    },
+    {
+      "date": "2026-06-09",
+      "action": "House third reading PASSED voting: (31-25-4-0)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-09",
+      "action": "Transmit to Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-10",
+      "action": "Transmitted to Governor",
+      "chamber": ""
     }
   ],
   "votes": [
@@ -192,6 +207,13 @@
       "description": "House - Committee of the Whole (DP)",
       "yea": 0,
       "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-06-09",
+      "description": "House - Third Reading",
+      "yea": 31,
+      "nay": 25,
       "passed": 1
     }
   ],

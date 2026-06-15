@@ -116,6 +116,16 @@
       "date": "2026-06-03",
       "action": "Transmitted",
       "chamber": "H"
+    },
+    {
+      "date": "2026-06-10",
+      "action": "Passed By House With Immediate Effect",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-10",
+      "action": "Referred To Committee On Government Operations",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -148,7 +158,12 @@
       "doc_id": 3445475
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 838,
+    "chamber": "S",
+    "chamber_id": 54,
+    "name": "Government Operations"
+  },
   "subjects": [
     "Health: licensing",
     "State agencies (existing): licensing and regulatory affairs"

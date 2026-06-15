@@ -16,19 +16,19 @@
   "US": {
     "state": "US",
     "state_name": "Federal",
-    "total": 39,
+    "total": 41,
     "by_category": {
-      "other": 18,
+      "other": 20,
       "healthcare": 13,
       "education": 4,
       "sports": 2,
       "definitions": 2
     },
     "by_status": {
-      "introduced": 39
+      "introduced": 41
     },
     "by_sentiment": {
-      "protective": 31,
+      "protective": 33,
       "restrictive": 8
     }
   },
@@ -574,23 +574,22 @@
   "NH": {
     "state": "NH",
     "state_name": "New Hampshire",
-    "total": 11,
+    "total": 10,
     "by_category": {
       "definitions": 6,
-      "other": 1,
       "bathrooms": 1,
       "religious_exemptions": 1,
       "healthcare": 1,
       "sports": 1
     },
     "by_status": {
-      "introduced": 2,
-      "passed_one_chamber": 8,
-      "vetoed": 1
+      "introduced": 1,
+      "passed_one_chamber": 7,
+      "vetoed": 1,
+      "passed_both_chambers": 1
     },
     "by_sentiment": {
-      "restrictive": 10,
-      "protective": 1
+      "restrictive": 10
     }
   },
   "LA": {
@@ -643,7 +642,9 @@
     },
     "by_status": {
       "introduced": 7,
-      "passed_one_chamber": 8
+      "passed_one_chamber": 4,
+      "passed_both_chambers": 3,
+      "signed_into_law": 1
     },
     "by_sentiment": {
       "protective": 7,

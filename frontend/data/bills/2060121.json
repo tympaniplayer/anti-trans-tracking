@@ -5,9 +5,9 @@
   "bill_number": "HCR2003",
   "title": "Interscholastic; intramural athletics; biological sex",
   "summary": "Interscholastic; intramural athletics; biological sex",
-  "status": "passed_one_chamber",
-  "status_label": "Engrossed",
-  "status_code": 2,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "sports"
   ],
@@ -24,7 +24,7 @@
   "sponsors": [
     "Selina Bliss (R) [Rep]"
   ],
-  "introduced_date": "2026-02-23",
+  "introduced_date": "2026-06-12",
   "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
   "actions": [
     {
@@ -116,6 +116,46 @@
       "date": "2026-03-11",
       "action": "Senate ED Committee action: Do Pass, voting: (4-3-0-0)",
       "chamber": "S"
+    },
+    {
+      "date": "2026-06-12",
+      "action": "Senate RULES Committee action: Proper For Consideration, voting: (5-4-0-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-12",
+      "action": "Senate majority caucus: Do pass",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-12",
+      "action": "Senate minority caucus: Do pass",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-12",
+      "action": "Senate Committee of the Whole action: Do Pass",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-12",
+      "action": "Senate motion to amend",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-12",
+      "action": "Senate third reading PASSED voting: (16-12-2-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-12",
+      "action": "Transmit to House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-12",
+      "action": "Transmitted to Secretary of State",
+      "chamber": ""
     }
   ],
   "votes": [
@@ -153,6 +193,34 @@
       "yea": 4,
       "nay": 3,
       "passed": 1
+    },
+    {
+      "date": "2026-06-12",
+      "description": "Senate Rules Committee Action (PFC)",
+      "yea": 5,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2026-06-12",
+      "description": "Senate - Committee of the Whole (DP)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-06-12",
+      "description": "Senate - Senator Ortiz moved the portion of the COW report that HCR 2003 do pass be amended to include the Ortiz flr amend",
+      "yea": 12,
+      "nay": 16,
+      "passed": 0
+    },
+    {
+      "date": "2026-06-12",
+      "description": "Senate - Third Reading",
+      "yea": 16,
+      "nay": 12,
+      "passed": 1
     }
   ],
   "texts": [
@@ -169,12 +237,7 @@
       "doc_id": 3365803
     }
   ],
-  "committee": {
-    "committee_id": 1114,
-    "chamber": "S",
-    "chamber_id": 16,
-    "name": "Rules"
-  },
+  "committee": [],
   "subjects": [
     "Biological Sex",
     "Concurrent Resolution",

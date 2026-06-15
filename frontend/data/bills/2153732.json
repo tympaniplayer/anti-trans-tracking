@@ -1,0 +1,61 @@
+{
+  "id": 2153732,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR1357",
+  "title": "Acknowledging and apologizing for the mistreatment of, and discrimination against, lesbian, gay, bisexual, and transgender individuals who served the United States in the uniformed services, the Foreign Service, and the Federal civil service and committing to the pursuit of equal rights, protections, and respect for all LGBT servicemembers and Federal civil servants.",
+  "summary": "Acknowledging and apologizing for the mistreatment of, and discrimination against, lesbian, gay, bisexual, and transgender individuals who served the United States in the uniformed services, the Foreign Service, and the Federal civil service and committing to the pursuit of equal rights, protections, and respect for all LGBT servicemembers and Federal civil servants.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR1357/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR1357/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/1357/all-info",
+  "sponsors": [
+    "Jennifer McClellan (D) [Rep]",
+    "Mark Takano (D) [Rep]",
+    "Raja Krishnamoorthi (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Gil Cisneros (D) [Rep]"
+  ],
+  "introduced_date": "2026-06-11",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-06-11",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-11",
+      "action": "Referred to the Committee on Oversight and Government Reform, and in addition to the Committees on Armed Services, Veterans' Affairs, and Foreign Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-06-13",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres1357/BILLS-119hres1357ih.pdf",
+      "doc_id": 3448310
+    }
+  ],
+  "committee": {
+    "committee_id": 2311,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Oversight And Government Reform"
+  },
+  "subjects": []
+}

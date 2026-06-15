@@ -104,6 +104,11 @@
       "date": "2026-05-26",
       "action": "In Assembly. Read first time. Held at Desk.",
       "chamber": "A"
+    },
+    {
+      "date": "2026-06-08",
+      "action": "Referred to Coms. on P. & C.P. and JUD.",
+      "chamber": "A"
     }
   ],
   "votes": [
@@ -157,6 +162,11 @@
       "doc_id": 3437543
     }
   ],
-  "committee": [],
+  "committee": {
+    "committee_id": 3626,
+    "chamber": "A",
+    "chamber_id": 19,
+    "name": "Privacy and Consumer Protection"
+  },
   "subjects": []
 }

@@ -5,9 +5,9 @@
   "bill_number": "SB552",
   "title": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
   "summary": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
-  "status": "passed_one_chamber",
-  "status_label": "Engrossed",
-  "status_code": 2,
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
   "categories": [
     "definitions",
     "identity_documents"
@@ -27,7 +27,7 @@
     "Timothy Lang (R) [Sen]",
     "Regina Birdsell (R) [Sen]"
   ],
-  "introduced_date": "2026-03-16",
+  "introduced_date": "2026-06-10",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -88,6 +88,16 @@
     {
       "date": "2026-05-14",
       "action": "Ought to Pass: Motion Adopted Regular Calendar 179-159 05/14/2026 House Journal  13",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-10",
+      "action": "Enrolled Adopted, Voice Vote, (In recess 06/04/2026); Senate Journal 14",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-10",
+      "action": "Enrolled (in recess of) 06/04/2026 House Journal  15",
       "chamber": "H"
     }
   ],

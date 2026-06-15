@@ -34,6 +34,7 @@
     "Matt Haney (D) [Rep]",
     "Corey Jackson (D) [Rep]",
     "John Laird (D) [Sen]",
+    "Josh Lowenthal (D) [Rep]",
     "Mark Gonzalez (D) [Rep]",
     "Caroline Menjivar (D) [Sen]",
     "Steve Padilla (D) [Sen]",
@@ -132,6 +133,16 @@
       "date": "2026-06-03",
       "action": "From committee with author's amendments. Read second time and amended. Re-referred to Com. on JUD.",
       "chamber": "A"
+    },
+    {
+      "date": "2026-06-09",
+      "action": "Coauthors revised.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-06-09",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 3.) (June 9). Re-referred to Com. on APPR.",
+      "chamber": "A"
     }
   ],
   "votes": [
@@ -162,6 +173,13 @@
       "yea": 30,
       "nay": 9,
       "passed": 1
+    },
+    {
+      "date": "2026-06-09",
+      "description": "Do pass and be re-referred to the Committee on [Appropriations]",
+      "yea": 9,
+      "nay": 3,
+      "passed": 1
     }
   ],
   "texts": [
@@ -191,10 +209,10 @@
     }
   ],
   "committee": {
-    "committee_id": 463,
+    "committee_id": 449,
     "chamber": "A",
     "chamber_id": 19,
-    "name": "Judiciary"
+    "name": "Appropriations"
   },
   "subjects": []
 }
