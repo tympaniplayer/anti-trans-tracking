@@ -40,7 +40,8 @@
     "Adam Schiff (D) [Sen]",
     "Jeanne Shaheen (D) [Sen]",
     "Sheldon Whitehouse (D) [Sen]",
-    "Ron Wyden (D) [Sen]"
+    "Ron Wyden (D) [Sen]",
+    "Cory Booker (D) [Sen]"
   ],
   "introduced_date": "2026-06-11",
   "session": "119th Congress",
@@ -57,12 +58,21 @@
     }
   ],
   "votes": [],
-  "texts": [],
+  "texts": [
+    {
+      "date": "2026-06-16",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/sres766/BILLS-119sres766is.pdf",
+      "doc_id": 3448738
+    }
+  ],
   "committee": {
     "committee_id": 2329,
     "chamber": "S",
     "chamber_id": 115,
     "name": "Homeland Security And Governmental Affairs"
   },
-  "subjects": []
+  "subjects": [
+    "Armed forces and national security"
+  ]
 }

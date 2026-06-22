@@ -51,6 +51,16 @@
       "date": "2026-05-28",
       "action": "Received in the Assembly, Referred to Assembly Community Development and Women's Affairs Committee",
       "chamber": "A"
+    },
+    {
+      "date": "2026-06-18",
+      "action": "Transferred to Assembly Health Committee",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-06-18",
+      "action": "Reported out of Assembly Committee, 2nd Reading",
+      "chamber": "A"
     }
   ],
   "votes": [
@@ -67,6 +77,13 @@
       "yea": 29,
       "nay": 7,
       "passed": 1
+    },
+    {
+      "date": "2026-06-18",
+      "description": "Assembly Health Committee: Reported Favorably",
+      "yea": 7,
+      "nay": 3,
+      "passed": 1
     }
   ],
   "texts": [
@@ -77,13 +94,8 @@
       "doc_id": 3312214
     }
   ],
-  "committee": {
-    "committee_id": 4932,
-    "chamber": "A",
-    "chamber_id": 69,
-    "name": "Community Development and Womens Affairs Committee"
-  },
+  "committee": [],
   "subjects": [
-    "Community Development and Women's Affairs"
+    "2nd Reading in the Assembly"
   ]
 }

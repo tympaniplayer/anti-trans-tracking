@@ -128,6 +128,11 @@
       "date": "2026-06-10",
       "action": "Referred to Coms. on E.M. and HEALTH.",
       "chamber": "S"
+    },
+    {
+      "date": "2026-06-15",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on E.M.",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -178,6 +183,12 @@
       "type": "Amended",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1540#97AMD",
       "doc_id": 3399853
+    },
+    {
+      "date": "2026-06-15",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1540#96AMD",
+      "doc_id": 3448425
     }
   ],
   "committee": {

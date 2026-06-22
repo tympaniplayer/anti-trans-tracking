@@ -1405,7 +1405,8 @@
       "Christian Menefee (D) [Rep]",
       "Suzan DelBene (D) [Rep]",
       "Gabe Amo (D) [Rep]",
-      "Ted Lieu (D) [Rep]"
+      "Ted Lieu (D) [Rep]",
+      "Yvette Clarke (D) [Rep]"
     ],
     "introduced_date": "2025-03-31",
     "session": "119th Congress"
@@ -2280,6 +2281,54 @@
     "session": "119th Congress"
   },
   {
+    "id": 2153785,
+    "state": "US",
+    "state_name": "Federal",
+    "bill_number": "SR766",
+    "title": "A resolution acknowledging and apologizing for the mistreatment of, and discrimination against, lesbian, gay, bisexual, and transgender individuals who served the United States in the uniformed services, the Foreign Service, and the Federal civil service and committing to the pursuit of equal rights, protections, and respect for all LGBT servicemembers and Federal civil servants.",
+    "summary": "A resolution acknowledging and apologizing for the mistreatment of, and discrimination against, lesbian, gay, bisexual, and transgender individuals who served the United States in the uniformed services, the Foreign Service, and the Federal civil service and committing to the pursuit of equal rights, protections, and respect for all LGBT servicemembers and Federal civil servants.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "federal",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/US/bill/SR766/2025",
+    "legiscan_url": "https://legiscan.com/US/bill/SR766/2025",
+    "state_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/766/all-info",
+    "sponsors": [
+      "Tim Kaine (D) [Sen]",
+      "Tammy Baldwin (D) [Sen]",
+      "Michael Bennet (D) [Sen]",
+      "Richard Blumenthal (D) [Sen]",
+      "Christopher Coons (D) [Sen]",
+      "Richard Durbin (D) [Sen]",
+      "John Fetterman (D) [Sen]",
+      "Ruben Gallego (D) [Sen]",
+      "Kirsten Gillibrand (D) [Sen]",
+      "Angus King (I) [Sen]",
+      "Edward Markey (D) [Sen]",
+      "Jeff Merkley (D) [Sen]",
+      "Patty Murray (D) [Sen]",
+      "Alex Padilla (D) [Sen]",
+      "Brian Schatz (D) [Sen]",
+      "Adam Schiff (D) [Sen]",
+      "Jeanne Shaheen (D) [Sen]",
+      "Sheldon Whitehouse (D) [Sen]",
+      "Ron Wyden (D) [Sen]",
+      "Cory Booker (D) [Sen]"
+    ],
+    "introduced_date": "2026-06-11",
+    "session": "119th Congress"
+  },
+  {
     "id": 1992673,
     "state": "NY",
     "state_name": "New York",
@@ -2400,6 +2449,57 @@
     ],
     "introduced_date": "2025-03-05",
     "session": "2025-2026 General Assembly"
+  },
+  {
+    "id": 2065686,
+    "state": "CA",
+    "state_name": "California",
+    "bill_number": "AB1540",
+    "title": "988 Suicide & Crisis Lifeline: LGBTQ+ youth.",
+    "summary": "An act to add Section 53123.7 to the Government Code, relating to mental health, and declaring the urgency thereof, to take effect immediately.",
+    "status": "passed_one_chamber",
+    "status_label": "Engrossed",
+    "status_code": 2,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/CA/bill/AB1540/2025",
+    "legiscan_url": "https://legiscan.com/CA/bill/AB1540/2025",
+    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1540",
+    "sponsors": [
+      "Mark Gonzalez (D) [Rep]",
+      "Alex Lee (D) [Rep]",
+      "Chris Ward (D) [Rep]",
+      "Dawn Addis (D) [Rep]",
+      "Cecilia Aguiar-Curry (D) [Rep]",
+      "Josh Becker (D) [Sen]",
+      "Tasha Boerner Horvath (D) [Rep]",
+      "Mia Bonta (D) [Rep]",
+      "Sade Elhawary (D) [Rep]",
+      "Lena Gonzalez (D) [Sen]",
+      "Matt Haney (D) [Rep]",
+      "John Harabedian (D) [Rep]",
+      "Corey Jackson (D) [Rep]",
+      "Caroline Menjivar (D) [Sen]",
+      "Steve Padilla (D) [Sen]",
+      "Gail Pellerin (D) [Rep]",
+      "Sasha Renee Perez (D) [Sen]",
+      "Pilar Schiavo (D) [Rep]",
+      "Jose Solache (D) [Rep]",
+      "Catherine Stefani (D) [Rep]",
+      "Greg Wallis (R) [Rep]",
+      "Scott Wiener (D) [Sen]",
+      "Rick Zbur (D) [Rep]"
+    ],
+    "introduced_date": "2026-05-27",
+    "session": "2025-2026 Regular Session"
   },
   {
     "id": 2035643,
@@ -2712,57 +2812,6 @@
     "session": "103rd Legislature"
   },
   {
-    "id": 2065686,
-    "state": "CA",
-    "state_name": "California",
-    "bill_number": "AB1540",
-    "title": "988 Suicide & Crisis Lifeline: LGBTQ+ youth.",
-    "summary": "An act to add Section 53123.7 to the Government Code, relating to mental health, and declaring the urgency thereof, to take effect immediately.",
-    "status": "passed_one_chamber",
-    "status_label": "Engrossed",
-    "status_code": 2,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/CA/bill/AB1540/2025",
-    "legiscan_url": "https://legiscan.com/CA/bill/AB1540/2025",
-    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1540",
-    "sponsors": [
-      "Mark Gonzalez (D) [Rep]",
-      "Alex Lee (D) [Rep]",
-      "Chris Ward (D) [Rep]",
-      "Dawn Addis (D) [Rep]",
-      "Cecilia Aguiar-Curry (D) [Rep]",
-      "Josh Becker (D) [Sen]",
-      "Tasha Boerner Horvath (D) [Rep]",
-      "Mia Bonta (D) [Rep]",
-      "Sade Elhawary (D) [Rep]",
-      "Lena Gonzalez (D) [Sen]",
-      "Matt Haney (D) [Rep]",
-      "John Harabedian (D) [Rep]",
-      "Corey Jackson (D) [Rep]",
-      "Caroline Menjivar (D) [Sen]",
-      "Steve Padilla (D) [Sen]",
-      "Gail Pellerin (D) [Rep]",
-      "Sasha Renee Perez (D) [Sen]",
-      "Pilar Schiavo (D) [Rep]",
-      "Jose Solache (D) [Rep]",
-      "Catherine Stefani (D) [Rep]",
-      "Greg Wallis (R) [Rep]",
-      "Scott Wiener (D) [Sen]",
-      "Rick Zbur (D) [Rep]"
-    ],
-    "introduced_date": "2026-05-27",
-    "session": "2025-2026 Regular Session"
-  },
-  {
     "id": 2110117,
     "state": "MD",
     "state_name": "Maryland",
@@ -2970,37 +3019,6 @@
     "session": "2026-2027 Regular Session"
   },
   {
-    "id": 2051551,
-    "state": "FL",
-    "state_name": "Florida",
-    "bill_number": "H0317",
-    "title": "Gay and Transgender Panic Legal Defenses",
-    "summary": "Prohibits use of nonviolent sexual advance or specified perceptions or beliefs about another person as defense to criminal offense, to excuse or justify person's conduct, or to mitigate severity of offense.",
-    "status": "dead",
-    "status_label": "Failed",
-    "status_code": 6,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/FL/bill/H0317/2026",
-    "legiscan_url": "https://legiscan.com/FL/bill/H0317/2026",
-    "state_url": "https://www.flsenate.gov/Session/Bill/2026/317",
-    "sponsors": [
-      "Jennifer Harris (D) [Rep]",
-      "Daryl Campbell (D) [Rep]",
-      "Mitch Rosenwald (D) [Rep]"
-    ],
-    "introduced_date": "2026-03-13",
-    "session": "2026 Regular Session"
-  },
-  {
     "id": 2092705,
     "state": "HI",
     "state_name": "Hawaii",
@@ -3032,6 +3050,37 @@
       "Jackson Sayama (D) [Rep]"
     ],
     "introduced_date": "2026-03-10",
+    "session": "2026 Regular Session"
+  },
+  {
+    "id": 2051551,
+    "state": "FL",
+    "state_name": "Florida",
+    "bill_number": "H0317",
+    "title": "Gay and Transgender Panic Legal Defenses",
+    "summary": "Prohibits use of nonviolent sexual advance or specified perceptions or beliefs about another person as defense to criminal offense, to excuse or justify person's conduct, or to mitigate severity of offense.",
+    "status": "dead",
+    "status_label": "Failed",
+    "status_code": 6,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/FL/bill/H0317/2026",
+    "legiscan_url": "https://legiscan.com/FL/bill/H0317/2026",
+    "state_url": "https://www.flsenate.gov/Session/Bill/2026/317",
+    "sponsors": [
+      "Jennifer Harris (D) [Rep]",
+      "Daryl Campbell (D) [Rep]",
+      "Mitch Rosenwald (D) [Rep]"
+    ],
+    "introduced_date": "2026-03-13",
     "session": "2026 Regular Session"
   },
   {
@@ -5322,35 +5371,6 @@
     "session": "194th General Court"
   },
   {
-    "id": 2000815,
-    "state": "MA",
-    "state_name": "Massachusetts",
-    "bill_number": "H2501",
-    "title": "Relative to LGBTQ+ health disparities",
-    "summary": "Relative to LGBTQ+ health disparities. Public Health.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/MA/bill/H2501/2025",
-    "legiscan_url": "https://legiscan.com/MA/bill/H2501/2025",
-    "state_url": "https://malegislature.gov/Bills/194/H2501",
-    "sponsors": [
-      "Samantha Montano (D) [Rep]"
-    ],
-    "introduced_date": "2025-02-27",
-    "session": "194th General Court"
-  },
-  {
     "id": 2037122,
     "state": "WI",
     "state_name": "Wisconsin",
@@ -5595,6 +5615,35 @@
     ],
     "introduced_date": "2026-06-01",
     "session": "104th General Assembly"
+  },
+  {
+    "id": 2000815,
+    "state": "MA",
+    "state_name": "Massachusetts",
+    "bill_number": "H2501",
+    "title": "Relative to LGBTQ+ health disparities",
+    "summary": "Relative to LGBTQ+ health disparities. Public Health.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/MA/bill/H2501/2025",
+    "legiscan_url": "https://legiscan.com/MA/bill/H2501/2025",
+    "state_url": "https://malegislature.gov/Bills/194/H2501",
+    "sponsors": [
+      "Samantha Montano (D) [Rep]"
+    ],
+    "introduced_date": "2025-02-27",
+    "session": "194th General Court"
   },
   {
     "id": 2000129,
@@ -6406,7 +6455,8 @@
       "Josh Riley (D) [Rep]",
       "James Himes (D) [Rep]",
       "Kathy Castor (D) [Rep]",
-      "Brittany Pettersen (D) [Rep]"
+      "Brittany Pettersen (D) [Rep]",
+      "Mike Levin (D) [Rep]"
     ],
     "introduced_date": "2025-09-17",
     "session": "119th Congress"
@@ -7105,53 +7155,6 @@
     ],
     "introduced_date": "2026-01-14",
     "session": "2026 Regular Regular Session"
-  },
-  {
-    "id": 2153785,
-    "state": "US",
-    "state_name": "Federal",
-    "bill_number": "SR766",
-    "title": "A resolution acknowledging and apologizing for the mistreatment of, and discrimination against, lesbian, gay, bisexual, and transgender individuals who served the United States in the uniformed services, the Foreign Service, and the Federal civil service and committing to the pursuit of equal rights, protections, and respect for all LGBT servicemembers and Federal civil servants.",
-    "summary": "A resolution acknowledging and apologizing for the mistreatment of, and discrimination against, lesbian, gay, bisexual, and transgender individuals who served the United States in the uniformed services, the Foreign Service, and the Federal civil service and committing to the pursuit of equal rights, protections, and respect for all LGBT servicemembers and Federal civil servants.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "federal",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/US/bill/SR766/2025",
-    "legiscan_url": "https://legiscan.com/US/bill/SR766/2025",
-    "state_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/766/all-info",
-    "sponsors": [
-      "Tim Kaine (D) [Sen]",
-      "Tammy Baldwin (D) [Sen]",
-      "Michael Bennet (D) [Sen]",
-      "Richard Blumenthal (D) [Sen]",
-      "Christopher Coons (D) [Sen]",
-      "Richard Durbin (D) [Sen]",
-      "John Fetterman (D) [Sen]",
-      "Ruben Gallego (D) [Sen]",
-      "Kirsten Gillibrand (D) [Sen]",
-      "Angus King (I) [Sen]",
-      "Edward Markey (D) [Sen]",
-      "Jeff Merkley (D) [Sen]",
-      "Patty Murray (D) [Sen]",
-      "Alex Padilla (D) [Sen]",
-      "Brian Schatz (D) [Sen]",
-      "Adam Schiff (D) [Sen]",
-      "Jeanne Shaheen (D) [Sen]",
-      "Sheldon Whitehouse (D) [Sen]",
-      "Ron Wyden (D) [Sen]"
-    ],
-    "introduced_date": "2026-06-11",
-    "session": "119th Congress"
   },
   {
     "id": 2110841,
@@ -16448,6 +16451,35 @@
     "session": "126th General Assembly"
   },
   {
+    "id": 2060121,
+    "state": "AZ",
+    "state_name": "Arizona",
+    "bill_number": "HCR2003",
+    "title": "Interscholastic; intramural athletics; biological sex",
+    "summary": "Interscholastic; intramural athletics; biological sex",
+    "status": "signed_into_law",
+    "status_label": "Passed",
+    "status_code": 4,
+    "categories": [
+      "sports"
+    ],
+    "primary_category": "sports",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/AZ/bill/HCR2003/2026",
+    "legiscan_url": "https://legiscan.com/AZ/bill/HCR2003/2026",
+    "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/83656",
+    "sponsors": [
+      "Selina Bliss (R) [Rep]"
+    ],
+    "introduced_date": "2026-06-12",
+    "session": "Fifty-seventh Legislature - Second Regular Session (2026)"
+  },
+  {
     "id": 2055770,
     "state": "MO",
     "state_name": "Missouri",
@@ -16560,35 +16592,6 @@
     ],
     "introduced_date": "2025-09-04",
     "session": "103rd Legislature"
-  },
-  {
-    "id": 2060121,
-    "state": "AZ",
-    "state_name": "Arizona",
-    "bill_number": "HCR2003",
-    "title": "Interscholastic; intramural athletics; biological sex",
-    "summary": "Interscholastic; intramural athletics; biological sex",
-    "status": "signed_into_law",
-    "status_label": "Passed",
-    "status_code": 4,
-    "categories": [
-      "sports"
-    ],
-    "primary_category": "sports",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/AZ/bill/HCR2003/2026",
-    "legiscan_url": "https://legiscan.com/AZ/bill/HCR2003/2026",
-    "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/83656",
-    "sponsors": [
-      "Selina Bliss (R) [Rep]"
-    ],
-    "introduced_date": "2026-06-12",
-    "session": "Fifty-seventh Legislature - Second Regular Session (2026)"
   },
   {
     "id": 2064528,
