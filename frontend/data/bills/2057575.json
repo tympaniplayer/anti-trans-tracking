@@ -5,9 +5,9 @@
   "bill_number": "SB1015",
   "title": "Gender transition procedures; provider liability",
   "summary": "Gender transition procedures; provider liability",
-  "status": "passed_both_chambers",
-  "status_label": "Enrolled",
-  "status_code": 3,
+  "status": "vetoed",
+  "status_label": "Vetoed",
+  "status_code": 5,
   "categories": [
     "healthcare"
   ],
@@ -24,7 +24,7 @@
   "sponsors": [
     "Janae Shamp (R) [Sen]"
   ],
-  "introduced_date": "2026-06-10",
+  "introduced_date": "2026-06-19",
   "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
   "actions": [
     {
@@ -155,6 +155,11 @@
     {
       "date": "2026-06-10",
       "action": "Transmitted to Governor",
+      "chamber": ""
+    },
+    {
+      "date": "2026-06-19",
+      "action": "Governor Vetoed",
       "chamber": ""
     }
   ],

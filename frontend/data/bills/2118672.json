@@ -109,6 +109,11 @@
       "date": "2026-06-08",
       "action": "Referred to Coms. on P. & C.P. and JUD.",
       "chamber": "A"
+    },
+    {
+      "date": "2026-06-24",
+      "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 11. Noes 2.) (June 23). Re-referred to Com. on JUD.",
+      "chamber": "A"
     }
   ],
   "votes": [
@@ -146,6 +151,13 @@
       "yea": 30,
       "nay": 0,
       "passed": 1
+    },
+    {
+      "date": "2026-06-23",
+      "description": "Do pass and be re-referred to the Committee on [Judiciary]",
+      "yea": 11,
+      "nay": 2,
+      "passed": 1
     }
   ],
   "texts": [
@@ -163,10 +175,10 @@
     }
   ],
   "committee": {
-    "committee_id": 3626,
+    "committee_id": 463,
     "chamber": "A",
     "chamber_id": 19,
-    "name": "Privacy and Consumer Protection"
+    "name": "Judiciary"
   },
   "subjects": []
 }

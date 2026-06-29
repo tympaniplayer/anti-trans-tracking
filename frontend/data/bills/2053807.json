@@ -5,9 +5,9 @@
   "bill_number": "SB552",
   "title": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
   "summary": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
-  "status": "passed_both_chambers",
-  "status_label": "Enrolled",
-  "status_code": 3,
+  "status": "vetoed",
+  "status_label": "Vetoed",
+  "status_code": 5,
   "categories": [
     "definitions",
     "identity_documents"
@@ -27,7 +27,7 @@
     "Timothy Lang (R) [Sen]",
     "Regina Birdsell (R) [Sen]"
   ],
-  "introduced_date": "2026-06-10",
+  "introduced_date": "2026-06-24",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -57,7 +57,7 @@
     },
     {
       "date": "2026-03-16",
-      "action": "Introduced (in recess of) 03/12/2026 and referred to Judiciary House Journal  8",
+      "action": "Introduced (in recess of) 03/12/2026 and referred to Judiciary House Journal  8 P. 114",
       "chamber": "H"
     },
     {
@@ -99,6 +99,11 @@
       "date": "2026-06-10",
       "action": "Enrolled (in recess of) 06/04/2026 House Journal  15",
       "chamber": "H"
+    },
+    {
+      "date": "2026-06-24",
+      "action": "Vetoed by Governor 06/19/2026",
+      "chamber": "S"
     }
   ],
   "votes": [

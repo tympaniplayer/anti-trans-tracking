@@ -133,6 +133,11 @@
       "date": "2026-06-15",
       "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on E.M.",
       "chamber": "S"
+    },
+    {
+      "date": "2026-06-24",
+      "action": "From committee: Do pass and re-refer to Com. on HEALTH. (Ayes 7. Noes 1.) (June 23). Re-referred to Com. on HEALTH.",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -163,6 +168,13 @@
       "yea": 64,
       "nay": 8,
       "passed": 1
+    },
+    {
+      "date": "2026-06-23",
+      "description": "Do pass, but first be re-referred to the Committee on [Health]",
+      "yea": 7,
+      "nay": 1,
+      "passed": 1
     }
   ],
   "texts": [
@@ -192,10 +204,10 @@
     }
   ],
   "committee": {
-    "committee_id": 5261,
+    "committee_id": 480,
     "chamber": "S",
     "chamber_id": 20,
-    "name": "Emergency Management"
+    "name": "Health"
   },
   "subjects": []
 }

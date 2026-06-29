@@ -65,12 +65,12 @@
     },
     {
       "date": "2026-03-11",
-      "action": "Amendment # 2026-0865h: Amendment Adopted Voice Vote 03/11/2026 House Journal  7",
+      "action": "Amendment # 2026-0865h: Amendment Adopted Voice Vote 03/11/2026 House Journal  7 P. 60",
       "chamber": "H"
     },
     {
       "date": "2026-03-11",
-      "action": "Ought to Pass with Amendment 2026-0865h: Motion Adopted Regular Calendar 171-143 03/11/2026 House Journal  7",
+      "action": "Ought to Pass with Amendment 2026-0865h: Motion Adopted Regular Calendar 171-143 03/11/2026 House Journal  7 P. 61",
       "chamber": "H"
     },
     {
@@ -151,6 +151,16 @@
     {
       "date": "2026-06-04",
       "action": "Conference Committee Report 2026-2073c: Adopted, Regular Calendar 183-158 06/04/2026 House Journal  15",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-23",
+      "action": "Enrolled Bill Amendment # 2026-2189e Adopted, Voice Vote, (In recess of 06/04/2026); Senate Journal 14",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-23",
+      "action": "Enrolled Bill Amendment # 2026-2189e: Amendment Adopted Voice Vote (in recess of) 06/04/2026 House Journal  15",
       "chamber": "H"
     }
   ],

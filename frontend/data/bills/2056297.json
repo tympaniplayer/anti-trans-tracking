@@ -5,9 +5,9 @@
   "bill_number": "HB1442",
   "title": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
   "summary": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
-  "status": "passed_one_chamber",
-  "status_label": "Engrossed",
-  "status_code": 2,
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
   "categories": [
     "definitions",
     "sports",
@@ -39,7 +39,7 @@
     "Kevin Avard (R) [Sen]",
     "William Gannon (R) [Sen]"
   ],
-  "introduced_date": "2026-03-06",
+  "introduced_date": "2026-06-23",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -120,6 +120,16 @@
     {
       "date": "2026-05-21",
       "action": "House Concurs with Senate Amendment 2026-1384s (Rep. Lynn): Motion Adopted Regular Calendar 184-155 05/21/2026 House Journal  14",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-23",
+      "action": "Enrolled Adopted, Voice Vote, (In recess 06/04/2026); Senate Journal 14",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-23",
+      "action": "Enrolled (in recess of) 06/04/2026 House Journal  15",
       "chamber": "H"
     }
   ],

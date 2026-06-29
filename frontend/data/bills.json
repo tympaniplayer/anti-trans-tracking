@@ -2275,7 +2275,8 @@
       "Mark Takano (D) [Rep]",
       "Raja Krishnamoorthi (D) [Rep]",
       "Eleanor Norton (D) [Rep]",
-      "Gil Cisneros (D) [Rep]"
+      "Gil Cisneros (D) [Rep]",
+      "Sydney Kamlager-Dove (D) [Rep]"
     ],
     "introduced_date": "2026-06-11",
     "session": "119th Congress"
@@ -6456,7 +6457,8 @@
       "James Himes (D) [Rep]",
       "Kathy Castor (D) [Rep]",
       "Brittany Pettersen (D) [Rep]",
-      "Mike Levin (D) [Rep]"
+      "Mike Levin (D) [Rep]",
+      "Bill Foster (D) [Rep]"
     ],
     "introduced_date": "2025-09-17",
     "session": "119th Congress"
@@ -8238,9 +8240,9 @@
     "bill_number": "HB1442",
     "title": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
     "summary": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
-    "status": "passed_one_chamber",
-    "status_label": "Engrossed",
-    "status_code": 2,
+    "status": "passed_both_chambers",
+    "status_label": "Enrolled",
+    "status_code": 3,
     "categories": [
       "definitions",
       "sports",
@@ -8272,7 +8274,7 @@
       "Kevin Avard (R) [Sen]",
       "William Gannon (R) [Sen]"
     ],
-    "introduced_date": "2026-03-06",
+    "introduced_date": "2026-06-23",
     "session": "2026 Regular Session"
   },
   {
@@ -8353,36 +8355,6 @@
     "session": "2026 Regular Session"
   },
   {
-    "id": 1895596,
-    "state": "SC",
-    "state_name": "South Carolina",
-    "bill_number": "H3160",
-    "title": "Uniform Antidiscrimination Act",
-    "summary": "Amend The South Carolina Code Of Laws By Enacting The \"uniform Antidiscrimination Act\" By Adding Section 31-21-65 So As To Prohibit Discrimination In Housing On The Basis Of Race, Color, Or National Origin, And To Define A Necessary Term; By Adding Section 45-9-11 So As To Prohibit Discrimination In Public Accommodations On The Basis Of Race, Color, Or National Origin, And To Define A Necessary Term; By Adding Section 59-63-41 So As To Prohibit Discrimination In Certain School Or School Administrative Matters On The Basis Of Race, Color, Or National Origin, To Define A Necessary Term, And To Limit Liability Of Education Organizations In Certain Circumstances; By Amending Section 1-13-20, Relating To The Policy Of The State Human Affairs Commission, So As To Expand The Definition Of \"discrimination\"; By Amending Section 1-13-30, Relating To Definitions In The South Carolina Human Affairs Law, So As To Clarify A Definition; By Amending Section 1-13-80, Relating To Unlawful Employment Practices And Exceptions Under The South Carolina Human Affairs Law, So As To Prohibit Discrimination By An Employer On The Basis Of An Individual's Gender Identity Or Sexual Orientation, And To Limit The Liability Of Covered Employers In Certain Circumstances; And By Amending Section 1-32-60, Relating To Applicability And Construction Of The South Carolina Religious Freedom Act, Section 31-21-40, Relating To Discrimination In Relation To Sale Or Rental Of Property Under The South Carolina Fair Housing Law, Section 31-21-50, Relating To Discrimination In Relation To Membership Or Participation In Certain Realtor Services And Organizations, Section 31-21-60, Relating To Discrimination In Relation To Residential Real Estate-related Transactions, Section 44-69-80, Relating To Discrimination By Home Health Agencies On Certain Bases, Section 44-71-90, Relating To Discrimination By Hospices On Certain Bases, And Section 45-9-10, Relating To The Right To Equal Enjoyment Of And Privileges To Public Accommodations, All So As To Make Conforming Changes.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "definitions",
-      "other"
-    ],
-    "primary_category": "definitions",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/SC/bill/H3160/2025",
-    "legiscan_url": "https://legiscan.com/SC/bill/H3160/2025",
-    "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3160&session=126&summary=B",
-    "sponsors": [
-      "Todd Rutherford (D) [Rep]"
-    ],
-    "introduced_date": "2025-01-14",
-    "session": "126th General Assembly"
-  },
-  {
     "id": 1891051,
     "state": "TX",
     "state_name": "Texas",
@@ -8411,6 +8383,36 @@
     ],
     "introduced_date": "2024-11-12",
     "session": "89th Legislature Regular Session"
+  },
+  {
+    "id": 1895596,
+    "state": "SC",
+    "state_name": "South Carolina",
+    "bill_number": "H3160",
+    "title": "Uniform Antidiscrimination Act",
+    "summary": "Amend The South Carolina Code Of Laws By Enacting The \"uniform Antidiscrimination Act\" By Adding Section 31-21-65 So As To Prohibit Discrimination In Housing On The Basis Of Race, Color, Or National Origin, And To Define A Necessary Term; By Adding Section 45-9-11 So As To Prohibit Discrimination In Public Accommodations On The Basis Of Race, Color, Or National Origin, And To Define A Necessary Term; By Adding Section 59-63-41 So As To Prohibit Discrimination In Certain School Or School Administrative Matters On The Basis Of Race, Color, Or National Origin, To Define A Necessary Term, And To Limit Liability Of Education Organizations In Certain Circumstances; By Amending Section 1-13-20, Relating To The Policy Of The State Human Affairs Commission, So As To Expand The Definition Of \"discrimination\"; By Amending Section 1-13-30, Relating To Definitions In The South Carolina Human Affairs Law, So As To Clarify A Definition; By Amending Section 1-13-80, Relating To Unlawful Employment Practices And Exceptions Under The South Carolina Human Affairs Law, So As To Prohibit Discrimination By An Employer On The Basis Of An Individual's Gender Identity Or Sexual Orientation, And To Limit The Liability Of Covered Employers In Certain Circumstances; And By Amending Section 1-32-60, Relating To Applicability And Construction Of The South Carolina Religious Freedom Act, Section 31-21-40, Relating To Discrimination In Relation To Sale Or Rental Of Property Under The South Carolina Fair Housing Law, Section 31-21-50, Relating To Discrimination In Relation To Membership Or Participation In Certain Realtor Services And Organizations, Section 31-21-60, Relating To Discrimination In Relation To Residential Real Estate-related Transactions, Section 44-69-80, Relating To Discrimination By Home Health Agencies On Certain Bases, Section 44-71-90, Relating To Discrimination By Hospices On Certain Bases, And Section 45-9-10, Relating To The Right To Equal Enjoyment Of And Privileges To Public Accommodations, All So As To Make Conforming Changes.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "definitions",
+      "other"
+    ],
+    "primary_category": "definitions",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/SC/bill/H3160/2025",
+    "legiscan_url": "https://legiscan.com/SC/bill/H3160/2025",
+    "state_url": "https://www.scstatehouse.gov/billsearch.php?billnumbers=3160&session=126&summary=B",
+    "sponsors": [
+      "Todd Rutherford (D) [Rep]"
+    ],
+    "introduced_date": "2025-01-14",
+    "session": "126th General Assembly"
   },
   {
     "id": 1891581,
@@ -9057,6 +9059,45 @@
     "session": "2026 Regular Session"
   },
   {
+    "id": 2056337,
+    "state": "FL",
+    "state_name": "Florida",
+    "bill_number": "H0641",
+    "title": "Gender Identity Employment Practices",
+    "summary": "Specifies employment policy of this state relating to person's sex; prohibits employees & contractors of certain employers from being required to use certain pronouns or requiring such employers to use pronoun that does not correspond to employee's or contractor's sex; prohibits certain forms from offering specified options relating to applicant's sex; prohibits adverse personnel action on basis of gender ideology; provides administrative & civil remedies; provides reasonable attorney fees & costs; authorizes DMS to adopt rules; provides it is unlawful employment practice for certain employers to require certain training, instruction, or activity as condition of employment.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "definitions",
+      "identity_documents"
+    ],
+    "primary_category": "definitions",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/FL/bill/H0641/2026",
+    "legiscan_url": "https://legiscan.com/FL/bill/H0641/2026",
+    "state_url": "https://www.flsenate.gov/Session/Bill/2026/641",
+    "sponsors": [
+      "Government Operations Subcommittee [Rep]",
+      "Rachel Plakon (R) [Rep]",
+      "Danny Nix (R) [Rep]",
+      "Adam Anderson (R) [Rep]",
+      "Jessica Baker (R) [Rep]",
+      "Doug Bankson (R) [Rep]",
+      "Webster Barnaby (R) [Rep]",
+      "Nathan Boyles (R) [Rep]",
+      "Jeff Holcomb (R) [Rep]",
+      "Kim Kendall (R) [Rep]"
+    ],
+    "introduced_date": "2025-12-03",
+    "session": "2026 Regular Session"
+  },
+  {
     "id": 1959236,
     "state": "VT",
     "state_name": "Vermont",
@@ -9126,45 +9167,6 @@
     ],
     "introduced_date": "2025-02-07",
     "session": "2025-2026 Session"
-  },
-  {
-    "id": 2056337,
-    "state": "FL",
-    "state_name": "Florida",
-    "bill_number": "H0641",
-    "title": "Gender Identity Employment Practices",
-    "summary": "Specifies employment policy of this state relating to person's sex; prohibits employees & contractors of certain employers from being required to use certain pronouns or requiring such employers to use pronoun that does not correspond to employee's or contractor's sex; prohibits certain forms from offering specified options relating to applicant's sex; prohibits adverse personnel action on basis of gender ideology; provides administrative & civil remedies; provides reasonable attorney fees & costs; authorizes DMS to adopt rules; provides it is unlawful employment practice for certain employers to require certain training, instruction, or activity as condition of employment.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "definitions",
-      "identity_documents"
-    ],
-    "primary_category": "definitions",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/FL/bill/H0641/2026",
-    "legiscan_url": "https://legiscan.com/FL/bill/H0641/2026",
-    "state_url": "https://www.flsenate.gov/Session/Bill/2026/641",
-    "sponsors": [
-      "Government Operations Subcommittee [Rep]",
-      "Rachel Plakon (R) [Rep]",
-      "Danny Nix (R) [Rep]",
-      "Adam Anderson (R) [Rep]",
-      "Jessica Baker (R) [Rep]",
-      "Doug Bankson (R) [Rep]",
-      "Webster Barnaby (R) [Rep]",
-      "Nathan Boyles (R) [Rep]",
-      "Jeff Holcomb (R) [Rep]",
-      "Kim Kendall (R) [Rep]"
-    ],
-    "introduced_date": "2025-12-03",
-    "session": "2026 Regular Session"
   },
   {
     "id": 1953649,
@@ -9642,6 +9644,37 @@
     "session": "89th Legislature Regular Session"
   },
   {
+    "id": 1981971,
+    "state": "IA",
+    "state_name": "Iowa",
+    "bill_number": "SF418",
+    "title": "A bill for an act relating to sex and gender, including those and related terms for purposes of statutory construction, indications of a person's sex on certain vital records, gender identity under the Iowa civil rights Act, and school curricula related to gender theory. Effective date: 07/01/2025.",
+    "summary": "A bill for an act relating to sex and gender, including those and related terms for purposes of statutory construction, indications of a person's sex on certain vital records, gender identity under the Iowa civil rights Act, and school curricula related to gender theory. Effective date: 07/01/2025.",
+    "status": "signed_into_law",
+    "status_label": "Passed",
+    "status_code": 4,
+    "categories": [
+      "definitions",
+      "identity_documents",
+      "education"
+    ],
+    "primary_category": "definitions",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/IA/bill/SF418/2025",
+    "legiscan_url": "https://legiscan.com/IA/bill/SF418/2025",
+    "state_url": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=SF418",
+    "sponsors": [
+      "Jason Schultz (R) [Sen]"
+    ],
+    "introduced_date": "2025-02-28",
+    "session": "91st General Assembly"
+  },
+  {
     "id": 2039768,
     "state": "WI",
     "state_name": "Wisconsin",
@@ -9795,37 +9828,6 @@
     ],
     "introduced_date": "2026-03-23",
     "session": "2025-2026 Regular Session"
-  },
-  {
-    "id": 1981971,
-    "state": "IA",
-    "state_name": "Iowa",
-    "bill_number": "SF418",
-    "title": "A bill for an act relating to sex and gender, including those and related terms for purposes of statutory construction, indications of a person's sex on certain vital records, gender identity under the Iowa civil rights Act, and school curricula related to gender theory. Effective date: 07/01/2025.",
-    "summary": "A bill for an act relating to sex and gender, including those and related terms for purposes of statutory construction, indications of a person's sex on certain vital records, gender identity under the Iowa civil rights Act, and school curricula related to gender theory. Effective date: 07/01/2025.",
-    "status": "signed_into_law",
-    "status_label": "Passed",
-    "status_code": 4,
-    "categories": [
-      "definitions",
-      "identity_documents",
-      "education"
-    ],
-    "primary_category": "definitions",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/IA/bill/SF418/2025",
-    "legiscan_url": "https://legiscan.com/IA/bill/SF418/2025",
-    "state_url": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=SF418",
-    "sponsors": [
-      "Jason Schultz (R) [Sen]"
-    ],
-    "introduced_date": "2025-02-28",
-    "session": "91st General Assembly"
   },
   {
     "id": 1981888,
@@ -10226,6 +10228,42 @@
     "session": "2025-2026 Regular Session"
   },
   {
+    "id": 1896408,
+    "state": "TX",
+    "state_name": "Texas",
+    "bill_number": "HB1601",
+    "title": "Relating to the prohibition, prevention, and remedying of certain discrimination.",
+    "summary": "Relating to the prohibition, prevention, and remedying of certain discrimination.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "definitions",
+      "education",
+      "identity_documents",
+      "healthcare",
+      "other"
+    ],
+    "primary_category": "definitions",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/TX/bill/HB1601/2025",
+    "legiscan_url": "https://legiscan.com/TX/bill/HB1601/2025",
+    "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1601",
+    "sponsors": [
+      "Jon Rosenthal (D) [Rep]",
+      "Jessica Gonzalez (D) [Rep]",
+      "Lauren Ashley Simmons (D) [Rep]",
+      "Venton Jones (D) [Rep]"
+    ],
+    "introduced_date": "2024-12-12",
+    "session": "89th Legislature Regular Session"
+  },
+  {
     "id": 2117735,
     "state": "MN",
     "state_name": "Minnesota",
@@ -10318,42 +10356,6 @@
     ],
     "introduced_date": "2026-04-16",
     "session": "94th Legislature 2025-2026"
-  },
-  {
-    "id": 1896408,
-    "state": "TX",
-    "state_name": "Texas",
-    "bill_number": "HB1601",
-    "title": "Relating to the prohibition, prevention, and remedying of certain discrimination.",
-    "summary": "Relating to the prohibition, prevention, and remedying of certain discrimination.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "definitions",
-      "education",
-      "identity_documents",
-      "healthcare",
-      "other"
-    ],
-    "primary_category": "definitions",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/TX/bill/HB1601/2025",
-    "legiscan_url": "https://legiscan.com/TX/bill/HB1601/2025",
-    "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1601",
-    "sponsors": [
-      "Jon Rosenthal (D) [Rep]",
-      "Jessica Gonzalez (D) [Rep]",
-      "Lauren Ashley Simmons (D) [Rep]",
-      "Venton Jones (D) [Rep]"
-    ],
-    "introduced_date": "2024-12-12",
-    "session": "89th Legislature Regular Session"
   },
   {
     "id": 2041629,
@@ -10707,9 +10709,9 @@
     "bill_number": "SB552",
     "title": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
     "summary": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
-    "status": "passed_both_chambers",
-    "status_label": "Enrolled",
-    "status_code": 3,
+    "status": "vetoed",
+    "status_label": "Vetoed",
+    "status_code": 5,
     "categories": [
       "definitions",
       "identity_documents"
@@ -10729,7 +10731,7 @@
       "Timothy Lang (R) [Sen]",
       "Regina Birdsell (R) [Sen]"
     ],
-    "introduced_date": "2026-06-10",
+    "introduced_date": "2026-06-24",
     "session": "2026 Regular Session"
   },
   {
@@ -12664,7 +12666,12 @@
       "Sharice Davids (D) [Rep]",
       "Seth Magaziner (D) [Rep]",
       "Frederica Wilson (D) [Rep]",
-      "Maxwell Frost (D) [Rep]"
+      "Maxwell Frost (D) [Rep]",
+      "Rosa DeLauro (D) [Rep]",
+      "Seth Moulton (D) [Rep]",
+      "Maxine Dexter (D) [Rep]",
+      "Ted Lieu (D) [Rep]",
+      "Juan Vargas (D) [Rep]"
     ],
     "introduced_date": "2025-01-16",
     "session": "119th Congress"
@@ -13951,9 +13958,9 @@
     "bill_number": "SB1095",
     "title": "Gender transition; minors; prohibitions",
     "summary": "Gender transition; minors; prohibitions",
-    "status": "passed_both_chambers",
-    "status_label": "Enrolled",
-    "status_code": 3,
+    "status": "vetoed",
+    "status_label": "Vetoed",
+    "status_code": 5,
     "categories": [
       "healthcare",
       "definitions"
@@ -13971,7 +13978,7 @@
     "sponsors": [
       "Mark Finchem (R) [Sen]"
     ],
-    "introduced_date": "2026-06-10",
+    "introduced_date": "2026-06-19",
     "session": "Fifty-seventh Legislature - Second Regular Session (2026)"
   },
   {
@@ -14532,9 +14539,9 @@
     "bill_number": "SB1015",
     "title": "Gender transition procedures; provider liability",
     "summary": "Gender transition procedures; provider liability",
-    "status": "passed_both_chambers",
-    "status_label": "Enrolled",
-    "status_code": 3,
+    "status": "vetoed",
+    "status_label": "Vetoed",
+    "status_code": 5,
     "categories": [
       "healthcare"
     ],
@@ -14551,7 +14558,7 @@
     "sponsors": [
       "Janae Shamp (R) [Sen]"
     ],
-    "introduced_date": "2026-06-10",
+    "introduced_date": "2026-06-19",
     "session": "Fifty-seventh Legislature - Second Regular Session (2026)"
   },
   {
@@ -16138,36 +16145,6 @@
     "session": "89th Legislature Regular Session"
   },
   {
-    "id": 1890639,
-    "state": "TX",
-    "state_name": "Texas",
-    "bill_number": "HB1015",
-    "title": "Relating to regulations and policies for entering or using a bathroom or changing facility in a public school.",
-    "summary": "Relating to regulations and policies for entering or using a bathroom or changing facility in a public school.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "bathrooms",
-      "education"
-    ],
-    "primary_category": "bathrooms",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/TX/bill/HB1015/2025",
-    "legiscan_url": "https://legiscan.com/TX/bill/HB1015/2025",
-    "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1015",
-    "sponsors": [
-      "Steve Toth (R) [Rep]"
-    ],
-    "introduced_date": "2024-11-12",
-    "session": "89th Legislature Regular Session"
-  },
-  {
     "id": 1891457,
     "state": "TX",
     "state_name": "Texas",
@@ -16194,6 +16171,36 @@
     "sponsors": [
       "Valoree Swanson (R) [Rep]",
       "Carrie Isaac (R) [Rep]"
+    ],
+    "introduced_date": "2024-11-12",
+    "session": "89th Legislature Regular Session"
+  },
+  {
+    "id": 1890639,
+    "state": "TX",
+    "state_name": "Texas",
+    "bill_number": "HB1015",
+    "title": "Relating to regulations and policies for entering or using a bathroom or changing facility in a public school.",
+    "summary": "Relating to regulations and policies for entering or using a bathroom or changing facility in a public school.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "bathrooms",
+      "education"
+    ],
+    "primary_category": "bathrooms",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/TX/bill/HB1015/2025",
+    "legiscan_url": "https://legiscan.com/TX/bill/HB1015/2025",
+    "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB1015",
+    "sponsors": [
+      "Steve Toth (R) [Rep]"
     ],
     "introduced_date": "2024-11-12",
     "session": "89th Legislature Regular Session"
@@ -18690,9 +18697,9 @@
     "bill_number": "SB1094",
     "title": "Civil liability; gender reassignment surgery",
     "summary": "Civil liability; gender reassignment surgery",
-    "status": "passed_both_chambers",
-    "status_label": "Enrolled",
-    "status_code": 3,
+    "status": "vetoed",
+    "status_label": "Vetoed",
+    "status_code": 5,
     "categories": [
       "healthcare",
       "identity_documents"
@@ -18710,7 +18717,7 @@
     "sponsors": [
       "John Kavanagh (R) [Sen]"
     ],
-    "introduced_date": "2026-06-10",
+    "introduced_date": "2026-06-19",
     "session": "Fifty-seventh Legislature - Second Regular Session (2026)"
   },
   {
