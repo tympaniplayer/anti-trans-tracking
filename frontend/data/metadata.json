@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-06-29T07:53:59.006875+00:00",
-  "total_bills": 492,
+  "last_updated": "2026-07-06T07:43:24.912885+00:00",
+  "total_bills": 493,
   "total_states": 46,
   "by_category": {
-    "other": 93,
+    "other": 94,
     "healthcare": 145,
     "bathrooms": 23,
     "identity_documents": 56,
@@ -15,7 +15,7 @@
   },
   "by_status": {
     "signed_into_law": 30,
-    "introduced": 374,
+    "introduced": 375,
     "passed_one_chamber": 38,
     "dead": 40,
     "vetoed": 9,
@@ -23,10 +23,10 @@
   },
   "by_level": {
     "state": 451,
-    "federal": 41
+    "federal": 42
   },
   "by_sentiment": {
-    "protective": 271,
+    "protective": 272,
     "restrictive": 214,
     "neutral": 7
   }

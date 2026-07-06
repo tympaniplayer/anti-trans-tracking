@@ -114,6 +114,11 @@
       "date": "2026-06-24",
       "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 11. Noes 2.) (June 23). Re-referred to Com. on JUD.",
       "chamber": "A"
+    },
+    {
+      "date": "2026-07-01",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 3.) (June 30). Re-referred to Com. on APPR.",
+      "chamber": "A"
     }
   ],
   "votes": [
@@ -158,6 +163,13 @@
       "yea": 11,
       "nay": 2,
       "passed": 1
+    },
+    {
+      "date": "2026-06-30",
+      "description": "Do pass and be re-referred to the Committee on [Appropriations]",
+      "yea": 9,
+      "nay": 3,
+      "passed": 1
     }
   ],
   "texts": [
@@ -175,10 +187,10 @@
     }
   ],
   "committee": {
-    "committee_id": 463,
+    "committee_id": 449,
     "chamber": "A",
     "chamber_id": 19,
-    "name": "Judiciary"
+    "name": "Appropriations"
   },
   "subjects": []
 }

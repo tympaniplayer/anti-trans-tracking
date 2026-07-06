@@ -16,19 +16,19 @@
   "US": {
     "state": "US",
     "state_name": "Federal",
-    "total": 41,
+    "total": 42,
     "by_category": {
-      "other": 20,
+      "other": 21,
       "healthcare": 13,
       "education": 4,
       "sports": 2,
       "definitions": 2
     },
     "by_status": {
-      "introduced": 41
+      "introduced": 42
     },
     "by_sentiment": {
-      "protective": 33,
+      "protective": 34,
       "restrictive": 8
     }
   },

@@ -138,6 +138,11 @@
       "date": "2026-06-24",
       "action": "From committee: Do pass and re-refer to Com. on HEALTH. (Ayes 7. Noes 1.) (June 23). Re-referred to Com. on HEALTH.",
       "chamber": "S"
+    },
+    {
+      "date": "2026-07-02",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 10. Noes 0.) (July 1). Re-referred to Com. on APPR.",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -175,6 +180,13 @@
       "yea": 7,
       "nay": 1,
       "passed": 1
+    },
+    {
+      "date": "2026-07-01",
+      "description": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+      "yea": 10,
+      "nay": 0,
+      "passed": 1
     }
   ],
   "texts": [
@@ -204,10 +216,10 @@
     }
   ],
   "committee": {
-    "committee_id": 480,
+    "committee_id": 475,
     "chamber": "S",
     "chamber_id": 20,
-    "name": "Health"
+    "name": "Appropriations"
   },
   "subjects": []
 }

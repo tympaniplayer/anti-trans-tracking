@@ -712,6 +712,65 @@
     "session": "119th Congress"
   },
   {
+    "id": 2155304,
+    "state": "US",
+    "state_name": "Federal",
+    "bill_number": "HR1405",
+    "title": "Encouraging the celebration of the month of June as LGBTQIA+ Pride Month.",
+    "summary": "Encouraging the celebration of the month of June as LGBTQIA+ Pride Month.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "federal",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/US/bill/HR1405/2025",
+    "legiscan_url": "https://legiscan.com/US/bill/HR1405/2025",
+    "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/1405/all-info",
+    "sponsors": [
+      "Al Green (D) [Rep]",
+      "Nanette Barragan (D) [Rep]",
+      "Shontel Brown (D) [Rep]",
+      "Troy Carter (D) [Rep]",
+      "Ed Case (D) [Rep]",
+      "Angela Craig (D) [Rep]",
+      "Sharice Davids (D) [Rep]",
+      "Danny Davis (D) [Rep]",
+      "Diana DeGette (D) [Rep]",
+      "Suzan DelBene (D) [Rep]",
+      "Mark DeSaulnier (D) [Rep]",
+      "Valerie Foushee (D) [Rep]",
+      "Jesus Garcia (D) [Rep]",
+      "Henry Johnson (D) [Rep]",
+      "Ro Khanna (D) [Rep]",
+      "Raja Krishnamoorthi (D) [Rep]",
+      "Stephen Lynch (D) [Rep]",
+      "Grace Meng (D) [Rep]",
+      "Eleanor Norton (D) [Rep]",
+      "Ilhan Omar (D) [Rep]",
+      "Mary Gay Scanlon (D) [Rep]",
+      "Janice Schakowsky (D) [Rep]",
+      "Mark Takano (D) [Rep]",
+      "Dina Titus (D) [Rep]",
+      "Rashida Tlaib (D) [Rep]",
+      "Jill Tokuda (D) [Rep]",
+      "Paul Tonko (D) [Rep]",
+      "Ritchie Torres (D) [Rep]",
+      "Shri Thanedar (D) [Rep]",
+      "Nydia Velazquez (D) [Rep]",
+      "Frederica Wilson (D) [Rep]"
+    ],
+    "introduced_date": "2026-06-30",
+    "session": "119th Congress"
+  },
+  {
     "id": 2025794,
     "state": "NY",
     "state_name": "New York",
@@ -3473,7 +3532,10 @@
     "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A5162",
     "sponsors": [
       "Luanne Peterpaul (D) [Rep]",
-      "Annette Quijano (D) [Rep]"
+      "Annette Quijano (D) [Rep]",
+      "Anthony Verrelli (D) [Rep]",
+      "William Sampson (D) [Rep]",
+      "Ellen Park (D) [Rep]"
     ],
     "introduced_date": "2026-06-01",
     "session": "2026-2027 Regular Session"
@@ -3852,6 +3914,7 @@
       "Nathalia Fernandez (D) [Sen]",
       "Joseph Addabbo (D) [Sen]",
       "Erik Bottcher (D) [Sen]",
+      "Jabari Brisport (D) [Sen]",
       "Samra Brouk (D) [Sen]",
       "Gustavo Rivera (D) [Sen]",
       "Christopher Ryan (D) [Sen]",
@@ -4015,6 +4078,7 @@
     "sponsors": [
       "Gustavo Rivera (D) [Sen]",
       "Erik Bottcher (D) [Sen]",
+      "Jabari Brisport (D) [Sen]",
       "Kristen Gonzalez (D) [Sen]",
       "Peter Harckham (D) [Sen]",
       "Robert Jackson (D) [Sen]",
@@ -6222,7 +6286,8 @@
       "April McClain-Delaney (D) [Rep]",
       "Delia Ramirez (D) [Rep]",
       "Sarah McBride (D) [Rep]",
-      "Adelita Grijalva (D) [Rep]"
+      "Adelita Grijalva (D) [Rep]",
+      "Pramila Jayapal (D) [Rep]"
     ],
     "introduced_date": "2025-06-26",
     "session": "119th Congress"
@@ -7316,7 +7381,7 @@
       "Yara Zokaie (D) [Rep]",
       "Judith Amabile (D) [Rep]",
       "Matt Ball (D) [Sen]",
-      "Adrienne Benavidez (D) [Sen]",
+      "Adrienne Benavidez (D) [Rep]",
       "Jeff Bridges (D) [Rep]",
       "James Coleman (D) [Sen]",
       "Jessie Danielson (D) [Sen]",
@@ -8071,7 +8136,8 @@
     "legiscan_url": "https://legiscan.com/NY/bill/S09817/2025",
     "state_url": "https://www.nysenate.gov/legislation/bills/2025/S9817",
     "sponsors": [
-      "James Skoufis (D) [Sen]"
+      "James Skoufis (D) [Sen]",
+      "Jabari Brisport (D) [Sen]"
     ],
     "introduced_date": "2026-04-06",
     "session": "2025-2026 General Assembly"
@@ -8731,6 +8797,7 @@
     "state_url": "https://www.nysenate.gov/legislation/bills/2025/S6636",
     "sponsors": [
       "Robert Jackson (D) [Sen]",
+      "Jabari Brisport (D) [Sen]",
       "Brad Hoylman-Sigal (D) [Sen]",
       "Liz Krueger (D) [Sen]",
       "Julia Salazar (D) [Sen]",
@@ -11422,35 +11489,6 @@
     "session": "104th General Assembly"
   },
   {
-    "id": 2093269,
-    "state": "MD",
-    "state_name": "Maryland",
-    "bill_number": "HB513",
-    "title": "Hate Crimes and Hate Bias - Definitions of Sexual Orientation and Hate Bias Incident",
-    "summary": "Altering the definition of \"sexual orientation\" applicable to certain hate crime statutes; and defining \"hate bias incident\" applicable to a certain requirement that the Department of State Police collect, analyze, and report certain information provided by certain law enforcement agencies.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "definitions"
-    ],
-    "primary_category": "definitions",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/MD/bill/HB513/2026",
-    "legiscan_url": "https://legiscan.com/MD/bill/HB513/2026",
-    "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0513?ys=2026RS",
-    "sponsors": [
-      "Joe Vogel (D) [Rep]"
-    ],
-    "introduced_date": "2026-01-27",
-    "session": "2026 Regular Session"
-  },
-  {
     "id": 1937927,
     "state": "KS",
     "state_name": "Kansas",
@@ -11479,6 +11517,35 @@
     ],
     "introduced_date": "2025-01-23",
     "session": "2025-2026 Regular Session"
+  },
+  {
+    "id": 2093269,
+    "state": "MD",
+    "state_name": "Maryland",
+    "bill_number": "HB513",
+    "title": "Hate Crimes and Hate Bias - Definitions of Sexual Orientation and Hate Bias Incident",
+    "summary": "Altering the definition of \"sexual orientation\" applicable to certain hate crime statutes; and defining \"hate bias incident\" applicable to a certain requirement that the Department of State Police collect, analyze, and report certain information provided by certain law enforcement agencies.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "definitions"
+    ],
+    "primary_category": "definitions",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/MD/bill/HB513/2026",
+    "legiscan_url": "https://legiscan.com/MD/bill/HB513/2026",
+    "state_url": "https://mgaleg.maryland.gov/mgawebsite/Legislation/Details/HB0513?ys=2026RS",
+    "sponsors": [
+      "Joe Vogel (D) [Rep]"
+    ],
+    "introduced_date": "2026-01-27",
+    "session": "2026 Regular Session"
   },
   {
     "id": 2063731,
@@ -12671,7 +12738,10 @@
       "Seth Moulton (D) [Rep]",
       "Maxine Dexter (D) [Rep]",
       "Ted Lieu (D) [Rep]",
-      "Juan Vargas (D) [Rep]"
+      "Juan Vargas (D) [Rep]",
+      "Julie Johnson (D) [Rep]",
+      "James Walkinshaw (D) [Rep]",
+      "Adelita Grijalva (D) [Rep]"
     ],
     "introduced_date": "2025-01-16",
     "session": "119th Congress"
@@ -12871,6 +12941,46 @@
     ],
     "introduced_date": "2025-05-15",
     "session": "2025-2026 General Assembly"
+  },
+  {
+    "id": 2056290,
+    "state": "NH",
+    "state_name": "New Hampshire",
+    "bill_number": "HB1447",
+    "title": "Restricting the use of certain public and private facilities on the basis of sex and establishing that such restriction does not qualify as discrimination.",
+    "summary": "Restricting the use of certain public and private facilities on the basis of sex and establishing that such restriction does not qualify as discrimination.",
+    "status": "passed_one_chamber",
+    "status_label": "Engrossed",
+    "status_code": 2,
+    "categories": [
+      "bathrooms",
+      "definitions"
+    ],
+    "primary_category": "bathrooms",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NH/bill/HB1447/2026",
+    "legiscan_url": "https://legiscan.com/NH/bill/HB1447/2026",
+    "state_url": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2754&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1447",
+    "sponsors": [
+      "Lisa Mazur (R) [Rep]",
+      "Sayra Devito (R) [Rep]",
+      "Juliet Harvey-Bolia (R) [Rep]",
+      "Diane Kelley (R) [Rep]",
+      "Lori Korzen (R) [Rep]",
+      "Melissa Litchfield (R) [Rep]",
+      "Linda McGrath (R) [Rep]",
+      "Mary Murphy (R) [Rep]",
+      "Katherine Prudhomme-O'Brien (R) [Rep]",
+      "Sherri Reinfurt (R) [Rep]",
+      "Victoria Sullivan (R) [Sen]"
+    ],
+    "introduced_date": "2026-03-17",
+    "session": "2026 Regular Session"
   },
   {
     "id": 2016290,
@@ -13095,46 +13205,6 @@
       "Daniel Innis (R) [Sen]",
       "Victoria Sullivan (R) [Sen]",
       "Ruth Ward (R) [Sen]"
-    ],
-    "introduced_date": "2026-03-17",
-    "session": "2026 Regular Session"
-  },
-  {
-    "id": 2056290,
-    "state": "NH",
-    "state_name": "New Hampshire",
-    "bill_number": "HB1447",
-    "title": "Restricting the use of certain public and private facilities on the basis of sex and establishing that such restriction does not qualify as discrimination.",
-    "summary": "Restricting the use of certain public and private facilities on the basis of sex and establishing that such restriction does not qualify as discrimination.",
-    "status": "passed_one_chamber",
-    "status_label": "Engrossed",
-    "status_code": 2,
-    "categories": [
-      "bathrooms",
-      "definitions"
-    ],
-    "primary_category": "bathrooms",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NH/bill/HB1447/2026",
-    "legiscan_url": "https://legiscan.com/NH/bill/HB1447/2026",
-    "state_url": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2754&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=HB1447",
-    "sponsors": [
-      "Lisa Mazur (R) [Rep]",
-      "Sayra Devito (R) [Rep]",
-      "Juliet Harvey-Bolia (R) [Rep]",
-      "Diane Kelley (R) [Rep]",
-      "Lori Korzen (R) [Rep]",
-      "Melissa Litchfield (R) [Rep]",
-      "Linda McGrath (R) [Rep]",
-      "Mary Murphy (R) [Rep]",
-      "Katherine Prudhomme-O'Brien (R) [Rep]",
-      "Sherri Reinfurt (R) [Rep]",
-      "Victoria Sullivan (R) [Sen]"
     ],
     "introduced_date": "2026-03-17",
     "session": "2026 Regular Session"

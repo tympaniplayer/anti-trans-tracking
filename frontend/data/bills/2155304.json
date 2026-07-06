@@ -1,0 +1,87 @@
+{
+  "id": 2155304,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR1405",
+  "title": "Encouraging the celebration of the month of June as LGBTQIA+ Pride Month.",
+  "summary": "Encouraging the celebration of the month of June as LGBTQIA+ Pride Month.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR1405/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR1405/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/1405/all-info",
+  "sponsors": [
+    "Al Green (D) [Rep]",
+    "Nanette Barragan (D) [Rep]",
+    "Shontel Brown (D) [Rep]",
+    "Troy Carter (D) [Rep]",
+    "Ed Case (D) [Rep]",
+    "Angela Craig (D) [Rep]",
+    "Sharice Davids (D) [Rep]",
+    "Danny Davis (D) [Rep]",
+    "Diana DeGette (D) [Rep]",
+    "Suzan DelBene (D) [Rep]",
+    "Mark DeSaulnier (D) [Rep]",
+    "Valerie Foushee (D) [Rep]",
+    "Jesus Garcia (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Ro Khanna (D) [Rep]",
+    "Raja Krishnamoorthi (D) [Rep]",
+    "Stephen Lynch (D) [Rep]",
+    "Grace Meng (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "Ilhan Omar (D) [Rep]",
+    "Mary Gay Scanlon (D) [Rep]",
+    "Janice Schakowsky (D) [Rep]",
+    "Mark Takano (D) [Rep]",
+    "Dina Titus (D) [Rep]",
+    "Rashida Tlaib (D) [Rep]",
+    "Jill Tokuda (D) [Rep]",
+    "Paul Tonko (D) [Rep]",
+    "Ritchie Torres (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Nydia Velazquez (D) [Rep]",
+    "Frederica Wilson (D) [Rep]"
+  ],
+  "introduced_date": "2026-06-30",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-06-30",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-30",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-07-01",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres1405/BILLS-119hres1405ih.pdf",
+      "doc_id": 3451770
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": []
+}
