@@ -5,9 +5,9 @@
   "bill_number": "HB1376",
   "title": "Relative to a parent's ability to raise their child in a manner consistent with the child's biological sex and relative to breast surgeries for minors.",
   "summary": "Relative to a parent's ability to raise their child in a manner consistent with the child's biological sex and relative to breast surgeries for minors.",
-  "status": "passed_one_chamber",
-  "status_label": "Engrossed",
-  "status_code": 2,
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
   "categories": [
     "healthcare",
     "definitions"
@@ -35,7 +35,7 @@
     "Keith Murphy (R) [Sen]",
     "Kevin Avard (R) [Sen]"
   ],
-  "introduced_date": "2026-03-17",
+  "introduced_date": "2026-07-06",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -162,6 +162,16 @@
       "date": "2026-06-23",
       "action": "Enrolled Bill Amendment # 2026-2189e: Amendment Adopted Voice Vote (in recess of) 06/04/2026 House Journal  15",
       "chamber": "H"
+    },
+    {
+      "date": "2026-07-06",
+      "action": "Enrolled (in recess of) 06/04/2026 House Journal  15",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-07-06",
+      "action": "Enrolled Adopted, Voice Vote, (In recess 06/04/2026); Senate Journal 15",
+      "chamber": "S"
     }
   ],
   "votes": [

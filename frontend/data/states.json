@@ -584,9 +584,9 @@
     },
     "by_status": {
       "introduced": 1,
-      "passed_both_chambers": 1,
+      "passed_both_chambers": 2,
       "vetoed": 2,
-      "passed_one_chamber": 6
+      "passed_one_chamber": 5
     },
     "by_sentiment": {
       "restrictive": 10

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-06T07:43:24.912885+00:00",
+  "last_updated": "2026-07-13T09:27:37.942491+00:00",
   "total_bills": 493,
   "total_states": 46,
   "by_category": {
@@ -16,10 +16,10 @@
   "by_status": {
     "signed_into_law": 30,
     "introduced": 375,
-    "passed_one_chamber": 38,
+    "passed_one_chamber": 37,
     "dead": 40,
     "vetoed": 9,
-    "passed_both_chambers": 1
+    "passed_both_chambers": 2
   },
   "by_level": {
     "state": 451,
