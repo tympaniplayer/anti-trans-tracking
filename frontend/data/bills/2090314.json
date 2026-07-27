@@ -10,10 +10,9 @@
   "status_code": 1,
   "categories": [
     "definitions",
-    "education",
     "bathrooms",
-    "healthcare",
-    "other"
+    "education",
+    "healthcare"
   ],
   "primary_category": "definitions",
   "sentiment": "protective",

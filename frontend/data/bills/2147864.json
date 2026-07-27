@@ -1,0 +1,54 @@
+{
+  "id": 2147864,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "SJR142",
+  "title": "Designates June 2026 as LGBTQ+ Pride Month in New Jersey.",
+  "summary": "Designates June 2026 as LGBTQ+ Pride Month in New Jersey.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "protective",
+  "sentiment_label": "Protective",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/SJR142/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/SJR142/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/SJR142",
+  "sponsors": [
+    "Vin Gopal (D) [Sen]"
+  ],
+  "introduced_date": "2026-05-11",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-05-11",
+      "action": "Introduced in the Senate, Referred to Senate Health, Human Services and Senior Citizens Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-05-12",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/SJR/142_I1.HTM",
+      "doc_id": 3435014
+    }
+  ],
+  "committee": {
+    "committee_id": 879,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Health, Human Services and Senior Citizens"
+  },
+  "subjects": [
+    "Health, Human Services and Senior Citizens"
+  ]
+}

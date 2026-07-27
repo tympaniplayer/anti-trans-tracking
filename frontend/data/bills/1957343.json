@@ -10,8 +10,9 @@
   "status_code": 4,
   "categories": [
     "definitions",
+    "identity_documents",
     "healthcare",
-    "identity_documents"
+    "education"
   ],
   "primary_category": "definitions",
   "sentiment": "restrictive",

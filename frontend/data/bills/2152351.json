@@ -1,0 +1,64 @@
+{
+  "id": 2152351,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB9067",
+  "title": "To amend the Communications Act of 1934 to provide for a gender identity content descriptor for video programming, and for other purposes.",
+  "summary": "To amend the Communications Act of 1934 to provide for a gender identity content descriptor for video programming, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions",
+    "other"
+  ],
+  "primary_category": "definitions",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB9067/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB9067/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/9067/all-info",
+  "sponsors": [
+    "Barry Moore (R) [Rep]",
+    "Julia Letlow (R) [Rep]",
+    "Harriet Hageman (R) [Rep]",
+    "Sheri Biggs (R) [Rep]",
+    "Daniel Webster (R) [Rep]"
+  ],
+  "introduced_date": "2026-05-29",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-05-29",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-29",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-06-06",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr9067/BILLS-119hr9067ih.pdf",
+      "doc_id": 3446539
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": [
+    "Science, technology, communications"
+  ]
+}

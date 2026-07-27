@@ -9,10 +9,9 @@
   "status_label": "Passed",
   "status_code": 4,
   "categories": [
-    "identity_documents",
     "other"
   ],
-  "primary_category": "identity_documents",
+  "primary_category": "other",
   "sentiment": "protective",
   "sentiment_label": "Protective",
   "relevant": true,

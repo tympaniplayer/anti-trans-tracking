@@ -9,9 +9,10 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "other"
+    "identity_documents",
+    "healthcare"
   ],
-  "primary_category": "other",
+  "primary_category": "identity_documents",
   "sentiment": "protective",
   "sentiment_label": "Protective",
   "relevant": true,

@@ -9,16 +9,19 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "education",
-    "definitions"
+    "definitions",
+    "other"
   ],
-  "primary_category": "education",
+  "primary_category": "definitions",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
   "url": "https://legiscan.com/OK/bill/HB3502/2026",
   "legiscan_url": "https://legiscan.com/OK/bill/HB3502/2026",
-  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=hb3502&Session=2600",
+  "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb3502&Session=2600",
   "sponsors": [
     "Collin Duel (R) [Rep]",
     "Brian Hill (R) [Rep]"

@@ -9,12 +9,11 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "definitions",
     "bathrooms",
-    "sports",
+    "definitions",
     "education"
   ],
-  "primary_category": "definitions",
+  "primary_category": "bathrooms",
   "sentiment": "restrictive",
   "sentiment_label": "Restrictive",
   "relevant": true,

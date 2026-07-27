@@ -10,9 +10,9 @@
   "status_code": 1,
   "categories": [
     "definitions",
-    "education",
     "healthcare",
-    "identity_documents"
+    "education",
+    "other"
   ],
   "primary_category": "definitions",
   "sentiment": "protective",

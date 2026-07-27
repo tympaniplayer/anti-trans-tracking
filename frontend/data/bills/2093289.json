@@ -9,12 +9,12 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "definitions",
-    "healthcare",
+    "identity_documents",
     "education",
+    "healthcare",
     "other"
   ],
-  "primary_category": "definitions",
+  "primary_category": "identity_documents",
   "sentiment": "protective",
   "sentiment_label": "Protective",
   "relevant": true,

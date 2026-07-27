@@ -9,10 +9,10 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "healthcare",
-    "religious_exemptions"
+    "religious_exemptions",
+    "healthcare"
   ],
-  "primary_category": "healthcare",
+  "primary_category": "religious_exemptions",
   "sentiment": "restrictive",
   "sentiment_label": "Restrictive",
   "relevant": true,

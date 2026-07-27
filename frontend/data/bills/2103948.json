@@ -10,9 +10,9 @@
   "status_code": 1,
   "categories": [
     "definitions",
-    "identity_documents",
+    "bathrooms",
     "education",
-    "other"
+    "healthcare"
   ],
   "primary_category": "definitions",
   "sentiment": "protective",

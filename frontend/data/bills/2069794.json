@@ -9,10 +9,11 @@
   "status_label": "Failed",
   "status_code": 6,
   "categories": [
+    "identity_documents",
     "definitions",
-    "identity_documents"
+    "religious_exemptions"
   ],
-  "primary_category": "definitions",
+  "primary_category": "identity_documents",
   "sentiment": "restrictive",
   "sentiment_label": "Restrictive",
   "relevant": true,

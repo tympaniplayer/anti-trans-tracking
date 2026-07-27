@@ -9,10 +9,10 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "bathrooms",
-    "identity_documents"
+    "identity_documents",
+    "other"
   ],
-  "primary_category": "bathrooms",
+  "primary_category": "identity_documents",
   "sentiment": "restrictive",
   "sentiment_label": "Restrictive",
   "relevant": true,

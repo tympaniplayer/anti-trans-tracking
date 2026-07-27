@@ -9,9 +9,10 @@
   "status_label": "Engrossed",
   "status_code": 2,
   "categories": [
+    "identity_documents",
     "other"
   ],
-  "primary_category": "other",
+  "primary_category": "identity_documents",
   "sentiment": "protective",
   "sentiment_label": "Protective",
   "relevant": true,

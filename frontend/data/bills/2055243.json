@@ -5,9 +5,9 @@
   "bill_number": "HB1376",
   "title": "Relative to a parent's ability to raise their child in a manner consistent with the child's biological sex and relative to breast surgeries for minors.",
   "summary": "Relative to a parent's ability to raise their child in a manner consistent with the child's biological sex and relative to breast surgeries for minors.",
-  "status": "passed_both_chambers",
-  "status_label": "Enrolled",
-  "status_code": 3,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "healthcare",
     "definitions"
@@ -35,7 +35,7 @@
     "Keith Murphy (R) [Sen]",
     "Kevin Avard (R) [Sen]"
   ],
-  "introduced_date": "2026-07-06",
+  "introduced_date": "2026-07-20",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -105,12 +105,12 @@
     },
     {
       "date": "2026-05-18",
-      "action": "House Non-Concurs with Senate Amendment 2026-1938s (Rep. DeSimone): Motion Adopted Voice Vote 05/14/2026 House Journal  13",
+      "action": "House Non-Concurs with Senate Amendment 2026-1938s (Rep. DeSimone): Motion Adopted Voice Vote 05/14/2026 House Journal  13 P. 148",
       "chamber": "H"
     },
     {
       "date": "2026-05-18",
-      "action": "Speaker Appoints: Reps. Rice, Mazur, Wheeler, Nelson 05/14/2026 House Journal  13",
+      "action": "Speaker Appoints: Reps. Rice, Mazur, Wheeler, Nelson 05/14/2026 House Journal  13 P. 148",
       "chamber": "H"
     },
     {
@@ -125,7 +125,7 @@
     },
     {
       "date": "2026-05-21",
-      "action": "Conferee Change: Rep. Korzen Replaces Rep. Mazur 05/20/2026 House Journal  13",
+      "action": "Conferee Change: Rep. Korzen Replaces Rep. Mazur 05/20/2026 House Journal  13 P. 154",
       "chamber": "H"
     },
     {
@@ -172,6 +172,11 @@
       "date": "2026-07-06",
       "action": "Enrolled Adopted, Voice Vote, (In recess 06/04/2026); Senate Journal 15",
       "chamber": "S"
+    },
+    {
+      "date": "2026-07-20",
+      "action": "Signed by Governor Ayotte 07/15/2026; Chapter 326; eff.09/13/2026",
+      "chamber": "H"
     }
   ],
   "votes": [

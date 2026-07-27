@@ -10,8 +10,10 @@
   "status_code": 1,
   "categories": [
     "definitions",
-    "bathrooms",
-    "identity_documents"
+    "identity_documents",
+    "education",
+    "healthcare",
+    "bathrooms"
   ],
   "primary_category": "definitions",
   "sentiment": "protective",

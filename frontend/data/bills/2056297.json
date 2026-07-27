@@ -5,14 +5,12 @@
   "bill_number": "HB1442",
   "title": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
   "summary": "Permitting classification of individuals based on biological sex under certain limited circumstances.",
-  "status": "passed_both_chambers",
-  "status_label": "Enrolled",
-  "status_code": 3,
+  "status": "vetoed",
+  "status_label": "Vetoed",
+  "status_code": 5,
   "categories": [
     "definitions",
-    "sports",
-    "bathrooms",
-    "healthcare"
+    "identity_documents"
   ],
   "primary_category": "definitions",
   "sentiment": "restrictive",
@@ -39,7 +37,7 @@
     "Kevin Avard (R) [Sen]",
     "William Gannon (R) [Sen]"
   ],
-  "introduced_date": "2026-06-23",
+  "introduced_date": "2026-07-20",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -119,7 +117,7 @@
     },
     {
       "date": "2026-05-21",
-      "action": "House Concurs with Senate Amendment 2026-1384s (Rep. Lynn): Motion Adopted Regular Calendar 184-155 05/21/2026 House Journal  14",
+      "action": "House Concurs with Senate Amendment 2026-1384s (Rep. Lynn): Motion Adopted Regular Calendar 184-155 05/21/2026 House Journal  14 P. 18",
       "chamber": "H"
     },
     {
@@ -130,6 +128,11 @@
     {
       "date": "2026-06-23",
       "action": "Enrolled (in recess of) 06/04/2026 House Journal  15",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-07-20",
+      "action": "Vetoed by Governor Ayotte 07/15/2026",
       "chamber": "H"
     }
   ],

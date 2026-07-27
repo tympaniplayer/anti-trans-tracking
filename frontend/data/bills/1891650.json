@@ -9,7 +9,8 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "healthcare"
+    "healthcare",
+    "definitions"
   ],
   "primary_category": "healthcare",
   "sentiment": "restrictive",

@@ -9,11 +9,10 @@
   "status_label": "Engrossed",
   "status_code": 2,
   "categories": [
-    "identity_documents",
     "education",
-    "definitions"
+    "identity_documents"
   ],
-  "primary_category": "identity_documents",
+  "primary_category": "education",
   "sentiment": "restrictive",
   "sentiment_label": "Restrictive",
   "relevant": true,
