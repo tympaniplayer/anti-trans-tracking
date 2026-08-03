@@ -1,0 +1,51 @@
+{
+  "id": 2156693,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SB5202",
+  "title": "A bill to prohibit the use of Federal funds for gender transition for minors.",
+  "summary": "A bill to prohibit the use of Federal funds for gender transition for minors.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare"
+  ],
+  "primary_category": "healthcare",
+  "sentiment": "restrictive",
+  "sentiment_label": "Restrictive",
+  "relevant": true,
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SB5202/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SB5202/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5202/all-info",
+  "sponsors": [
+    "Mike Lee (R) [Sen]",
+    "James Lankford (R) [Sen]",
+    "Cynthia Lummis (R) [Sen]",
+    "Ted Cruz (R) [Sen]",
+    "Steve Daines (R) [Sen]",
+    "Tommy Tuberville (R) [Sen]",
+    "Marsha Blackburn (R) [Sen]"
+  ],
+  "introduced_date": "2026-07-30",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-07-30",
+      "action": "Read twice and referred to the Committee on Health, Education, Labor, and Pensions.",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": []
+}

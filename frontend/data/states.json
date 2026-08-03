@@ -39,21 +39,21 @@
   "US": {
     "state": "US",
     "state_name": "Federal",
-    "total": 43,
+    "total": 44,
     "by_category": {
       "other": 19,
-      "healthcare": 13,
+      "healthcare": 14,
       "education": 4,
       "sports": 2,
       "definitions": 4,
       "identity_documents": 1
     },
     "by_status": {
-      "introduced": 43
+      "introduced": 44
     },
     "by_sentiment": {
       "protective": 34,
-      "restrictive": 9
+      "restrictive": 10
     }
   },
   "NJ": {
