@@ -803,7 +803,8 @@
       "Nydia Velazquez (D) [Rep]",
       "Frederica Wilson (D) [Rep]",
       "Norma Torres (D) [Rep]",
-      "Andrea Salinas (D) [Rep]"
+      "Andrea Salinas (D) [Rep]",
+      "Emily Randall (D) [Rep]"
     ],
     "introduced_date": "2026-06-30",
     "session": "119th Congress"
@@ -1472,7 +1473,8 @@
       "Gabe Amo (D) [Rep]",
       "Ted Lieu (D) [Rep]",
       "Yvette Clarke (D) [Rep]",
-      "Angela Craig (D) [Rep]"
+      "Angela Craig (D) [Rep]",
+      "Stephen Lynch (D) [Rep]"
     ],
     "introduced_date": "2025-03-31",
     "session": "119th Congress"
@@ -2744,7 +2746,9 @@
       "Dwight Evans (D) [Rep]",
       "Adelita Grijalva (D) [Rep]",
       "Danny Davis (D) [Rep]",
-      "Angela Craig (D) [Rep]"
+      "Angela Craig (D) [Rep]",
+      "Stephen Lynch (D) [Rep]",
+      "Kevin Mullin (D) [Rep]"
     ],
     "introduced_date": "2025-06-04",
     "session": "119th Congress"
@@ -5736,7 +5740,8 @@
       "Julia Letlow (R) [Rep]",
       "Harriet Hageman (R) [Rep]",
       "Sheri Biggs (R) [Rep]",
-      "Daniel Webster (R) [Rep]"
+      "Daniel Webster (R) [Rep]",
+      "August Pfluger (R) [Rep]"
     ],
     "introduced_date": "2026-05-29",
     "session": "119th Congress"
@@ -6585,7 +6590,8 @@
       "Kathy Castor (D) [Rep]",
       "Brittany Pettersen (D) [Rep]",
       "Mike Levin (D) [Rep]",
-      "Bill Foster (D) [Rep]"
+      "Bill Foster (D) [Rep]",
+      "Julia Brownley (D) [Rep]"
     ],
     "introduced_date": "2025-09-17",
     "session": "119th Congress"
@@ -13959,7 +13965,8 @@
       "Roger Marshall (R) [Sen]",
       "Pete Ricketts (R) [Sen]",
       "Bill Cassidy (R) [Sen]",
-      "Mike Lee (R) [Sen]"
+      "Mike Lee (R) [Sen]",
+      "David McCormick (R) [Sen]"
     ],
     "introduced_date": "2025-05-01",
     "session": "119th Congress"
@@ -15671,41 +15678,6 @@
     ],
     "introduced_date": "2025-03-27",
     "session": "94th Legislature 2025-2026"
-  },
-  {
-    "id": 2156693,
-    "state": "US",
-    "state_name": "Federal",
-    "bill_number": "SB5202",
-    "title": "A bill to prohibit the use of Federal funds for gender transition for minors.",
-    "summary": "A bill to prohibit the use of Federal funds for gender transition for minors.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "federal",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/US/bill/SB5202/2025",
-    "legiscan_url": "https://legiscan.com/US/bill/SB5202/2025",
-    "state_url": "https://www.congress.gov/bill/119th-congress/senate-bill/5202/all-info",
-    "sponsors": [
-      "Mike Lee (R) [Sen]",
-      "James Lankford (R) [Sen]",
-      "Cynthia Lummis (R) [Sen]",
-      "Ted Cruz (R) [Sen]",
-      "Steve Daines (R) [Sen]",
-      "Tommy Tuberville (R) [Sen]",
-      "Marsha Blackburn (R) [Sen]"
-    ],
-    "introduced_date": "2026-07-30",
-    "session": "119th Congress"
   },
   {
     "id": 2080411,

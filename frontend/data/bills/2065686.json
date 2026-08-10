@@ -143,6 +143,11 @@
       "date": "2026-07-02",
       "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 10. Noes 0.) (July 1). Re-referred to Com. on APPR.",
       "chamber": "S"
+    },
+    {
+      "date": "2026-08-03",
+      "action": "In committee: Referred to APPR. suspense file.",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -185,6 +190,13 @@
       "date": "2026-07-01",
       "description": "Do pass, but first be re-referred to the Committee on [Appropriations]",
       "yea": 10,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-08-03",
+      "description": "Placed on suspense file",
+      "yea": 7,
       "nay": 0,
       "passed": 1
     }
