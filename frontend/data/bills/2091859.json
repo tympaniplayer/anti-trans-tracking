@@ -20,7 +20,7 @@
   "last_action": "",
   "url": "https://legiscan.com/IL/bill/HB4554/2025",
   "legiscan_url": "https://legiscan.com/IL/bill/HB4554/2025",
-  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4554&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+  "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4554&GAID=18&DocTypeID=HB&LegId=165410&SessionID=114",
   "sponsors": [
     "Laura Faver Dias (D) [Rep]",
     "Lindsey LaPointe (D) [Rep]",
@@ -85,7 +85,15 @@
       "chamber": "H"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-02-25",
+      "description": "House State Government Administration Committee",
+      "yea": 6,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2026-01-23",

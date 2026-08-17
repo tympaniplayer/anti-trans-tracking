@@ -575,22 +575,24 @@
   "NH": {
     "state": "NH",
     "state_name": "New Hampshire",
-    "total": 10,
+    "total": 11,
     "by_category": {
       "definitions": 6,
+      "identity_documents": 1,
       "bathrooms": 1,
       "religious_exemptions": 1,
       "healthcare": 1,
       "sports": 1
     },
     "by_status": {
-      "introduced": 1,
+      "introduced": 2,
       "vetoed": 3,
       "passed_one_chamber": 5,
       "signed_into_law": 1
     },
     "by_sentiment": {
-      "restrictive": 10
+      "restrictive": 10,
+      "protective": 1
     }
   },
   "LA": {

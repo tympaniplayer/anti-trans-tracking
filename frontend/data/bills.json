@@ -507,7 +507,8 @@
       "Julie Johnson (D) [Rep]",
       "Analilia Mejia (D) [Rep]",
       "Josh Gottheimer (D) [Rep]",
-      "Angela Craig (D) [Rep]"
+      "Angela Craig (D) [Rep]",
+      "Ro Khanna (D) [Rep]"
     ],
     "introduced_date": "2026-02-11",
     "session": "119th Congress"
@@ -752,7 +753,7 @@
     "state": "US",
     "state_name": "Federal",
     "bill_number": "HR1405",
-    "title": "Encouraging the celebration of the month of June as LGBTQIA+ Pride Month.",
+    "title": "Original LGBTQIA+ Pride Month Resolution of 2026",
     "summary": "Encouraging the celebration of the month of June as LGBTQIA+ Pride Month.",
     "status": "introduced",
     "status_label": "Introduced",
@@ -1474,7 +1475,8 @@
       "Ted Lieu (D) [Rep]",
       "Yvette Clarke (D) [Rep]",
       "Angela Craig (D) [Rep]",
-      "Stephen Lynch (D) [Rep]"
+      "Stephen Lynch (D) [Rep]",
+      "Sharice Davids (D) [Rep]"
     ],
     "introduced_date": "2025-03-31",
     "session": "119th Congress"
@@ -2205,6 +2207,38 @@
     "session": "2026-2027 Regular Session"
   },
   {
+    "id": 2118672,
+    "state": "CA",
+    "state_name": "California",
+    "bill_number": "SB1114",
+    "title": "Data collection: sexual orientation, gender identity, and intersex status: disclosure.",
+    "summary": "An act to amend Sections 44230.6 and 66027 of the Education Code, to amend Section 8310.8 of, and to add Section 8310.8.5 to, the Government Code, and to amend Section 1808 of the Vehicle Code, relating to data collection.",
+    "status": "passed_one_chamber",
+    "status_label": "Engrossed",
+    "status_code": 2,
+    "categories": [
+      "identity_documents",
+      "education",
+      "other"
+    ],
+    "primary_category": "identity_documents",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/CA/bill/SB1114/2025",
+    "legiscan_url": "https://legiscan.com/CA/bill/SB1114/2025",
+    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1114",
+    "sponsors": [
+      "Christopher Cabaldon (D) [Sen]",
+      "Rick Zbur (D) [Rep]"
+    ],
+    "introduced_date": "2026-05-26",
+    "session": "2025-2026 Regular Session"
+  },
+  {
     "id": 2022507,
     "state": "US",
     "state_name": "Federal",
@@ -2348,38 +2382,6 @@
     ],
     "introduced_date": "2025-03-11",
     "session": "2025-2026 General Assembly"
-  },
-  {
-    "id": 2118672,
-    "state": "CA",
-    "state_name": "California",
-    "bill_number": "SB1114",
-    "title": "Data collection: sexual orientation, gender identity, and intersex status: disclosure.",
-    "summary": "An act to amend Sections 44230.6 and 66027 of the Education Code, to amend Section 8310.8 of, and to add Section 8310.8.5 to, the Government Code, and to amend Section 1808 of the Vehicle Code, relating to data collection.",
-    "status": "passed_one_chamber",
-    "status_label": "Engrossed",
-    "status_code": 2,
-    "categories": [
-      "identity_documents",
-      "education",
-      "other"
-    ],
-    "primary_category": "identity_documents",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/CA/bill/SB1114/2025",
-    "legiscan_url": "https://legiscan.com/CA/bill/SB1114/2025",
-    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB1114",
-    "sponsors": [
-      "Christopher Cabaldon (D) [Sen]",
-      "Rick Zbur (D) [Rep]"
-    ],
-    "introduced_date": "2026-05-26",
-    "session": "2025-2026 Regular Session"
   },
   {
     "id": 2153732,
@@ -4913,7 +4915,7 @@
     "last_action": "",
     "url": "https://legiscan.com/IL/bill/HB3315/2025",
     "legiscan_url": "https://legiscan.com/IL/bill/HB3315/2025",
-    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3315&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3315&GAID=18&DocTypeID=HB&LegId=161805&SessionID=114",
     "sponsors": [
       "Rita Mayfield (D) [Rep]"
     ],
@@ -5970,6 +5972,57 @@
     "session": "2025-2026 General Assembly"
   },
   {
+    "id": 2102399,
+    "state": "CA",
+    "state_name": "California",
+    "bill_number": "SB934",
+    "title": "Sexual orientation or gender identity change efforts.",
+    "summary": "An act to amend Sections 865, 865.1, and 865.2 of the Business and Professions Code, relating to sexual orientation or gender identity change efforts.",
+    "status": "passed_one_chamber",
+    "status_label": "Engrossed",
+    "status_code": 2,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/CA/bill/SB934/2025",
+    "legiscan_url": "https://legiscan.com/CA/bill/SB934/2025",
+    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB934",
+    "sponsors": [
+      "Scott Wiener (D) [Sen]",
+      "Alex Lee (D) [Rep]",
+      "Rebecca Bauer-Kahan (D) [Rep]",
+      "Mia Bonta (D) [Rep]",
+      "Christopher Cabaldon (D) [Sen]",
+      "Sabrina Cervantes (D) [Sen]",
+      "Maria Durazo (D) [Sen]",
+      "Sade Elhawary (D) [Rep]",
+      "Lena Gonzalez (D) [Sen]",
+      "Matt Haney (D) [Rep]",
+      "Corey Jackson (D) [Rep]",
+      "John Laird (D) [Sen]",
+      "Josh Lowenthal (D) [Rep]",
+      "Mark Gonzalez (D) [Rep]",
+      "Caroline Menjivar (D) [Sen]",
+      "Steve Padilla (D) [Sen]",
+      "Sasha Renee Perez (D) [Sen]",
+      "Lola Smallwood-Cuevas (D) [Sen]",
+      "Jose Solache (D) [Rep]",
+      "Aisha Wahab (D) [Sen]",
+      "Chris Ward (D) [Rep]",
+      "Lori Wilson (D) [Rep]",
+      "Rick Zbur (D) [Rep]"
+    ],
+    "introduced_date": "2026-05-19",
+    "session": "2025-2026 Regular Session"
+  },
+  {
     "id": 1945358,
     "state": "US",
     "state_name": "Federal",
@@ -6067,57 +6120,6 @@
     "session": "119th Congress"
   },
   {
-    "id": 2102399,
-    "state": "CA",
-    "state_name": "California",
-    "bill_number": "SB934",
-    "title": "Sexual orientation or gender identity change efforts.",
-    "summary": "An act to amend Sections 865, 865.1, and 865.2 of the Business and Professions Code, and to add Section 340.51 to the Code of Civil Procedure, relating to sexual orientation or gender identity change efforts.",
-    "status": "passed_one_chamber",
-    "status_label": "Engrossed",
-    "status_code": 2,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/CA/bill/SB934/2025",
-    "legiscan_url": "https://legiscan.com/CA/bill/SB934/2025",
-    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB934",
-    "sponsors": [
-      "Scott Wiener (D) [Sen]",
-      "Alex Lee (D) [Rep]",
-      "Rebecca Bauer-Kahan (D) [Rep]",
-      "Mia Bonta (D) [Rep]",
-      "Christopher Cabaldon (D) [Sen]",
-      "Sabrina Cervantes (D) [Sen]",
-      "Maria Durazo (D) [Sen]",
-      "Sade Elhawary (D) [Rep]",
-      "Lena Gonzalez (D) [Sen]",
-      "Matt Haney (D) [Rep]",
-      "Corey Jackson (D) [Rep]",
-      "John Laird (D) [Sen]",
-      "Josh Lowenthal (D) [Rep]",
-      "Mark Gonzalez (D) [Rep]",
-      "Caroline Menjivar (D) [Sen]",
-      "Steve Padilla (D) [Sen]",
-      "Sasha Renee Perez (D) [Sen]",
-      "Lola Smallwood-Cuevas (D) [Sen]",
-      "Jose Solache (D) [Rep]",
-      "Aisha Wahab (D) [Sen]",
-      "Chris Ward (D) [Rep]",
-      "Lori Wilson (D) [Rep]",
-      "Rick Zbur (D) [Rep]"
-    ],
-    "introduced_date": "2026-05-19",
-    "session": "2025-2026 Regular Session"
-  },
-  {
     "id": 1927877,
     "state": "IL",
     "state_name": "Illinois",
@@ -6139,7 +6141,7 @@
     "last_action": "",
     "url": "https://legiscan.com/IL/bill/SR0010/2025",
     "legiscan_url": "https://legiscan.com/IL/bill/SR0010/2025",
-    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=10&GAID=18&DocTypeID=SR&SessionID=114&GA=104",
+    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=10&GAID=18&DocTypeID=SR&LegId=157201&SessionID=114",
     "sponsors": [
       "Mary Edly-Allen (D) [Sen]"
     ],
@@ -6591,7 +6593,8 @@
       "Brittany Pettersen (D) [Rep]",
       "Mike Levin (D) [Rep]",
       "Bill Foster (D) [Rep]",
-      "Julia Brownley (D) [Rep]"
+      "Julia Brownley (D) [Rep]",
+      "Joe Courtney (D) [Rep]"
     ],
     "introduced_date": "2025-09-17",
     "session": "119th Congress"
@@ -7267,7 +7270,7 @@
     "last_action": "",
     "url": "https://legiscan.com/IL/bill/SB3842/2025",
     "legiscan_url": "https://legiscan.com/IL/bill/SB3842/2025",
-    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3842&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3842&GAID=18&DocTypeID=SB&LegId=167259&SessionID=114",
     "sponsors": [
       "Andrew Chesney (R) [Sen]"
     ],
@@ -9256,6 +9259,42 @@
     "session": "2025-2026 Session"
   },
   {
+    "id": 2054444,
+    "state": "NH",
+    "state_name": "New Hampshire",
+    "bill_number": "CACR25",
+    "title": "Relative to the right to marry. Providing that the right to marry is a fundamental civil right and that the state shall protect the right of every individual, regardless of sex, gender identity, sexual orientation, or race, to marry and to have their marriage legally recognized.",
+    "summary": "Relative to the right to marry. Providing that the right to marry is a fundamental civil right and that the state shall protect the right of every individual, regardless of sex, gender identity, sexual orientation, or race, to marry and to have their marriage legally recognized.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "identity_documents",
+      "other"
+    ],
+    "primary_category": "identity_documents",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NH/bill/CACR25/2026",
+    "legiscan_url": "https://legiscan.com/NH/bill/CACR25/2026",
+    "state_url": "https://gc.nh.gov/bill_status/legacy/bs2016/bill_status.aspx?lsr=2956&sy=2026&sortoption=&txtsessionyear=2026&txtbillnumber=CACR25",
+    "sponsors": [
+      "Alice Wade (D) [Rep]",
+      "Billie Butler (D) [Rep]",
+      "Alissandra Murray (D) [Rep]",
+      "Christal Lloyd (D) [Rep]",
+      "Dylan Germana (D) [Rep]",
+      "David Watters (D) [Sen]",
+      "Donovan Fenton (D) [Sen]"
+    ],
+    "introduced_date": "2025-12-01",
+    "session": "2026 Regular Session"
+  },
+  {
     "id": 1953649,
     "state": "NY",
     "state_name": "New York",
@@ -10532,7 +10571,7 @@
     "last_action": "",
     "url": "https://legiscan.com/IL/bill/HB4482/2025",
     "legiscan_url": "https://legiscan.com/IL/bill/HB4482/2025",
-    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4482&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4482&GAID=18&DocTypeID=HB&LegId=165238&SessionID=114",
     "sponsors": [
       "William Hauter (R) [Rep]",
       "Joe Sosnowski (R) [Rep]",
@@ -10707,35 +10746,6 @@
     "session": "89th Legislature Regular Session"
   },
   {
-    "id": 2066672,
-    "state": "NE",
-    "state_name": "Nebraska",
-    "bill_number": "LB732",
-    "title": "Change provisions relating to the ability of a health care practitioner to provide cross-sex hormones and puberty blockers under the Let Them Grow Act",
-    "summary": "Change provisions relating to the ability of a health care practitioner to provide cross-sex hormones and puberty blockers under the Let Them Grow Act",
-    "status": "dead",
-    "status_label": "Failed",
-    "status_code": 6,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "restrictive",
-    "sentiment_label": "Restrictive",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NE/bill/LB732/2025",
-    "legiscan_url": "https://legiscan.com/NE/bill/LB732/2025",
-    "state_url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=63353",
-    "sponsors": [
-      "Kathleen Kauth (N) [Sen]"
-    ],
-    "introduced_date": "2026-04-17",
-    "session": "109th Legislature"
-  },
-  {
     "id": 2090842,
     "state": "KY",
     "state_name": "Kentucky",
@@ -10764,6 +10774,35 @@
     ],
     "introduced_date": "2026-01-22",
     "session": "2026 Regular Session"
+  },
+  {
+    "id": 2066672,
+    "state": "NE",
+    "state_name": "Nebraska",
+    "bill_number": "LB732",
+    "title": "Change provisions relating to the ability of a health care practitioner to provide cross-sex hormones and puberty blockers under the Let Them Grow Act",
+    "summary": "Change provisions relating to the ability of a health care practitioner to provide cross-sex hormones and puberty blockers under the Let Them Grow Act",
+    "status": "dead",
+    "status_label": "Failed",
+    "status_code": 6,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "restrictive",
+    "sentiment_label": "Restrictive",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NE/bill/LB732/2025",
+    "legiscan_url": "https://legiscan.com/NE/bill/LB732/2025",
+    "state_url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=63353",
+    "sponsors": [
+      "Kathleen Kauth (N) [Sen]"
+    ],
+    "introduced_date": "2026-04-17",
+    "session": "109th Legislature"
   },
   {
     "id": 2042411,
@@ -11010,7 +11049,7 @@
     "last_action": "",
     "url": "https://legiscan.com/IL/bill/HB2381/2025",
     "legiscan_url": "https://legiscan.com/IL/bill/HB2381/2025",
-    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2381&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=2381&GAID=18&DocTypeID=HB&LegId=160095&SessionID=114",
     "sponsors": [
       "Laura Faver Dias (D) [Rep]",
       "Marcus Evans (D) [Rep]",
@@ -11473,7 +11512,7 @@
     "last_action": "",
     "url": "https://legiscan.com/IL/bill/HB4554/2025",
     "legiscan_url": "https://legiscan.com/IL/bill/HB4554/2025",
-    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4554&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4554&GAID=18&DocTypeID=HB&LegId=165410&SessionID=114",
     "sponsors": [
       "Laura Faver Dias (D) [Rep]",
       "Lindsey LaPointe (D) [Rep]",
@@ -11504,7 +11543,7 @@
     "last_action": "",
     "url": "https://legiscan.com/IL/bill/SB3105/2025",
     "legiscan_url": "https://legiscan.com/IL/bill/SB3105/2025",
-    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3105&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3105&GAID=18&DocTypeID=SB&LegId=165713&SessionID=114",
     "sponsors": [
       "Mary Edly-Allen (D) [Sen]",
       "Rachel Ventura (D) [Sen]",
@@ -12338,7 +12377,7 @@
     "last_action": "",
     "url": "https://legiscan.com/IL/bill/HB3057/2025",
     "legiscan_url": "https://legiscan.com/IL/bill/HB3057/2025",
-    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3057&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3057&GAID=18&DocTypeID=HB&LegId=161336&SessionID=114",
     "sponsors": [
       "Sonya Harper (D) [Rep]"
     ],
@@ -12368,7 +12407,7 @@
     "last_action": "",
     "url": "https://legiscan.com/IL/bill/HB3715/2025",
     "legiscan_url": "https://legiscan.com/IL/bill/HB3715/2025",
-    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3715&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3715&GAID=18&DocTypeID=HB&LegId=162545&SessionID=114",
     "sponsors": [
       "Rita Mayfield (D) [Rep]"
     ],
@@ -13003,7 +13042,7 @@
     "last_action": "",
     "url": "https://legiscan.com/IL/bill/HB4030/2025",
     "legiscan_url": "https://legiscan.com/IL/bill/HB4030/2025",
-    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4030&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=4030&GAID=18&DocTypeID=HB&LegId=163316&SessionID=114",
     "sponsors": [
       "David Friess (R) [Rep]",
       "Blaine Wilhour (R) [Rep]",
@@ -16545,7 +16584,7 @@
     "last_action": "",
     "url": "https://legiscan.com/IL/bill/SB1226/2025",
     "legiscan_url": "https://legiscan.com/IL/bill/SB1226/2025",
-    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1226&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=1226&GAID=18&DocTypeID=SB&LegId=159040&SessionID=114",
     "sponsors": [
       "Andrew Chesney (R) [Sen]",
       "Donald DeWitte (R) [Sen]"
@@ -16576,7 +16615,7 @@
     "last_action": "",
     "url": "https://legiscan.com/IL/bill/SB3758/2025",
     "legiscan_url": "https://legiscan.com/IL/bill/SB3758/2025",
-    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3758&GAID=18&DocTypeID=SB&SessionID=114&GA=104",
+    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3758&GAID=18&DocTypeID=SB&LegId=167065&SessionID=114",
     "sponsors": [
       "Andrew Chesney (R) [Sen]"
     ],
@@ -18808,7 +18847,7 @@
     "last_action": "",
     "url": "https://legiscan.com/IL/bill/HB3666/2025",
     "legiscan_url": "https://legiscan.com/IL/bill/HB3666/2025",
-    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3666&GAID=18&DocTypeID=HB&SessionID=114&GA=104",
+    "state_url": "https://www.ilga.gov/Legislation/BillStatus?DocNum=3666&GAID=18&DocTypeID=HB&LegId=162451&SessionID=114",
     "sponsors": [
       "Tom Weber (R) [Rep]"
     ],

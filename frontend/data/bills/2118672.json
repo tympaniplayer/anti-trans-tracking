@@ -124,6 +124,21 @@
       "date": "2026-08-05",
       "action": "August 5 set for first hearing. Placed on suspense file.",
       "chamber": "A"
+    },
+    {
+      "date": "2026-08-13",
+      "action": "Assembly Rule 63 suspended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-08-13",
+      "action": "From committee: Do pass as amended. (Ayes 11. Noes 3.) (August 13).",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-08-13",
+      "action": "Read second time and amended. Ordered to second reading.",
+      "chamber": "A"
     }
   ],
   "votes": [
@@ -175,6 +190,13 @@
       "yea": 9,
       "nay": 3,
       "passed": 1
+    },
+    {
+      "date": "2026-08-13",
+      "description": "Do pass as amended",
+      "yea": 11,
+      "nay": 3,
+      "passed": 1
     }
   ],
   "texts": [
@@ -189,13 +211,14 @@
       "type": "Amended",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1114#98AMD",
       "doc_id": 3437543
+    },
+    {
+      "date": "2026-08-13",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1114#97AMD",
+      "doc_id": 3455509
     }
   ],
-  "committee": {
-    "committee_id": 449,
-    "chamber": "A",
-    "chamber_id": 19,
-    "name": "Appropriations"
-  },
+  "committee": [],
   "subjects": []
 }

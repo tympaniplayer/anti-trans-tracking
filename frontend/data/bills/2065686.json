@@ -148,6 +148,16 @@
       "date": "2026-08-03",
       "action": "In committee: Referred to APPR. suspense file.",
       "chamber": "S"
+    },
+    {
+      "date": "2026-08-13",
+      "action": "From committee: Do pass. (Ayes 5. Noes 1.) (August 13).",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-13",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -199,6 +209,13 @@
       "yea": 7,
       "nay": 0,
       "passed": 1
+    },
+    {
+      "date": "2026-08-13",
+      "description": "Do pass",
+      "yea": 5,
+      "nay": 1,
+      "passed": 1
     }
   ],
   "texts": [
@@ -227,11 +244,6 @@
       "doc_id": 3448425
     }
   ],
-  "committee": {
-    "committee_id": 475,
-    "chamber": "S",
-    "chamber_id": 20,
-    "name": "Appropriations"
-  },
+  "committee": [],
   "subjects": []
 }
