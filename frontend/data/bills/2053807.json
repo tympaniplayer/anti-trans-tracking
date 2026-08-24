@@ -27,7 +27,7 @@
     "Timothy Lang (R) [Sen]",
     "Regina Birdsell (R) [Sen]"
   ],
-  "introduced_date": "2026-06-24",
+  "introduced_date": "2026-08-19",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -104,6 +104,21 @@
       "date": "2026-06-24",
       "action": "Vetoed by Governor 06/19/2026",
       "chamber": "S"
+    },
+    {
+      "date": "2026-08-19",
+      "action": "Notwithstanding the Governor's Veto, Shall SB 552 Become Law: Regular Calendar 16Y-8N, Veto Overridden by necessary two-thirds vote; 08/19/2026; Senate Journal 15",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-19",
+      "action": "Veto Sustained 08/19/2026: Regular Calendar 161-142 Lacking Necessary Two-Thirds Vote House Journal  16",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-08-19",
+      "action": "Without Objection the Senate will take up SB 552 at the present time, 08/19/2026; Senate Journal 15",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -119,6 +134,20 @@
       "description": "OTP",
       "yea": 179,
       "nay": 159,
+      "passed": 1
+    },
+    {
+      "date": "2026-08-19",
+      "description": "Veto Override",
+      "yea": 161,
+      "nay": 142,
+      "passed": 1
+    },
+    {
+      "date": "2026-08-19",
+      "description": "VETO MESSAGE - Roll Call Required",
+      "yea": 16,
+      "nay": 8,
       "passed": 1
     }
   ],

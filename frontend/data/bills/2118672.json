@@ -4,16 +4,15 @@
   "state_name": "California",
   "bill_number": "SB1114",
   "title": "Data collection: sexual orientation, gender identity, and intersex status: disclosure.",
-  "summary": "An act to amend Sections 44230.6 and 66027 of the Education Code, to amend Section 8310.8 of, and to add Section 8310.8.5 to, the Government Code, and to amend Section 1808 of the Vehicle Code, relating to data collection.",
+  "summary": "An act to amend Sections 44230.6 and 66027 of the Education Code, and to amend Section 8310.8 of, and to add Section 8310.8.5 to, the Government Code, relating to data collection.",
   "status": "passed_one_chamber",
   "status_label": "Engrossed",
   "status_code": 2,
   "categories": [
-    "identity_documents",
     "education",
-    "other"
+    "identity_documents"
   ],
-  "primary_category": "identity_documents",
+  "primary_category": "education",
   "sentiment": "protective",
   "sentiment_label": "Protective",
   "relevant": true,
@@ -139,6 +138,26 @@
       "date": "2026-08-13",
       "action": "Read second time and amended. Ordered to second reading.",
       "chamber": "A"
+    },
+    {
+      "date": "2026-08-17",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-08-21",
+      "action": "Assembly Rule 69(b)(1) suspended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-08-21",
+      "action": "Read third time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-08-21",
+      "action": "Ordered to third reading.",
+      "chamber": "A"
     }
   ],
   "votes": [
@@ -217,6 +236,12 @@
       "type": "Amended",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1114#97AMD",
       "doc_id": 3455509
+    },
+    {
+      "date": "2026-08-21",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1114#96AMD",
+      "doc_id": 3456430
     }
   ],
   "committee": [],

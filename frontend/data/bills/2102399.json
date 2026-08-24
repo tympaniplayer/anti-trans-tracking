@@ -5,9 +5,9 @@
   "bill_number": "SB934",
   "title": "Sexual orientation or gender identity change efforts.",
   "summary": "An act to amend Sections 865, 865.1, and 865.2 of the Business and Professions Code, relating to sexual orientation or gender identity change efforts.",
-  "status": "passed_one_chamber",
-  "status_label": "Engrossed",
-  "status_code": 2,
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
   "categories": [
     "healthcare"
   ],
@@ -46,7 +46,7 @@
     "Lori Wilson (D) [Rep]",
     "Rick Zbur (D) [Rep]"
   ],
-  "introduced_date": "2026-05-19",
+  "introduced_date": "2026-08-20",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -163,6 +163,26 @@
       "date": "2026-08-13",
       "action": "Read second time and amended. Ordered to second reading.",
       "chamber": "A"
+    },
+    {
+      "date": "2026-08-17",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-08-19",
+      "action": "Read third time. Passed. Ordered to the Senate.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-08-19",
+      "action": "In Senate. Concurrence in Assembly amendments pending.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-20",
+      "action": "Assembly amendments concurred in. (Ayes 27. Noes 9.) Ordered to engrossing and enrolling.",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -206,6 +226,20 @@
       "description": "Do pass as amended",
       "yea": 11,
       "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2026-08-19",
+      "description": "SB 934 Wiener Senate Third Reading By Ward",
+      "yea": 58,
+      "nay": 18,
+      "passed": 1
+    },
+    {
+      "date": "2026-08-20",
+      "description": "Unfinished Business SB934 Wiener et al. Concurrence",
+      "yea": 27,
+      "nay": 9,
       "passed": 1
     }
   ],

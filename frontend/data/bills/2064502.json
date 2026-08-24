@@ -123,6 +123,11 @@
       "date": "2026-02-17",
       "action": "Vetoed by Governor 02/06/2026",
       "chamber": "S"
+    },
+    {
+      "date": "2026-08-19",
+      "action": "Notwithstanding the Governor's Veto, Shall SB 268 Become Law: Regular Calendar 0Y-24N, Veto Sustained, lacking the necessary two-thirds vote; 08/19/2026; Senate Journal 15",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -132,6 +137,13 @@
       "yea": 185,
       "nay": 159,
       "passed": 1
+    },
+    {
+      "date": "2026-08-19",
+      "description": "VETO MESSAGE - Roll Call Required",
+      "yea": 0,
+      "nay": 24,
+      "passed": 0
     }
   ],
   "texts": [

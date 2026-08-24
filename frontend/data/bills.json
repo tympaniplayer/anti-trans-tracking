@@ -2212,16 +2212,15 @@
     "state_name": "California",
     "bill_number": "SB1114",
     "title": "Data collection: sexual orientation, gender identity, and intersex status: disclosure.",
-    "summary": "An act to amend Sections 44230.6 and 66027 of the Education Code, to amend Section 8310.8 of, and to add Section 8310.8.5 to, the Government Code, and to amend Section 1808 of the Vehicle Code, relating to data collection.",
+    "summary": "An act to amend Sections 44230.6 and 66027 of the Education Code, and to amend Section 8310.8 of, and to add Section 8310.8.5 to, the Government Code, relating to data collection.",
     "status": "passed_one_chamber",
     "status_label": "Engrossed",
     "status_code": 2,
     "categories": [
-      "identity_documents",
       "education",
-      "other"
+      "identity_documents"
     ],
-    "primary_category": "identity_documents",
+    "primary_category": "education",
     "sentiment": "protective",
     "sentiment_label": "Protective",
     "relevant": true,
@@ -5978,9 +5977,9 @@
     "bill_number": "SB934",
     "title": "Sexual orientation or gender identity change efforts.",
     "summary": "An act to amend Sections 865, 865.1, and 865.2 of the Business and Professions Code, relating to sexual orientation or gender identity change efforts.",
-    "status": "passed_one_chamber",
-    "status_label": "Engrossed",
-    "status_code": 2,
+    "status": "passed_both_chambers",
+    "status_label": "Enrolled",
+    "status_code": 3,
     "categories": [
       "healthcare"
     ],
@@ -6019,7 +6018,7 @@
       "Lori Wilson (D) [Rep]",
       "Rick Zbur (D) [Rep]"
     ],
-    "introduced_date": "2026-05-19",
+    "introduced_date": "2026-08-20",
     "session": "2025-2026 Regular Session"
   },
   {
@@ -6355,7 +6354,8 @@
       "Delia Ramirez (D) [Rep]",
       "Sarah McBride (D) [Rep]",
       "Adelita Grijalva (D) [Rep]",
-      "Pramila Jayapal (D) [Rep]"
+      "Pramila Jayapal (D) [Rep]",
+      "Ayanna Pressley (D) [Rep]"
     ],
     "introduced_date": "2025-06-26",
     "session": "119th Congress"
@@ -10862,7 +10862,7 @@
       "Timothy Lang (R) [Sen]",
       "Regina Birdsell (R) [Sen]"
     ],
-    "introduced_date": "2026-06-24",
+    "introduced_date": "2026-08-19",
     "session": "2026 Regular Session"
   },
   {
@@ -11833,6 +11833,35 @@
     "session": "2026 Regular Session"
   },
   {
+    "id": 2134906,
+    "state": "HI",
+    "state_name": "Hawaii",
+    "bill_number": "SCR167",
+    "title": "Requesting The Legislative Reference Bureau To Conduct A Study On The Cost And Scope Of A Comprehensive, Statewide Survey Of Mh, Lgbtqia+, And Qtpi+ Communities In Hawaii.",
+    "summary": "Requesting The Legislative Reference Bureau To Conduct A Study On The Cost And Scope Of A Comprehensive, Statewide Survey Of Mh, Lgbtqia+, And Qtpi+ Communities In Hawaii.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "protective",
+    "sentiment_label": "Protective",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/HI/bill/SCR167/2026",
+    "legiscan_url": "https://legiscan.com/HI/bill/SCR167/2026",
+    "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=167&year=2026",
+    "sponsors": [
+      "Chris Lee (D) [Sen]"
+    ],
+    "introduced_date": "2026-03-16",
+    "session": "2026 Regular Session"
+  },
+  {
     "id": 1965653,
     "state": "PA",
     "state_name": "Pennsylvania",
@@ -12263,35 +12292,6 @@
     ],
     "introduced_date": "2026-04-13",
     "session": "119th Congress"
-  },
-  {
-    "id": 2134906,
-    "state": "HI",
-    "state_name": "Hawaii",
-    "bill_number": "SCR167",
-    "title": "Requesting The Legislative Reference Bureau To Conduct A Study On The Cost And Scope Of A Comprehensive, Statewide Survey Of Mh, Lgbtqia+, And Qtpi+ Communities In Hawaii.",
-    "summary": "Requesting The Legislative Reference Bureau To Conduct A Study On The Cost And Scope Of A Comprehensive, Statewide Survey Of Mh, Lgbtqia+, And Qtpi+ Communities In Hawaii.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "protective",
-    "sentiment_label": "Protective",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/HI/bill/SCR167/2026",
-    "legiscan_url": "https://legiscan.com/HI/bill/SCR167/2026",
-    "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=167&year=2026",
-    "sponsors": [
-      "Chris Lee (D) [Sen]"
-    ],
-    "introduced_date": "2026-03-16",
-    "session": "2026 Regular Session"
   },
   {
     "id": 1938349,
