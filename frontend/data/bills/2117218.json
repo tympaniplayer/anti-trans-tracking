@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "federal",
   "last_action_date": "",
   "last_action": "",
@@ -40,7 +43,8 @@
     "Andre Carson (D) [Rep]",
     "Shri Thanedar (D) [Rep]",
     "Janice Schakowsky (D) [Rep]",
-    "Ilhan Omar (D) [Rep]"
+    "Ilhan Omar (D) [Rep]",
+    "Emily Randall (D) [Rep]"
   ],
   "introduced_date": "2026-02-13",
   "session": "119th Congress",

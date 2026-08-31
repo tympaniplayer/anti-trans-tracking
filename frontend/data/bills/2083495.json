@@ -5,13 +5,16 @@
   "bill_number": "HCR2044",
   "title": "Preferential treatment; discrimination; prohibited acts",
   "summary": "Preferential treatment; discrimination; prohibited acts",
-  "status": "passed_one_chamber",
-  "status_label": "Engrossed",
-  "status_code": 2,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "healthcare"
   ],
   "primary_category": "healthcare",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -52,7 +55,7 @@
     "Frank Carroll (R) [Sen]",
     "Janae Shamp (R) [Sen]"
   ],
-  "introduced_date": "2026-02-26",
+  "introduced_date": "2026-06-12",
   "session": "Fifty-seventh Legislature - Second Regular Session (2026)",
   "actions": [
     {
@@ -134,6 +137,46 @@
       "date": "2026-03-10",
       "action": "Senate read second time",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-25",
+      "action": "Senate GOV Committee action: Do Pass, voting: (4-2-1-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-12",
+      "action": "Senate RULES Committee action: Proper For Consideration, voting: (0-0-0-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-12",
+      "action": "Senate majority caucus: Do pass",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-12",
+      "action": "Senate minority caucus: Do pass",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-12",
+      "action": "Senate Committee of the Whole action: Do Pass",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-12",
+      "action": "Senate third reading PASSED voting: (16-13-1-0)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-12",
+      "action": "Transmit to House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-12",
+      "action": "Transmitted to Secretary of State",
+      "chamber": ""
     }
   ],
   "votes": [
@@ -171,6 +214,34 @@
       "yea": 31,
       "nay": 23,
       "passed": 1
+    },
+    {
+      "date": "2026-03-25",
+      "description": "Senate Government Committee Action (DP)",
+      "yea": 4,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-06-12",
+      "description": "Senate Rules Committee Action (PFC)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-06-12",
+      "description": "Senate - Committee of the Whole (DP)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-06-12",
+      "description": "Senate - Third Reading",
+      "yea": 16,
+      "nay": 13,
+      "passed": 1
     }
   ],
   "texts": [
@@ -185,13 +256,20 @@
       "type": "Engrossed",
       "url": "https://www.azleg.gov/legtext/57leg/2r/bills/hcr2044h.htm",
       "doc_id": 3374789
+    },
+    {
+      "date": "2026-06-15",
+      "type": "Enrolled",
+      "url": "https://www.azleg.gov/legtext/57leg/2r/laws/hcr2044.htm",
+      "doc_id": 3448850
     }
   ],
-  "committee": {
-    "committee_id": 1109,
-    "chamber": "S",
-    "chamber_id": 16,
-    "name": "Government Institutions"
-  },
-  "subjects": []
+  "committee": [],
+  "subjects": [
+    "Concurrent Resolution",
+    "Discrimination",
+    "Preferential Treatment",
+    "Prohibited Acts",
+    "Prohibition"
+  ]
 }

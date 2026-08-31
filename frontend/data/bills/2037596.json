@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -19,7 +22,10 @@
   "legiscan_url": "https://legiscan.com/NY/bill/S08444/2025",
   "state_url": "https://www.nysenate.gov/legislation/bills/2025/S8444",
   "sponsors": [
-    "Luis Sepulveda (D) [Sen]"
+    "Luis Sepulveda (D) [Sen]",
+    "Cordell Cleare (D) [Sen]",
+    "Peter Harckham (D) [Sen]",
+    "Zellnor Myrie (D) [Sen]"
   ],
   "introduced_date": "2025-06-18",
   "session": "2025-2026 General Assembly",

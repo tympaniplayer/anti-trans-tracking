@@ -9,12 +9,11 @@
   "status_label": "Engrossed",
   "status_code": 2,
   "categories": [
-    "religious_exemptions",
     "definitions"
   ],
-  "primary_category": "religious_exemptions",
-  "sentiment": "restrictive",
-  "sentiment_label": "Restrictive",
+  "primary_category": "definitions",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",

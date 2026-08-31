@@ -1,0 +1,87 @@
+{
+  "id": 2152057,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S10593",
+  "title": "Authorizes the denial of access to certain public records which relate to civil investigations; relates to the enforcement powers of the attorney general; authorizes the attorney general to investigate and bring any civil action addressing repeated or persistent discrimination in elementary and secondary schools; requires the compromise of any claim which the state may have for care, maintenance or treatment furnished in hospitals or other such facilities to be made accordance with parameters established by the office of the attorney general; allows the commissioner of health to waive bills or compromise bills for the maintenance, care and treatment furnished to patients in medical facilities upon the prior approval of the comptroller alone.",
+  "summary": "Authorizes the denial of access to certain public records which relate to civil investigations; relates to the enforcement powers of the attorney general; authorizes the attorney general to investigate and bring any civil action addressing repeated or persistent discrimination in elementary and secondary schools; requires the compromise of any claim which the state may have for care, maintenance or treatment furnished in hospitals or other such facilities to be made accordance with parameters established by the office of the attorney general; allows the commissioner of health to waive bills or compromise bills for the maintenance, care and treatment furnished to patients in medical facilities upon the prior approval of the comptroller alone.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
+  "categories": [
+    "healthcare",
+    "bathrooms",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S10593/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S10593/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S10593",
+  "sponsors": [
+    "James Skoufis (D) [Sen]"
+  ],
+  "introduced_date": "2026-06-04",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-05-28",
+      "action": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-04",
+      "action": "COMMITTEE DISCHARGED AND COMMITTED TO RULES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-04",
+      "action": "ORDERED TO THIRD READING CAL.1811",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-04",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-04",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-05",
+      "action": "referred to ways and means",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-06-04",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 38,
+      "nay": 22,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-05-28",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S10593&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S10593",
+      "doc_id": 3442325
+    }
+  ],
+  "committee": {
+    "committee_id": 387,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Ways and Means"
+  },
+  "subjects": []
+}

@@ -5,13 +5,16 @@
   "bill_number": "S2773",
   "title": "Enhances protections under Law Against Discrimination for persons serving in military and military veterans.",
   "summary": "Enhances protections under Law Against Discrimination for persons serving in military and military veterans.",
-  "status": "signed_into_law",
-  "status_label": "Passed",
-  "status_code": 4,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -19,9 +22,9 @@
   "legiscan_url": "https://legiscan.com/NJ/bill/S2773/2026",
   "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S2773",
   "sponsors": [
-    "Gordon Johnson (D) [Sen]",
+    "Gordon Johnson (D) [Rep]",
     "Nilsa Cruz-Perez (D) [Sen]",
-    "Troy Singleton (D) [Sen]"
+    "Troy Singleton (D) [Rep]"
   ],
   "introduced_date": "2026-01-13",
   "session": "2026-2027 Regular Session",

@@ -12,12 +12,15 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
   "url": "https://legiscan.com/OK/bill/SB846/2026",
   "legiscan_url": "https://legiscan.com/OK/bill/SB846/2026",
-  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=sb846&Session=2600",
+  "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=sb846&Session=2600",
   "sponsors": [
     "Lisa Standridge (R) [Sen]"
   ],

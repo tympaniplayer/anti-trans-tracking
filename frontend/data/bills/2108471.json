@@ -9,14 +9,12 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "definitions",
     "healthcare",
-    "education",
-    "other"
+    "bathrooms"
   ],
-  "primary_category": "definitions",
-  "sentiment": "restrictive",
-  "sentiment_label": "Restrictive",
+  "primary_category": "healthcare",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",

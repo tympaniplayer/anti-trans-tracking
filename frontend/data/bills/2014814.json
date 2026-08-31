@@ -9,12 +9,11 @@
   "status_label": "Failed",
   "status_code": 6,
   "categories": [
-    "sports",
-    "bathrooms"
+    "sports"
   ],
   "primary_category": "sports",
-  "sentiment": "restrictive",
-  "sentiment_label": "Restrictive",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",

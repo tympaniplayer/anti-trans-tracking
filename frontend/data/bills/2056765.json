@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -28,7 +31,7 @@
   "actions": [
     {
       "date": "2025-12-04",
-      "action": "Introduced 01/07/2026 and referred to Criminal Justice and Public Safety",
+      "action": "Introduced 01/07/2026 and referred to Criminal Justice and Public Safety House Journal  1 P. 21",
       "chamber": "H"
     },
     {
@@ -53,12 +56,12 @@
     },
     {
       "date": "2026-03-11",
-      "action": "Ought to Pass: Motion Failed Regular Calendar 136-199 03/11/2026 House Journal  7",
+      "action": "Ought to Pass: Motion Failed Regular Calendar 136-199 03/11/2026 House Journal  7 P. 79",
       "chamber": "H"
     },
     {
       "date": "2026-03-11",
-      "action": "Inexpedient to Legislate: Motion Adopted DV 242-97 03/11/2026 House Journal  7",
+      "action": "Inexpedient to Legislate: Motion Adopted DV 242-97 03/11/2026 House Journal  7 P. 82",
       "chamber": "H"
     }
   ],

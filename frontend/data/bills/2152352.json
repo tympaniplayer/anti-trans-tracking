@@ -1,0 +1,59 @@
+{
+  "id": 2152352,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB9066",
+  "title": "Community-Based Approaches to Prevent and Address Hate Crimes Act of 2026",
+  "summary": "To authorize the Attorney General to establish a hate crime prevention grant, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB9066/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB9066/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/9066/all-info",
+  "sponsors": [
+    "Grace Meng (D) [Rep]"
+  ],
+  "introduced_date": "2026-05-29",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-05-29",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-29",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-06-06",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr9066/BILLS-119hr9066ih.pdf",
+      "doc_id": 3446551
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crime and law enforcement"
+  ]
+}

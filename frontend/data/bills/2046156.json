@@ -9,12 +9,11 @@
   "status_label": "Failed",
   "status_code": 6,
   "categories": [
-    "definitions",
-    "other"
+    "definitions"
   ],
   "primary_category": "definitions",
-  "sentiment": "protective",
-  "sentiment_label": "Protective",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",

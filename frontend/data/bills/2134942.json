@@ -1,0 +1,68 @@
+{
+  "id": 2134942,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S4005",
+  "title": "Includes Sikhs as protected class in bias intimidation law; appropriates $100,000.",
+  "summary": "Includes Sikhs as protected class in bias intimidation law; appropriates $100,000.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S4005/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S4005/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S4005",
+  "sponsors": [
+    "Angela Mcknight (D) [Rep]",
+    "Renee Burgess (D) [Sen]",
+    "Patrick Diegnan (D) [Rep]",
+    "John McKeon (D) [Rep]",
+    "Brian Stack (D) [Rep]",
+    "Paul Moriarty (D) [Rep]",
+    "Latham Tiver (R) [Sen]",
+    "Vincent Polistina (R) [Rep]",
+    "Joseph Lagana (D) [Rep]",
+    "Benjie Wimberly (D) [Rep]",
+    "Britnee Timberlake (D) [Rep]",
+    "Robert Smith (D) [Rep]",
+    "Nilsa Cruz-Perez (D) [Sen]",
+    "Joseph Cryan (D) [Rep]",
+    "Paul Sarlo (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-19",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-19",
+      "action": "Introduced in the Senate, Referred to Senate Judiciary Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-20",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S4500/4005_I1.HTM",
+      "doc_id": 3400553
+    }
+  ],
+  "committee": {
+    "committee_id": 880,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Judiciary"
+  ]
+}

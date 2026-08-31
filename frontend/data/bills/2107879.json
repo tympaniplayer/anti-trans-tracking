@@ -5,13 +5,16 @@
   "bill_number": "SB00090",
   "title": "An Act Revising And Consolidating The Hate Crimes Statutes.",
   "summary": "To implement the Governor's budget recommendations.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -19,9 +22,14 @@
   "legiscan_url": "https://legiscan.com/CT/bill/SB00090/2026",
   "state_url": "https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=SB00090&which_year=2026",
   "sponsors": [
-    "Geoffrey Luxenberg (D) [Rep]"
+    "Geoffrey Luxenberg (D) [Rep]",
+    "Patricia Miller (D) [Sen]",
+    "Bob Godfrey (D) [Rep]",
+    "Tom Delnicki (R) [Rep]",
+    "Paul Cicarella (R) [Sen]",
+    "Steven Stafstrom (D) [Rep]"
   ],
-  "introduced_date": "2026-02-05",
+  "introduced_date": "2026-05-26",
   "session": "2026 General Assembly",
   "actions": [
     {
@@ -33,22 +41,172 @@
       "date": "2026-02-23",
       "action": "Public Hearing 02/27",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Joint Favorable Substitute",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-24",
+      "action": "Filed with Legislative Commissioners' Office",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-02",
+      "action": "Referred to Office of Legislative Research and Office of Fiscal Analysis 04/08/26 5:00 PM",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-09",
+      "action": "Reported Out of Legislative Commissioners' Office",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-09",
+      "action": "Favorable Report, Tabled for the Calendar, Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-09",
+      "action": "Senate Calendar Number 324",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-09",
+      "action": "File Number 558",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-28",
+      "action": "Senate Adopted Senate Amendment Schedule A 4538",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-28",
+      "action": "Senate Rejected Senate Amendment Schedule B 4502",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-28",
+      "action": "Senate Passed as Amended by Senate Amendment Schedule A",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-28",
+      "action": "Rules Suspended, Transmitted to the House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-28",
+      "action": "Favorable Report, Tabled for the Calendar, House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-28",
+      "action": "House Calendar Number 515",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-05",
+      "action": "House Adopted Senate Amendment Schedule A",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-05",
+      "action": "House Passed as Amended by Senate Amendment Schedule A",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-05",
+      "action": "In Concurrence",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-19",
+      "action": "Public Act 26-77",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-22",
+      "action": "Transmitted to the Secretary of State",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-22",
+      "action": "Transmitted by Secretary of the State to Governor",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-26",
+      "action": "Signed by the Governor",
+      "chamber": "S"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-03-23",
+      "description": "JUD Vote Tally Sheet (Joint Favorable)",
+      "yea": 39,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-23",
+      "description": "JUD Vote Tally Sheet (Joint Favorable Substitute)",
+      "yea": 39,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-03-23",
+      "description": "JUD Vote Tally Sheet-A (Joint Favorable Substitute)",
+      "yea": 0,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-28",
+      "description": "Senate Roll Call Vote 163 ",
+      "yea": 36,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-28",
+      "description": "Senate Roll Call Vote 162 ",
+      "yea": 11,
+      "nay": 25,
+      "passed": 0
+    },
+    {
+      "date": "2026-05-05",
+      "description": "House Roll Call Vote 234 AS AMENDED ",
+      "yea": 139,
+      "nay": 8,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2026-02-04",
       "type": "Introduced",
       "url": "https://www.cga.ct.gov/2026/TOB/S/PDF/2026SB-00090-R00-SB.PDF",
       "doc_id": 3348813
+    },
+    {
+      "date": "2026-04-09",
+      "type": "Comm Sub",
+      "url": "https://www.cga.ct.gov/2026/TOB/S/PDF/2026SB-00090-R01-SB.PDF",
+      "doc_id": 3414848
+    },
+    {
+      "date": "2026-05-19",
+      "type": "Chaptered",
+      "url": "https://www.cga.ct.gov/2026/ACT/PA/PDF/2026PA-00077-R00SB-00090-PA.PDF",
+      "doc_id": 3439022
     }
   ],
-  "committee": {
-    "committee_id": 1354,
-    "chamber": "J",
-    "chamber_id": 108,
-    "name": "Judiciary"
-  },
+  "committee": [],
   "subjects": []
 }

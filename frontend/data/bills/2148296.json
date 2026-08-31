@@ -1,0 +1,52 @@
+{
+  "id": 2148296,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S10215",
+  "title": "Requires employers to annually report to the division of human rights the number of settlements with employees and other individuals performing services in the workplace regarding claims of discrimination on the basis of sex, including verbal and physical sexual harassment; requires the division of human rights to provide an annual report to the governor and the legislature; makes conforming technical changes.",
+  "summary": "Requires employers to annually report to the division of human rights the number of settlements with employees and other individuals performing services in the workplace regarding claims of discrimination on the basis of sex, including verbal and physical sexual harassment; requires the division of human rights to provide an annual report to the governor and the legislature; makes conforming technical changes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S10215/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S10215/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S10215",
+  "sponsors": [
+    "Andrew Gounardes (D) [Sen]"
+  ],
+  "introduced_date": "2026-05-06",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-05-06",
+      "action": "REFERRED TO INVESTIGATIONS AND GOVERNMENT OPERATIONS",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-05-06",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S10215&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S10215",
+      "doc_id": 3432300
+    }
+  ],
+  "committee": {
+    "committee_id": 433,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Investigations and Government Operations"
+  },
+  "subjects": []
+}

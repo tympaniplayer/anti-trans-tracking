@@ -5,13 +5,16 @@
   "bill_number": "HB797",
   "title": "Employment Discrimination - Fire and Rescue Public Safety Employees - Use of Medical Cannabis",
   "summary": "Prohibiting an employer from taking certain discriminatory employment actions against a fire and rescue public safety employee based on the employee's use of medical cannabis, subject to certain conditions; and requiring an employer to report an incident of a fire and rescue public safety employee reporting for work while impaired by cannabis to the State Emergency Medical Services Board.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
   "categories": [
     "healthcare"
   ],
   "primary_category": "healthcare",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -21,7 +24,7 @@
   "sponsors": [
     "Adrian Boafo (D) [Rep]"
   ],
-  "introduced_date": "2026-02-04",
+  "introduced_date": "2026-04-02",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -43,23 +46,62 @@
       "date": "2026-02-18",
       "action": "Hearing 3/11 at 1:00 p.m.",
       "chamber": "H"
+    },
+    {
+      "date": "2026-04-01",
+      "action": "Favorable Report by Economic Matters",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-01",
+      "action": "Favorable Adopted Second Reading Passed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-02",
+      "action": "Third Reading Passed (100-31)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-03",
+      "action": "Referred Rules",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-10",
+      "action": "Rereferred to Finance",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Favorable Report by Finance",
+      "chamber": "S"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-04-02",
+      "description": "Third Reading Passed",
+      "yea": 100,
+      "nay": 31,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2026-02-04",
       "type": "Introduced",
       "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0797f.pdf",
       "doc_id": 3348642
+    },
+    {
+      "date": "2026-04-01",
+      "type": "Engrossed",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0797t.pdf",
+      "doc_id": 3409828
     }
   ],
-  "committee": {
-    "committee_id": 1923,
-    "chamber": "H",
-    "chamber_id": 49,
-    "name": "Economic Matters"
-  },
+  "committee": [],
   "subjects": [
     "Human Relations",
     "Cannabis",

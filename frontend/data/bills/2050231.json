@@ -13,12 +13,15 @@
     "definitions"
   ],
   "primary_category": "identity_documents",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
   "url": "https://legiscan.com/OK/bill/HB1688/2026",
   "legiscan_url": "https://legiscan.com/OK/bill/HB1688/2026",
-  "state_url": "http://www.oklegislature.gov/BillInfo.aspx?Bill=hb1688&Session=2600",
+  "state_url": "https://www.oklegislature.gov/BillInfo.aspx?Bill=hb1688&Session=2600",
   "sponsors": [
     "Cynthia Roe (R) [Rep]",
     "Brenda Stanley (R) [Sen]"

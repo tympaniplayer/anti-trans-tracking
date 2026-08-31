@@ -1,0 +1,54 @@
+{
+  "id": 2136114,
+  "state": "NJ",
+  "state_name": "New Jersey",
+  "bill_number": "S4047",
+  "title": "Concerns housing discrimination based on source of lawful income.",
+  "summary": "Concerns housing discrimination based on source of lawful income.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NJ/bill/S4047/2026",
+  "legiscan_url": "https://legiscan.com/NJ/bill/S4047/2026",
+  "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S4047",
+  "sponsors": [
+    "Angela Mcknight (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-23",
+  "session": "2026-2027 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-23",
+      "action": "Introduced in the Senate, Referred to Senate Community and Urban Affairs Committee",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-24",
+      "type": "Introduced",
+      "url": "https://pub.njleg.gov/Bills/2026/S4500/4047_I1.HTM",
+      "doc_id": 3402840
+    }
+  ],
+  "committee": {
+    "committee_id": 875,
+    "chamber": "S",
+    "chamber_id": 70,
+    "name": "Community and Urban Affairs"
+  },
+  "subjects": [
+    "Community and Urban Affairs"
+  ]
+}

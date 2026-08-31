@@ -10,11 +10,12 @@
   "status_code": 1,
   "categories": [
     "healthcare",
-    "definitions"
+    "bathrooms",
+    "education"
   ],
   "primary_category": "healthcare",
-  "sentiment": "restrictive",
-  "sentiment_label": "Restrictive",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "federal",
   "last_action_date": "",

@@ -2,117 +2,117 @@
   "CA": {
     "state": "CA",
     "state_name": "California",
-    "total": 8,
+    "total": 29,
     "by_category": {
-      "other": 1,
-      "healthcare": 4,
-      "education": 2,
+      "other": 25,
+      "education": 1,
+      "healthcare": 2,
       "bathrooms": 1
     },
     "by_status": {
-      "signed_into_law": 2,
-      "dead": 1,
+      "signed_into_law": 12,
+      "dead": 2,
+      "passed_both_chambers": 7,
       "passed_one_chamber": 2,
       "vetoed": 1,
-      "passed_both_chambers": 1,
-      "introduced": 1
+      "introduced": 5
     },
     "by_sentiment": {
-      "protective": 6,
-      "restrictive": 2
+      "neutral": 29
     }
   },
   "DC": {
     "state": "DC",
     "state_name": "District of Columbia",
-    "total": 1,
+    "total": 2,
     "by_category": {
-      "other": 1
+      "other": 2
     },
     "by_status": {
-      "signed_into_law": 1
+      "signed_into_law": 2
     },
     "by_sentiment": {
-      "protective": 1
+      "neutral": 2
     }
   },
   "US": {
     "state": "US",
     "state_name": "Federal",
-    "total": 43,
+    "total": 67,
     "by_category": {
-      "other": 19,
-      "healthcare": 13,
-      "education": 4,
-      "sports": 2,
-      "definitions": 4,
-      "identity_documents": 1
+      "other": 44,
+      "healthcare": 10,
+      "education": 7,
+      "sports": 6
     },
     "by_status": {
-      "introduced": 43
+      "introduced": 66,
+      "passed_one_chamber": 1
     },
     "by_sentiment": {
-      "protective": 34,
-      "restrictive": 9
+      "neutral": 67
     }
   },
   "NJ": {
     "state": "NJ",
     "state_name": "New Jersey",
-    "total": 26,
+    "total": 50,
     "by_category": {
-      "other": 8,
-      "identity_documents": 7,
-      "healthcare": 5,
-      "education": 3,
+      "other": 38,
+      "bathrooms": 3,
+      "healthcare": 2,
+      "education": 4,
       "definitions": 1,
       "sports": 2
     },
     "by_status": {
-      "introduced": 25,
-      "passed_one_chamber": 1
+      "introduced": 45,
+      "passed_one_chamber": 2,
+      "dead": 3
     },
     "by_sentiment": {
-      "protective": 22,
-      "restrictive": 4
+      "neutral": 50
     }
   },
   "NY": {
     "state": "NY",
     "state_name": "New York",
-    "total": 54,
+    "total": 125,
     "by_category": {
-      "other": 12,
-      "education": 13,
-      "identity_documents": 5,
-      "healthcare": 22,
-      "bathrooms": 2
+      "other": 66,
+      "healthcare": 24,
+      "education": 16,
+      "definitions": 12,
+      "bathrooms": 3,
+      "sports": 1,
+      "religious_exemptions": 3
     },
     "by_status": {
-      "introduced": 48,
-      "signed_into_law": 2,
-      "passed_one_chamber": 4
+      "introduced": 109,
+      "signed_into_law": 6,
+      "passed_one_chamber": 9,
+      "vetoed": 1
     },
     "by_sentiment": {
-      "protective": 52,
-      "restrictive": 2
+      "neutral": 125
     }
   },
   "DE": {
     "state": "DE",
     "state_name": "Delaware",
-    "total": 3,
+    "total": 11,
     "by_category": {
-      "other": 2,
+      "other": 9,
+      "sports": 1,
       "healthcare": 1
     },
     "by_status": {
-      "passed_one_chamber": 2,
-      "introduced": 1
+      "passed_one_chamber": 5,
+      "signed_into_law": 2,
+      "introduced": 4
     },
     "by_sentiment": {
-      "protective": 2,
-      "restrictive": 1
+      "neutral": 11
     }
   },
   "ND": {
@@ -120,7 +120,7 @@
     "state_name": "North Dakota",
     "total": 2,
     "by_category": {
-      "bathrooms": 1,
+      "education": 1,
       "sports": 1
     },
     "by_status": {
@@ -128,7 +128,25 @@
       "introduced": 1
     },
     "by_sentiment": {
-      "restrictive": 2
+      "neutral": 2
+    }
+  },
+  "TN": {
+    "state": "TN",
+    "state_name": "Tennessee",
+    "total": 7,
+    "by_category": {
+      "other": 3,
+      "definitions": 3,
+      "sports": 1
+    },
+    "by_status": {
+      "introduced": 4,
+      "signed_into_law": 2,
+      "passed_one_chamber": 1
+    },
+    "by_sentiment": {
+      "neutral": 7
     }
   },
   "UT": {
@@ -143,27 +161,25 @@
       "dead": 2
     },
     "by_sentiment": {
-      "restrictive": 1,
-      "neutral": 1
+      "neutral": 2
     }
   },
   "WA": {
     "state": "WA",
     "state_name": "Washington",
-    "total": 5,
+    "total": 9,
     "by_category": {
-      "other": 2,
-      "identity_documents": 2,
-      "healthcare": 1
+      "other": 7,
+      "healthcare": 1,
+      "bathrooms": 1
     },
     "by_status": {
-      "signed_into_law": 2,
+      "signed_into_law": 3,
       "passed_one_chamber": 1,
-      "introduced": 2
+      "introduced": 5
     },
     "by_sentiment": {
-      "protective": 3,
-      "restrictive": 2
+      "neutral": 9
     }
   },
   "NE": {
@@ -171,195 +187,188 @@
     "state_name": "Nebraska",
     "total": 4,
     "by_category": {
-      "sports": 1,
-      "healthcare": 3
+      "education": 1,
+      "other": 1,
+      "healthcare": 2
     },
     "by_status": {
       "dead": 4
     },
     "by_sentiment": {
-      "neutral": 1,
-      "protective": 1,
-      "restrictive": 2
+      "neutral": 4
     }
   },
   "MA": {
     "state": "MA",
     "state_name": "Massachusetts",
-    "total": 19,
+    "total": 31,
     "by_category": {
-      "other": 8,
-      "identity_documents": 1,
-      "healthcare": 6,
-      "education": 4
+      "other": 23,
+      "healthcare": 2,
+      "education": 4,
+      "definitions": 2
     },
     "by_status": {
-      "introduced": 18,
+      "introduced": 30,
       "passed_one_chamber": 1
     },
     "by_sentiment": {
-      "protective": 19
+      "neutral": 31
     }
   },
   "WI": {
     "state": "WI",
     "state_name": "Wisconsin",
-    "total": 25,
+    "total": 28,
     "by_category": {
-      "other": 6,
-      "education": 7,
-      "healthcare": 6,
-      "identity_documents": 4,
-      "definitions": 2
+      "other": 14,
+      "education": 6,
+      "definitions": 2,
+      "healthcare": 4,
+      "identity_documents": 2
     },
     "by_status": {
-      "dead": 22,
+      "dead": 25,
       "vetoed": 3
     },
     "by_sentiment": {
-      "protective": 17,
-      "restrictive": 8
+      "neutral": 28
     }
   },
   "HI": {
     "state": "HI",
     "state_name": "Hawaii",
-    "total": 18,
+    "total": 23,
     "by_category": {
-      "identity_documents": 6,
-      "other": 5,
-      "definitions": 3,
+      "other": 17,
       "education": 3,
+      "healthcare": 2,
       "sports": 1
     },
     "by_status": {
       "signed_into_law": 3,
-      "introduced": 13,
-      "passed_one_chamber": 2
+      "introduced": 17,
+      "passed_one_chamber": 3
     },
     "by_sentiment": {
-      "protective": 17,
-      "restrictive": 1
+      "neutral": 23
     }
   },
   "TX": {
     "state": "TX",
     "state_name": "Texas",
-    "total": 60,
+    "total": 62,
     "by_category": {
-      "other": 7,
-      "identity_documents": 11,
-      "definitions": 7,
-      "education": 14,
-      "healthcare": 13,
+      "other": 21,
+      "identity_documents": 5,
+      "education": 17,
+      "definitions": 4,
+      "healthcare": 7,
       "bathrooms": 5,
       "sports": 3
     },
     "by_status": {
-      "introduced": 55,
+      "introduced": 57,
       "signed_into_law": 2,
       "passed_one_chamber": 3
     },
     "by_sentiment": {
-      "protective": 19,
-      "restrictive": 41
+      "neutral": 62
     }
   },
   "PA": {
     "state": "PA",
     "state_name": "Pennsylvania",
-    "total": 12,
+    "total": 16,
     "by_category": {
-      "other": 4,
-      "identity_documents": 2,
+      "other": 8,
+      "religious_exemptions": 3,
       "definitions": 3,
-      "education": 2,
+      "education": 1,
       "healthcare": 1
     },
     "by_status": {
-      "introduced": 10,
+      "introduced": 14,
       "signed_into_law": 1,
       "passed_one_chamber": 1
     },
     "by_sentiment": {
-      "protective": 10,
-      "restrictive": 2
+      "neutral": 16
     }
   },
   "VT": {
     "state": "VT",
     "state_name": "Vermont",
-    "total": 4,
+    "total": 7,
     "by_category": {
-      "other": 2,
-      "identity_documents": 2
+      "definitions": 1,
+      "other": 6
     },
     "by_status": {
       "signed_into_law": 1,
-      "introduced": 3
+      "introduced": 6
     },
     "by_sentiment": {
-      "protective": 4
+      "neutral": 7
     }
   },
   "MI": {
     "state": "MI",
     "state_name": "Michigan",
-    "total": 21,
+    "total": 28,
     "by_category": {
-      "other": 4,
-      "definitions": 2,
-      "healthcare": 9,
+      "other": 15,
+      "education": 2,
       "sports": 3,
-      "bathrooms": 2,
-      "identity_documents": 1
+      "healthcare": 5,
+      "bathrooms": 3
     },
     "by_status": {
       "signed_into_law": 2,
-      "introduced": 14,
+      "introduced": 21,
       "passed_one_chamber": 5
     },
     "by_sentiment": {
-      "protective": 4,
-      "restrictive": 17
+      "neutral": 28
     }
   },
   "MD": {
     "state": "MD",
     "state_name": "Maryland",
-    "total": 9,
+    "total": 16,
     "by_category": {
-      "education": 1,
-      "healthcare": 4,
+      "education": 4,
+      "other": 3,
+      "healthcare": 6,
       "definitions": 1,
-      "other": 1,
       "sports": 2
     },
     "by_status": {
-      "introduced": 9
+      "introduced": 12,
+      "signed_into_law": 2,
+      "passed_one_chamber": 2
     },
     "by_sentiment": {
-      "protective": 6,
-      "restrictive": 3
+      "neutral": 16
     }
   },
   "OK": {
     "state": "OK",
     "state_name": "Oklahoma",
-    "total": 12,
+    "total": 14,
     "by_category": {
       "healthcare": 6,
       "identity_documents": 2,
-      "definitions": 1,
-      "education": 3
+      "other": 1,
+      "education": 5
     },
     "by_status": {
-      "introduced": 8,
-      "signed_into_law": 3,
+      "introduced": 9,
+      "signed_into_law": 4,
       "passed_one_chamber": 1
     },
     "by_sentiment": {
-      "restrictive": 12
+      "neutral": 14
     }
   },
   "FL": {
@@ -367,16 +376,15 @@
     "state_name": "Florida",
     "total": 4,
     "by_category": {
-      "definitions": 3,
-      "identity_documents": 1
+      "other": 2,
+      "education": 2
     },
     "by_status": {
       "dead": 3,
       "introduced": 1
     },
     "by_sentiment": {
-      "protective": 2,
-      "restrictive": 2
+      "neutral": 4
     }
   },
   "NM": {
@@ -384,17 +392,14 @@
     "state_name": "New Mexico",
     "total": 4,
     "by_category": {
-      "healthcare": 1,
-      "education": 1,
-      "other": 1,
+      "other": 3,
       "sports": 1
     },
     "by_status": {
       "introduced": 4
     },
     "by_sentiment": {
-      "protective": 3,
-      "restrictive": 1
+      "neutral": 4
     }
   },
   "AL": {
@@ -409,133 +414,135 @@
       "introduced": 3
     },
     "by_sentiment": {
-      "restrictive": 3
+      "neutral": 3
     }
   },
   "MN": {
     "state": "MN",
     "state_name": "Minnesota",
-    "total": 21,
+    "total": 29,
     "by_category": {
-      "education": 5,
-      "other": 1,
-      "healthcare": 6,
-      "definitions": 5,
-      "identity_documents": 2,
-      "sports": 2
+      "other": 12,
+      "identity_documents": 3,
+      "education": 9,
+      "definitions": 2,
+      "sports": 2,
+      "healthcare": 1
     },
     "by_status": {
-      "introduced": 21
+      "introduced": 28,
+      "signed_into_law": 1
     },
     "by_sentiment": {
-      "protective": 9,
-      "restrictive": 12
+      "neutral": 29
     }
   },
   "ME": {
     "state": "ME",
     "state_name": "Maine",
-    "total": 4,
+    "total": 7,
     "by_category": {
+      "other": 5,
       "education": 1,
-      "identity_documents": 1,
-      "bathrooms": 1,
       "sports": 1
     },
     "by_status": {
-      "dead": 4
+      "dead": 7
     },
     "by_sentiment": {
-      "protective": 1,
-      "restrictive": 3
+      "neutral": 7
     }
   },
   "IL": {
     "state": "IL",
     "state_name": "Illinois",
-    "total": 13,
+    "total": 16,
     "by_category": {
-      "healthcare": 7,
-      "definitions": 3,
-      "education": 1,
-      "bathrooms": 2
-    },
-    "by_status": {
-      "introduced": 13
-    },
-    "by_sentiment": {
-      "protective": 7,
-      "restrictive": 6
-    }
-  },
-  "TN": {
-    "state": "TN",
-    "state_name": "Tennessee",
-    "total": 6,
-    "by_category": {
-      "definitions": 4,
       "sports": 1,
-      "education": 1
+      "other": 3,
+      "healthcare": 4,
+      "definitions": 2,
+      "education": 4,
+      "religious_exemptions": 2
     },
     "by_status": {
-      "introduced": 3,
-      "signed_into_law": 2,
+      "introduced": 14,
+      "signed_into_law": 1,
       "passed_one_chamber": 1
     },
     "by_sentiment": {
-      "restrictive": 6
+      "neutral": 16
     }
   },
   "KS": {
     "state": "KS",
     "state_name": "Kansas",
-    "total": 9,
+    "total": 11,
     "by_category": {
-      "religious_exemptions": 2,
-      "definitions": 2,
       "healthcare": 3,
-      "bathrooms": 1,
-      "education": 1
+      "other": 3,
+      "religious_exemptions": 1,
+      "education": 2,
+      "identity_documents": 2
     },
     "by_status": {
-      "introduced": 5,
+      "introduced": 7,
       "signed_into_law": 3,
       "passed_one_chamber": 1
     },
     "by_sentiment": {
-      "restrictive": 7,
-      "protective": 2
+      "neutral": 11
     }
   },
   "RI": {
     "state": "RI",
     "state_name": "Rhode Island",
-    "total": 3,
+    "total": 7,
     "by_category": {
       "sports": 2,
+      "other": 4,
       "healthcare": 1
     },
     "by_status": {
-      "introduced": 3
+      "introduced": 7
     },
     "by_sentiment": {
-      "restrictive": 3
+      "neutral": 7
     }
   },
   "VA": {
     "state": "VA",
     "state_name": "Virginia",
-    "total": 5,
+    "total": 9,
     "by_category": {
-      "sports": 3,
-      "bathrooms": 1,
-      "healthcare": 1
+      "sports": 4,
+      "definitions": 1,
+      "other": 1,
+      "education": 3
     },
     "by_status": {
-      "introduced": 5
+      "introduced": 7,
+      "signed_into_law": 2
     },
     "by_sentiment": {
-      "restrictive": 5
+      "neutral": 9
+    }
+  },
+  "MS": {
+    "state": "MS",
+    "state_name": "Mississippi",
+    "total": 6,
+    "by_category": {
+      "other": 2,
+      "education": 2,
+      "definitions": 1,
+      "identity_documents": 1
+    },
+    "by_status": {
+      "dead": 6
+    },
+    "by_sentiment": {
+      "neutral": 6
     }
   },
   "IA": {
@@ -543,17 +550,14 @@
     "state_name": "Iowa",
     "total": 6,
     "by_category": {
-      "education": 2,
-      "definitions": 3,
-      "healthcare": 1
+      "education": 6
     },
     "by_status": {
       "introduced": 5,
       "signed_into_law": 1
     },
     "by_sentiment": {
-      "restrictive": 5,
-      "protective": 1
+      "neutral": 6
     }
   },
   "CO": {
@@ -561,38 +565,36 @@
     "state_name": "Colorado",
     "total": 2,
     "by_category": {
-      "healthcare": 2
+      "other": 1,
+      "healthcare": 1
     },
     "by_status": {
       "signed_into_law": 1,
       "dead": 1
     },
     "by_sentiment": {
-      "protective": 1,
-      "restrictive": 1
+      "neutral": 2
     }
   },
   "NH": {
     "state": "NH",
     "state_name": "New Hampshire",
-    "total": 11,
+    "total": 14,
     "by_category": {
+      "other": 5,
       "definitions": 6,
-      "identity_documents": 1,
       "bathrooms": 1,
-      "religious_exemptions": 1,
-      "healthcare": 1,
+      "education": 1,
       "sports": 1
     },
     "by_status": {
-      "introduced": 2,
+      "introduced": 3,
       "vetoed": 3,
-      "passed_one_chamber": 5,
-      "signed_into_law": 1
+      "passed_one_chamber": 6,
+      "signed_into_law": 2
     },
     "by_sentiment": {
-      "restrictive": 10,
-      "protective": 1
+      "neutral": 14
     }
   },
   "LA": {
@@ -600,8 +602,7 @@
     "state_name": "Louisiana",
     "total": 3,
     "by_category": {
-      "other": 1,
-      "definitions": 1,
+      "other": 2,
       "healthcare": 1
     },
     "by_status": {
@@ -609,49 +610,45 @@
       "signed_into_law": 1
     },
     "by_sentiment": {
-      "protective": 1,
-      "restrictive": 1,
-      "neutral": 1
+      "neutral": 3
     }
   },
   "GA": {
     "state": "GA",
     "state_name": "Georgia",
-    "total": 2,
+    "total": 3,
     "by_category": {
-      "definitions": 1,
-      "healthcare": 1
+      "other": 1,
+      "religious_exemptions": 1,
+      "education": 1
     },
     "by_status": {
-      "introduced": 1,
+      "introduced": 2,
       "passed_one_chamber": 1
     },
     "by_sentiment": {
-      "protective": 1,
-      "restrictive": 1
+      "neutral": 3
     }
   },
   "AZ": {
     "state": "AZ",
     "state_name": "Arizona",
-    "total": 15,
+    "total": 16,
     "by_category": {
-      "definitions": 4,
-      "healthcare": 5,
-      "bathrooms": 1,
+      "other": 5,
+      "healthcare": 3,
+      "education": 4,
       "sports": 3,
-      "drag": 1,
       "identity_documents": 1
     },
     "by_status": {
       "introduced": 7,
+      "signed_into_law": 2,
       "passed_one_chamber": 4,
-      "vetoed": 3,
-      "signed_into_law": 1
+      "vetoed": 3
     },
     "by_sentiment": {
-      "protective": 7,
-      "restrictive": 8
+      "neutral": 16
     }
   },
   "MO": {
@@ -659,9 +656,9 @@
     "state_name": "Missouri",
     "total": 19,
     "by_category": {
-      "other": 2,
-      "healthcare": 12,
-      "education": 2,
+      "other": 5,
+      "education": 5,
+      "healthcare": 6,
       "bathrooms": 2,
       "identity_documents": 1
     },
@@ -670,9 +667,7 @@
       "passed_one_chamber": 1
     },
     "by_sentiment": {
-      "protective": 8,
-      "restrictive": 10,
-      "neutral": 1
+      "neutral": 19
     }
   },
   "KY": {
@@ -680,16 +675,16 @@
     "state_name": "Kentucky",
     "total": 7,
     "by_category": {
-      "other": 2,
-      "definitions": 4,
+      "definitions": 3,
+      "other": 1,
+      "education": 2,
       "healthcare": 1
     },
     "by_status": {
       "introduced": 7
     },
     "by_sentiment": {
-      "protective": 4,
-      "restrictive": 3
+      "neutral": 7
     }
   },
   "WV": {
@@ -697,39 +692,83 @@
     "state_name": "West Virginia",
     "total": 9,
     "by_category": {
-      "definitions": 4,
-      "drag": 1,
-      "healthcare": 4
+      "definitions": 2,
+      "other": 1,
+      "healthcare": 5,
+      "education": 1
     },
     "by_status": {
       "introduced": 9
     },
     "by_sentiment": {
-      "protective": 3,
-      "restrictive": 6
+      "neutral": 9
     }
   },
   "SC": {
     "state": "SC",
     "state_name": "South Carolina",
-    "total": 8,
+    "total": 9,
     "by_category": {
-      "definitions": 2,
-      "healthcare": 1,
-      "identity_documents": 3,
-      "sports": 2
+      "definitions": 3,
+      "education": 1,
+      "other": 1,
+      "sports": 3,
+      "identity_documents": 1
     },
     "by_status": {
-      "introduced": 8
+      "introduced": 9
     },
     "by_sentiment": {
-      "protective": 1,
-      "restrictive": 7
+      "neutral": 9
+    }
+  },
+  "CT": {
+    "state": "CT",
+    "state_name": "Connecticut",
+    "total": 1,
+    "by_category": {
+      "other": 1
+    },
+    "by_status": {
+      "signed_into_law": 1
+    },
+    "by_sentiment": {
+      "neutral": 1
     }
   },
   "NC": {
     "state": "NC",
     "state_name": "North Carolina",
+    "total": 2,
+    "by_category": {
+      "other": 2
+    },
+    "by_status": {
+      "introduced": 2
+    },
+    "by_sentiment": {
+      "neutral": 2
+    }
+  },
+  "ID": {
+    "state": "ID",
+    "state_name": "Idaho",
+    "total": 3,
+    "by_category": {
+      "other": 1,
+      "bathrooms": 2
+    },
+    "by_status": {
+      "introduced": 2,
+      "signed_into_law": 1
+    },
+    "by_sentiment": {
+      "neutral": 3
+    }
+  },
+  "AK": {
+    "state": "AK",
+    "state_name": "Alaska",
     "total": 1,
     "by_category": {
       "other": 1
@@ -738,71 +777,24 @@
       "introduced": 1
     },
     "by_sentiment": {
-      "protective": 1
-    }
-  },
-  "ID": {
-    "state": "ID",
-    "state_name": "Idaho",
-    "total": 3,
-    "by_category": {
-      "definitions": 1,
-      "bathrooms": 2
-    },
-    "by_status": {
-      "introduced": 2,
-      "signed_into_law": 1
-    },
-    "by_sentiment": {
-      "protective": 1,
-      "restrictive": 2
-    }
-  },
-  "AK": {
-    "state": "AK",
-    "state_name": "Alaska",
-    "total": 1,
-    "by_category": {
-      "definitions": 1
-    },
-    "by_status": {
-      "introduced": 1
-    },
-    "by_sentiment": {
-      "protective": 1
-    }
-  },
-  "MS": {
-    "state": "MS",
-    "state_name": "Mississippi",
-    "total": 3,
-    "by_category": {
-      "definitions": 1,
-      "identity_documents": 2
-    },
-    "by_status": {
-      "dead": 3
-    },
-    "by_sentiment": {
-      "protective": 1,
-      "restrictive": 2
+      "neutral": 1
     }
   },
   "OH": {
     "state": "OH",
     "state_name": "Ohio",
-    "total": 5,
+    "total": 7,
     "by_category": {
       "healthcare": 3,
-      "definitions": 1,
-      "identity_documents": 1
+      "religious_exemptions": 1,
+      "other": 2,
+      "definitions": 1
     },
     "by_status": {
-      "introduced": 5
+      "introduced": 7
     },
     "by_sentiment": {
-      "protective": 3,
-      "restrictive": 2
+      "neutral": 7
     }
   },
   "IN": {
@@ -816,7 +808,21 @@
       "introduced": 1
     },
     "by_sentiment": {
-      "restrictive": 1
+      "neutral": 1
+    }
+  },
+  "SD": {
+    "state": "SD",
+    "state_name": "South Dakota",
+    "total": 1,
+    "by_category": {
+      "bathrooms": 1
+    },
+    "by_status": {
+      "signed_into_law": 1
+    },
+    "by_sentiment": {
+      "neutral": 1
     }
   }
 }

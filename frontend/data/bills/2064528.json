@@ -9,11 +9,13 @@
   "status_label": "Engrossed",
   "status_code": 2,
   "categories": [
-    "sports"
+    "sports",
+    "education",
+    "definitions"
   ],
   "primary_category": "sports",
-  "sentiment": "restrictive",
-  "sentiment_label": "Restrictive",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",

@@ -9,12 +9,12 @@
   "status_label": "Passed",
   "status_code": 4,
   "categories": [
-    "healthcare",
+    "education",
     "definitions"
   ],
-  "primary_category": "healthcare",
-  "sentiment": "restrictive",
-  "sentiment_label": "Restrictive",
+  "primary_category": "education",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",
@@ -150,7 +150,7 @@
     },
     {
       "date": "2026-06-04",
-      "action": "Conference Committee Report 2026-2073c: Adopted, Regular Calendar 183-158 06/04/2026 House Journal  15",
+      "action": "Conference Committee Report 2026-2073c: Adopted, Regular Calendar 183-158 06/04/2026 House Journal  15 P. 33",
       "chamber": "H"
     },
     {

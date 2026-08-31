@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -19,10 +22,10 @@
   "legiscan_url": "https://legiscan.com/NJ/bill/S1631/2026",
   "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S1631",
   "sponsors": [
-    "Andrew Zwicker (D) [Sen]",
-    "Angela Mcknight (D) [Sen]",
-    "Teresa Ruiz (D) [Sen]",
-    "Britnee Timberlake (D) [Sen]"
+    "Andrew Zwicker (D) [Rep]",
+    "Angela Mcknight (D) [Rep]",
+    "Teresa Ruiz (D) [Rep]",
+    "Britnee Timberlake (D) [Rep]"
   ],
   "introduced_date": "2026-02-24",
   "session": "2026-2027 Regular Session",

@@ -3,7 +3,7 @@
   "state": "US",
   "state_name": "Federal",
   "bill_number": "SB2296",
-  "title": "GAIN AI Act of 2025 Coast Guard Authorization Act of 2025 Intelligence Authorization Act for Fiscal Year 2026 Military Construction Authorization Act for Fiscal Year 2026 COUNTER Act of 2025 Combating PRC Overseas and Unlawful Networked Threats through Enhanced Resilience Act of 2025 Holding Foreign Insiders Accountable Act PAID OFF Act of 2025 Preventing Adversary Influence, Disinformation, and Obscured Foreign Financing Act of 2025 International Nuclear Energy Act of 2025 Atomic Energy Testing Liability Act Abducted Ukrainian Children Recovery and Accountability Act Retired Law Enforcement Officers Continuing Service Act MAPS Act Mapping America's Pharmaceutical Supply Act Preventing Child Trafficking Act of 2025 Taiwan Non-Discrimination Act of 2025 AUKUS Improvement Act of 2025 Guaranteeing Access and Innovation for National Artificial Intelligence Act of 2025 DETERRENCE Act DISRUPT Act Defending International Security by Restricting Unacceptable Partnerships and Tactics Act DFC Modernization and Reauthorization Act of 2025 Western Balkans Democracy and Prosperity Act Fighting Foreign Illegal Seafood Harvests Act of 2025 CDFI Bond Guarantee Program Improvement Act of 2025 FIGHT China Act of 2025 Foreign Investment Guardrails to Help Thwart China Act of 2025 Department of State Authorization Act for Fiscal Year 2026 ROAD to Housing Act of 2025 Renewing Opportunity in the American Dream to Housing Act of 2025",
+  "title": "National Defense Authorization Act for Fiscal Year 2026 COUNTER Act of 2025 Combating PRC Overseas and Unlawful Networked Threats through Enhanced Resilience Act of 2025 Holding Foreign Insiders Accountable Act PAID OFF Act of 2025 Preventing Adversary Influence, Disinformation, and Obscured Foreign Financing Act of 2025 International Nuclear Energy Act of 2025 Atomic Energy Testing Liability Act Abducted Ukrainian Children Recovery and Accountability Act Retired Law Enforcement Officers Continuing Service Act MAPS Act Mapping America's Pharmaceutical Supply Act Preventing Child Trafficking Act of 2025 Taiwan Non-Discrimination Act of 2025 AUKUS Improvement Act of 2025 GAIN AI Act of 2025 Guaranteeing Access and Innovation for National Artificial Intelligence Act of 2025 DISRUPT Act Defending International Security by Restricting Unacceptable Partnerships and Tactics Act DFC Modernization and Reauthorization Act of 2025 Western Balkans Democracy and Prosperity Act Fighting Foreign Illegal Seafood Harvests Act of 2025 CDFI Bond Guarantee Program Improvement Act of 2025 FIGHT China Act of 2025 Foreign Investment Guardrails to Help Thwart China Act of 2025 Department of State Authorization Act for Fiscal Year 2026 ROAD to Housing Act of 2025 Renewing Opportunity in the American Dream to Housing Act of 2025 Coast Guard Authorization Act of 2025 Intelligence Authorization Act for Fiscal Year 2026 Military Construction Authorization Act for Fiscal Year 2026 DETERRENCE Act",
   "summary": "An original bill to authorize appropriations for fiscal year 2026 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes.",
   "status": "passed_one_chamber",
   "status_label": "Engrossed",
@@ -12,6 +12,9 @@
     "education"
   ],
   "primary_category": "education",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "federal",
   "last_action_date": "",
   "last_action": "",
@@ -24,6 +27,26 @@
   "introduced_date": "2025-11-12",
   "session": "119th Congress",
   "actions": [
+    {
+      "date": "2025-03-05",
+      "action": "Committee on Armed Services Subcommittee on Readiness and Management Support. Hearings held. With printed Hearing: S.Hrg. 119-75, pt. 3.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-08",
+      "action": "Committee on Armed Services Subcommittee on Emerging Threats and Capabilities. Hearings held. With printed Hearing: S.Hrg. 119-75, pt. 5.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Committee on Armed Services Subcommittee on Cybersecurity. Hearings held. With printed Hearing: S.Hrg. 119-75, pt. 8.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-04-09",
+      "action": "Committee on Armed Services Subcommittee on Personnel. Hearings held. With printed Hearing: S.Hrg. 119-75, pt. 6.",
+      "chamber": "S"
+    },
     {
       "date": "2025-07-15",
       "action": "Committee on Armed Services. Original measure reported to Senate by Senator Wicker. With written report No. 119-39.",
@@ -76,7 +99,7 @@
     },
     {
       "date": "2025-09-04",
-      "action": "S.Amdt.3748 Amendment SA 3748 proposed by Senator Wicker. (consideration: CR S6054-6312)",
+      "action": "S.Amdt.3748 Amendment SA 3748 proposed by Senator Wicker. (consideration: CR S6054-6312) In the nature of a substitute.",
       "chamber": "S"
     },
     {
@@ -96,27 +119,17 @@
     },
     {
       "date": "2025-09-10",
-      "action": "S.Amdt.3849 Cloture motion on SA 3849 rendered moot in Senate.",
-      "chamber": "S"
-    },
-    {
-      "date": "2025-09-10",
-      "action": "S.Amdt.3854 Amendment SA 3854 proposed by Senator Schatz to Amendment SA 3849. (consideration: CR S6519)",
-      "chamber": "S"
-    },
-    {
-      "date": "2025-09-10",
       "action": "S.Amdt.3854 SA 3854 fell when SA 3849 tabled.",
       "chamber": "S"
     },
     {
       "date": "2025-09-10",
-      "action": "S.Amdt.3863 Amendment SA 3863 proposed by Senator Thune to Amendment SA 3427. (consideration: CR S6512)",
+      "action": "S.Amdt.3854 Amendment SA 3854 proposed by Senator Schatz to Amendment SA 3849. (consideration: CR S6519) To add an effective date.",
       "chamber": "S"
     },
     {
       "date": "2025-09-10",
-      "action": "S.Amdt.3849 Amendment SA 3849 proposed by Senator Schumer to language proposed to be stricken by amendment no. 3748. (consideration: CR S6512)",
+      "action": "S.Amdt.3849 Cloture motion on SA 3849 rendered moot in Senate.",
       "chamber": "S"
     },
     {
@@ -126,7 +139,12 @@
     },
     {
       "date": "2025-09-10",
-      "action": "S.Amdt.3427 Considered by Senate. (consideration: CR S6512)",
+      "action": "S.Amdt.3748 Considered by Senate. (consideration: CR S6512)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-10",
+      "action": "S.Amdt.3849 Amendment SA 3849 proposed by Senator Schumer to language proposed to be stricken by amendment no. 3748. (consideration: CR S6512) To direct the Attorney General to make publicly available documents related to Jeffrey Epstein.",
       "chamber": "S"
     },
     {
@@ -136,32 +154,37 @@
     },
     {
       "date": "2025-09-10",
-      "action": "S.Amdt.3748 Considered by Senate. (consideration: CR S6512)",
+      "action": "S.Amdt.3863 Amendment SA 3863 proposed by Senator Thune to Amendment SA 3427. (consideration: CR S6512) To improve the bill.",
       "chamber": "S"
     },
     {
       "date": "2025-09-10",
-      "action": "S.Amdt.3864 Amendment SA 3864 proposed by Senator Thune to language proposed to be stricken by amendment no. 3748. (consideration: CR S6512)",
+      "action": "S.Amdt.3427 Considered by Senate. (consideration: CR S6512)",
       "chamber": "S"
     },
     {
       "date": "2025-09-10",
-      "action": "S.Amdt.3867 Amendment SA 3867 proposed by Senator Thune to Amendment SA 3866 (the instructions of the motion to recommit). (consideration: CR S6512)",
+      "action": "S.Amdt.3864 Amendment SA 3864 proposed by Senator Thune to language proposed to be stricken by amendment no. 3748. (consideration: CR S6512) To improve the bill.",
       "chamber": "S"
     },
     {
       "date": "2025-09-10",
-      "action": "S.Amdt.3868 Amendment SA 3868 proposed by Senator Thune to Amendment SA 3867. (consideration: CR S6512)",
+      "action": "S.Amdt.3867 Amendment SA 3867 proposed by Senator Thune to Amendment SA 3866 (the instructions of the motion to recommit). (consideration: CR S6512) To improve the bill.",
       "chamber": "S"
     },
     {
       "date": "2025-09-10",
-      "action": "S.Amdt.3865 Amendment SA 3865 proposed by Senator Thune to Amendment SA 3864. (consideration: CR S6512)",
+      "action": "S.Amdt.3868 Amendment SA 3868 proposed by Senator Thune to Amendment SA 3867. (consideration: CR S6512) To improve the bill.",
       "chamber": "S"
     },
     {
       "date": "2025-09-10",
-      "action": "S.Amdt.3866 Amendment SA 3866 proposed by Senator Thune. (consideration: CR S6512)",
+      "action": "S.Amdt.3865 Amendment SA 3865 proposed by Senator Thune to Amendment SA 3864. (consideration: CR S6512) To improve the bill.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-10",
+      "action": "S.Amdt.3866 Amendment SA 3866 proposed by Senator Thune. (consideration: CR S6512) To improve the bill.",
       "chamber": "S"
     },
     {
@@ -171,17 +194,17 @@
     },
     {
       "date": "2025-09-11",
-      "action": "S.Amdt.3866 Considered by Senate. (consideration: CR S6561)",
-      "chamber": "S"
-    },
-    {
-      "date": "2025-09-11",
-      "action": "S.Amdt.3868 Considered by Senate. (consideration: CR S6561)",
+      "action": "S.Amdt.3865 Considered by Senate. (consideration: CR S6561)",
       "chamber": "S"
     },
     {
       "date": "2025-09-11",
       "action": "S.Amdt.3867 Considered by Senate. (consideration: CR S6561)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-11",
+      "action": "S.Amdt.3866 Considered by Senate. (consideration: CR S6561)",
       "chamber": "S"
     },
     {
@@ -196,17 +219,17 @@
     },
     {
       "date": "2025-09-11",
+      "action": "S.Amdt.3868 Considered by Senate. (consideration: CR S6561)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-11",
       "action": "S.Amdt.3427 Considered by Senate. (consideration: CR S6561)",
       "chamber": "S"
     },
     {
       "date": "2025-09-11",
       "action": "S.Amdt.3864 Considered by Senate. (consideration: CR S6561)",
-      "chamber": "S"
-    },
-    {
-      "date": "2025-09-11",
-      "action": "S.Amdt.3865 Considered by Senate. (consideration: CR S6561)",
       "chamber": "S"
     },
     {
@@ -231,7 +254,7 @@
     },
     {
       "date": "2025-09-16",
-      "action": "S.Amdt.3867 Considered by Senate. (consideration: CR S6625)",
+      "action": "S.Amdt.3865 Considered by Senate. (consideration: CR S6625)",
       "chamber": "S"
     },
     {
@@ -241,12 +264,7 @@
     },
     {
       "date": "2025-09-16",
-      "action": "S.Amdt.3866 Considered by Senate. (consideration: CR S6625)",
-      "chamber": "S"
-    },
-    {
-      "date": "2025-09-16",
-      "action": "S.Amdt.3865 Considered by Senate. (consideration: CR S6625)",
+      "action": "S.Amdt.3867 Considered by Senate. (consideration: CR S6625)",
       "chamber": "S"
     },
     {
@@ -256,12 +274,12 @@
     },
     {
       "date": "2025-09-16",
-      "action": "Considered by Senate. (consideration: CR S6625)",
+      "action": "S.Amdt.3866 Considered by Senate. (consideration: CR S6625)",
       "chamber": "S"
     },
     {
-      "date": "2025-09-17",
-      "action": "S.Amdt.3866 Considered by Senate. (consideration: CR S6667)",
+      "date": "2025-09-16",
+      "action": "Considered by Senate. (consideration: CR S6625)",
       "chamber": "S"
     },
     {
@@ -271,12 +289,12 @@
     },
     {
       "date": "2025-09-17",
-      "action": "S.Amdt.3748 Considered by Senate. (consideration: CR S6667)",
+      "action": "S.Amdt.3863 Considered by Senate. (consideration: CR S6667)",
       "chamber": "S"
     },
     {
       "date": "2025-09-17",
-      "action": "S.Amdt.3867 Considered by Senate. (consideration: CR S6667)",
+      "action": "S.Amdt.3866 Considered by Senate. (consideration: CR S6667)",
       "chamber": "S"
     },
     {
@@ -286,22 +304,42 @@
     },
     {
       "date": "2025-09-17",
-      "action": "S.Amdt.3868 Considered by Senate. (consideration: CR S6667)",
-      "chamber": "S"
-    },
-    {
-      "date": "2025-09-17",
-      "action": "S.Amdt.3863 Considered by Senate. (consideration: CR S6667)",
-      "chamber": "S"
-    },
-    {
-      "date": "2025-09-17",
       "action": "S.Amdt.3427 Considered by Senate. (consideration: CR S6667)",
       "chamber": "S"
     },
     {
       "date": "2025-09-17",
+      "action": "S.Amdt.3867 Considered by Senate. (consideration: CR S6667)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-17",
+      "action": "S.Amdt.3748 Considered by Senate. (consideration: CR S6667)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-17",
+      "action": "S.Amdt.3868 Considered by Senate. (consideration: CR S6667)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-17",
       "action": "Considered by Senate. (consideration: CR S6667)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-19",
+      "action": "S.Amdt.3748 Considered by Senate. (consideration: CR S6782)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-19",
+      "action": "S.Amdt.3868 Considered by Senate. (consideration: CR S6782)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-19",
+      "action": "S.Amdt.3427 Considered by Senate. (consideration: CR S6782)",
       "chamber": "S"
     },
     {
@@ -316,11 +354,6 @@
     },
     {
       "date": "2025-09-19",
-      "action": "S.Amdt.3868 Considered by Senate. (consideration: CR S6782)",
-      "chamber": "S"
-    },
-    {
-      "date": "2025-09-19",
       "action": "S.Amdt.3865 Considered by Senate. (consideration: CR S6782)",
       "chamber": "S"
     },
@@ -331,17 +364,7 @@
     },
     {
       "date": "2025-09-19",
-      "action": "S.Amdt.3748 Considered by Senate. (consideration: CR S6782)",
-      "chamber": "S"
-    },
-    {
-      "date": "2025-09-19",
       "action": "S.Amdt.3863 Considered by Senate. (consideration: CR S6782)",
-      "chamber": "S"
-    },
-    {
-      "date": "2025-09-19",
-      "action": "S.Amdt.3427 Considered by Senate. (consideration: CR S6782)",
       "chamber": "S"
     },
     {
@@ -351,7 +374,12 @@
     },
     {
       "date": "2025-09-29",
-      "action": "S.Amdt.3866 Considered by Senate. (consideration: CR S6805)",
+      "action": "S.Amdt.3867 Considered by Senate. (consideration: CR S6805)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-29",
+      "action": "S.Amdt.3868 Considered by Senate. (consideration: CR S6805)",
       "chamber": "S"
     },
     {
@@ -361,17 +389,7 @@
     },
     {
       "date": "2025-09-29",
-      "action": "S.Amdt.3867 Considered by Senate. (consideration: CR S6805)",
-      "chamber": "S"
-    },
-    {
-      "date": "2025-09-29",
-      "action": "S.Amdt.3864 Considered by Senate. (consideration: CR S6805)",
-      "chamber": "S"
-    },
-    {
-      "date": "2025-09-29",
-      "action": "S.Amdt.3863 Considered by Senate. (consideration: CR S6805)",
+      "action": "S.Amdt.3427 Considered by Senate. (consideration: CR S6805)",
       "chamber": "S"
     },
     {
@@ -381,12 +399,17 @@
     },
     {
       "date": "2025-09-29",
-      "action": "S.Amdt.3427 Considered by Senate. (consideration: CR S6805)",
+      "action": "S.Amdt.3863 Considered by Senate. (consideration: CR S6805)",
       "chamber": "S"
     },
     {
       "date": "2025-09-29",
-      "action": "S.Amdt.3868 Considered by Senate. (consideration: CR S6805)",
+      "action": "S.Amdt.3864 Considered by Senate. (consideration: CR S6805)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-09-29",
+      "action": "S.Amdt.3866 Considered by Senate. (consideration: CR S6805)",
       "chamber": "S"
     },
     {
@@ -451,11 +474,6 @@
     },
     {
       "date": "2025-10-01",
-      "action": "S.Amdt.3427 Considered by Senate.",
-      "chamber": "S"
-    },
-    {
-      "date": "2025-10-01",
       "action": "S.Amdt.3748 Considered by Senate. (consideration: CR S6889)",
       "chamber": "S"
     },
@@ -471,7 +489,7 @@
     },
     {
       "date": "2025-10-01",
-      "action": "S.Amdt.3867 Considered by Senate. (consideration: CR S6889)",
+      "action": "S.Amdt.3427 Considered by Senate.",
       "chamber": "S"
     },
     {
@@ -481,17 +499,27 @@
     },
     {
       "date": "2025-10-01",
+      "action": "S.Amdt.3867 Considered by Senate. (consideration: CR S6889)",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-01",
       "action": "Considered by Senate. (consideration: CR S6889-6893)",
       "chamber": "S"
     },
     {
       "date": "2025-10-06",
-      "action": "S.Amdt.3868 Considered by Senate.",
+      "action": "S.Amdt.3867 Considered by Senate.",
       "chamber": "S"
     },
     {
       "date": "2025-10-06",
-      "action": "S.Amdt.3867 Considered by Senate.",
+      "action": "S.Amdt.3427 Considered by Senate.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-06",
+      "action": "S.Amdt.3865 Considered by Senate.",
       "chamber": "S"
     },
     {
@@ -511,17 +539,12 @@
     },
     {
       "date": "2025-10-06",
-      "action": "S.Amdt.3427 Considered by Senate.",
-      "chamber": "S"
-    },
-    {
-      "date": "2025-10-06",
-      "action": "S.Amdt.3865 Considered by Senate.",
-      "chamber": "S"
-    },
-    {
-      "date": "2025-10-06",
       "action": "S.Amdt.3866 Considered by Senate.",
+      "chamber": "S"
+    },
+    {
+      "date": "2025-10-06",
+      "action": "S.Amdt.3868 Considered by Senate.",
       "chamber": "S"
     },
     {
@@ -541,7 +564,7 @@
     },
     {
       "date": "2025-10-08",
-      "action": "S.Amdt.3866 Considered by Senate.",
+      "action": "S.Amdt.3867 Considered by Senate.",
       "chamber": "S"
     },
     {
@@ -551,7 +574,7 @@
     },
     {
       "date": "2025-10-08",
-      "action": "S.Amdt.3867 Considered by Senate.",
+      "action": "S.Amdt.3866 Considered by Senate.",
       "chamber": "S"
     },
     {
@@ -561,12 +584,12 @@
     },
     {
       "date": "2025-10-08",
-      "action": "S.Amdt.3864 Considered by Senate.",
+      "action": "S.Amdt.3863 Considered by Senate.",
       "chamber": "S"
     },
     {
       "date": "2025-10-08",
-      "action": "S.Amdt.3863 Considered by Senate.",
+      "action": "S.Amdt.3864 Considered by Senate.",
       "chamber": "S"
     },
     {
@@ -671,7 +694,7 @@
     },
     {
       "date": "2025-10-09",
-      "action": "S.Amdt.3732 Amendment SA 3732 agreed to in Senate by Voice Vote.",
+      "action": "S.Amdt.3810 Amendment SA 3810 proposed by Senator Wicker for Senator Rounds to Amendment SA 3748. To require the Committee on Foreign Investment in the United States to review and prohibit certain transactions relating to agriculture.",
       "chamber": "S"
     },
     {
@@ -731,12 +754,12 @@
     },
     {
       "date": "2025-10-09",
-      "action": "S.Amdt.3810 Amendment SA 3810 proposed by Senator Wicker for Senator Rounds to Amendment SA 3748. To require the Committee on Foreign Investment in the United States to review and prohibit certain transactions relating to agriculture.",
+      "action": "S.Amdt.3742 Amendment SA 3742 proposed by Senator Wicker for Senator Cruz to Amendment SA 3748. to authorize appropriations for the Coast Guard.",
       "chamber": "S"
     },
     {
       "date": "2025-10-09",
-      "action": "S.Amdt.3742 Amendment SA 3742 proposed by Senator Wicker for Senator Cruz to Amendment SA 3748. to authorize appropriations for the Coast Guard.",
+      "action": "S.Amdt.3732 Amendment SA 3732 agreed to in Senate by Voice Vote.",
       "chamber": "S"
     },
     {
@@ -766,7 +789,7 @@
     },
     {
       "date": "2025-10-09",
-      "action": "S.Amdt.3872 Amendment SA 3872 proposed by Senator Van Hollen to Amendment SA 3748. To amend title 32, United States Code, to clarify certain limitations on full-time National Guard duty performed in a State, Territory, or the District of Columbia.",
+      "action": "S.Amdt.3872 Amendment SA 3872, under the order of 10/9/2025, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 566.",
       "chamber": "S"
     },
     {
@@ -856,7 +879,7 @@
     },
     {
       "date": "2025-10-09",
-      "action": "S.Amdt.3872 Amendment SA 3872, under the order of 10/9/2025, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 47 - 50. Record Vote Number: 566.",
+      "action": "S.Amdt.3872 Amendment SA 3872 proposed by Senator Van Hollen to Amendment SA 3748. To amend title 32, United States Code, to clarify certain limitations on full-time National Guard duty performed in a State, Territory, or the District of Columbia.",
       "chamber": "S"
     },
     {
@@ -951,7 +974,7 @@
     },
     {
       "date": "2025-10-09",
-      "action": "S.Amdt.3136 Amendment SA 3136 proposed by Senator Wicker for Senator Gallego to Amendment SA 3748. To require a report on the feasibility of implementing artificial intelligence into anti-money laundering investigations relating to activity by foreign terrorist organizations, drug cartels, and other transnational criminal organizations.",
+      "action": "S.Amdt.3109 Amendment SA 3109 proposed by Senator Schumer to Amendment SA 3748. To prohibit the use of funds to procure or modify foreign aircraft for presidential airlift.",
       "chamber": "S"
     },
     {
@@ -1091,7 +1114,7 @@
     },
     {
       "date": "2025-10-09",
-      "action": "S.Amdt.3109 Amendment SA 3109, under the order of 10/9/2025, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 46 - 50. Record Vote Number: 565.",
+      "action": "S.Amdt.3136 Amendment SA 3136 proposed by Senator Wicker for Senator Gallego to Amendment SA 3748. To require a report on the feasibility of implementing artificial intelligence into anti-money laundering investigations relating to activity by foreign terrorist organizations, drug cartels, and other transnational criminal organizations.",
       "chamber": "S"
     },
     {
@@ -1101,7 +1124,7 @@
     },
     {
       "date": "2025-10-09",
-      "action": "S.Amdt.3109 Amendment SA 3109 proposed by Senator Schumer to Amendment SA 3748. To prohibit the use of funds to procure or modify foreign aircraft for presidential airlift.",
+      "action": "S.Amdt.3109 Amendment SA 3109, under the order of 10/9/2025, not having achieved 60 votes in the affirmative, not agreed to in Senate by Yea-Nay Vote. 46 - 50. Record Vote Number: 565.",
       "chamber": "S"
     },
     {
@@ -1396,6 +1419,13 @@
       "description": "On Passage of the Bill S. 2296 RC# 570",
       "yea": 77,
       "nay": 20,
+      "passed": 1
+    },
+    {
+      "date": "2025-09-10",
+      "description": "On the Motion to Table S.Amdt. 3849 to S. 2296 (No short title on file) RC# 512",
+      "yea": 51,
+      "nay": 49,
       "passed": 1
     }
   ],

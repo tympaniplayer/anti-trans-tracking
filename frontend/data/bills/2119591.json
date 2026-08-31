@@ -3,8 +3,8 @@
   "state": "CA",
   "state_name": "California",
   "bill_number": "AB2064",
-  "title": "Discrimination: formerly incarcerated status.",
-  "summary": "An act to amend Section 51 of the Civil Code, relating to discrimination.",
+  "title": "Discrimination: criminal history.",
+  "summary": "An act to amend Section 51 of the Civil Code, and to amend Sections 12920, 12921, 12926, 12940, and 12955 of the Government Code, relating to discrimination.",
   "status": "introduced",
   "status_label": "Introduced",
   "status_code": 1,
@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -43,22 +46,56 @@
       "date": "2026-03-12",
       "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
       "chamber": "A"
+    },
+    {
+      "date": "2026-04-09",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on JUD. Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Re-referred to Com. on JUD.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-15",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 7. Noes 3.) (April 14). Re-referred to Com. on APPR.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-06",
+      "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-14",
+      "action": "In committee: Held under submission.",
+      "chamber": "A"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-04-14",
+      "description": "Do pass and be re-referred to the Committee on [Appropriations]",
+      "yea": 7,
+      "nay": 3,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2026-02-18",
       "type": "Introduced",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2064#99INT",
       "doc_id": 3367267
+    },
+    {
+      "date": "2026-04-09",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2064#98AMD",
+      "doc_id": 3415652
     }
   ],
-  "committee": {
-    "committee_id": 463,
-    "chamber": "A",
-    "chamber_id": 19,
-    "name": "Judiciary"
-  },
+  "committee": [],
   "subjects": []
 }

@@ -12,6 +12,9 @@
     "healthcare"
   ],
   "primary_category": "healthcare",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -33,6 +36,7 @@
     "Stephen Hawley (R) [Rep]",
     "Christopher Tague (R) [Rep]",
     "John Lemondes (R) [Rep]",
+    "Daniel Norber (R) [Rep]",
     "Jodi Giglio (R) [Rep]"
   ],
   "introduced_date": "2025-02-12",

@@ -5,13 +5,16 @@
   "bill_number": "AB1876",
   "title": "Health care coverage: nondiscrimination.",
   "summary": "An act to add Section 1367.0435 to the Health and Safety Code, and to add Section 10133.135 to the Insurance Code, relating to health care coverage.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
   "categories": [
     "healthcare"
   ],
   "primary_category": "healthcare",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -19,9 +22,11 @@
   "legiscan_url": "https://legiscan.com/CA/bill/AB1876/2025",
   "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1876",
   "sponsors": [
-    "Dawn Addis (D) [Rep]"
+    "Dawn Addis (D) [Rep]",
+    "Mia Bonta (D) [Rep]",
+    "Rick Zbur (D) [Rep]"
   ],
-  "introduced_date": "2026-02-12",
+  "introduced_date": "2026-08-25",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -38,22 +43,148 @@
       "date": "2026-03-02",
       "action": "Referred to Coms. on HEALTH and JUD.",
       "chamber": "A"
+    },
+    {
+      "date": "2026-03-18",
+      "action": "Coauthors revised.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-18",
+      "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 12. Noes 4.) (March 17). Re-referred to Com. on JUD.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-15",
+      "action": "Coauthors revised.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-15",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 3.) (April 14). Re-referred to Com. on APPR.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-29",
+      "action": "From committee: Do pass. (Ayes 10. Noes 4.) (April 29).",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-30",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-04",
+      "action": "Read third time. Passed. Ordered to the Senate. (Ayes 56. Noes 17. Page 4914.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-05",
+      "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-13",
+      "action": "Referred to Coms. on HEALTH and JUD.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-04",
+      "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 7. Noes 1.) (June 3). Re-referred to Com. on JUD.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-24",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 11. Noes 1.) (June 23). Re-referred to Com. on APPR.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-03",
+      "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-04",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-25",
+      "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 29. Noes 9.).",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-25",
+      "action": "In Assembly. Ordered to Engrossing and Enrolling.",
+      "chamber": "A"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-03-17",
+      "description": "Do pass and be re-referred to the Committee on [Judiciary]",
+      "yea": 12,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-14",
+      "description": "Do pass and be re-referred to the Committee on [Appropriations]",
+      "yea": 9,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-29",
+      "description": "Do pass",
+      "yea": 10,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2026-05-04",
+      "description": "AB 1876 Addis Assembly Third Reading",
+      "yea": 56,
+      "nay": 17,
+      "passed": 1
+    },
+    {
+      "date": "2026-06-03",
+      "description": "Do pass, but first be re-referred to the Committee on [Judiciary]",
+      "yea": 7,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-06-23",
+      "description": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+      "yea": 11,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-08-25",
+      "description": "Assembly 3rd Reading AB1876 Addis et al. By Menjivar",
+      "yea": 30,
+      "nay": 9,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2026-02-12",
       "type": "Introduced",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1876#99INT",
       "doc_id": 3361397
+    },
+    {
+      "date": "2026-08-27",
+      "type": "Enrolled",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1876#98ENR",
+      "doc_id": 3457121
     }
   ],
-  "committee": {
-    "committee_id": 457,
-    "chamber": "A",
-    "chamber_id": 19,
-    "name": "Health"
-  },
+  "committee": [],
   "subjects": []
 }

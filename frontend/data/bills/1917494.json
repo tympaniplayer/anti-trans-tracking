@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -33,6 +36,16 @@
       "date": "2026-01-07",
       "action": "referred to governmental operations",
       "chamber": "A"
+    },
+    {
+      "date": "2026-04-07",
+      "action": "amend and recommit to governmental operations",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-07",
+      "action": "print number 1858a",
+      "chamber": "A"
     }
   ],
   "votes": [],
@@ -42,6 +55,12 @@
       "type": "Introduced",
       "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A01858&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A01858",
       "doc_id": 3054522
+    },
+    {
+      "date": "2025-01-14",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A01858&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A01858A",
+      "doc_id": 3412652
     }
   ],
   "committee": {

@@ -10,11 +10,11 @@
   "status_code": 6,
   "categories": [
     "healthcare",
-    "definitions"
+    "religious_exemptions"
   ],
   "primary_category": "healthcare",
-  "sentiment": "restrictive",
-  "sentiment_label": "Restrictive",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",

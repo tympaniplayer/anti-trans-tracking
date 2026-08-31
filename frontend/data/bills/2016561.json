@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -33,6 +36,11 @@
       "date": "2026-01-07",
       "action": "REFERRED TO CONSUMER PROTECTION",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-15",
+      "action": "RECOMMIT, ENACTING CLAUSE STRICKEN",
+      "chamber": "S"
     }
   ],
   "votes": [],
@@ -44,11 +52,6 @@
       "doc_id": 3193421
     }
   ],
-  "committee": {
-    "committee_id": 419,
-    "chamber": "S",
-    "chamber_id": 74,
-    "name": "Consumer Affairs and Protection"
-  },
+  "committee": [],
   "subjects": []
 }

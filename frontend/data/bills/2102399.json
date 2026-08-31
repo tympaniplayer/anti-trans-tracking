@@ -9,11 +9,11 @@
   "status_label": "Enrolled",
   "status_code": 3,
   "categories": [
-    "healthcare"
+    "other"
   ],
-  "primary_category": "healthcare",
-  "sentiment": "protective",
-  "sentiment_label": "Protective",
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",
@@ -183,6 +183,11 @@
       "date": "2026-08-20",
       "action": "Assembly amendments concurred in. (Ayes 27. Noes 9.) Ordered to engrossing and enrolling.",
       "chamber": "S"
+    },
+    {
+      "date": "2026-08-27",
+      "action": "Enrolled and presented to the Governor at 4:30 p.m.",
+      "chamber": ""
     }
   ],
   "votes": [
@@ -273,6 +278,12 @@
       "type": "Amended",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB934#95AMD",
       "doc_id": 3455499
+    },
+    {
+      "date": "2026-08-24",
+      "type": "Enrolled",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB934#94ENR",
+      "doc_id": 3456711
     }
   ],
   "committee": [],

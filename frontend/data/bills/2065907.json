@@ -9,13 +9,11 @@
   "status_label": "Vetoed",
   "status_code": 5,
   "categories": [
-    "healthcare",
-    "definitions",
-    "religious_exemptions"
+    "education"
   ],
-  "primary_category": "healthcare",
-  "sentiment": "restrictive",
-  "sentiment_label": "Restrictive",
+  "primary_category": "education",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",

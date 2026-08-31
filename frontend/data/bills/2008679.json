@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -20,11 +23,16 @@
   "state_url": "https://www.nysenate.gov/legislation/bills/2025/S6531",
   "sponsors": [
     "James Sanders (D) [Sen]",
+    "Jabari Brisport (D) [Sen]",
     "Cordell Cleare (D) [Sen]",
     "Leroy Comrie (D) [Sen]",
     "Patricia Fahy (D) [Sen]",
+    "Kristen Gonzalez (D) [Sen]",
+    "Michelle Hinchey (D) [Sen]",
     "Robert Jackson (D) [Sen]",
     "Rachel May (D) [Sen]",
+    "Zellnor Myrie (D) [Sen]",
+    "Jessica Ramos (D) [Sen]",
     "Julia Salazar (D) [Sen]"
   ],
   "introduced_date": "2025-03-17",

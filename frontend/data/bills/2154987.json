@@ -1,0 +1,59 @@
+{
+  "id": 2154987,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR1385",
+  "title": "Celebrating the accomplishments of title IX of the Education Amendments of 1972, also known as the Patsy Takemoto Mink Equal Opportunity in Education Act, and recognizing the need to continue pursuing the goal of educational opportunities for all women and girls.",
+  "summary": "Celebrating the accomplishments of title IX of the Education Amendments of 1972, also known as the Patsy Takemoto Mink Equal Opportunity in Education Act, and recognizing the need to continue pursuing the goal of educational opportunities for all women and girls.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR1385/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR1385/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/1385/all-info",
+  "sponsors": [
+    "Adelita Grijalva (D) [Rep]"
+  ],
+  "introduced_date": "2026-06-24",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-06-24",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-24",
+      "action": "Referred to the House Committee on Education and Workforce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-06-25",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres1385/BILLS-119hres1385ih.pdf",
+      "doc_id": 3451041
+    }
+  ],
+  "committee": {
+    "committee_id": 4977,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Education and Workforce"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

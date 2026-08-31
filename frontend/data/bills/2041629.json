@@ -10,12 +10,11 @@
   "status_code": 1,
   "categories": [
     "education",
-    "identity_documents",
     "definitions"
   ],
   "primary_category": "education",
-  "sentiment": "restrictive",
-  "sentiment_label": "Restrictive",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",

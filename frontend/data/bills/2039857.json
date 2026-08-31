@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "federal",
   "last_action_date": "",
   "last_action": "",
@@ -24,7 +27,8 @@
     "Brandon Gill (R) [Rep]",
     "Lauren Boebert (R) [Rep]",
     "Tim Burchett (R) [Rep]",
-    "Scott Perry (R) [Rep]"
+    "Scott Perry (R) [Rep]",
+    "Blake Moore (R) [Rep]"
   ],
   "introduced_date": "2025-07-17",
   "session": "119th Congress",

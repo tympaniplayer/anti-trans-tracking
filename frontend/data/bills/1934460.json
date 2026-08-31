@@ -9,10 +9,10 @@
   "status_label": "Failed",
   "status_code": 6,
   "categories": [
-    "sports",
-    "education"
+    "education",
+    "sports"
   ],
-  "primary_category": "sports",
+  "primary_category": "education",
   "sentiment": "neutral",
   "sentiment_label": "Neutral",
   "relevant": true,

@@ -9,11 +9,11 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "other"
+    "religious_exemptions"
   ],
-  "primary_category": "other",
-  "sentiment": "protective",
-  "sentiment_label": "Protective",
+  "primary_category": "religious_exemptions",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",

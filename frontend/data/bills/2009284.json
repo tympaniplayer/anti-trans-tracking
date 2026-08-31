@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -23,7 +26,6 @@
     "Danny Nadeau (R) [Rep]",
     "Brion Curran (D) [Rep]",
     "Jessica Hanson (D) [Rep]",
-    "Keith Allen (R) [Rep]",
     "Luke Frederick (D) [Rep]",
     "Mohamud Noor (D) [Rep]",
     "Dan Wolgamott (D) [Rep]",
@@ -32,7 +34,6 @@
     "Andrew Smith (D) [Rep]",
     "Mary Clardy (D) [Rep]",
     "Steve Gander (R) [Rep]",
-    "Gregory Davids (R) [Rep]",
     "Dave Baker (R) [Rep]",
     "Joe Schomacker (R) [Rep]",
     "Kristi Pursell (D) [Rep]",
@@ -92,6 +93,31 @@
     {
       "date": "2026-03-12",
       "action": "Authors added Repinski, Reyer, and Xiong",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-28",
+      "action": "Referred to Chief Clerk for comparison with SF3210",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-30",
+      "action": "Bills not identical, SF substituted on General Register",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-30",
+      "action": "HF indefinitely postponed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-13",
+      "action": "Author stricken Allen",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-13",
+      "action": "Author stricken Davids",
       "chamber": "H"
     }
   ],

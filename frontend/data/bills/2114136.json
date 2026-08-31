@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -28,6 +31,36 @@
       "date": "2026-02-11",
       "action": "REFERRED TO INSURANCE",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-22",
+      "action": "AMEND AND RECOMMIT TO INSURANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-22",
+      "action": "PRINT NUMBER 9179A",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-04",
+      "action": "1ST REPORT CAL.886",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-05",
+      "action": "2ND REPORT CAL.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-06",
+      "action": "ADVANCED TO THIRD READING",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "SUBSTITUTED BY A10279A",
+      "chamber": "S"
     }
   ],
   "votes": [],
@@ -37,13 +70,14 @@
       "type": "Introduced",
       "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S09179&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S09179",
       "doc_id": 3358172
+    },
+    {
+      "date": "2026-02-11",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S09179&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S09179A",
+      "doc_id": 3424822
     }
   ],
-  "committee": {
-    "committee_id": 432,
-    "chamber": "S",
-    "chamber_id": 74,
-    "name": "Insurance"
-  },
+  "committee": [],
   "subjects": []
 }

@@ -9,14 +9,11 @@
   "status_label": "Passed",
   "status_code": 4,
   "categories": [
-    "definitions",
-    "identity_documents",
-    "healthcare",
-    "education"
+    "definitions"
   ],
   "primary_category": "definitions",
-  "sentiment": "restrictive",
-  "sentiment_label": "Restrictive",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",

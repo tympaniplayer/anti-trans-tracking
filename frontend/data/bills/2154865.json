@@ -1,0 +1,62 @@
+{
+  "id": 2154865,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SR785",
+  "title": "A resolution celebrating the accomplishments of title IX of the Education Amendments of 1972, also known as the Patsy Takemoto Mink Equal Opportunity in Education Act, and recognizing the need to continue pursuing the goal of educational opportunities for all women and girls.",
+  "summary": "A resolution celebrating the accomplishments of title IX of the Education Amendments of 1972, also known as the Patsy Takemoto Mink Equal Opportunity in Education Act, and recognizing the need to continue pursuing the goal of educational opportunities for all women and girls.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "sports"
+  ],
+  "primary_category": "sports",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SR785/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SR785/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/785/all-info",
+  "sponsors": [
+    "Mazie Hirono (D) [Sen]",
+    "Patty Murray (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Lisa Rochester (D) [Sen]"
+  ],
+  "introduced_date": "2026-06-23",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-06-23",
+      "action": "Submitted in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-23",
+      "action": "Referred to the Committee on Health, Education, Labor, and Pensions. (text: CR S3061)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-06-25",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/sres785/BILLS-119sres785is.pdf",
+      "doc_id": 3451022
+    }
+  ],
+  "committee": {
+    "committee_id": 2328,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Health, Education, Labor, And Pensions"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

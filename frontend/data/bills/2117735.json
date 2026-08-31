@@ -9,11 +9,11 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "healthcare"
+    "education"
   ],
-  "primary_category": "healthcare",
-  "sentiment": "restrictive",
-  "sentiment_label": "Restrictive",
+  "primary_category": "education",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",

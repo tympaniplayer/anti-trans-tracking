@@ -1,0 +1,82 @@
+{
+  "id": 2137758,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "S3143",
+  "title": "Creates the Rhode Island voting rights act to establish procedures to prevent discrimination in the voting process.",
+  "summary": "ELECTIONS -- RHODE ISLAND VOTING RIGHTS ACT - Creates the Rhode Island voting rights act to establish procedures to prevent discrimination in the voting process.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/S3143/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/S3143/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Valarie Lawson (D) [Sen]",
+    "Hanna Gallo (D) [Sen]",
+    "Susan Sosnowski (D) [Sen]",
+    "Melissa Murray (D) [Sen]",
+    "Victoria Gu (D) [Sen]",
+    "Lori Urso (D) [Sen]",
+    "Linda Ujifusa (D) [Sen]",
+    "Lammis Vargas (D) [Sen]",
+    "Pamela Lauria (D) [Sen]",
+    "Meghan Kallman (D) [Sen]"
+  ],
+  "introduced_date": "2026-03-24",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-24",
+      "action": "Introduced, referred to Senate Judiciary",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-03",
+      "action": "Scheduled for hearing and/or consideration (04/07/2026)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-07",
+      "action": "Committee recommended measure be held for further study",
+      "chamber": "S"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-04-07",
+      "description": "Senate Committee on Judiciary: Be held for further study",
+      "yea": 10,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-03-24",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/SenateText26/S3143.pdf",
+      "doc_id": 3403464
+    }
+  ],
+  "committee": {
+    "committee_id": 1140,
+    "chamber": "S",
+    "chamber_id": 84,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Elections",
+    "ELECTIONS -- RHODE ISLAND VOTING RIGHTS ACT"
+  ]
+}

@@ -5,13 +5,16 @@
   "bill_number": "SB439",
   "title": "Employment Discrimination - Fire and Rescue Public Safety Employees - Use of Medical Cannabis",
   "summary": "Prohibiting an employer from taking certain discriminatory employment actions against a fire and rescue public safety employee based on the employee's use of medical cannabis, subject to certain conditions; and requiring an employer to report an incident of a fire and rescue public safety employee reporting for work while impaired by cannabis to the State Emergency Medical Services Board.",
-  "status": "passed_one_chamber",
-  "status_label": "Engrossed",
-  "status_code": 2,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "healthcare"
   ],
   "primary_category": "healthcare",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -21,7 +24,7 @@
   "sponsors": [
     "Carl Jackson (D) [Sen]"
   ],
-  "introduced_date": "2026-03-06",
+  "introduced_date": "2026-04-28",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -63,6 +66,31 @@
       "date": "2026-03-09",
       "action": "Referred Economic Matters",
       "chamber": "H"
+    },
+    {
+      "date": "2026-04-08",
+      "action": "Favorable Report by Economic Matters",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-08",
+      "action": "Favorable Adopted Second Reading Passed",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Third Reading Passed (108-23)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Returned Passed",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-28",
+      "action": "Approved by the Governor - Chapter 183",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -71,6 +99,13 @@
       "description": "Third Reading Passed",
       "yea": 33,
       "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-13",
+      "description": "Third Reading Passed",
+      "yea": 108,
+      "nay": 23,
       "passed": 1
     }
   ],
@@ -86,14 +121,15 @@
       "type": "Engrossed",
       "url": "https://mgaleg.maryland.gov/2026RS/bills/sb/sb0439t.pdf",
       "doc_id": 3382246
+    },
+    {
+      "date": "2026-05-05",
+      "type": "Chaptered",
+      "url": "https://mgaleg.maryland.gov/2026RS/Chapters_noln/CH_183_sb0439t.pdf",
+      "doc_id": 3431678
     }
   ],
-  "committee": {
-    "committee_id": 1923,
-    "chamber": "H",
-    "chamber_id": 49,
-    "name": "Economic Matters"
-  },
+  "committee": [],
   "subjects": [
     "Human Relations",
     "Cannabis",

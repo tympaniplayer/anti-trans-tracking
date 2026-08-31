@@ -9,11 +9,12 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "healthcare"
+    "religious_exemptions",
+    "definitions"
   ],
-  "primary_category": "healthcare",
-  "sentiment": "protective",
-  "sentiment_label": "Protective",
+  "primary_category": "religious_exemptions",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",

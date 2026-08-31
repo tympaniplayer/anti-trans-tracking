@@ -4,14 +4,17 @@
   "state_name": "California",
   "bill_number": "AB1940",
   "title": "Unlawful practices: discrimination: menopause.",
-  "summary": "An act to amend Sections 12926 and 12950 of, and to add Section 8423 to, the Government Code, relating to civil rights.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "summary": "An act to amend Section 51 of the Civil Code, and to amend Sections 12926 and 12950 of the Government Code, relating to civil rights.",
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
   "categories": [
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -21,16 +24,20 @@
   "sponsors": [
     "Lisa Calderon (D) [Rep]",
     "Rebecca Bauer-Kahan (D) [Rep]",
+    "Damon Connolly (D) [Rep]",
     "Laurie Davies (R) [Rep]",
     "Sade Elhawary (D) [Rep]",
     "Melissa Hurtado (D) [Sen]",
+    "Ash Kalra (D) [Rep]",
+    "Liz Ortega (D) [Rep]",
     "Blanca Pacheco (D) [Rep]",
+    "Diane Papan (D) [Rep]",
     "Darshana Patel (D) [Rep]",
     "Gail Pellerin (D) [Rep]",
     "Pilar Schiavo (D) [Rep]",
     "Catherine Stefani (D) [Rep]"
   ],
-  "introduced_date": "2026-02-13",
+  "introduced_date": "2026-08-28",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -47,22 +54,254 @@
       "date": "2026-03-02",
       "action": "Referred to Coms. on L. & E. and JUD.",
       "chamber": "A"
+    },
+    {
+      "date": "2026-03-19",
+      "action": "Coauthors revised.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-03-19",
+      "action": "From committee: Do pass and re-refer to Com. on JUD. (Ayes 7. Noes 0.) (March 18). Re-referred to Com. on JUD.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "In committee: Set, first hearing. Hearing canceled at the request of author.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-22",
+      "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 9. Noes 3.) (April 21).",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-23",
+      "action": "Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-27",
+      "action": "Re-referred to Com. on APPR.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-06",
+      "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-14",
+      "action": "From committee: Amend, and do pass as amended. (Ayes 11. Noes 3.) (May 14).",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-18",
+      "action": "Read second time and amended. Ordered returned to second reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-19",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-26",
+      "action": "Read third time. Passed. Ordered to the Senate. (Ayes 61. Noes 9.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-27",
+      "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "Referred to Coms. on JUD. and L., P.E. & R.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-04",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on JUD.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-17",
+      "action": "From committee: Do pass and re-refer to Com. on L., P.E. & R. (Ayes 9. Noes 0.) (June 16). Re-referred to Com. on L., P.E. & R.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-23",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to committee. Read second time, amended, and re-referred to Com. on L., P.E. & R.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-07-01",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 4. Noes 0.) (July 1). Re-referred to Com. on APPR.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-03",
+      "action": "In committee: Referred to APPR. suspense file.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-13",
+      "action": "From committee: Amend, and do pass as amended. (Ayes 5. Noes 1.) (August 13).",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-13",
+      "action": "Read second time and amended. Ordered returned to second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-17",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-21",
+      "action": "Read third time and amended. Ordered to second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-24",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-27",
+      "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 30. Noes 1.).",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-27",
+      "action": "In Assembly. Concurrence in Senate amendments pending.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-08-28",
+      "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 65. Noes 9.).",
+      "chamber": "A"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-03-18",
+      "description": "Do pass and be re-referred to the Committee on [Judiciary]",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-21",
+      "description": "Do pass as amended and be re-referred to the Committee on [Appropriations]",
+      "yea": 9,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-05-14",
+      "description": "Do pass as amended",
+      "yea": 11,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-05-26",
+      "description": "AB 1940 Calderon Assembly Third Reading",
+      "yea": 61,
+      "nay": 9,
+      "passed": 1
+    },
+    {
+      "date": "2026-06-16",
+      "description": "Do pass, but first be re-referred to the Committee on [Labor, Public Employment and Retirement ]",
+      "yea": 9,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-07-01",
+      "description": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+      "yea": 4,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-08-03",
+      "description": "Placed on suspense file",
+      "yea": 7,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-08-13",
+      "description": "Do pass as amended",
+      "yea": 5,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-08-27",
+      "description": "Assembly 3rd Reading AB1940 Calderon et al. By Gonzalez",
+      "yea": 30,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-08-28",
+      "description": "AB 1940 Calderon Concurrence in Senate Amendments",
+      "yea": 65,
+      "nay": 9,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2026-02-13",
       "type": "Introduced",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1940#99INT",
       "doc_id": 3362839
+    },
+    {
+      "date": "2026-04-23",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1940#98AMD",
+      "doc_id": 3425384
+    },
+    {
+      "date": "2026-05-18",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1940#97AMD",
+      "doc_id": 3438059
+    },
+    {
+      "date": "2026-06-04",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1940#96AMD",
+      "doc_id": 3446013
+    },
+    {
+      "date": "2026-06-23",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1940#95AMD",
+      "doc_id": 3450237
+    },
+    {
+      "date": "2026-08-13",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1940#94AMD",
+      "doc_id": 3455678
+    },
+    {
+      "date": "2026-08-21",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1940#93AMD",
+      "doc_id": 3456583
     }
   ],
-  "committee": {
-    "committee_id": 464,
-    "chamber": "A",
-    "chamber_id": 19,
-    "name": "Labor and Employment"
-  },
+  "committee": [],
   "subjects": []
 }

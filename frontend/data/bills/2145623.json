@@ -1,0 +1,52 @@
+{
+  "id": 2145623,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A11095",
+  "title": "Establishes the committee for diversity, inclusion, and equal opportunity, the office of diversity management, and the state workforce diversity and inclusions council to ensure diversity and inclusion at certain state entities and combat harassment and discrimination in the workplace.",
+  "summary": "Establishes the committee for diversity, inclusion, and equal opportunity, the office of diversity management, and the state workforce diversity and inclusions council to ensure diversity and inclusion at certain state entities and combat harassment and discrimination in the workplace.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A11095/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A11095/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A11095",
+  "sponsors": [
+    "Chantel Jackson (D) [Rep]"
+  ],
+  "introduced_date": "2026-04-24",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-04-24",
+      "action": "referred to governmental employees",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-04-24",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A11095&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A11095",
+      "doc_id": 3425600
+    }
+  ],
+  "committee": {
+    "committee_id": 367,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Governmental Employees"
+  },
+  "subjects": []
+}

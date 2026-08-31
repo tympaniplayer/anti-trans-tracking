@@ -10,11 +10,12 @@
   "status_code": 1,
   "categories": [
     "definitions",
-    "other"
+    "education",
+    "religious_exemptions"
   ],
   "primary_category": "definitions",
-  "sentiment": "protective",
-  "sentiment_label": "Protective",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",

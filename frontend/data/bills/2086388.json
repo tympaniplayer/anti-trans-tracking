@@ -4,14 +4,17 @@
   "state_name": "Virginia",
   "bill_number": "SB637",
   "title": "Virginia Human Rights Act; nondiscrimination, procedures for charge of unlawful discrimination.",
-  "summary": "Virginia Human Rights Act; definition of employer; statute of limitations. Provides that, for the purposes of nondiscrimination in places of public accommodation and nondiscrimination in employment under the Virginia Human Rights Act, such provisions shall be governed by the statute of limitations of two years in current law for causes of action for failure to provide reasonable accommodations under the Virginia Human Rights Act. The bill also amends the definition of\u00a0\"employer\" for purposes of nondiscrimination in employment by\u00a0reducing from 15 to\u00a0five\u00a0the number of employees for each working day in each of 20 or more calendar weeks in the current or preceding calendar year. Under current law, \"employer\" also includes a person employing one or more domestic workers.",
-  "status": "passed_one_chamber",
-  "status_label": "Engrossed",
-  "status_code": 2,
+  "summary": "Virginia Human Rights Act; procedures for a charge of unlawful discrimination. Provides that, for the purposes of nondiscrimination in places of public accommodation, \"place of public accommodation\" includes educational institutions.\u00a0The bill reduces from 15 to\u00a0five the number of employees in the definition of\u00a0\"employer\" for purposes of nondiscrimination in employment. The bill also amends from 300 days to two years the timeframe for filing a complaint alleging unlawful discrimination with the Office of the Attorney General.",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "definitions"
   ],
   "primary_category": "definitions",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -23,7 +26,7 @@
     "Jennifer Boysko (D) [Sen]",
     "Amy Laufer (D) [Rep]"
   ],
-  "introduced_date": "2026-02-10",
+  "introduced_date": "2026-04-13",
   "session": "2026 Regular Regular Session",
   "actions": [
     {
@@ -165,6 +168,51 @@
       "date": "2026-03-10",
       "action": "Fiscal Impact Statement from Department of Planning and Budget (SB637)",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "Enrolled",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "Bill text as passed Senate and House (SB637ER)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "Signed by President",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-31",
+      "action": "Signed by Speaker",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-31",
+      "action": "Fiscal Impact Statement from Department of Planning and Budget (SB637)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-31",
+      "action": "Enrolled Bill communicated to Governor on March 31, 2026",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-31",
+      "action": "Governor's Action Deadline 11:59 p.m., April 13, 2026",
+      "chamber": ""
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Approved by Governor-Chapter 950 (effective 7/1/2026)",
+      "chamber": ""
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Acts of Assembly Chapter text (CHAP0950)",
+      "chamber": ""
     }
   ],
   "votes": [
@@ -243,6 +291,18 @@
       "type": "Comm Sub",
       "url": "https://lis.virginia.gov/bill-details/20261/SB637/text/SB637H1",
       "doc_id": 3383374
+    },
+    {
+      "date": "2026-03-30",
+      "type": "Enrolled",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB637/text/SB637ER",
+      "doc_id": 3407803
+    },
+    {
+      "date": "2026-04-13",
+      "type": "Chaptered",
+      "url": "https://lis.virginia.gov/bill-details/20261/SB637/text/CHAP0950",
+      "doc_id": 3427144
     }
   ],
   "committee": [],

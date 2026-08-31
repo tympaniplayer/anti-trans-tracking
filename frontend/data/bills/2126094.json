@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -35,6 +38,16 @@
     {
       "date": "2026-02-27",
       "action": "Introduced, referred to House Health & Human Services",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-03",
+      "action": "Scheduled for hearing and/or consideration (04/09/2026)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-09",
+      "action": "Committee recommended measure be held for further study",
       "chamber": "H"
     }
   ],

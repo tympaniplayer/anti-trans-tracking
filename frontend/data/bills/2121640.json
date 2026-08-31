@@ -4,14 +4,17 @@
   "state_name": "California",
   "bill_number": "AB2563",
   "title": "Sex discrimination: scope.",
-  "summary": "An act to add Section 14.3 to the Business and Professions Code, to amend Section 51 of, and to add Section 14.1 to, the Civil Code, to add Section 17.5 to the Code of Civil Procedure, to add Section 1207 to the Commercial Code, to add Section 12.4 to the Corporations Code, to add Section 212.4 to the Education Code, to add Section 353.7 to the Elections Code, to add Section 212 to the Evidence Code, to add Section 136 to the Family Code, to add Section 23 to the Financial Code, to add Section 9.4 to the Fish and Game Code, to add Section 52 to the Food and Agricultural Code, to amend Section 12926 of, and to add Section 27 to, the Government Code, to add Section 26 to the Harbors and Navigation Code, to add Section 29 to the Health and Safety Code, to add Section 49 to the Insurance Code, to add Section 12.3 to the Labor Code, to add Section 20 to the Military and Veterans Code, to add Section 5.5 to the Penal Code, to add Section 71 to the Probate Code, to add Section 1105 to the Public Contract Code, to add Section 19 to the Public Resources Code, to add Section 23 to the Public Utilities Code, to add Section 12.3 to the Revenue and Taxation Code, to add Section 37 to the Streets and Highways Code, to add Section 23 to the Unemployment Insurance Code, to add Section 552 to the Vehicle Code, to add Section 27 to the Water Code, and to add Section 28 to the Welfare and Institutions Code, relating to sex discrimination.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "summary": "An act to add Section 14.3 to the Business and Professions Code, to amend Section 51 of, and to add Section 14.1 to, the Civil Code, to add Section 17.5 to the Code of Civil Procedure, to add Section 1207 to the Commercial Code, to add Section 12.4 to the Corporations Code, to add Sections 212.4 and 66262.4 to the Education Code, to add Section 353.7 to the Elections Code, to add Section 212 to the Evidence Code, to add Section 136 to the Family Code, to add Section 23 to the Financial Code, to add Section 9.4 to the Fish and Game Code, to add Section 52 to the Food and Agricultural Code, to amend Section 12926 of, and to add Section 27 to, the Government Code, to add Section 26 to the Harbors and Navigation Code, to add Section 29 to the Health and Safety Code, to add Section 49 to the Insurance Code, to add Section 12.3 to the Labor Code, to add Section 20 to the Military and Veterans Code, to add Section 5.5 to the Penal Code, to add Section 71 to the Probate Code, to add Section 1105 to the Public Contract Code, to add Section 19 to the Public Resources Code, to add Section 23 to the Public Utilities Code, to add Section 12.3 to the Revenue and Taxation Code, to add Section 37 to the Streets and Highways Code, to add Section 23 to the Unemployment Insurance Code, to add Section 552 to the Vehicle Code, to add Section 27 to the Water Code, and to add Section 28 to the Welfare and Institutions Code, relating to sex discrimination.",
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
   "categories": [
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -19,9 +22,11 @@
   "legiscan_url": "https://legiscan.com/CA/bill/AB2563/2025",
   "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2563",
   "sponsors": [
-    "Blanca Pacheco (D) [Rep]"
+    "Blanca Pacheco (D) [Rep]",
+    "Lisa Calderon (D) [Rep]",
+    "Rick Zbur (D) [Rep]"
   ],
-  "introduced_date": "2026-02-20",
+  "introduced_date": "2026-08-30",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -38,22 +43,161 @@
       "date": "2026-03-16",
       "action": "Referred to Com. on JUD.",
       "chamber": "A"
+    },
+    {
+      "date": "2026-04-08",
+      "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 9. Noes 3.) (April 7).",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-09",
+      "action": "Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Re-referred to Com. on APPR.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-22",
+      "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-14",
+      "action": "From committee: Amend, and do pass as amended. (Ayes 11. Noes 4.) (May 14).",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-18",
+      "action": "Read second time and amended. Ordered returned to second reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-19",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-26",
+      "action": "Read third time. Passed. Ordered to the Senate. (Ayes 58. Noes 17.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-27",
+      "action": "In Senate. Read first time. To Com. on RLS. for assignment.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-10",
+      "action": "Referred to Com. on JUD.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-17",
+      "action": "From committee: Do pass and re-refer to Com. on APPR. (Ayes 9. Noes 2.) (June 16). Re-referred to Com. on APPR.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-29",
+      "action": "From committee: Be ordered to second reading pursuant to Senate Rule 28.8.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-30",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-21",
+      "action": "Read third time and amended. Ordered to second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-24",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-27",
+      "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 30. Noes 10.).",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-28",
+      "action": "In Assembly. Concurrence in Senate amendments pending.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-08-30",
+      "action": "Senate amendments concurred in. To Engrossing and Enrolling.",
+      "chamber": "A"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-04-07",
+      "description": "Do pass as amended and be re-referred to the Committee on [Appropriations]",
+      "yea": 9,
+      "nay": 3,
+      "passed": 1
+    },
+    {
+      "date": "2026-05-14",
+      "description": "Do pass as amended",
+      "yea": 11,
+      "nay": 4,
+      "passed": 1
+    },
+    {
+      "date": "2026-05-26",
+      "description": "AB 2563 Pacheco Assembly Third Reading",
+      "yea": 58,
+      "nay": 17,
+      "passed": 1
+    },
+    {
+      "date": "2026-06-16",
+      "description": "Do pass, but first be re-referred to the Committee on [Appropriations]",
+      "yea": 9,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-08-27",
+      "description": "Assembly 3rd Reading AB2563 Pacheco et al. By Menjivar",
+      "yea": 30,
+      "nay": 10,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2026-02-20",
       "type": "Introduced",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2563#99INT",
       "doc_id": 3371182
+    },
+    {
+      "date": "2026-04-09",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2563#98AMD",
+      "doc_id": 3415536
+    },
+    {
+      "date": "2026-05-18",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2563#97AMD",
+      "doc_id": 3438207
+    },
+    {
+      "date": "2026-08-21",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2563#96AMD",
+      "doc_id": 3456566
     }
   ],
-  "committee": {
-    "committee_id": 463,
-    "chamber": "A",
-    "chamber_id": 19,
-    "name": "Judiciary"
-  },
+  "committee": [],
   "subjects": []
 }

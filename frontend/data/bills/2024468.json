@@ -5,13 +5,16 @@
   "bill_number": "SJR31",
   "title": "Proclaiming March 31, 2025, as Wisconsin\u2019s Transgender Day of Visibility.",
   "summary": "Relating to: proclaiming March 31, 2025, as Wisconsin\u2019s Transgender Day of Visibility.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "dead",
+  "status_label": "Failed",
+  "status_code": 6,
   "categories": [
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -59,7 +62,7 @@
     "Tara Johnson (D) [Rep]",
     "Renuka Mayadev (D) [Rep]"
   ],
-  "introduced_date": "2025-04-16",
+  "introduced_date": "2026-03-23",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -75,6 +78,11 @@
     {
       "date": "2025-04-16",
       "action": "Available for scheduling",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Failed to adopt pursuant to Senate Joint Resolution 1",
       "chamber": "S"
     }
   ],

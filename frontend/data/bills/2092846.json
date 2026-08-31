@@ -4,7 +4,7 @@
   "state_name": "Hawaii",
   "bill_number": "HB1878",
   "title": "Relating To Discrimination.",
-  "summary": "Prohibits discrimination based on: (1) The perception that a person possesses certain characteristics; (2) The perception that a person is associated with a person who possesses, or is perceived to possess, certain characteristics; or (3) The intersection or combination of two or more specified characteristics in relation to a person. Effective 7/1/3000. (HD2)",
+  "summary": "Prohibits discrimination based on: (1) The perception that a person possesses certain characteristics; (2) The perception that a person is associated with a person who possesses, or is perceived to possess, certain characteristics; or (3) The intersection or combination of two or more specified characteristics in relation to a person. (SD1)",
   "status": "passed_one_chamber",
   "status_label": "Engrossed",
   "status_code": 2,
@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -115,9 +118,72 @@
       "date": "2026-03-12",
       "action": "The committee(s) on JDC has scheduled a public hearing on 03-17-26 9:55AM; Conference Room 016 &amp; Videoconference.",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-17",
+      "action": "The committee(s) on JDC recommend(s) that the measure be PASSED, WITH AMENDMENTS. The votes in JDC were as follows: 5 Aye(s): Senator(s) Rhoads, Gabbard, Chang, San Buenaventura, Awa; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-18",
+      "action": "Re-Referred to JDC.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "Reported from JDC (Stand. Com. Rep. No. 3398) with recommendation of passage on Second Reading, as amended (SD 1) and placement on the calendar for Third Reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "Report adopted; Passed Second Reading, as amended (SD 1).",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-30",
+      "action": "48 Hrs. Notice 04-01-26.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-01",
+      "action": "Passed Third Reading, as amended (SD 1). Ayes, 25; Aye(s) with reservations: none . Noes, 0 (none). Excused, 0 (none). Transmitted to House.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-01",
+      "action": "Returned from Senate (Sen. Com. No. 410) in amended form (SD 1).",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-02",
+      "action": "House disagrees with Senate amendment (s).",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-06",
+      "action": "Received notice of disagreement (Hse. Com. No. 471).",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-21",
+      "action": "House Conferees Appointed: Sayama, Tarnas Co-Chairs; Reyes Oda.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-21",
+      "action": "Received notice of appointment of House conferees (Hse. Com. No. 799).",
+      "chamber": "S"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-03-17",
+      "description": "Senate Judiciary: Passed, With Amendments",
+      "yea": 5,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2026-01-23",
@@ -136,14 +202,15 @@
       "type": "Amended",
       "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1878_HD2_.HTM",
       "doc_id": 3388146
+    },
+    {
+      "date": "2026-03-28",
+      "type": "Amended",
+      "url": "https://www.capitol.hawaii.gov/sessions/session2026/bills/HB1878_SD1_.HTM",
+      "doc_id": 3406963
     }
   ],
-  "committee": {
-    "committee_id": 3756,
-    "chamber": "S",
-    "chamber_id": 32,
-    "name": "Judiciary"
-  },
+  "committee": [],
   "subjects": [
     "Anti-discrimination",
     "Prohibitions",

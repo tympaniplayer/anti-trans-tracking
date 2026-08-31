@@ -12,6 +12,9 @@
     "definitions"
   ],
   "primary_category": "definitions",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -43,7 +46,9 @@
     "Maureen Madden (D) [Rep]",
     "Timothy Brennan (D) [Rep]",
     "Aerion Abney (D) [Rep]",
-    "Mary Jo Daley (D) [Rep]"
+    "Mary Jo Daley (D) [Rep]",
+    "Jennifer O'Mara (D) [Rep]",
+    "Ismail Smith-Wade-El (D) [Rep]"
   ],
   "introduced_date": "2025-09-30",
   "session": "2025-2026 Regular Session",
@@ -51,6 +56,31 @@
     {
       "date": "2025-09-30",
       "action": "Referred to Judiciary",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-19",
+      "action": "Reported as amended",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-19",
+      "action": "First consideration",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-19",
+      "action": "Laid on the table",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Removed from table",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-15",
+      "action": "Laid on the table (Pursuant to House Rule 71)",
       "chamber": "H"
     }
   ],
@@ -76,13 +106,14 @@
       "type": "Introduced",
       "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1902/PN2371",
       "doc_id": 3271325
+    },
+    {
+      "date": "2026-03-19",
+      "type": "Amended",
+      "url": "https://www.palegis.us/legislation/bills/text/PDF/2025/0/HB1902/PN3032",
+      "doc_id": 3399380
     }
   ],
-  "committee": {
-    "committee_id": 53,
-    "chamber": "H",
-    "chamber_id": 3,
-    "name": "Judiciary"
-  },
+  "committee": [],
   "subjects": []
 }

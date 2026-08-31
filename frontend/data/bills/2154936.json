@@ -1,0 +1,103 @@
+{
+  "id": 2154936,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR1384",
+  "title": "Expressing the sense of the House of Representatives that Congress must urgently take all appropriate measures to guarantee civil rights and fair political representation to all Americans.",
+  "summary": "Expressing the sense of the House of Representatives that Congress must urgently take all appropriate measures to guarantee civil rights and fair political representation to all Americans.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR1384/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR1384/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/1384/all-info",
+  "sponsors": [
+    "Greg Casar (D) [Rep]",
+    "Yvette Clarke (D) [Rep]",
+    "Adriano Espaillat (D) [Rep]",
+    "Grace Meng (D) [Rep]",
+    "Henry Johnson (D) [Rep]",
+    "Kweisi Mfume (D) [Rep]",
+    "Wesley Bell (D) [Rep]",
+    "Shontel Brown (D) [Rep]",
+    "Jesus Garcia (D) [Rep]",
+    "Joyce Beatty (D) [Rep]",
+    "Eleanor Norton (D) [Rep]",
+    "LaMonica McIver (D) [Rep]",
+    "Daniel Goldman (D) [Rep]",
+    "Joaquin Castro (D) [Rep]",
+    "Marilyn Strickland (D) [Rep]",
+    "Danny Davis (D) [Rep]",
+    "Nanette Barragan (D) [Rep]",
+    "Analilia Mejia (D) [Rep]",
+    "Herbert Conaway Jr. (D) [Rep]",
+    "Mark Takano (D) [Rep]",
+    "Christian Menefee (D) [Rep]",
+    "Andrea Salinas (D) [Rep]",
+    "Valerie Foushee (D) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "Steve Cohen (D) [Rep]",
+    "Jimmy Gomez (D) [Rep]",
+    "Lateefah Simon (D) [Rep]",
+    "Yassamin Ansari (D) [Rep]",
+    "Jim Costa (D) [Rep]",
+    "Ilhan Omar (D) [Rep]",
+    "Robert Garcia (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Frederica Wilson (D) [Rep]",
+    "Jahana Hayes (D) [Rep]",
+    "Maxwell Frost (D) [Rep]",
+    "Bennie Thompson (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "Nydia Velazquez (D) [Rep]",
+    "Andre Carson (D) [Rep]",
+    "Ro Khanna (D) [Rep]",
+    "Raja Krishnamoorthi (D) [Rep]",
+    "Nikema Williams (D) [Rep]",
+    "Jared Huffman (D) [Rep]",
+    "Troy Carter (D) [Rep]",
+    "Mark DeSaulnier (D) [Rep]"
+  ],
+  "introduced_date": "2026-06-24",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-06-24",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-24",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-06-25",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres1384/BILLS-119hres1384ih.pdf",
+      "doc_id": 3451033
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

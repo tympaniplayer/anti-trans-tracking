@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -21,7 +24,11 @@
   "sponsors": [
     "Linda Rosenthal (D) [Rep]",
     "Andrew Hevesi (D) [Rep]",
-    "Yudelka Tapia (D) [Rep]"
+    "Yudelka Tapia (D) [Rep]",
+    "Tony Simone (D) [Rep]",
+    "Jo Simon (D) [Rep]",
+    "Albert Stirpe (D) [Rep]",
+    "Maritza Davila (D) [Rep]"
   ],
   "introduced_date": "2025-07-16",
   "session": "2025-2026 General Assembly",

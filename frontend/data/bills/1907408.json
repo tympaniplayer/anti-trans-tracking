@@ -3,8 +3,8 @@
   "state": "NY",
   "state_name": "New York",
   "bill_number": "S01169",
-  "title": "Regulates the development and use of certain artificial intelligence systems to prevent algorithmic discrimination; requires independent audits of high risk AI systems; provides for enforcement by the attorney general as well as a private right of action.",
-  "summary": "Regulates the development and use of certain artificial intelligence systems to prevent algorithmic discrimination; requires independent audits of high risk AI systems; provides for enforcement by the attorney general as well as a private right of action.",
+  "title": "Regulates the development and use of certain artificial intelligence systems to prevent algorithmic discrimination; requires independent audits of high risk AI systems; provides for enforcement by the attorney general.",
+  "summary": "Regulates the development and use of certain artificial intelligence systems to prevent algorithmic discrimination; requires independent audits of high risk AI systems; provides for enforcement by the attorney general.",
   "status": "passed_one_chamber",
   "status_label": "Engrossed",
   "status_code": 2,
@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -96,6 +99,41 @@
       "date": "2026-01-07",
       "action": "REFERRED TO INTERNET AND TECHNOLOGY",
       "chamber": "S"
+    },
+    {
+      "date": "2026-05-21",
+      "action": "REPORTED AND COMMITTED TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-29",
+      "action": "AMEND AND RECOMMIT TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-29",
+      "action": "PRINT NUMBER 1169B",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "COMMITTEE DISCHARGED AND COMMITTED TO RULES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "ORDERED TO THIRD READING CAL.1607",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "DELIVERED TO ASSEMBLY",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -112,6 +150,20 @@
       "yea": 18,
       "nay": 2,
       "passed": 1
+    },
+    {
+      "date": "2026-05-21",
+      "description": "Senate Internet And Technology Committee Vote",
+      "yea": 5,
+      "nay": 2,
+      "passed": 1
+    },
+    {
+      "date": "2026-06-03",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 48,
+      "nay": 13,
+      "passed": 1
     }
   ],
   "texts": [
@@ -126,13 +178,14 @@
       "type": "Amended",
       "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S01169&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S01169A",
       "doc_id": 3253417
+    },
+    {
+      "date": "2025-01-08",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S01169&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S01169B",
+      "doc_id": 3443211
     }
   ],
-  "committee": {
-    "committee_id": 3936,
-    "chamber": "S",
-    "chamber_id": 74,
-    "name": "Internet and Technology"
-  },
+  "committee": [],
   "subjects": []
 }

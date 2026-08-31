@@ -9,11 +9,11 @@
   "status_label": "Passed",
   "status_code": 4,
   "categories": [
-    "healthcare"
+    "other"
   ],
-  "primary_category": "healthcare",
-  "sentiment": "restrictive",
-  "sentiment_label": "Restrictive",
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",

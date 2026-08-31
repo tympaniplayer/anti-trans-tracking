@@ -5,16 +5,15 @@
   "bill_number": "SB1114",
   "title": "Data collection: sexual orientation, gender identity, and intersex status: disclosure.",
   "summary": "An act to amend Sections 44230.6 and 66027 of the Education Code, and to amend Section 8310.8 of, and to add Section 8310.8.5 to, the Government Code, relating to data collection.",
-  "status": "passed_one_chamber",
-  "status_label": "Engrossed",
-  "status_code": 2,
+  "status": "passed_both_chambers",
+  "status_label": "Enrolled",
+  "status_code": 3,
   "categories": [
-    "education",
-    "identity_documents"
+    "other"
   ],
-  "primary_category": "education",
-  "sentiment": "protective",
-  "sentiment_label": "Protective",
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",
@@ -26,7 +25,7 @@
     "Christopher Cabaldon (D) [Sen]",
     "Rick Zbur (D) [Rep]"
   ],
-  "introduced_date": "2026-05-26",
+  "introduced_date": "2026-08-26",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -158,6 +157,21 @@
       "date": "2026-08-21",
       "action": "Ordered to third reading.",
       "chamber": "A"
+    },
+    {
+      "date": "2026-08-25",
+      "action": "Read third time. Passed. Ordered to the Senate.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-08-25",
+      "action": "In Senate. Concurrence in Assembly amendments pending.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-26",
+      "action": "Assembly amendments concurred in. (Ayes 33. Noes 0.) Ordered to engrossing and enrolling.",
+      "chamber": "S"
     }
   ],
   "votes": [
@@ -216,6 +230,20 @@
       "yea": 11,
       "nay": 3,
       "passed": 1
+    },
+    {
+      "date": "2026-08-25",
+      "description": "SB 1114 Cabaldon Senate Third Reading By Zbur",
+      "yea": 60,
+      "nay": 14,
+      "passed": 1
+    },
+    {
+      "date": "2026-08-26",
+      "description": "Unfinished Business SB1114 Cabaldon et al. Concurrence",
+      "yea": 33,
+      "nay": 0,
+      "passed": 1
     }
   ],
   "texts": [
@@ -242,6 +270,12 @@
       "type": "Amended",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1114#96AMD",
       "doc_id": 3456430
+    },
+    {
+      "date": "2026-08-28",
+      "type": "Enrolled",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB1114#95ENR",
+      "doc_id": 3457217
     }
   ],
   "committee": [],

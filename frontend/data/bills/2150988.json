@@ -1,0 +1,72 @@
+{
+  "id": 2150988,
+  "state": "MI",
+  "state_name": "Michigan",
+  "bill_number": "SB0991",
+  "title": "Trade: consumer goods and services; use of certain algorithms and protected class data to set prices; prohibit. Amends sec. 3 of 1976 PA 331 (MCL 445.903) & adds sec. 3j.",
+  "summary": "Trade: consumer goods and services; use of certain algorithms and protected class data to set prices; prohibit. Amends sec. 3 of 1976 PA 331 (MCL 445.903) & adds sec. 3j.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/MI/bill/SB0991/2025",
+  "legiscan_url": "https://legiscan.com/MI/bill/SB0991/2025",
+  "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2026-SB-0991",
+  "sponsors": [
+    "Mallory McMorrow (D) [Sen]",
+    "Jeff Irwin (D) [Sen]",
+    "Stephanie Chang (D) [Sen]",
+    "Rosemary Bayer (D) [Sen]",
+    "Samir Singh (D) [Sen]",
+    "Sue Shink (D) [Sen]",
+    "Darrin Camilleri (D) [Sen]",
+    "Dayna Polehanki (D) [Sen]",
+    "Erika Geiss (D) [Sen]",
+    "John Cherry (D) [Sen]",
+    "Veronica Klinefelt (D) [Sen]",
+    "Jeremy Moss (D) [Sen]",
+    "Kevin Hertel (D) [Sen]"
+  ],
+  "introduced_date": "2026-05-20",
+  "session": "103rd Legislature",
+  "actions": [
+    {
+      "date": "2026-05-20",
+      "action": "Introduced By Senator Mallory Mcmorrow",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-20",
+      "action": "Referred To Committee On Economic And Community Development",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-05-20",
+      "type": "Introduced",
+      "url": "https://legislature.mi.gov/documents/2025-2026/billintroduced/Senate/htm/2026-SIB-0991.htm",
+      "doc_id": 3439410
+    }
+  ],
+  "committee": {
+    "committee_id": 4854,
+    "chamber": "S",
+    "chamber_id": 54,
+    "name": "Economic And Community Development"
+  },
+  "subjects": [
+    "Trade: consumer goods and services",
+    "Trade: business regulation"
+  ]
+}

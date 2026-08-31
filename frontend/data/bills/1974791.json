@@ -9,12 +9,11 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "healthcare",
-    "identity_documents"
+    "definitions"
   ],
-  "primary_category": "healthcare",
-  "sentiment": "restrictive",
-  "sentiment_label": "Restrictive",
+  "primary_category": "definitions",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",

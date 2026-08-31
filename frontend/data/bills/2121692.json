@@ -1,0 +1,146 @@
+{
+  "id": 2121692,
+  "state": "CA",
+  "state_name": "California",
+  "bill_number": "AB2615",
+  "title": "Educational equity: discrimination.",
+  "summary": "An act to amend Sections 262.3, 51500, 51501, and 60151 of the Education Code, relating to educational equity.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/CA/bill/AB2615/2025",
+  "legiscan_url": "https://legiscan.com/CA/bill/AB2615/2025",
+  "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2615",
+  "sponsors": [
+    "Dawn Addis (D) [Rep]",
+    "Rick Zbur (D) [Rep]"
+  ],
+  "introduced_date": "2026-02-20",
+  "session": "2025-2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-02-20",
+      "action": "Read first time. To print.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-02-21",
+      "action": "From printer. May be heard in committee March 23.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-16",
+      "action": "Referred to Com. on ED.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-16",
+      "action": "Pursuant to Assembly Rule 51.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-16",
+      "action": "From committee chair, with author's amendments: Amend, and re-refer to Com. on ED. Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-20",
+      "action": "Re-referred to Com. on ED.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-23",
+      "action": "From committee: Amend, and do pass as amended and re-refer to Com. on APPR. (Ayes 6. Noes 1.) (April 22).",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-27",
+      "action": "Read second time and amended.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-28",
+      "action": "Re-referred to Com. on APPR.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-06",
+      "action": "From committee: Do pass. (Ayes 13. Noes 0.) (May 6).",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-07",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-28",
+      "action": "Read third time and amended. Ordered to third reading. (Page 5541.)",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-28",
+      "action": "Re-referred to Com. on RLS. pursuant to Assembly Rule 77.2.",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-04-22",
+      "description": "Do pass as amended and be re-referred to the Committee on [Appropriations]",
+      "yea": 6,
+      "nay": 1,
+      "passed": 1
+    },
+    {
+      "date": "2026-05-06",
+      "description": "Do pass",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-02-20",
+      "type": "Introduced",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2615#99INT",
+      "doc_id": 3371232
+    },
+    {
+      "date": "2026-04-16",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2615#98AMD",
+      "doc_id": 3420804
+    },
+    {
+      "date": "2026-04-27",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2615#97AMD",
+      "doc_id": 3426817
+    },
+    {
+      "date": "2026-05-28",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2615#96AMD",
+      "doc_id": 3442651
+    }
+  ],
+  "committee": {
+    "committee_id": 470,
+    "chamber": "A",
+    "chamber_id": 19,
+    "name": "Rules"
+  },
+  "subjects": []
+}

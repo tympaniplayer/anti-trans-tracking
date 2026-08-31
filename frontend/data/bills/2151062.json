@@ -1,0 +1,61 @@
+{
+  "id": 2151062,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB8932",
+  "title": "Hate Crimes Commission Act of 2026",
+  "summary": "To establish a United States Commission on Hate Crimes to study and make recommendations on the prevention of the commission of hate crimes, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB8932/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB8932/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/8932/all-info",
+  "sponsors": [
+    "Raja Krishnamoorthi (D) [Rep]",
+    "Grace Meng (D) [Rep]",
+    "Nydia Velazquez (D) [Rep]"
+  ],
+  "introduced_date": "2026-05-20",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-05-20",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-20",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-06-04",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr8932/BILLS-119hr8932ih.pdf",
+      "doc_id": 3445540
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Crime and law enforcement"
+  ]
+}

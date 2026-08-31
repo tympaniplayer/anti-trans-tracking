@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -20,7 +23,7 @@
   "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S3779",
   "sponsors": [
     "Vin Gopal (D) [Sen]",
-    "Angela Mcknight (D) [Sen]"
+    "Angela Mcknight (D) [Rep]"
   ],
   "introduced_date": "2026-03-05",
   "session": "2026-2027 Regular Session",

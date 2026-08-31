@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "federal",
   "last_action_date": "",
   "last_action": "",
@@ -44,7 +47,11 @@
     "Shontel Brown (D) [Rep]",
     "Kweisi Mfume (D) [Rep]",
     "Jahana Hayes (D) [Rep]",
-    "Mark DeSaulnier (D) [Rep]"
+    "Mark DeSaulnier (D) [Rep]",
+    "Al Green (D) [Rep]",
+    "Adelita Grijalva (D) [Rep]",
+    "Jennifer McClellan (D) [Rep]",
+    "Joyce Beatty (D) [Rep]"
   ],
   "introduced_date": "2025-12-02",
   "session": "119th Congress",

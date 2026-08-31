@@ -1,0 +1,67 @@
+{
+  "id": 2153030,
+  "state": "DE",
+  "state_name": "Delaware",
+  "bill_number": "HB453",
+  "title": "An Act To Amend Title 6 Of The Delaware Code Relating To Consumer Protection And Surveillance Based Pricing Discrimination.",
+  "summary": "An Act To Amend Title 6 Of The Delaware Code Relating To Consumer Protection And Surveillance Based Pricing Discrimination.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DE/bill/HB453/2025",
+  "legiscan_url": "https://legiscan.com/DE/bill/HB453/2025",
+  "state_url": "https://legis.delaware.gov/BillDetail?LegislationId=143615",
+  "sponsors": [
+    "Nnamdi Chukwuocha (D) [Rep]",
+    "Spiros Mantzavinos (D) [Sen]",
+    "Alonna Berry (D) [Rep]",
+    "Larry Lambert (D) [Rep]",
+    "Madinah Wilson-Anton (D) [Rep]"
+  ],
+  "introduced_date": "2026-06-18",
+  "session": "153rd General Assembly",
+  "actions": [
+    {
+      "date": "2026-06-18",
+      "action": "was introduced and adopted in lieu of HB 453",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-24",
+      "action": "Amendment HA 1 to HS 1 - Introduced and Placed With Bill",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-06-25",
+      "action": "Amendment HA 2 to HS 1 - Introduced and Placed With Bill",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "0000-00-00",
+      "type": "Draft",
+      "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143421&legislationTypeId=1&docTypeId=2&legislationName=HB453",
+      "doc_id": 3445790
+    },
+    {
+      "date": "0000-00-00",
+      "type": "Draft",
+      "url": "https://legis.delaware.gov/json/BillDetail/GenerateHtmlDocument?legislationId=143615&legislationTypeId=6&docTypeId=2&legislationName=HS1forHB453",
+      "doc_id": 3449374
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

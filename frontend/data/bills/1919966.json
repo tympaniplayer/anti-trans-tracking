@@ -9,12 +9,11 @@
   "status_label": "Introduced",
   "status_code": 1,
   "categories": [
-    "identity_documents",
-    "definitions"
+    "identity_documents"
   ],
   "primary_category": "identity_documents",
-  "sentiment": "restrictive",
-  "sentiment_label": "Restrictive",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",

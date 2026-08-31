@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -53,6 +56,16 @@
       "date": "2026-03-09",
       "action": "Re-referred to Com. on APPR.",
       "chamber": "A"
+    },
+    {
+      "date": "2026-04-08",
+      "action": "In committee: Set, first hearing. Referred to APPR. suspense file.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-05-14",
+      "action": "In committee: Held under submission.",
+      "chamber": "A"
     }
   ],
   "votes": [
@@ -78,11 +91,6 @@
       "doc_id": 3386609
     }
   ],
-  "committee": {
-    "committee_id": 449,
-    "chamber": "A",
-    "chamber_id": 19,
-    "name": "Appropriations"
-  },
+  "committee": [],
   "subjects": []
 }

@@ -3,15 +3,18 @@
   "state": "MD",
   "state_name": "Maryland",
   "bill_number": "SB274",
-  "title": "Fair Housing and Housing Discrimination - Regulations, Intent, and Discriminatory Effect",
-  "summary": "Authorizing the Department of Housing and Community Development to adopt certain regulations related to affirmatively furthering fair housing; providing that certain discriminatory housing practices may be committed without intent; prohibiting a person from acting in a certain manner that has a discriminatory effect; and providing that certain conduct necessary to achieve certain nondiscriminatory interests does not constitute a certain violation.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "title": "Fair Housing and Housing Discrimination - Regulations and Discriminatory Effect",
+  "summary": "Authorizing the Department of Housing and Community Development to adopt certain regulations related to affirmatively furthering fair housing; prohibiting a person from acting in a certain manner that has a discriminatory effect; and providing that certain conduct necessary to achieve certain nondiscriminatory interests does not constitute a certain violation.",
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
   "categories": [
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -21,7 +24,7 @@
   "sponsors": [
     "Charles Sydnor (D) [Sen]"
   ],
-  "introduced_date": "2026-01-19",
+  "introduced_date": "2026-03-20",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -43,23 +46,201 @@
       "date": "2026-01-27",
       "action": "Hearing 2/03 at 2:00 p.m.",
       "chamber": "S"
+    },
+    {
+      "date": "2026-03-19",
+      "action": "Favorable with Amendments Report by Judicial Proceedings",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-19",
+      "action": "Favorable with Amendments {993829/1",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-19",
+      "action": "Motion Special Order until Later Today (Senator Sydnor) Adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-19",
+      "action": "Favorable with Amendments {993829/1 Adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-19",
+      "action": "Floor Amendment {683420/1 (Senator Sydnor)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-19",
+      "action": "Motion Laid Over (Senator Ready) Adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-19",
+      "action": "Favorable with Amendments {683420/1 Adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-19",
+      "action": "Second Reading Passed with Amendments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-20",
+      "action": "Third Reading Passed (30-11)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-03-21",
+      "action": "Referred Economic Matters",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-24",
+      "action": "Hearing 4/02 at 1:00 p.m.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-02",
+      "action": "Hearing canceled",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-02",
+      "action": "Hearing 4/02 at 1:30 p.m.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-02",
+      "action": "Hearing canceled",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-02",
+      "action": "Hearing 4/02 at 2:30 p.m.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-08",
+      "action": "Favorable with Amendments Report by Economic Matters",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-08",
+      "action": "Favorable with Amendments {583126/1 Adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-08",
+      "action": "Second Reading Passed with Amendments",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-10",
+      "action": "Third Reading Passed (99-35)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Senate Refuses Concur House Amendments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Senate Requests House Recede",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Senate Conference Committee Appointed (Senators Sydnor, Henson and West)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Senate Refuses Concur House Amendments",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Senate Requests House Recede",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Senate Conference Committee Appointed (Senators Sydnor, Henson and West)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "House Refuses Recede",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "House Conference Committee Appointed (Delegates Amprey, Charkoudian and Arentz)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "House Refuses Recede",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "House Conference Committee Appointed (Delegates Amprey, Charkoudian and Arentz)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Conference Committee Report {983528/1 Adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Third Reading Passed (33-11)",
+      "chamber": "S"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-03-20",
+      "description": "Third Reading Passed",
+      "yea": 30,
+      "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-10",
+      "description": "Third Reading Passed",
+      "yea": 99,
+      "nay": 35,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-13",
+      "description": "Third Reading Passed",
+      "yea": 33,
+      "nay": 11,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2026-01-20",
       "type": "Introduced",
       "url": "https://mgaleg.maryland.gov/2026RS/bills/sb/sb0274f.pdf",
       "doc_id": 3323671
+    },
+    {
+      "date": "2026-03-20",
+      "type": "Engrossed",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/sb/sb0274t.pdf",
+      "doc_id": 3400185
     }
   ],
-  "committee": {
-    "committee_id": 1934,
-    "chamber": "S",
-    "chamber_id": 50,
-    "name": "Judicial Proceedings"
-  },
+  "committee": [],
   "subjects": [
     "Human Relations",
     "Housing and Community Development",
@@ -77,6 +258,7 @@
     "Plans and Proposals",
     "Real Estate",
     "Reports",
-    "Rules and Regulations"
+    "Rules and Regulations",
+    "Federal Government"
   ]
 }

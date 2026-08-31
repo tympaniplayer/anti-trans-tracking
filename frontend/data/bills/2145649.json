@@ -1,0 +1,52 @@
+{
+  "id": 2145649,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A11083",
+  "title": "Establishes hate crimes against police officers; defines such crimes as committing murder in the first degree, aggravated murder, or murder in the second degree against a police officer and the victim is chosen because they are a police officer.",
+  "summary": "Establishes hate crimes against police officers; defines such crimes as committing murder in the first degree, aggravated murder, or murder in the second degree against a police officer and the victim is chosen because they are a police officer.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "definitions"
+  ],
+  "primary_category": "definitions",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A11083/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A11083/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A11083",
+  "sponsors": [
+    "Philip Ramos (D) [Rep]"
+  ],
+  "introduced_date": "2026-04-24",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-04-24",
+      "action": "referred to codes",
+      "chamber": "A"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-04-24",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A11083&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A11083",
+      "doc_id": 3425625
+    }
+  ],
+  "committee": {
+    "committee_id": 357,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Codes"
+  },
+  "subjects": []
+}

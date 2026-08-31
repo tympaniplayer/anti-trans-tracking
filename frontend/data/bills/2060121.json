@@ -9,11 +9,12 @@
   "status_label": "Passed",
   "status_code": 4,
   "categories": [
-    "sports"
+    "sports",
+    "definitions"
   ],
   "primary_category": "sports",
-  "sentiment": "restrictive",
-  "sentiment_label": "Restrictive",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",

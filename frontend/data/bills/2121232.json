@@ -5,13 +5,16 @@
   "bill_number": "A10279",
   "title": "Prohibits insurance discrimination on the basis of an insured's marital status following the death of the insured's spouse.",
   "summary": "Prohibits insurance discrimination on the basis of an insured's marital status following the death of the insured's spouse.",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "passed_one_chamber",
+  "status_label": "Engrossed",
+  "status_code": 2,
   "categories": [
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -21,29 +24,107 @@
   "sponsors": [
     "David Weprin (D) [Rep]"
   ],
-  "introduced_date": "2026-02-20",
+  "introduced_date": "2026-04-28",
   "session": "2025-2026 General Assembly",
   "actions": [
     {
       "date": "2026-02-20",
       "action": "referred to insurance",
       "chamber": "A"
+    },
+    {
+      "date": "2026-04-17",
+      "action": "amend and recommit to insurance",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-17",
+      "action": "print number 10279a",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-21",
+      "action": "reported",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-23",
+      "action": "advanced to third reading cal.378",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-28",
+      "action": "passed assembly",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-28",
+      "action": "delivered to senate",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-04-28",
+      "action": "REFERRED TO INSURANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "SUBSTITUTED FOR S9179A",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "3RD READING CAL.886",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "PASSED SENATE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "RETURNED TO ASSEMBLY",
+      "chamber": "S"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-04-21",
+      "description": "Assembly Insurance Committee: Favorable",
+      "yea": 25,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-28",
+      "description": "Assembly Floor Vote - Final Passage",
+      "yea": 138,
+      "nay": 0,
+      "passed": 1
+    },
+    {
+      "date": "2026-06-03",
+      "description": "Senate Floor Vote - Final Passage",
+      "yea": 61,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2026-02-20",
       "type": "Introduced",
       "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A10279&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A10279",
       "doc_id": 3370620
+    },
+    {
+      "date": "2026-02-20",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A10279&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A10279A",
+      "doc_id": 3421469
     }
   ],
-  "committee": {
-    "committee_id": 372,
-    "chamber": "A",
-    "chamber_id": 73,
-    "name": "Insurance"
-  },
+  "committee": [],
   "subjects": []
 }

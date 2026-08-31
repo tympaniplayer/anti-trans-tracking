@@ -1,0 +1,86 @@
+{
+  "id": 2155421,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB9579",
+  "title": "Department of Homeland Security Office for Civil Rights and Civil Liberties Authorization Act",
+  "summary": "To amend the Homeland Security Act of 2002 to make certain improvements in the Office for Civil Rights and Civil Liberties of the Department of Homeland Security, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB9579/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB9579/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/9579/all-info",
+  "sponsors": [
+    "Al Green (D) [Rep]",
+    "Wesley Bell (D) [Rep]",
+    "Julia Brownley (D) [Rep]",
+    "Troy Carter (D) [Rep]",
+    "Judy Chu (D) [Rep]",
+    "Yvette Clarke (D) [Rep]",
+    "Jasmine Crockett (D) [Rep]",
+    "Danny Davis (D) [Rep]",
+    "Shomari Figures (D) [Rep]",
+    "Daniel Goldman (D) [Rep]",
+    "Adelita Grijalva (D) [Rep]",
+    "LaMonica McIver (D) [Rep]",
+    "Grace Meng (D) [Rep]",
+    "Gwen Moore (D) [Rep]",
+    "Seth Moulton (D) [Rep]",
+    "Emily Randall (D) [Rep]",
+    "Shri Thanedar (D) [Rep]",
+    "Bennie Thompson (D) [Rep]",
+    "Debbie Wasserman Schultz (D) [Rep]",
+    "Bonnie Coleman (D) [Rep]",
+    "James Walkinshaw (D) [Rep]",
+    "Julie Johnson (D) [Rep]",
+    "Analilia Mejia (D) [Rep]"
+  ],
+  "introduced_date": "2026-07-02",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-07-02",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-07-02",
+      "action": "Referred to the House Committee on Homeland Security.",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-07-03",
+      "action": "Referred to the Subcommittee on Oversight, Investigations, and Accountability.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-07-07",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr9579/BILLS-119hr9579ih.pdf",
+      "doc_id": 3452582
+    }
+  ],
+  "committee": {
+    "committee_id": 4884,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Subcommittee on Oversight, Investigations, and Accountability"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

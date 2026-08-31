@@ -1,0 +1,73 @@
+{
+  "id": 2149036,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "A11332",
+  "title": "Authorizes the denial of access to certain public records which relate to civil investigations; relates to the enforcement powers of the attorney general; authorizes the attorney general to investigate and bring any civil action addressing repeated or persistent discrimination in elementary and secondary schools; requires the compromise of any claim which the state may have for care, maintenance or treatment furnished in hospitals or other such facilities to be made in accordance with parameters established by the office of the attorney general; allows the commissioner of health to waive bills or compromise bills for the maintenance, care and treatment furnished to patients in medical facilities upon the prior approval of the comptroller alone.",
+  "summary": "Authorizes the denial of access to certain public records which relate to civil investigations; relates to the enforcement powers of the attorney general; authorizes the attorney general to investigate and bring any civil action addressing repeated or persistent discrimination in elementary and secondary schools; requires the compromise of any claim which the state may have for care, maintenance or treatment furnished in hospitals or other such facilities to be made in accordance with parameters established by the office of the attorney general; allows the commissioner of health to waive bills or compromise bills for the maintenance, care and treatment furnished to patients in medical facilities upon the prior approval of the comptroller alone.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "healthcare",
+    "bathrooms",
+    "education"
+  ],
+  "primary_category": "healthcare",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/A11332/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/A11332/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/A11332",
+  "sponsors": [
+    "Gabriella Romero (D) [Rep]",
+    "Steven Otis (D) [Rep]"
+  ],
+  "introduced_date": "2026-05-11",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-05-11",
+      "action": "referred to governmental operations",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-06-03",
+      "action": "reference changed to ways and means",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-06-04",
+      "action": "reported referred to rules",
+      "chamber": "A"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-06-04",
+      "description": "Assembly Ways And Means Committee: Favorable refer to committee Rules",
+      "yea": 22,
+      "nay": 10,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-05-11",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=A11332&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#A11332",
+      "doc_id": 3434510
+    }
+  ],
+  "committee": {
+    "committee_id": 381,
+    "chamber": "A",
+    "chamber_id": 73,
+    "name": "Rules"
+  },
+  "subjects": []
+}

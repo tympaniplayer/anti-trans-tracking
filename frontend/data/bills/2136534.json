@@ -1,0 +1,84 @@
+{
+  "id": 2136534,
+  "state": "RI",
+  "state_name": "Rhode Island",
+  "bill_number": "H8334",
+  "title": "Creates the Rhode Island voting rights act to establish procedures to prevent discrimination in the voting process.",
+  "summary": "ELECTIONS -- RHODE ISLAND VOTING RIGHTS ACT - Creates the Rhode Island voting rights act to establish procedures to prevent discrimination in the voting process.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/RI/bill/H8334/2026",
+  "legiscan_url": "https://legiscan.com/RI/bill/H8334/2026",
+  "state_url": "https://status.rilegislature.gov/",
+  "sponsors": [
+    "Katherine Kazarian (D) [Rep]",
+    "Evan Shanley (D) [Rep]",
+    "Kathleen Fogarty (D) [Rep]",
+    "John Edwards (D) [Rep]",
+    "Jenni Azanero Furtado (D) [Rep]",
+    "Mary Messier (D) [Rep]",
+    "Karen Alzate (D) [Rep]",
+    "Julie Casimiro (D) [Rep]",
+    "Jennifer Stewart (D) [Rep]",
+    "Jennifer Boylan (D) [Rep]"
+  ],
+  "introduced_date": "2026-03-20",
+  "session": "2026 Regular Session",
+  "actions": [
+    {
+      "date": "2026-03-20",
+      "action": "Introduced, referred to House State Government & Elections",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-20",
+      "action": "Scheduled for hearing and/or consideration",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-03-23",
+      "action": "Committee postponed at request of sponsor (03/26/2026)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-10",
+      "action": "Scheduled for hearing and/or consideration (04/16/2026)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-16",
+      "action": "Committee recommended measure be held for further study",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-03-20",
+      "type": "Introduced",
+      "url": "https://webserver.rilegislature.gov/BillText26/HouseText26/H8334.pdf",
+      "doc_id": 3400334
+    }
+  ],
+  "committee": {
+    "committee_id": 4422,
+    "chamber": "H",
+    "chamber_id": 83,
+    "name": "State Government & Elections"
+  },
+  "subjects": [
+    "Elections",
+    "ELECTIONS -- RHODE ISLAND VOTING RIGHTS ACT"
+  ]
+}

@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -57,7 +60,13 @@
     "Maureen Rowan (D) [Rep]",
     "Ed Rodriguez (D) [Rep]",
     "Jerry Walker (D) [Rep]",
-    "Anthony Angelozzi (D) [Rep]"
+    "Anthony Angelozzi (D) [Rep]",
+    "Marisa Sweeney (D) [Rep]",
+    "Larry Wainstein (D) [Rep]",
+    "Ravi Bhalla (D) [Rep]",
+    "Balvir Singh (D) [Rep]",
+    "Katie Brennan (D) [Rep]",
+    "Vincent Kearney (D) [Rep]"
   ],
   "introduced_date": "2026-01-13",
   "session": "2026-2027 Regular Session",

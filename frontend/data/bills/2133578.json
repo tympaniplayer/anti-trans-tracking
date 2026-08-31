@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -19,12 +22,14 @@
   "legiscan_url": "https://legiscan.com/RI/bill/S3107/2026",
   "state_url": "https://status.rilegislature.gov/",
   "sponsors": [
+    "Tiara Mack (D) [Sen]",
     "Matthew LaMountain (D) [Sen]",
     "Andrew Dimitri (D) [Sen]",
     "John Burke (D) [Sen]",
     "Walter Felag (D) [Sen]",
     "Mark McKenney (D) [Sen]",
-    "Jacob Bissaillon (D) [Sen]"
+    "Jacob Bissaillon (D) [Sen]",
+    "Dawn Euer (D) [Sen]"
   ],
   "introduced_date": "2026-03-13",
   "session": "2026 Regular Session",
@@ -33,9 +38,27 @@
       "date": "2026-03-13",
       "action": "Introduced, referred to Senate Judiciary",
       "chamber": "S"
+    },
+    {
+      "date": "2026-05-01",
+      "action": "Scheduled for hearing and/or consideration (05/07/2026)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-05-07",
+      "action": "Committee recommended measure be held for further study",
+      "chamber": "S"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-05-07",
+      "description": "Senate Committee on Judiciary: Be held for further study",
+      "yea": 9,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2026-03-13",

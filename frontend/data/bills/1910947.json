@@ -12,6 +12,9 @@
     "definitions"
   ],
   "primary_category": "definitions",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -32,7 +35,9 @@
     "Karines Reyes (D) [Rep]",
     "Anna Kelles (D) [Rep]",
     "Yudelka Tapia (D) [Rep]",
-    "Catalina Cruz (D) [Rep]"
+    "Catalina Cruz (D) [Rep]",
+    "Albert Stirpe (D) [Rep]",
+    "Maritza Davila (D) [Rep]"
   ],
   "introduced_date": "2025-01-10",
   "session": "2025-2026 General Assembly",

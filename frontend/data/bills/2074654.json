@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -19,7 +22,7 @@
   "legiscan_url": "https://legiscan.com/NJ/bill/S2692/2026",
   "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S2692",
   "sponsors": [
-    "Britnee Timberlake (D) [Sen]"
+    "Britnee Timberlake (D) [Rep]"
   ],
   "introduced_date": "2026-01-13",
   "session": "2026-2027 Regular Session",

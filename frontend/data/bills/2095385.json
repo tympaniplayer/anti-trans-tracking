@@ -5,13 +5,16 @@
   "bill_number": "HB573",
   "title": "Fair Housing and Housing Discrimination - Regulations, Intent, and Discriminatory Effect",
   "summary": "Authorizing the Department of Housing and Community Development to adopt certain regulations related to affirmatively furthering fair housing; providing that certain discriminatory housing practices may be committed without intent; prohibiting a person from acting in a certain manner that has a discriminatory effect; and providing that certain conduct necessary to achieve certain nondiscriminatory interests does not constitute a certain violation.",
-  "status": "passed_one_chamber",
-  "status_label": "Engrossed",
-  "status_code": 2,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "state",
   "last_action_date": "",
   "last_action": "",
@@ -40,7 +43,7 @@
     "Sarah Wolek (D) [Rep]",
     "Jamila Woods (D) [Rep]"
   ],
-  "introduced_date": "2026-03-12",
+  "introduced_date": "2026-05-26",
   "session": "2026 Regular Session",
   "actions": [
     {
@@ -72,9 +75,143 @@
       "date": "2026-03-13",
       "action": "Referred Judicial Proceedings",
       "chamber": "S"
+    },
+    {
+      "date": "2026-04-09",
+      "action": "Favorable with Amendments Report by Judicial Proceedings",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-09",
+      "action": "Favorable with Amendments {403024/1 Adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-09",
+      "action": "Second Reading Passed with Amendments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-09",
+      "action": "Motion Special Order until Later Today (Senator Augustine) Adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-09",
+      "action": "Third Reading Passed (29-11)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-11",
+      "action": "House Refuses Concur Senate Amendments",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-11",
+      "action": "House Requests Senate Recede",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-11",
+      "action": "House Conference Committee Appointed (Delegates Amprey, Charkoudian and Adams)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "House Refuses Concur Senate Amendments",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "House Requests Senate Recede",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "House Conference Committee Appointed (Delegates Amprey, Charkoudian and Adams)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Senate Refuses Recede",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Senate Conference Committee Appointed (Senators Sydnor, Henson and West)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Senate Refuses Recede",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Senate Conference Committee Appointed (Senators Sydnor, Henson and West)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Conference Committee Report {143424/1 Adopted",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Third Reading Passed (98-34)",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Conference Committee Report {143424/1 Adopted",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Third Reading Passed (33-12)",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-04-13",
+      "action": "Passed Enrolled",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-05-26",
+      "action": "Approved by the Governor - Chapter 778",
+      "chamber": "H"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-03-12",
+      "description": "Third Reading Passed",
+      "yea": 96,
+      "nay": 36,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-09",
+      "description": "Third Reading Passed",
+      "yea": 29,
+      "nay": 11,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-13",
+      "description": "Third Reading Passed",
+      "yea": 98,
+      "nay": 34,
+      "passed": 1
+    },
+    {
+      "date": "2026-04-13",
+      "description": "Third Reading Passed",
+      "yea": 33,
+      "nay": 12,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2026-01-28",
@@ -87,14 +224,21 @@
       "type": "Engrossed",
       "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0573t.pdf",
       "doc_id": 3391136
+    },
+    {
+      "date": "2026-04-14",
+      "type": "Enrolled",
+      "url": "https://mgaleg.maryland.gov/2026RS/bills/hb/hb0573e.pdf",
+      "doc_id": 3418567
+    },
+    {
+      "date": "2026-06-03",
+      "type": "Chaptered",
+      "url": "https://mgaleg.maryland.gov/2026RS/Chapters_noln/CH_778_hb0573e.pdf",
+      "doc_id": 3445308
     }
   ],
-  "committee": {
-    "committee_id": 1934,
-    "chamber": "S",
-    "chamber_id": 50,
-    "name": "Judicial Proceedings"
-  },
+  "committee": [],
   "subjects": [
     "Human Relations",
     "Housing and Community Development",

@@ -1,0 +1,93 @@
+{
+  "id": 2153010,
+  "state": "DC",
+  "state_name": "District of Columbia",
+  "bill_number": "CER26-0171",
+  "title": "LGBTQIA+ Pride Recognition Resolution of 2026",
+  "summary": "LGBTQIA+ Pride Recognition Resolution of 2026",
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/DC/bill/CER26-0171/2025",
+  "legiscan_url": "https://legiscan.com/DC/bill/CER26-0171/2025",
+  "state_url": "https://lims.dccouncil.gov/Legislation/CER26-0171",
+  "sponsors": [
+    "Zachary Parker (D) [Sen]",
+    "Brianne Nadeau (D) [Sen]",
+    "Janeese Lewis George (D) [Sen]",
+    "Christina Henderson (I) [Sen]",
+    "Matthew Frumin (D) [Sen]",
+    "Wendell Felder (D) [Sen]",
+    "Robert White (D) [Sen]",
+    "Anita Bonds (D) [Sen]",
+    "Charles Allen (D) [Sen]",
+    "Doni Crawford [Sen]",
+    "Brooke Pinto (D) [Sen]",
+    "Phil Mendelson (D) [Sen]",
+    "Trayon White (D) [Sen]"
+  ],
+  "introduced_date": "2026-06-09",
+  "session": "26th Council",
+  "actions": [
+    {
+      "date": "2026-06-04",
+      "action": "Introduced in Office of the Secretary",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-06-09",
+      "action": "Retained by the Council",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-06-09",
+      "action": "Final Reading, CC",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-06-09",
+      "action": "Approved with Resolution Number ACR26-0167",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-07-03",
+      "action": "Resolution ACR26-0167, Effective from Jun 09, 2026 Published in DC Register Vol 73 and Page 009259",
+      "chamber": "C"
+    }
+  ],
+  "votes": [
+    {
+      "date": "2026-06-09",
+      "description": "Final Reading, CC",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
+  "texts": [
+    {
+      "date": "2026-06-04",
+      "type": "Introduced",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/62024/Introduction/CER26-0171-Introduction.pdf",
+      "doc_id": 3445774
+    },
+    {
+      "date": "2026-06-09",
+      "type": "Enrolled",
+      "url": "https://lims.dccouncil.gov/downloads/LIMS/62024/Meeting1/Enrollment/CER26-0171-Enrollment1.pdf",
+      "doc_id": 3451619
+    }
+  ],
+  "committee": [],
+  "subjects": []
+}

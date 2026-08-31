@@ -1,0 +1,62 @@
+{
+  "id": 2152586,
+  "state": "NY",
+  "state_name": "New York",
+  "bill_number": "S10627",
+  "title": "Provides for instances in which a person or entity in the state of New York shall comply with or provide information in response to an inquiry, investigation, subpoena, or summons related to procedures for protections of legally protected health activities; adds that such disclosure requirements shall not apply to the disclosure of deidentified information in compliance with state grant reporting requirements or other reporting requirements under state law.",
+  "summary": "Provides for instances in which a person or entity in the state of New York shall comply with or provide information in response to an inquiry, investigation, subpoena, or summons related to procedures for protections of legally protected health activities; adds that such disclosure requirements shall not apply to the disclosure of deidentified information in compliance with state grant reporting requirements or other reporting requirements under state law.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/NY/bill/S10627/2025",
+  "legiscan_url": "https://legiscan.com/NY/bill/S10627/2025",
+  "state_url": "https://www.nysenate.gov/legislation/bills/2025/S10627",
+  "sponsors": [
+    "Shelley Mayer (D) [Sen]"
+  ],
+  "introduced_date": "2026-06-01",
+  "session": "2025-2026 General Assembly",
+  "actions": [
+    {
+      "date": "2026-06-01",
+      "action": "REFERRED TO RULES",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-04",
+      "action": "ORDERED TO THIRD READING CAL.1778",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-06-05",
+      "action": "RECOMMITTED TO RULES",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-06-01",
+      "type": "Introduced",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S10627&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S10627",
+      "doc_id": 3444040
+    }
+  ],
+  "committee": {
+    "committee_id": 439,
+    "chamber": "S",
+    "chamber_id": 74,
+    "name": "Rules"
+  },
+  "subjects": []
+}

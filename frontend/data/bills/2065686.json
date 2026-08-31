@@ -4,16 +4,16 @@
   "state_name": "California",
   "bill_number": "AB1540",
   "title": "988 Suicide & Crisis Lifeline: LGBTQ+ youth.",
-  "summary": "An act to add Section 53123.7 to the Government Code, relating to mental health, and declaring the urgency thereof, to take effect immediately.",
+  "summary": "An act to add Section 53123.8 to the Government Code, relating to mental health, and declaring the urgency thereof, to take effect immediately.",
   "status": "passed_one_chamber",
   "status_label": "Engrossed",
   "status_code": 2,
   "categories": [
-    "healthcare"
+    "other"
   ],
-  "primary_category": "healthcare",
-  "sentiment": "protective",
-  "sentiment_label": "Protective",
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
   "relevant": true,
   "level": "state",
   "last_action_date": "",
@@ -39,6 +39,7 @@
     "Steve Padilla (D) [Sen]",
     "Gail Pellerin (D) [Rep]",
     "Sasha Renee Perez (D) [Sen]",
+    "Susan Rubio (D) [Sen]",
     "Pilar Schiavo (D) [Rep]",
     "Jose Solache (D) [Rep]",
     "Catherine Stefani (D) [Rep]",
@@ -158,6 +159,31 @@
       "date": "2026-08-13",
       "action": "Read second time. Ordered to third reading.",
       "chamber": "S"
+    },
+    {
+      "date": "2026-08-27",
+      "action": "Read third time and amended. Ordered to second reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-28",
+      "action": "Read second time. Ordered to third reading.",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-30",
+      "action": "Read third time. Passed. Ordered to the Assembly. (Ayes 34. Noes 0.).",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-08-30",
+      "action": "In Assembly. Concurrence in Senate amendments pending.",
+      "chamber": "A"
+    },
+    {
+      "date": "2026-08-30",
+      "action": "Ordered to inactive file at the request of Assembly Member Mark Gonz\u00e1lez.",
+      "chamber": "A"
     }
   ],
   "votes": [
@@ -242,6 +268,12 @@
       "type": "Amended",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1540#96AMD",
       "doc_id": 3448425
+    },
+    {
+      "date": "2026-08-27",
+      "type": "Amended",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1540#95AMD",
+      "doc_id": 3457111
     }
   ],
   "committee": [],

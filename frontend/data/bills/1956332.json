@@ -12,6 +12,9 @@
     "other"
   ],
   "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
   "level": "federal",
   "last_action_date": "",
   "last_action": "",
@@ -38,7 +41,8 @@
     "Mike Crapo (R) [Sen]",
     "Ron Johnson (R) [Sen]",
     "Josh Hawley (R) [Sen]",
-    "Ted Budd (R) [Sen]"
+    "Ted Budd (R) [Sen]",
+    "Bernie Moreno (R) [Sen]"
   ],
   "introduced_date": "2025-02-04",
   "session": "119th Congress",
