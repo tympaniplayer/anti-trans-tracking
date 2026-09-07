@@ -3389,7 +3389,8 @@
       "Danny Davis (D) [Rep]",
       "Angela Craig (D) [Rep]",
       "Stephen Lynch (D) [Rep]",
-      "Kevin Mullin (D) [Rep]"
+      "Kevin Mullin (D) [Rep]",
+      "Zoe Lofgren (D) [Rep]"
     ],
     "introduced_date": "2025-06-04",
     "session": "119th Congress"
@@ -5600,7 +5601,11 @@
     "legiscan_url": "https://legiscan.com/US/bill/HR1385/2025",
     "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/1385/all-info",
     "sponsors": [
-      "Adelita Grijalva (D) [Rep]"
+      "Adelita Grijalva (D) [Rep]",
+      "Mary Gay Scanlon (D) [Rep]",
+      "Rashida Tlaib (D) [Rep]",
+      "Melanie Stansbury (D) [Rep]",
+      "Yvette Clarke (D) [Rep]"
     ],
     "introduced_date": "2026-06-24",
     "session": "119th Congress"
@@ -6024,6 +6029,37 @@
     "session": "119th Congress"
   },
   {
+    "id": 1974528,
+    "state": "CA",
+    "state_name": "California",
+    "bill_number": "SB418",
+    "title": "Health care coverage: prescription hormone therapy and nondiscrimination.",
+    "summary": "An act to add Section 4064.55 to the Business and Professions Code, to add Section 1367.0435 to, and to add and repeal Section 1367.253 of, the Health and Safety Code, to add Section 10133.135 to, and to add and repeal Section 10123.1963 of, the Insurance Code, and to add and repeal Section 14132.04 of the Welfare and Institutions Code, relating to health care coverage, and declaring the urgency thereof, to take effect immediately.",
+    "status": "vetoed",
+    "status_label": "Vetoed",
+    "status_code": 5,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/CA/bill/SB418/2025",
+    "legiscan_url": "https://legiscan.com/CA/bill/SB418/2025",
+    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB418",
+    "sponsors": [
+      "Caroline Menjivar (D) [Sen]",
+      "Mia Bonta (D) [Rep]",
+      "Sabrina Cervantes (D) [Sen]"
+    ],
+    "introduced_date": "2025-10-13",
+    "session": "2025-2026 Regular Session"
+  },
+  {
     "id": 2053681,
     "state": "NY",
     "state_name": "New York",
@@ -6081,37 +6117,6 @@
     ],
     "introduced_date": "2026-01-07",
     "session": "2025-2026 General Assembly"
-  },
-  {
-    "id": 1974528,
-    "state": "CA",
-    "state_name": "California",
-    "bill_number": "SB418",
-    "title": "Health care coverage: prescription hormone therapy and nondiscrimination.",
-    "summary": "An act to add Section 4064.55 to the Business and Professions Code, to add Section 1367.0435 to, and to add and repeal Section 1367.253 of, the Health and Safety Code, to add Section 10133.135 to, and to add and repeal Section 10123.1963 of, the Insurance Code, and to add and repeal Section 14132.04 of the Welfare and Institutions Code, relating to health care coverage, and declaring the urgency thereof, to take effect immediately.",
-    "status": "vetoed",
-    "status_label": "Vetoed",
-    "status_code": 5,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/CA/bill/SB418/2025",
-    "legiscan_url": "https://legiscan.com/CA/bill/SB418/2025",
-    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB418",
-    "sponsors": [
-      "Caroline Menjivar (D) [Sen]",
-      "Mia Bonta (D) [Rep]",
-      "Sabrina Cervantes (D) [Sen]"
-    ],
-    "introduced_date": "2025-10-13",
-    "session": "2025-2026 Regular Session"
   },
   {
     "id": 1961098,
@@ -7311,6 +7316,35 @@
     "session": "89th Legislature Regular Session"
   },
   {
+    "id": 2099047,
+    "state": "NJ",
+    "state_name": "New Jersey",
+    "bill_number": "A2314",
+    "title": "Establishes Advisory Commission on Advancing LGBTQIA+ Youth Equity and Inclusion in Schools.",
+    "summary": "Establishes Advisory Commission on Advancing LGBTQIA+ Youth Equity and Inclusion in Schools.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "education"
+    ],
+    "primary_category": "education",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NJ/bill/A2314/2026",
+    "legiscan_url": "https://legiscan.com/NJ/bill/A2314/2026",
+    "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A2314",
+    "sponsors": [
+      "Luanne Peterpaul (D) [Rep]"
+    ],
+    "introduced_date": "2026-01-13",
+    "session": "2026-2027 Regular Session"
+  },
+  {
     "id": 2110749,
     "state": "KS",
     "state_name": "Kansas",
@@ -7339,35 +7373,6 @@
     ],
     "introduced_date": "2026-02-06",
     "session": "2025-2026 Regular Session"
-  },
-  {
-    "id": 2099047,
-    "state": "NJ",
-    "state_name": "New Jersey",
-    "bill_number": "A2314",
-    "title": "Establishes Advisory Commission on Advancing LGBTQIA+ Youth Equity and Inclusion in Schools.",
-    "summary": "Establishes Advisory Commission on Advancing LGBTQIA+ Youth Equity and Inclusion in Schools.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "education"
-    ],
-    "primary_category": "education",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NJ/bill/A2314/2026",
-    "legiscan_url": "https://legiscan.com/NJ/bill/A2314/2026",
-    "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A2314",
-    "sponsors": [
-      "Luanne Peterpaul (D) [Rep]"
-    ],
-    "introduced_date": "2026-01-13",
-    "session": "2026-2027 Regular Session"
   },
   {
     "id": 1973669,
@@ -8229,7 +8234,11 @@
       "Julia Brownley (D) [Rep]",
       "Joe Courtney (D) [Rep]",
       "Robert Scott (D) [Rep]",
-      "Val Hoyle (D) [Rep]"
+      "Val Hoyle (D) [Rep]",
+      "Norma Torres (D) [Rep]",
+      "Analilia Mejia (D) [Rep]",
+      "Kim Schrier (D) [Rep]",
+      "Suzanne Lee (D) [Rep]"
     ],
     "introduced_date": "2025-09-17",
     "session": "119th Congress"
@@ -10157,35 +10166,6 @@
     "session": "2025-2026 General Assembly"
   },
   {
-    "id": 2122933,
-    "state": "LA",
-    "state_name": "Louisiana",
-    "bill_number": "HB293",
-    "title": "Provides relative to employment discrimination based on gender identity and sexual orientation",
-    "summary": "Provides relative to employment discrimination based on gender identity and sexual orientation",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/LA/bill/HB293/2026",
-    "legiscan_url": "https://legiscan.com/LA/bill/HB293/2026",
-    "state_url": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB293&sbi=y",
-    "sponsors": [
-      "Delisha Boyd (D) [Rep]"
-    ],
-    "introduced_date": "2026-02-24",
-    "session": "2026 Regular Session"
-  },
-  {
     "id": 1917494,
     "state": "NY",
     "state_name": "New York",
@@ -10213,6 +10193,35 @@
     ],
     "introduced_date": "2025-01-14",
     "session": "2025-2026 General Assembly"
+  },
+  {
+    "id": 2122933,
+    "state": "LA",
+    "state_name": "Louisiana",
+    "bill_number": "HB293",
+    "title": "Provides relative to employment discrimination based on gender identity and sexual orientation",
+    "summary": "Provides relative to employment discrimination based on gender identity and sexual orientation",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/LA/bill/HB293/2026",
+    "legiscan_url": "https://legiscan.com/LA/bill/HB293/2026",
+    "state_url": "https://www.legis.la.gov/legis/BillInfo.aspx?s=26rs&b=HB293&sbi=y",
+    "sponsors": [
+      "Delisha Boyd (D) [Rep]"
+    ],
+    "introduced_date": "2026-02-24",
+    "session": "2026 Regular Session"
   },
   {
     "id": 1993305,
@@ -11204,6 +11213,42 @@
     "session": "2025-2026 General Assembly"
   },
   {
+    "id": 2103948,
+    "state": "AZ",
+    "state_name": "Arizona",
+    "bill_number": "SB1753",
+    "title": "Employment; housing; public accommodations; antidiscrimination",
+    "summary": "Employment; housing; public accommodations; antidiscrimination",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/AZ/bill/SB1753/2026",
+    "legiscan_url": "https://legiscan.com/AZ/bill/SB1753/2026",
+    "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/85418",
+    "sponsors": [
+      "Lela Alston (D) [Sen]",
+      "Flavio Bravo (D) [Sen]",
+      "Eva Diaz (D) [Sen]",
+      "Theresa Hatathlie (D) [Sen]",
+      "Lauren Kuby (D) [Sen]",
+      "Catherine Miranda (D) [Sen]",
+      "Kiana Sears (D) [Sen]",
+      "Priya Sundareshan (D) [Sen]"
+    ],
+    "introduced_date": "2026-02-05",
+    "session": "Fifty-seventh Legislature - Second Regular Session (2026)"
+  },
+  {
     "id": 2141199,
     "state": "NY",
     "state_name": "New York",
@@ -11261,42 +11306,6 @@
     ],
     "introduced_date": "2026-05-11",
     "session": "2025-2026 General Assembly"
-  },
-  {
-    "id": 2103948,
-    "state": "AZ",
-    "state_name": "Arizona",
-    "bill_number": "SB1753",
-    "title": "Employment; housing; public accommodations; antidiscrimination",
-    "summary": "Employment; housing; public accommodations; antidiscrimination",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/AZ/bill/SB1753/2026",
-    "legiscan_url": "https://legiscan.com/AZ/bill/SB1753/2026",
-    "state_url": "https://apps.azleg.gov/BillStatus/BillOverview/85418",
-    "sponsors": [
-      "Lela Alston (D) [Sen]",
-      "Flavio Bravo (D) [Sen]",
-      "Eva Diaz (D) [Sen]",
-      "Theresa Hatathlie (D) [Sen]",
-      "Lauren Kuby (D) [Sen]",
-      "Catherine Miranda (D) [Sen]",
-      "Kiana Sears (D) [Sen]",
-      "Priya Sundareshan (D) [Sen]"
-    ],
-    "introduced_date": "2026-02-05",
-    "session": "Fifty-seventh Legislature - Second Regular Session (2026)"
   },
   {
     "id": 1999879,
@@ -13344,36 +13353,6 @@
     "session": "89th Legislature Regular Session"
   },
   {
-    "id": 2056957,
-    "state": "WA",
-    "state_name": "Washington",
-    "bill_number": "SB5830",
-    "title": "Clarifying hate crimes to include political affiliation.",
-    "summary": "Clarifying hate crimes to include political affiliation.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/WA/bill/SB5830/2025",
-    "legiscan_url": "https://legiscan.com/WA/bill/SB5830/2025",
-    "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5830&Year=2025&Initiative=false",
-    "sponsors": [
-      "Phil Fortunato (R) [Sen]",
-      "Jeff Holy (R) [Sen]"
-    ],
-    "introduced_date": "2026-01-12",
-    "session": "2025-2026 Regular Session"
-  },
-  {
     "id": 2048168,
     "state": "OK",
     "state_name": "Oklahoma",
@@ -13405,6 +13384,36 @@
     ],
     "introduced_date": "2026-05-11",
     "session": "2026 Regular Session"
+  },
+  {
+    "id": 2056957,
+    "state": "WA",
+    "state_name": "Washington",
+    "bill_number": "SB5830",
+    "title": "Clarifying hate crimes to include political affiliation.",
+    "summary": "Clarifying hate crimes to include political affiliation.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/WA/bill/SB5830/2025",
+    "legiscan_url": "https://legiscan.com/WA/bill/SB5830/2025",
+    "state_url": "https://app.leg.wa.gov/billsummary?BillNumber=5830&Year=2025&Initiative=false",
+    "sponsors": [
+      "Phil Fortunato (R) [Sen]",
+      "Jeff Holy (R) [Sen]"
+    ],
+    "introduced_date": "2026-01-12",
+    "session": "2025-2026 Regular Session"
   },
   {
     "id": 2056337,
@@ -14053,6 +14062,38 @@
     "session": "91st General Assembly"
   },
   {
+    "id": 2112390,
+    "state": "CA",
+    "state_name": "California",
+    "bill_number": "AB1784",
+    "title": "Postsecondary education: nondiscrimination: pregnancy or pregnancy-related issues.",
+    "summary": "An act to amend Sections 66251 and 66260.7 of, to amend and repeal Section 66281.7 of, and to add Sections 66260.8, 66261.6, 66262.3, 66281.75, and 66281.76 to, the Education Code, relating to postsecondary education.",
+    "status": "passed_both_chambers",
+    "status_label": "Enrolled",
+    "status_code": 3,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/CA/bill/AB1784/2025",
+    "legiscan_url": "https://legiscan.com/CA/bill/AB1784/2025",
+    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1784",
+    "sponsors": [
+      "Gail Pellerin (D) [Rep]",
+      "Sabrina Cervantes (D) [Sen]",
+      "Mike Fong (D) [Rep]",
+      "Lena Gonzalez (D) [Sen]"
+    ],
+    "introduced_date": "2026-08-20",
+    "session": "2025-2026 Regular Session"
+  },
+  {
     "id": 1999641,
     "state": "TX",
     "state_name": "Texas",
@@ -14109,38 +14150,6 @@
     ],
     "introduced_date": "2025-03-12",
     "session": "89th Legislature Regular Session"
-  },
-  {
-    "id": 2112390,
-    "state": "CA",
-    "state_name": "California",
-    "bill_number": "AB1784",
-    "title": "Postsecondary education: nondiscrimination: pregnancy or pregnancy-related issues.",
-    "summary": "An act to amend Sections 66251 and 66260.7 of, to amend and repeal Section 66281.7 of, and to add Sections 66260.8, 66261.6, 66262.3, 66281.75, and 66281.76 to, the Education Code, relating to postsecondary education.",
-    "status": "passed_both_chambers",
-    "status_label": "Enrolled",
-    "status_code": 3,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/CA/bill/AB1784/2025",
-    "legiscan_url": "https://legiscan.com/CA/bill/AB1784/2025",
-    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1784",
-    "sponsors": [
-      "Gail Pellerin (D) [Rep]",
-      "Sabrina Cervantes (D) [Sen]",
-      "Mike Fong (D) [Rep]",
-      "Lena Gonzalez (D) [Sen]"
-    ],
-    "introduced_date": "2026-08-20",
-    "session": "2025-2026 Regular Session"
   },
   {
     "id": 2039768,
@@ -15721,6 +15730,35 @@
     "session": "89th Legislature Regular Session"
   },
   {
+    "id": 2127780,
+    "state": "NJ",
+    "state_name": "New Jersey",
+    "bill_number": "S3796",
+    "title": "Prohibits juror disqualification based on gender identity or sexual orientation; codifies procedures when discriminatory use of peremptory challenges is alleged.",
+    "summary": "Prohibits juror disqualification based on gender identity or sexual orientation; codifies procedures when discriminatory use of peremptory challenges is alleged.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NJ/bill/S3796/2026",
+    "legiscan_url": "https://legiscan.com/NJ/bill/S3796/2026",
+    "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S3796",
+    "sponsors": [
+      "Teresa Ruiz (D) [Rep]"
+    ],
+    "introduced_date": "2026-03-05",
+    "session": "2026-2027 Regular Session"
+  },
+  {
     "id": 1890664,
     "state": "TX",
     "state_name": "Texas",
@@ -15752,35 +15790,6 @@
     ],
     "introduced_date": "2024-11-12",
     "session": "89th Legislature Regular Session"
-  },
-  {
-    "id": 2127780,
-    "state": "NJ",
-    "state_name": "New Jersey",
-    "bill_number": "S3796",
-    "title": "Prohibits juror disqualification based on gender identity or sexual orientation; codifies procedures when discriminatory use of peremptory challenges is alleged.",
-    "summary": "Prohibits juror disqualification based on gender identity or sexual orientation; codifies procedures when discriminatory use of peremptory challenges is alleged.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NJ/bill/S3796/2026",
-    "legiscan_url": "https://legiscan.com/NJ/bill/S3796/2026",
-    "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S3796",
-    "sponsors": [
-      "Teresa Ruiz (D) [Rep]"
-    ],
-    "introduced_date": "2026-03-05",
-    "session": "2026-2027 Regular Session"
   },
   {
     "id": 2093079,
@@ -16266,6 +16275,35 @@
     "session": "2025-2026 Regular Session"
   },
   {
+    "id": 1954653,
+    "state": "KS",
+    "state_name": "Kansas",
+    "bill_number": "HB2267",
+    "title": "Prohibiting certain licensed individuals from using conversion therapy on minors.",
+    "summary": "Prohibiting certain licensed individuals from using conversion therapy on minors.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "education"
+    ],
+    "primary_category": "education",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/KS/bill/HB2267/2025",
+    "legiscan_url": "https://legiscan.com/KS/bill/HB2267/2025",
+    "state_url": "https://kslegislature.gov/li/b2025_26/measures/hb2267/",
+    "sponsors": [
+      "Health and Human Services [Rep]"
+    ],
+    "introduced_date": "2025-02-04",
+    "session": "2025-2026 Regular Session"
+  },
+  {
     "id": 2069953,
     "state": "KS",
     "state_name": "Kansas",
@@ -16294,35 +16332,6 @@
       "Bob Lewis (R) [Rep]"
     ],
     "introduced_date": "2026-01-12",
-    "session": "2025-2026 Regular Session"
-  },
-  {
-    "id": 1954653,
-    "state": "KS",
-    "state_name": "Kansas",
-    "bill_number": "HB2267",
-    "title": "Prohibiting certain licensed individuals from using conversion therapy on minors.",
-    "summary": "Prohibiting certain licensed individuals from using conversion therapy on minors.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "education"
-    ],
-    "primary_category": "education",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/KS/bill/HB2267/2025",
-    "legiscan_url": "https://legiscan.com/KS/bill/HB2267/2025",
-    "state_url": "https://kslegislature.gov/li/b2025_26/measures/hb2267/",
-    "sponsors": [
-      "Health and Human Services [Rep]"
-    ],
-    "introduced_date": "2025-02-04",
     "session": "2025-2026 Regular Session"
   },
   {
@@ -19881,61 +19890,6 @@
     "session": "2025-2026 General Assembly"
   },
   {
-    "id": 1992525,
-    "state": "NY",
-    "state_name": "New York",
-    "bill_number": "A06470",
-    "title": "Prohibits discrimination against and harassment or bullying of students by employees or students on private, religious or denominational school property or at a school function; provides immunity from civil liability for a person making a good faith report of discrimination, harassment or bullying to authorities.",
-    "summary": "Prohibits discrimination against and harassment or bullying of students by employees or students on private, religious or denominational school property or at a school function; provides immunity from civil liability for a person making a good faith report of discrimination, harassment or bullying to authorities.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "education",
-      "religious_exemptions"
-    ],
-    "primary_category": "education",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NY/bill/A06470/2025",
-    "legiscan_url": "https://legiscan.com/NY/bill/A06470/2025",
-    "state_url": "https://www.nysenate.gov/legislation/bills/2025/A6470",
-    "sponsors": [
-      "Tony Simone (D) [Rep]",
-      "Rodneyse Bichotte Hermelyn (D) [Rep]",
-      "Alex Bores (D) [Rep]",
-      "Harry Bronson (D) [Rep]",
-      "William Conrad (D) [Rep]",
-      "Joseph DeStefano (R) [Rep]",
-      "Eddie Gibbs (D) [Rep]",
-      "Deborah Glick (D) [Rep]",
-      "Andrew Hevesi (D) [Rep]",
-      "Alicia Hyndman (D) [Rep]",
-      "Chantel Jackson (D) [Rep]",
-      "Ron Kim (D) [Rep]",
-      "Charles Lavine (D) [Rep]",
-      "David McDonough (R) [Rep]",
-      "Amy Paulin (D) [Rep]",
-      "Stacey Pheffer Amato (D) [Rep]",
-      "Steven Raga (D) [Rep]",
-      "Karines Reyes (D) [Rep]",
-      "Linda Rosenthal (D) [Rep]",
-      "Nader Sayegh (D) [Rep]",
-      "Rebecca Seawright (D) [Rep]",
-      "Jo Simon (D) [Rep]",
-      "Alfred Taylor (D) [Rep]",
-      "Mary Walsh (R) [Rep]",
-      "David Weprin (D) [Rep]",
-      "Carrie Woerner (D) [Rep]"
-    ],
-    "introduced_date": "2025-03-05",
-    "session": "2025-2026 General Assembly"
-  },
-  {
     "id": 2083495,
     "state": "AZ",
     "state_name": "Arizona",
@@ -19994,6 +19948,61 @@
     ],
     "introduced_date": "2026-06-12",
     "session": "Fifty-seventh Legislature - Second Regular Session (2026)"
+  },
+  {
+    "id": 1992525,
+    "state": "NY",
+    "state_name": "New York",
+    "bill_number": "A06470",
+    "title": "Prohibits discrimination against and harassment or bullying of students by employees or students on private, religious or denominational school property or at a school function; provides immunity from civil liability for a person making a good faith report of discrimination, harassment or bullying to authorities.",
+    "summary": "Prohibits discrimination against and harassment or bullying of students by employees or students on private, religious or denominational school property or at a school function; provides immunity from civil liability for a person making a good faith report of discrimination, harassment or bullying to authorities.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "education",
+      "religious_exemptions"
+    ],
+    "primary_category": "education",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NY/bill/A06470/2025",
+    "legiscan_url": "https://legiscan.com/NY/bill/A06470/2025",
+    "state_url": "https://www.nysenate.gov/legislation/bills/2025/A6470",
+    "sponsors": [
+      "Tony Simone (D) [Rep]",
+      "Rodneyse Bichotte Hermelyn (D) [Rep]",
+      "Alex Bores (D) [Rep]",
+      "Harry Bronson (D) [Rep]",
+      "William Conrad (D) [Rep]",
+      "Joseph DeStefano (R) [Rep]",
+      "Eddie Gibbs (D) [Rep]",
+      "Deborah Glick (D) [Rep]",
+      "Andrew Hevesi (D) [Rep]",
+      "Alicia Hyndman (D) [Rep]",
+      "Chantel Jackson (D) [Rep]",
+      "Ron Kim (D) [Rep]",
+      "Charles Lavine (D) [Rep]",
+      "David McDonough (R) [Rep]",
+      "Amy Paulin (D) [Rep]",
+      "Stacey Pheffer Amato (D) [Rep]",
+      "Steven Raga (D) [Rep]",
+      "Karines Reyes (D) [Rep]",
+      "Linda Rosenthal (D) [Rep]",
+      "Nader Sayegh (D) [Rep]",
+      "Rebecca Seawright (D) [Rep]",
+      "Jo Simon (D) [Rep]",
+      "Alfred Taylor (D) [Rep]",
+      "Mary Walsh (R) [Rep]",
+      "David Weprin (D) [Rep]",
+      "Carrie Woerner (D) [Rep]"
+    ],
+    "introduced_date": "2025-03-05",
+    "session": "2025-2026 General Assembly"
   },
   {
     "id": 1948330,
@@ -24834,43 +24843,6 @@
     "session": "2025-2026 Regular Session"
   },
   {
-    "id": 1891641,
-    "state": "TX",
-    "state_name": "Texas",
-    "bill_number": "HB437",
-    "title": "Relating to the placement of children in a detention or correctional facility according to biological sex.",
-    "summary": "Relating to the placement of children in a detention or correctional facility according to biological sex.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "bathrooms",
-      "education",
-      "definitions"
-    ],
-    "primary_category": "bathrooms",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/TX/bill/HB437/2025",
-    "legiscan_url": "https://legiscan.com/TX/bill/HB437/2025",
-    "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB437",
-    "sponsors": [
-      "Valoree Swanson (R) [Rep]",
-      "Cody Harris (R) [Rep]",
-      "Richard Hayes (R) [Rep]",
-      "Hillary Hickland (R) [Rep]",
-      "Carrie Isaac (R) [Rep]",
-      "Helen Kerwin (R) [Rep]",
-      "Joanne Shofner (R) [Rep]"
-    ],
-    "introduced_date": "2024-11-12",
-    "session": "89th Legislature Regular Session"
-  },
-  {
     "id": 1890533,
     "state": "TX",
     "state_name": "Texas",
@@ -24905,6 +24877,43 @@
       "Kevin Sparks (R) [Sen]"
     ],
     "introduced_date": "2025-04-24",
+    "session": "89th Legislature Regular Session"
+  },
+  {
+    "id": 1891641,
+    "state": "TX",
+    "state_name": "Texas",
+    "bill_number": "HB437",
+    "title": "Relating to the placement of children in a detention or correctional facility according to biological sex.",
+    "summary": "Relating to the placement of children in a detention or correctional facility according to biological sex.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "bathrooms",
+      "education",
+      "definitions"
+    ],
+    "primary_category": "bathrooms",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/TX/bill/HB437/2025",
+    "legiscan_url": "https://legiscan.com/TX/bill/HB437/2025",
+    "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=89R&Bill=HB437",
+    "sponsors": [
+      "Valoree Swanson (R) [Rep]",
+      "Cody Harris (R) [Rep]",
+      "Richard Hayes (R) [Rep]",
+      "Hillary Hickland (R) [Rep]",
+      "Carrie Isaac (R) [Rep]",
+      "Helen Kerwin (R) [Rep]",
+      "Joanne Shofner (R) [Rep]"
+    ],
+    "introduced_date": "2024-11-12",
     "session": "89th Legislature Regular Session"
   },
   {
@@ -26357,36 +26366,6 @@
     "session": "2026 Regular Regular Session"
   },
   {
-    "id": 1907377,
-    "state": "MI",
-    "state_name": "Michigan",
-    "bill_number": "SB0009",
-    "title": "Education: facilities; requirements concerning restrooms and other certain areas in public schools; modify. Amends 1976 PA 451 (MCL 380.1 - 380.1852) by adding sec. 1146a.",
-    "summary": "Education: facilities; requirements concerning restrooms and other certain areas in public schools; modify. Amends 1976 PA 451 (MCL 380.1 - 380.1852) by adding sec. 1146a.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "bathrooms",
-      "education"
-    ],
-    "primary_category": "bathrooms",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/MI/bill/SB0009/2025",
-    "legiscan_url": "https://legiscan.com/MI/bill/SB0009/2025",
-    "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0009",
-    "sponsors": [
-      "Joseph Bellino (R) [Sen]"
-    ],
-    "introduced_date": "2025-01-08",
-    "session": "103rd Legislature"
-  },
-  {
     "id": 1984917,
     "state": "TX",
     "state_name": "Texas",
@@ -26422,6 +26401,36 @@
     ],
     "introduced_date": "2025-02-26",
     "session": "89th Legislature Regular Session"
+  },
+  {
+    "id": 1907377,
+    "state": "MI",
+    "state_name": "Michigan",
+    "bill_number": "SB0009",
+    "title": "Education: facilities; requirements concerning restrooms and other certain areas in public schools; modify. Amends 1976 PA 451 (MCL 380.1 - 380.1852) by adding sec. 1146a.",
+    "summary": "Education: facilities; requirements concerning restrooms and other certain areas in public schools; modify. Amends 1976 PA 451 (MCL 380.1 - 380.1852) by adding sec. 1146a.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "bathrooms",
+      "education"
+    ],
+    "primary_category": "bathrooms",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/MI/bill/SB0009/2025",
+    "legiscan_url": "https://legiscan.com/MI/bill/SB0009/2025",
+    "state_url": "https://legislature.mi.gov/Bills/Bill?ObjectName=2025-SB-0009",
+    "sponsors": [
+      "Joseph Bellino (R) [Sen]"
+    ],
+    "introduced_date": "2025-01-08",
+    "session": "103rd Legislature"
   },
   {
     "id": 1941547,

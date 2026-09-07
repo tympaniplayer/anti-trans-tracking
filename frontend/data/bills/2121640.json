@@ -131,7 +131,7 @@
     },
     {
       "date": "2026-08-30",
-      "action": "Senate amendments concurred in. To Engrossing and Enrolling.",
+      "action": "Senate amendments concurred in. To Engrossing and Enrolling. (Ayes 60. Noes 15.).",
       "chamber": "A"
     }
   ],
@@ -170,6 +170,13 @@
       "yea": 30,
       "nay": 10,
       "passed": 1
+    },
+    {
+      "date": "2026-08-30",
+      "description": "AB 2563 Pacheco Concurrence in Senate Amendments",
+      "yea": 60,
+      "nay": 15,
+      "passed": 1
     }
   ],
   "texts": [
@@ -196,6 +203,12 @@
       "type": "Amended",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2563#96AMD",
       "doc_id": 3456566
+    },
+    {
+      "date": "2026-09-03",
+      "type": "Enrolled",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2563#95ENR",
+      "doc_id": 3457970
     }
   ],
   "committee": [],
