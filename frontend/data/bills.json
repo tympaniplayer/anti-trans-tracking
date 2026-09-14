@@ -1707,7 +1707,8 @@
       "Yvette Clarke (D) [Rep]",
       "Angela Craig (D) [Rep]",
       "Stephen Lynch (D) [Rep]",
-      "Sharice Davids (D) [Rep]"
+      "Sharice Davids (D) [Rep]",
+      "Elizabeth Fletcher (D) [Rep]"
     ],
     "introduced_date": "2025-03-31",
     "session": "119th Congress"
@@ -8238,7 +8239,8 @@
       "Norma Torres (D) [Rep]",
       "Analilia Mejia (D) [Rep]",
       "Kim Schrier (D) [Rep]",
-      "Suzanne Lee (D) [Rep]"
+      "Suzanne Lee (D) [Rep]",
+      "Jake Auchincloss (D) [Rep]"
     ],
     "introduced_date": "2025-09-17",
     "session": "119th Congress"
@@ -10825,43 +10827,6 @@
     "session": "2026 Regular Session"
   },
   {
-    "id": 2126094,
-    "state": "RI",
-    "state_name": "Rhode Island",
-    "bill_number": "H7940",
-    "title": "Amends unfair discrimination statutes to encompass more protected categories and protect against additional forms of discrimination.",
-    "summary": "INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES - Amends unfair discrimination statutes to encompass more protected categories and protect against additional forms of discrimination.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/RI/bill/H7940/2026",
-    "legiscan_url": "https://legiscan.com/RI/bill/H7940/2026",
-    "state_url": "https://status.rilegislature.gov/",
-    "sponsors": [
-      "Rebecca Kislak (D) [Rep]",
-      "Edith Ajello (D) [Rep]",
-      "Jason Knight (D) [Rep]",
-      "Brandon Potter (D) [Rep]",
-      "Joshua Giraldo (D) [Rep]",
-      "Terri-Denise Cortvriend (D) [Rep]",
-      "Justine Caldwell (D) [Rep]",
-      "Hagan McEntee (D) [Rep]",
-      "Teresa Tanzi (D) [Rep]"
-    ],
-    "introduced_date": "2026-02-27",
-    "session": "2026 Regular Session"
-  },
-  {
     "id": 2059371,
     "state": "PA",
     "state_name": "Pennsylvania",
@@ -10905,6 +10870,43 @@
     ],
     "introduced_date": "2026-04-28",
     "session": "2025-2026 Regular Session"
+  },
+  {
+    "id": 2126094,
+    "state": "RI",
+    "state_name": "Rhode Island",
+    "bill_number": "H7940",
+    "title": "Amends unfair discrimination statutes to encompass more protected categories and protect against additional forms of discrimination.",
+    "summary": "INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES - Amends unfair discrimination statutes to encompass more protected categories and protect against additional forms of discrimination.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/RI/bill/H7940/2026",
+    "legiscan_url": "https://legiscan.com/RI/bill/H7940/2026",
+    "state_url": "https://status.rilegislature.gov/",
+    "sponsors": [
+      "Rebecca Kislak (D) [Rep]",
+      "Edith Ajello (D) [Rep]",
+      "Jason Knight (D) [Rep]",
+      "Brandon Potter (D) [Rep]",
+      "Joshua Giraldo (D) [Rep]",
+      "Terri-Denise Cortvriend (D) [Rep]",
+      "Justine Caldwell (D) [Rep]",
+      "Hagan McEntee (D) [Rep]",
+      "Teresa Tanzi (D) [Rep]"
+    ],
+    "introduced_date": "2026-02-27",
+    "session": "2026 Regular Session"
   },
   {
     "id": 2055266,
@@ -14152,6 +14154,36 @@
     "session": "89th Legislature Regular Session"
   },
   {
+    "id": 1981888,
+    "state": "IA",
+    "state_name": "Iowa",
+    "bill_number": "HF583",
+    "title": "A bill for an act relating to sex and gender, including those and related terms for purposes of statutory construction, indications of a person's sex on certain vital records, gender identity under the Iowa civil rights Act, and school curricula related to gender theory.(Formerly HSB 242.)",
+    "summary": "A bill for an act relating to sex and gender, including those and related terms for purposes of statutory construction, indications of a person's sex on certain vital records, gender identity under the Iowa civil rights Act, and school curricula related to gender theory.(Formerly HSB 242.)",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "education",
+      "identity_documents"
+    ],
+    "primary_category": "education",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/IA/bill/HF583/2025",
+    "legiscan_url": "https://legiscan.com/IA/bill/HF583/2025",
+    "state_url": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF583",
+    "sponsors": [
+      "Judiciary [Rep]"
+    ],
+    "introduced_date": "2025-02-24",
+    "session": "91st General Assembly"
+  },
+  {
     "id": 2039768,
     "state": "WI",
     "state_name": "Wisconsin",
@@ -14304,36 +14336,6 @@
     ],
     "introduced_date": "2026-03-23",
     "session": "2025-2026 Regular Session"
-  },
-  {
-    "id": 1981888,
-    "state": "IA",
-    "state_name": "Iowa",
-    "bill_number": "HF583",
-    "title": "A bill for an act relating to sex and gender, including those and related terms for purposes of statutory construction, indications of a person's sex on certain vital records, gender identity under the Iowa civil rights Act, and school curricula related to gender theory.(Formerly HSB 242.)",
-    "summary": "A bill for an act relating to sex and gender, including those and related terms for purposes of statutory construction, indications of a person's sex on certain vital records, gender identity under the Iowa civil rights Act, and school curricula related to gender theory.(Formerly HSB 242.)",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "education",
-      "identity_documents"
-    ],
-    "primary_category": "education",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/IA/bill/HF583/2025",
-    "legiscan_url": "https://legiscan.com/IA/bill/HF583/2025",
-    "state_url": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF583",
-    "sponsors": [
-      "Judiciary [Rep]"
-    ],
-    "introduced_date": "2025-02-24",
-    "session": "91st General Assembly"
   },
   {
     "id": 2067626,
@@ -25725,7 +25727,8 @@
       "Sean Kean (R) [Rep]",
       "Victoria Flynn (R) [Rep]",
       "John Azzariti (R) [Rep]",
-      "Gregory Myhre (R) [Rep]"
+      "Gregory Myhre (R) [Rep]",
+      "Jay Webber (R) [Rep]"
     ],
     "introduced_date": "2026-01-13",
     "session": "2026-2027 Regular Session"
