@@ -1,0 +1,60 @@
+{
+  "id": 2158165,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB10363",
+  "title": "No Grounds for Discrimination Act",
+  "summary": "To prohibit discrimination in coffee shops, caf\u00e9s, tea houses, or other informal dining establishments on the ground of religion, race, color, sex, gender identity, sexual orientation, national origin, age, disability, genetic information, or veteran status, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB10363/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB10363/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/10363/all-info",
+  "sponsors": [
+    "Josh Gottheimer (D) [Rep]",
+    "Jared Moskowitz (D) [Rep]"
+  ],
+  "introduced_date": "2026-09-14",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-09-14",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-09-14",
+      "action": "Referred to the House Committee on the Judiciary.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-09-17",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr10363/BILLS-119hr10363ih.pdf",
+      "doc_id": 3458873
+    }
+  ],
+  "committee": {
+    "committee_id": 2309,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Judiciary"
+  },
+  "subjects": [
+    "Civil rights and liberties, minority issues"
+  ]
+}

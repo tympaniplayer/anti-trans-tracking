@@ -38,27 +38,27 @@
   "US": {
     "state": "US",
     "state_name": "Federal",
-    "total": 67,
+    "total": 68,
     "by_category": {
-      "other": 44,
+      "other": 45,
       "healthcare": 10,
       "education": 7,
       "sports": 6
     },
     "by_status": {
-      "introduced": 66,
+      "introduced": 67,
       "passed_one_chamber": 1
     },
     "by_sentiment": {
-      "neutral": 67
+      "neutral": 68
     }
   },
   "NJ": {
     "state": "NJ",
     "state_name": "New Jersey",
-    "total": 50,
+    "total": 51,
     "by_category": {
-      "other": 38,
+      "other": 39,
       "bathrooms": 3,
       "healthcare": 2,
       "education": 4,
@@ -66,12 +66,12 @@
       "sports": 2
     },
     "by_status": {
-      "introduced": 45,
+      "introduced": 46,
       "passed_one_chamber": 2,
       "dead": 3
     },
     "by_sentiment": {
-      "neutral": 50
+      "neutral": 51
     }
   },
   "NY": {

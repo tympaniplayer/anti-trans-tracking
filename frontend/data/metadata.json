@@ -1,9 +1,9 @@
 {
-  "last_updated": "2026-09-14T11:49:07.292492+00:00",
-  "total_bills": 733,
+  "last_updated": "2026-09-21T12:01:54.044817+00:00",
+  "total_bills": 735,
   "total_states": 47,
   "by_category": {
-    "other": 367,
+    "other": 369,
     "healthcare": 106,
     "education": 118,
     "definitions": 50,
@@ -14,17 +14,17 @@
   },
   "by_status": {
     "signed_into_law": 60,
-    "introduced": 551,
+    "introduced": 553,
     "passed_one_chamber": 51,
     "dead": 53,
     "passed_both_chambers": 7,
     "vetoed": 11
   },
   "by_level": {
-    "state": 666,
-    "federal": 67
+    "state": 667,
+    "federal": 68
   },
   "by_sentiment": {
-    "neutral": 733
+    "neutral": 735
   }
 }

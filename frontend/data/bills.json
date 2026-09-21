@@ -10827,6 +10827,43 @@
     "session": "2026 Regular Session"
   },
   {
+    "id": 2126094,
+    "state": "RI",
+    "state_name": "Rhode Island",
+    "bill_number": "H7940",
+    "title": "Amends unfair discrimination statutes to encompass more protected categories and protect against additional forms of discrimination.",
+    "summary": "INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES - Amends unfair discrimination statutes to encompass more protected categories and protect against additional forms of discrimination.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/RI/bill/H7940/2026",
+    "legiscan_url": "https://legiscan.com/RI/bill/H7940/2026",
+    "state_url": "https://status.rilegislature.gov/",
+    "sponsors": [
+      "Rebecca Kislak (D) [Rep]",
+      "Edith Ajello (D) [Rep]",
+      "Jason Knight (D) [Rep]",
+      "Brandon Potter (D) [Rep]",
+      "Joshua Giraldo (D) [Rep]",
+      "Terri-Denise Cortvriend (D) [Rep]",
+      "Justine Caldwell (D) [Rep]",
+      "Hagan McEntee (D) [Rep]",
+      "Teresa Tanzi (D) [Rep]"
+    ],
+    "introduced_date": "2026-02-27",
+    "session": "2026 Regular Session"
+  },
+  {
     "id": 2059371,
     "state": "PA",
     "state_name": "Pennsylvania",
@@ -10870,43 +10907,6 @@
     ],
     "introduced_date": "2026-04-28",
     "session": "2025-2026 Regular Session"
-  },
-  {
-    "id": 2126094,
-    "state": "RI",
-    "state_name": "Rhode Island",
-    "bill_number": "H7940",
-    "title": "Amends unfair discrimination statutes to encompass more protected categories and protect against additional forms of discrimination.",
-    "summary": "INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES - Amends unfair discrimination statutes to encompass more protected categories and protect against additional forms of discrimination.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/RI/bill/H7940/2026",
-    "legiscan_url": "https://legiscan.com/RI/bill/H7940/2026",
-    "state_url": "https://status.rilegislature.gov/",
-    "sponsors": [
-      "Rebecca Kislak (D) [Rep]",
-      "Edith Ajello (D) [Rep]",
-      "Jason Knight (D) [Rep]",
-      "Brandon Potter (D) [Rep]",
-      "Joshua Giraldo (D) [Rep]",
-      "Terri-Denise Cortvriend (D) [Rep]",
-      "Justine Caldwell (D) [Rep]",
-      "Hagan McEntee (D) [Rep]",
-      "Teresa Tanzi (D) [Rep]"
-    ],
-    "introduced_date": "2026-02-27",
-    "session": "2026 Regular Session"
   },
   {
     "id": 2055266,
@@ -14154,36 +14154,6 @@
     "session": "89th Legislature Regular Session"
   },
   {
-    "id": 1981888,
-    "state": "IA",
-    "state_name": "Iowa",
-    "bill_number": "HF583",
-    "title": "A bill for an act relating to sex and gender, including those and related terms for purposes of statutory construction, indications of a person's sex on certain vital records, gender identity under the Iowa civil rights Act, and school curricula related to gender theory.(Formerly HSB 242.)",
-    "summary": "A bill for an act relating to sex and gender, including those and related terms for purposes of statutory construction, indications of a person's sex on certain vital records, gender identity under the Iowa civil rights Act, and school curricula related to gender theory.(Formerly HSB 242.)",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "education",
-      "identity_documents"
-    ],
-    "primary_category": "education",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/IA/bill/HF583/2025",
-    "legiscan_url": "https://legiscan.com/IA/bill/HF583/2025",
-    "state_url": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF583",
-    "sponsors": [
-      "Judiciary [Rep]"
-    ],
-    "introduced_date": "2025-02-24",
-    "session": "91st General Assembly"
-  },
-  {
     "id": 2039768,
     "state": "WI",
     "state_name": "Wisconsin",
@@ -14336,6 +14306,36 @@
     ],
     "introduced_date": "2026-03-23",
     "session": "2025-2026 Regular Session"
+  },
+  {
+    "id": 1981888,
+    "state": "IA",
+    "state_name": "Iowa",
+    "bill_number": "HF583",
+    "title": "A bill for an act relating to sex and gender, including those and related terms for purposes of statutory construction, indications of a person's sex on certain vital records, gender identity under the Iowa civil rights Act, and school curricula related to gender theory.(Formerly HSB 242.)",
+    "summary": "A bill for an act relating to sex and gender, including those and related terms for purposes of statutory construction, indications of a person's sex on certain vital records, gender identity under the Iowa civil rights Act, and school curricula related to gender theory.(Formerly HSB 242.)",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "education",
+      "identity_documents"
+    ],
+    "primary_category": "education",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/IA/bill/HF583/2025",
+    "legiscan_url": "https://legiscan.com/IA/bill/HF583/2025",
+    "state_url": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF583",
+    "sponsors": [
+      "Judiciary [Rep]"
+    ],
+    "introduced_date": "2025-02-24",
+    "session": "91st General Assembly"
   },
   {
     "id": 2067626,
@@ -18021,6 +18021,36 @@
     ],
     "introduced_date": "2025-02-06",
     "session": "104th General Assembly"
+  },
+  {
+    "id": 2158165,
+    "state": "US",
+    "state_name": "Federal",
+    "bill_number": "HB10363",
+    "title": "No Grounds for Discrimination Act",
+    "summary": "To prohibit discrimination in coffee shops, caf\u00e9s, tea houses, or other informal dining establishments on the ground of religion, race, color, sex, gender identity, sexual orientation, national origin, age, disability, genetic information, or veteran status, and for other purposes.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "federal",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/US/bill/HB10363/2025",
+    "legiscan_url": "https://legiscan.com/US/bill/HB10363/2025",
+    "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/10363/all-info",
+    "sponsors": [
+      "Josh Gottheimer (D) [Rep]",
+      "Jared Moskowitz (D) [Rep]"
+    ],
+    "introduced_date": "2026-09-14",
+    "session": "119th Congress"
   },
   {
     "id": 2065681,
@@ -22028,6 +22058,35 @@
     "session": "94th Legislature 2025-2026"
   },
   {
+    "id": 2158059,
+    "state": "NJ",
+    "state_name": "New Jersey",
+    "bill_number": "A5496",
+    "title": "Regulates use of artificial intelligence in certain mortgage lending tools to minimize discrimination in lending.",
+    "summary": "Regulates use of artificial intelligence in certain mortgage lending tools to minimize discrimination in lending.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NJ/bill/A5496/2026",
+    "legiscan_url": "https://legiscan.com/NJ/bill/A5496/2026",
+    "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A5496",
+    "sponsors": [
+      "Maureen Rowan (D) [Rep]"
+    ],
+    "introduced_date": "2026-09-14",
+    "session": "2026-2027 Regular Session"
+  },
+  {
     "id": 2155421,
     "state": "US",
     "state_name": "Federal",
@@ -22131,7 +22190,8 @@
     "legiscan_url": "https://legiscan.com/NY/bill/A00768/2025",
     "state_url": "https://www.nysenate.gov/legislation/bills/2025/A768",
     "sponsors": [
-      "Alex Bores (D) [Rep]"
+      "Alex Bores (D) [Rep]",
+      "Emerita Torres (D) [Rep]"
     ],
     "introduced_date": "2025-01-08",
     "session": "2025-2026 General Assembly"
