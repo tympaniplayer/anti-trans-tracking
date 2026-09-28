@@ -10,11 +10,11 @@
       "bathrooms": 1
     },
     "by_status": {
-      "signed_into_law": 12,
+      "signed_into_law": 14,
       "dead": 2,
-      "passed_both_chambers": 7,
       "passed_one_chamber": 2,
       "vetoed": 1,
+      "passed_both_chambers": 5,
       "introduced": 5
     },
     "by_sentiment": {
@@ -38,19 +38,19 @@
   "US": {
     "state": "US",
     "state_name": "Federal",
-    "total": 68,
+    "total": 70,
     "by_category": {
-      "other": 45,
+      "other": 47,
       "healthcare": 10,
       "education": 7,
       "sports": 6
     },
     "by_status": {
-      "introduced": 67,
+      "introduced": 69,
       "passed_one_chamber": 1
     },
     "by_sentiment": {
-      "neutral": 68
+      "neutral": 70
     }
   },
   "NJ": {

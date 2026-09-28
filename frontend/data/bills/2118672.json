@@ -5,9 +5,9 @@
   "bill_number": "SB1114",
   "title": "Data collection: sexual orientation, gender identity, and intersex status: disclosure.",
   "summary": "An act to amend Sections 44230.6 and 66027 of the Education Code, and to amend Section 8310.8 of, and to add Section 8310.8.5 to, the Government Code, relating to data collection.",
-  "status": "passed_both_chambers",
-  "status_label": "Enrolled",
-  "status_code": 3,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "other"
   ],
@@ -25,7 +25,7 @@
     "Christopher Cabaldon (D) [Sen]",
     "Rick Zbur (D) [Rep]"
   ],
-  "introduced_date": "2026-08-26",
+  "introduced_date": "2026-09-26",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -176,6 +176,16 @@
     {
       "date": "2026-08-31",
       "action": "Enrolled and presented to the Governor at 6 p.m.",
+      "chamber": ""
+    },
+    {
+      "date": "2026-09-26",
+      "action": "Approved by the Governor.",
+      "chamber": ""
+    },
+    {
+      "date": "2026-09-26",
+      "action": "Chaptered by Secretary of State. Chapter 471, Statutes of 2026.",
       "chamber": ""
     }
   ],

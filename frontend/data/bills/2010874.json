@@ -3,8 +3,8 @@
   "state": "NY",
   "state_name": "New York",
   "bill_number": "S06636",
-  "title": "Suspends all unnecessary travel to states that have enacted a law that voids or repeals, or has the effect of voiding or repealing, existing state or local protections against discrimination on the basis of sexual orientation, gender identity, or gender expression or have enacted a law that authorizes or requires discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression, including any law that creates an exemption to antidiscrimination laws in order to permit discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression.",
-  "summary": "Suspends all unnecessary travel to states that have enacted a law that voids or repeals, or has the effect of voiding or repealing, existing state or local protections against discrimination on the basis of sexual orientation, gender identity, or gender expression or have enacted a law that authorizes or requires discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression, including any law that creates an exemption to antidiscrimination laws in order to permit discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression.",
+  "title": "Suspends all unnecessary travel to states that have enacted a law that voids or repeals, or has the effect of voiding or repealing, existing state or local protections against discrimination on the basis of sexual orientation, gender identity, or gender expression or have enacted a law that authorizes or requires discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression, including any law that creates an exemption to anti-discrimination laws in order to permit discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression.",
+  "summary": "Suspends all unnecessary travel to states that have enacted a law that voids or repeals, or has the effect of voiding or repealing, existing state or local protections against discrimination on the basis of sexual orientation, gender identity, or gender expression or have enacted a law that authorizes or requires discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression, including any law that creates an exemption to anti-discrimination laws in order to permit discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression.",
   "status": "introduced",
   "status_label": "Introduced",
   "status_code": 1,
@@ -41,6 +41,16 @@
       "date": "2026-01-07",
       "action": "REFERRED TO FINANCE",
       "chamber": "S"
+    },
+    {
+      "date": "2026-09-21",
+      "action": "AMEND AND RECOMMIT TO FINANCE",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-09-21",
+      "action": "PRINT NUMBER 6636A",
+      "chamber": "S"
     }
   ],
   "votes": [],
@@ -50,6 +60,12 @@
       "type": "Introduced",
       "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S06636&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S06636",
       "doc_id": 3181111
+    },
+    {
+      "date": "2025-03-19",
+      "type": "Amended",
+      "url": "https://assembly.state.ny.us/leg/?default_fld=&bn=S06636&term=2025&Summary=Y&Actions=Y&Text=Y&Committee%26nbspVotes=Y&Floor%26nbspVotes=Y#S06636A",
+      "doc_id": 3459392
     }
   ],
   "committee": {

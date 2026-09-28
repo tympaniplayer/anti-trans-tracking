@@ -505,7 +505,8 @@
       "Analilia Mejia (D) [Rep]",
       "Josh Gottheimer (D) [Rep]",
       "Angela Craig (D) [Rep]",
-      "Ro Khanna (D) [Rep]"
+      "Ro Khanna (D) [Rep]",
+      "Adriano Espaillat (D) [Rep]"
     ],
     "introduced_date": "2026-02-11",
     "session": "119th Congress"
@@ -1708,7 +1709,9 @@
       "Angela Craig (D) [Rep]",
       "Stephen Lynch (D) [Rep]",
       "Sharice Davids (D) [Rep]",
-      "Elizabeth Fletcher (D) [Rep]"
+      "Elizabeth Fletcher (D) [Rep]",
+      "Analilia Mejia (D) [Rep]",
+      "Adam Smith (D) [Rep]"
     ],
     "introduced_date": "2025-03-31",
     "session": "119th Congress"
@@ -2073,6 +2076,85 @@
     ],
     "introduced_date": "2026-08-10",
     "session": "2025-2026 Regular Session"
+  },
+  {
+    "id": 2158496,
+    "state": "US",
+    "state_name": "Federal",
+    "bill_number": "SR868",
+    "title": "A resolution recognizing September 20, 2026, as \"National LGBTQ+ Servicemembers and Veterans Day\".",
+    "summary": "A resolution recognizing September 20, 2026, as \"National LGBTQ+ Servicemembers and Veterans Day\".",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "federal",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/US/bill/SR868/2025",
+    "legiscan_url": "https://legiscan.com/US/bill/SR868/2025",
+    "state_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/868/all-info",
+    "sponsors": [
+      "Jeff Merkley (D) [Sen]",
+      "Tammy Baldwin (D) [Sen]",
+      "Richard Blumenthal (D) [Sen]",
+      "Cory Booker (D) [Sen]",
+      "Christopher Coons (D) [Sen]",
+      "Tammy Duckworth (D) [Sen]",
+      "John Fetterman (D) [Sen]",
+      "Kirsten Gillibrand (D) [Sen]",
+      "Mazie Hirono (D) [Sen]",
+      "Tim Kaine (D) [Sen]",
+      "Edward Markey (D) [Sen]",
+      "Patty Murray (D) [Sen]",
+      "Alex Padilla (D) [Sen]",
+      "Bernard Sanders (I) [Sen]",
+      "Brian Schatz (D) [Sen]",
+      "Adam Schiff (D) [Sen]",
+      "Tina Smith (D) [Sen]",
+      "Elizabeth Warren (D) [Sen]",
+      "Sheldon Whitehouse (D) [Sen]",
+      "Ron Wyden (D) [Sen]",
+      "Ben Lujan (D) [Sen]",
+      "Michael Bennet (D) [Sen]"
+    ],
+    "introduced_date": "2026-09-17",
+    "session": "119th Congress"
+  },
+  {
+    "id": 2158727,
+    "state": "US",
+    "state_name": "Federal",
+    "bill_number": "HR1572",
+    "title": "Encouraging the recognition of a \"National LGBTQ+ Servicemembers and Veterans Day\".",
+    "summary": "Encouraging the recognition of a \"National LGBTQ+ Servicemembers and Veterans Day\".",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "federal",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/US/bill/HR1572/2025",
+    "legiscan_url": "https://legiscan.com/US/bill/HR1572/2025",
+    "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/1572/all-info",
+    "sponsors": [
+      "Emily Randall (D) [Rep]"
+    ],
+    "introduced_date": "2026-09-21",
+    "session": "119th Congress"
   },
   {
     "id": 2017063,
@@ -2563,9 +2645,9 @@
     "bill_number": "SB1114",
     "title": "Data collection: sexual orientation, gender identity, and intersex status: disclosure.",
     "summary": "An act to amend Sections 44230.6 and 66027 of the Education Code, and to amend Section 8310.8 of, and to add Section 8310.8.5 to, the Government Code, relating to data collection.",
-    "status": "passed_both_chambers",
-    "status_label": "Enrolled",
-    "status_code": 3,
+    "status": "signed_into_law",
+    "status_label": "Passed",
+    "status_code": 4,
     "categories": [
       "other"
     ],
@@ -2583,7 +2665,7 @@
       "Christopher Cabaldon (D) [Sen]",
       "Rick Zbur (D) [Rep]"
     ],
-    "introduced_date": "2026-08-26",
+    "introduced_date": "2026-09-26",
     "session": "2025-2026 Regular Session"
   },
   {
@@ -3391,7 +3473,8 @@
       "Angela Craig (D) [Rep]",
       "Stephen Lynch (D) [Rep]",
       "Kevin Mullin (D) [Rep]",
-      "Zoe Lofgren (D) [Rep]"
+      "Zoe Lofgren (D) [Rep]",
+      "Robert Menendez (D) [Rep]"
     ],
     "introduced_date": "2025-06-04",
     "session": "119th Congress"
@@ -6030,6 +6113,36 @@
     "session": "119th Congress"
   },
   {
+    "id": 2053681,
+    "state": "NY",
+    "state_name": "New York",
+    "bill_number": "A09264",
+    "title": "Establishes a home care services bill of rights for patients of home care services agencies and certified home health agencies; requires training for staff and contractors of such agencies to eliminate certain discriminations; makes related provisions.",
+    "summary": "Establishes a home care services bill of rights for patients of home care services agencies and certified home health agencies; requires training for staff and contractors of such agencies to eliminate certain discriminations; makes related provisions.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NY/bill/A09264/2025",
+    "legiscan_url": "https://legiscan.com/NY/bill/A09264/2025",
+    "state_url": "https://www.nysenate.gov/legislation/bills/2025/A9264",
+    "sponsors": [
+      "Linda Rosenthal (D) [Rep]",
+      "Tony Simone (D) [Rep]"
+    ],
+    "introduced_date": "2025-11-21",
+    "session": "2025-2026 General Assembly"
+  },
+  {
     "id": 1974528,
     "state": "CA",
     "state_name": "California",
@@ -6059,36 +6172,6 @@
     ],
     "introduced_date": "2025-10-13",
     "session": "2025-2026 Regular Session"
-  },
-  {
-    "id": 2053681,
-    "state": "NY",
-    "state_name": "New York",
-    "bill_number": "A09264",
-    "title": "Establishes a home care services bill of rights for patients of home care services agencies and certified home health agencies; requires training for staff and contractors of such agencies to eliminate certain discriminations; makes related provisions.",
-    "summary": "Establishes a home care services bill of rights for patients of home care services agencies and certified home health agencies; requires training for staff and contractors of such agencies to eliminate certain discriminations; makes related provisions.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NY/bill/A09264/2025",
-    "legiscan_url": "https://legiscan.com/NY/bill/A09264/2025",
-    "state_url": "https://www.nysenate.gov/legislation/bills/2025/A9264",
-    "sponsors": [
-      "Linda Rosenthal (D) [Rep]",
-      "Tony Simone (D) [Rep]"
-    ],
-    "introduced_date": "2025-11-21",
-    "session": "2025-2026 General Assembly"
   },
   {
     "id": 2066511,
@@ -6155,9 +6238,9 @@
     "bill_number": "SB934",
     "title": "Sexual orientation or gender identity change efforts.",
     "summary": "An act to amend Sections 865, 865.1, and 865.2 of the Business and Professions Code, relating to sexual orientation or gender identity change efforts.",
-    "status": "passed_both_chambers",
-    "status_label": "Enrolled",
-    "status_code": 3,
+    "status": "signed_into_law",
+    "status_label": "Passed",
+    "status_code": 4,
     "categories": [
       "other"
     ],
@@ -6196,7 +6279,7 @@
       "Lori Wilson (D) [Rep]",
       "Rick Zbur (D) [Rep]"
     ],
-    "introduced_date": "2026-08-20",
+    "introduced_date": "2026-09-26",
     "session": "2025-2026 Regular Session"
   },
   {
@@ -8240,7 +8323,8 @@
       "Analilia Mejia (D) [Rep]",
       "Kim Schrier (D) [Rep]",
       "Suzanne Lee (D) [Rep]",
-      "Jake Auchincloss (D) [Rep]"
+      "Jake Auchincloss (D) [Rep]",
+      "Robert Menendez (D) [Rep]"
     ],
     "introduced_date": "2025-09-17",
     "session": "119th Congress"
@@ -11310,6 +11394,40 @@
     "session": "2025-2026 General Assembly"
   },
   {
+    "id": 2010874,
+    "state": "NY",
+    "state_name": "New York",
+    "bill_number": "S06636",
+    "title": "Suspends all unnecessary travel to states that have enacted a law that voids or repeals, or has the effect of voiding or repealing, existing state or local protections against discrimination on the basis of sexual orientation, gender identity, or gender expression or have enacted a law that authorizes or requires discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression, including any law that creates an exemption to anti-discrimination laws in order to permit discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression.",
+    "summary": "Suspends all unnecessary travel to states that have enacted a law that voids or repeals, or has the effect of voiding or repealing, existing state or local protections against discrimination on the basis of sexual orientation, gender identity, or gender expression or have enacted a law that authorizes or requires discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression, including any law that creates an exemption to anti-discrimination laws in order to permit discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "religious_exemptions"
+    ],
+    "primary_category": "religious_exemptions",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NY/bill/S06636/2025",
+    "legiscan_url": "https://legiscan.com/NY/bill/S06636/2025",
+    "state_url": "https://www.nysenate.gov/legislation/bills/2025/S6636",
+    "sponsors": [
+      "Robert Jackson (D) [Sen]",
+      "Jabari Brisport (D) [Sen]",
+      "Brad Hoylman-Sigal (D) [Sen]",
+      "Liz Krueger (D) [Sen]",
+      "Julia Salazar (D) [Sen]",
+      "Luis Sepulveda (D) [Sen]"
+    ],
+    "introduced_date": "2025-03-19",
+    "session": "2025-2026 General Assembly"
+  },
+  {
     "id": 1999879,
     "state": "KS",
     "state_name": "Kansas",
@@ -12906,40 +13024,6 @@
     ],
     "introduced_date": "2026-02-02",
     "session": "2026 Regular Session"
-  },
-  {
-    "id": 2010874,
-    "state": "NY",
-    "state_name": "New York",
-    "bill_number": "S06636",
-    "title": "Suspends all unnecessary travel to states that have enacted a law that voids or repeals, or has the effect of voiding or repealing, existing state or local protections against discrimination on the basis of sexual orientation, gender identity, or gender expression or have enacted a law that authorizes or requires discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression, including any law that creates an exemption to antidiscrimination laws in order to permit discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression.",
-    "summary": "Suspends all unnecessary travel to states that have enacted a law that voids or repeals, or has the effect of voiding or repealing, existing state or local protections against discrimination on the basis of sexual orientation, gender identity, or gender expression or have enacted a law that authorizes or requires discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression, including any law that creates an exemption to antidiscrimination laws in order to permit discrimination against same-sex couples or their families or on the basis of sexual orientation, gender identity, or gender expression.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "religious_exemptions"
-    ],
-    "primary_category": "religious_exemptions",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NY/bill/S06636/2025",
-    "legiscan_url": "https://legiscan.com/NY/bill/S06636/2025",
-    "state_url": "https://www.nysenate.gov/legislation/bills/2025/S6636",
-    "sponsors": [
-      "Robert Jackson (D) [Sen]",
-      "Jabari Brisport (D) [Sen]",
-      "Brad Hoylman-Sigal (D) [Sen]",
-      "Liz Krueger (D) [Sen]",
-      "Julia Salazar (D) [Sen]",
-      "Luis Sepulveda (D) [Sen]"
-    ],
-    "introduced_date": "2025-03-19",
-    "session": "2025-2026 General Assembly"
   },
   {
     "id": 2112615,

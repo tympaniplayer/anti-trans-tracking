@@ -1,0 +1,57 @@
+{
+  "id": 2158727,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HR1572",
+  "title": "Encouraging the recognition of a \"National LGBTQ+ Servicemembers and Veterans Day\".",
+  "summary": "Encouraging the recognition of a \"National LGBTQ+ Servicemembers and Veterans Day\".",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HR1572/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HR1572/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/1572/all-info",
+  "sponsors": [
+    "Emily Randall (D) [Rep]"
+  ],
+  "introduced_date": "2026-09-21",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-09-21",
+      "action": "Submitted in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-09-21",
+      "action": "Referred to the Committee on Armed Services, and in addition to the Committee on Veterans' Affairs, for a period to be subsequently determined by the Speaker, in each case for consideration of such provisions as fall within the jurisdiction of the committee concerned.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-09-22",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hres1572/BILLS-119hres1572ih.pdf",
+      "doc_id": 3459596
+    }
+  ],
+  "committee": {
+    "committee_id": 2299,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Armed Services"
+  },
+  "subjects": []
+}

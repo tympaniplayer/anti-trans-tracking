@@ -1,0 +1,78 @@
+{
+  "id": 2158496,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "SR868",
+  "title": "A resolution recognizing September 20, 2026, as \"National LGBTQ+ Servicemembers and Veterans Day\".",
+  "summary": "A resolution recognizing September 20, 2026, as \"National LGBTQ+ Servicemembers and Veterans Day\".",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/SR868/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/SR868/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/senate-resolution/868/all-info",
+  "sponsors": [
+    "Jeff Merkley (D) [Sen]",
+    "Tammy Baldwin (D) [Sen]",
+    "Richard Blumenthal (D) [Sen]",
+    "Cory Booker (D) [Sen]",
+    "Christopher Coons (D) [Sen]",
+    "Tammy Duckworth (D) [Sen]",
+    "John Fetterman (D) [Sen]",
+    "Kirsten Gillibrand (D) [Sen]",
+    "Mazie Hirono (D) [Sen]",
+    "Tim Kaine (D) [Sen]",
+    "Edward Markey (D) [Sen]",
+    "Patty Murray (D) [Sen]",
+    "Alex Padilla (D) [Sen]",
+    "Bernard Sanders (I) [Sen]",
+    "Brian Schatz (D) [Sen]",
+    "Adam Schiff (D) [Sen]",
+    "Tina Smith (D) [Sen]",
+    "Elizabeth Warren (D) [Sen]",
+    "Sheldon Whitehouse (D) [Sen]",
+    "Ron Wyden (D) [Sen]",
+    "Ben Lujan (D) [Sen]",
+    "Michael Bennet (D) [Sen]"
+  ],
+  "introduced_date": "2026-09-17",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-09-17",
+      "action": "Submitted in Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-09-17",
+      "action": "Referred to the Committee on Veterans' Affairs. (text: CR S4803-4804)",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-09-23",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/sres868/BILLS-119sres868is.pdf",
+      "doc_id": 3459731
+    }
+  ],
+  "committee": {
+    "committee_id": 2333,
+    "chamber": "S",
+    "chamber_id": 115,
+    "name": "Veterans' Affairs"
+  },
+  "subjects": []
+}
