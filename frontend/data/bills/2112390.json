@@ -5,9 +5,9 @@
   "bill_number": "AB1784",
   "title": "Postsecondary education: nondiscrimination: pregnancy or pregnancy-related issues.",
   "summary": "An act to amend Sections 66251 and 66260.7 of, to amend and repeal Section 66281.7 of, and to add Sections 66260.8, 66261.6, 66262.3, 66281.75, and 66281.76 to, the Education Code, relating to postsecondary education.",
-  "status": "passed_both_chambers",
-  "status_label": "Enrolled",
-  "status_code": 3,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "other"
   ],
@@ -27,7 +27,7 @@
     "Mike Fong (D) [Rep]",
     "Lena Gonzalez (D) [Sen]"
   ],
-  "introduced_date": "2026-08-20",
+  "introduced_date": "2026-09-30",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -154,6 +154,16 @@
       "date": "2026-08-27",
       "action": "Enrolled and presented to the Governor at 4 p.m.",
       "chamber": ""
+    },
+    {
+      "date": "2026-09-30",
+      "action": "Approved by the Governor.",
+      "chamber": ""
+    },
+    {
+      "date": "2026-09-30",
+      "action": "Chaptered by Secretary of State - Chapter 895, Statutes of 2026.",
+      "chamber": ""
     }
   ],
   "votes": [
@@ -264,6 +274,12 @@
       "type": "Enrolled",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1784#94ENR",
       "doc_id": 3456733
+    },
+    {
+      "date": "2026-09-30",
+      "type": "Chaptered",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1784#93CHP",
+      "doc_id": 3461141
     }
   ],
   "committee": [],

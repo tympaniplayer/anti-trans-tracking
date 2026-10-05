@@ -22,7 +22,19 @@
   "legiscan_url": "https://legiscan.com/US/bill/HR1572/2025",
   "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/1572/all-info",
   "sponsors": [
-    "Emily Randall (D) [Rep]"
+    "Emily Randall (D) [Rep]",
+    "Rosa DeLauro (D) [Rep]",
+    "Veronica Escobar (D) [Rep]",
+    "Ed Case (D) [Rep]",
+    "Ted Lieu (D) [Rep]",
+    "Sylvia Garcia (D) [Rep]",
+    "Valerie Foushee (D) [Rep]",
+    "Melanie Stansbury (D) [Rep]",
+    "Mike Quigley (D) [Rep]",
+    "Mark Takano (D) [Rep]",
+    "Raja Krishnamoorthi (D) [Rep]",
+    "Mark Pocan (D) [Rep]",
+    "Lateefah Simon (D) [Rep]"
   ],
   "introduced_date": "2026-09-21",
   "session": "119th Congress",
@@ -53,5 +65,7 @@
     "chamber_id": 114,
     "name": "Armed Services"
   },
-  "subjects": []
+  "subjects": [
+    "Armed forces and national security"
+  ]
 }

@@ -5,9 +5,9 @@
   "bill_number": "AB1876",
   "title": "Health care coverage: nondiscrimination.",
   "summary": "An act to add Section 1367.0435 to the Health and Safety Code, and to add Section 10133.135 to the Insurance Code, relating to health care coverage.",
-  "status": "passed_both_chambers",
-  "status_label": "Enrolled",
-  "status_code": 3,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "healthcare"
   ],
@@ -26,7 +26,7 @@
     "Mia Bonta (D) [Rep]",
     "Rick Zbur (D) [Rep]"
   ],
-  "introduced_date": "2026-08-25",
+  "introduced_date": "2026-09-30",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -123,6 +123,16 @@
       "date": "2026-08-31",
       "action": "Enrolled and presented to the Governor at 4 p.m.",
       "chamber": ""
+    },
+    {
+      "date": "2026-09-30",
+      "action": "Approved by the Governor.",
+      "chamber": ""
+    },
+    {
+      "date": "2026-09-30",
+      "action": "Chaptered by Secretary of State - Chapter 903, Statutes of 2026.",
+      "chamber": ""
     }
   ],
   "votes": [
@@ -188,6 +198,12 @@
       "type": "Enrolled",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1876#98ENR",
       "doc_id": 3457121
+    },
+    {
+      "date": "2026-09-30",
+      "type": "Chaptered",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB1876#97CHP",
+      "doc_id": 3461157
     }
   ],
   "committee": [],

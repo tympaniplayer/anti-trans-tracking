@@ -5,9 +5,9 @@
   "bill_number": "AB2563",
   "title": "Sex discrimination: scope.",
   "summary": "An act to add Section 14.3 to the Business and Professions Code, to amend Section 51 of, and to add Section 14.1 to, the Civil Code, to add Section 17.5 to the Code of Civil Procedure, to add Section 1207 to the Commercial Code, to add Section 12.4 to the Corporations Code, to add Sections 212.4 and 66262.4 to the Education Code, to add Section 353.7 to the Elections Code, to add Section 212 to the Evidence Code, to add Section 136 to the Family Code, to add Section 23 to the Financial Code, to add Section 9.4 to the Fish and Game Code, to add Section 52 to the Food and Agricultural Code, to amend Section 12926 of, and to add Section 27 to, the Government Code, to add Section 26 to the Harbors and Navigation Code, to add Section 29 to the Health and Safety Code, to add Section 49 to the Insurance Code, to add Section 12.3 to the Labor Code, to add Section 20 to the Military and Veterans Code, to add Section 5.5 to the Penal Code, to add Section 71 to the Probate Code, to add Section 1105 to the Public Contract Code, to add Section 19 to the Public Resources Code, to add Section 23 to the Public Utilities Code, to add Section 12.3 to the Revenue and Taxation Code, to add Section 37 to the Streets and Highways Code, to add Section 23 to the Unemployment Insurance Code, to add Section 552 to the Vehicle Code, to add Section 27 to the Water Code, and to add Section 28 to the Welfare and Institutions Code, relating to sex discrimination.",
-  "status": "passed_both_chambers",
-  "status_label": "Enrolled",
-  "status_code": 3,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "other"
   ],
@@ -26,7 +26,7 @@
     "Lisa Calderon (D) [Rep]",
     "Rick Zbur (D) [Rep]"
   ],
-  "introduced_date": "2026-08-30",
+  "introduced_date": "2026-09-30",
   "session": "2025-2026 Regular Session",
   "actions": [
     {
@@ -138,6 +138,16 @@
       "date": "2026-09-10",
       "action": "Enrolled and presented to the Governor at 3 p.m.",
       "chamber": ""
+    },
+    {
+      "date": "2026-09-30",
+      "action": "Approved by the Governor.",
+      "chamber": ""
+    },
+    {
+      "date": "2026-09-30",
+      "action": "Chaptered by Secretary of State - Chapter 952, Statutes of 2026.",
+      "chamber": ""
     }
   ],
   "votes": [
@@ -214,6 +224,12 @@
       "type": "Enrolled",
       "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2563#95ENR",
       "doc_id": 3457970
+    },
+    {
+      "date": "2026-09-30",
+      "type": "Chaptered",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260AB2563#94CHP",
+      "doc_id": 3461128
     }
   ],
   "committee": [],

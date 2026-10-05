@@ -2151,7 +2151,19 @@
     "legiscan_url": "https://legiscan.com/US/bill/HR1572/2025",
     "state_url": "https://www.congress.gov/bill/119th-congress/house-resolution/1572/all-info",
     "sponsors": [
-      "Emily Randall (D) [Rep]"
+      "Emily Randall (D) [Rep]",
+      "Rosa DeLauro (D) [Rep]",
+      "Veronica Escobar (D) [Rep]",
+      "Ed Case (D) [Rep]",
+      "Ted Lieu (D) [Rep]",
+      "Sylvia Garcia (D) [Rep]",
+      "Valerie Foushee (D) [Rep]",
+      "Melanie Stansbury (D) [Rep]",
+      "Mike Quigley (D) [Rep]",
+      "Mark Takano (D) [Rep]",
+      "Raja Krishnamoorthi (D) [Rep]",
+      "Mark Pocan (D) [Rep]",
+      "Lateefah Simon (D) [Rep]"
     ],
     "introduced_date": "2026-09-21",
     "session": "119th Congress"
@@ -3474,7 +3486,8 @@
       "Stephen Lynch (D) [Rep]",
       "Kevin Mullin (D) [Rep]",
       "Zoe Lofgren (D) [Rep]",
-      "Robert Menendez (D) [Rep]"
+      "Robert Menendez (D) [Rep]",
+      "Robert Garcia (D) [Rep]"
     ],
     "introduced_date": "2025-06-04",
     "session": "119th Congress"
@@ -6113,15 +6126,15 @@
     "session": "119th Congress"
   },
   {
-    "id": 2053681,
-    "state": "NY",
-    "state_name": "New York",
-    "bill_number": "A09264",
-    "title": "Establishes a home care services bill of rights for patients of home care services agencies and certified home health agencies; requires training for staff and contractors of such agencies to eliminate certain discriminations; makes related provisions.",
-    "summary": "Establishes a home care services bill of rights for patients of home care services agencies and certified home health agencies; requires training for staff and contractors of such agencies to eliminate certain discriminations; makes related provisions.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
+    "id": 2102399,
+    "state": "CA",
+    "state_name": "California",
+    "bill_number": "SB934",
+    "title": "Sexual orientation or gender identity change efforts.",
+    "summary": "An act to amend Sections 865, 865.1, and 865.2 of the Business and Professions Code, relating to sexual orientation or gender identity change efforts.",
+    "status": "signed_into_law",
+    "status_label": "Passed",
+    "status_code": 4,
     "categories": [
       "other"
     ],
@@ -6132,15 +6145,36 @@
     "level": "state",
     "last_action_date": "",
     "last_action": "",
-    "url": "https://legiscan.com/NY/bill/A09264/2025",
-    "legiscan_url": "https://legiscan.com/NY/bill/A09264/2025",
-    "state_url": "https://www.nysenate.gov/legislation/bills/2025/A9264",
+    "url": "https://legiscan.com/CA/bill/SB934/2025",
+    "legiscan_url": "https://legiscan.com/CA/bill/SB934/2025",
+    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB934",
     "sponsors": [
-      "Linda Rosenthal (D) [Rep]",
-      "Tony Simone (D) [Rep]"
+      "Scott Wiener (D) [Sen]",
+      "Alex Lee (D) [Rep]",
+      "Rebecca Bauer-Kahan (D) [Rep]",
+      "Mia Bonta (D) [Rep]",
+      "Christopher Cabaldon (D) [Sen]",
+      "Sabrina Cervantes (D) [Sen]",
+      "Maria Durazo (D) [Sen]",
+      "Sade Elhawary (D) [Rep]",
+      "Lena Gonzalez (D) [Sen]",
+      "Matt Haney (D) [Rep]",
+      "Corey Jackson (D) [Rep]",
+      "John Laird (D) [Sen]",
+      "Josh Lowenthal (D) [Rep]",
+      "Mark Gonzalez (D) [Rep]",
+      "Caroline Menjivar (D) [Sen]",
+      "Steve Padilla (D) [Sen]",
+      "Sasha Renee Perez (D) [Sen]",
+      "Lola Smallwood-Cuevas (D) [Sen]",
+      "Jose Solache (D) [Rep]",
+      "Aisha Wahab (D) [Sen]",
+      "Chris Ward (D) [Rep]",
+      "Lori Wilson (D) [Rep]",
+      "Rick Zbur (D) [Rep]"
     ],
-    "introduced_date": "2025-11-21",
-    "session": "2025-2026 General Assembly"
+    "introduced_date": "2026-09-26",
+    "session": "2025-2026 Regular Session"
   },
   {
     "id": 1974528,
@@ -6172,6 +6206,36 @@
     ],
     "introduced_date": "2025-10-13",
     "session": "2025-2026 Regular Session"
+  },
+  {
+    "id": 2053681,
+    "state": "NY",
+    "state_name": "New York",
+    "bill_number": "A09264",
+    "title": "Establishes a home care services bill of rights for patients of home care services agencies and certified home health agencies; requires training for staff and contractors of such agencies to eliminate certain discriminations; makes related provisions.",
+    "summary": "Establishes a home care services bill of rights for patients of home care services agencies and certified home health agencies; requires training for staff and contractors of such agencies to eliminate certain discriminations; makes related provisions.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NY/bill/A09264/2025",
+    "legiscan_url": "https://legiscan.com/NY/bill/A09264/2025",
+    "state_url": "https://www.nysenate.gov/legislation/bills/2025/A9264",
+    "sponsors": [
+      "Linda Rosenthal (D) [Rep]",
+      "Tony Simone (D) [Rep]"
+    ],
+    "introduced_date": "2025-11-21",
+    "session": "2025-2026 General Assembly"
   },
   {
     "id": 2066511,
@@ -6230,57 +6294,6 @@
     ],
     "introduced_date": "2025-02-06",
     "session": "104th General Assembly"
-  },
-  {
-    "id": 2102399,
-    "state": "CA",
-    "state_name": "California",
-    "bill_number": "SB934",
-    "title": "Sexual orientation or gender identity change efforts.",
-    "summary": "An act to amend Sections 865, 865.1, and 865.2 of the Business and Professions Code, relating to sexual orientation or gender identity change efforts.",
-    "status": "signed_into_law",
-    "status_label": "Passed",
-    "status_code": 4,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/CA/bill/SB934/2025",
-    "legiscan_url": "https://legiscan.com/CA/bill/SB934/2025",
-    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB934",
-    "sponsors": [
-      "Scott Wiener (D) [Sen]",
-      "Alex Lee (D) [Rep]",
-      "Rebecca Bauer-Kahan (D) [Rep]",
-      "Mia Bonta (D) [Rep]",
-      "Christopher Cabaldon (D) [Sen]",
-      "Sabrina Cervantes (D) [Sen]",
-      "Maria Durazo (D) [Sen]",
-      "Sade Elhawary (D) [Rep]",
-      "Lena Gonzalez (D) [Sen]",
-      "Matt Haney (D) [Rep]",
-      "Corey Jackson (D) [Rep]",
-      "John Laird (D) [Sen]",
-      "Josh Lowenthal (D) [Rep]",
-      "Mark Gonzalez (D) [Rep]",
-      "Caroline Menjivar (D) [Sen]",
-      "Steve Padilla (D) [Sen]",
-      "Sasha Renee Perez (D) [Sen]",
-      "Lola Smallwood-Cuevas (D) [Sen]",
-      "Jose Solache (D) [Rep]",
-      "Aisha Wahab (D) [Sen]",
-      "Chris Ward (D) [Rep]",
-      "Lori Wilson (D) [Rep]",
-      "Rick Zbur (D) [Rep]"
-    ],
-    "introduced_date": "2026-09-26",
-    "session": "2025-2026 Regular Session"
   },
   {
     "id": 1917468,
@@ -7564,6 +7577,37 @@
     "session": "2025-2026 General Assembly"
   },
   {
+    "id": 2116258,
+    "state": "CA",
+    "state_name": "California",
+    "bill_number": "AB1876",
+    "title": "Health care coverage: nondiscrimination.",
+    "summary": "An act to add Section 1367.0435 to the Health and Safety Code, and to add Section 10133.135 to the Insurance Code, relating to health care coverage.",
+    "status": "signed_into_law",
+    "status_label": "Passed",
+    "status_code": 4,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/CA/bill/AB1876/2025",
+    "legiscan_url": "https://legiscan.com/CA/bill/AB1876/2025",
+    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1876",
+    "sponsors": [
+      "Dawn Addis (D) [Rep]",
+      "Mia Bonta (D) [Rep]",
+      "Rick Zbur (D) [Rep]"
+    ],
+    "introduced_date": "2026-09-30",
+    "session": "2025-2026 Regular Session"
+  },
+  {
     "id": 1945358,
     "state": "US",
     "state_name": "Federal",
@@ -7697,46 +7741,15 @@
     "session": "119th Congress"
   },
   {
-    "id": 2116258,
-    "state": "CA",
-    "state_name": "California",
-    "bill_number": "AB1876",
-    "title": "Health care coverage: nondiscrimination.",
-    "summary": "An act to add Section 1367.0435 to the Health and Safety Code, and to add Section 10133.135 to the Insurance Code, relating to health care coverage.",
-    "status": "passed_both_chambers",
-    "status_label": "Enrolled",
-    "status_code": 3,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/CA/bill/AB1876/2025",
-    "legiscan_url": "https://legiscan.com/CA/bill/AB1876/2025",
-    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1876",
-    "sponsors": [
-      "Dawn Addis (D) [Rep]",
-      "Mia Bonta (D) [Rep]",
-      "Rick Zbur (D) [Rep]"
-    ],
-    "introduced_date": "2026-08-25",
-    "session": "2025-2026 Regular Session"
-  },
-  {
     "id": 2112406,
     "state": "CA",
     "state_name": "California",
     "bill_number": "SB998",
     "title": "Educational equity: discrimination prevention coordinators.",
     "summary": "An act to amend Sections 33803.2, 33803.3, 33803.4, and 33803.5 of, to add Sections 33802.1 and 33803.6 to, and to repeal Section 33803 of, the Education Code, relating to educational equity.",
-    "status": "passed_both_chambers",
-    "status_label": "Enrolled",
-    "status_code": 3,
+    "status": "signed_into_law",
+    "status_label": "Passed",
+    "status_code": 4,
     "categories": [
       "other"
     ],
@@ -7757,7 +7770,7 @@
       "Lena Gonzalez (D) [Sen]",
       "Akilah Weber Pierson (D) [Sen]"
     ],
-    "introduced_date": "2026-08-26",
+    "introduced_date": "2026-09-27",
     "session": "2025-2026 Regular Session"
   },
   {
@@ -7767,9 +7780,9 @@
     "bill_number": "AB1940",
     "title": "Unlawful practices: discrimination: menopause.",
     "summary": "An act to amend Section 51 of the Civil Code, and to amend Sections 12926 and 12950 of the Government Code, relating to civil rights.",
-    "status": "passed_both_chambers",
-    "status_label": "Enrolled",
-    "status_code": 3,
+    "status": "vetoed",
+    "status_label": "Vetoed",
+    "status_code": 5,
     "categories": [
       "other"
     ],
@@ -7799,7 +7812,7 @@
       "Pilar Schiavo (D) [Rep]",
       "Catherine Stefani (D) [Rep]"
     ],
-    "introduced_date": "2026-08-28",
+    "introduced_date": "2026-09-30",
     "session": "2025-2026 Regular Session"
   },
   {
@@ -8078,7 +8091,11 @@
       "Sarah McBride (D) [Rep]",
       "Adelita Grijalva (D) [Rep]",
       "Pramila Jayapal (D) [Rep]",
-      "Ayanna Pressley (D) [Rep]"
+      "Ayanna Pressley (D) [Rep]",
+      "Robert Garcia (D) [Rep]",
+      "Robert Menendez (D) [Rep]",
+      "Angela Craig (D) [Rep]",
+      "Troy Carter (D) [Rep]"
     ],
     "introduced_date": "2025-06-26",
     "session": "119th Congress"
@@ -11085,6 +11102,37 @@
     "session": "103rd Legislature"
   },
   {
+    "id": 2121640,
+    "state": "CA",
+    "state_name": "California",
+    "bill_number": "AB2563",
+    "title": "Sex discrimination: scope.",
+    "summary": "An act to add Section 14.3 to the Business and Professions Code, to amend Section 51 of, and to add Section 14.1 to, the Civil Code, to add Section 17.5 to the Code of Civil Procedure, to add Section 1207 to the Commercial Code, to add Section 12.4 to the Corporations Code, to add Sections 212.4 and 66262.4 to the Education Code, to add Section 353.7 to the Elections Code, to add Section 212 to the Evidence Code, to add Section 136 to the Family Code, to add Section 23 to the Financial Code, to add Section 9.4 to the Fish and Game Code, to add Section 52 to the Food and Agricultural Code, to amend Section 12926 of, and to add Section 27 to, the Government Code, to add Section 26 to the Harbors and Navigation Code, to add Section 29 to the Health and Safety Code, to add Section 49 to the Insurance Code, to add Section 12.3 to the Labor Code, to add Section 20 to the Military and Veterans Code, to add Section 5.5 to the Penal Code, to add Section 71 to the Probate Code, to add Section 1105 to the Public Contract Code, to add Section 19 to the Public Resources Code, to add Section 23 to the Public Utilities Code, to add Section 12.3 to the Revenue and Taxation Code, to add Section 37 to the Streets and Highways Code, to add Section 23 to the Unemployment Insurance Code, to add Section 552 to the Vehicle Code, to add Section 27 to the Water Code, and to add Section 28 to the Welfare and Institutions Code, relating to sex discrimination.",
+    "status": "signed_into_law",
+    "status_label": "Passed",
+    "status_code": 4,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/CA/bill/AB2563/2025",
+    "legiscan_url": "https://legiscan.com/CA/bill/AB2563/2025",
+    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2563",
+    "sponsors": [
+      "Blanca Pacheco (D) [Rep]",
+      "Lisa Calderon (D) [Rep]",
+      "Rick Zbur (D) [Rep]"
+    ],
+    "introduced_date": "2026-09-30",
+    "session": "2025-2026 Regular Session"
+  },
+  {
     "id": 2090942,
     "state": "KY",
     "state_name": "Kentucky",
@@ -11117,37 +11165,6 @@
     ],
     "introduced_date": "2026-01-22",
     "session": "2026 Regular Session"
-  },
-  {
-    "id": 2121640,
-    "state": "CA",
-    "state_name": "California",
-    "bill_number": "AB2563",
-    "title": "Sex discrimination: scope.",
-    "summary": "An act to add Section 14.3 to the Business and Professions Code, to amend Section 51 of, and to add Section 14.1 to, the Civil Code, to add Section 17.5 to the Code of Civil Procedure, to add Section 1207 to the Commercial Code, to add Section 12.4 to the Corporations Code, to add Sections 212.4 and 66262.4 to the Education Code, to add Section 353.7 to the Elections Code, to add Section 212 to the Evidence Code, to add Section 136 to the Family Code, to add Section 23 to the Financial Code, to add Section 9.4 to the Fish and Game Code, to add Section 52 to the Food and Agricultural Code, to amend Section 12926 of, and to add Section 27 to, the Government Code, to add Section 26 to the Harbors and Navigation Code, to add Section 29 to the Health and Safety Code, to add Section 49 to the Insurance Code, to add Section 12.3 to the Labor Code, to add Section 20 to the Military and Veterans Code, to add Section 5.5 to the Penal Code, to add Section 71 to the Probate Code, to add Section 1105 to the Public Contract Code, to add Section 19 to the Public Resources Code, to add Section 23 to the Public Utilities Code, to add Section 12.3 to the Revenue and Taxation Code, to add Section 37 to the Streets and Highways Code, to add Section 23 to the Unemployment Insurance Code, to add Section 552 to the Vehicle Code, to add Section 27 to the Water Code, and to add Section 28 to the Welfare and Institutions Code, relating to sex discrimination.",
-    "status": "passed_both_chambers",
-    "status_label": "Enrolled",
-    "status_code": 3,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/CA/bill/AB2563/2025",
-    "legiscan_url": "https://legiscan.com/CA/bill/AB2563/2025",
-    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2563",
-    "sponsors": [
-      "Blanca Pacheco (D) [Rep]",
-      "Lisa Calderon (D) [Rep]",
-      "Rick Zbur (D) [Rep]"
-    ],
-    "introduced_date": "2026-08-30",
-    "session": "2025-2026 Regular Session"
   },
   {
     "id": 2141162,
@@ -13092,35 +13109,6 @@
     "session": "2026 Regular Session"
   },
   {
-    "id": 1923366,
-    "state": "NE",
-    "state_name": "Nebraska",
-    "bill_number": "LB367",
-    "title": "Prohibit conversion therapy and provide for disciplinary sanctions and a deceptive trade practice",
-    "summary": "Prohibit conversion therapy and provide for disciplinary sanctions and a deceptive trade practice",
-    "status": "dead",
-    "status_label": "Failed",
-    "status_code": 6,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NE/bill/LB367/2025",
-    "legiscan_url": "https://legiscan.com/NE/bill/LB367/2025",
-    "state_url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59621",
-    "sponsors": [
-      "Megan Hunt (N) [Sen]"
-    ],
-    "introduced_date": "2026-04-17",
-    "session": "109th Legislature"
-  },
-  {
     "id": 2012612,
     "state": "NY",
     "state_name": "New York",
@@ -13150,6 +13138,35 @@
     ],
     "introduced_date": "2025-03-21",
     "session": "2025-2026 General Assembly"
+  },
+  {
+    "id": 1923366,
+    "state": "NE",
+    "state_name": "Nebraska",
+    "bill_number": "LB367",
+    "title": "Prohibit conversion therapy and provide for disciplinary sanctions and a deceptive trade practice",
+    "summary": "Prohibit conversion therapy and provide for disciplinary sanctions and a deceptive trade practice",
+    "status": "dead",
+    "status_label": "Failed",
+    "status_code": 6,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NE/bill/LB367/2025",
+    "legiscan_url": "https://legiscan.com/NE/bill/LB367/2025",
+    "state_url": "https://nebraskalegislature.gov/bills/view_bill.php?DocumentID=59621",
+    "sponsors": [
+      "Megan Hunt (N) [Sen]"
+    ],
+    "introduced_date": "2026-04-17",
+    "session": "109th Legislature"
   },
   {
     "id": 2047396,
@@ -14075,6 +14092,38 @@
     "session": "2025-2026 Regular Session"
   },
   {
+    "id": 2112390,
+    "state": "CA",
+    "state_name": "California",
+    "bill_number": "AB1784",
+    "title": "Postsecondary education: nondiscrimination: pregnancy or pregnancy-related issues.",
+    "summary": "An act to amend Sections 66251 and 66260.7 of, to amend and repeal Section 66281.7 of, and to add Sections 66260.8, 66261.6, 66262.3, 66281.75, and 66281.76 to, the Education Code, relating to postsecondary education.",
+    "status": "signed_into_law",
+    "status_label": "Passed",
+    "status_code": 4,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/CA/bill/AB1784/2025",
+    "legiscan_url": "https://legiscan.com/CA/bill/AB1784/2025",
+    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1784",
+    "sponsors": [
+      "Gail Pellerin (D) [Rep]",
+      "Sabrina Cervantes (D) [Sen]",
+      "Mike Fong (D) [Rep]",
+      "Lena Gonzalez (D) [Sen]"
+    ],
+    "introduced_date": "2026-09-30",
+    "session": "2025-2026 Regular Session"
+  },
+  {
     "id": 2026294,
     "state": "PA",
     "state_name": "Pennsylvania",
@@ -14148,38 +14197,6 @@
     "session": "91st General Assembly"
   },
   {
-    "id": 2112390,
-    "state": "CA",
-    "state_name": "California",
-    "bill_number": "AB1784",
-    "title": "Postsecondary education: nondiscrimination: pregnancy or pregnancy-related issues.",
-    "summary": "An act to amend Sections 66251 and 66260.7 of, to amend and repeal Section 66281.7 of, and to add Sections 66260.8, 66261.6, 66262.3, 66281.75, and 66281.76 to, the Education Code, relating to postsecondary education.",
-    "status": "passed_both_chambers",
-    "status_label": "Enrolled",
-    "status_code": 3,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/CA/bill/AB1784/2025",
-    "legiscan_url": "https://legiscan.com/CA/bill/AB1784/2025",
-    "state_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1784",
-    "sponsors": [
-      "Gail Pellerin (D) [Rep]",
-      "Sabrina Cervantes (D) [Sen]",
-      "Mike Fong (D) [Rep]",
-      "Lena Gonzalez (D) [Sen]"
-    ],
-    "introduced_date": "2026-08-20",
-    "session": "2025-2026 Regular Session"
-  },
-  {
     "id": 1999641,
     "state": "TX",
     "state_name": "Texas",
@@ -14236,6 +14253,36 @@
     ],
     "introduced_date": "2025-03-12",
     "session": "89th Legislature Regular Session"
+  },
+  {
+    "id": 1981888,
+    "state": "IA",
+    "state_name": "Iowa",
+    "bill_number": "HF583",
+    "title": "A bill for an act relating to sex and gender, including those and related terms for purposes of statutory construction, indications of a person's sex on certain vital records, gender identity under the Iowa civil rights Act, and school curricula related to gender theory.(Formerly HSB 242.)",
+    "summary": "A bill for an act relating to sex and gender, including those and related terms for purposes of statutory construction, indications of a person's sex on certain vital records, gender identity under the Iowa civil rights Act, and school curricula related to gender theory.(Formerly HSB 242.)",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "education",
+      "identity_documents"
+    ],
+    "primary_category": "education",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/IA/bill/HF583/2025",
+    "legiscan_url": "https://legiscan.com/IA/bill/HF583/2025",
+    "state_url": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF583",
+    "sponsors": [
+      "Judiciary [Rep]"
+    ],
+    "introduced_date": "2025-02-24",
+    "session": "91st General Assembly"
   },
   {
     "id": 2039768,
@@ -14390,36 +14437,6 @@
     ],
     "introduced_date": "2026-03-23",
     "session": "2025-2026 Regular Session"
-  },
-  {
-    "id": 1981888,
-    "state": "IA",
-    "state_name": "Iowa",
-    "bill_number": "HF583",
-    "title": "A bill for an act relating to sex and gender, including those and related terms for purposes of statutory construction, indications of a person's sex on certain vital records, gender identity under the Iowa civil rights Act, and school curricula related to gender theory.(Formerly HSB 242.)",
-    "summary": "A bill for an act relating to sex and gender, including those and related terms for purposes of statutory construction, indications of a person's sex on certain vital records, gender identity under the Iowa civil rights Act, and school curricula related to gender theory.(Formerly HSB 242.)",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "education",
-      "identity_documents"
-    ],
-    "primary_category": "education",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/IA/bill/HF583/2025",
-    "legiscan_url": "https://legiscan.com/IA/bill/HF583/2025",
-    "state_url": "https://www.legis.iowa.gov/legislation/BillBook?ga=91&ba=HF583",
-    "sponsors": [
-      "Judiciary [Rep]"
-    ],
-    "introduced_date": "2025-02-24",
-    "session": "91st General Assembly"
   },
   {
     "id": 2067626,
@@ -17022,6 +17039,38 @@
     "session": "2026 Regular Session"
   },
   {
+    "id": 2063731,
+    "state": "HI",
+    "state_name": "Hawaii",
+    "bill_number": "SB1010",
+    "title": "Relating To Sex-based Discrimination.",
+    "summary": "Clarifies and strengthens the State's protections against sex-based harassment, sex discrimination, and retaliation that occur in public schools, public charter schools, or at the University of Hawaii, including discrimination based on gender identity or expression, sexual orientation, pregnancy, and pregnancy-related conditions. Establishes procedures for investigations and decision-making. Requires mandatory reporting by certain employees.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "education"
+    ],
+    "primary_category": "education",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/HI/bill/SB1010/2026",
+    "legiscan_url": "https://legiscan.com/HI/bill/SB1010/2026",
+    "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1010&year=2026",
+    "sponsors": [
+      "Chris Lee (D) [Sen]",
+      "Stanley Chang (D) [Sen]",
+      "Carol Fukunaga (D) [Sen]",
+      "Angus McKelvey (D) [Sen]"
+    ],
+    "introduced_date": "2025-01-17",
+    "session": "2026 Regular Session"
+  },
+  {
     "id": 1997415,
     "state": "MA",
     "state_name": "Massachusetts",
@@ -17137,38 +17186,6 @@
       "Joe Vogel (D) [Rep]"
     ],
     "introduced_date": "2026-01-27",
-    "session": "2026 Regular Session"
-  },
-  {
-    "id": 2063731,
-    "state": "HI",
-    "state_name": "Hawaii",
-    "bill_number": "SB1010",
-    "title": "Relating To Sex-based Discrimination.",
-    "summary": "Clarifies and strengthens the State's protections against sex-based harassment, sex discrimination, and retaliation that occur in public schools, public charter schools, or at the University of Hawaii, including discrimination based on gender identity or expression, sexual orientation, pregnancy, and pregnancy-related conditions. Establishes procedures for investigations and decision-making. Requires mandatory reporting by certain employees.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "education"
-    ],
-    "primary_category": "education",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/HI/bill/SB1010/2026",
-    "legiscan_url": "https://legiscan.com/HI/bill/SB1010/2026",
-    "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1010&year=2026",
-    "sponsors": [
-      "Chris Lee (D) [Sen]",
-      "Stanley Chang (D) [Sen]",
-      "Carol Fukunaga (D) [Sen]",
-      "Angus McKelvey (D) [Sen]"
-    ],
-    "introduced_date": "2025-01-17",
     "session": "2026 Regular Session"
   },
   {
@@ -20858,6 +20875,36 @@
     "session": "153rd General Assembly"
   },
   {
+    "id": 2074632,
+    "state": "NJ",
+    "state_name": "New Jersey",
+    "bill_number": "S804",
+    "title": "Requires DHS to establish three-year Obstetric Discrimination Prevention and Mitigation Pilot Program.",
+    "summary": "Requires DHS to establish three-year Obstetric Discrimination Prevention and Mitigation Pilot Program.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NJ/bill/S804/2026",
+    "legiscan_url": "https://legiscan.com/NJ/bill/S804/2026",
+    "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S804",
+    "sponsors": [
+      "Robert Singer (R) [Rep]",
+      "Renee Burgess (D) [Sen]"
+    ],
+    "introduced_date": "2026-01-13",
+    "session": "2026-2027 Regular Session"
+  },
+  {
     "id": 1943536,
     "state": "TX",
     "state_name": "Texas",
@@ -21191,36 +21238,6 @@
     "session": "2025-2026 General Assembly"
   },
   {
-    "id": 2074632,
-    "state": "NJ",
-    "state_name": "New Jersey",
-    "bill_number": "S804",
-    "title": "Requires DHS to establish three-year Obstetric Discrimination Prevention and Mitigation Pilot Program.",
-    "summary": "Requires DHS to establish three-year Obstetric Discrimination Prevention and Mitigation Pilot Program.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NJ/bill/S804/2026",
-    "legiscan_url": "https://legiscan.com/NJ/bill/S804/2026",
-    "state_url": "https://www.njleg.state.nj.us/bill-search/2026/S804",
-    "sponsors": [
-      "Robert Singer (R) [Rep]",
-      "Renee Burgess (D) [Sen]"
-    ],
-    "introduced_date": "2026-01-13",
-    "session": "2026-2027 Regular Session"
-  },
-  {
     "id": 2150988,
     "state": "MI",
     "state_name": "Michigan",
@@ -21383,7 +21400,8 @@
       "Larinda Hooks (D) [Rep]",
       "Jo Simon (D) [Rep]",
       "William Colton (D) [Rep]",
-      "Diana Moreno (D) [Rep]"
+      "Diana Moreno (D) [Rep]",
+      "Alfred Taylor (D) [Rep]"
     ],
     "introduced_date": "2025-06-09",
     "session": "2025-2026 General Assembly"

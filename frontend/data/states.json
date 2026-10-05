@@ -10,11 +10,10 @@
       "bathrooms": 1
     },
     "by_status": {
-      "signed_into_law": 14,
+      "signed_into_law": 18,
       "dead": 2,
       "passed_one_chamber": 2,
-      "vetoed": 1,
-      "passed_both_chambers": 5,
+      "vetoed": 2,
       "introduced": 5
     },
     "by_sentiment": {
