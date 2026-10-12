@@ -1711,7 +1711,8 @@
       "Sharice Davids (D) [Rep]",
       "Elizabeth Fletcher (D) [Rep]",
       "Analilia Mejia (D) [Rep]",
-      "Adam Smith (D) [Rep]"
+      "Adam Smith (D) [Rep]",
+      "Brittany Pettersen (D) [Rep]"
     ],
     "introduced_date": "2025-03-31",
     "session": "119th Congress"
@@ -2163,7 +2164,8 @@
       "Mark Takano (D) [Rep]",
       "Raja Krishnamoorthi (D) [Rep]",
       "Mark Pocan (D) [Rep]",
-      "Lateefah Simon (D) [Rep]"
+      "Lateefah Simon (D) [Rep]",
+      "Frederica Wilson (D) [Rep]"
     ],
     "introduced_date": "2026-09-21",
     "session": "119th Congress"
@@ -3487,7 +3489,8 @@
       "Kevin Mullin (D) [Rep]",
       "Zoe Lofgren (D) [Rep]",
       "Robert Menendez (D) [Rep]",
-      "Robert Garcia (D) [Rep]"
+      "Robert Garcia (D) [Rep]",
+      "Brittany Pettersen (D) [Rep]"
     ],
     "introduced_date": "2025-06-04",
     "session": "119th Congress"
@@ -5247,7 +5250,8 @@
       "Harry Bronson (D) [Rep]",
       "Didi Barrett (D) [Rep]",
       "Brian Cunningham (D) [Rep]",
-      "Steven Otis (D) [Rep]"
+      "Steven Otis (D) [Rep]",
+      "Karen McMahon (D) [Rep]"
     ],
     "introduced_date": "2025-03-06",
     "session": "2025-2026 General Assembly"
@@ -9420,6 +9424,36 @@
     "session": "119th Congress"
   },
   {
+    "id": 2159999,
+    "state": "US",
+    "state_name": "Federal",
+    "bill_number": "HB10734",
+    "title": "Title IX Take Responsibility Act of 2026",
+    "summary": "To amend title IX of the Education Amendments of 1972 to establish standards of liability for harassment on the basis of sex, and for other purposes.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "sports"
+    ],
+    "primary_category": "sports",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "federal",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/US/bill/HB10734/2025",
+    "legiscan_url": "https://legiscan.com/US/bill/HB10734/2025",
+    "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/10734/all-info",
+    "sponsors": [
+      "Debbie Dingell (D) [Rep]",
+      "Jahana Hayes (D) [Rep]"
+    ],
+    "introduced_date": "2026-10-05",
+    "session": "119th Congress"
+  },
+  {
     "id": 2079094,
     "state": "VA",
     "state_name": "Virginia",
@@ -10928,43 +10962,6 @@
     "session": "2026 Regular Session"
   },
   {
-    "id": 2126094,
-    "state": "RI",
-    "state_name": "Rhode Island",
-    "bill_number": "H7940",
-    "title": "Amends unfair discrimination statutes to encompass more protected categories and protect against additional forms of discrimination.",
-    "summary": "INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES - Amends unfair discrimination statutes to encompass more protected categories and protect against additional forms of discrimination.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/RI/bill/H7940/2026",
-    "legiscan_url": "https://legiscan.com/RI/bill/H7940/2026",
-    "state_url": "https://status.rilegislature.gov/",
-    "sponsors": [
-      "Rebecca Kislak (D) [Rep]",
-      "Edith Ajello (D) [Rep]",
-      "Jason Knight (D) [Rep]",
-      "Brandon Potter (D) [Rep]",
-      "Joshua Giraldo (D) [Rep]",
-      "Terri-Denise Cortvriend (D) [Rep]",
-      "Justine Caldwell (D) [Rep]",
-      "Hagan McEntee (D) [Rep]",
-      "Teresa Tanzi (D) [Rep]"
-    ],
-    "introduced_date": "2026-02-27",
-    "session": "2026 Regular Session"
-  },
-  {
     "id": 2059371,
     "state": "PA",
     "state_name": "Pennsylvania",
@@ -11008,6 +11005,43 @@
     ],
     "introduced_date": "2026-04-28",
     "session": "2025-2026 Regular Session"
+  },
+  {
+    "id": 2126094,
+    "state": "RI",
+    "state_name": "Rhode Island",
+    "bill_number": "H7940",
+    "title": "Amends unfair discrimination statutes to encompass more protected categories and protect against additional forms of discrimination.",
+    "summary": "INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES - Amends unfair discrimination statutes to encompass more protected categories and protect against additional forms of discrimination.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/RI/bill/H7940/2026",
+    "legiscan_url": "https://legiscan.com/RI/bill/H7940/2026",
+    "state_url": "https://status.rilegislature.gov/",
+    "sponsors": [
+      "Rebecca Kislak (D) [Rep]",
+      "Edith Ajello (D) [Rep]",
+      "Jason Knight (D) [Rep]",
+      "Brandon Potter (D) [Rep]",
+      "Joshua Giraldo (D) [Rep]",
+      "Terri-Denise Cortvriend (D) [Rep]",
+      "Justine Caldwell (D) [Rep]",
+      "Hagan McEntee (D) [Rep]",
+      "Teresa Tanzi (D) [Rep]"
+    ],
+    "introduced_date": "2026-02-27",
+    "session": "2026 Regular Session"
   },
   {
     "id": 2055266,
@@ -21401,7 +21435,9 @@
       "Jo Simon (D) [Rep]",
       "William Colton (D) [Rep]",
       "Diana Moreno (D) [Rep]",
-      "Alfred Taylor (D) [Rep]"
+      "Alfred Taylor (D) [Rep]",
+      "Yudelka Tapia (D) [Rep]",
+      "Khaleel Anderson (D) [Rep]"
     ],
     "introduced_date": "2025-06-09",
     "session": "2025-2026 General Assembly"
@@ -22183,10 +22219,40 @@
     "legiscan_url": "https://legiscan.com/NJ/bill/A5496/2026",
     "state_url": "https://www.njleg.state.nj.us/bill-search/2026/A5496",
     "sponsors": [
-      "Maureen Rowan (D) [Rep]"
+      "Maureen Rowan (D) [Rep]",
+      "Michael Venezia (D) [Rep]"
     ],
     "introduced_date": "2026-09-14",
     "session": "2026-2027 Regular Session"
+  },
+  {
+    "id": 1917775,
+    "state": "NY",
+    "state_name": "New York",
+    "bill_number": "S01962",
+    "title": "Enacts the \"New York artificial intelligence consumer protection act\", in relation to preventing the use of artificial intelligence algorithms to discriminate against protected classes.",
+    "summary": "Enacts the \"New York artificial intelligence consumer protection act\", in relation to preventing the use of artificial intelligence algorithms to discriminate against protected classes.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NY/bill/S01962/2025",
+    "legiscan_url": "https://legiscan.com/NY/bill/S01962/2025",
+    "state_url": "https://www.nysenate.gov/legislation/bills/2025/S1962",
+    "sponsors": [
+      "Kristen Gonzalez (D) [Sen]"
+    ],
+    "introduced_date": "2025-01-14",
+    "session": "2025-2026 General Assembly"
   },
   {
     "id": 2155421,
@@ -22238,35 +22304,6 @@
     ],
     "introduced_date": "2026-07-02",
     "session": "119th Congress"
-  },
-  {
-    "id": 1917775,
-    "state": "NY",
-    "state_name": "New York",
-    "bill_number": "S01962",
-    "title": "Enacts the \"New York artificial intelligence consumer protection act\", in relation to preventing the use of artificial intelligence algorithms to discriminate against protected classes.",
-    "summary": "Enacts the \"New York artificial intelligence consumer protection act\", in relation to preventing the use of artificial intelligence algorithms to discriminate against protected classes.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NY/bill/S01962/2025",
-    "legiscan_url": "https://legiscan.com/NY/bill/S01962/2025",
-    "state_url": "https://www.nysenate.gov/legislation/bills/2025/S1962",
-    "sponsors": [
-      "Kristen Gonzalez (D) [Sen]"
-    ],
-    "introduced_date": "2025-01-14",
-    "session": "2025-2026 General Assembly"
   },
   {
     "id": 1902981,
