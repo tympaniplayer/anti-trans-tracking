@@ -1712,7 +1712,9 @@
       "Elizabeth Fletcher (D) [Rep]",
       "Analilia Mejia (D) [Rep]",
       "Adam Smith (D) [Rep]",
-      "Brittany Pettersen (D) [Rep]"
+      "Brittany Pettersen (D) [Rep]",
+      "Frederica Wilson (D) [Rep]",
+      "Richard Neal (D) [Rep]"
     ],
     "introduced_date": "2025-03-31",
     "session": "119th Congress"
@@ -3375,6 +3377,35 @@
     "session": "2025-2026 General Assembly"
   },
   {
+    "id": 2160232,
+    "state": "US",
+    "state_name": "Federal",
+    "bill_number": "HB10805",
+    "title": "Don\u2019t Block LGBTQ Act of 2026",
+    "summary": "To amend the Communications Act of 1934 to prohibit schools and public libraries that receive universal service support from blocking internet access to lesbian, gay, bisexual, transgender, and queer resources, and for other purposes.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "education"
+    ],
+    "primary_category": "education",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "federal",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/US/bill/HB10805/2025",
+    "legiscan_url": "https://legiscan.com/US/bill/HB10805/2025",
+    "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/10805/all-info",
+    "sponsors": [
+      "Bradley Schneider (D) [Rep]"
+    ],
+    "introduced_date": "2026-10-13",
+    "session": "119th Congress"
+  },
+  {
     "id": 2035643,
     "state": "US",
     "state_name": "Federal",
@@ -3490,7 +3521,9 @@
       "Zoe Lofgren (D) [Rep]",
       "Robert Menendez (D) [Rep]",
       "Robert Garcia (D) [Rep]",
-      "Brittany Pettersen (D) [Rep]"
+      "Brittany Pettersen (D) [Rep]",
+      "Richard Neal (D) [Rep]",
+      "Frederica Wilson (D) [Rep]"
     ],
     "introduced_date": "2025-06-04",
     "session": "119th Congress"
@@ -5706,7 +5739,8 @@
       "Mary Gay Scanlon (D) [Rep]",
       "Rashida Tlaib (D) [Rep]",
       "Melanie Stansbury (D) [Rep]",
-      "Yvette Clarke (D) [Rep]"
+      "Yvette Clarke (D) [Rep]",
+      "Raja Krishnamoorthi (D) [Rep]"
     ],
     "introduced_date": "2026-06-24",
     "session": "119th Congress"
@@ -9418,7 +9452,11 @@
       "Nikema Williams (D) [Rep]",
       "Jared Huffman (D) [Rep]",
       "Troy Carter (D) [Rep]",
-      "Mark DeSaulnier (D) [Rep]"
+      "Mark DeSaulnier (D) [Rep]",
+      "Nellie Pou (D) [Rep]",
+      "Sydney Kamlager-Dove (D) [Rep]",
+      "Emanuel Cleaver (D) [Rep]",
+      "Glenn Ivey (D) [Rep]"
     ],
     "introduced_date": "2026-06-24",
     "session": "119th Congress"
@@ -9482,7 +9520,7 @@
       "Delores Oates (R) [Rep]"
     ],
     "introduced_date": "2026-01-14",
-    "session": "2026 Regular Regular Session"
+    "session": "2026 Regular Session"
   },
   {
     "id": 2086872,
@@ -9513,7 +9551,7 @@
       "Tara Durant (R) [Sen]"
     ],
     "introduced_date": "2026-01-14",
-    "session": "2026 Regular Regular Session"
+    "session": "2026 Regular Session"
   },
   {
     "id": 1947803,
@@ -10923,7 +10961,7 @@
       "Amy Laufer (D) [Rep]"
     ],
     "introduced_date": "2026-04-13",
-    "session": "2026 Regular Regular Session"
+    "session": "2026 Regular Session"
   },
   {
     "id": 2133578,
@@ -13697,35 +13735,6 @@
     "session": "2026 Regular Session"
   },
   {
-    "id": 1953649,
-    "state": "NY",
-    "state_name": "New York",
-    "bill_number": "A04427",
-    "title": "Prohibits the use of external consumer data and information sources being used when determining insurance rates; provides that no insurer shall unfairly discriminate based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; or use any external consumer data and information sources, as well as any algorithms or predictive models that use external consumer data and information sources, in a way that unfairly discriminates based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; makes related provisions; defines terms.",
-    "summary": "Prohibits the use of external consumer data and information sources being used when determining insurance rates; provides that no insurer shall unfairly discriminate based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; or use any external consumer data and information sources, as well as any algorithms or predictive models that use external consumer data and information sources, in a way that unfairly discriminates based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; makes related provisions; defines terms.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "definitions"
-    ],
-    "primary_category": "definitions",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NY/bill/A04427/2025",
-    "legiscan_url": "https://legiscan.com/NY/bill/A04427/2025",
-    "state_url": "https://www.nysenate.gov/legislation/bills/2025/A4427",
-    "sponsors": [
-      "Brian Cunningham (D) [Rep]"
-    ],
-    "introduced_date": "2025-02-04",
-    "session": "2025-2026 General Assembly"
-  },
-  {
     "id": 2069794,
     "state": "FL",
     "state_name": "Florida",
@@ -13755,6 +13764,35 @@
     ],
     "introduced_date": "2026-03-13",
     "session": "2026 Regular Session"
+  },
+  {
+    "id": 1953649,
+    "state": "NY",
+    "state_name": "New York",
+    "bill_number": "A04427",
+    "title": "Prohibits the use of external consumer data and information sources being used when determining insurance rates; provides that no insurer shall unfairly discriminate based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; or use any external consumer data and information sources, as well as any algorithms or predictive models that use external consumer data and information sources, in a way that unfairly discriminates based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; makes related provisions; defines terms.",
+    "summary": "Prohibits the use of external consumer data and information sources being used when determining insurance rates; provides that no insurer shall unfairly discriminate based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; or use any external consumer data and information sources, as well as any algorithms or predictive models that use external consumer data and information sources, in a way that unfairly discriminates based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; makes related provisions; defines terms.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "definitions"
+    ],
+    "primary_category": "definitions",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NY/bill/A04427/2025",
+    "legiscan_url": "https://legiscan.com/NY/bill/A04427/2025",
+    "state_url": "https://www.nysenate.gov/legislation/bills/2025/A4427",
+    "sponsors": [
+      "Brian Cunningham (D) [Rep]"
+    ],
+    "introduced_date": "2025-02-04",
+    "session": "2025-2026 General Assembly"
   },
   {
     "id": 2090855,
@@ -15640,7 +15678,7 @@
       "Joshua Cole (D) [Rep]"
     ],
     "introduced_date": "2026-01-14",
-    "session": "2026 Regular Regular Session"
+    "session": "2026 Regular Session"
   },
   {
     "id": 2013126,
@@ -16971,7 +17009,7 @@
       "Kannan Srinivasan (D) [Sen]"
     ],
     "introduced_date": "2026-04-22",
-    "session": "2026 Regular Regular Session"
+    "session": "2026 Regular Session"
   },
   {
     "id": 2116128,
@@ -17105,6 +17143,44 @@
     "session": "2026 Regular Session"
   },
   {
+    "id": 2062009,
+    "state": "HI",
+    "state_name": "Hawaii",
+    "bill_number": "HB758",
+    "title": "Relating To Sex-based Discrimination.",
+    "summary": "Clarifies and strengthens the State's protections against sex-based harassment, sex discrimination, and retaliation that occur in public schools, public charter schools, or at the University of Hawaii, including discrimination based on gender identity or expression, sexual orientation, pregnancy, and pregnancy-related conditions. Establishes procedures for investigations and decision-making. Requires mandatory reporting by certain employees.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "education"
+    ],
+    "primary_category": "education",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/HI/bill/HB758/2026",
+    "legiscan_url": "https://legiscan.com/HI/bill/HB758/2026",
+    "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=758&year=2026",
+    "sponsors": [
+      "Amy Perruso (D) [Rep]",
+      "Terez Amato (D) [Rep]",
+      "Della au Belatti (D) [Rep]",
+      "Tina Grandinetti (D) [Rep]",
+      "Kim Iwamoto (D) [Rep]",
+      "Lisa Marten (D) [Rep]",
+      "Daynette Morikawa (D) [Rep]",
+      "Mahina Poepoe (D) [Rep]",
+      "David Tarnas (D) [Rep]",
+      "Chris Todd (D) [Rep]"
+    ],
+    "introduced_date": "2025-01-21",
+    "session": "2026 Regular Session"
+  },
+  {
     "id": 1997415,
     "state": "MA",
     "state_name": "Massachusetts",
@@ -17220,44 +17296,6 @@
       "Joe Vogel (D) [Rep]"
     ],
     "introduced_date": "2026-01-27",
-    "session": "2026 Regular Session"
-  },
-  {
-    "id": 2062009,
-    "state": "HI",
-    "state_name": "Hawaii",
-    "bill_number": "HB758",
-    "title": "Relating To Sex-based Discrimination.",
-    "summary": "Clarifies and strengthens the State's protections against sex-based harassment, sex discrimination, and retaliation that occur in public schools, public charter schools, or at the University of Hawaii, including discrimination based on gender identity or expression, sexual orientation, pregnancy, and pregnancy-related conditions. Establishes procedures for investigations and decision-making. Requires mandatory reporting by certain employees.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "education"
-    ],
-    "primary_category": "education",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/HI/bill/HB758/2026",
-    "legiscan_url": "https://legiscan.com/HI/bill/HB758/2026",
-    "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=758&year=2026",
-    "sponsors": [
-      "Amy Perruso (D) [Rep]",
-      "Terez Amato (D) [Rep]",
-      "Della au Belatti (D) [Rep]",
-      "Tina Grandinetti (D) [Rep]",
-      "Kim Iwamoto (D) [Rep]",
-      "Lisa Marten (D) [Rep]",
-      "Daynette Morikawa (D) [Rep]",
-      "Mahina Poepoe (D) [Rep]",
-      "David Tarnas (D) [Rep]",
-      "Chris Todd (D) [Rep]"
-    ],
-    "introduced_date": "2025-01-21",
     "session": "2026 Regular Session"
   },
   {
@@ -22255,6 +22293,36 @@
     "session": "2025-2026 General Assembly"
   },
   {
+    "id": 1902981,
+    "state": "NY",
+    "state_name": "New York",
+    "bill_number": "A00768",
+    "title": "Enacts the \"New York artificial intelligence consumer protection act\", in relation to preventing the use of artificial intelligence algorithms to discriminate against protected classes.",
+    "summary": "Enacts the \"New York artificial intelligence consumer protection act\", in relation to preventing the use of artificial intelligence algorithms to discriminate against protected classes.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NY/bill/A00768/2025",
+    "legiscan_url": "https://legiscan.com/NY/bill/A00768/2025",
+    "state_url": "https://www.nysenate.gov/legislation/bills/2025/A768",
+    "sponsors": [
+      "Alex Bores (D) [Rep]",
+      "Emerita Torres (D) [Rep]"
+    ],
+    "introduced_date": "2025-01-08",
+    "session": "2025-2026 General Assembly"
+  },
+  {
     "id": 2155421,
     "state": "US",
     "state_name": "Federal",
@@ -22304,36 +22372,6 @@
     ],
     "introduced_date": "2026-07-02",
     "session": "119th Congress"
-  },
-  {
-    "id": 1902981,
-    "state": "NY",
-    "state_name": "New York",
-    "bill_number": "A00768",
-    "title": "Enacts the \"New York artificial intelligence consumer protection act\", in relation to preventing the use of artificial intelligence algorithms to discriminate against protected classes.",
-    "summary": "Enacts the \"New York artificial intelligence consumer protection act\", in relation to preventing the use of artificial intelligence algorithms to discriminate against protected classes.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NY/bill/A00768/2025",
-    "legiscan_url": "https://legiscan.com/NY/bill/A00768/2025",
-    "state_url": "https://www.nysenate.gov/legislation/bills/2025/A768",
-    "sponsors": [
-      "Alex Bores (D) [Rep]",
-      "Emerita Torres (D) [Rep]"
-    ],
-    "introduced_date": "2025-01-08",
-    "session": "2025-2026 General Assembly"
   },
   {
     "id": 2053725,
@@ -23727,38 +23765,6 @@
     "session": "2025-2026 Regular Session"
   },
   {
-    "id": 2068149,
-    "state": "IN",
-    "state_name": "Indiana",
-    "bill_number": "HB1427",
-    "title": "Reporting on gender transition procedures.",
-    "summary": "Reporting on gender transition procedures. Requires practitioners who perform gender transition procedures to report on a quarterly basis certain information to the practitioner's regulating board concerning the gender transition procedures. Requires the submitted reports to be provided to the professional licensing agency (agency) to be compiled as an annual report. Requires the agency to post the annual report on the agency's website and submit the report to the general assembly.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/IN/bill/HB1427/2026",
-    "legiscan_url": "https://legiscan.com/IN/bill/HB1427/2026",
-    "state_url": "https://iga.in.gov/legislative/2026/bills/house/1427/details",
-    "sponsors": [
-      "Hunter Smith (R) [Rep]",
-      "Bradford Barrett (R) [Rep]",
-      "Julie McGuire (R) [Rep]",
-      "Martin Carbaugh (R) [Rep]"
-    ],
-    "introduced_date": "2026-01-08",
-    "session": "2026 Regular Session"
-  },
-  {
     "id": 2048843,
     "state": "OK",
     "state_name": "Oklahoma",
@@ -23796,6 +23802,38 @@
       "Warren Hamilton (R) [Sen]"
     ],
     "introduced_date": "2026-05-13",
+    "session": "2026 Regular Session"
+  },
+  {
+    "id": 2068149,
+    "state": "IN",
+    "state_name": "Indiana",
+    "bill_number": "HB1427",
+    "title": "Reporting on gender transition procedures.",
+    "summary": "Reporting on gender transition procedures. Requires practitioners who perform gender transition procedures to report on a quarterly basis certain information to the practitioner's regulating board concerning the gender transition procedures. Requires the submitted reports to be provided to the professional licensing agency (agency) to be compiled as an annual report. Requires the agency to post the annual report on the agency's website and submit the report to the general assembly.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/IN/bill/HB1427/2026",
+    "legiscan_url": "https://legiscan.com/IN/bill/HB1427/2026",
+    "state_url": "https://iga.in.gov/legislative/2026/bills/house/1427/details",
+    "sponsors": [
+      "Hunter Smith (R) [Rep]",
+      "Bradford Barrett (R) [Rep]",
+      "Julie McGuire (R) [Rep]",
+      "Martin Carbaugh (R) [Rep]"
+    ],
+    "introduced_date": "2026-01-08",
     "session": "2026 Regular Session"
   },
   {
@@ -24589,7 +24627,7 @@
       "Wendell Walker (R) [Rep]"
     ],
     "introduced_date": "2026-01-13",
-    "session": "2026 Regular Regular Session"
+    "session": "2026 Regular Session"
   },
   {
     "id": 2080411,
@@ -25857,7 +25895,7 @@
       "Tammy Brankley Mulchi (R) [Sen]"
     ],
     "introduced_date": "2026-01-14",
-    "session": "2026 Regular Regular Session"
+    "session": "2026 Regular Session"
   },
   {
     "id": 2075730,
@@ -26298,7 +26336,7 @@
       "Tim Griffin (R) [Rep]"
     ],
     "introduced_date": "2026-01-06",
-    "session": "2026 Regular Regular Session"
+    "session": "2026 Regular Session"
   },
   {
     "id": 1919966,
@@ -26565,7 +26603,7 @@
       "Mark Peake (R) [Sen]"
     ],
     "introduced_date": "2026-01-13",
-    "session": "2026 Regular Regular Session"
+    "session": "2026 Regular Session"
   },
   {
     "id": 1984917,

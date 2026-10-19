@@ -1,0 +1,57 @@
+{
+  "id": 2160232,
+  "state": "US",
+  "state_name": "Federal",
+  "bill_number": "HB10805",
+  "title": "Don\u2019t Block LGBTQ Act of 2026",
+  "summary": "To amend the Communications Act of 1934 to prohibit schools and public libraries that receive universal service support from blocking internet access to lesbian, gay, bisexual, transgender, and queer resources, and for other purposes.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "federal",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/US/bill/HB10805/2025",
+  "legiscan_url": "https://legiscan.com/US/bill/HB10805/2025",
+  "state_url": "https://www.congress.gov/bill/119th-congress/house-bill/10805/all-info",
+  "sponsors": [
+    "Bradley Schneider (D) [Rep]"
+  ],
+  "introduced_date": "2026-10-13",
+  "session": "119th Congress",
+  "actions": [
+    {
+      "date": "2026-10-13",
+      "action": "Introduced in House",
+      "chamber": "H"
+    },
+    {
+      "date": "2026-10-13",
+      "action": "Referred to the House Committee on Energy and Commerce.",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-10-14",
+      "type": "Introduced",
+      "url": "https://www.congress.gov/119/bills/hr10805/BILLS-119hr10805ih.pdf",
+      "doc_id": 3462421
+    }
+  ],
+  "committee": {
+    "committee_id": 2302,
+    "chamber": "H",
+    "chamber_id": 114,
+    "name": "Energy And Commerce"
+  },
+  "subjects": []
+}

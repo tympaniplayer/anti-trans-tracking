@@ -37,19 +37,19 @@
   "US": {
     "state": "US",
     "state_name": "Federal",
-    "total": 71,
+    "total": 72,
     "by_category": {
       "other": 47,
       "healthcare": 10,
-      "education": 7,
+      "education": 8,
       "sports": 7
     },
     "by_status": {
-      "introduced": 70,
+      "introduced": 71,
       "passed_one_chamber": 1
     },
     "by_sentiment": {
-      "neutral": 71
+      "neutral": 72
     }
   },
   "NJ": {
