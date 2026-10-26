@@ -2081,6 +2081,42 @@
     "session": "2025-2026 Regular Session"
   },
   {
+    "id": 2161245,
+    "state": "PA",
+    "state_name": "Pennsylvania",
+    "bill_number": "HR674",
+    "title": "Recognizing November 20, 2026, as \"Transgender Day of Remembrance\" in Pennsylvania.",
+    "summary": "A Resolution recognizing November 20, 2026, as \"Transgender Day of Remembrance\" in Pennsylvania.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/PA/bill/HR674/2025",
+    "legiscan_url": "https://legiscan.com/PA/bill/HR674/2025",
+    "state_url": "https://www.palegis.us/legislation/bills/2025/hr674",
+    "sponsors": [
+      "Nikki Rivera (D) [Rep]",
+      "Christopher Pielli (D) [Rep]",
+      "Jeanne McNeill (D) [Rep]",
+      "Emily Kinkead (D) [Rep]",
+      "Mary Isaacson (D) [Rep]",
+      "Ben Sanchez (D) [Rep]",
+      "Melissa Shusterman (D) [Rep]",
+      "Johanny Cepeda-Freytiz (D) [Rep]"
+    ],
+    "introduced_date": "2026-10-23",
+    "session": "2025-2026 Regular Session"
+  },
+  {
     "id": 2158496,
     "state": "US",
     "state_name": "Federal",
@@ -3523,7 +3559,8 @@
       "Robert Garcia (D) [Rep]",
       "Brittany Pettersen (D) [Rep]",
       "Richard Neal (D) [Rep]",
-      "Frederica Wilson (D) [Rep]"
+      "Frederica Wilson (D) [Rep]",
+      "Ayanna Pressley (D) [Rep]"
     ],
     "introduced_date": "2025-06-04",
     "session": "119th Congress"
@@ -4776,6 +4813,56 @@
     ],
     "introduced_date": "2026-06-01",
     "session": "2026-2027 Regular Session"
+  },
+  {
+    "id": 2161036,
+    "state": "PA",
+    "state_name": "Pennsylvania",
+    "bill_number": "HB2873",
+    "title": "In preliminary provisions, providing for nondiscrimination awareness and prevention policy.",
+    "summary": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in preliminary provisions, providing for nondiscrimination awareness and prevention policy.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "education"
+    ],
+    "primary_category": "education",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/PA/bill/HB2873/2025",
+    "legiscan_url": "https://legiscan.com/PA/bill/HB2873/2025",
+    "state_url": "https://www.palegis.us/legislation/bills/2025/hb2873",
+    "sponsors": [
+      "Nancy Guenst (D) [Rep]",
+      "Joseph Hohenstein (D) [Rep]",
+      "Ismail Smith-Wade-El (D) [Rep]",
+      "Paul Takac (D) [Rep]",
+      "Tarik Khan (D) [Rep]",
+      "Andre Carroll (D) [Rep]",
+      "Carol Hill-Evans (D) [Rep]",
+      "Tarah Probst (D) [Rep]",
+      "Heather Boyd (D) [Rep]",
+      "Benjamin Waxman (D) [Rep]",
+      "Maureen Madden (D) [Rep]",
+      "Malcolm Kenyatta (D) [Rep]",
+      "Danielle Otten (D) [Rep]",
+      "Ben Sanchez (D) [Rep]",
+      "Christopher Rabb (D) [Rep]",
+      "Kristine Howard (D) [Rep]",
+      "Danilo Burgos (D) [Rep]",
+      "Nikki Rivera (D) [Rep]",
+      "Robert Freeman (D) [Rep]",
+      "Melissa Cerrato (D) [Rep]",
+      "Michael Schlossberg (D) [Rep]",
+      "Rick Krajewski (D) [Rep]"
+    ],
+    "introduced_date": "2026-10-21",
+    "session": "2025-2026 Regular Session"
   },
   {
     "id": 1947275,
@@ -8379,7 +8466,8 @@
       "Kim Schrier (D) [Rep]",
       "Suzanne Lee (D) [Rep]",
       "Jake Auchincloss (D) [Rep]",
-      "Robert Menendez (D) [Rep]"
+      "Robert Menendez (D) [Rep]",
+      "Everton Blair Jr. (D) [Rep]"
     ],
     "introduced_date": "2025-09-17",
     "session": "119th Congress"
@@ -13735,6 +13823,35 @@
     "session": "2026 Regular Session"
   },
   {
+    "id": 1953649,
+    "state": "NY",
+    "state_name": "New York",
+    "bill_number": "A04427",
+    "title": "Prohibits the use of external consumer data and information sources being used when determining insurance rates; provides that no insurer shall unfairly discriminate based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; or use any external consumer data and information sources, as well as any algorithms or predictive models that use external consumer data and information sources, in a way that unfairly discriminates based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; makes related provisions; defines terms.",
+    "summary": "Prohibits the use of external consumer data and information sources being used when determining insurance rates; provides that no insurer shall unfairly discriminate based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; or use any external consumer data and information sources, as well as any algorithms or predictive models that use external consumer data and information sources, in a way that unfairly discriminates based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; makes related provisions; defines terms.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "definitions"
+    ],
+    "primary_category": "definitions",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NY/bill/A04427/2025",
+    "legiscan_url": "https://legiscan.com/NY/bill/A04427/2025",
+    "state_url": "https://www.nysenate.gov/legislation/bills/2025/A4427",
+    "sponsors": [
+      "Brian Cunningham (D) [Rep]"
+    ],
+    "introduced_date": "2025-02-04",
+    "session": "2025-2026 General Assembly"
+  },
+  {
     "id": 2069794,
     "state": "FL",
     "state_name": "Florida",
@@ -13764,35 +13881,6 @@
     ],
     "introduced_date": "2026-03-13",
     "session": "2026 Regular Session"
-  },
-  {
-    "id": 1953649,
-    "state": "NY",
-    "state_name": "New York",
-    "bill_number": "A04427",
-    "title": "Prohibits the use of external consumer data and information sources being used when determining insurance rates; provides that no insurer shall unfairly discriminate based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; or use any external consumer data and information sources, as well as any algorithms or predictive models that use external consumer data and information sources, in a way that unfairly discriminates based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; makes related provisions; defines terms.",
-    "summary": "Prohibits the use of external consumer data and information sources being used when determining insurance rates; provides that no insurer shall unfairly discriminate based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; or use any external consumer data and information sources, as well as any algorithms or predictive models that use external consumer data and information sources, in a way that unfairly discriminates based on race, color, national or ethnic origin, religion, sex, sexual orientation, disability, gender identity, or gender expression; makes related provisions; defines terms.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "definitions"
-    ],
-    "primary_category": "definitions",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NY/bill/A04427/2025",
-    "legiscan_url": "https://legiscan.com/NY/bill/A04427/2025",
-    "state_url": "https://www.nysenate.gov/legislation/bills/2025/A4427",
-    "sponsors": [
-      "Brian Cunningham (D) [Rep]"
-    ],
-    "introduced_date": "2025-02-04",
-    "session": "2025-2026 General Assembly"
   },
   {
     "id": 2090855,

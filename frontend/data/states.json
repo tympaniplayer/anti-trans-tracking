@@ -234,6 +234,26 @@
       "neutral": 28
     }
   },
+  "PA": {
+    "state": "PA",
+    "state_name": "Pennsylvania",
+    "total": 18,
+    "by_category": {
+      "other": 9,
+      "education": 2,
+      "religious_exemptions": 3,
+      "definitions": 3,
+      "healthcare": 1
+    },
+    "by_status": {
+      "introduced": 16,
+      "signed_into_law": 1,
+      "passed_one_chamber": 1
+    },
+    "by_sentiment": {
+      "neutral": 18
+    }
+  },
   "HI": {
     "state": "HI",
     "state_name": "Hawaii",
@@ -273,26 +293,6 @@
     },
     "by_sentiment": {
       "neutral": 62
-    }
-  },
-  "PA": {
-    "state": "PA",
-    "state_name": "Pennsylvania",
-    "total": 16,
-    "by_category": {
-      "other": 8,
-      "religious_exemptions": 3,
-      "definitions": 3,
-      "education": 1,
-      "healthcare": 1
-    },
-    "by_status": {
-      "introduced": 14,
-      "signed_into_law": 1,
-      "passed_one_chamber": 1
-    },
-    "by_sentiment": {
-      "neutral": 16
     }
   },
   "VT": {
