@@ -1461,6 +1461,43 @@
     "session": "194th General Court"
   },
   {
+    "id": 2161309,
+    "state": "DC",
+    "state_name": "District of Columbia",
+    "bill_number": "CER26-0235",
+    "title": "Transgender Day of Remembrance Recognition Resolution of 2026",
+    "summary": "Transgender Day of Remembrance Recognition Resolution of 2026",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/DC/bill/CER26-0235/2025",
+    "legiscan_url": "https://legiscan.com/DC/bill/CER26-0235/2025",
+    "state_url": "https://lims.dccouncil.gov/Legislation/CER26-0235",
+    "sponsors": [
+      "Robert White (D) [Sen]",
+      "Anita Bonds (D) [Sen]",
+      "Zachary Parker (D) [Sen]",
+      "Wendell Felder (D) [Sen]",
+      "Trayon White (D) [Sen]",
+      "Christina Henderson (I) [Sen]",
+      "Janeese Lewis George (D) [Sen]",
+      "Charles Allen (D) [Sen]",
+      "Phil Mendelson (D) [Sen]"
+    ],
+    "introduced_date": "2026-10-27",
+    "session": "26th Council"
+  },
+  {
     "id": 2053813,
     "state": "MA",
     "state_name": "Massachusetts",
@@ -2203,7 +2240,8 @@
       "Raja Krishnamoorthi (D) [Rep]",
       "Mark Pocan (D) [Rep]",
       "Lateefah Simon (D) [Rep]",
-      "Frederica Wilson (D) [Rep]"
+      "Frederica Wilson (D) [Rep]",
+      "Bonnie Coleman (D) [Rep]"
     ],
     "introduced_date": "2026-09-21",
     "session": "119th Congress"
@@ -5827,7 +5865,11 @@
       "Rashida Tlaib (D) [Rep]",
       "Melanie Stansbury (D) [Rep]",
       "Yvette Clarke (D) [Rep]",
-      "Raja Krishnamoorthi (D) [Rep]"
+      "Raja Krishnamoorthi (D) [Rep]",
+      "Ed Case (D) [Rep]",
+      "Frederica Wilson (D) [Rep]",
+      "Eleanor Norton (D) [Rep]",
+      "Lateefah Simon (D) [Rep]"
     ],
     "introduced_date": "2026-06-24",
     "session": "119th Congress"
@@ -8467,7 +8509,8 @@
       "Suzanne Lee (D) [Rep]",
       "Jake Auchincloss (D) [Rep]",
       "Robert Menendez (D) [Rep]",
-      "Everton Blair Jr. (D) [Rep]"
+      "Everton Blair Jr. (D) [Rep]",
+      "George Whitesides (D) [Rep]"
     ],
     "introduced_date": "2025-09-17",
     "session": "119th Congress"
@@ -11088,6 +11131,43 @@
     "session": "2026 Regular Session"
   },
   {
+    "id": 2126094,
+    "state": "RI",
+    "state_name": "Rhode Island",
+    "bill_number": "H7940",
+    "title": "Amends unfair discrimination statutes to encompass more protected categories and protect against additional forms of discrimination.",
+    "summary": "INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES - Amends unfair discrimination statutes to encompass more protected categories and protect against additional forms of discrimination.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/RI/bill/H7940/2026",
+    "legiscan_url": "https://legiscan.com/RI/bill/H7940/2026",
+    "state_url": "https://status.rilegislature.gov/",
+    "sponsors": [
+      "Rebecca Kislak (D) [Rep]",
+      "Edith Ajello (D) [Rep]",
+      "Jason Knight (D) [Rep]",
+      "Brandon Potter (D) [Rep]",
+      "Joshua Giraldo (D) [Rep]",
+      "Terri-Denise Cortvriend (D) [Rep]",
+      "Justine Caldwell (D) [Rep]",
+      "Hagan McEntee (D) [Rep]",
+      "Teresa Tanzi (D) [Rep]"
+    ],
+    "introduced_date": "2026-02-27",
+    "session": "2026 Regular Session"
+  },
+  {
     "id": 2059371,
     "state": "PA",
     "state_name": "Pennsylvania",
@@ -11131,43 +11211,6 @@
     ],
     "introduced_date": "2026-04-28",
     "session": "2025-2026 Regular Session"
-  },
-  {
-    "id": 2126094,
-    "state": "RI",
-    "state_name": "Rhode Island",
-    "bill_number": "H7940",
-    "title": "Amends unfair discrimination statutes to encompass more protected categories and protect against additional forms of discrimination.",
-    "summary": "INSURANCE -- ACCIDENT AND SICKNESS INSURANCE POLICIES - Amends unfair discrimination statutes to encompass more protected categories and protect against additional forms of discrimination.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/RI/bill/H7940/2026",
-    "legiscan_url": "https://legiscan.com/RI/bill/H7940/2026",
-    "state_url": "https://status.rilegislature.gov/",
-    "sponsors": [
-      "Rebecca Kislak (D) [Rep]",
-      "Edith Ajello (D) [Rep]",
-      "Jason Knight (D) [Rep]",
-      "Brandon Potter (D) [Rep]",
-      "Joshua Giraldo (D) [Rep]",
-      "Terri-Denise Cortvriend (D) [Rep]",
-      "Justine Caldwell (D) [Rep]",
-      "Hagan McEntee (D) [Rep]",
-      "Teresa Tanzi (D) [Rep]"
-    ],
-    "introduced_date": "2026-02-27",
-    "session": "2026 Regular Session"
   },
   {
     "id": 2055266,
@@ -17231,44 +17274,6 @@
     "session": "2026 Regular Session"
   },
   {
-    "id": 2062009,
-    "state": "HI",
-    "state_name": "Hawaii",
-    "bill_number": "HB758",
-    "title": "Relating To Sex-based Discrimination.",
-    "summary": "Clarifies and strengthens the State's protections against sex-based harassment, sex discrimination, and retaliation that occur in public schools, public charter schools, or at the University of Hawaii, including discrimination based on gender identity or expression, sexual orientation, pregnancy, and pregnancy-related conditions. Establishes procedures for investigations and decision-making. Requires mandatory reporting by certain employees.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "education"
-    ],
-    "primary_category": "education",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/HI/bill/HB758/2026",
-    "legiscan_url": "https://legiscan.com/HI/bill/HB758/2026",
-    "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=758&year=2026",
-    "sponsors": [
-      "Amy Perruso (D) [Rep]",
-      "Terez Amato (D) [Rep]",
-      "Della au Belatti (D) [Rep]",
-      "Tina Grandinetti (D) [Rep]",
-      "Kim Iwamoto (D) [Rep]",
-      "Lisa Marten (D) [Rep]",
-      "Daynette Morikawa (D) [Rep]",
-      "Mahina Poepoe (D) [Rep]",
-      "David Tarnas (D) [Rep]",
-      "Chris Todd (D) [Rep]"
-    ],
-    "introduced_date": "2025-01-21",
-    "session": "2026 Regular Session"
-  },
-  {
     "id": 1997415,
     "state": "MA",
     "state_name": "Massachusetts",
@@ -17384,6 +17389,44 @@
       "Joe Vogel (D) [Rep]"
     ],
     "introduced_date": "2026-01-27",
+    "session": "2026 Regular Session"
+  },
+  {
+    "id": 2062009,
+    "state": "HI",
+    "state_name": "Hawaii",
+    "bill_number": "HB758",
+    "title": "Relating To Sex-based Discrimination.",
+    "summary": "Clarifies and strengthens the State's protections against sex-based harassment, sex discrimination, and retaliation that occur in public schools, public charter schools, or at the University of Hawaii, including discrimination based on gender identity or expression, sexual orientation, pregnancy, and pregnancy-related conditions. Establishes procedures for investigations and decision-making. Requires mandatory reporting by certain employees.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "education"
+    ],
+    "primary_category": "education",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/HI/bill/HB758/2026",
+    "legiscan_url": "https://legiscan.com/HI/bill/HB758/2026",
+    "state_url": "https://www.capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=758&year=2026",
+    "sponsors": [
+      "Amy Perruso (D) [Rep]",
+      "Terez Amato (D) [Rep]",
+      "Della au Belatti (D) [Rep]",
+      "Tina Grandinetti (D) [Rep]",
+      "Kim Iwamoto (D) [Rep]",
+      "Lisa Marten (D) [Rep]",
+      "Daynette Morikawa (D) [Rep]",
+      "Mahina Poepoe (D) [Rep]",
+      "David Tarnas (D) [Rep]",
+      "Chris Todd (D) [Rep]"
+    ],
+    "introduced_date": "2025-01-21",
     "session": "2026 Regular Session"
   },
   {
@@ -22381,36 +22424,6 @@
     "session": "2025-2026 General Assembly"
   },
   {
-    "id": 1902981,
-    "state": "NY",
-    "state_name": "New York",
-    "bill_number": "A00768",
-    "title": "Enacts the \"New York artificial intelligence consumer protection act\", in relation to preventing the use of artificial intelligence algorithms to discriminate against protected classes.",
-    "summary": "Enacts the \"New York artificial intelligence consumer protection act\", in relation to preventing the use of artificial intelligence algorithms to discriminate against protected classes.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NY/bill/A00768/2025",
-    "legiscan_url": "https://legiscan.com/NY/bill/A00768/2025",
-    "state_url": "https://www.nysenate.gov/legislation/bills/2025/A768",
-    "sponsors": [
-      "Alex Bores (D) [Rep]",
-      "Emerita Torres (D) [Rep]"
-    ],
-    "introduced_date": "2025-01-08",
-    "session": "2025-2026 General Assembly"
-  },
-  {
     "id": 2155421,
     "state": "US",
     "state_name": "Federal",
@@ -22460,6 +22473,36 @@
     ],
     "introduced_date": "2026-07-02",
     "session": "119th Congress"
+  },
+  {
+    "id": 1902981,
+    "state": "NY",
+    "state_name": "New York",
+    "bill_number": "A00768",
+    "title": "Enacts the \"New York artificial intelligence consumer protection act\", in relation to preventing the use of artificial intelligence algorithms to discriminate against protected classes.",
+    "summary": "Enacts the \"New York artificial intelligence consumer protection act\", in relation to preventing the use of artificial intelligence algorithms to discriminate against protected classes.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NY/bill/A00768/2025",
+    "legiscan_url": "https://legiscan.com/NY/bill/A00768/2025",
+    "state_url": "https://www.nysenate.gov/legislation/bills/2025/A768",
+    "sponsors": [
+      "Alex Bores (D) [Rep]",
+      "Emerita Torres (D) [Rep]"
+    ],
+    "introduced_date": "2025-01-08",
+    "session": "2025-2026 General Assembly"
   },
   {
     "id": 2053725,
@@ -23853,6 +23896,38 @@
     "session": "2025-2026 Regular Session"
   },
   {
+    "id": 2068149,
+    "state": "IN",
+    "state_name": "Indiana",
+    "bill_number": "HB1427",
+    "title": "Reporting on gender transition procedures.",
+    "summary": "Reporting on gender transition procedures. Requires practitioners who perform gender transition procedures to report on a quarterly basis certain information to the practitioner's regulating board concerning the gender transition procedures. Requires the submitted reports to be provided to the professional licensing agency (agency) to be compiled as an annual report. Requires the agency to post the annual report on the agency's website and submit the report to the general assembly.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "healthcare"
+    ],
+    "primary_category": "healthcare",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/IN/bill/HB1427/2026",
+    "legiscan_url": "https://legiscan.com/IN/bill/HB1427/2026",
+    "state_url": "https://iga.in.gov/legislative/2026/bills/house/1427/details",
+    "sponsors": [
+      "Hunter Smith (R) [Rep]",
+      "Bradford Barrett (R) [Rep]",
+      "Julie McGuire (R) [Rep]",
+      "Martin Carbaugh (R) [Rep]"
+    ],
+    "introduced_date": "2026-01-08",
+    "session": "2026 Regular Session"
+  },
+  {
     "id": 2048843,
     "state": "OK",
     "state_name": "Oklahoma",
@@ -23890,38 +23965,6 @@
       "Warren Hamilton (R) [Sen]"
     ],
     "introduced_date": "2026-05-13",
-    "session": "2026 Regular Session"
-  },
-  {
-    "id": 2068149,
-    "state": "IN",
-    "state_name": "Indiana",
-    "bill_number": "HB1427",
-    "title": "Reporting on gender transition procedures.",
-    "summary": "Reporting on gender transition procedures. Requires practitioners who perform gender transition procedures to report on a quarterly basis certain information to the practitioner's regulating board concerning the gender transition procedures. Requires the submitted reports to be provided to the professional licensing agency (agency) to be compiled as an annual report. Requires the agency to post the annual report on the agency's website and submit the report to the general assembly.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "healthcare"
-    ],
-    "primary_category": "healthcare",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/IN/bill/HB1427/2026",
-    "legiscan_url": "https://legiscan.com/IN/bill/HB1427/2026",
-    "state_url": "https://iga.in.gov/legislative/2026/bills/house/1427/details",
-    "sponsors": [
-      "Hunter Smith (R) [Rep]",
-      "Bradford Barrett (R) [Rep]",
-      "Julie McGuire (R) [Rep]",
-      "Martin Carbaugh (R) [Rep]"
-    ],
-    "introduced_date": "2026-01-08",
     "session": "2026 Regular Session"
   },
   {

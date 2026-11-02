@@ -23,15 +23,16 @@
   "DC": {
     "state": "DC",
     "state_name": "District of Columbia",
-    "total": 2,
+    "total": 3,
     "by_category": {
-      "other": 2
+      "other": 3
     },
     "by_status": {
-      "signed_into_law": 2
+      "signed_into_law": 2,
+      "introduced": 1
     },
     "by_sentiment": {
-      "neutral": 2
+      "neutral": 3
     }
   },
   "US": {
