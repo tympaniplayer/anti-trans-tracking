@@ -506,7 +506,9 @@
       "Josh Gottheimer (D) [Rep]",
       "Angela Craig (D) [Rep]",
       "Ro Khanna (D) [Rep]",
-      "Adriano Espaillat (D) [Rep]"
+      "Adriano Espaillat (D) [Rep]",
+      "Raul Ruiz (D) [Rep]",
+      "Val Hoyle (D) [Rep]"
     ],
     "introduced_date": "2026-02-11",
     "session": "119th Congress"
@@ -1751,7 +1753,8 @@
       "Adam Smith (D) [Rep]",
       "Brittany Pettersen (D) [Rep]",
       "Frederica Wilson (D) [Rep]",
-      "Richard Neal (D) [Rep]"
+      "Richard Neal (D) [Rep]",
+      "Nancy Pelosi (D) [Rep]"
     ],
     "introduced_date": "2025-03-31",
     "session": "119th Congress"
@@ -3598,7 +3601,8 @@
       "Brittany Pettersen (D) [Rep]",
       "Richard Neal (D) [Rep]",
       "Frederica Wilson (D) [Rep]",
-      "Ayanna Pressley (D) [Rep]"
+      "Ayanna Pressley (D) [Rep]",
+      "Nancy Pelosi (D) [Rep]"
     ],
     "introduced_date": "2025-06-04",
     "session": "119th Congress"
@@ -22369,8 +22373,8 @@
     "state": "NJ",
     "state_name": "New Jersey",
     "bill_number": "A5496",
-    "title": "Regulates use of artificial intelligence in certain mortgage lending tools to minimize discrimination in lending.",
-    "summary": "Regulates use of artificial intelligence in certain mortgage lending tools to minimize discrimination in lending.",
+    "title": "Regulates use of artificial intelligence in certain mortgage lending decision tools to minimize discrimination in lending.",
+    "summary": "Regulates use of artificial intelligence in certain mortgage lending decision tools to minimize discrimination in lending.",
     "status": "introduced",
     "status_label": "Introduced",
     "status_code": 1,
@@ -22393,35 +22397,6 @@
     ],
     "introduced_date": "2026-09-14",
     "session": "2026-2027 Regular Session"
-  },
-  {
-    "id": 1917775,
-    "state": "NY",
-    "state_name": "New York",
-    "bill_number": "S01962",
-    "title": "Enacts the \"New York artificial intelligence consumer protection act\", in relation to preventing the use of artificial intelligence algorithms to discriminate against protected classes.",
-    "summary": "Enacts the \"New York artificial intelligence consumer protection act\", in relation to preventing the use of artificial intelligence algorithms to discriminate against protected classes.",
-    "status": "introduced",
-    "status_label": "Introduced",
-    "status_code": 1,
-    "categories": [
-      "other"
-    ],
-    "primary_category": "other",
-    "sentiment": "neutral",
-    "sentiment_label": "Neutral",
-    "relevant": true,
-    "level": "state",
-    "last_action_date": "",
-    "last_action": "",
-    "url": "https://legiscan.com/NY/bill/S01962/2025",
-    "legiscan_url": "https://legiscan.com/NY/bill/S01962/2025",
-    "state_url": "https://www.nysenate.gov/legislation/bills/2025/S1962",
-    "sponsors": [
-      "Kristen Gonzalez (D) [Sen]"
-    ],
-    "introduced_date": "2025-01-14",
-    "session": "2025-2026 General Assembly"
   },
   {
     "id": 2155421,
@@ -22473,6 +22448,35 @@
     ],
     "introduced_date": "2026-07-02",
     "session": "119th Congress"
+  },
+  {
+    "id": 1917775,
+    "state": "NY",
+    "state_name": "New York",
+    "bill_number": "S01962",
+    "title": "Enacts the \"New York artificial intelligence consumer protection act\", in relation to preventing the use of artificial intelligence algorithms to discriminate against protected classes.",
+    "summary": "Enacts the \"New York artificial intelligence consumer protection act\", in relation to preventing the use of artificial intelligence algorithms to discriminate against protected classes.",
+    "status": "introduced",
+    "status_label": "Introduced",
+    "status_code": 1,
+    "categories": [
+      "other"
+    ],
+    "primary_category": "other",
+    "sentiment": "neutral",
+    "sentiment_label": "Neutral",
+    "relevant": true,
+    "level": "state",
+    "last_action_date": "",
+    "last_action": "",
+    "url": "https://legiscan.com/NY/bill/S01962/2025",
+    "legiscan_url": "https://legiscan.com/NY/bill/S01962/2025",
+    "state_url": "https://www.nysenate.gov/legislation/bills/2025/S1962",
+    "sponsors": [
+      "Kristen Gonzalez (D) [Sen]"
+    ],
+    "introduced_date": "2025-01-14",
+    "session": "2025-2026 General Assembly"
   },
   {
     "id": 1902981,
