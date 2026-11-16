@@ -1,0 +1,57 @@
+{
+  "id": 2162490,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB805",
+  "title": "Relating to a task force to study the legal and societal barriers to equality for transgender persons.",
+  "summary": "Relating to a task force to study the legal and societal barriers to equality for transgender persons.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB805/2027",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB805/2027",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB805",
+  "sponsors": [
+    "Ron Reynolds (D) [Rep]"
+  ],
+  "introduced_date": "2026-11-09",
+  "session": "90th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2026-11-09",
+      "action": "Filed",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-11-09",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB00805I.htm",
+      "doc_id": 3465054
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Human Relations",
+    "State Agencies, Boards & Commissions",
+    "Governor",
+    "Interim Studies",
+    "GENDER IDENTITY & EXPRESSION",
+    "LIEUTENANT GOVERNOR",
+    "SPEAKER OF THE HOUSE",
+    "CIVIL RIGHTS DIVISION, TEXAS WORKFORCE COMMISSION",
+    "TRANSGENDER EQUALITY TASK FORCE"
+  ]
+}

@@ -28,8 +28,7 @@
       "other": 3
     },
     "by_status": {
-      "signed_into_law": 2,
-      "introduced": 1
+      "signed_into_law": 3
     },
     "by_sentiment": {
       "neutral": 3
@@ -277,23 +276,16 @@
   "TX": {
     "state": "TX",
     "state_name": "Texas",
-    "total": 62,
+    "total": 8,
     "by_category": {
-      "other": 21,
-      "identity_documents": 5,
-      "education": 17,
-      "definitions": 4,
-      "healthcare": 7,
-      "bathrooms": 5,
-      "sports": 3
+      "other": 7,
+      "education": 1
     },
     "by_status": {
-      "introduced": 57,
-      "signed_into_law": 2,
-      "passed_one_chamber": 3
+      "introduced": 8
     },
     "by_sentiment": {
-      "neutral": 62
+      "neutral": 8
     }
   },
   "VT": {

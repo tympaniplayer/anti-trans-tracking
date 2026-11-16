@@ -5,9 +5,9 @@
   "bill_number": "CER26-0235",
   "title": "Transgender Day of Remembrance Recognition Resolution of 2026",
   "summary": "Transgender Day of Remembrance Recognition Resolution of 2026",
-  "status": "introduced",
-  "status_label": "Introduced",
-  "status_code": 1,
+  "status": "signed_into_law",
+  "status_label": "Passed",
+  "status_code": 4,
   "categories": [
     "other"
   ],
@@ -30,9 +30,10 @@
     "Christina Henderson (I) [Sen]",
     "Janeese Lewis George (D) [Sen]",
     "Charles Allen (D) [Sen]",
-    "Phil Mendelson (D) [Sen]"
+    "Phil Mendelson (D) [Sen]",
+    "Brianne Nadeau (D) [Sen]"
   ],
-  "introduced_date": "2026-10-27",
+  "introduced_date": "2026-11-10",
   "session": "26th Council",
   "actions": [
     {
@@ -44,9 +45,27 @@
       "date": "2026-11-10",
       "action": "Retained by the Council",
       "chamber": "C"
+    },
+    {
+      "date": "2026-11-10",
+      "action": "Final Reading, CC",
+      "chamber": "C"
+    },
+    {
+      "date": "2026-11-10",
+      "action": "Approved with Resolution Number ACR26-0230",
+      "chamber": "C"
     }
   ],
-  "votes": [],
+  "votes": [
+    {
+      "date": "2026-11-10",
+      "description": "Final Reading, CC",
+      "yea": 13,
+      "nay": 0,
+      "passed": 1
+    }
+  ],
   "texts": [
     {
       "date": "2026-10-27",

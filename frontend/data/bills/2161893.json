@@ -1,0 +1,62 @@
+{
+  "id": 2161893,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB810",
+  "title": "Relating to the prohibition of certain discrimination based on sexual orientation or gender identity or expression; providing an administrative penalty.",
+  "summary": "Relating to the prohibition of certain discrimination based on sexual orientation or gender identity or expression; providing an administrative penalty.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB810/2027",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB810/2027",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB810",
+  "sponsors": [
+    "Ron Reynolds (D) [Rep]"
+  ],
+  "introduced_date": "2026-11-09",
+  "session": "90th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2026-11-09",
+      "action": "Filed",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-11-09",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB00810I.htm",
+      "doc_id": 3464527
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Civil Remedies & Liabilities",
+    "Housing",
+    "Housing--General",
+    "Labor",
+    "Labor--General",
+    "Labor--Management Relations",
+    "Purchasing",
+    "Purchasing--State",
+    "State Agencies, Boards & Commissions",
+    "State Employees",
+    "Human Relations",
+    "DISCRIMINATION",
+    "GENDER IDENTITY & EXPRESSION",
+    "SEXUAL ORIENTATION"
+  ]
+}

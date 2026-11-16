@@ -1,0 +1,58 @@
+{
+  "id": 2162862,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB174",
+  "title": "Relating to the prohibition of certain discrimination; authorizing civil penalties.",
+  "summary": "Relating to the prohibition of certain discrimination; authorizing civil penalties.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB174/2027",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB174/2027",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB174",
+  "sponsors": [
+    "Jessica Gonzalez (D) [Rep]"
+  ],
+  "introduced_date": "2026-11-09",
+  "session": "90th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2026-11-09",
+      "action": "Filed",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-11-09",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB00174I.htm",
+      "doc_id": 3465384
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Civil Remedies & Liabilities",
+    "Human Relations",
+    "Labor",
+    "Labor--General",
+    "Military & Veterans",
+    "DISCRIMINATION",
+    "GENDER IDENTITY & EXPRESSION",
+    "SEXUAL ORIENTATION",
+    "ATTORNEY GENERAL",
+    "WORKFORCE COMMISSION, TEXAS"
+  ]
+}

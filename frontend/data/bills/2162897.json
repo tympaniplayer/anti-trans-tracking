@@ -1,0 +1,57 @@
+{
+  "id": 2162897,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB154",
+  "title": "Relating to a criminal offense committed against a person because of bias or prejudice on the basis of sexual orientation or gender identity.",
+  "summary": "Relating to a criminal offense committed against a person because of bias or prejudice on the basis of sexual orientation or gender identity.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB154/2027",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB154/2027",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB154",
+  "sponsors": [
+    "Jose Menendez (D) [Sen]"
+  ],
+  "introduced_date": "2026-11-09",
+  "session": "90th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2026-11-09",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-11-09",
+      "action": "Filed",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-11-09",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/90R/billtext/html/SB00154I.htm",
+      "doc_id": 3465417
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Criminal Procedure",
+    "Criminal Procedure--General",
+    "GENDER IDENTITY & EXPRESSION",
+    "SEXUAL ORIENTATION"
+  ]
+}

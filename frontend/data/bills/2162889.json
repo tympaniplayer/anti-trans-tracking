@@ -1,0 +1,63 @@
+{
+  "id": 2162889,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB118",
+  "title": "Relating to unprofessional conduct by mental health providers who attempt to change the sexual orientation of a child.",
+  "summary": "Relating to unprofessional conduct by mental health providers who attempt to change the sexual orientation of a child.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "education"
+  ],
+  "primary_category": "education",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB118/2027",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB118/2027",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB118",
+  "sponsors": [
+    "Jose Menendez (D) [Sen]",
+    "Molly Cook (D) [Sen]",
+    "Roland Gutierrez (D) [Sen]"
+  ],
+  "introduced_date": "2026-11-09",
+  "session": "90th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2026-11-09",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-11-09",
+      "action": "Filed",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-11-09",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/90R/billtext/html/SB00118I.htm",
+      "doc_id": 3465409
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Mental Health & Substance Abuse",
+    "Minors",
+    "Minors--Health & Safety",
+    "Occupational Regulation",
+    "Occupational Regulation--Health Occupations",
+    "Occupational Regulation--Other Trades & Professions",
+    "GENDER IDENTITY & EXPRESSION",
+    "SEXUAL ORIENTATION"
+  ]
+}

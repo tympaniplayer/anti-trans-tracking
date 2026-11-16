@@ -1,0 +1,57 @@
+{
+  "id": 2162353,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "HB434",
+  "title": "Relating to the creation of a task force to evaluate the housing needs of senior citizens who are lesbian, gay, bisexual, transgender, queer, or questioning.",
+  "summary": "Relating to the creation of a task force to evaluate the housing needs of senior citizens who are lesbian, gay, bisexual, transgender, queer, or questioning.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/HB434/2027",
+  "legiscan_url": "https://legiscan.com/TX/bill/HB434/2027",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=HB434",
+  "sponsors": [
+    "Josey Garcia (D) [Rep]"
+  ],
+  "introduced_date": "2026-11-09",
+  "session": "90th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2026-11-09",
+      "action": "Filed",
+      "chamber": "H"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-11-09",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/90R/billtext/html/HB00434I.htm",
+      "doc_id": 3464936
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Aging",
+    "Governor",
+    "Housing",
+    "Housing--General",
+    "Interim Studies",
+    "Nursing Homes",
+    "LIEUTENANT GOVERNOR",
+    "SPEAKER OF THE HOUSE",
+    "HOUSE OF REPRESENTATIVES"
+  ]
+}

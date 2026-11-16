@@ -1,0 +1,59 @@
+{
+  "id": 2163301,
+  "state": "TX",
+  "state_name": "Texas",
+  "bill_number": "SB358",
+  "title": "Relating to preventing discrimination in foster care.",
+  "summary": "Relating to preventing discrimination in foster care.",
+  "status": "introduced",
+  "status_label": "Introduced",
+  "status_code": 1,
+  "categories": [
+    "other"
+  ],
+  "primary_category": "other",
+  "sentiment": "neutral",
+  "sentiment_label": "Neutral",
+  "relevant": true,
+  "level": "state",
+  "last_action_date": "",
+  "last_action": "",
+  "url": "https://legiscan.com/TX/bill/SB358/2027",
+  "legiscan_url": "https://legiscan.com/TX/bill/SB358/2027",
+  "state_url": "https://capitol.texas.gov/BillLookup/History.aspx?LegSess=90R&Bill=SB358",
+  "sponsors": [
+    "Molly Cook (D) [Sen]"
+  ],
+  "introduced_date": "2026-11-13",
+  "session": "90th Legislature Regular Session",
+  "actions": [
+    {
+      "date": "2026-11-13",
+      "action": "Received by the Secretary of the Senate",
+      "chamber": "S"
+    },
+    {
+      "date": "2026-11-13",
+      "action": "Filed",
+      "chamber": "S"
+    }
+  ],
+  "votes": [],
+  "texts": [
+    {
+      "date": "2026-11-13",
+      "type": "Introduced",
+      "url": "https://capitol.texas.gov/tlodocs/90R/billtext/html/SB00358I.htm",
+      "doc_id": 3465934
+    }
+  ],
+  "committee": [],
+  "subjects": [
+    "Family",
+    "Family--Child Protection",
+    "DISCRIMINATION",
+    "FOSTER CARE",
+    "FAMILY & PROTECTIVE SERVICES, DEPARTMENT OF",
+    "HEALTH & HUMAN SERVICES COMMISSION"
+  ]
+}

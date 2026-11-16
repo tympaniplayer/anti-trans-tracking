@@ -1,29 +1,29 @@
 {
-  "last_updated": "2026-11-09T15:11:00.040963+00:00",
-  "total_bills": 742,
+  "last_updated": "2026-11-16T14:46:49.395219+00:00",
+  "total_bills": 688,
   "total_states": 47,
   "by_category": {
-    "other": 373,
-    "healthcare": 106,
-    "education": 120,
-    "definitions": 50,
-    "bathrooms": 22,
-    "sports": 41,
-    "identity_documents": 19,
+    "other": 359,
+    "healthcare": 99,
+    "education": 104,
+    "definitions": 46,
+    "bathrooms": 17,
+    "sports": 38,
+    "identity_documents": 14,
     "religious_exemptions": 11
   },
   "by_status": {
-    "signed_into_law": 66,
-    "introduced": 560,
-    "passed_one_chamber": 51,
+    "signed_into_law": 65,
+    "introduced": 510,
+    "passed_one_chamber": 48,
     "dead": 53,
     "vetoed": 12
   },
   "by_level": {
-    "state": 670,
+    "state": 616,
     "federal": 72
   },
   "by_sentiment": {
-    "neutral": 742
+    "neutral": 688
   }
 }
